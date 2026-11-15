@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_20846945",
+  "type": "image",
+  "title": "Interface Palette",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "interface-palette",
+    "graphic-design",
+    "visual-culture",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-025c4d75525e95eda7bc58ad.png",
+      "mimeType": "image/png",
+      "alt": "Interface Palette",
+      "role": "original",
+      "bytes": 50469,
+      "sha256": "025c4d75525e95eda7bc58ada0456da7fc87c30b5b2e6b3776884b9ac79a9cf7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/20846945/original_49cf67223d0144316f0d3036c89f9bed.png",
+      "originalName": "49cf67223d0144316f0d3036c89f9bed.png"
+    },
+    {
+      "path": "assets/thumbnail-8af7ebef5202414ada0e1647.webp",
+      "mimeType": "image/webp",
+      "alt": "Interface Palette",
+      "role": "thumbnail",
+      "bytes": 6148,
+      "sha256": "8af7ebef5202414ada0e1647832c4fc406d7edd5abb458ef8e825222dd6baf15",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDg0Njk0NS9vcmlnaW5hbF80OWNmNjcyMjNkMDE0NDMxNmYwZDMwMzZjODlmOWJlZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "49cf67223d0144316f0d3036c89f9bed.png"
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-03-13T17:16:14.000Z",
+  "updatedAt": "2026-08-02T06:23:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_myers_briggs_foundation_by_parker.php",
+    "title": "Brand New: New Logo and Identity for Myers & Briggs Foundation by Parker",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 20846945,
+      "url": "https://www.are.na/block/20846945",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "myers_briggs_foundation_color_palette.png",
+      "createdAt": "2023-03-13T17:16:14Z",
+      "updatedAt": "2026-08-02T06:23:09Z",
+      "addedBy": {
+        "id": 259267,
+        "name": "Tanner Irwin",
+        "slug": "tanner-irwin"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "myers_briggs_foundation_color_palette.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Interface Palette",
+    "text": "Primary Palette\nWhite\n#EDEDED\nRGB: 237 / 237 / 237\nCMYK: 6 / 4 /4/0\nSecondary Palette\nDark Green\n#26330D\nRGB: 38 / 51 / 13\nCMYK: 71 / 53 / 89 / 65\nLight Green\n#D1E5B5\nRGB: 209 / 229 / 181\nCMYK: 19 / 0 / 36 / 0\nLight Grey\n#D6D6CF\nIndigo\n#29293B\nPink\n#F5D4D1\nRGB: 214 / 214 / 207\nCMYK: 15 / 11 / 16 / 0\nRGB: 41 / 41 / 59\nCMYK: 81 / 76 / 50 / 55\nRGB: 245 / 212 / 209\nCMYK: 2 / 19 / 11 / 0\nDark Grey\n#262626\nYellow\n#F5F5A8\nRed\n#B23333\nRGB: 38 / 38 / 38\nCMYK: 71 / 65 / 64 / 69\nRGB: 245 / 245 / 168\nCMYK: 5 / 0 / 42 / 0\nRGB: 178 / 51 / 51\nCMYK: 21 / 93 / 86 / 11\nBlack\n#00000\nLight Blue\n#99FOFA\nDark Blue\n#144D91\nRGB: 0 / 0/0\nCMYK: 75 / 68 / 67 / 90\nRGB: 153 / 240 / 250\nCMYK: 33 / 0 / 6 / 0\nRGB: 20 / 77 / 145\nCMYK: 99 / 79 / 13 / 2",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "025c4d75525e95eda7bc58ada0456da7fc87c30b5b2e6b3776884b9ac79a9cf7"
+  }
+}

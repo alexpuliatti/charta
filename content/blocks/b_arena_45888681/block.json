@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888681",
+  "type": "image",
+  "title": "Hell Solitude",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "hell-solitude",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3c202800ba42b5cfbf857c6c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Hell Solitude",
+      "role": "original",
+      "bytes": 508799,
+      "sha256": "3c202800ba42b5cfbf857c6c188d5707fa2f8e6844d8047ffcf9549e79a7dd9d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888681/original_ce6e1b38ec32c8da0923dbff1a827bc0.jpeg",
+      "originalName": "ce6e1b38ec32c8da0923dbff1a827bc0.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-6cdb9e9984d6e27d9b58dcfa.webp",
+      "mimeType": "image/webp",
+      "alt": "Hell Solitude",
+      "role": "thumbnail",
+      "bytes": 18038,
+      "sha256": "6cdb9e9984d6e27d9b58dcfae2b1351f9e6eea462e7a26c1488483d7f0fc5021",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY4MS9vcmlnaW5hbF9jZTZlMWIzOGVjMzJjOGRhMDkyM2RiZmYxYTgyN2JjMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ce6e1b38ec32c8da0923dbff1a827bc0.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-3c202800ba42b5cfbf857c6c-3c202800ba.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Hell Solitude",
+      "bytes": 267578,
+      "sha256": "153c342ffd338bd2d9ee0c1ca28ed92827a96eed30383a8e2b4d8a6b6ca4109b",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3c202800ba42b5cfbf857c6c.jpg",
+        "sourceSha256": "3c202800ba42b5cfbf857c6c188d5707fa2f8e6844d8047ffcf9549e79a7dd9d",
+        "originalBytes": 508799,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:54.000Z",
+  "updatedAt": "2026-05-06T12:25:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888681",
+    "title": "prototypepubs-20260317_133412-3838438957.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888681,
+      "url": "https://www.are.na/block/45888681",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "prototypepubs-20260317_133412-3838438957.jpg",
+      "createdAt": "2026-05-06T12:25:54Z",
+      "updatedAt": "2026-05-06T12:25:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "prototypepubs-20260317_133412-3838438957.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Hell Solitude",
+    "text": "Hell of Solitude:\nSelected Writings of\nRyünosuke Akutagawa\ntranslated by\nRyan Choi\nwith a foreword\nby Polly Barton\n16 April 2026\nprototypepublishing.co.uk\nWinner of an English PEN Award",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "153c342ffd338bd2d9ee0c1ca28ed92827a96eed30383a8e2b4d8a6b6ca4109b"
+  }
+}

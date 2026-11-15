@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473965",
+  "type": "link",
+  "title": "Neato Studio",
+  "description": "8 generative art and design tools in one app",
+  "category": "Graphic design",
+  "tags": [
+    "generative-art",
+    "design-tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-be5e4ab6c4502102f0fbe4e8.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio — Generative Design Tools",
+      "role": "thumbnail",
+      "bytes": 382,
+      "sha256": "be5e4ab6c4502102f0fbe4e857dd41a0e3c0cded5d5849db0717cea0830d49f9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk2NS9vcmlnaW5hbF9kNzQxZDg5ZDkyZWNhZDlhZGEyMjNmMTE5YTI4NjBiYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d741d89d92ecad9ada223f119a2860ba.png"
+    },
+    {
+      "path": "assets/preview-7c0f78d652ba5cd48ff55ad9.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio — Generative Design Tools",
+      "role": "preview",
+      "bytes": 3250,
+      "sha256": "7c0f78d652ba5cd48ff55ad9192c933a3b51c09b1fdecaf87e97a5de1f62dd0b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473965/original_d741d89d92ecad9ada223f119a2860ba.png",
+      "originalName": "d741d89d92ecad9ada223f119a2860ba.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 27573,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:37.000Z",
+  "updatedAt": "2026-05-25T10:58:42.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://studio.neato.fun/",
+    "title": "Studio — Generative Design Tools",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473965,
+      "url": "https://www.are.na/block/46473965",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Studio — Generative Design Tools",
+      "createdAt": "2026-05-25T10:58:37Z",
+      "updatedAt": "2026-05-25T10:58:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Studio — Generative Design Tools",
+      "category": "Tools and resources",
+      "tags": [
+        "creative-coding",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

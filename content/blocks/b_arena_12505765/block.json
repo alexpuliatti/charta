@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_12505765",
+  "type": "image",
+  "title": "Braun Systems",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "braun-systems",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1d4677790455525f87712faa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Braun Systems",
+      "role": "original",
+      "bytes": 83746,
+      "sha256": "1d4677790455525f87712faa17ec70677ee46c03e1c93331721374e881b4b531",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/12505765/original_ed819bbe5c48ad5c767bdb0225905eb5.jpg",
+      "originalName": "ed819bbe5c48ad5c767bdb0225905eb5.jpg"
+    },
+    {
+      "path": "assets/thumbnail-4473e995d9e611dabd3405db.webp",
+      "mimeType": "image/webp",
+      "alt": "Braun Systems",
+      "role": "thumbnail",
+      "bytes": 9392,
+      "sha256": "4473e995d9e611dabd3405db51a634d186cd2197ddc58f4551d4d6358ffe10f2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMjUwNTc2NS9vcmlnaW5hbF9lZDgxOWJiZTVjNDhhZDVjNzY3YmRiMDIyNTkwNWViNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ed819bbe5c48ad5c767bdb0225905eb5.jpg"
+    },
+    {
+      "path": "assets/display-web-original-1d4677790455525f87712faa-1d46777904.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Braun Systems",
+      "bytes": 54722,
+      "sha256": "8d8cae1b6960f0bfd226ca6dd73c218ddf118a3dca7b5fc281fcc76b1cf4305e",
+      "width": 900,
+      "height": 1272,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1d4677790455525f87712faa.jpg",
+        "sourceSha256": "1d4677790455525f87712faa17ec70677ee46c03e1c93331721374e881b4b531",
+        "originalBytes": 83746,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2021-07-11T11:52:08.000Z",
+  "updatedAt": "2026-10-10T02:19:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/12505765",
+    "title": "uploaded-by-user-vuotonulla-ui-physical47033d22fed36622d782d54f7c6adab0.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 12505765,
+      "url": "https://www.are.na/block/12505765",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "uploaded-by-user-vuotonulla-ui-physical47033d22fed36622d782d54f7c6adab0.jpg",
+      "createdAt": "2021-07-11T11:52:08Z",
+      "updatedAt": "2026-10-10T02:19:45Z",
+      "addedBy": {
+        "id": 180035,
+        "name": "mikkele ginzburg",
+        "slug": "mikkele-ginzburg"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "uploaded-by-user-vuotonulla-ui-physical47033d22fed36622d782d54f7c6adab0.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Braun Systems",
+    "text": "systems\nnice\nrechts D\nMates\noutom.\ntimer\n18•\n24 -\n- man +\nRoom\n350-1100\n301.-\n25 Nov-31 Dec\n2013\nBe 19..\nRE O\nreches O\nbatt.\nWalter Knoll\nShowroom\npause\nmatt\ncomputer\nmutiplay\nchrom\nen aus\nphons\nmittel\nmono\nrumpelt\nnadett\n- phono\n- 00+\nin 00.\n42 Charterhouse Square\nLondon EC 1M 6EA\n100\n102\n5104\n108-4\nBRAUn",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8d8cae1b6960f0bfd226ca6dd73c218ddf118a3dca7b5fc281fcc76b1cf4305e"
+  }
+}

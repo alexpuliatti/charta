@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_health_technology_biotech",
+  "title": "Biotech",
+  "description": "",
+  "order": 2,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_45897506"
+    },
+    {
+      "kind": "block",
+      "id": "b_res_e7224b6fa21049f096e495d96f834693"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45382687",
+  "type": "link",
+  "title": "Special Offer",
+  "description": "Special Offer, Inc. is a creative tech company focused on the growth of subculture through digital experience.",
+  "category": "Companies",
+  "tags": [
+    "creative-technology",
+    "digital-experience",
+    "subculture"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-55fa559842427347c6059c36.webp",
+      "mimeType": "image/webp",
+      "alt": "SPECIAL OFFER, Inc.",
+      "role": "thumbnail",
+      "bytes": 372,
+      "sha256": "55fa559842427347c6059c3649289916dcbb7bac80f313a5b74d2361d49a70a3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTM4MjY4Ny9vcmlnaW5hbF8zMjg1NDI3NjM1ZWM0MTk4N2FkYTE5ODgzZTY1YTYyNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3285427635ec41987ada19883e65a625.png"
+    },
+    {
+      "path": "assets/preview-06219e9a9c93c46ab8b52166.webp",
+      "mimeType": "image/webp",
+      "alt": "SPECIAL OFFER, Inc.",
+      "role": "preview",
+      "bytes": 318,
+      "sha256": "06219e9a9c93c46ab8b521668f51949570b3b8f7b710423fe9cffe0e36e09b7a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45382687/original_3285427635ec41987ada19883e65a625.png",
+      "originalName": "3285427635ec41987ada19883e65a625.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 24859,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-17T13:49:51.000Z",
+  "updatedAt": "2026-05-06T12:09:56.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.special-offer.studio/",
+    "title": "SPECIAL OFFER, Inc.",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45382687,
+      "url": "https://www.are.na/block/45382687",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "SPECIAL OFFER, Inc.",
+      "createdAt": "2026-04-17T13:49:51Z",
+      "updatedAt": "2026-05-06T12:09:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "SPECIAL OFFER, Inc.",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "information-design",
+        "visual-research",
+        "interaction-design",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_4403184",
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

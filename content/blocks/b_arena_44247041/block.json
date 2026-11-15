@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247041",
+  "type": "image",
+  "title": "Agnes Martin",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "agnes-martin",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f72d36ee197a5c8d4673daa0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Agnes Martin",
+      "role": "original",
+      "bytes": 12015,
+      "sha256": "f72d36ee197a5c8d4673daa056452585b198947e23a4c1bb4ddcaf5baac978e2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247041/original_15397891d271d8f7a53dcff79a4a7771.jpg",
+      "originalName": "15397891d271d8f7a53dcff79a4a7771.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5e33595690f6d10d189ca036.webp",
+      "mimeType": "image/webp",
+      "alt": "Agnes Martin",
+      "role": "thumbnail",
+      "bytes": 3200,
+      "sha256": "5e33595690f6d10d189ca0362a719e68e6b189ce25813e3a46bb2fb26328d940",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0MS9vcmlnaW5hbF8xNTM5Nzg5MWQyNzFkOGY3YTUzZGNmZjc5YTRhNzc3MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "15397891d271d8f7a53dcff79a4a7771.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f72d36ee197a5c8d4673daa0-f72d36ee19.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Agnes Martin",
+      "bytes": 8834,
+      "sha256": "04202a1c2ea1754bc0b277275e42c64f6f4d467896be3a92ed262a156dfa0454",
+      "width": 358,
+      "height": 512,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f72d36ee197a5c8d4673daa0.jpg",
+        "sourceSha256": "f72d36ee197a5c8d4673daa056452585b198947e23a4c1bb4ddcaf5baac978e2",
+        "originalBytes": 12015,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247041",
+    "title": "c047497d9e08b0a8f222aec22b512ecd.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247041,
+      "url": "https://www.are.na/block/44247041",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c047497d9e08b0a8f222aec22b512ecd.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c047497d9e08b0a8f222aec22b512ecd.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Agnes Martin",
+    "text": "Agnes Martin\nPaintingsand drovings 195335\n2 Manch-24 April 1977\nHaywand Galkry Lorkn",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "04202a1c2ea1754bc0b277275e42c64f6f4d467896be3a92ed262a156dfa0454"
+  }
+}

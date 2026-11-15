@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890000",
+  "type": "image",
+  "title": "Semiotic Standard",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "semiotic-standard",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d3732ce2b04cc63d63fe4f76.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Semiotic Standard",
+      "role": "original",
+      "bytes": 79711,
+      "sha256": "d3732ce2b04cc63d63fe4f761434ad65af640efcd2ccd6db1dab2566b5da2897",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890000/original_04ed3600f07f75dc51323b0c5a5ac612.jpeg",
+      "originalName": "04ed3600f07f75dc51323b0c5a5ac612.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-fdb53d3dfbb1186ca945dfc6.webp",
+      "mimeType": "image/webp",
+      "alt": "Semiotic Standard",
+      "role": "thumbnail",
+      "bytes": 21046,
+      "sha256": "fdb53d3dfbb1186ca945dfc6add4c77b4d31a795201777b66cb728d19e8784a2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAwMC9vcmlnaW5hbF8wNGVkMzYwMGYwN2Y3NWRjNTEzMjNiMGM1YTVhYzYxMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "04ed3600f07f75dc51323b0c5a5ac612.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-d3732ce2b04cc63d63fe4f76-d3732ce2b0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Semiotic Standard",
+      "bytes": 48150,
+      "sha256": "e8c8b218bbbd59b85fad29dbf67babf8ce797f252a3dc440dbdb466a04dfba09",
+      "width": 560,
+      "height": 407,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d3732ce2b04cc63d63fe4f76.jpg",
+        "sourceSha256": "d3732ce2b04cc63d63fe4f761434ad65af640efcd2ccd6db1dab2566b5da2897",
+        "originalBytes": 79711,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:19:14.000Z",
+  "updatedAt": "2026-05-06T13:19:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890000",
+    "title": "alien_semiotic_01.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890000,
+      "url": "https://www.are.na/block/45890000",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "alien_semiotic_01.jpg",
+      "createdAt": "2026-05-06T13:19:14Z",
+      "updatedAt": "2026-05-06T13:19:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "alien_semiotic_01.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Semiotic Standard",
+    "text": "*TXO\nSEMIOTIC STANDARD",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e8c8b218bbbd59b85fad29dbf67babf8ce797f252a3dc440dbdb466a04dfba09"
+  }
+}

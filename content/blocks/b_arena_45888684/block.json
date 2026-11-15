@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888684",
+  "type": "image",
+  "title": "Mirrored Stars",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "mirrored-stars",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-813433e24103c68f0a221f94.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Mirrored Stars",
+      "role": "original",
+      "bytes": 120264,
+      "sha256": "813433e24103c68f0a221f9467b0ed22961141cc777da3f072e748a9fe4338da",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888684/original_47258b1bf05504ef597544892a3f626c.jpeg",
+      "originalName": "47258b1bf05504ef597544892a3f626c.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0c775a1adcf52b509ff7d3a1.webp",
+      "mimeType": "image/webp",
+      "alt": "Mirrored Stars",
+      "role": "thumbnail",
+      "bytes": 5560,
+      "sha256": "0c775a1adcf52b509ff7d3a1370825bc5a2cfde7df97a71c2d17c13e7f47272b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY4NC9vcmlnaW5hbF80NzI1OGIxYmYwNTUwNGVmNTk3NTQ0ODkyYTNmNjI2Yy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "47258b1bf05504ef597544892a3f626c.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-813433e24103c68f0a221f94-813433e241.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mirrored Stars",
+      "bytes": 86852,
+      "sha256": "0e9fbdb490e81dd4fc24ee1d25c564af9f0a00e643ceecfd2c0cff44bf9896b9",
+      "width": 1500,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-813433e24103c68f0a221f94.jpg",
+        "sourceSha256": "813433e24103c68f0a221f9467b0ed22961141cc777da3f072e748a9fe4338da",
+        "originalBytes": 120264,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:59.000Z",
+  "updatedAt": "2026-05-06T12:26:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888684",
+    "title": "original_fc578f7a7b3076a87a343c4ac3a21abc.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888684,
+      "url": "https://www.are.na/block/45888684",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_fc578f7a7b3076a87a343c4ac3a21abc.jpg",
+      "createdAt": "2026-05-06T12:25:59Z",
+      "updatedAt": "2026-05-06T12:26:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_fc578f7a7b3076a87a343c4ac3a21abc.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mirrored Stars",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0e9fbdb490e81dd4fc24ee1d25c564af9f0a00e643ceecfd2c0cff44bf9896b9"
+  }
+}

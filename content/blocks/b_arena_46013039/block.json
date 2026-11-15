@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46013039",
+  "type": "video",
+  "title": "Blender Modelling",
+  "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "blender-modelling",
+    "audio-hardware",
+    "3d-design",
+    "video",
+    "music",
+    "moving-image",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f3da670ff0b577d742a53bae.webp",
+      "mimeType": "image/webp",
+      "alt": "Blender Modelling",
+      "role": "thumbnail",
+      "bytes": 5482,
+      "sha256": "f3da670ff0b577d742a53baeab3b441824f9fd8427e43acc3546e9c9459a6813",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxMzAzOS9vcmlnaW5hbF9jOWI5YjAwY2ZmZDg0ZWJiNzcyZjg1Mjk1YjZiNTExNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c9b9b00cffd84ebb772f85295b6b5117.jpeg"
+    },
+    {
+      "path": "assets/preview-6339178539be0e45699ab9aa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "low poly speaker in blender",
+      "role": "preview",
+      "bytes": 7891,
+      "sha256": "6339178539be0e45699ab9aaf3ee7f2d9ab099f11d6cd9ccecf04b9406743780",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46013039/original_c9b9b00cffd84ebb772f85295b6b5117.jpeg",
+      "originalName": "c9b9b00cffd84ebb772f85295b6b5117.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T12:08:13.000Z",
+  "updatedAt": "2026-05-11T12:08:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.youtube.com/shorts/ZOxeXsuImJg",
+    "title": "How To Make A Low Poly Speaker In Blender Fast #blender #tutorial #shorts",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "embedUrl": "https://www.youtube.com/shorts/ZOxeXsuImJg",
+    "arena": {
+      "id": 46013039,
+      "url": "https://www.are.na/block/46013039",
+      "type": "Embed",
+      "visibility": "public",
+      "originalTitle": "low poly speaker in blender",
+      "createdAt": "2026-05-11T12:08:13Z",
+      "updatedAt": "2026-05-11T12:08:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "low poly speaker in blender",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "3d-design",
+        "video",
+        "music",
+        "moving-image",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blender Modelling",
+    "text": "9+-0.25\nX + Delete Faces\neS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f3da670ff0b577d742a53baeab3b441824f9fd8427e43acc3546e9c9459a6813"
+  }
+}

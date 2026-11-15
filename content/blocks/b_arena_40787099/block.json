@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787099",
+  "type": "image",
+  "title": "Plywood Speaker",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "plywood-speaker",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0f0093e68469912fdac8cb86.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Plywood Speaker",
+      "role": "original",
+      "bytes": 266693,
+      "sha256": "0f0093e68469912fdac8cb8676fc1ec7e9edafb3e2a1219f6ea6ab415f7fbd35",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787099/original_57c68f12a5d81954d1887376a593c8fc.jpg",
+      "originalName": "57c68f12a5d81954d1887376a593c8fc.jpg"
+    },
+    {
+      "path": "assets/thumbnail-b920aa3489ab5a6e0e021dce.webp",
+      "mimeType": "image/webp",
+      "alt": "Plywood Speaker",
+      "role": "thumbnail",
+      "bytes": 19394,
+      "sha256": "b920aa3489ab5a6e0e021dce4aec6befc2e1d623842901e465873631e178651d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzA5OS9vcmlnaW5hbF81N2M2OGYxMmE1ZDgxOTU0ZDE4ODczNzZhNTkzYzhmYy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "57c68f12a5d81954d1887376a593c8fc.jpg"
+    },
+    {
+      "path": "assets/display-web-original-0f0093e68469912fdac8cb86-0f0093e684.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Plywood Speaker",
+      "bytes": 263134,
+      "sha256": "9e0fef226e09ec6683aa271dd117bd86e342417888b538adef2c80835dfab0cc",
+      "width": 1228,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0f0093e68469912fdac8cb86.jpg",
+        "sourceSha256": "0f0093e68469912fdac8cb8676fc1ec7e9edafb3e2a1219f6ea6ab415f7fbd35",
+        "originalBytes": 266693,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:34.000Z",
+  "updatedAt": "2025-11-02T15:26:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787099",
+    "title": "a.for.ara-20250428_160942-2194046352.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787099,
+      "url": "https://www.are.na/block/40787099",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a.for.ara-20250428_160942-2194046352.jpg",
+      "createdAt": "2025-11-02T15:26:34Z",
+      "updatedAt": "2025-11-02T15:26:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a.for.ara-20250428_160942-2194046352.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Plywood Speaker",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9e0fef226e09ec6683aa271dd117bd86e342417888b538adef2c80835dfab0cc"
+  }
+}

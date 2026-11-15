@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247040",
+  "type": "image",
+  "title": "Thread Drawing",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "thread-drawing",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2556f6c02791775caf96efcf.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Thread Drawing",
+      "role": "original",
+      "bytes": 46983,
+      "sha256": "2556f6c02791775caf96efcf6eefba0477e30d4a802733479c35a948ea0fc226",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247040/original_db17abd09900705199274b962004a805.jpg",
+      "originalName": "db17abd09900705199274b962004a805.jpg"
+    },
+    {
+      "path": "assets/thumbnail-836e418a5c30e113d706332e.webp",
+      "mimeType": "image/webp",
+      "alt": "Thread Drawing",
+      "role": "thumbnail",
+      "bytes": 2430,
+      "sha256": "836e418a5c30e113d706332ebd15507df15f5ada70649ef586ba59d27bf32f27",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0MC9vcmlnaW5hbF9kYjE3YWJkMDk5MDA3MDUxOTkyNzRiOTYyMDA0YTgwNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "db17abd09900705199274b962004a805.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2556f6c02791775caf96efcf-2556f6c027.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Thread Drawing",
+      "bytes": 30936,
+      "sha256": "9d52644cde3acdb382811cc22024bfa4052ce7e1a5f4787a7d388eb51eb9f839",
+      "width": 800,
+      "height": 543,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2556f6c02791775caf96efcf.jpg",
+        "sourceSha256": "2556f6c02791775caf96efcf6eefba0477e30d4a802733479c35a948ea0fc226",
+        "originalBytes": 46983,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247040",
+    "title": "c9c8032b857e6ac9d2ada7924f3403a8.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247040,
+      "url": "https://www.are.na/block/44247040",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c9c8032b857e6ac9d2ada7924f3403a8.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c9c8032b857e6ac9d2ada7924f3403a8.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Thread Drawing",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9d52644cde3acdb382811cc22024bfa4052ce7e1a5f4787a7d388eb51eb9f839"
+  }
+}

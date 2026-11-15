@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44241166",
+  "type": "link",
+  "title": "Agent Skills",
+  "description": "Discover and install skills for AI agents.",
+  "category": "Technology",
+  "tags": [
+    "ai-agents",
+    "skills",
+    "developer-tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9fed6b85d195e40764cc9008.webp",
+      "mimeType": "image/webp",
+      "alt": "The Agent Skills Directory",
+      "role": "thumbnail",
+      "bytes": 8446,
+      "sha256": "9fed6b85d195e40764cc90087a5f3596fd2b4bdacb8429c22583daaa5c7f3124",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0MTE2Ni9vcmlnaW5hbF9mNTZlNGU4ODJkZTRiNTc0ZDJiNWY3YjkyMTFhZGIyOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f56e4e882de4b574d2b5f7b9211adb28.png"
+    },
+    {
+      "path": "assets/preview-d03b9eb148b68017bec975f2.webp",
+      "mimeType": "image/webp",
+      "alt": "The Agent Skills Directory",
+      "role": "preview",
+      "bytes": 79884,
+      "sha256": "d03b9eb148b68017bec975f26088a18364b3fd9212d9c205953fffd9c07d5921",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44241166/original_f56e4e882de4b574d2b5f7b9211adb28.png",
+      "originalName": "f56e4e882de4b574d2b5f7b9211adb28.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 270777,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T17:27:36.000Z",
+  "updatedAt": "2026-03-08T17:27:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://skills.sh/hot",
+    "title": "The Agent Skills Directory",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44241166,
+      "url": "https://www.are.na/block/44241166",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "The Agent Skills Directory",
+      "createdAt": "2026-03-08T17:27:36Z",
+      "updatedAt": "2026-03-08T17:27:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "The Agent Skills Directory",
+      "category": "Information design",
+      "tags": [
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

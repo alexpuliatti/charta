@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_graphic_design_information_design",
+  "title": "Information design",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47579123"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247991"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247864"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46177863"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45942214"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45942215"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889999"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890000"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889752"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888719"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888607"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888585"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888528"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888452"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888444"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44498052"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340259"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340261"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340233"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995932"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_10415359"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

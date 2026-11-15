@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701043",
+  "type": "image",
+  "title": "Moving Target",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "moving-target",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-de4b2e3b7b90d677781c0c27.png",
+      "mimeType": "image/png",
+      "alt": "Moving Target",
+      "role": "original",
+      "bytes": 1258720,
+      "sha256": "de4b2e3b7b90d677781c0c2721829d1ef9cb91a5318fe05e4946c908f66bfc30",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701043/original_0e5c1688d05f4765c6ab56ee5c975eee.png",
+      "originalName": "0e5c1688d05f4765c6ab56ee5c975eee.png"
+    },
+    {
+      "path": "assets/thumbnail-2c107b4c670d4c591bc2a497.webp",
+      "mimeType": "image/webp",
+      "alt": "Moving Target",
+      "role": "thumbnail",
+      "bytes": 11478,
+      "sha256": "2c107b4c670d4c591bc2a4977a95a7bae8b29b0aef066fe79f9ba3d7ec5a0ac5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0My9vcmlnaW5hbF8wZTVjMTY4OGQwNWY0NzY1YzZhYjU2ZWU1Yzk3NWVlZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0e5c1688d05f4765c6ab56ee5c975eee.png"
+    },
+    {
+      "path": "assets/display-web-original-de4b2e3b7b90d677781c0c27-de4b2e3b7b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Moving Target",
+      "bytes": 80560,
+      "sha256": "836a4bc502a2ac7838ffd698ffc0347caf39a4bde3deb1d064718e4884f10827",
+      "width": 1008,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-de4b2e3b7b90d677781c0c27.png",
+        "sourceSha256": "de4b2e3b7b90d677781c0c2721829d1ef9cb91a5318fe05e4946c908f66bfc30",
+        "originalBytes": 1258720,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:36.000Z",
+  "updatedAt": "2026-07-08T14:56:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701043",
+    "title": "Screenshot 2023-09-12 alle 17.05.37",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701043,
+      "url": "https://www.are.na/block/47701043",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.05.37",
+      "createdAt": "2026-07-08T14:56:36Z",
+      "updatedAt": "2026-07-08T14:56:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.05.37",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Moving Target",
+    "text": "THE\nMOVING\nARGET\nJohn\nMadonald\nFORTO,\nTHE\nTARGET\na novel\nSuspense\nJohn Macdonald",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "836a4bc502a2ac7838ffd698ffc0347caf39a4bde3deb1d064718e4884f10827"
+  }
+}

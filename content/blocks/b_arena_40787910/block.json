@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787910",
+  "type": "image",
+  "title": "Circular Portal",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "circular-portal",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c798ba60deff28167ea27890.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Circular Portal",
+      "role": "original",
+      "bytes": 371718,
+      "sha256": "c798ba60deff28167ea2789085a91dcc04d11dc44985ad024a0904d48bbb1aa2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787910/original_2b99d2a0ddb8d1ec92c9c38a9af8714d.jpg",
+      "originalName": "2b99d2a0ddb8d1ec92c9c38a9af8714d.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6bb274045a4979d8cc9c86d5.webp",
+      "mimeType": "image/webp",
+      "alt": "Circular Portal",
+      "role": "thumbnail",
+      "bytes": 6826,
+      "sha256": "6bb274045a4979d8cc9c86d571585e3aecb0816d2f78694a4593368f4b5b4707",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkxMC9vcmlnaW5hbF8yYjk5ZDJhMGRkYjhkMWVjOTJjOWMzOGE5YWY4NzE0ZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2b99d2a0ddb8d1ec92c9c38a9af8714d.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c798ba60deff28167ea27890-c798ba60de.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circular Portal",
+      "bytes": 139758,
+      "sha256": "a1da5c4b93759acb4a0848a205fdf2c761284e3a4529c150139f21dd8fe69312",
+      "width": 1440,
+      "height": 1777,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c798ba60deff28167ea27890.jpg",
+        "sourceSha256": "c798ba60deff28167ea2789085a91dcc04d11dc44985ad024a0904d48bbb1aa2",
+        "originalBytes": 371718,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:04:49.000Z",
+  "updatedAt": "2025-11-02T16:04:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787910",
+    "title": "industrialkonzept-20250107_095024-3029729711.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787910,
+      "url": "https://www.are.na/block/40787910",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20250107_095024-3029729711.jpg",
+      "createdAt": "2025-11-02T16:04:49Z",
+      "updatedAt": "2025-11-02T16:04:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20250107_095024-3029729711.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circular Portal",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a1da5c4b93759acb4a0848a205fdf2c761284e3a4529c150139f21dd8fe69312"
+  }
+}

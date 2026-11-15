@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701036",
+  "type": "image",
+  "title": "Sad Cypress",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "sad-cypress",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f0483e1acfe4527a3bcb52bf.png",
+      "mimeType": "image/png",
+      "alt": "Sad Cypress",
+      "role": "original",
+      "bytes": 2013341,
+      "sha256": "f0483e1acfe4527a3bcb52bffd072e2da144473794514804037584518fd7810a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701036/original_6d4fd83de6e19ee92d2ef7d55813c0d3.png",
+      "originalName": "6d4fd83de6e19ee92d2ef7d55813c0d3.png"
+    },
+    {
+      "path": "assets/thumbnail-21ebb04d5954c3692c104a21.webp",
+      "mimeType": "image/webp",
+      "alt": "Sad Cypress",
+      "role": "thumbnail",
+      "bytes": 4282,
+      "sha256": "21ebb04d5954c3692c104a218149120bdedeb50dfd4f12aeddbe26b2a489da6a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAzNi9vcmlnaW5hbF82ZDRmZDgzZGU2ZTE5ZWU5MmQyZWY3ZDU1ODEzYzBkMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6d4fd83de6e19ee92d2ef7d55813c0d3.png"
+    },
+    {
+      "path": "assets/display-web-original-f0483e1acfe4527a3bcb52bf-f0483e1acf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sad Cypress",
+      "bytes": 38854,
+      "sha256": "846e28e817286dca8a7c13149cd47ec2aabc9eab5de2d8e1afe103b8572f3e11",
+      "width": 1088,
+      "height": 1408,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f0483e1acfe4527a3bcb52bf.png",
+        "sourceSha256": "f0483e1acfe4527a3bcb52bffd072e2da144473794514804037584518fd7810a",
+        "originalBytes": 2013341,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:29.000Z",
+  "updatedAt": "2026-07-08T14:56:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701036",
+    "title": "Screenshot 2023-09-12 alle 17.04.47",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701036,
+      "url": "https://www.are.na/block/47701036",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.04.47",
+      "createdAt": "2026-07-08T14:56:29Z",
+      "updatedAt": "2026-07-08T14:56:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.04.47",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sad Cypress",
+    "text": "SAD CYPRESS\nby\nAGATHA CHRISTIE\nPublished for\nTHE CRIME CLUB\nby COLLINS 48 PALL MALL\nLONDON",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "846e28e817286dca8a7c13149cd47ec2aabc9eab5de2d8e1afe103b8572f3e11"
+  }
+}

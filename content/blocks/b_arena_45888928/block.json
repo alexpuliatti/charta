@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888928",
+  "type": "video",
+  "title": "Desert Figure",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "desert-figure",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-165e0b19fbeef1adee90aee7.mp4",
+      "mimeType": "video/mp4",
+      "alt": "sambafilms-20241227_155021-1066213138.mp4",
+      "role": "original",
+      "bytes": 1587695,
+      "sha256": "165e0b19fbeef1adee90aee7f63d325e9e167b80a6433ca5f720bf5fd7fbc7ca",
+      "sourceUrl": "https://attachments.are.na/45888928/0499f9a7bfa330b972a3c0a0710db9c1.mp4",
+      "originalName": "0499f9a7bfa330b972a3c0a0710db9c1.mp4"
+    },
+    {
+      "path": "assets/thumbnail-37e4ba637c754ad60862e517.webp",
+      "mimeType": "image/webp",
+      "alt": "Desert Figure",
+      "role": "thumbnail",
+      "bytes": 3946,
+      "sha256": "37e4ba637c754ad60862e517efafabe83b134eec0daa71bf1ffa0cc476f83228",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODkyOC9vcmlnaW5hbF9hMTZlMmQ5ZjljODA5ODc3MjAyNjA1MDYtMi16Z3k5OGsucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a16e2d9f9c80987720260506-2-zgy98k.png"
+    },
+    {
+      "path": "assets/display-web-original-165e0b19fbeef1adee90aee7-165e0b19fb.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "sambafilms-20241227_155021-1066213138.mp4",
+      "bytes": 1299701,
+      "sha256": "986ee284318fc36805fcad655a10dc34f1b46b32a20d53c5d615c6283655e204",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-165e0b19fbeef1adee90aee7.mp4",
+        "sourceSha256": "165e0b19fbeef1adee90aee7f63d325e9e167b80a6433ca5f720bf5fd7fbc7ca",
+        "originalBytes": 1587695,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-51e792a5a6518a6cc5bba00a.webp",
+      "mimeType": "image/webp",
+      "alt": "sambafilms-20241227_155021-1066213138.mp4",
+      "role": "preview",
+      "bytes": 74436,
+      "sha256": "51e792a5a6518a6cc5bba00a001603d2a27ff10571f4bfec0409cc5876f8ec63",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888928/original_a16e2d9f9c80987720260506-2-zgy98k.png",
+      "originalName": "a16e2d9f9c80987720260506-2-zgy98k.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 692391,
+        "width": 1278,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:35:48.000Z",
+  "updatedAt": "2026-05-06T12:35:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888928",
+    "title": "sambafilms-20241227_155021-1066213138.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888928,
+      "url": "https://www.are.na/block/45888928",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "sambafilms-20241227_155021-1066213138.mp4",
+      "createdAt": "2026-05-06T12:35:48Z",
+      "updatedAt": "2026-05-06T12:35:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sambafilms-20241227_155021-1066213138.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Desert Figure",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "37e4ba637c754ad60862e517efafabe83b134eec0daa71bf1ffa0cc476f83228"
+  }
+}

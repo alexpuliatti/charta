@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888597",
+  "type": "image",
+  "title": "Glass Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glass-controls",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-37a7e6cdfa21612ca9939c5f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glass Controls",
+      "role": "original",
+      "bytes": 23193,
+      "sha256": "37a7e6cdfa21612ca9939c5fb6c5533662cdd50db9b5250e82d3fffbb4f3d6a1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888597/original_0997154618ff5921a49fb2095d772e79.jpeg",
+      "originalName": "0997154618ff5921a49fb2095d772e79.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e6814b12f29e33f84e4f382c.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Controls",
+      "role": "thumbnail",
+      "bytes": 1500,
+      "sha256": "e6814b12f29e33f84e4f382cd6433b7ca3cbb6654c9517c7dbffa1b0bb722fb3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU5Ny9vcmlnaW5hbF8wOTk3MTU0NjE4ZmY1OTIxYTQ5ZmIyMDk1ZDc3MmU3OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0997154618ff5921a49fb2095d772e79.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-37a7e6cdfa21612ca9939c5f-37a7e6cdfa.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glass Controls",
+      "bytes": 8416,
+      "sha256": "bbfce7d75a74c5ae933dd740852d3b7f14810e0a8debba7fd2fcfbc06962cf88",
+      "width": 1199,
+      "height": 432,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-37a7e6cdfa21612ca9939c5f.jpg",
+        "sourceSha256": "37a7e6cdfa21612ca9939c5fb6c5533662cdd50db9b5250e82d3fffbb4f3d6a1",
+        "originalBytes": 23193,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:22.000Z",
+  "updatedAt": "2026-05-06T12:23:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888597",
+    "title": "b6618c3663987445178c2bca6cc65a75.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888597,
+      "url": "https://www.are.na/block/45888597",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b6618c3663987445178c2bca6cc65a75.jpg",
+      "createdAt": "2026-05-06T12:23:22Z",
+      "updatedAt": "2026-05-06T12:23:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b6618c3663987445178c2bca6cc65a75.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Controls",
+    "text": "Write your thoughts...\nWrite your thoughts..\n[Write your thoughts...",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bbfce7d75a74c5ae933dd740852d3b7f14810e0a8debba7fd2fcfbc06962cf88"
+  }
+}

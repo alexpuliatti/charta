@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45146433",
+  "type": "video",
+  "title": "Particle Trajectories",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "particle-trajectories",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9b2f8736ed0a88bc49c651fe.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1775737687336.mp4",
+      "role": "original",
+      "bytes": 10546005,
+      "sha256": "9b2f8736ed0a88bc49c651fe27622bf0880cdaa8c547cbbc2fc758c1f42b47cd",
+      "sourceUrl": "https://attachments.are.na/45146433/41fba342155604344df92d3139735018.mp4",
+      "originalName": "41fba342155604344df92d3139735018.mp4"
+    },
+    {
+      "path": "assets/thumbnail-a27749f7bd996db13a227e67.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Trajectories",
+      "role": "thumbnail",
+      "bytes": 18852,
+      "sha256": "a27749f7bd996db13a227e67b7741259651a4079af4835728afe589bd799b1eb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTE0NjQzMy9vcmlnaW5hbF81ZmFjOWU1YmRhYWVmOGM5MjAyNjA0MDktMi1ob3R2a3QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5fac9e5bdaaef8c920260409-2-hotvkt.png"
+    },
+    {
+      "path": "assets/preview-96906e47ae90ccb0fca7e30d.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1775737687336.mp4",
+      "role": "preview",
+      "bytes": 371782,
+      "sha256": "96906e47ae90ccb0fca7e30d26ddbd626ef2943ea8959f8562e18046d1c1cb2f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45146433/original_5fac9e5bdaaef8c920260409-2-hotvkt.png",
+      "originalName": "5fac9e5bdaaef8c920260409-2-hotvkt.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2135083,
+        "width": 1920,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-09T13:54:52.000Z",
+  "updatedAt": "2026-04-09T13:54:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45146433",
+    "title": "ssstwitter.com_1775737687336.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45146433,
+      "url": "https://www.are.na/block/45146433",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1775737687336.mp4",
+      "createdAt": "2026-04-09T13:54:52Z",
+      "updatedAt": "2026-04-09T13:54:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1775737687336.mp4",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Particle Trajectories",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a27749f7bd996db13a227e67b7741259651a4079af4835728afe589bd799b1eb"
+  }
+}

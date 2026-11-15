@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_18314387",
+  "type": "image",
+  "title": "Circular Cutout",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "circular-cutout",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b0d584f31703534aa783a527.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Circular Cutout",
+      "role": "original",
+      "bytes": 301727,
+      "sha256": "b0d584f31703534aa783a527e5475ac52cf840384e7b18b728352495c34c8524",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/18314387/original_2b2ecce0451d574b79070ea2a4457189.jpg",
+      "originalName": "2b2ecce0451d574b79070ea2a4457189.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8fc209eea2681bd7028f04e9.webp",
+      "mimeType": "image/webp",
+      "alt": "Circular Cutout",
+      "role": "thumbnail",
+      "bytes": 18242,
+      "sha256": "8fc209eea2681bd7028f04e920294af2e8bb77d75e4b1c1cdfac91e6f76cc522",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxODMxNDM4Ny9vcmlnaW5hbF8yYjJlY2NlMDQ1MWQ1NzRiNzkwNzBlYTJhNDQ1NzE4OS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2b2ecce0451d574b79070ea2a4457189.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b0d584f31703534aa783a527-b0d584f317.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circular Cutout",
+      "bytes": 209126,
+      "sha256": "0f5ea2f29d2f390fbf9a25a113b63b551338c938af1ef058dcdd94f5afcfff5e",
+      "width": 689,
+      "height": 853,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b0d584f31703534aa783a527.jpg",
+        "sourceSha256": "b0d584f31703534aa783a527e5475ac52cf840384e7b18b728352495c34c8524",
+        "originalBytes": 301727,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2022-10-02T19:22:14.000Z",
+  "updatedAt": "2026-11-13T18:51:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.tumblr.com/likes?before=1663249170",
+    "title": "(10) Likes | Tumblr",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 18314387,
+      "url": "https://www.are.na/block/18314387",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "cb1058ea1794836693244bb31a3dc95dd23b18d3.pnj",
+      "createdAt": "2022-10-02T19:22:14Z",
+      "updatedAt": "2026-11-13T18:51:38Z",
+      "addedBy": {
+        "id": 16844,
+        "name": "Joey Petrillo",
+        "slug": "joey-petrillo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "cb1058ea1794836693244bb31a3dc95dd23b18d3.pnj",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circular Cutout",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0f5ea2f29d2f390fbf9a25a113b63b551338c938af1ef058dcdd94f5afcfff5e"
+  }
+}

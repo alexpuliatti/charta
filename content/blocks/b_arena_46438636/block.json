@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46438636",
+  "type": "link",
+  "title": "Linear Speed",
+  "description": "breakdown of the architecture behind Linear’s speed: local-first sync, MobX observables, instant first loads, and a keyboard-first design.",
+  "category": "Writing",
+  "tags": [
+    "local-first",
+    "software-performance",
+    "interface-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f00c88b3400589e14012ae78.webp",
+      "mimeType": "image/webp",
+      "alt": "How’s Linear so fast? A technical breakdown",
+      "role": "thumbnail",
+      "bytes": 9914,
+      "sha256": "f00c88b3400589e14012ae7813162c0abe42eed25b506dc7d7167a001a6fc01f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQzODYzNi9vcmlnaW5hbF9kMDEzMzI4MzIxOGU2NmIyODZmNDdmNzBkOGE3MjEzMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d0133283218e66b286f47f70d8a72132.png"
+    },
+    {
+      "path": "assets/preview-eb2f13ac4aa24747b8da39f8.webp",
+      "mimeType": "image/webp",
+      "alt": "How’s Linear so fast? A technical breakdown",
+      "role": "preview",
+      "bytes": 182718,
+      "sha256": "eb2f13ac4aa24747b8da39f86c592e5defc21b837eba27a5948daae30687a71b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46438636/original_d0133283218e66b286f47f70d8a72132.png",
+      "originalName": "d0133283218e66b286f47f70d8a72132.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 882395,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-23T15:49:30.000Z",
+  "updatedAt": "2026-05-23T15:49:37.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How’s Linear so fast? A technical breakdown",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46438636,
+      "url": "https://www.are.na/block/46438636",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "How’s Linear so fast? A technical breakdown",
+      "createdAt": "2026-05-23T15:49:30Z",
+      "updatedAt": "2026-05-23T15:49:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "How’s Linear so fast? A technical breakdown",
+      "category": "Tools and resources",
+      "tags": [
+        "architecture",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

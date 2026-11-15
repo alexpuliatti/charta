@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787911",
+  "type": "image",
+  "title": "Forest Kitchen",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "forest-kitchen",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cb3b8f58e8f386381dc8e88d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Forest Kitchen",
+      "role": "original",
+      "bytes": 451720,
+      "sha256": "cb3b8f58e8f386381dc8e88dfcbdfca0e4e072c3cdaea5efa1659286ba9a580a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787911/original_69e04375ba428844ef7bf9a279bd84b6.jpg",
+      "originalName": "69e04375ba428844ef7bf9a279bd84b6.jpg"
+    },
+    {
+      "path": "assets/thumbnail-1e927b0c748f27e8d70b034a.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Kitchen",
+      "role": "thumbnail",
+      "bytes": 28264,
+      "sha256": "1e927b0c748f27e8d70b034a73123cf4c780263f4b57560379329280bcf444b0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkxMS9vcmlnaW5hbF82OWUwNDM3NWJhNDI4ODQ0ZWY3YmY5YTI3OWJkODRiNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "69e04375ba428844ef7bf9a279bd84b6.jpg"
+    },
+    {
+      "path": "assets/display-web-original-cb3b8f58e8f386381dc8e88d-cb3b8f58e8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Forest Kitchen",
+      "bytes": 298550,
+      "sha256": "85ee6000514b8d3a799c59ae510a71b0dc2e4af7734bf7931d6f3ba7de365aa9",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cb3b8f58e8f386381dc8e88d.jpg",
+        "sourceSha256": "cb3b8f58e8f386381dc8e88dfcbdfca0e4e072c3cdaea5efa1659286ba9a580a",
+        "originalBytes": 451720,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:04:49.000Z",
+  "updatedAt": "2025-11-02T16:04:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787911",
+    "title": "industrialkonzept-20250204_112516-3314746987.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787911,
+      "url": "https://www.are.na/block/40787911",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20250204_112516-3314746987.jpg",
+      "createdAt": "2025-11-02T16:04:49Z",
+      "updatedAt": "2025-11-02T16:04:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20250204_112516-3314746987.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Kitchen",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "85ee6000514b8d3a799c59ae510a71b0dc2e4af7734bf7931d6f3ba7de365aa9"
+  }
+}

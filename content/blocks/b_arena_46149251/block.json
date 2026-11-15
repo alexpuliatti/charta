@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149251",
+  "type": "video",
+  "title": "Summer Heatmap",
+  "description": "Tiny detail I love from this build: colored pixels gets piled against the wall when you draw the selection near the edge and it extends beyond the viewport \nhttps://t.co/ddGFy4oikU\nInfinite canvases are cool but I find them overwhelming when browsing hundreds of visuals. Wanted to try a more discoverable approach to browsing visual archives so I built this interactive canvas using \"Tiny Ui\" channel by @Jaytel \nYou can click and drag to draw a selection and https://t.co/hIwI8Bmmhu\n@Nomandsign - https://x.com/Nomandsign/status/2054289613720588504 (https://x.com/Nomandsign/status/2054289613720588504)",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "summer-heatmap",
+    "interaction-design",
+    "illustration",
+    "archives",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-99d43910fc97661d2a9d9fdf.mp4",
+      "mimeType": "video/mp4",
+      "alt": "Noman on X @Nomandsign",
+      "role": "original",
+      "bytes": 2163601,
+      "sha256": "99d43910fc97661d2a9d9fdf5b6d7b899f5ddd784ee8314d350e34464c95e385",
+      "sourceUrl": "https://attachments.are.na/46149251/9b196785172acf5be4c1d81a9b328816.mp4",
+      "originalName": "9b196785172acf5be4c1d81a9b328816.mp4"
+    },
+    {
+      "path": "assets/thumbnail-09886611f64aa14918332864.webp",
+      "mimeType": "image/webp",
+      "alt": "Summer Heatmap",
+      "role": "thumbnail",
+      "bytes": 10990,
+      "sha256": "09886611f64aa14918332864eada0a7443694660ec43691d1701b6625831af30",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTI1MS9vcmlnaW5hbF8xNzdjMDJjOWYxODNhYzgwMjAyNjA1MTQtMi1qNHV1ZGMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "177c02c9f183ac8020260514-2-j4uudc.png"
+    },
+    {
+      "path": "assets/display-web-original-99d43910fc97661d2a9d9fdf-99d43910fc.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "Noman on X @Nomandsign",
+      "bytes": 968111,
+      "sha256": "a7698d65b0513c7b3e37c3961bf520d3a5a637be980d666e04ab21fec56005af",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-99d43910fc97661d2a9d9fdf.mp4",
+        "sourceSha256": "99d43910fc97661d2a9d9fdf5b6d7b899f5ddd784ee8314d350e34464c95e385",
+        "originalBytes": 2163601,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-58018292e99da22190539147.webp",
+      "mimeType": "image/webp",
+      "alt": "Noman on X @Nomandsign",
+      "role": "preview",
+      "bytes": 173914,
+      "sha256": "58018292e99da22190539147535907f9fec496562f908cba6f620e749024747a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149251/original_177c02c9f183ac8020260514-2-j4uudc.png",
+      "originalName": "177c02c9f183ac8020260514-2-j4uudc.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1221312,
+        "width": 2056,
+        "height": 2160,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:24:44.000Z",
+  "updatedAt": "2026-05-14T15:24:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/Nomandsign/status/2054564420664107066?s=20",
+    "title": "Noman on X @Nomandsign",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149251,
+      "url": "https://www.are.na/block/46149251",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Noman on X @Nomandsign",
+      "createdAt": "2026-05-14T15:24:44Z",
+      "updatedAt": "2026-05-14T15:24:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Noman on X @Nomandsign",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "illustration",
+        "archives",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Summer Heatmap",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "09886611f64aa14918332864eada0a7443694660ec43691d1701b6625831af30"
+  }
+}

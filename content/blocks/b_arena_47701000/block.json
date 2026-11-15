@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701000",
+  "type": "image",
+  "title": "Jazz Philharmonic",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "jazz-philharmonic",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6b86b84c931ba273d81e70f1.png",
+      "mimeType": "image/png",
+      "alt": "Jazz Philharmonic",
+      "role": "original",
+      "bytes": 3312508,
+      "sha256": "6b86b84c931ba273d81e70f115c63b189bbdb4021dd58a1049b2252eab496eaf",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701000/original_53f4b689ca10d5adab0f370d95523979.png",
+      "originalName": "53f4b689ca10d5adab0f370d95523979.png"
+    },
+    {
+      "path": "assets/thumbnail-af556df1134922b7a5aa5ebd.webp",
+      "mimeType": "image/webp",
+      "alt": "Jazz Philharmonic",
+      "role": "thumbnail",
+      "bytes": 25336,
+      "sha256": "af556df1134922b7a5aa5ebdd665fae8d0f2a9aee8bbf3c7743572f466441a59",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAwMC9vcmlnaW5hbF81M2Y0YjY4OWNhMTBkNWFkYWIwZjM3MGQ5NTUyMzk3OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "53f4b689ca10d5adab0f370d95523979.png"
+    },
+    {
+      "path": "assets/display-web-original-6b86b84c931ba273d81e70f1-6b86b84c93.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Jazz Philharmonic",
+      "bytes": 307068,
+      "sha256": "4e7337c56b6cc5053865519f4cf66a8e1d20f0b3e717bcbb0cca32990bcaf15b",
+      "width": 1176,
+      "height": 1410,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6b86b84c931ba273d81e70f1.png",
+        "sourceSha256": "6b86b84c931ba273d81e70f115c63b189bbdb4021dd58a1049b2252eab496eaf",
+        "originalBytes": 3312508,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:07.000Z",
+  "updatedAt": "2026-07-08T14:56:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701000",
+    "title": "Screenshot 2023-09-12 alle 16.51.54",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701000,
+      "url": "https://www.are.na/block/47701000",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.51.54",
+      "createdAt": "2026-07-08T14:56:07Z",
+      "updatedAt": "2026-07-08T14:56:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.51.54",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Jazz Philharmonic",
+    "text": "NORMAN\nGRANTI\nJAZZ AT THE\nPHILHARMONIC\n17th NATIONAL\nTOUR\nDaviestoraMantin",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4e7337c56b6cc5053865519f4cf66a8e1d20f0b3e717bcbb0cca32990bcaf15b"
+  }
+}

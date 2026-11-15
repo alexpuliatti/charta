@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_48329212",
+  "type": "image",
+  "title": "Patient Journey",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "patient-journey",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3d709abcfad26b656e32f097.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Patient Journey",
+      "role": "original",
+      "bytes": 122100,
+      "sha256": "3d709abcfad26b656e32f0973ecb67354f6567a003e78f2a7ae4f0aff34cf08b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/48329212/original_7a95e2a372e30f5a6dc39be78a6ec9be.jpeg",
+      "originalName": "7a95e2a372e30f5a6dc39be78a6ec9be.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d1366f598cbc08b3d1b16d6b.webp",
+      "mimeType": "image/webp",
+      "alt": "Patient Journey",
+      "role": "thumbnail",
+      "bytes": 8236,
+      "sha256": "d1366f598cbc08b3d1b16d6b7e4ebc85712c49ff6acb8d435a50a2e7541105b0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODMyOTIxMi9vcmlnaW5hbF83YTk1ZTJhMzcyZTMwZjVhNmRjMzliZTc4YTZlYzliZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7a95e2a372e30f5a6dc39be78a6ec9be.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-3d709abcfad26b656e32f097-3d709abcfa.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Patient Journey",
+      "bytes": 95486,
+      "sha256": "b2dd99033015558cf99e46196ea44643329652b70e26bffd29f3090edade4e3c",
+      "width": 1200,
+      "height": 1035,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3d709abcfad26b656e32f097.jpg",
+        "sourceSha256": "3d709abcfad26b656e32f0973ecb67354f6567a003e78f2a7ae4f0aff34cf08b",
+        "originalBytes": 122100,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-29T17:00:30.000Z",
+  "updatedAt": "2026-07-29T17:00:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/48329212",
+    "title": "f9f23336fae02ea40e357cbd340a5598",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 48329212,
+      "url": "https://www.are.na/block/48329212",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "f9f23336fae02ea40e357cbd340a5598",
+      "createdAt": "2026-07-29T17:00:30Z",
+      "updatedAt": "2026-07-29T17:00:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "f9f23336fae02ea40e357cbd340a5598",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Patient Journey",
+    "text": "VALUE PROP\nStructure and clarity across\nevery patient journey\nPatient Journeys\n1-7 Apr\n365 cycles\nPatient Journeys\n365\n• 120 Intake\n^ 142 progressing as planned\n• 200 In-treatment\n45 Follow-up\nTue Wed\nThur\nFrE\n34.4% on track\nStructured patient journeys\nStandardize how patients move through intake.\ndiagnostics, treatment, and follow up, while\nretaining flexibility for individualized care plans.\nReal-time cycle visibility\nTrack progress, tasks, milestones, and\ndependencies across all active cycles so teams\nalways know what's next.\nWawa replaces fragmented workflows with a\nstructured, connected system designed specifically\nfor fertility care.\nAlex Jonathan\nSeamless team coordination\nDoctors, nurses, embryologists, and coordinators\nwork from the same system, reducing handoffs,\nduplication, and miscommunication.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b2dd99033015558cf99e46196ea44643329652b70e26bffd29f3090edade4e3c"
+  }
+}

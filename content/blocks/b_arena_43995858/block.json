@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995858",
+  "type": "image",
+  "title": "Warm Dining",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "warm-dining",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6daa69d631529ae71e6fe4cd.png",
+      "mimeType": "image/png",
+      "alt": "Warm Dining",
+      "role": "original",
+      "bytes": 907953,
+      "sha256": "6daa69d631529ae71e6fe4cd5e8b1eafd89d1ae27d12aff534414bc9c63ba198",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995858/original_7a1a5b144dc18dbba3e3bccff1d6517a.png",
+      "originalName": "7a1a5b144dc18dbba3e3bccff1d6517a.png"
+    },
+    {
+      "path": "assets/thumbnail-7e4fea31addbbc745a16fcbf.webp",
+      "mimeType": "image/webp",
+      "alt": "Warm Dining",
+      "role": "thumbnail",
+      "bytes": 9244,
+      "sha256": "7e4fea31addbbc745a16fcbf56f3b9f32f9af5ef383704f3dadde354be5a5cee",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTg1OC9vcmlnaW5hbF83YTFhNWIxNDRkYzE4ZGJiYTNlM2JjY2ZmMWQ2NTE3YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7a1a5b144dc18dbba3e3bccff1d6517a.png"
+    },
+    {
+      "path": "assets/display-web-original-6daa69d631529ae71e6fe4cd-6daa69d631.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Warm Dining",
+      "bytes": 60502,
+      "sha256": "7879d14b5fd3d01699a4e726508338c8dae25916e69768895b6827b62be6bf64",
+      "width": 834,
+      "height": 1186,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6daa69d631529ae71e6fe4cd.png",
+        "sourceSha256": "6daa69d631529ae71e6fe4cd5e8b1eafd89d1ae27d12aff534414bc9c63ba198",
+        "originalBytes": 907953,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:04:44.000Z",
+  "updatedAt": "2026-02-28T12:04:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995858",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995858,
+      "url": "https://www.are.na/block/43995858",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:04:44Z",
+      "updatedAt": "2026-02-28T12:04:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Warm Dining",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7879d14b5fd3d01699a4e726508338c8dae25916e69768895b6827b62be6bf64"
+  }
+}

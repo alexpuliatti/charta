@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47208834",
+  "type": "link",
+  "title": "Recent Design",
+  "description": "The best of recent design found on the Internet updated daily.",
+  "category": "Interface design",
+  "tags": [
+    "design-inspiration",
+    "web-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-01aa1df31951be29a8f63eea.webp",
+      "mimeType": "image/webp",
+      "alt": "Recent — Design Inspiration",
+      "role": "thumbnail",
+      "bytes": 8534,
+      "sha256": "01aa1df31951be29a8f63eeab02f4615ee38c76ca7df9271904d8867384fcca8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzIwODgzNC9vcmlnaW5hbF9lYjZlZTUzYTIzZDg4Njc2NzI2Mzc2YzczOTcxMDE1NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "eb6ee53a23d88676726376c739710155.png"
+    },
+    {
+      "path": "assets/preview-585ca28c6d32549089586cfe.webp",
+      "mimeType": "image/webp",
+      "alt": "Recent — Design Inspiration",
+      "role": "preview",
+      "bytes": 177964,
+      "sha256": "585ca28c6d32549089586cfe208f4713da3b2ab112a5f5c84c44f4a4fa386636",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47208834/original_eb6ee53a23d88676726376c739710155.png",
+      "originalName": "eb6ee53a23d88676726376c739710155.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 953596,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-22T09:25:02.000Z",
+  "updatedAt": "2026-06-22T09:29:52.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://recent.design/",
+    "title": "Recent — Design Inspiration",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47208834,
+      "url": "https://www.are.na/block/47208834",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Recent — Design Inspiration",
+      "createdAt": "2026-06-22T09:25:02Z",
+      "updatedAt": "2026-06-22T09:29:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Recent — Design Inspiration",
+      "category": "Tools and resources",
+      "tags": [
+        "inspiration",
+        "web-culture",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

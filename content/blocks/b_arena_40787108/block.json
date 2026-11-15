@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787108",
+  "type": "image",
+  "title": "Window Listening",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "window-listening",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2209fe7c3ec4b033cfd409c0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Window Listening",
+      "role": "original",
+      "bytes": 144369,
+      "sha256": "2209fe7c3ec4b033cfd409c03b2c10d5c7366d2cf814c0096dd85b2d098ba1e8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787108/original_330e807875b1bad49fcbbdc6108a1b3a.jpg",
+      "originalName": "330e807875b1bad49fcbbdc6108a1b3a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-b39fa12442080ce71d291152.webp",
+      "mimeType": "image/webp",
+      "alt": "Window Listening",
+      "role": "thumbnail",
+      "bytes": 9762,
+      "sha256": "b39fa12442080ce71d2911529e3e6947d844b88573ed6a71b00afe8a6b70a482",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwOC9vcmlnaW5hbF8zMzBlODA3ODc1YjFiYWQ0OWZjYmJkYzYxMDhhMWIzYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "330e807875b1bad49fcbbdc6108a1b3a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2209fe7c3ec4b033cfd409c0-2209fe7c3e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Window Listening",
+      "bytes": 54338,
+      "sha256": "1b30597526d53e4729b5e261f0e53e7e4b448e529ea70102d7a19e6a77d11eb2",
+      "width": 1030,
+      "height": 773,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2209fe7c3ec4b033cfd409c0.jpg",
+        "sourceSha256": "2209fe7c3ec4b033cfd409c03b2c10d5c7366d2cf814c0096dd85b2d098ba1e8",
+        "originalBytes": 144369,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:52.000Z",
+  "updatedAt": "2025-11-02T15:26:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787108",
+    "title": "pure_audio_project-20240507_193435-804887797.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787108,
+      "url": "https://www.are.na/block/40787108",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "pure_audio_project-20240507_193435-804887797.jpg",
+      "createdAt": "2025-11-02T15:26:52Z",
+      "updatedAt": "2025-11-02T15:26:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pure_audio_project-20240507_193435-804887797.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Window Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1b30597526d53e4729b5e261f0e53e7e4b448e529ea70102d7a19e6a77d11eb2"
+  }
+}

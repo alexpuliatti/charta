@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46016182",
+  "type": "link",
+  "title": "MH Companies",
+  "description": "Are.na",
+  "category": "Companies",
+  "tags": [
+    "are-na",
+    "mental-health",
+    "collection-reference"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-6d589b1359117c625d93acce.webp",
+      "mimeType": "image/webp",
+      "alt": "MH-companies | Are.na",
+      "role": "thumbnail",
+      "bytes": 1516,
+      "sha256": "6d589b1359117c625d93acce3cfd4517624e70a56fd6be139a53e3c178992b78",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxNjE4Mi9vcmlnaW5hbF8yZGQ4ZjVkMWU2NjQ2YjVkZWZjZjQwZjA0NzY0MDZjNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2dd8f5d1e6646b5defcf40f0476406c6.png"
+    },
+    {
+      "path": "assets/preview-641577d73aee403964bd5fb4.webp",
+      "mimeType": "image/webp",
+      "alt": "MH-companies | Are.na",
+      "role": "preview",
+      "bytes": 16146,
+      "sha256": "641577d73aee403964bd5fb400375e0d01c8de4cb7ec9eeeb12d2c36edb751f2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46016182/original_2dd8f5d1e6646b5defcf40f0476406c6.png",
+      "originalName": "2dd8f5d1e6646b5defcf40f0476406c6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 59196,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T13:43:47.000Z",
+  "updatedAt": "2026-05-11T13:43:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://www.are.na/a-p-8ilc0lfnvlk/mh-companies",
+    "title": "MH-companies | Are.na",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46016182,
+      "url": "https://www.are.na/block/46016182",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "MH-companies | Are.na",
+      "createdAt": "2026-05-11T13:43:47Z",
+      "updatedAt": "2026-05-11T13:43:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Organizations",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "MH-companies | Are.na",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "collecting",
+        "research",
+        "neurotechnology",
+        "mental-health",
+        "mh-companies"
+      ],
+      "collectionIds": [
+        "c_arena_5164043"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787106",
+  "type": "image",
+  "title": "Stacked Drivers",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "stacked-drivers",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-81774e7a6c851d903ef5c5bf.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Stacked Drivers",
+      "role": "original",
+      "bytes": 169131,
+      "sha256": "81774e7a6c851d903ef5c5bfcfa6b1464e5657e0812a49a2809a6af489efd9e8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787106/original_70cd5e3e5dc4925dd2ebb21537aa74b7.jpg",
+      "originalName": "70cd5e3e5dc4925dd2ebb21537aa74b7.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c323dac3a64d38f89fc36bc7.webp",
+      "mimeType": "image/webp",
+      "alt": "Stacked Drivers",
+      "role": "thumbnail",
+      "bytes": 10298,
+      "sha256": "c323dac3a64d38f89fc36bc79686294c4b8de7926c8f4de0cc4aca4744b1a896",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwNi9vcmlnaW5hbF83MGNkNWUzZTVkYzQ5MjVkZDJlYmIyMTUzN2FhNzRiNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "70cd5e3e5dc4925dd2ebb21537aa74b7.jpg"
+    },
+    {
+      "path": "assets/display-web-original-81774e7a6c851d903ef5c5bf-81774e7a6c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Stacked Drivers",
+      "bytes": 120312,
+      "sha256": "0d8064c64d33bd27995f18cdfaee710a18e2032f19a354e0fcd5b46000d801b4",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-81774e7a6c851d903ef5c5bf.jpg",
+        "sourceSha256": "81774e7a6c851d903ef5c5bfcfa6b1464e5657e0812a49a2809a6af489efd9e8",
+        "originalBytes": 169131,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:52.000Z",
+  "updatedAt": "2025-11-02T15:26:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787106",
+    "title": "pure_audio_project-20241019_105130-67111002.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787106,
+      "url": "https://www.are.na/block/40787106",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "pure_audio_project-20241019_105130-67111002.jpg",
+      "createdAt": "2025-11-02T15:26:52Z",
+      "updatedAt": "2025-11-02T15:26:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pure_audio_project-20241019_105130-67111002.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Stacked Drivers",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0d8064c64d33bd27995f18cdfaee710a18e2032f19a354e0fcd5b46000d801b4"
+  }
+}

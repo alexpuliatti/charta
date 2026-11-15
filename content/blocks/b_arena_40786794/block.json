@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786794",
+  "type": "image",
+  "title": "Café Soundsystem",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "caf-soundsystem",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6d881c2a3c43be2404ca5f3c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Café Soundsystem",
+      "role": "original",
+      "bytes": 623558,
+      "sha256": "6d881c2a3c43be2404ca5f3c246a9556ff936ff2e5e0b27f9186263f6f4b5ada",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786794/original_380175c1971db2b97e9edf0c630fae73.jpg",
+      "originalName": "380175c1971db2b97e9edf0c630fae73.jpg"
+    },
+    {
+      "path": "assets/thumbnail-ef3c5b1af2901d252ede9759.webp",
+      "mimeType": "image/webp",
+      "alt": "Café Soundsystem",
+      "role": "thumbnail",
+      "bytes": 8036,
+      "sha256": "ef3c5b1af2901d252ede97591c83d61401343ce6474032954a898ff3084344ef",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Njc5NC9vcmlnaW5hbF8zODAxNzVjMTk3MWRiMmI5N2U5ZWRmMGM2MzBmYWU3My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "380175c1971db2b97e9edf0c630fae73.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6d881c2a3c43be2404ca5f3c-6d881c2a3c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Café Soundsystem",
+      "bytes": 224264,
+      "sha256": "3566b6cee332dac734f267deb2adae2b513a13fb63fc2b85d2ef81bcc4d23d07",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6d881c2a3c43be2404ca5f3c.jpg",
+        "sourceSha256": "6d881c2a3c43be2404ca5f3c246a9556ff936ff2e5e0b27f9186263f6f4b5ada",
+        "originalBytes": 623558,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:10:04.000Z",
+  "updatedAt": "2026-07-21T08:10:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786794",
+    "title": "industrialkonzept-20251028_102148-806860774.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786794,
+      "url": "https://www.are.na/block/40786794",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20251028_102148-806860774.jpg",
+      "createdAt": "2025-11-02T15:10:04Z",
+      "updatedAt": "2026-07-21T08:10:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20251028_102148-806860774.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Café Soundsystem",
+    "text": "Sound becomes space at the new\nTRADER café in Hamburg, Germany\nindustrial®",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3566b6cee332dac734f267deb2adae2b513a13fb63fc2b85d2ef81bcc4d23d07"
+  }
+}

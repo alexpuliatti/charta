@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177410",
+  "type": "image",
+  "title": "Ocean Spread",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "ocean-spread",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eb0cc6993694c4de1e9cbc11.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Ocean Spread",
+      "role": "original",
+      "bytes": 1399199,
+      "sha256": "eb0cc6993694c4de1e9cbc11b260274200d06cb81ba75fb8adf064e6d180fa84",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177410/original_18587ec43b43837df3d2f163a7a4bde9.jpg",
+      "originalName": "18587ec43b43837df3d2f163a7a4bde9.jpg"
+    },
+    {
+      "path": "assets/thumbnail-615a8dc66907993c2c5cd07d.webp",
+      "mimeType": "image/webp",
+      "alt": "Ocean Spread",
+      "role": "thumbnail",
+      "bytes": 8280,
+      "sha256": "615a8dc66907993c2c5cd07ddf9a13f72cee7f80018341cf8ee11d3e84f88aab",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzQxMC9vcmlnaW5hbF8xODU4N2VjNDNiNDM4MzdkZjNkMmYxNjNhN2E0YmRlOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "18587ec43b43837df3d2f163a7a4bde9.jpg"
+    },
+    {
+      "path": "assets/display-web-original-eb0cc6993694c4de1e9cbc11-eb0cc69936.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Ocean Spread",
+      "bytes": 221018,
+      "sha256": "ed4186b931c1b6775dee31a4012f3a066394ad56ecdb6c8d31ef2ceb87ed6b13",
+      "width": 2000,
+      "height": 1458,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-eb0cc6993694c4de1e9cbc11.jpg",
+        "sourceSha256": "eb0cc6993694c4de1e9cbc11b260274200d06cb81ba75fb8adf064e6d180fa84",
+        "originalBytes": 1399199,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:51:17.000Z",
+  "updatedAt": "2026-03-05T20:01:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44177410",
+    "title": "hcqcvaexiaazjey.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177410,
+      "url": "https://www.are.na/block/44177410",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcqcvaexiaazjey.jpeg",
+      "createdAt": "2026-03-05T19:51:17Z",
+      "updatedAt": "2026-03-05T20:01:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcqcvaexiaazjey.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Ocean Spread",
+    "text": "Here Agent\nHACKATHON",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ed4186b931c1b6775dee31a4012f3a066394ad56ecdb6c8d31ef2ceb87ed6b13"
+  }
+}

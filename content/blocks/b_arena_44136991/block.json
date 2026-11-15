@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136991",
+  "type": "image",
+  "title": "Citation Systems",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "citation-systems",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2a75f760d19e46c3d98cfcd8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Citation Systems",
+      "role": "original",
+      "bytes": 466885,
+      "sha256": "2a75f760d19e46c3d98cfcd84fa32cf1b9d817fb5878ae0c62212046d81dd83e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136991/original_d09612146784aaaf5c677fade170d027.jpg",
+      "originalName": "d09612146784aaaf5c677fade170d027.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3ad3a6e030797e48c2a51498.webp",
+      "mimeType": "image/webp",
+      "alt": "Citation Systems",
+      "role": "thumbnail",
+      "bytes": 8428,
+      "sha256": "3ad3a6e030797e48c2a51498c221da609448ae8774615975910df1f7678ff0c8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk5MS9vcmlnaW5hbF9kMDk2MTIxNDY3ODRhYWFmNWM2NzdmYWRlMTcwZDAyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d09612146784aaaf5c677fade170d027.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2a75f760d19e46c3d98cfcd8-2a75f760d1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Citation Systems",
+      "bytes": 288274,
+      "sha256": "4b3fb58a2dcc4c9beedffd64b49f48966a5e3b13aba438df1f47e41f0cc99730",
+      "width": 1500,
+      "height": 1951,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2a75f760d19e46c3d98cfcd8.jpg",
+        "sourceSha256": "2a75f760d19e46c3d98cfcd84fa32cf1b9d817fb5878ae0c62212046d81dd83e",
+        "originalBytes": 466885,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:43.000Z",
+  "updatedAt": "2026-03-04T15:36:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136991",
+    "title": "hakwzntacaaayht.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136991,
+      "url": "https://www.are.na/block/44136991",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hakwzntacaaayht.jpeg",
+      "createdAt": "2026-03-04T15:36:43Z",
+      "updatedAt": "2026-03-04T15:36:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hakwzntacaaayht.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Citation Systems",
+    "text": "harman kardon\n*..i\nCitation Music Systems\nThe Citation tradition is founded\non the search for ideal sound\nHere are the latest expressions\nof that tradition.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4b3fb58a2dcc4c9beedffd64b49f48966a5e3b13aba438df1f47e41f0cc99730"
+  }
+}

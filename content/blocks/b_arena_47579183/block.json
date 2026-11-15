@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579183",
+  "type": "image",
+  "title": "Rand Letterhead",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "rand-letterhead",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bcb26a67111f4d05a6371d18.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Rand Letterhead",
+      "role": "original",
+      "bytes": 433295,
+      "sha256": "bcb26a67111f4d05a6371d18111bfca1128e866c85c0210b61de2357563f30ff",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579183/original_e46c3bad0748f9fe0397b7a41b5cc473.jpeg",
+      "originalName": "e46c3bad0748f9fe0397b7a41b5cc473.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-9e7f1206e78b85c05d38aba2.webp",
+      "mimeType": "image/webp",
+      "alt": "Rand Letterhead",
+      "role": "thumbnail",
+      "bytes": 816,
+      "sha256": "9e7f1206e78b85c05d38aba28927f52aa6988fd380c4220175606372e219bb2e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE4My9vcmlnaW5hbF9lNDZjM2JhZDA3NDhmOWZlMDM5N2I3YTQxYjVjYzQ3My5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e46c3bad0748f9fe0397b7a41b5cc473.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-bcb26a67111f4d05a6371d18-bcb26a6711.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Rand Letterhead",
+      "bytes": 164508,
+      "sha256": "89cec882b5b51a95dc24b11c4532c0d0a90ec56283c47f7674959380589fcfac",
+      "width": 1440,
+      "height": 1799,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bcb26a67111f4d05a6371d18.jpg",
+        "sourceSha256": "bcb26a67111f4d05a6371d18111bfca1128e866c85c0210b61de2357563f30ff",
+        "originalBytes": 433295,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:17.000Z",
+  "updatedAt": "2026-07-04T15:36:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579183",
+    "title": "dasswerke-20250108_130000-3044717779",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579183,
+      "url": "https://www.are.na/block/47579183",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-3044717779",
+      "createdAt": "2026-07-04T15:36:17Z",
+      "updatedAt": "2026-07-04T15:36:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-3044717779",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Rand Letterhead",
+    "text": "Paul Rand\n87 Goodhill Road Weston Connecticut 06883",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "89cec882b5b51a95dc24b11c4532c0d0a90ec56283c47f7674959380589fcfac"
+  }
+}

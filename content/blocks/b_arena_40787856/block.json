@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787856",
+  "type": "image",
+  "title": "Concrete Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dceabb132bb6209653db878e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Bedroom",
+      "role": "original",
+      "bytes": 456344,
+      "sha256": "dceabb132bb6209653db878e3251ad003e709fd33b7694b304a279251581b4d1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787856/original_446a1636f802c1a7cffada292013ae0f.jpg",
+      "originalName": "446a1636f802c1a7cffada292013ae0f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3f3670978302ab2409346c6b.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Bedroom",
+      "role": "thumbnail",
+      "bytes": 7614,
+      "sha256": "3f3670978302ab2409346c6b4ad7030cfa53f2cfafa7a7de0972848962b57549",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg1Ni9vcmlnaW5hbF80NDZhMTYzNmY4MDJjMWE3Y2ZmYWRhMjkyMDEzYWUwZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "446a1636f802c1a7cffada292013ae0f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-dceabb132bb6209653db878e-dceabb132b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Bedroom",
+      "bytes": 172154,
+      "sha256": "c83c3f588acfacd62d7f6cbb3b3777dc1c9efff048604458153ff95d59c1de83",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dceabb132bb6209653db878e.jpg",
+        "sourceSha256": "dceabb132bb6209653db878e3251ad003e709fd33b7694b304a279251581b4d1",
+        "originalBytes": 456344,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:16.000Z",
+  "updatedAt": "2025-11-02T16:01:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787856",
+    "title": "whereiwouldliketoread-20231217_113532-3964808046.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787856,
+      "url": "https://www.are.na/block/40787856",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20231217_113532-3964808046.jpg",
+      "createdAt": "2025-11-02T16:01:16Z",
+      "updatedAt": "2025-11-02T16:01:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20231217_113532-3964808046.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c83c3f588acfacd62d7f6cbb3b3777dc1c9efff048604458153ff95d59c1de83"
+  }
+}

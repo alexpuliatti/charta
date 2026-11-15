@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888806",
+  "type": "video",
+  "title": "Glass Menu",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glass-menu",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1d38f7d7f1ee394c16a8a557.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1777142927933.mp4",
+      "role": "original",
+      "bytes": 1432725,
+      "sha256": "1d38f7d7f1ee394c16a8a5575da433f847b087603d4be71bc8c166ac7fd19cda",
+      "sourceUrl": "https://attachments.are.na/45888806/973c3a7b1549cd2aacccc80e4de0cb61.mp4",
+      "originalName": "973c3a7b1549cd2aacccc80e4de0cb61.mp4"
+    },
+    {
+      "path": "assets/thumbnail-08378c365d203eaba67ebbca.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Menu",
+      "role": "thumbnail",
+      "bytes": 4422,
+      "sha256": "08378c365d203eaba67ebbca499f9251a8c7a394790264778b79d9819ccfb2cb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODgwNi9vcmlnaW5hbF80ZTQ2NGExZTY3ZmU4OWE4MjAyNjA1MDYtMi1mNWRxYXcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4e464a1e67fe89a820260506-2-f5dqaw.png"
+    },
+    {
+      "path": "assets/display-web-original-1d38f7d7f1ee394c16a8a557-1d38f7d7f1.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1777142927933.mp4",
+      "bytes": 232124,
+      "sha256": "b6cf79678d025da6a8cbccc02d7cf4b712d79b4a3a0403d3fe40244af648d7b0",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1d38f7d7f1ee394c16a8a557.mp4",
+        "sourceSha256": "1d38f7d7f1ee394c16a8a5575da433f847b087603d4be71bc8c166ac7fd19cda",
+        "originalBytes": 1432725,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-7b708ed841bdb6e8bc4f80b0.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1777142927933.mp4",
+      "role": "preview",
+      "bytes": 62164,
+      "sha256": "7b708ed841bdb6e8bc4f80b0bdef4e39679e9ecc02cb392c5acd49164499335b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888806/original_4e464a1e67fe89a820260506-2-f5dqaw.png",
+      "originalName": "4e464a1e67fe89a820260506-2-f5dqaw.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 334873,
+        "width": 2332,
+        "height": 2160,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:31:01.000Z",
+  "updatedAt": "2026-05-06T12:31:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888806",
+    "title": "ssstwitter.com_1777142927933.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888806,
+      "url": "https://www.are.na/block/45888806",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1777142927933.mp4",
+      "createdAt": "2026-05-06T12:31:01Z",
+      "updatedAt": "2026-05-06T12:31:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1777142927933.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Menu",
+    "text": "Type\n• Strect >\nPrompt\nScore the company Highest / High /\nMedium / Low using only information in\nthe chant\nEvaluate:\n• Sub-Vertical is one of: RCM & Baling\n- Recent Signal is Tier 1 or Tier 2\n1% Enrich column",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "08378c365d203eaba67ebbca499f9251a8c7a394790264778b79d9819ccfb2cb"
+  }
+}

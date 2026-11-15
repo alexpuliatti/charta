@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247884",
+  "type": "image",
+  "title": "Task List",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "task-list",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f85592c1112bce19274328f1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Task List",
+      "role": "original",
+      "bytes": 439987,
+      "sha256": "f85592c1112bce19274328f1369e46865cfa6ea7132b9dc5c2f50f1e537b660c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247884/original_08a036b0c9fda95bef3212023cdb3c15.jpeg",
+      "originalName": "08a036b0c9fda95bef3212023cdb3c15.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-bc0ef66e16847f2f5180eeb5.webp",
+      "mimeType": "image/webp",
+      "alt": "Task List",
+      "role": "thumbnail",
+      "bytes": 5150,
+      "sha256": "bc0ef66e16847f2f5180eeb5fc9e5d21e3d3896a9080953727bf24da46caf420",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg4NC9vcmlnaW5hbF8wOGEwMzZiMGM5ZmRhOTViZWYzMjEyMDIzY2RiM2MxNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "08a036b0c9fda95bef3212023cdb3c15.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f85592c1112bce19274328f1-f85592c111.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Task List",
+      "bytes": 89012,
+      "sha256": "ba1c0ee248bfcecd75c79cb27e603a2025dc46dfdd6f674abf37ec4688c3cf94",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f85592c1112bce19274328f1.jpg",
+        "sourceSha256": "f85592c1112bce19274328f1369e46865cfa6ea7132b9dc5c2f50f1e537b660c",
+        "originalBytes": 439987,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:49.000Z",
+  "updatedAt": "2026-06-23T14:28:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247884",
+    "title": "GqlgHgVXsAAeSBn",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247884,
+      "url": "https://www.are.na/block/47247884",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "GqlgHgVXsAAeSBn",
+      "createdAt": "2026-06-23T14:28:49Z",
+      "updatedAt": "2026-06-23T14:28:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GqlgHgVXsAAeSBn",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Task List",
+    "text": "• •\nAll 199\nTo-do\nReminders 8\nSolomon, Tony & Sade (13)\nApple\nCal.com\nmymind\nTony Allen\nCraft Docs\n(il Steve Jobs\nThe New York Times\nPinterest\n1 Tony, Jacob & Sade (23)\nThe New York Times\nProduct Hunt Weekly\n• Tony\nSade Helen\nVlad. Ava Lola and 5 Others\nLego Man\nPriority 3\nNewsletters 23 ... Other 18\n+\nTODAY\n• Re: Progress — I pushed the new update to git and we haven't finished the proposal for the funding we discussed ove...\n• To-do\nThink different - Here's to the crazy ones. The misfits, the rebels, the troublemakers, the round pegs in the squa...\n• Newsletter\n• Reminder: quick chat - Tue, Jan 21, 2025 1:00pm - Hi Sanya Koyi, This is a reminder about your upcoming event.\nReminder\n• • On art, Perspective & beautiful chairs — Hi Adesanya, this our weekly inspiration email, where we share a fe...\n• Promotions\n• Expenses Overview - You are to complete your contribution before we leave camp for the vacation and see if Helen i...\n• To-do\n• Your tasks for today, Jan 21 - Active tasks Create a roadmap for next version of web app Jan 8 Inbox See all Task....\nReminder\nYESTERDAY\nig concepts...\n© Primary\nQ bearch messages and commands...\n1l Sort v\nAo Only search titles\n• Sent by ~\n© Attachment v\n• Date v\ni hours b...\nNewsletter\nQuick actions\nwww...l..\nPromotions\nCompose Mail\nCreate View\noffice befor...\n• To-do\nToday\nIntroduction to Design System\ni hours b...\n• Newsletter\nTony Allen\n- Contacts\n9 The Ro....\nHowelshor\nThink Different - Newsletters\nime]. Followi...\n• To-do\nYesterday\n\"Here is to the crazy ones the misfit \" — Inhox\n11 Select\n2 Open\nsday, Januar...\nClear history\n• To-do\nRed Cross Camp Preparation\n- I checked the website I am afraid we are preparing for the wrong batch. I attach a l...\nml\n• Vacation\n• Status Confirmation\n- The collectibles will be available on Opensea by 12 tommorow (WAT). Download any wallet fro...\n...Other\nA 3 accounts\nInvite\n22:13\n21:27\n18:19\n12:13\n22:13\n12:13\n13:34\n13:34\n13:34\n1/13/25\n1/13/25\n1/11/25\n1/9/25\n1/8/25\n1/6/25\n1/6/25",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ba1c0ee248bfcecd75c79cb27e603a2025dc46dfdd6f674abf37ec4688c3cf94"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_interface_design_experiments",
+  "title": "Experiments",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47248028"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247866"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247859"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46454668"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46149752"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46149323"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46149251"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46111538"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46111537"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46111081"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45982072"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45982069"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45942200"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45897656"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45893058"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45893022"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892947"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890269"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890267"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890254"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890198"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889749"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888892"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888889"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888887"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888847"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888843"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888646"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888343"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45383259"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45382053"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340263"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44227369"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144637"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144641"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137329"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137330"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995932"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43747759"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_39346905"
+    },
+    {
+      "kind": "block",
+      "id": "b_resource_beyond_taking_turns"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

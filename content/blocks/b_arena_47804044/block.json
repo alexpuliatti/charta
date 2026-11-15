@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47804044",
+  "type": "link",
+  "title": "X Design Highlights",
+  "description": "Discover the best design inspiration from top creatives on X. Updated hourly with hand-picked visual showcases, logos, UI, branding, and more.",
+  "category": "Interface design",
+  "tags": [
+    "inspiration",
+    "x-post",
+    "design-showcase"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f72e02d32f181fb9e545bc73.webp",
+      "mimeType": "image/webp",
+      "alt": "Best Designs on X.com",
+      "role": "thumbnail",
+      "bytes": 2504,
+      "sha256": "f72e02d32f181fb9e545bc73bec73492a777a4aa29e8518d3b5e0fdaee42f507",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzgwNDA0NC9vcmlnaW5hbF9mODRlYjhmMDYwZmNhMWFiNjQxYjE0OTc3NDAzNWFkMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f84eb8f060fca1ab641b149774035ad0.png"
+    },
+    {
+      "path": "assets/preview-1f74cd0f66c17106cba785ce.webp",
+      "mimeType": "image/webp",
+      "alt": "Best Designs on X.com",
+      "role": "preview",
+      "bytes": 44796,
+      "sha256": "1f74cd0f66c17106cba785ce6e01b11d42ebd91d87dd0e22802255e1c1ce2752",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47804044/original_f84eb8f060fca1ab641b149774035ad0.png",
+      "originalName": "f84eb8f060fca1ab641b149774035ad0.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 139281,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-12T11:00:21.000Z",
+  "updatedAt": "2026-07-12T11:00:28.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://bestdesignsonx.com/AdityaSur11/status/2067162835885457579",
+    "title": "Best Designs on X.com",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47804044,
+      "url": "https://www.are.na/block/47804044",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Best Designs on X.com",
+      "createdAt": "2026-07-12T11:00:21Z",
+      "updatedAt": "2026-07-12T11:00:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Best Designs on X.com",
+      "category": "Tools and resources",
+      "tags": [
+        "visual-identity",
+        "interfaces",
+        "inspiration",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

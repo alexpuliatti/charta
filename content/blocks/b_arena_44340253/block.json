@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340253",
+  "type": "image",
+  "title": "Blurred Poster",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "blurred-poster",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d84b7797ef42b0871fec400d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blurred Poster",
+      "role": "original",
+      "bytes": 30328,
+      "sha256": "d84b7797ef42b0871fec400dcd492fe029db036cde0af8d17d16d8d021b0b8ad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340253/original_8ccc65e21379bbc71141ca37beb902bb.jpg",
+      "originalName": "8ccc65e21379bbc71141ca37beb902bb.jpg"
+    },
+    {
+      "path": "assets/thumbnail-13ef9a96d04a37d200ce4de4.webp",
+      "mimeType": "image/webp",
+      "alt": "Blurred Poster",
+      "role": "thumbnail",
+      "bytes": 2050,
+      "sha256": "13ef9a96d04a37d200ce4de4cfb410b3f9ba9f3fabc34ba7ea74d5e80c9a1013",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1My9vcmlnaW5hbF84Y2NjNjVlMjEzNzliYmM3MTE0MWNhMzdiZWI5MDJiYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8ccc65e21379bbc71141ca37beb902bb.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d84b7797ef42b0871fec400d-d84b7797ef.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blurred Poster",
+      "bytes": 12296,
+      "sha256": "2968e6d71661d854858f12fc35b1edda0e0b552604f40b4817c2094aa8637436",
+      "width": 640,
+      "height": 905,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d84b7797ef42b0871fec400d.jpg",
+        "sourceSha256": "d84b7797ef42b0871fec400dcd492fe029db036cde0af8d17d16d8d021b0b8ad",
+        "originalBytes": 30328,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340253",
+    "title": "ad7f03e62bd6e01ecbd5fb04a59d48b0.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340253,
+      "url": "https://www.are.na/block/44340253",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ad7f03e62bd6e01ecbd5fb04a59d48b0.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ad7f03e62bd6e01ecbd5fb04a59d48b0.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blurred Poster",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2968e6d71661d854858f12fc35b1edda0e0b552604f40b4817c2094aa8637436"
+  }
+}

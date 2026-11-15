@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786826",
+  "type": "image",
+  "title": "White Tower",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "white-tower",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2f0a33aa63ad7762f4f5cef0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "White Tower",
+      "role": "original",
+      "bytes": 80381,
+      "sha256": "2f0a33aa63ad7762f4f5cef06a5b56ea2825d76cad69f66d7b3b9ff1135f21eb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786826/original_20e51cf7e3d7cf53e492a7b470ea3643.jpg",
+      "originalName": "20e51cf7e3d7cf53e492a7b470ea3643.jpg"
+    },
+    {
+      "path": "assets/thumbnail-92b7cae856b5c2e969838b00.webp",
+      "mimeType": "image/webp",
+      "alt": "White Tower",
+      "role": "thumbnail",
+      "bytes": 7166,
+      "sha256": "92b7cae856b5c2e969838b00b8b7cee64f5f03f36ac07cb38d77f2ec6d3907c8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NjgyNi9vcmlnaW5hbF8yMGU1MWNmN2UzZDdjZjUzZTQ5MmE3YjQ3MGVhMzY0My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "20e51cf7e3d7cf53e492a7b470ea3643.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2f0a33aa63ad7762f4f5cef0-2f0a33aa63.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "White Tower",
+      "bytes": 49672,
+      "sha256": "0f97545c81d93f3a9b9d1decd3651862753a37aec28afa4739894ff5c1e74ec0",
+      "width": 900,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2f0a33aa63ad7762f4f5cef0.jpg",
+        "sourceSha256": "2f0a33aa63ad7762f4f5cef06a5b56ea2825d76cad69f66d7b3b9ff1135f21eb",
+        "originalBytes": 80381,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:11:26.000Z",
+  "updatedAt": "2025-11-02T15:11:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786826",
+    "title": "a48d21847c83d97b94ae7a670536d893.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786826,
+      "url": "https://www.are.na/block/40786826",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a48d21847c83d97b94ae7a670536d893.jpg",
+      "createdAt": "2025-11-02T15:11:26Z",
+      "updatedAt": "2025-11-02T15:11:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a48d21847c83d97b94ae7a670536d893.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "White Tower",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0f97545c81d93f3a9b9d1decd3651862753a37aec28afa4739894ff5c1e74ec0"
+  }
+}

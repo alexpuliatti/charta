@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177649",
+  "type": "link",
+  "title": "Austen Portfolio",
+  "description": "Austen is a multidisciplinary architect and designer whose work spans both digital and physical realms. Based in the US and Canada, he combines a unique blend of design skills and technical expertise.",
+  "category": "Interface design",
+  "tags": [
+    "architecture",
+    "portfolio",
+    "multidisciplinary-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-5397db115155dc8715659b23.webp",
+      "mimeType": "image/webp",
+      "alt": "Austen - Work",
+      "role": "thumbnail",
+      "bytes": 374,
+      "sha256": "5397db115155dc8715659b23e5084494c9f7ceda3332e057b00f38673df1a022",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzY0OS9vcmlnaW5hbF84MzFiNTA2ZDM0ZjI4ZDc0ODlmZWE2YWYyZGU3YWQ0My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "831b506d34f28d7489fea6af2de7ad43.png"
+    },
+    {
+      "path": "assets/preview-6de8087395e85e2bd4ff8c8e.webp",
+      "mimeType": "image/webp",
+      "alt": "Austen - Work",
+      "role": "preview",
+      "bytes": 1414,
+      "sha256": "6de8087395e85e2bd4ff8c8ebe7a05500c01b21d043ea43ebecab1694fed11bb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177649/original_831b506d34f28d7489fea6af2de7ad43.png",
+      "originalName": "831b506d34f28d7489fea6af2de7ad43.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 5635,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:58:29.000Z",
+  "updatedAt": "2026-03-05T19:59:33.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://austen.fun/",
+    "title": "Austen - Work",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177649,
+      "url": "https://www.are.na/block/44177649",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Austen - Work",
+      "createdAt": "2026-03-05T19:58:29Z",
+      "updatedAt": "2026-03-05T19:59:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Austen - Work",
+      "category": "Information design",
+      "tags": [
+        "architecture",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

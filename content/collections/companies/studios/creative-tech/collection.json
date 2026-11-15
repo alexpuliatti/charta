@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_studios",
+  "title": "Creative tech studios",
+  "description": "",
+  "order": 0,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_46111293"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892673"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45382687"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44177653"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43997049"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_41201192"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

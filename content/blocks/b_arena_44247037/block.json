@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247037",
+  "type": "image",
+  "title": "Dark Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "dark-controls",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d849db84255640e8cd1eaf91.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Dark Controls",
+      "role": "original",
+      "bytes": 44444,
+      "sha256": "d849db84255640e8cd1eaf91edd464121376b06c6eaa358e37974fda9390d47a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247037/original_5ed71dedfb2dc77d7efc47d030bc4cc1.jpg",
+      "originalName": "5ed71dedfb2dc77d7efc47d030bc4cc1.jpg"
+    },
+    {
+      "path": "assets/thumbnail-9ee7ef89d003b50dcd88a716.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Controls",
+      "role": "thumbnail",
+      "bytes": 3274,
+      "sha256": "9ee7ef89d003b50dcd88a7164289b55b94a6c101368cda9dadceb1ffce788383",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzAzNy9vcmlnaW5hbF81ZWQ3MWRlZGZiMmRjNzdkN2VmYzQ3ZDAzMGJjNGNjMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5ed71dedfb2dc77d7efc47d030bc4cc1.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d849db84255640e8cd1eaf91-d849db8425.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dark Controls",
+      "bytes": 25456,
+      "sha256": "4be4c8860738475844fa05cfc6510c3f7a215fcf044398cb27b758eb0e0605c3",
+      "width": 1200,
+      "height": 731,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d849db84255640e8cd1eaf91.jpg",
+        "sourceSha256": "d849db84255640e8cd1eaf91edd464121376b06c6eaa358e37974fda9390d47a",
+        "originalBytes": 44444,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-06-03T08:01:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247037",
+    "title": "b8b1c8f7027ecfdaeb44cf3543f3763b.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247037,
+      "url": "https://www.are.na/block/44247037",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b8b1c8f7027ecfdaeb44cf3543f3763b.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-06-03T08:01:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b8b1c8f7027ecfdaeb44cf3543f3763b.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Controls",
+    "text": "Text\nImage\nText + Image\nDraw\nDrop an image here or\nBrowse\nLength\nCamera setting s\nStyle assistant\nBeta\n\"Toxt\nImage\ntoxt + mate\nDraw\nBoscoba the scand\n(Your description of the scene\nDrop an image here or\ncabin_woods.jpg\nLength\ncamera setings\nstyle assistant\nAll create scene\nTAl Create scene\nText\nImage\nText + Image\nDraw\nDeschoe ine scene\nDrone filming a log cabin in a pine woods, backlit, natural colors|\nLength\nCamera settings\nStyle assistant Beta\nTAl Create scene\nText\nImage\nText + Image\nDraw\nLenoth\n(» Camera settinos\nStvie assistant\nBeta\nAl Create scene",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4be4c8860738475844fa05cfc6510c3f7a215fcf044398cb27b758eb0e0605c3"
+  }
+}

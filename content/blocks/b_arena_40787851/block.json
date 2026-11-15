@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787851",
+  "type": "image",
+  "title": "Low Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "low-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7bdeccbc27f4b6c488831d0b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Low Bedroom",
+      "role": "original",
+      "bytes": 519669,
+      "sha256": "7bdeccbc27f4b6c488831d0b822809fe214ae7a574bad72a971061e1579fac46",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787851/original_3266a14513987c7db7ca2852d6cbf27f.jpg",
+      "originalName": "3266a14513987c7db7ca2852d6cbf27f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-9c0767eb9bb13d9caf648b6c.webp",
+      "mimeType": "image/webp",
+      "alt": "Low Bedroom",
+      "role": "thumbnail",
+      "bytes": 11346,
+      "sha256": "9c0767eb9bb13d9caf648b6cbc7534b90ca2e9c0720a425170038efcd9674398",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg1MS9vcmlnaW5hbF8zMjY2YTE0NTEzOTg3YzdkYjdjYTI4NTJkNmNiZjI3Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3266a14513987c7db7ca2852d6cbf27f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7bdeccbc27f4b6c488831d0b-7bdeccbc27.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Low Bedroom",
+      "bytes": 221716,
+      "sha256": "a6c4ca3a23fb35148657c6f4e7ce4de2586a04d398963ce79a5b77dedea87b89",
+      "width": 1427,
+      "height": 1784,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7bdeccbc27f4b6c488831d0b.jpg",
+        "sourceSha256": "7bdeccbc27f4b6c488831d0b822809fe214ae7a574bad72a971061e1579fac46",
+        "originalBytes": 519669,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:06.000Z",
+  "updatedAt": "2025-11-02T16:01:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787851",
+    "title": "whereiwouldliketoread-20240719_100808-680577916.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787851,
+      "url": "https://www.are.na/block/40787851",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20240719_100808-680577916.jpg",
+      "createdAt": "2025-11-02T16:01:06Z",
+      "updatedAt": "2025-11-02T16:01:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20240719_100808-680577916.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Low Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a6c4ca3a23fb35148657c6f4e7ce4de2586a04d398963ce79a5b77dedea87b89"
+  }
+}

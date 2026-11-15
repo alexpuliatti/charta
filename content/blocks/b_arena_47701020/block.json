@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701020",
+  "type": "image",
+  "title": "Columbia Sleeve",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "columbia-sleeve",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-472f83a554c0cb93219f3a6b.png",
+      "mimeType": "image/png",
+      "alt": "Columbia Sleeve",
+      "role": "original",
+      "bytes": 3433404,
+      "sha256": "472f83a554c0cb93219f3a6bc45ca69b0330eaae8221b55f9f67a7f41ccecb1f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701020/original_f863783d370efe8285bf5cb6f88fb461.png",
+      "originalName": "f863783d370efe8285bf5cb6f88fb461.png"
+    },
+    {
+      "path": "assets/thumbnail-ca668de089b2d8e9951270c1.webp",
+      "mimeType": "image/webp",
+      "alt": "Columbia Sleeve",
+      "role": "thumbnail",
+      "bytes": 17554,
+      "sha256": "ca668de089b2d8e9951270c16f786a0132bc2006ccfcb0feda0aa36e720570ee",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyMC9vcmlnaW5hbF9mODYzNzgzZDM3MGVmZTgyODViZjVjYjZmODhmYjQ2MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f863783d370efe8285bf5cb6f88fb461.png"
+    },
+    {
+      "path": "assets/display-web-original-472f83a554c0cb93219f3a6b-472f83a554.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Columbia Sleeve",
+      "bytes": 178450,
+      "sha256": "cf0c2da6dee0417355cd3363dfcd42a960054285e51ee61419300951675e9065",
+      "width": 1458,
+      "height": 1434,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-472f83a554c0cb93219f3a6b.png",
+        "sourceSha256": "472f83a554c0cb93219f3a6bc45ca69b0330eaae8221b55f9f67a7f41ccecb1f",
+        "originalBytes": 3433404,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:17.000Z",
+  "updatedAt": "2026-07-08T14:56:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701020",
+    "title": "Screenshot 2023-09-12 alle 16.53.41",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701020,
+      "url": "https://www.are.na/block/47701020",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.53.41",
+      "createdAt": "2026-07-08T14:56:17Z",
+      "updatedAt": "2026-07-08T14:56:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.53.41",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Columbia Sleeve",
+    "text": "FAVORITE ARTISTS\nUNFORGETTABLE SONGS\nSPARKLING ARRANGEMENTS\nSUPERB REPRODUCTION\nCOLUMBIA RECORDS\nA Pase\nPlack Tern\nADD THESE SUPERB ALBUMS TO YOUR COLLECTION!\n257\nCOLLUBIA\nPending Trade Marks Reg. U,5.\nacos Registrados Mode l US.A\nPat.\n24-10\nJAM WITH SAM\n• D. Ellington -\nDUKE ELLINGTON\nand his ORCHESTRA\n39670\n(CO 45817)\nALL-TIME FAVORITES BY HARRY JAMES\nCiribiribin • Sleepy Lagoon • One O'Clock\nJump • Two O'Clock Jump • You Made Me Love\nYou • Music Makers • Flight Of The Bumble Bee\nConcerto For Trumpet\n33% Long Playing Record CL 6009 • 78 rpm\nrecords Set C-117 • 45 pm records Set B-117\nAMERICAN WALTZES\nCarousel Waltz • When I'm Not Near The Girl\nI Love • The Girl That I Marry • While We're\nYoung • Valse Huguette * A Kiss In The Dark\nI'll Take Romance • Waltz In Swingtime\nPERCY FAITH and his Orchestra\n33¼ Long Playing Record CL 6178 • 78 pm\nrecords Set B-255 • 45 rpm records Set B-255\nBENNY GOODMAN CARNEGIE HALL\nJAZZ CONCERT\nSing Sing Sing • Don't Be That Way • Swing-\ntime In The Rockies • Bei Mir Bist Du Schon\nThe Man I Love • 1 Got Rhythm-and the whole\nhistory-making 1938 jazz concert with all its\ngreat stars!\n33% Long Playing Records Set SL-160 (also\navailable on ML 4358 and ML 4359) • 45 pm\nrecords Set B-250 (also available in Set B-245\nand Set B-246)\nMemories Of You!• Let's Falk In Love • Dancing\nOn The Ceiling • Isn't It Romantic • September\nIn The Rain • They Can't Take That Away From\nMe • Can't We Be Frieds? • On The Sunny\n33% Long Playing/cod CL. 6134\nNIGHT IN MANHATTAN\nManhattana I've Got A Crush On You • A\nGhost Of/A\nChance • Ohl Look At Me Now\nStreet Of Dreams • A Woman's Intuition • Sugar\nAny Time, Any Day, Anywhere\n33% Long Play Record CL 6169 • 78 rpm rec-\nOn A Turquoise Cloud • New York City Blues\nGolden Cress • Three Cent Stomp • Hy'a Sue\nLady Of The Lavender Mist • The Clothed\nWoman • Progressive Gavotte\nDUKE ELLINGTON and his Orchestra\n33% Long Playing Record CL 6024 • 78 pm\nrecords Set C-164",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cf0c2da6dee0417355cd3363dfcd42a960054285e51ee61419300951675e9065"
+  }
+}

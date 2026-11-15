@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47277766",
+  "type": "link",
+  "title": "Novaflow Template",
+  "description": "A public Neuform page preview. Includes reusable design system notes, DESIGN.md source, and Remix-ready template structure.",
+  "category": "Interface design",
+  "tags": [
+    "templates",
+    "design-systems",
+    "neuform"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e400729bb629e195b0b2a4d2.webp",
+      "mimeType": "image/webp",
+      "alt": "Loading page Remix Template | Neuform",
+      "role": "thumbnail",
+      "bytes": 422,
+      "sha256": "e400729bb629e195b0b2a4d28acb5a0a0b69014197d12cc52fb04c407688fbe5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI3Nzc2Ni9vcmlnaW5hbF9hY2QyZTE2MjM2MGEwMmNjYjM5NWE5YTY3YzJlMjE1Yi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "acd2e162360a02ccb395a9a67c2e215b.png"
+    },
+    {
+      "path": "assets/preview-27b0beb4aae2b4c763ff6cd6.webp",
+      "mimeType": "image/webp",
+      "alt": "Loading page Remix Template | Neuform",
+      "role": "preview",
+      "bytes": 3714,
+      "sha256": "27b0beb4aae2b4c763ff6cd6b782ca42424ae041bf469cb76a1638603181cead",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47277766/original_acd2e162360a02ccb395a9a67c2e215b.png",
+      "originalName": "acd2e162360a02ccb395a9a67c2e215b.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 29633,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T15:45:51.000Z",
+  "updatedAt": "2026-06-24T15:46:06.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://neuform.ai/template/novaflow",
+    "title": "Loading page Remix Template | Neuform",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47277766,
+      "url": "https://www.are.na/block/47277766",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Loading page Remix Template | Neuform",
+      "createdAt": "2026-06-24T15:45:51Z",
+      "updatedAt": "2026-06-24T15:46:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Loading page Remix Template | Neuform",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

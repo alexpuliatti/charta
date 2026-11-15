@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888353",
+  "type": "video",
+  "title": "Green Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "green-typography",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4e12ebff8adb56e1fc196693.mp4",
+      "mimeType": "video/mp4",
+      "alt": "caserne-3922068519-20260402_130400.mp4",
+      "role": "original",
+      "bytes": 2000947,
+      "sha256": "4e12ebff8adb56e1fc19669382e3aba2344117e9e557cc8831e573cafcc67914",
+      "sourceUrl": "https://attachments.are.na/45888353/1b3372e65b74cee71bb18bcfe8272f47.mp4",
+      "originalName": "1b3372e65b74cee71bb18bcfe8272f47.mp4"
+    },
+    {
+      "path": "assets/thumbnail-bbb42d483cbf50b72ffdd9fd.webp",
+      "mimeType": "image/webp",
+      "alt": "Green Typography",
+      "role": "thumbnail",
+      "bytes": 23870,
+      "sha256": "bbb42d483cbf50b72ffdd9fd425102bcc4ac02852d813f4256cda8c358f235f7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM1My9vcmlnaW5hbF9jNzFlMDM0OTMxMTA3YjIzMjAyNjA1MDYtMi1lajhocXgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c71e034931107b2320260506-2-ej8hqx.png"
+    },
+    {
+      "path": "assets/preview-347c3fa82c3919147bc05ae4.webp",
+      "mimeType": "image/webp",
+      "alt": "caserne-3922068519-20260402_130400.mp4",
+      "role": "preview",
+      "bytes": 178944,
+      "sha256": "347c3fa82c3919147bc05ae43df6b0c36f741719fa3bffb24d2621262d2f3df7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888353/original_c71e034931107b2320260506-2-ej8hqx.png",
+      "originalName": "c71e034931107b2320260506-2-ej8hqx.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1015567,
+        "width": 720,
+        "height": 960,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:14:11.000Z",
+  "updatedAt": "2026-05-06T12:14:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888353",
+    "title": "caserne-3922068519-20260402_130400.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888353,
+      "url": "https://www.are.na/block/45888353",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "caserne-3922068519-20260402_130400.mp4",
+      "createdAt": "2026-05-06T12:14:11Z",
+      "updatedAt": "2026-05-06T12:14:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "caserne-3922068519-20260402_130400.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Green Typography",
+    "text": "DESTRUNIS\nsoccer franchise i Quebec Backed by two comnities",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bbb42d483cbf50b72ffdd9fd425102bcc4ac02852d813f4256cda8c358f235f7"
+  }
+}

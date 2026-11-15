@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247917",
+  "type": "image",
+  "title": "Heat Pouch",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "heat-pouch",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-88bcaa0e0caaea240a125465.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Heat Pouch",
+      "role": "original",
+      "bytes": 37524,
+      "sha256": "88bcaa0e0caaea240a125465f068d0b6588e510dfd3779b904eda8a432dfdeab",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247917/original_87ffdebf256babe2ab7ea8f0698f13ef.jpeg",
+      "originalName": "87ffdebf256babe2ab7ea8f0698f13ef.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f44e42c49455f85c12f19cca.webp",
+      "mimeType": "image/webp",
+      "alt": "Heat Pouch",
+      "role": "thumbnail",
+      "bytes": 2732,
+      "sha256": "f44e42c49455f85c12f19ccaef144cb868463c9564972391ff81959407cb0911",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkxNy9vcmlnaW5hbF84N2ZmZGViZjI1NmJhYmUyYWI3ZWE4ZjA2OThmMTNlZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "87ffdebf256babe2ab7ea8f0698f13ef.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-88bcaa0e0caaea240a125465-88bcaa0e0c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Heat Pouch",
+      "bytes": 17996,
+      "sha256": "c13937c319824d064c9c4d438bed12f79ed059fc7c9e057b60f50c82ed0ab970",
+      "width": 1199,
+      "height": 675,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-88bcaa0e0caaea240a125465.jpg",
+        "sourceSha256": "88bcaa0e0caaea240a125465f068d0b6588e510dfd3779b904eda8a432dfdeab",
+        "originalBytes": 37524,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:29:52.000Z",
+  "updatedAt": "2026-06-23T14:29:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247917",
+    "title": "HFXbMR2a8AMWXlO",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247917,
+      "url": "https://www.are.na/block/47247917",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HFXbMR2a8AMWXlO",
+      "createdAt": "2026-06-23T14:29:52Z",
+      "updatedAt": "2026-06-23T14:29:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HFXbMR2a8AMWXlO",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Heat Pouch",
+    "text": "7 A.M\n17:307 36187\n•EEN ARATEEA\n:3T1I TAX\nT.1X:\n305g",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c13937c319824d064c9c4d438bed12f79ed059fc7c9e057b60f50c82ed0ab970"
+  }
+}

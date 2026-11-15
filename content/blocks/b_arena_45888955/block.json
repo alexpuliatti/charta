@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888955",
+  "type": "video",
+  "title": "Minimal Navigation",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "minimal-navigation",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ca2e46592c5b6d1174627465.mp4",
+      "mimeType": "video/mp4",
+      "alt": "sssx.io_1773746047178.mp4",
+      "role": "original",
+      "bytes": 616392,
+      "sha256": "ca2e46592c5b6d1174627465f25e4b41aa312e43c3791326ccc83399c9e51539",
+      "sourceUrl": "https://attachments.are.na/45888955/9d3bc30e535c961b11b60e53a0c86fbb.mp4",
+      "originalName": "9d3bc30e535c961b11b60e53a0c86fbb.mp4"
+    },
+    {
+      "path": "assets/thumbnail-2e8622b8f5f9c4e462145b7b.webp",
+      "mimeType": "image/webp",
+      "alt": "Minimal Navigation",
+      "role": "thumbnail",
+      "bytes": 1604,
+      "sha256": "2e8622b8f5f9c4e462145b7b096cd8e4e5ffffcfd27ef1baa04060f71e096b1b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODk1NS9vcmlnaW5hbF9mZmRhZTczYjhmMzE1MGJmMjAyNjA1MDYtMi1nazNjZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ffdae73b8f3150bf20260506-2-gk3cf.png"
+    },
+    {
+      "path": "assets/display-web-original-ca2e46592c5b6d1174627465-ca2e46592c.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "sssx.io_1773746047178.mp4",
+      "bytes": 204633,
+      "sha256": "524eebfc5ab8672b4dec259278d91b12697506682d477a022bb2a71c5938a2da",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ca2e46592c5b6d1174627465.mp4",
+        "sourceSha256": "ca2e46592c5b6d1174627465f25e4b41aa312e43c3791326ccc83399c9e51539",
+        "originalBytes": 616392,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-94936cef6253039a8493c7fc.webp",
+      "mimeType": "image/webp",
+      "alt": "sssx.io_1773746047178.mp4",
+      "role": "preview",
+      "bytes": 10726,
+      "sha256": "94936cef6253039a8493c7fc36e9eace69df84f29f227e97cf3fb9e261eb24cb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888955/original_ffdae73b8f3150bf20260506-2-gk3cf.png",
+      "originalName": "ffdae73b8f3150bf20260506-2-gk3cf.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 49291,
+        "width": 1442,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:36:33.000Z",
+  "updatedAt": "2026-05-06T12:36:41.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888955",
+    "title": "sssx.io_1773746047178.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888955,
+      "url": "https://www.are.na/block/45888955",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "sssx.io_1773746047178.mp4",
+      "createdAt": "2026-05-06T12:36:33Z",
+      "updatedAt": "2026-05-06T12:36:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sssx.io_1773746047178.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Minimal Navigation",
+    "text": "All Design\n•\nEngineering\nProduct\nResearch",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2e8622b8f5f9c4e462145b7b096cd8e4e5ffffcfd27ef1baa04060f71e096b1b"
+  }
+}

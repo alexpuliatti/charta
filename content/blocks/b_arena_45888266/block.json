@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888266",
+  "type": "image",
+  "title": "Light Installation",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "light-installation",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-daef601e146157dcfc641e36.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Light Installation",
+      "role": "original",
+      "bytes": 181453,
+      "sha256": "daef601e146157dcfc641e367ca84d4c906fd4b34a647ea53a7216827c805402",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888266/original_6ec94daf2ae77b89637652dcdcf9535c.jpeg",
+      "originalName": "6ec94daf2ae77b89637652dcdcf9535c.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f88ee2a89010bb80312626f6.webp",
+      "mimeType": "image/webp",
+      "alt": "Light Installation",
+      "role": "thumbnail",
+      "bytes": 13156,
+      "sha256": "f88ee2a89010bb80312626f65c6b526248b289b9a59c0efafd54a276ce7144f9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODI2Ni9vcmlnaW5hbF82ZWM5NGRhZjJhZTc3Yjg5NjM3NjUyZGNkY2Y5NTM1Yy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6ec94daf2ae77b89637652dcdcf9535c.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-daef601e146157dcfc641e36-daef601e14.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Light Installation",
+      "bytes": 127958,
+      "sha256": "182263256a6cd7802787eb39bd531e26059db8f909e0d8132f300cfad680f271",
+      "width": 1080,
+      "height": 1433,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-daef601e146157dcfc641e36.jpg",
+        "sourceSha256": "daef601e146157dcfc641e367ca84d4c906fd4b34a647ea53a7216827c805402",
+        "originalBytes": 181453,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:11:13.000Z",
+  "updatedAt": "2026-05-06T12:11:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888266",
+    "title": "hhkeg8ixgaikvm0.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888266,
+      "url": "https://www.are.na/block/45888266",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhkeg8ixgaikvm0.jpeg",
+      "createdAt": "2026-05-06T12:11:13Z",
+      "updatedAt": "2026-05-06T12:11:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhkeg8ixgaikvm0.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Light Installation",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "182263256a6cd7802787eb39bd531e26059db8f909e0d8132f300cfad680f271"
+  }
+}

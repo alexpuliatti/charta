@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340307",
+  "type": "image",
+  "title": "Rooftop Conversation",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "rooftop-conversation",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-09404eee119c5883962e5616.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Rooftop Conversation",
+      "role": "original",
+      "bytes": 52208,
+      "sha256": "09404eee119c5883962e5616a4386caccc82febad9e222941ee29b3e95fcf422",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340307/original_196127e9d8746568a72a7a6fe3e0eef0.jpg",
+      "originalName": "196127e9d8746568a72a7a6fe3e0eef0.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f47869bbd34f69f6e4079c15.webp",
+      "mimeType": "image/webp",
+      "alt": "Rooftop Conversation",
+      "role": "thumbnail",
+      "bytes": 3912,
+      "sha256": "f47869bbd34f69f6e4079c15268da914d10cb1a05da72abd24aa584ee87126f8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwNy9vcmlnaW5hbF8xOTYxMjdlOWQ4NzQ2NTY4YTcyYTdhNmZlM2UwZWVmMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "196127e9d8746568a72a7a6fe3e0eef0.jpg"
+    },
+    {
+      "path": "assets/display-web-original-09404eee119c5883962e5616-09404eee11.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Rooftop Conversation",
+      "bytes": 26684,
+      "sha256": "fbc8c5f14a769345fb1521799eb4b85eb40ae3adc00e063595e119513a031278",
+      "width": 1170,
+      "height": 694,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-09404eee119c5883962e5616.jpg",
+        "sourceSha256": "09404eee119c5883962e5616a4386caccc82febad9e222941ee29b3e95fcf422",
+        "originalBytes": 52208,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340307",
+    "title": "88aa21771190fbfb289e817b0dab58a7.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340307,
+      "url": "https://www.are.na/block/44340307",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "88aa21771190fbfb289e817b0dab58a7.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "88aa21771190fbfb289e817b0dab58a7.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Rooftop Conversation",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "fbc8c5f14a769345fb1521799eb4b85eb40ae3adc00e063595e119513a031278"
+  }
+}

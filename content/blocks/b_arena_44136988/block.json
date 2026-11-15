@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136988",
+  "type": "image",
+  "title": "Golden Arch",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "golden-arch",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b5a86c80dd9e995912598774.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Golden Arch",
+      "role": "original",
+      "bytes": 114015,
+      "sha256": "b5a86c80dd9e995912598774a5ce5d7472edd96d93e38c5bb89548fd3de3fc0b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136988/original_4c5174d7ccac5069069dacbeba6239df.jpg",
+      "originalName": "4c5174d7ccac5069069dacbeba6239df.jpg"
+    },
+    {
+      "path": "assets/thumbnail-dbbcb15fd884b772462fa3e9.webp",
+      "mimeType": "image/webp",
+      "alt": "Golden Arch",
+      "role": "thumbnail",
+      "bytes": 8616,
+      "sha256": "dbbcb15fd884b772462fa3e9c11b5061d70e3a2d03306203b3fd1bdb8a7dacbd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk4OC9vcmlnaW5hbF80YzUxNzRkN2NjYWM1MDY5MDY5ZGFjYmViYTYyMzlkZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4c5174d7ccac5069069dacbeba6239df.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b5a86c80dd9e995912598774-b5a86c80dd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Golden Arch",
+      "bytes": 82808,
+      "sha256": "953136a988fd4b5d7e6613dd4e99361133b5074ba5eb0f62acb00d678e00d125",
+      "width": 960,
+      "height": 720,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b5a86c80dd9e995912598774.jpg",
+        "sourceSha256": "b5a86c80dd9e995912598774a5ce5d7472edd96d93e38c5bb89548fd3de3fc0b",
+        "originalBytes": 114015,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:38.000Z",
+  "updatedAt": "2026-05-09T13:21:43.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136988",
+    "title": "ha9p7axw0aaefqo.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136988,
+      "url": "https://www.are.na/block/44136988",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ha9p7axw0aaefqo.jpeg",
+      "createdAt": "2026-03-04T15:36:38Z",
+      "updatedAt": "2026-05-09T13:21:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ha9p7axw0aaefqo.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Golden Arch",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "953136a988fd4b5d7e6613dd4e99361133b5074ba5eb0f62acb00d678e00d125"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46319324",
+  "type": "link",
+  "title": "Sonomind Ultrasound",
+  "description": "Traiter la dépression grâce à la neuromodulation par ultrasons. Basée sur 25 ans de recherche, Sonomind propose une nouvelle approche thérapeutique visant un traitement rapide non-invasif et efficace afin que la dépression ne soit plus une fatalité. Voir nos dernières actualités Ils parlent de notre technologie La dépression 1ère cause d’invalidité dans le monde 300…",
+  "category": "Companies",
+  "tags": [
+    "ultrasound",
+    "neuromodulation",
+    "depression"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-8ad7d371edc516b9f3adb088.webp",
+      "mimeType": "image/webp",
+      "alt": "Home - Sonomind",
+      "role": "thumbnail",
+      "bytes": 10580,
+      "sha256": "8ad7d371edc516b9f3adb088a00abd4d78a3ec75e4d901643c6d78648da03c86",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjMxOTMyNC9vcmlnaW5hbF8xNTY4NmYwNzhmMzEyY2FmM2ZlMjQ4YWZhOTZjMThkMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "15686f078f312caf3fe248afa96c18d0.png"
+    },
+    {
+      "path": "assets/preview-d106eb0d54fcefef624ceb48.webp",
+      "mimeType": "image/webp",
+      "alt": "Home - Sonomind",
+      "role": "preview",
+      "bytes": 187916,
+      "sha256": "d106eb0d54fcefef624ceb48bc4b6a702ee0b46d24ac913059c377ee967eb634",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46319324/original_15686f078f312caf3fe248afa96c18d0.png",
+      "originalName": "15686f078f312caf3fe248afa96c18d0.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1745325,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-19T13:36:25.000Z",
+  "updatedAt": "2026-05-19T13:36:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.sonomind.com/",
+    "title": "Home - Sonomind",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46319324,
+      "url": "https://www.are.na/block/46319324",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Home - Sonomind",
+      "createdAt": "2026-05-19T13:36:25Z",
+      "updatedAt": "2026-05-19T13:36:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Home - Sonomind",
+      "category": "Speculative design",
+      "tags": [
+        "neurotechnology",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "version": "artifact-curation-v1",
+  "createdAt": "2026-11-15T13:17:57.516Z",
+  "materials": 1016,
+  "sections": {
+    "Graphic design": 334,
+    "Interface design": 248,
+    "Sound": 71,
+    "Culture": 73,
+    "Writing": 66,
+    "Architecture": 109,
+    "Objects": 24,
+    "Companies": 51,
+    "Technology": 40
+  },
+  "subsections": 38,
+  "visuallyReviewed": 766,
+  "extractedText": 470,
+  "sourceReviewNeeded": [
+    {
+      "id": "b_arena_41220028",
+      "title": "Scholar Profile",
+      "reason": "Read saved note or tweet body; title names its actual subject. Saved note contains only an opaque Google Scholar profile URL; live source returned 429. Scholar identity is unresolved."
+    },
+    {
+      "id": "b_arena_44333957",
+      "title": "Maxime Prananto",
+      "reason": "Title and saved source description identify the artifact and its subject. Visually reviewed thumbnail is an Instagram login page. Only the profile handle is available; entity title is grounded in the URL, not post content. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+    },
+    {
+      "id": "b_arena_45192138",
+      "title": "Interaction Question",
+      "reason": "Read saved note or tweet body; title names its actual subject. Visually reviewed thumbnail repeats the saved tweet asking about an embedded video without showing it. Actual video subject is unavailable. Inspected the saved local thumbnail visually (saved-tweet-thumbnail)."
+    },
+    {
+      "id": "b_arena_46147386",
+      "title": "Chloe Yan",
+      "reason": "Title is grounded in the named entity or artifact in the source URL and imported page title. URL identifies Chloe Yan; live site provides no readable text. Portfolio category follows original interfaces collection context."
+    },
+    {
+      "id": "b_arena_46252176",
+      "title": "Creative Code",
+      "reason": "Title is grounded in the named entity or artifact in the source URL and imported page title. Saved Notion URL identifies That Creative Code Page; body was unavailable in archive. Resource category is grounded in URL title and source collection."
+    },
+    {
+      "id": "b_arena_46592949",
+      "title": "Portal Gallery",
+      "reason": "Title and saved source description identify the artifact and its subject. Visually reviewed thumbnail identifies a gallery with the line “Come for a stroll through the garden of human creativity...” but its contents are loading. Gallery entity is provisional; source is not readable publicly. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+    },
+    {
+      "id": "b_arena_46980006",
+      "title": "Jessyin Writing",
+      "reason": "Title and saved source description identify the artifact and its subject. Saved page identifies Jessyin writing directory, not a specific article. Public page has only navigation and Loading state."
+    },
+    {
+      "id": "b_arena_52320357",
+      "title": "Thomson Video",
+      "reason": "Title is grounded in the named entity or artifact in the source URL and imported page title. Visually reviewed thumbnail shows the X login/loading page. Saved video post has author and URL only; actual video subject is unavailable. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+    },
+    {
+      "id": "b_arena_52320362",
+      "title": "Thomson Video",
+      "reason": "Title is grounded in the named entity or artifact in the source URL and imported page title. Visually reviewed thumbnail shows the X login page. Duplicate saved video post has author and URL only; actual video subject is unavailable. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+    }
+  ],
+  "articleConnections": 17,
+  "originalCollections": 78,
+  "mediaPreserved": 2459
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892515",
+  "type": "link",
+  "title": "Soft Glossary",
+  "description": "While the design process today mostly takes place digitally, books and magazines still enjoy great esteem due to their physical presence and materiality. Whether independent book fairs or awards for the most beautiful books, experimental and high-quality print objects continue to enjoy great popularity. At the same time, our everyday life is shaped by the internet and the applications and programs that come with it - yet websites do not receive the same attention as print objects within the design scene. The use of no-code editors and ready-made templates is accepted, although it would be unthinkable in other design fields. Coding a website yourself seems complicated and out of one’s skill set - why else are web design and programming often so strictly separated in the professional world? We think this separation is restrictive and outmoded. We consider code not only an essential tool, but also an enriching practice for the design discipline. We see the web as particularly relevant to designers because it was designed as a completely open publishing medium compared to apps, PDFs or eBooks. In our opinion, the design possibilities of the web are in most cases not fully utilised.",
+  "category": "Graphic design",
+  "tags": [
+    "publishing",
+    "web-publications",
+    "glossary"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-216c6c5392a13c201e989716.webp",
+      "mimeType": "image/webp",
+      "alt": ".softGlossary",
+      "role": "thumbnail",
+      "bytes": 25274,
+      "sha256": "216c6c5392a13c201e9897160d1f685fbd8cdbdb61dd5af9aca8b0c6b53897db",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjUxNS9vcmlnaW5hbF83NjQxMzQ4ZTAxNTlmMDgyZWNjNjZiMDdhOTYzZWU3YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7641348e0159f082ecc66b07a963ee7a.png"
+    },
+    {
+      "path": "assets/preview-7cacf2e0ae6efe677ecf7dc9.webp",
+      "mimeType": "image/webp",
+      "alt": ".softGlossary",
+      "role": "preview",
+      "bytes": 171984,
+      "sha256": "7cacf2e0ae6efe677ecf7dc96f790f6ef7b58eff5806ad6dad4b677671fd5299",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892515/original_7641348e0159f082ecc66b07a963ee7a.png",
+      "originalName": "7641348e0159f082ecc66b07a963ee7a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 757329,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:39:54.000Z",
+  "updatedAt": "2026-05-06T14:40:01.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://softglossary.space/",
+    "title": ".softGlossary",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892515,
+      "url": "https://www.are.na/block/45892515",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": ".softGlossary",
+      "createdAt": "2026-05-06T14:39:54Z",
+      "updatedAt": "2026-05-06T14:40:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": ".softGlossary",
+      "category": "Graphic design",
+      "tags": [
+        "editorial-design",
+        "print-design",
+        "web-design",
+        "product-design",
+        "books",
+        "programming",
+        "web-culture",
+        "tools"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

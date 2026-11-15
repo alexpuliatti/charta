@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177968",
+  "type": "link",
+  "title": "Navigation Cues",
+  "description": "A web-essay written by Domitille Debret, designed and developed by F451 for The HTML Review Issue 04, Spring 2025.",
+  "category": "Writing",
+  "tags": [
+    "navigation",
+    "web-essay",
+    "interface-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-fde6e3244cef41cc88adaf30.webp",
+      "mimeType": "image/webp",
+      "alt": "Navigation queues | Navigation cues",
+      "role": "thumbnail",
+      "bytes": 1730,
+      "sha256": "fde6e3244cef41cc88adaf308e77125dd07f3bb6b1bd58b37efd874ba1886cbe",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3Nzk2OC9vcmlnaW5hbF9mMzJmOTZjMmQ2MTEwMzFhMGFmYWQzOTFhNTJjOGRkNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f32f96c2d611031a0afad391a52c8dd4.png"
+    },
+    {
+      "path": "assets/preview-59336041f0ce92db3a9088c1.webp",
+      "mimeType": "image/webp",
+      "alt": "Navigation queues | Navigation cues",
+      "role": "preview",
+      "bytes": 73782,
+      "sha256": "59336041f0ce92db3a9088c101181358d2205d176b0df90d366d93f366673736",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177968/original_f32f96c2d611031a0afad391a52c8dd4.png",
+      "originalName": "f32f96c2d611031a0afad391a52c8dd4.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 117264,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T20:08:53.000Z",
+  "updatedAt": "2026-03-05T20:09:27.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://navigation-queues-navigation-cues.f451.studio/",
+    "title": "Navigation queues | Navigation cues",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177968,
+      "url": "https://www.are.na/block/44177968",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Navigation queues | Navigation cues",
+      "createdAt": "2026-03-05T20:08:53Z",
+      "updatedAt": "2026-03-05T20:09:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Navigation queues | Navigation cues",
+      "category": "Information design",
+      "tags": [
+        "writing",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

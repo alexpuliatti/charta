@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340254",
+  "type": "image",
+  "title": "Health Tracking",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "health-tracking",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6f30c6ee239189af7dd577de.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Health Tracking",
+      "role": "original",
+      "bytes": 53153,
+      "sha256": "6f30c6ee239189af7dd577de7446d659b48d8e538f4dd30fb2947fc8788fc201",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340254/original_0aa26565507161338c346d0fe74777fe.jpg",
+      "originalName": "0aa26565507161338c346d0fe74777fe.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5e250926e00792da1f8bd4e3.webp",
+      "mimeType": "image/webp",
+      "alt": "Health Tracking",
+      "role": "thumbnail",
+      "bytes": 4140,
+      "sha256": "5e250926e00792da1f8bd4e3227c0faa73470bcdba60aa7624578f15406b12d9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1NC9vcmlnaW5hbF8wYWEyNjU2NTUwNzE2MTMzOGMzNDZkMGZlNzQ3NzdmZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0aa26565507161338c346d0fe74777fe.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6f30c6ee239189af7dd577de-6f30c6ee23.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Health Tracking",
+      "bytes": 28984,
+      "sha256": "8ad88c20031407831e9d1084ec48dc97d8d13c44a06294a795916928119ed3f2",
+      "width": 1200,
+      "height": 941,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6f30c6ee239189af7dd577de.jpg",
+        "sourceSha256": "6f30c6ee239189af7dd577de7446d659b48d8e538f4dd30fb2947fc8788fc201",
+        "originalBytes": 53153,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340254",
+    "title": "c89dadd630ee4df833ad3cb076f94680.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340254,
+      "url": "https://www.are.na/block/44340254",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c89dadd630ee4df833ad3cb076f94680.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c89dadd630ee4df833ad3cb076f94680.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Health Tracking",
+    "text": "9:41\n• 5-\nHi Max, your focus levels\nwere highest at 10:am\nthis morning.\nMonday\nFRI 31 JAN\n10: 00am\n16:00pm\n20:00pm\nFOCUS LEVELS\nTrack and measure your\nfocus levels with axis\nTIME\n10:00AM-22: PM\nLongest Streak\n03hrs 12min\nDistraction Window\n13: pm-14:30pm\nPeak Focus Time\n08:30am-13:00pm\nTotal Focused Hrs\n03hrs 22min\nFocus Levels [Daily]",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8ad88c20031407831e9d1084ec48dc97d8d13c44a06294a795916928119ed3f2"
+  }
+}

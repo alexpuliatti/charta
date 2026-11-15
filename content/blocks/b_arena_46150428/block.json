@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46150428",
+  "type": "link",
+  "title": "Distinctive Tech Brands",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "brand-design",
+    "technology",
+    "distinctiveness"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2b957348bc95e27198c78f1e.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 11556,
+      "sha256": "2b957348bc95e27198c78f1ead3340163cabf792aff473add352483557b9922c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE1MDQyOC9vcmlnaW5hbF9iYjA5NzU3ZDE3YjE0MmY1OWVlZTYwMGU1YTVlNTI1OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bb09757d17b142f59eee600e5a5e5258.png"
+    },
+    {
+      "path": "assets/preview-8f5f769d019121b84e26e724.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 78432,
+      "sha256": "8f5f769d019121b84e26e724dd40dd1ee751351cccc76ce9002704154d338c87",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46150428/original_bb09757d17b142f59eee600e5a5e5258.png",
+      "originalName": "bb09757d17b142f59eee600e5a5e5258.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 415815,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:59:29.000Z",
+  "updatedAt": "2026-05-14T15:59:51.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://the-brandidentity.com/interview/kotos-tom-hostler-on-why-tech-brands-have-stopped-feeling-distinctive",
+    "title": "Link · leggi · 46150428",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46150428,
+      "url": "https://www.are.na/block/46150428",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-14T15:59:29Z",
+      "updatedAt": "2026-05-14T15:59:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · leggi · 46150428",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45889809",
+      "reason": "Both discuss brand distinctiveness through cultural personality and the limits of homogeneous technology branding.",
+      "method": "curation-v1"
+    }
+  ]
+}

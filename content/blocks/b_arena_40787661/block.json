@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787661",
+  "type": "image",
+  "title": "Studio Cabinets",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "studio-cabinets",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fc9eba0828131302cf4b8b53.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Studio Cabinets",
+      "role": "original",
+      "bytes": 71377,
+      "sha256": "fc9eba0828131302cf4b8b531a2c79903ce99400eace6eb09e2984778252f5f2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787661/original_2bffd2b3c5af5395b53618e2f70a06fd.jpg",
+      "originalName": "2bffd2b3c5af5395b53618e2f70a06fd.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e12673307e215a8e5610d052.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Cabinets",
+      "role": "thumbnail",
+      "bytes": 11196,
+      "sha256": "e12673307e215a8e5610d052c93bd4fa93157bd945f5c5e1b81d461ef49500f9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzY2MS9vcmlnaW5hbF8yYmZmZDJiM2M1YWY1Mzk1YjUzNjE4ZTJmNzBhMDZmZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2bffd2b3c5af5395b53618e2f70a06fd.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fc9eba0828131302cf4b8b53-fc9eba0828.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Cabinets",
+      "bytes": 49620,
+      "sha256": "5aea1da5160c7724c96848a0d50b0061d7ce7c865d5096d88868bc75d3c97952",
+      "width": 750,
+      "height": 761,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fc9eba0828131302cf4b8b53.jpg",
+        "sourceSha256": "fc9eba0828131302cf4b8b531a2c79903ce99400eace6eb09e2984778252f5f2",
+        "originalBytes": 71377,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:53:23.000Z",
+  "updatedAt": "2026-06-03T17:00:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787661",
+    "title": "7969bca770bce8603335189728417463.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787661,
+      "url": "https://www.are.na/block/40787661",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "7969bca770bce8603335189728417463.jpg",
+      "createdAt": "2025-11-02T15:53:23Z",
+      "updatedAt": "2026-06-03T17:00:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "7969bca770bce8603335189728417463.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Cabinets",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5aea1da5160c7724c96848a0d50b0061d7ce7c865d5096d88868bc75d3c97952"
+  }
+}

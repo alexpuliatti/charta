@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340241",
+  "type": "image",
+  "title": "Climbing Dashboard",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "climbing-dashboard",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f1ce07e18b39f679a32699a5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Climbing Dashboard",
+      "role": "original",
+      "bytes": 109919,
+      "sha256": "f1ce07e18b39f679a32699a56a15660345eb0e24c0cc5b1f57656f234809e0db",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340241/original_7265aff89b30134be30b579053aef98e.jpg",
+      "originalName": "7265aff89b30134be30b579053aef98e.jpg"
+    },
+    {
+      "path": "assets/thumbnail-963d9417c7966ca00fc7a79a.webp",
+      "mimeType": "image/webp",
+      "alt": "Climbing Dashboard",
+      "role": "thumbnail",
+      "bytes": 12628,
+      "sha256": "963d9417c7966ca00fc7a79aef58eeda014b6fcd067db52704e996b1e2a7cf0d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI0MS9vcmlnaW5hbF83MjY1YWZmODliMzAxMzRiZTMwYjU3OTA1M2FlZjk4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7265aff89b30134be30b579053aef98e.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f1ce07e18b39f679a32699a5-f1ce07e18b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Climbing Dashboard",
+      "bytes": 76110,
+      "sha256": "99f1efa3f58859b7a96c4413ff95ac3e15547f6d862cc2cf4eb28522fdee5218",
+      "width": 1179,
+      "height": 1177,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f1ce07e18b39f679a32699a5.jpg",
+        "sourceSha256": "f1ce07e18b39f679a32699a56a15660345eb0e24c0cc5b1f57656f234809e0db",
+        "originalBytes": 109919,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:31.000Z",
+  "updatedAt": "2026-03-11T17:40:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340241",
+    "title": "96070990a4f83e6c3a8836b49708543c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340241,
+      "url": "https://www.are.na/block/44340241",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "96070990a4f83e6c3a8836b49708543c.jpg",
+      "createdAt": "2026-03-11T17:40:31Z",
+      "updatedAt": "2026-03-11T17:40:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "96070990a4f83e6c3a8836b49708543c.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Climbing Dashboard",
+    "text": "Route covered\nNew view\n((o))\nClimbing log\nArchived\nStarted to climb\n17.06.24 at 7:34 AM\nGroup\nEnd\nEnd\n6 climbers Full list\n17.06.24, at 8 AM\n24.06.24, at 8 PM\nGuide\nLicense\nStatus\nOliver Harmons\nFRG6743PT\nApproved //\nFirst camp\n17.06.24 at 6:12 PM\nName\nMount camp June 24\nLocation\nCrater Camp",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "99f1efa3f58859b7a96c4413ff95ac3e15547f6d862cc2cf4eb28522fdee5218"
+  }
+}

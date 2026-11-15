@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47127523",
+  "type": "link",
+  "title": "GenCup Posters",
+  "description": "GenCup turns every match of the 2026 FIFA World Cup into a generative poster. An art project where football, code and graphic design meet. Every match, a new poster.",
+  "category": "Graphic design",
+  "tags": [
+    "generative-design",
+    "posters",
+    "football"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2fabc076312fda881f420fa9.webp",
+      "mimeType": "image/webp",
+      "alt": "GenCup 2026 — Generative posters from the FIFA World Cup",
+      "role": "thumbnail",
+      "bytes": 3690,
+      "sha256": "2fabc076312fda881f420fa9f0403decb80212c65c188f424ad4347451a91b01",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzEyNzUyMy9vcmlnaW5hbF8yODBkMTZiODkzYjFhZmZhOWRlYThjY2EzMjMwOTAzMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "280d16b893b1affa9dea8cca32309031.png"
+    },
+    {
+      "path": "assets/preview-e9cfff4420e37b178be7238e.webp",
+      "mimeType": "image/webp",
+      "alt": "GenCup 2026 — Generative posters from the FIFA World Cup",
+      "role": "preview",
+      "bytes": 319958,
+      "sha256": "e9cfff4420e37b178be7238e371c87c4f77bd4efca49f5e9970143bf93d66632",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47127523/original_280d16b893b1affa9dea8cca32309031.png",
+      "originalName": "280d16b893b1affa9dea8cca32309031.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1996943,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-18T09:14:12.000Z",
+  "updatedAt": "2026-08-17T21:56:32.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.gencup.art/",
+    "title": "GenCup 2026 — Generative posters from the FIFA World Cup",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47127523,
+      "url": "https://www.are.na/block/47127523",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "GenCup 2026 — Generative posters from the FIFA World Cup",
+      "createdAt": "2026-06-18T09:14:12Z",
+      "updatedAt": "2026-08-17T21:56:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GenCup 2026 — Generative posters from the FIFA World Cup",
+      "category": "Graphic design",
+      "tags": [
+        "posters",
+        "creative-coding",
+        "graphic-design",
+        "programming",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340320",
+  "type": "image",
+  "title": "Circular Gathering",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "circular-gathering",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bb5cc9d3a85e263dda1ca375.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Circular Gathering",
+      "role": "original",
+      "bytes": 172094,
+      "sha256": "bb5cc9d3a85e263dda1ca375c508fcdd4ab9f2ca19f96b3409b1f117518dc2b4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340320/original_d33251562af9e00f06fd9ad7e563e433.jpg",
+      "originalName": "d33251562af9e00f06fd9ad7e563e433.jpg"
+    },
+    {
+      "path": "assets/thumbnail-25c98a74dcf28db16f98b01e.webp",
+      "mimeType": "image/webp",
+      "alt": "Circular Gathering",
+      "role": "thumbnail",
+      "bytes": 17426,
+      "sha256": "25c98a74dcf28db16f98b01e58206e3c2d29bac2dce52fd40585651fdae78365",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMyMC9vcmlnaW5hbF9kMzMyNTE1NjJhZjllMDBmMDZmZDlhZDdlNTYzZTQzMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d33251562af9e00f06fd9ad7e563e433.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:10.000Z",
+  "updatedAt": "2026-03-22T04:21:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340320",
+    "title": "df7ee123033d361b3e1c426e13e23696.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340320,
+      "url": "https://www.are.na/block/44340320",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "df7ee123033d361b3e1c426e13e23696.jpg",
+      "createdAt": "2026-03-11T17:42:10Z",
+      "updatedAt": "2026-03-22T04:21:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "df7ee123033d361b3e1c426e13e23696.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circular Gathering",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bb5cc9d3a85e263dda1ca375c508fcdd4ab9f2ca19f96b3409b1f117518dc2b4"
+  }
+}

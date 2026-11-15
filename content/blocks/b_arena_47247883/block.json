@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247883",
+  "type": "image",
+  "title": "Gradient Editor",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "gradient-editor",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-acb97446fa9e51e81ed134bd.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Gradient Editor",
+      "role": "original",
+      "bytes": 342303,
+      "sha256": "acb97446fa9e51e81ed134bdd263db4ed5c12149637c41ff1884b5746ad594b9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247883/original_c6178bb41ba270b31fff877d2db5f0fb.jpeg",
+      "originalName": "c6178bb41ba270b31fff877d2db5f0fb.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-aa8559991253b7ef329b5a9d.webp",
+      "mimeType": "image/webp",
+      "alt": "Gradient Editor",
+      "role": "thumbnail",
+      "bytes": 4630,
+      "sha256": "aa8559991253b7ef329b5a9de5e3f78c595278a40a374f21e1b9f1293c045736",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg4My9vcmlnaW5hbF9jNjE3OGJiNDFiYTI3MGIzMWZmZjg3N2QyZGI1ZjBmYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c6178bb41ba270b31fff877d2db5f0fb.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-acb97446fa9e51e81ed134bd-acb97446fa.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Gradient Editor",
+      "bytes": 53398,
+      "sha256": "27a6ccdfbc5e06f56d6d921847486fead9ae5fd1d9b3473fb9b4c37616499ad2",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-acb97446fa9e51e81ed134bd.jpg",
+        "sourceSha256": "acb97446fa9e51e81ed134bdd263db4ed5c12149637c41ff1884b5746ad594b9",
+        "originalBytes": 342303,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:49.000Z",
+  "updatedAt": "2026-06-23T14:28:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247883",
+    "title": "GySUAw9XMAACd58",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247883,
+      "url": "https://www.are.na/block/47247883",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "GySUAw9XMAACd58",
+      "createdAt": "2026-06-23T14:28:49Z",
+      "updatedAt": "2026-06-23T14:28:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GySUAw9XMAACd58",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Gradient Editor",
+    "text": "Project's name\n• Sanya 'koyi • 0 122} 62\nDescription\nI've been playing around with gradients lately and wanted a quick way to make\nradial ones without fiddling in Figma or CSS by hand - so I built this! * You can\npick your colors, move them around, tweak the spread, and see everything update\ninstantly. Once it looks right, just grab the CSS or download it as an image. I've been\nusing it for backgrounds in my prototypes, but it works great for hero sections,\nbuttons, or even funky patterns. Super simple, super fast, and kinda addictive.\nCategories\nShaders\nGradients\nGenerators\nVisual Effects\nLast updated 24 May, 2025\nA Seing later\nA Shes finde\nRemix this project",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "27a6ccdfbc5e06f56d6d921847486fead9ae5fd1d9b3473fb9b4c37616499ad2"
+  }
+}

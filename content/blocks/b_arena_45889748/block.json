@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889748",
+  "type": "image",
+  "title": "Diario Index",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "diario-index",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-316f78873c24b222036dc181.png",
+      "mimeType": "image/png",
+      "alt": "Diario Index",
+      "role": "original",
+      "bytes": 1194260,
+      "sha256": "316f78873c24b222036dc181db26b167cbef2fdb96b6f9ed878bb2598e9d6937",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889748/original_cfb493a009072c481cc61d3c495eda65.png",
+      "originalName": "cfb493a009072c481cc61d3c495eda65.png"
+    },
+    {
+      "path": "assets/thumbnail-67a5fa4ee21cc6e1b47c6095.webp",
+      "mimeType": "image/webp",
+      "alt": "Diario Index",
+      "role": "thumbnail",
+      "bytes": 4752,
+      "sha256": "67a5fa4ee21cc6e1b47c609525f225302dc3819075f5bec6a09ee10aca6254eb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTc0OC9vcmlnaW5hbF9jZmI0OTNhMDA5MDcyYzQ4MWNjNjFkM2M0OTVlZGE2NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cfb493a009072c481cc61d3c495eda65.png"
+    },
+    {
+      "path": "assets/display-web-original-316f78873c24b222036dc181-316f78873c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Diario Index",
+      "bytes": 66608,
+      "sha256": "821f56498166db757802d59322c5efa9cef1504fec6ba34e3a9b8bc54cd1fb39",
+      "width": 2000,
+      "height": 1442,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-316f78873c24b222036dc181.png",
+        "sourceSha256": "316f78873c24b222036dc181db26b167cbef2fdb96b6f9ed878bb2598e9d6937",
+        "originalBytes": 1194260,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:09:43.000Z",
+  "updatedAt": "2026-05-06T13:09:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889748",
+    "title": "screenshot-2026-04-13-alle-21.49.13.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889748,
+      "url": "https://www.are.na/block/45889748",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-13-alle-21.49.13.png",
+      "createdAt": "2026-05-06T13:09:43Z",
+      "updatedAt": "2026-05-06T13:09:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-13-alle-21.49.13.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Diario Index",
+    "text": "Diario\n1\nPlinto\nPampulhas\nCandombe\nAlma\nDuc\nBulevar\nBulevar *\nJaime Zudañez\nDos\nSalvaje\nTarro\nPatio\nestudio-diario.com/plinto\nMobiliario\nMobiliario\nObjeto\nMobiliario\nMobiliario\nEspacio\nEspacio\nEspacio\nMobiliario\nObjeto\nObjeto\nObjeto\n3\nButaca\nMesa\nAlfombra\nSofa\nButaca\nCocina\nLiving\nCocina\nMesa\nSet de Tocador\nContenedores\nLampara\n•\n4 V\n2025\n2025\n2025\n2024\n2024\n2024\n2024\n2020\n2019\n2019\n2014\n2014",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "821f56498166db757802d59322c5efa9cef1504fec6ba34e3a9b8bc54cd1fb39"
+  }
+}

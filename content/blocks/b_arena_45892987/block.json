@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892987",
+  "type": "link",
+  "title": "Whole Earth",
+  "description": "Here lies a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1968 and 2002.",
+  "category": "Culture",
+  "tags": [
+    "whole-earth",
+    "magazines",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a945a723e9fd85b2bec86354.webp",
+      "mimeType": "image/webp",
+      "alt": "Whole Earth Index",
+      "role": "thumbnail",
+      "bytes": 11156,
+      "sha256": "a945a723e9fd85b2bec86354b0d21eaafcb00473971846d088f9b6783a6827d4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjk4Ny9vcmlnaW5hbF8zMTJlMGRhM2E4NDE2NDNjOTQ3ODJkNmIwYWM2ZjU5NC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "312e0da3a841643c94782d6b0ac6f594.png"
+    },
+    {
+      "path": "assets/preview-8fca615a4d3ac1ed08bea773.webp",
+      "mimeType": "image/webp",
+      "alt": "Whole Earth Index",
+      "role": "preview",
+      "bytes": 85568,
+      "sha256": "8fca615a4d3ac1ed08bea773f2023b7b609d7ef9bc6c32567021dae4136738a8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892987/original_312e0da3a841643c94782d6b0ac6f594.png",
+      "originalName": "312e0da3a841643c94782d6b0ac6f594.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 302168,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:53:59.000Z",
+  "updatedAt": "2026-05-06T14:54:09.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://wholeearth.info/",
+    "title": "Whole Earth Index",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892987,
+      "url": "https://www.are.na/block/45892987",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Whole Earth Index",
+      "createdAt": "2026-05-06T14:53:59Z",
+      "updatedAt": "2026-05-06T14:54:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Archives",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Whole Earth Index",
+      "category": "Graphic design",
+      "tags": [
+        "editorial-design",
+        "books",
+        "archives",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  }
+}

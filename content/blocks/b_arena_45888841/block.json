@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888841",
+  "type": "video",
+  "title": "Adult Magazine",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "adult-magazine",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b36ce240c5b00c34b2ebc0ad.mov",
+      "mimeType": "video/quicktime",
+      "alt": "registrazione-schermo-2026-04-27-alle-13.13.40-1.mov",
+      "role": "original",
+      "bytes": 53498637,
+      "sha256": "b36ce240c5b00c34b2ebc0ade164bac5eeaaf9e6820ff65b062414da2e035bcc",
+      "sourceUrl": "https://attachments.are.na/45888841/7fbbcb3aaa26d7f510586cae0c2eb949.mov",
+      "originalName": "7fbbcb3aaa26d7f510586cae0c2eb949.mov"
+    },
+    {
+      "path": "assets/thumbnail-0210a1fc9ddbcc468cf71001.webp",
+      "mimeType": "image/webp",
+      "alt": "Adult Magazine",
+      "role": "thumbnail",
+      "bytes": 12030,
+      "sha256": "0210a1fc9ddbcc468cf7100114eb92b7acbef3c4ce6e800e658e1fd23c66c190",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg0MS9vcmlnaW5hbF82N2JmYjZmNDgyY2ViN2UwMjAyNjA1MDYtMi1uNnRld3kucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "67bfb6f482ceb7e020260506-2-n6tewy.png"
+    },
+    {
+      "path": "assets/display-web-original-b36ce240c5b00c34b2ebc0ad-b36ce240c5.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "registrazione-schermo-2026-04-27-alle-13.13.40-1.mov",
+      "bytes": 5952262,
+      "sha256": "cc65186d80bcb31954c7ec9af2418201831c6f52034ee6e3ba6d4168db5aaa01",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b36ce240c5b00c34b2ebc0ad.mov",
+        "sourceSha256": "b36ce240c5b00c34b2ebc0ade164bac5eeaaf9e6820ff65b062414da2e035bcc",
+        "originalBytes": 53498637,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-efbd5b221b8c43856df9630c.webp",
+      "mimeType": "image/webp",
+      "alt": "registrazione-schermo-2026-04-27-alle-13.13.40-1.mov",
+      "role": "preview",
+      "bytes": 192742,
+      "sha256": "efbd5b221b8c43856df9630c1b4d3bdb33202b8d99814d38449c740a3d020a14",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888841/original_67bfb6f482ceb7e020260506-2-n6tewy.png",
+      "originalName": "67bfb6f482ceb7e020260506-2-n6tewy.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1875818,
+        "width": 1280,
+        "height": 912,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:32:13.000Z",
+  "updatedAt": "2026-05-06T12:32:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888841",
+    "title": "registrazione-schermo-2026-04-27-alle-13.13.40-1.mov",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888841,
+      "url": "https://www.are.na/block/45888841",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "registrazione-schermo-2026-04-27-alle-13.13.40-1.mov",
+      "createdAt": "2026-05-06T12:32:13Z",
+      "updatedAt": "2026-05-06T12:32:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "registrazione-schermo-2026-04-27-alle-13.13.40-1.mov",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Adult Magazine",
+    "text": "Adult",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0210a1fc9ddbcc468cf7100114eb92b7acbef3c4ce6e800e658e1fd23c66c190"
+  }
+}

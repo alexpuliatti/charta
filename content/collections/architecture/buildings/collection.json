@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_architecture_buildings",
+  "title": "Buildings",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_45888895"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888728"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137288"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137290"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137294"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137295"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137286"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995855"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995842"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995825"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995823"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995822"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995817"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995812"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_41087408"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787910"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787869"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787860"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787861"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

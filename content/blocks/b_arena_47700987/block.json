@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700987",
+  "type": "image",
+  "title": "Body Library",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "body-library",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-336a46e3d64ffceff30c9474.png",
+      "mimeType": "image/png",
+      "alt": "Body Library",
+      "role": "original",
+      "bytes": 1142443,
+      "sha256": "336a46e3d64ffceff30c9474b82c267aa10147ff36f945f3425e13ca4acb759e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700987/original_3645065eada4009fa5b9b74096fdf560.png",
+      "originalName": "3645065eada4009fa5b9b74096fdf560.png"
+    },
+    {
+      "path": "assets/thumbnail-cf5f5165a09f9f86940e039d.webp",
+      "mimeType": "image/webp",
+      "alt": "Body Library",
+      "role": "thumbnail",
+      "bytes": 10652,
+      "sha256": "cf5f5165a09f9f86940e039de82968ce4a55b77b97b10994e99d9805c1a0c3e2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk4Ny9vcmlnaW5hbF8zNjQ1MDY1ZWFkYTQwMDlmYTViOWI3NDA5NmZkZjU2MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3645065eada4009fa5b9b74096fdf560.png"
+    },
+    {
+      "path": "assets/display-web-original-336a46e3d64ffceff30c9474-336a46e3d6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Body Library",
+      "bytes": 68480,
+      "sha256": "7e20511a43def366505f4092f107cd9e77b067a312d39f7123a8db10674a75ec",
+      "width": 1004,
+      "height": 1240,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-336a46e3d64ffceff30c9474.png",
+        "sourceSha256": "336a46e3d64ffceff30c9474b82c267aa10147ff36f945f3425e13ca4acb759e",
+        "originalBytes": 1142443,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:53.000Z",
+  "updatedAt": "2026-07-14T00:10:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700987",
+    "title": "Screenshot 2023-09-12 alle 16.49.59",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700987,
+      "url": "https://www.are.na/block/47700987",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.49.59",
+      "createdAt": "2026-07-08T14:55:53Z",
+      "updatedAt": "2026-07-14T00:10:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.49.59",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Body Library",
+    "text": "THE\nBODY\nIN THE\nLIBRARY\nКИЦІН\nAGATHA\nCHRISTIE\nШИНАНН\nby\nAGATHA\nCHRISTIE\nTHE\nCRIME\nLUB",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7e20511a43def366505f4092f107cd9e77b067a312d39f7123a8db10674a75ec"
+  }
+}

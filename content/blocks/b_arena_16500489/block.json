@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_16500489",
+  "type": "image",
+  "title": "Terracotta Speaker",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "terracotta-speaker",
+    "product-design",
+    "objects-and-materials"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bc457518d3bce82c1a448060.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Terracotta Speaker",
+      "role": "original",
+      "bytes": 92212,
+      "sha256": "bc457518d3bce82c1a448060d5867d22bcd1088141f371b51f4597450af0717e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/16500489/original_d5bbebe5efbd1ab126d2b0f3554bb032.jpg",
+      "originalName": "d5bbebe5efbd1ab126d2b0f3554bb032.jpg"
+    },
+    {
+      "path": "assets/thumbnail-761ead905be3c80aa8e00c7d.webp",
+      "mimeType": "image/webp",
+      "alt": "Terracotta Speaker",
+      "role": "thumbnail",
+      "bytes": 2756,
+      "sha256": "761ead905be3c80aa8e00c7dd413368a2394cb8d1551008e19b6e7f664d1e350",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNjUwMDQ4OS9vcmlnaW5hbF9kNWJiZWJlNWVmYmQxYWIxMjZkMmIwZjM1NTRiYjAzMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d5bbebe5efbd1ab126d2b0f3554bb032.jpg"
+    },
+    {
+      "path": "assets/display-web-original-bc457518d3bce82c1a448060-bc457518d3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Terracotta Speaker",
+      "bytes": 22652,
+      "sha256": "1d0f8367e2b2e17e223d09abec534034815a25fb6eff1ef0e352797a9f2a7534",
+      "width": 630,
+      "height": 804,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bc457518d3bce82c1a448060.jpg",
+        "sourceSha256": "bc457518d3bce82c1a448060d5867d22bcd1088141f371b51f4597450af0717e",
+        "originalBytes": 92212,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2022-05-17T16:27:36.000Z",
+  "updatedAt": "2026-05-10T19:31:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/59812a142934511.627104c486731.jpg",
+    "title": "59812a142934511.627104c486731.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 16500489,
+      "url": "https://www.are.na/block/16500489",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "59812a142934511.627104c486731.jpg",
+      "createdAt": "2022-05-17T16:27:36Z",
+      "updatedAt": "2026-05-10T19:31:02Z",
+      "addedBy": {
+        "id": 10482,
+        "name": "Julianna Probst",
+        "slug": "julianna-probst"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "59812a142934511.627104c486731.jpg",
+      "category": "Objects and materials",
+      "tags": [
+        "product-design",
+        "objects",
+        "objects-and-materials"
+      ],
+      "collectionIds": [
+        "c_arena_4921285"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Terracotta Speaker",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1d0f8367e2b2e17e223d09abec534034815a25fb6eff1ef0e352797a9f2a7534"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995845",
+  "type": "image",
+  "title": "Sunken Hearth",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "sunken-hearth",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1e480a6b3f0ede0ce82dd0c9.png",
+      "mimeType": "image/png",
+      "alt": "Sunken Hearth",
+      "role": "original",
+      "bytes": 2943699,
+      "sha256": "1e480a6b3f0ede0ce82dd0c9fa0515bf55923c1361447719c20550faaf5aff4b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995845/original_8a7f7c8afea7fac1333456c585630cbd.png",
+      "originalName": "8a7f7c8afea7fac1333456c585630cbd.png"
+    },
+    {
+      "path": "assets/thumbnail-86e7407be40b6efa0311d0fe.webp",
+      "mimeType": "image/webp",
+      "alt": "Sunken Hearth",
+      "role": "thumbnail",
+      "bytes": 15256,
+      "sha256": "86e7407be40b6efa0311d0fea4ac70ec2a09cdaf6309011826778991e1577e8b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTg0NS9vcmlnaW5hbF84YTdmN2M4YWZlYTdmYWMxMzMzNDU2YzU4NTYzMGNiZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8a7f7c8afea7fac1333456c585630cbd.png"
+    },
+    {
+      "path": "assets/display-web-original-1e480a6b3f0ede0ce82dd0c9-1e480a6b3f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sunken Hearth",
+      "bytes": 249854,
+      "sha256": "1cfadb3996e1b5760c9e19c12547c037429555fbff5bd5bbc27098d55e34b8b9",
+      "width": 1800,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1e480a6b3f0ede0ce82dd0c9.png",
+        "sourceSha256": "1e480a6b3f0ede0ce82dd0c9fa0515bf55923c1361447719c20550faaf5aff4b",
+        "originalBytes": 2943699,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:03:11.000Z",
+  "updatedAt": "2026-02-28T12:03:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995845",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995845,
+      "url": "https://www.are.na/block/43995845",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:03:11Z",
+      "updatedAt": "2026-02-28T12:03:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sunken Hearth",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1cfadb3996e1b5760c9e19c12547c037429555fbff5bd5bbc27098d55e34b8b9"
+  }
+}

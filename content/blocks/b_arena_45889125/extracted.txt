@@ -1,0 +1,150 @@
+Connecting space to  
+Earth in realtime.
+
+Hedron is building a 
+network of data relay 
+satellites that will 
+solve the connectivity 
+problems faced by 
+remote sensing 
+constellations. 
+OUR STORY
+CONNECTING SPACE TO EARTH 24 /7
+Earth Observing Satellites spend 70% of their orbits in 
+connectivity blackout zones, forced to hold their critical 
+data onboard until the next downlink opportunity.  
+With leading multi-aperture optical technology, Hedron 
+is building the critical infrastructure that makes high 
+bandwidth, low latency connectivity to space a reality.
+2
+
+
+4 TECHNOLOGY
+Space’s open data 
+relay network is 
+built with Earth ’s 
+best technology.
+01  Satellites collect data 
+about our planet.
+02  Satellites offload data to 
+Network using RF and 
+Optical Relays.
+03  The Halo Network optically 
+routes data through a series 
+of relays, finding the optimal 
+pathway to the ground.
+04  Data is downlinked using 
+RF and laser connections 
+to ground service providers 
+and end users.
+He d r o n’s initial operating demonstration will decrease data downlink latency for 
+client GEOINT satellites after data collections in any Area of Responsibility.
+With the deployment of converter satellites in close proximity to partner GEOINT 
+collection satellites, Hedron delivers an “always on ” TT&C and a direct connection 
+to the Halo Network.
+The Halo Network will leverage software defined radios to ingest EO data from 
+legacy imaging satellites in a wide range of radio frequencies, allowing clients to 
+extend their downlink capacity while using existing hardware.
+By increasing data rates and widening ground station availability, the Hedron 
+network will enable EO satellite operators to downlink and deliver up to six times 
+the amount of data previously possible.
+LOW LATENCY 
+ALWAYS ON TASKING
+BACKWARDS COMPATIBILITY
+INCREASING THROUGHPUT
+
+W e’re bringing 
+it down here.
+6 USE CASES
+Remote sensing satellites gather data 
+that helps feed, effect, and protect 
+millions. They provide crucial weather 
+data, help optimize industrial-scale 
+agriculture, track vital industrial assets, 
+aid in disaster response, and more.
+The data to fight 
+forest fires, 
+   
+ plan food security, observe oceans, 
+  track emissions,  
+ predict natural disasters, monitor 
+maritime areas and  
+saves lives 
+  
+is up there.
+
+TIMELINE
+Hedron ’s demonstration satellites  
+set to launch in 2022.
+Hedron raises $3.5M in 
+seed funding
+Radix, the first tech demo satellite, 
+commences test campaign fully 
+booked with government and 
+commercial partners.
+$3M win on 
+Space Pitch Day
+Hedron receives a $26.4M 
+USSF Contract to build out the 
+initial operating demonstration 
+satellite network.
+2017201820192020
+FCC authorizes data relay test 
+with first customers
+Opens an Optical Communications 
+T est Lab in Los Angeles, California
+Fully booked benchtop test campaign 
+with premier remote sensing satellite 
+constellation operators underway.
+Raises +$17 .8M 
+Series A 
+Financing Round
+2021
+Announces Senior Leadership 
+Appointments and announces 
+name change to Hedron.
+TIMELINE
+Licenses the Inter Satellite 
+Optical Communicator (ISOC) 
+from NASA JPL.
+
+
+10
+ADVISORY BOARD
+Robert Cardillo
+F ormer Director of the NGA, F ormer 
+Deputy Director of National Intelligence
+Pete W orden
+F ormer NASA Ames Director Chairman, 
+Breakthrough Prize F oundation
+Peter Marquez
+F ormer White House Director  of Space 
+Policy, Head of Space Policy at A WS
+Mike F rench
+F ormer NASA Chief of Staff,   
+F ormer Bryce Space & T echnology  
+SVP of Commercial Space
+Justin Oliveira Advisor and Co-F ounder
+Amanda  
+Koenig Fuisz
+F ormer T echnology Legal Strategist, 
+Senior Attorney, NASA
+Ramana Nanda
+Sarofim-Rock Professor, Harvard 
+Business School
+Steve Blumenthal
+F ormer Speedy Packets VP of 
+Engineering, VP of Engineering at W afer
+PROGRESS AND ACCOLADES U.S. Space F orce Contract Currently on contract to prototype and 
+deliver data delay as a service with 2 
+AFWERX awards.
+2019 F ast Company Most Innovative Company
+2019 AFRL - sponsored Catalyst Space 
+Accelerator Cohort
+2018 NASA iT ech Competition Winner
+2016 MassChallenge Platinum Prize Winner
+CONTACT
+hedron.space
+© 2021 HEDRON SPACE
+
+hedron.space

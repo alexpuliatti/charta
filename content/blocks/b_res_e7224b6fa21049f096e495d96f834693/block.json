@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_e7224b6fa21049f096e495d96f834693",
+  "type": "link",
+  "title": "LatchBio | Researching and Improving AI Agents for Biology",
+  "source": {
+    "url": "https://latch.bio/",
+    "title": "LatchBio | Researching and Improving AI Agents for Biology",
+    "capturedAt": "2026-11-15T15:52:29.442Z"
+  },
+  "description": "LatchBio builds verifiable benchmarks that measure how frontier AI agents perform on real-world biological data: spatial, single-cell, epigenomics, pharmacology and biosecurity.",
+  "category": "Companies",
+  "tags": [
+    "biotech",
+    "ai",
+    "biology",
+    "research-tools",
+    "link"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-11-15T15:52:30.693Z",
+  "updatedAt": "2026-11-15T17:04:19.317Z",
+  "bodyPath": "body.md",
+  "ingest": {
+    "operationId": "b_res_e7224b6fa21049f096e495d96f834693"
+  },
+  "organization": {
+    "method": "content-rules-v1",
+    "reason": "The company develops technology for biology and biotech research.",
+    "confidence": 0.88,
+    "destinationPath": [
+      "Companies",
+      "Health technology",
+      "Biotech"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340311",
+  "type": "image",
+  "title": "Open Workspace",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "open-workspace",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d628aaad12bd9a1f33aea578.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Open Workspace",
+      "role": "original",
+      "bytes": 68889,
+      "sha256": "d628aaad12bd9a1f33aea578a3253e29631ab7bcfc4755394a7c8c9e0462ce79",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340311/original_2a929d361c277f26adf1b0c8d2590524.jpg",
+      "originalName": "2a929d361c277f26adf1b0c8d2590524.jpg"
+    },
+    {
+      "path": "assets/thumbnail-747c6e0cdea1e0276d906f0b.webp",
+      "mimeType": "image/webp",
+      "alt": "Open Workspace",
+      "role": "thumbnail",
+      "bytes": 9648,
+      "sha256": "747c6e0cdea1e0276d906f0b0aef063653940b2dea26bc1afbaf54d055729905",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxMS9vcmlnaW5hbF8yYTkyOWQzNjFjMjc3ZjI2YWRmMWIwYzhkMjU5MDUyNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2a929d361c277f26adf1b0c8d2590524.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d628aaad12bd9a1f33aea578-d628aaad12.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Open Workspace",
+      "bytes": 47396,
+      "sha256": "f0c5e63e42cf09a045f798f96831e121bc5722a7576828132c3226024ef2398f",
+      "width": 900,
+      "height": 600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d628aaad12bd9a1f33aea578.jpg",
+        "sourceSha256": "d628aaad12bd9a1f33aea578a3253e29631ab7bcfc4755394a7c8c9e0462ce79",
+        "originalBytes": 68889,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340311",
+    "title": "1725187e0a30c0da0cb26b915d7b59c7.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340311,
+      "url": "https://www.are.na/block/44340311",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "1725187e0a30c0da0cb26b915d7b59c7.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "1725187e0a30c0da0cb26b915d7b59c7.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Open Workspace",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f0c5e63e42cf09a045f798f96831e121bc5722a7576828132c3226024ef2398f"
+  }
+}

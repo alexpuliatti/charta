@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144636",
+  "type": "image",
+  "title": "Health Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "health-typography",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9a77e89e48f7a79741b59dec.png",
+      "mimeType": "image/png",
+      "alt": "Health Typography",
+      "role": "original",
+      "bytes": 1099475,
+      "sha256": "9a77e89e48f7a79741b59dec7b98441bbb6c5e9d5651b604899569ed8b8b5c98",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144636/original_486ff90b812f876924e500318186c91b.png",
+      "originalName": "486ff90b812f876924e500318186c91b.png"
+    },
+    {
+      "path": "assets/thumbnail-e4058e37841d1d23cf398aa9.webp",
+      "mimeType": "image/webp",
+      "alt": "Health Typography",
+      "role": "thumbnail",
+      "bytes": 23190,
+      "sha256": "e4058e37841d1d23cf398aa94ea8141910c31acc5c92782434d0b98f2e3587ab",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYzNi9vcmlnaW5hbF80ODZmZjkwYjgxMmY4NzY5MjRlNTAwMzE4MTg2YzkxYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "486ff90b812f876924e500318186c91b.png"
+    },
+    {
+      "path": "assets/display-web-original-9a77e89e48f7a79741b59dec-9a77e89e48.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Health Typography",
+      "bytes": 185670,
+      "sha256": "d4862f74486faab866bded77a7fe3079e2b121c5731f081a36809510ce88e343",
+      "width": 1438,
+      "height": 1792,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9a77e89e48f7a79741b59dec.png",
+        "sourceSha256": "9a77e89e48f7a79741b59dec7b98441bbb6c5e9d5651b604899569ed8b8b5c98",
+        "originalBytes": 1099475,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144636",
+    "title": "screenshot-2026-03-04-alle-20.15.34.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144636,
+      "url": "https://www.are.na/block/44144636",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.15.34.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.15.34.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Health Typography",
+    "text": "FROTBE\nDISSOLVED SOLIDS AT 180°C: 345\nPPM (MG/L) HEALTHPOINT HAS\nNATURALLY OCCURRING\nELECTROLYTES CONTRIBUTINg TO\nTHE TASTE NATURE INTENDED\nFOR INQUIRIES OR A REPORT ON\nBOTTLED WATER QUALITY &\nINFORMATION: 1-800-633-3363\nHEALTHPOINT.COM - BOTTLED BY\nHEALTHPOINT GE AT NABEGLAVI\nHealth F\n1745 GEORGIA. SOURCE:\nNABEGLAVI SPRINGS, NABEGLAVI.\n-is a bran‹\ninformation: 1-800-63\nor healthpoint.com - Bottled by\nHealthPoint GE at Nabeglavi/\n1745 Georgia. Source: Nabeg\n- Mineral \\\nPlease recycle\nBPA\nFREE\nSANS\nBPA\nExperie\n1 234567 890128>\nFormed at depthor\n2000-3000 meters\nCations CA2+ 32-116 MG2+ 34-120 NA+ + K+ 690-1270\nAnions RICH CO2 HC03- 2400-4400 H3B03 > 35 H2S103 55-90\nRET FEEL",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d4862f74486faab866bded77a7fe3079e2b121c5731f081a36809510ce88e343"
+  }
+}

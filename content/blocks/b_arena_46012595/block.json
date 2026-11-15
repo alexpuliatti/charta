@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46012595",
+  "type": "image",
+  "title": "Iridescent Monitors",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "iridescent-monitors",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ad8e3ff4bf64ac5e5e3e7eea.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Iridescent Monitors",
+      "role": "original",
+      "bytes": 1662556,
+      "sha256": "ad8e3ff4bf64ac5e5e3e7eeaa466c0ab7ad0f3e9eac311bb50abe26350420db0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46012595/original_3660ea45a89849ca292cdcced756186c.jpeg",
+      "originalName": "3660ea45a89849ca292cdcced756186c.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-450dc19ba0e94a2c296814f5.webp",
+      "mimeType": "image/webp",
+      "alt": "Iridescent Monitors",
+      "role": "thumbnail",
+      "bytes": 2836,
+      "sha256": "450dc19ba0e94a2c296814f5c645d9a9f3768e4b82edaaebf436fcf56d1c81ec",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxMjU5NS9vcmlnaW5hbF8zNjYwZWE0NWE4OTg0OWNhMjkyY2RjY2VkNzU2MTg2Yy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3660ea45a89849ca292cdcced756186c.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ad8e3ff4bf64ac5e5e3e7eea-ad8e3ff4bf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Iridescent Monitors",
+      "bytes": 46758,
+      "sha256": "db1523770fe8c0e01205d0cbf0eb94ff3927f4c682be2f3e31deb9bf00950195",
+      "width": 2000,
+      "height": 1113,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ad8e3ff4bf64ac5e5e3e7eea.jpg",
+        "sourceSha256": "ad8e3ff4bf64ac5e5e3e7eeaa466c0ab7ad0f3e9eac311bb50abe26350420db0",
+        "originalBytes": 1662556,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T11:46:46.000Z",
+  "updatedAt": "2026-05-11T11:47:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46012595",
+    "title": "concept1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46012595,
+      "url": "https://www.are.na/block/46012595",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "concept1",
+      "createdAt": "2026-05-11T11:46:46Z",
+      "updatedAt": "2026-05-11T11:47:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "concept1",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Iridescent Monitors",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "db1523770fe8c0e01205d0cbf0eb94ff3927f4c682be2f3e31deb9bf00950195"
+  }
+}

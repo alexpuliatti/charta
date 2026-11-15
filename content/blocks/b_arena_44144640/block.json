@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144640",
+  "type": "image",
+  "title": "Mineral Bottle",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "mineral-bottle",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0b2635256744f1afeb4d7dfb.png",
+      "mimeType": "image/png",
+      "alt": "Mineral Bottle",
+      "role": "original",
+      "bytes": 4155488,
+      "sha256": "0b2635256744f1afeb4d7dfbeb35bf465cc4b5e903fc2c1c755e6c8a4ecc8a1f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144640/original_e8c1c07f22a4e35b1cb392283db1ca18.png",
+      "originalName": "e8c1c07f22a4e35b1cb392283db1ca18.png"
+    },
+    {
+      "path": "assets/thumbnail-6add4831f1f7d2ee7ce5bde4.webp",
+      "mimeType": "image/webp",
+      "alt": "Mineral Bottle",
+      "role": "thumbnail",
+      "bytes": 9634,
+      "sha256": "6add4831f1f7d2ee7ce5bde4319c6fc8680654b302bdf1b363a1dde29ba2efc4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDY0MC9vcmlnaW5hbF9lOGMxYzA3ZjIyYTRlMzViMWNiMzkyMjgzZGIxY2ExOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e8c1c07f22a4e35b1cb392283db1ca18.png"
+    },
+    {
+      "path": "assets/display-web-original-0b2635256744f1afeb4d7dfb-0b26352567.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mineral Bottle",
+      "bytes": 166754,
+      "sha256": "d265a37a326baab007fae0088dc8dc4163b0e12ac6f49179a71ccb6a0a84d8a5",
+      "width": 2000,
+      "height": 1252,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0b2635256744f1afeb4d7dfb.png",
+        "sourceSha256": "0b2635256744f1afeb4d7dfbeb35bf465cc4b5e903fc2c1c755e6c8a4ecc8a1f",
+        "originalBytes": 4155488,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144640",
+    "title": "screenshot-2026-03-04-alle-20.15.23.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144640,
+      "url": "https://www.are.na/block/44144640",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.15.23.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.15.23.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mineral Bottle",
+    "text": "Natural\nNon-carbonated\nMineral Water\nSCOUP 22-20\n020-0-5 G/L\nHEALTH\nPOINT\nNatural\nNon-carbonated\nMineral Water\n500 l PH 7.2 - 7.6\nHINERSL\nCONVATTER\nHEALTH\nPOINT\nNatural\nNon-carbonated\nMineral Water\n500ml PH 7.2 - 7.8\nHINERAL\nCOHPOSITION CHG/LI:\nCALCIUM 25-80\nHYDROCARBON 150-300\nMAGNESIUM <20\nCHLORIDES <20\nSODIUM <20\nSULPHATES <50\nTOTAL MINERAL CONTENT\n0,20-0,5 G/L",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d265a37a326baab007fae0088dc8dc4163b0e12ac6f49179a71ccb6a0a84d8a5"
+  }
+}

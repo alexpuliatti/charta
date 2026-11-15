@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473957",
+  "type": "link",
+  "title": "Symbl Logos",
+  "description": "Upload your logo symbol and instantly see how it performs at every scale — from favicon to billboard.",
+  "category": "Graphic design",
+  "tags": [
+    "logos",
+    "scale",
+    "brand-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0971b68c058e892f8287c8d4.webp",
+      "mimeType": "image/webp",
+      "alt": "Symbl — Test your logo before the world does",
+      "role": "thumbnail",
+      "bytes": 1364,
+      "sha256": "0971b68c058e892f8287c8d41d057791e6ee8635ba8955a88ce4654e03b5882b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk1Ny9vcmlnaW5hbF9kY2ZhNmFjNTdhMDI0YWQ3ZTVhYWZjNjdhMDdkYzM0NC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "dcfa6ac57a024ad7e5aafc67a07dc344.png"
+    },
+    {
+      "path": "assets/preview-1b3104f3e7fe80276cf4604b.webp",
+      "mimeType": "image/webp",
+      "alt": "Symbl — Test your logo before the world does",
+      "role": "preview",
+      "bytes": 27310,
+      "sha256": "1b3104f3e7fe80276cf4604b1bb6647a66e84195dc365f7c471ee1fffcc3e607",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473957/original_dcfa6ac57a024ad7e5aafc67a07dc344.png",
+      "originalName": "dcfa6ac57a024ad7e5aafc67a07dc344.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 85896,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:09.000Z",
+  "updatedAt": "2026-05-25T10:58:19.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.symbl.space/",
+    "title": "Symbl — Test your logo before the world does",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473957,
+      "url": "https://www.are.na/block/46473957",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Symbl — Test your logo before the world does",
+      "createdAt": "2026-05-25T10:58:09Z",
+      "updatedAt": "2026-05-25T10:58:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Symbl — Test your logo before the world does",
+      "category": "Graphic design",
+      "tags": [
+        "visual-identity",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

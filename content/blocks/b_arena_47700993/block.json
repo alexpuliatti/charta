@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700993",
+  "type": "image",
+  "title": "Christie Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "christie-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c82834860c26d3ab5a61d2b0.png",
+      "mimeType": "image/png",
+      "alt": "Christie Jacket",
+      "role": "original",
+      "bytes": 4651668,
+      "sha256": "c82834860c26d3ab5a61d2b03bd7878dd4637815855c6c557d5fb14c8c2ed1d5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700993/original_843102b238bb339a1317edaaeb8ea424.png",
+      "originalName": "843102b238bb339a1317edaaeb8ea424.png"
+    },
+    {
+      "path": "assets/thumbnail-b26c991a283cae5378e28ba4.webp",
+      "mimeType": "image/webp",
+      "alt": "Christie Jacket",
+      "role": "thumbnail",
+      "bytes": 9952,
+      "sha256": "b26c991a283cae5378e28ba40b627f6e1c8215fbcd5df334e737e7e812ee4deb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk5My9vcmlnaW5hbF84NDMxMDJiMjM4YmIzMzlhMTMxN2VkYWFlYjhlYTQyNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "843102b238bb339a1317edaaeb8ea424.png"
+    },
+    {
+      "path": "assets/display-web-original-c82834860c26d3ab5a61d2b0-c82834860c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Christie Jacket",
+      "bytes": 257528,
+      "sha256": "c04fd0803c0f109db889b15f3cd7496747e627f490bcb934de9f82e2bc1b656a",
+      "width": 2000,
+      "height": 1017,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c82834860c26d3ab5a61d2b0.png",
+        "sourceSha256": "c82834860c26d3ab5a61d2b03bd7878dd4637815855c6c557d5fb14c8c2ed1d5",
+        "originalBytes": 4651668,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:59.000Z",
+  "updatedAt": "2026-10-23T09:26:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700993",
+    "title": "Screenshot 2023-09-12 alle 16.49.50",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700993,
+      "url": "https://www.are.na/block/47700993",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.49.50",
+      "createdAt": "2026-07-08T14:55:59Z",
+      "updatedAt": "2026-10-23T09:26:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.49.50",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Christie Jacket",
+    "text": "\"Agatha Christie\nis still\nthe best\nof all\ndetective\nstory\nwriters\"\nSUNDAY CHRONICLE\nTHE\nCRIME CLUB\nTHIS trade-mark, in the minds of discriminating readers,\nhas long been identified with the best in detective\nfiction. For many years the Crime Club has been steadily\nsupplying an avid and ever increasing public. Each month\nthe Crime Club publishes one selected book, and two\nothers, under the imprint of the gunman, for the enter-\ntainment of detection enthusiasts. A glance at the partial\nlist of Crime Club authors below will show that not\nonly is the Crime Club unusual for its strong list of\nestablished authors, but that it also, more than any\nother organisation, works steadily to develop new and\nworth-while writers. Crime Club books are not mere\nthrillers, they are restricted to works in which there\nis a definite crime problem, an honest detective process.\nwith a credible and logical solution.\nAGATHA CHRISTIE\nNAIO MARSH\nRUPERT PENNY\nLESLIE FORD\nG. D. H. & M. COLE\nANTHONY ABBOT\nMILES BURTON\nJOHN RHODE\nM. G. EBERHART\nREX STOUT\nANTHONY GILBERT\nHERBERT ADAMS\nE. C. R. LORAC\nNICHOLAS BLAKE\n\" Agatha\nChristie\n?\nA GIVE NOT\nCRIME\nCLUB\nHERE is great news! A new\nstory about that\nfamous\npair of sleuths, Tommy and\nTuppence Beresford, who suc-\ncessfully solved\nthe ticklish\nproblems described by Mrs.\nChristie in Partners in Crime.\nTommy and Tuppence have a\ngrown-up family now and are\nfeeling a bit out of things until\nTommy is given a special assign-\nment to investigate fifth column\nactivities.\nHis whereabouts is\nsupposed to be a secret, even\nfrom Tuppence, but it isn't so\neasy to keep Tuppence and\ndanger apart, and so they em-\nbark together on a very diffi-\ncult and exciting job. The action\ntakes place in or near a seaside\nboarding\nhouse and\nAgatha\nChristie portrays in her own\nvivid style the inhabitants and\ntheir daily lives, and keeps us\nall on tenterhooks until the\nlast thrilling episode is finished.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c04fd0803c0f109db889b15f3cd7496747e627f490bcb934de9f82e2bc1b656a"
+  }
+}

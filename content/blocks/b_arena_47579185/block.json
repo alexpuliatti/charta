@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579185",
+  "type": "image",
+  "title": "Maurice Sendak",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "maurice-sendak",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-61ff5b7001977b22d77afc71.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Maurice Sendak",
+      "role": "original",
+      "bytes": 159630,
+      "sha256": "61ff5b7001977b22d77afc71f0d28526a33bf3f888c4a7a8d7991fc7b5443836",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579185/original_50ae9fafbedce1c3e189870e154a747f.jpeg",
+      "originalName": "50ae9fafbedce1c3e189870e154a747f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-25dbfc663359c997fc99367c.webp",
+      "mimeType": "image/webp",
+      "alt": "Maurice Sendak",
+      "role": "thumbnail",
+      "bytes": 974,
+      "sha256": "25dbfc663359c997fc99367cc42d3b08ff3941c2993ccc5de35a024efbe26321",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE4NS9vcmlnaW5hbF81MGFlOWZhZmJlZGNlMWMzZTE4OTg3MGUxNTRhNzQ3Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "50ae9fafbedce1c3e189870e154a747f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-61ff5b7001977b22d77afc71-61ff5b7001.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Maurice Sendak",
+      "bytes": 43734,
+      "sha256": "bc2a4b93354db3af4f17b605694ae5e9561a93de6c9119f2749b1ef56338fb7a",
+      "width": 1080,
+      "height": 1349,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-61ff5b7001977b22d77afc71.jpg",
+        "sourceSha256": "61ff5b7001977b22d77afc71f0d28526a33bf3f888c4a7a8d7991fc7b5443836",
+        "originalBytes": 159630,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:17.000Z",
+  "updatedAt": "2026-07-04T15:36:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579185",
+    "title": "dasswerke-20250108_130000-4221114182",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579185,
+      "url": "https://www.are.na/block/47579185",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-4221114182",
+      "createdAt": "2026-07-04T15:36:17Z",
+      "updatedAt": "2026-07-04T15:36:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-4221114182",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Maurice Sendak",
+    "text": "MAURICE SENDAK",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bc2a4b93354db3af4f17b605694ae5e9561a93de6c9119f2749b1ef56338fb7a"
+  }
+}

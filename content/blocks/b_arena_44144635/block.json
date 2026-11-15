@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144635",
+  "type": "image",
+  "title": "Geometric Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "geometric-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7cee6a9e7e9aeaa17443265e.png",
+      "mimeType": "image/png",
+      "alt": "Geometric Identity",
+      "role": "original",
+      "bytes": 411910,
+      "sha256": "7cee6a9e7e9aeaa17443265e4853ca408066344a3fcffa662b9785460cecd310",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144635/original_7e3d9f79e4f5b4a6578ef52f2b58c7e2.png",
+      "originalName": "7e3d9f79e4f5b4a6578ef52f2b58c7e2.png"
+    },
+    {
+      "path": "assets/thumbnail-f1373ed113ba99665fe92b94.webp",
+      "mimeType": "image/webp",
+      "alt": "Geometric Identity",
+      "role": "thumbnail",
+      "bytes": 4932,
+      "sha256": "f1373ed113ba99665fe92b941de63249ec60382053618e925e872a527185dd1f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYzNS9vcmlnaW5hbF83ZTNkOWY3OWU0ZjViNGE2NTc4ZWY1MmYyYjU4YzdlMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7e3d9f79e4f5b4a6578ef52f2b58c7e2.png"
+    },
+    {
+      "path": "assets/display-web-original-7cee6a9e7e9aeaa17443265e-7cee6a9e7e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Geometric Identity",
+      "bytes": 38288,
+      "sha256": "931339e3e4e1559913216c2a983cb0dd8e3721d5a910b2ea98b07373cf92dd84",
+      "width": 2000,
+      "height": 1228,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7cee6a9e7e9aeaa17443265e.png",
+        "sourceSha256": "7cee6a9e7e9aeaa17443265e4853ca408066344a3fcffa662b9785460cecd310",
+        "originalBytes": 411910,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144635",
+    "title": "screenshot-2026-03-04-alle-20.15.53.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144635,
+      "url": "https://www.are.na/block/44144635",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.15.53.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.15.53.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Geometric Identity",
+    "text": "•*GEM\nE-T: $252,3\nS-T: $264,2",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "931339e3e4e1559913216c2a983cb0dd8e3721d5a910b2ea98b07373cf92dd84"
+  }
+}

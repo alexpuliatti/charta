@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340242",
+  "type": "image",
+  "title": "Workshop Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "workshop-typography",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-153c5b771ffc5f4f48347c61.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Workshop Typography",
+      "role": "original",
+      "bytes": 107594,
+      "sha256": "153c5b771ffc5f4f48347c618f96ba5d35ab35c8ac94672811f6b96608fd8571",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340242/original_f743b9311239fe111df080634dec4e76.jpg",
+      "originalName": "f743b9311239fe111df080634dec4e76.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2b2302d0fa79ba94d1b7eef6.webp",
+      "mimeType": "image/webp",
+      "alt": "Workshop Typography",
+      "role": "thumbnail",
+      "bytes": 12412,
+      "sha256": "2b2302d0fa79ba94d1b7eef6cf21f4a060ccaa160b0d00ba6d6554cd7aeef1c0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI0Mi9vcmlnaW5hbF9mNzQzYjkzMTEyMzlmZTExMWRmMDgwNjM0ZGVjNGU3Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f743b9311239fe111df080634dec4e76.jpg"
+    },
+    {
+      "path": "assets/display-web-original-153c5b771ffc5f4f48347c61-153c5b771f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Workshop Typography",
+      "bytes": 70526,
+      "sha256": "9d15311824ed46f663d5b3f9aa47ee1120cf3c0b72731bec4c79cbbcdbea821c",
+      "width": 1200,
+      "height": 926,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-153c5b771ffc5f4f48347c61.jpg",
+        "sourceSha256": "153c5b771ffc5f4f48347c618f96ba5d35ab35c8ac94672811f6b96608fd8571",
+        "originalBytes": 107594,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:31.000Z",
+  "updatedAt": "2026-03-11T17:40:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340242",
+    "title": "a4c47ee81818a2ede2630ae1875e80db.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340242,
+      "url": "https://www.are.na/block/44340242",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a4c47ee81818a2ede2630ae1875e80db.jpg",
+      "createdAt": "2026-03-11T17:40:31Z",
+      "updatedAt": "2026-03-11T17:40:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a4c47ee81818a2ede2630ae1875e80db.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Workshop Typography",
+    "text": "Th\nSI\nHeaded Bird: A\nrealist Writing Workshop\nks to unearth the creative\npa\nf\nentTal OT\ne unconscious\nthe purn\nof\nposit\non an\npubLication.\nT\ne: A\neenac\nent Workshop\nb\nCamila\naz subject\nmatter recycle translate\ncross face affect close\nsubtext object forma charged\noutrider enter chewy internal\ntissue text corporeal\ncomposition distance\nconstellation first person\nfields ???????» universe\nrhythm border underneath^\nboot poet orbit distort\nworkshop title amplify trace\noblique dissonance intimate\nperverse migrate meditate»\nw automate formula plastic\npubLic programs\nworkshops\nfree association",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9d15311824ed46f663d5b3f9aa47ee1120cf3c0b72731bec4c79cbbcdbea821c"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890116",
+  "type": "link",
+  "title": "Software History",
+  "description": "How did we get here? No one really knows. Even those of us working in software know very little about it. There are few books, documentaries, or interactive exhibitions. Seminal works are lost to time every year, and with them, the stories of how things came to be.",
+  "category": "Writing",
+  "tags": [
+    "software-design",
+    "history",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-b08fcba48b6c50ab23faf4c2.webp",
+      "mimeType": "image/webp",
+      "alt": "History of Software Design",
+      "role": "thumbnail",
+      "bytes": 8648,
+      "sha256": "b08fcba48b6c50ab23faf4c2dd578f650b91915907c9b9617d4ba5cb40d3a449",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDExNi9vcmlnaW5hbF9iYzc1M2VkMzc5NjIxNmRhMjRkMTcyZGFlYjBjM2Y4Zi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bc753ed3796216da24d172daeb0c3f8f.png"
+    },
+    {
+      "path": "assets/preview-cc91dab430d2730c7e6c6e86.webp",
+      "mimeType": "image/webp",
+      "alt": "History of Software Design",
+      "role": "preview",
+      "bytes": 81676,
+      "sha256": "cc91dab430d2730c7e6c6e862fcc7efa2bad41b212f3c9c0bdda363671a1baf3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890116/original_bc753ed3796216da24d172daeb0c3f8f.png",
+      "originalName": "bc753ed3796216da24d172daeb0c3f8f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 258595,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:24:36.000Z",
+  "updatedAt": "2026-05-06T13:24:42.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://historyofsoftware.org/",
+    "title": "History of Software Design",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890116,
+      "url": "https://www.are.na/block/45890116",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "History of Software Design",
+      "createdAt": "2026-05-06T13:24:36Z",
+      "updatedAt": "2026-05-06T13:24:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "History of Software Design",
+      "category": "Technology",
+      "tags": [
+        "programming",
+        "interaction-design",
+        "contemporary-art",
+        "video",
+        "books",
+        "writing",
+        "information-design",
+        "visual-research"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

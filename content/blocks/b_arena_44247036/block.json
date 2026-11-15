@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247036",
+  "type": "image",
+  "title": "Collage Spread",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "collage-spread",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-12fa5392a017e0ac94cdf65a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Collage Spread",
+      "role": "original",
+      "bytes": 32947,
+      "sha256": "12fa5392a017e0ac94cdf65a0406ac6fe7e11f5e1a944016e99bd511887d0b29",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247036/original_a8fbedf3a8a1c74b10821697ec8d3453.jpg",
+      "originalName": "a8fbedf3a8a1c74b10821697ec8d3453.jpg"
+    },
+    {
+      "path": "assets/thumbnail-ccacf45c25c294bc214e1e79.webp",
+      "mimeType": "image/webp",
+      "alt": "Collage Spread",
+      "role": "thumbnail",
+      "bytes": 20610,
+      "sha256": "ccacf45c25c294bc214e1e79e4973feb4cb015570a29294e1e04ebf8a9eace81",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzAzNi9vcmlnaW5hbF9hOGZiZWRmM2E4YTFjNzRiMTA4MjE2OTdlYzhkMzQ1My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a8fbedf3a8a1c74b10821697ec8d3453.jpg"
+    },
+    {
+      "path": "assets/display-web-original-12fa5392a017e0ac94cdf65a-12fa5392a0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Collage Spread",
+      "bytes": 31420,
+      "sha256": "d63db2800d26437d116746a2b73800ae87a862dbd5a82a7a3f56777448e618bb",
+      "width": 420,
+      "height": 309,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-12fa5392a017e0ac94cdf65a.jpg",
+        "sourceSha256": "12fa5392a017e0ac94cdf65a0406ac6fe7e11f5e1a944016e99bd511887d0b29",
+        "originalBytes": 32947,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247036",
+    "title": "a69e3605b289bd5a359d173d05b64f54.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247036,
+      "url": "https://www.are.na/block/44247036",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a69e3605b289bd5a359d173d05b64f54.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a69e3605b289bd5a359d173d05b64f54.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Collage Spread",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d63db2800d26437d116746a2b73800ae87a862dbd5a82a7a3f56777448e618bb"
+  }
+}

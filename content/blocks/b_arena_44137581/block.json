@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137581",
+  "type": "image",
+  "title": "Film Script",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "film-script",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3c63f4a7f5994f2f0714920e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Film Script",
+      "role": "original",
+      "bytes": 156946,
+      "sha256": "3c63f4a7f5994f2f0714920ea866fe9745fe5f272265af95c2beba1621a33577",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137581/original_a34488e4f0c93dd489bfaa2325f4fa8e.jpg",
+      "originalName": "a34488e4f0c93dd489bfaa2325f4fa8e.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d04a15134171ca3be26c4b3a.webp",
+      "mimeType": "image/webp",
+      "alt": "Film Script",
+      "role": "thumbnail",
+      "bytes": 8650,
+      "sha256": "d04a15134171ca3be26c4b3a3690b9b88adb8e578e39337e7185381434a09ade",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzU4MS9vcmlnaW5hbF9hMzQ0ODhlNGYwYzkzZGQ0ODliZmFhMjMyNWY0ZmE4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a34488e4f0c93dd489bfaa2325f4fa8e.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3c63f4a7f5994f2f0714920e-3c63f4a7f5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Film Script",
+      "bytes": 109572,
+      "sha256": "02151621b8afbc6aa5b2a6504b6f66ba2bae84892816a94bfc6207e338332954",
+      "width": 1005,
+      "height": 1229,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3c63f4a7f5994f2f0714920e.jpg",
+        "sourceSha256": "3c63f4a7f5994f2f0714920ea866fe9745fe5f272265af95c2beba1621a33577",
+        "originalBytes": 156946,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:52:26.000Z",
+  "updatedAt": "2026-03-04T15:52:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137581",
+    "title": "a7538dc75ceb50e74983378f8021e568.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137581,
+      "url": "https://www.are.na/block/44137581",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a7538dc75ceb50e74983378f8021e568.jpg",
+      "createdAt": "2026-03-04T15:52:26Z",
+      "updatedAt": "2026-03-04T15:52:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a7538dc75ceb50e74983378f8021e568.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Film Script",
+    "text": "822\nSECOND REVISED SHOOTING\nFINAL\n4014.7a\nLET'S MAKE LOVE\nJANUARY 15, 1960\nProperty of\nTuentith Century fox lim Corporation\nWARS\n8",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "02151621b8afbc6aa5b2a6504b6f66ba2bae84892816a94bfc6207e338332954"
+  }
+}

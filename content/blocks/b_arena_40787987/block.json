@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787987",
+  "type": "image",
+  "title": "Garden Room",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "garden-room",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3909fd834188c0ca031b5512.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Garden Room",
+      "role": "original",
+      "bytes": 180953,
+      "sha256": "3909fd834188c0ca031b5512918fd8447d73580eead937fa5cf6d116c576b1da",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787987/original_df14c74b3d76b6e6721cdf98e1f76b40.jpg",
+      "originalName": "df14c74b3d76b6e6721cdf98e1f76b40.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d2efbb7f31bf4fb65f50aa9e.webp",
+      "mimeType": "image/webp",
+      "alt": "Garden Room",
+      "role": "thumbnail",
+      "bytes": 14648,
+      "sha256": "d2efbb7f31bf4fb65f50aa9e05d215d43946a69748c873611756ce2136198a70",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk4Ny9vcmlnaW5hbF9kZjE0Yzc0YjNkNzZiNmU2NzIxY2RmOThlMWY3NmI0MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "df14c74b3d76b6e6721cdf98e1f76b40.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3909fd834188c0ca031b5512-3909fd8341.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Garden Room",
+      "bytes": 143966,
+      "sha256": "91e06307a18d8aafa2731cec3c3364f4fd48e58d35a612ad08d9cb3f95a0c6e6",
+      "width": 1280,
+      "height": 870,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3909fd834188c0ca031b5512.jpg",
+        "sourceSha256": "3909fd834188c0ca031b5512918fd8447d73580eead937fa5cf6d116c576b1da",
+        "originalBytes": 180953,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:08:34.000Z",
+  "updatedAt": "2025-11-02T16:10:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787987",
+    "title": "gciweihxmaahdjf.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787987,
+      "url": "https://www.are.na/block/40787987",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gciweihxmaahdjf.jpeg",
+      "createdAt": "2025-11-02T16:08:34Z",
+      "updatedAt": "2025-11-02T16:10:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gciweihxmaahdjf.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Garden Room",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "91e06307a18d8aafa2731cec3c3364f4fd48e58d35a612ad08d9cb3f95a0c6e6"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46016341",
+  "type": "link",
+  "title": "Intellect Care",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "mental-health",
+    "workplace",
+    "care"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7b692e0187627706c555a721.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 11608,
+      "sha256": "7b692e0187627706c555a721d3fe9e9d2af8e7d41438c90c7caaa84079eddf18",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxNjM0MS9vcmlnaW5hbF9lN2Y2ZjczNDc5Y2I5N2NmNTg5MzE0Y2JiMDY3YmRhOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e7f6f73479cb97cf589314cbb067bda8.png"
+    },
+    {
+      "path": "assets/preview-b7d4a108ab72c304dee8c781.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 107178,
+      "sha256": "b7d4a108ab72c304dee8c781d470de75e12589b32a4f38228209565ac5f6c4ab",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46016341/original_e7f6f73479cb97cf589314cbb067bda8.png",
+      "originalName": "e7f6f73479cb97cf589314cbb067bda8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 206500,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T13:48:44.000Z",
+  "updatedAt": "2026-05-11T13:49:35.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://intellect.co/",
+    "title": "Link · MH-companies · 46016341",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46016341,
+      "url": "https://www.are.na/block/46016341",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-11T13:48:44Z",
+      "updatedAt": "2026-05-11T13:49:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · MH-companies · 46016341",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "wellbeing",
+        "mental-health",
+        "mh-companies"
+      ],
+      "collectionIds": [
+        "c_arena_5164043"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787874",
+  "type": "image",
+  "title": "Circular Desk",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "furniture",
+    "circular-desk",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d87468969ea56279da9806d1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Circular Desk",
+      "role": "original",
+      "bytes": 198965,
+      "sha256": "d87468969ea56279da9806d19da5157412591ecdc03543c386f322a0d98570e0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787874/original_f4de9f84d8998f6e61704ec52a07b8e0.jpg",
+      "originalName": "f4de9f84d8998f6e61704ec52a07b8e0.jpg"
+    },
+    {
+      "path": "assets/thumbnail-4f79598b3c7dbbac82978029.webp",
+      "mimeType": "image/webp",
+      "alt": "Circular Desk",
+      "role": "thumbnail",
+      "bytes": 15036,
+      "sha256": "4f79598b3c7dbbac829780295750569707f9a1892b6b5c8a33bd0209fe2f4f8b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg3NC9vcmlnaW5hbF9mNGRlOWY4NGQ4OTk4ZjZlNjE3MDRlYzUyYTA3YjhlMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f4de9f84d8998f6e61704ec52a07b8e0.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d87468969ea56279da9806d1-d87468969e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circular Desk",
+      "bytes": 108858,
+      "sha256": "c663eea03a08d2798361eee8388c547b67d41c3edf940e26a9334b4086852fad",
+      "width": 1098,
+      "height": 1098,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d87468969ea56279da9806d1.jpg",
+        "sourceSha256": "d87468969ea56279da9806d19da5157412591ecdc03543c386f322a0d98570e0",
+        "originalBytes": 198965,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:02:40.000Z",
+  "updatedAt": "2025-11-02T16:02:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787874",
+    "title": "themillievintage-20241213_212212-3837517529.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787874,
+      "url": "https://www.are.na/block/40787874",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "themillievintage-20241213_212212-3837517529.jpg",
+      "createdAt": "2025-11-02T16:02:40Z",
+      "updatedAt": "2025-11-02T16:02:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Furniture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "themillievintage-20241213_212212-3837517529.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circular Desk",
+    "text": "DE. POOLER\nL0H3HL3С",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c663eea03a08d2798361eee8388c547b67d41c3edf940e26a9334b4086852fad"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340240",
+  "type": "image",
+  "title": "Colourful Spines",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "colourful-spines",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-91722d75aabd827a1dc17e6c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Colourful Spines",
+      "role": "original",
+      "bytes": 29500,
+      "sha256": "91722d75aabd827a1dc17e6c12ac1dc649fcef528d6b5c66256da89335c516cb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340240/original_3a12ca970a8c439b476b1acb6d159aa8.jpg",
+      "originalName": "3a12ca970a8c439b476b1acb6d159aa8.jpg"
+    },
+    {
+      "path": "assets/thumbnail-acec0d00b95da47344ca30c3.webp",
+      "mimeType": "image/webp",
+      "alt": "Colourful Spines",
+      "role": "thumbnail",
+      "bytes": 6208,
+      "sha256": "acec0d00b95da47344ca30c34051542e5bb7d4d2ef2bda5432d40d835b79007b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI0MC9vcmlnaW5hbF8zYTEyY2E5NzBhOGM0MzliNDc2YjFhY2I2ZDE1OWFhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3a12ca970a8c439b476b1acb6d159aa8.jpg"
+    },
+    {
+      "path": "assets/display-web-original-91722d75aabd827a1dc17e6c-91722d75aa.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Colourful Spines",
+      "bytes": 15402,
+      "sha256": "803097f6530a977f9559954848238002e7008d797799a20896f53dfa36b0e037",
+      "width": 595,
+      "height": 591,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-91722d75aabd827a1dc17e6c.jpg",
+        "sourceSha256": "91722d75aabd827a1dc17e6c12ac1dc649fcef528d6b5c66256da89335c516cb",
+        "originalBytes": 29500,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:30.000Z",
+  "updatedAt": "2026-07-04T14:09:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340240",
+    "title": "9737464a599267d39195def890679b66.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340240,
+      "url": "https://www.are.na/block/44340240",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "9737464a599267d39195def890679b66.jpg",
+      "createdAt": "2026-03-11T17:40:30Z",
+      "updatedAt": "2026-07-04T14:09:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "9737464a599267d39195def890679b66.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colourful Spines",
+    "text": "Estratos\nSimbologia fertil\nMisercioga\nArte prebistorico co Lassanote\nAntropologia e unestiaco\n1900 aC / Hoy\nColeocice\nMusco Arguralógico\nLastatae\nReligica y Crococias",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "803097f6530a977f9559954848238002e7008d797799a20896f53dfa36b0e037"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "c_res_b_resource_age1_portfolio_2",
+  "title": "Biotech funds",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_resource_age1_portfolio"
+    }
+  ]
+}

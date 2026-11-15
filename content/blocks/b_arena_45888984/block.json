@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888984",
+  "type": "video",
+  "title": "Architectural Spread",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "architectural-spread",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-caf1875e9ff26c323963c437.mp4",
+      "mimeType": "video/mp4",
+      "alt": "themasterslides-20240722_212431-1494192699.mp4",
+      "role": "original",
+      "bytes": 967485,
+      "sha256": "caf1875e9ff26c323963c4371070d78e36981b81a6ffae7ba97d29bac9117a19",
+      "sourceUrl": "https://attachments.are.na/45888984/f53abbf20619fc4516ea7a93b1118367.mp4",
+      "originalName": "f53abbf20619fc4516ea7a93b1118367.mp4"
+    },
+    {
+      "path": "assets/thumbnail-12fbedc227a84181adf5984f.webp",
+      "mimeType": "image/webp",
+      "alt": "Architectural Spread",
+      "role": "thumbnail",
+      "bytes": 6694,
+      "sha256": "12fbedc227a84181adf5984f5236ff0df7e5a576acf3818adea4a5feec3bde7a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODk4NC9vcmlnaW5hbF9hZmY0NDE1ZTI3MmU0M2NiMjAyNjA1MDYtMi1ubmplc2YucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "aff4415e272e43cb20260506-2-nnjesf.png"
+    },
+    {
+      "path": "assets/display-web-original-caf1875e9ff26c323963c437-caf1875e9f.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "themasterslides-20240722_212431-1494192699.mp4",
+      "bytes": 850563,
+      "sha256": "d5528c94f1d7d4a31ff665ee12f67fcc83467c40981171439e740862a2fc9b37",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-caf1875e9ff26c323963c437.mp4",
+        "sourceSha256": "caf1875e9ff26c323963c4371070d78e36981b81a6ffae7ba97d29bac9117a19",
+        "originalBytes": 967485,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-3e18897f9ca31cf77fee7820.webp",
+      "mimeType": "image/webp",
+      "alt": "themasterslides-20240722_212431-1494192699.mp4",
+      "role": "preview",
+      "bytes": 35850,
+      "sha256": "3e18897f9ca31cf77fee7820427b86b3c4422a7eda45fafe5af2d1d6f13a5c7e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888984/original_aff4415e272e43cb20260506-2-nnjesf.png",
+      "originalName": "aff4415e272e43cb20260506-2-nnjesf.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 289871,
+        "width": 720,
+        "height": 900,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:37:24.000Z",
+  "updatedAt": "2026-05-06T12:37:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888984",
+    "title": "themasterslides-20240722_212431-1494192699.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888984,
+      "url": "https://www.are.na/block/45888984",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "themasterslides-20240722_212431-1494192699.mp4",
+      "createdAt": "2026-05-06T12:37:24Z",
+      "updatedAt": "2026-05-06T12:37:26Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "themasterslides-20240722_212431-1494192699.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Architectural Spread",
+    "text": "A Rooftop Reprieve",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "12fbedc227a84181adf5984f5236ff0df7e5a576acf3818adea4a5feec3bde7a"
+  }
+}

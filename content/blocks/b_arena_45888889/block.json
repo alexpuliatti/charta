@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888889",
+  "type": "video",
+  "title": "Gesture Control",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "gesture-control",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-76a225e0d8b6fe17542e55af.mp4",
+      "mimeType": "video/mp4",
+      "alt": "mindspiritdesign-20251220_124439-4096656013.mp4",
+      "role": "original",
+      "bytes": 3689780,
+      "sha256": "76a225e0d8b6fe17542e55afdb090c85c04af8f7e593dea79c32360cbcfa620a",
+      "sourceUrl": "https://attachments.are.na/45888889/977ae12a7d0e1295dadf4ee24f63e93f.mp4",
+      "originalName": "977ae12a7d0e1295dadf4ee24f63e93f.mp4"
+    },
+    {
+      "path": "assets/thumbnail-37d8826da2b631a25710c122.webp",
+      "mimeType": "image/webp",
+      "alt": "Gesture Control",
+      "role": "thumbnail",
+      "bytes": 10550,
+      "sha256": "37d8826da2b631a25710c12200679c46e99a0d4741d94f05c73c5fa9f6aee179",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg4OS9vcmlnaW5hbF8yMWFjMmM4YWIwMTYwZjg5MjAyNjA1MDYtMi1qeDZtbHoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "21ac2c8ab0160f8920260506-2-jx6mlz.png"
+    },
+    {
+      "path": "assets/preview-1a188e8b926f79bf0a25bf05.webp",
+      "mimeType": "image/webp",
+      "alt": "mindspiritdesign-20251220_124439-4096656013.mp4",
+      "role": "preview",
+      "bytes": 66746,
+      "sha256": "1a188e8b926f79bf0a25bf0553b0092ffc81f7b68a620a5b82e6b23d172b1f3f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888889/original_21ac2c8ab0160f8920260506-2-jx6mlz.png",
+      "originalName": "21ac2c8ab0160f8920260506-2-jx6mlz.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 803704,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:34:20.000Z",
+  "updatedAt": "2026-05-06T12:34:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888889",
+    "title": "mindspiritdesign-20251220_124439-4096656013.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888889,
+      "url": "https://www.are.na/block/45888889",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "mindspiritdesign-20251220_124439-4096656013.mp4",
+      "createdAt": "2026-05-06T12:34:20Z",
+      "updatedAt": "2026-05-06T12:34:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "mindspiritdesign-20251220_124439-4096656013.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Gesture Control",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "37d8826da2b631a25710c12200679c46e99a0d4741d94f05c73c5fa9f6aee179"
+  }
+}

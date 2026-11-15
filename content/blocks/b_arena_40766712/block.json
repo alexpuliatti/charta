@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40766712",
+  "type": "link",
+  "title": "Mave Health",
+  "description": "An 8 week program centred around a wearable neurostimulation headset that gently activates underused areas of your brain, helping you reduce anxious thoughts and feel calm.",
+  "category": "Companies",
+  "tags": [
+    "neurotechnology",
+    "mental-health",
+    "wearables"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-c1119a48ba61c1841fc6ce91.webp",
+      "mimeType": "image/webp",
+      "alt": "Mave Health",
+      "role": "thumbnail",
+      "bytes": 12248,
+      "sha256": "c1119a48ba61c1841fc6ce91a001d609413a5f4d60e1f1969f346ef5952f741d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2NjcxMi9vcmlnaW5hbF83M2NlZjAzNjA4OTcwMzAwZmJkNjI5NGQwMjIxNmY0OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "73cef03608970300fbd6294d02216f49.png"
+    },
+    {
+      "path": "assets/preview-4c7e615645bd71c7d1017f3c.webp",
+      "mimeType": "image/webp",
+      "alt": "Mave Health",
+      "role": "preview",
+      "bytes": 204618,
+      "sha256": "4c7e615645bd71c7d1017f3cd9d14e62febfbdd6a8508f3f24d69668c89f7c97",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40766712/original_73cef03608970300fbd6294d02216f49.png",
+      "originalName": "73cef03608970300fbd6294d02216f49.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1569153,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-01T09:03:41.000Z",
+  "updatedAt": "2025-11-01T09:03:57.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.mavehealth.com/",
+    "title": "Mave Health",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40766712,
+      "url": "https://www.are.na/block/40766712",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Mave Health",
+      "createdAt": "2025-11-01T09:03:41Z",
+      "updatedAt": "2025-11-01T09:03:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Mave Health",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurostimulation",
+        "mental-health",
+        "wearables",
+        "neurotechnology",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

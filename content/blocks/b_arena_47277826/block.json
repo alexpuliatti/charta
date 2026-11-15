@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47277826",
+  "type": "link",
+  "title": "Neural Sonar",
+  "description": "Using recurrent neural networks to interpret passive sonar data.",
+  "category": "Writing",
+  "tags": [
+    "neural-networks",
+    "sonar",
+    "underwater"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-4bf92184deb62f4a3a90c58a.webp",
+      "mimeType": "image/webp",
+      "alt": "Seeing Underwater with Neural Networks",
+      "role": "thumbnail",
+      "bytes": 14222,
+      "sha256": "4bf92184deb62f4a3a90c58ac27f6b0363d1ae336a3a11a51c6886878a25e2ad",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI3NzgyNi9vcmlnaW5hbF85NDQ4MjRmZTEwMTQxZjYzZmJhNzRjYWVhZmUxNWM4YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "944824fe10141f63fba74caeafe15c8a.png"
+    },
+    {
+      "path": "assets/preview-7bd531dd921279218bd8fda1.webp",
+      "mimeType": "image/webp",
+      "alt": "Seeing Underwater with Neural Networks",
+      "role": "preview",
+      "bytes": 310588,
+      "sha256": "7bd531dd921279218bd8fda115df52b3bdfd8e9386e68d3574371c3c87313e32",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47277826/original_944824fe10141f63fba74caeafe15c8a.png",
+      "originalName": "944824fe10141f63fba74caeafe15c8a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 643203,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T15:47:33.000Z",
+  "updatedAt": "2026-06-24T15:47:39.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://carlkolon.com/2023/08/06/seeing-underwater/",
+    "title": "Seeing Underwater with Neural Networks",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47277826,
+      "url": "https://www.are.na/block/47277826",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Seeing Underwater with Neural Networks",
+      "createdAt": "2026-06-24T15:47:33Z",
+      "updatedAt": "2026-06-24T15:47:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Seeing Underwater with Neural Networks",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "data-visualization",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

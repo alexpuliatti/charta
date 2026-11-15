@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247926",
+  "type": "image",
+  "title": "Historic Kitchen",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "historic-kitchen",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4b4db45edf1778cf8c0e048b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Historic Kitchen",
+      "role": "original",
+      "bytes": 205374,
+      "sha256": "4b4db45edf1778cf8c0e048b3d3e1b4262d33e9133a0ae81dfd1e3497c57fbbe",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247926/original_0c252f109d96fae2b9fb89d51cec040e.jpeg",
+      "originalName": "0c252f109d96fae2b9fb89d51cec040e.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-192919961f0e4ca4b31c97f2.webp",
+      "mimeType": "image/webp",
+      "alt": "Historic Kitchen",
+      "role": "thumbnail",
+      "bytes": 14346,
+      "sha256": "192919961f0e4ca4b31c97f213cb79490d0e5b59ad5dc5dca916889aaa04aa36",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkyNi9vcmlnaW5hbF8wYzI1MmYxMDlkOTZmYWUyYjlmYjg5ZDUxY2VjMDQwZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0c252f109d96fae2b9fb89d51cec040e.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-4b4db45edf1778cf8c0e048b-4b4db45edf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Historic Kitchen",
+      "bytes": 138716,
+      "sha256": "9d6f6a55ae67c69deabde06c1be008aded4530199d7d41dbf6fba020f47d5673",
+      "width": 1390,
+      "height": 927,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4b4db45edf1778cf8c0e048b.jpg",
+        "sourceSha256": "4b4db45edf1778cf8c0e048b3d3e1b4262d33e9133a0ae81dfd1e3497c57fbbe",
+        "originalBytes": 205374,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:05.000Z",
+  "updatedAt": "2026-06-23T14:30:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247926",
+    "title": "HGiD3p_XgAAZSIu",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247926,
+      "url": "https://www.are.na/block/47247926",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HGiD3p_XgAAZSIu",
+      "createdAt": "2026-06-23T14:30:05Z",
+      "updatedAt": "2026-06-23T14:30:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HGiD3p_XgAAZSIu",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Historic Kitchen",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9d6f6a55ae67c69deabde06c1be008aded4530199d7d41dbf6fba020f47d5673"
+  }
+}

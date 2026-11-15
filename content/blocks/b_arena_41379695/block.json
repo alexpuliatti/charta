@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_41379695",
+  "type": "link",
+  "title": "Intellectual Intimacy",
+  "description": "On synapses, sentences, and the thrill of being undressed by thought.",
+  "category": "Writing",
+  "tags": [
+    "intimacy",
+    "intelligence",
+    "language"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-80d72897ed7b43f4b2445e7d.webp",
+      "mimeType": "image/webp",
+      "alt": "The Erotics of Intelligence",
+      "role": "thumbnail",
+      "bytes": 9702,
+      "sha256": "80d72897ed7b43f4b2445e7dea78c4da8cb0ac5a602a4b54b508eeca26955a30",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MTM3OTY5NS9vcmlnaW5hbF9iMjdiNDUzYWFmOWZlYzE1YmMxYTZhMTVlNDE2MTZmYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b27b453aaf9fec15bc1a6a15e41616fb.png"
+    },
+    {
+      "path": "assets/preview-067ee0bf47d6fffd4ed521b0.webp",
+      "mimeType": "image/webp",
+      "alt": "The Erotics of Intelligence",
+      "role": "preview",
+      "bytes": 286294,
+      "sha256": "067ee0bf47d6fffd4ed521b0a4ff4362ed164613fab92508430eb39239ba7b6b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/41379695/original_b27b453aaf9fec15bc1a6a15e41616fb.png",
+      "originalName": "b27b453aaf9fec15bc1a6a15e41616fb.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1131462,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-25T22:43:55.000Z",
+  "updatedAt": "2025-11-25T22:44:02.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://helenhigginsbooks1.substack.com/p/the-erotics-of-intelligence-what",
+    "title": "The Erotics of Intelligence",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 41379695,
+      "url": "https://www.are.na/block/41379695",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "The Erotics of Intelligence",
+      "createdAt": "2025-11-25T22:43:55Z",
+      "updatedAt": "2025-11-25T22:44:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "article",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://helenhigginsbooks1.substack.com/p/the-erotics-of-intelligence-what",
+        "finding": "Read public essay on attraction through intellectual exchange, language and shared curiosity."
+      }
+    ],
+    "original": {
+      "title": "The Erotics of Intelligence",
+      "category": "Writing and ideas",
+      "tags": [
+        "writing",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

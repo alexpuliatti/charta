@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888865",
+  "type": "video",
+  "title": "Beach Figures",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "beach-figures",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-746906166a39ae0806a9a588.mp4",
+      "mimeType": "video/mp4",
+      "alt": "1.mp4",
+      "role": "original",
+      "bytes": 3894394,
+      "sha256": "746906166a39ae0806a9a588f291a230c98507684cdac47c7d4e3a9e570446e0",
+      "sourceUrl": "https://attachments.are.na/45888865/d517d948b2c5d3af7232ba2023c95ac3.mp4",
+      "originalName": "d517d948b2c5d3af7232ba2023c95ac3.mp4"
+    },
+    {
+      "path": "assets/thumbnail-d1c99b4420255aa41aae0e0f.webp",
+      "mimeType": "image/webp",
+      "alt": "Beach Figures",
+      "role": "thumbnail",
+      "bytes": 5192,
+      "sha256": "d1c99b4420255aa41aae0e0f20a4dbbaeedc8fc7f636ec2cbd3c5a8995758979",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg2NS9vcmlnaW5hbF8zYWVlZjcyM2JlNDJmNjNkMjAyNjA1MDYtMi01Zzc1bzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3aeef723be42f63d20260506-2-5g75o1.png"
+    },
+    {
+      "path": "assets/display-web-original-746906166a39ae0806a9a588-746906166a.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "1.mp4",
+      "bytes": 3457256,
+      "sha256": "f7004efd1d29cafbc8f657c8999325d77956a5052bb03d969f907507b3ef7939",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-746906166a39ae0806a9a588.mp4",
+        "sourceSha256": "746906166a39ae0806a9a588f291a230c98507684cdac47c7d4e3a9e570446e0",
+        "originalBytes": 3894394,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-a0552fb2ed0152e6b3272f78.webp",
+      "mimeType": "image/webp",
+      "alt": "1.mp4",
+      "role": "preview",
+      "bytes": 38908,
+      "sha256": "a0552fb2ed0152e6b3272f78ee48f4d6337adfc0fb8db851c1558071d587cb78",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888865/original_3aeef723be42f63d20260506-2-5g75o1.png",
+      "originalName": "3aeef723be42f63d20260506-2-5g75o1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 337596,
+        "width": 960,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:33:30.000Z",
+  "updatedAt": "2026-05-06T12:33:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888865",
+    "title": "1.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888865,
+      "url": "https://www.are.na/block/45888865",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "1.mp4",
+      "createdAt": "2026-05-06T12:33:30Z",
+      "updatedAt": "2026-05-06T12:33:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "1.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Beach Figures",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d1c99b4420255aa41aae0e0f20a4dbbaeedc8fc7f636ec2cbd3c5a8995758979"
+  }
+}

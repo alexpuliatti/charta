@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888851",
+  "type": "video",
+  "title": "Photo Manager",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "photo-manager",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dbcabcfcf5cdaee37313a569.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1776757440786.mp4",
+      "role": "original",
+      "bytes": 52287272,
+      "sha256": "dbcabcfcf5cdaee37313a56931cdb000a42c279a4fed4f5cba31804b314aeb7a",
+      "sourceUrl": "https://attachments.are.na/45888851/d0c35752d2a8958ca513fe4cc121b31e.mp4",
+      "originalName": "d0c35752d2a8958ca513fe4cc121b31e.mp4"
+    },
+    {
+      "path": "assets/thumbnail-e707389608ed7e33f4715d78.webp",
+      "mimeType": "image/webp",
+      "alt": "Photo Manager",
+      "role": "thumbnail",
+      "bytes": 6492,
+      "sha256": "e707389608ed7e33f4715d78c75398b46bae6f360d8fbddd3e843a1b0f6e073f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg1MS9vcmlnaW5hbF81ZDJkMWUyMzcwZDQyZTEwMjAyNjA1MDYtMi1kOGszNzkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5d2d1e2370d42e1020260506-2-d8k379.png"
+    },
+    {
+      "path": "assets/display-web-original-dbcabcfcf5cdaee37313a569-dbcabcfcf5.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1776757440786.mp4",
+      "bytes": 8304653,
+      "sha256": "c9c50debb907d770e84b2dc570c261bccb24805693163b0a653456891677714d",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dbcabcfcf5cdaee37313a569.mp4",
+        "sourceSha256": "dbcabcfcf5cdaee37313a56931cdb000a42c279a4fed4f5cba31804b314aeb7a",
+        "originalBytes": 52287272,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-1cd482b8fb8d73e793f87e76.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1776757440786.mp4",
+      "role": "preview",
+      "bytes": 145018,
+      "sha256": "1cd482b8fb8d73e793f87e76d8b600368a4ea0a97b6ccb3d97a2c58b632c44b8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888851/original_5d2d1e2370d42e1020260506-2-d8k379.png",
+      "originalName": "5d2d1e2370d42e1020260506-2-d8k379.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 3546434,
+        "width": 2560,
+        "height": 1440,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:32:40.000Z",
+  "updatedAt": "2026-05-06T12:32:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888851",
+    "title": "ssstwitter.com_1776757440786.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888851,
+      "url": "https://www.are.na/block/45888851",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1776757440786.mp4",
+      "createdAt": "2026-05-06T12:32:40Z",
+      "updatedAt": "2026-05-06T12:32:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1776757440786.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Photo Manager",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e707389608ed7e33f4715d78c75398b46bae6f360d8fbddd3e843a1b0f6e073f"
+  }
+}

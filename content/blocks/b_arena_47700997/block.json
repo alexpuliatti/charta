@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700997",
+  "type": "image",
+  "title": "Murder Orient",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "murder-orient",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6086f12332a52bee8ff79b10.png",
+      "mimeType": "image/png",
+      "alt": "Murder Orient",
+      "role": "original",
+      "bytes": 4175589,
+      "sha256": "6086f12332a52bee8ff79b1015a266a8158f6c60bba1831246c328e0251d2214",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700997/original_04a37fd160b989115cd75897e8916c08.png",
+      "originalName": "04a37fd160b989115cd75897e8916c08.png"
+    },
+    {
+      "path": "assets/thumbnail-ec39d332fc2d52f65f1e7394.webp",
+      "mimeType": "image/webp",
+      "alt": "Murder Orient",
+      "role": "thumbnail",
+      "bytes": 11000,
+      "sha256": "ec39d332fc2d52f65f1e73940b9fb6a0472b619529fe7bc397db00a91545947e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk5Ny9vcmlnaW5hbF8wNGEzN2ZkMTYwYjk4OTExNWNkNzU4OTdlODkxNmMwOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "04a37fd160b989115cd75897e8916c08.png"
+    },
+    {
+      "path": "assets/display-web-original-6086f12332a52bee8ff79b10-6086f12332.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Murder Orient",
+      "bytes": 194122,
+      "sha256": "3bbc20a8e7df5c21588b60bb1e17442d114e0c0ce42293aa3546981befbc2e51",
+      "width": 2000,
+      "height": 1060,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6086f12332a52bee8ff79b10.png",
+        "sourceSha256": "6086f12332a52bee8ff79b1015a266a8158f6c60bba1831246c328e0251d2214",
+        "originalBytes": 4175589,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:04.000Z",
+  "updatedAt": "2026-07-08T14:56:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700997",
+    "title": "Screenshot 2023-09-12 alle 16.50.21",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700997,
+      "url": "https://www.are.na/block/47700997",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.50.21",
+      "createdAt": "2026-07-08T14:56:04Z",
+      "updatedAt": "2026-07-08T14:56:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.50.21",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Murder Orient",
+    "text": "Agatha Christie\nHer two most recent bestsellers\nPOSTERN OF FATE\n*A Tommy and Tuppence one and another\ningeniously relying on age's gift of\nrecalling the past. She still skims like a\nbird.\"\nH. R. F. Keating, The Times\n\"A genuine tour de force.\"\nMaurice Richardson, Observer\n*Another success by the writer of the most\ncomfortable detective fiction in the\ncountry\nScotsman\nELEPHANTS CAN\nREMEMBER\n\"A classic example of the ingenious\nthree-card trick (now you see it, now you\ndon't) that she has been playing on her\nreaders for so many years.'\nGraham Lord, Sunday Express\n*A beautiful example of latter-day\nChristie.'\nF. E. Pardoe, Birmingham Post\n\"The story is unfolded with immense\nhumour, verve and skill?\nEdmund Crispin, Sunday Times\nJacket photograph by Margaret Murray\nISBN 0 00 231312 X\nHer classic mystery-\nnow a major star-studded film\nMURDER ON\nTHE ORIENT\nEXPRESS\nThundering along on its three-day journey across Europe,\nthe famous Orient Express suddenly came to a stop as\nsnowdrifts blocked the line. Surrounded by the silent\nBalkan Hills, the passengers settled down for the night.\nBut Hercule Poirot did not sleep well. He awoke with\na start in the small hours, roused by a loud groan from\nnearby. At the same moment the ping of a bell sounded\nsharply and someone said: \"It was nothing, a mistake..\nThen Poirot heard no more.\nIn the morning the man in the next compartment lay\ndead, stabbed viciously\nand frenziedly, over and over\nagain. And Hercule Poirot confronted twelve unlikely\nsuspects - for the murderer was still on the train.\nAGATHA\nCHRISTIE\nCOLLINS\nAGATHA CHRISTIE\nPoirot's Early Cases\nAGATHA\nCHRISTIE\nPoirot's Early Cases\nEighteen short stories by Agatha Christie,\nwith one exception never previously\npublished in England in book form, add\nup to a treasure trove for the Queen of\nCrime's millions of admirers all over the\nworld.\nAll the stories feature Hercule Poirot and\nthe cases which helped to establish the\nlittle Belgian detective's professional\nreputation in this country when he first\ncame over at the end of the First World\nWar and became involved in the\nscandalous affair at the Victory Ball.\nThe majority of the stories are narrated\nby the friend who in those carly days\nplayed Watson to Poirot's Holmes and\nafford fascinating glimpses of Poirot\ngrappling with English problems even\nwhile grappling - sometimes less\nsuccessfully - with the English language.\nHere then are a dozen and a half new\nstories about one of the best-loved\ndetectives in fiction. The stories are\nvintage Christie. There is no need to say\nany more\nCOLLINS\n£2-25 net",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3bbc20a8e7df5c21588b60bb1e17442d114e0c0ce42293aa3546981befbc2e51"
+  }
+}

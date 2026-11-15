@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47567396",
+  "type": "link",
+  "title": "Paper Shaders",
+  "description": "Shaders for you to use in your projects, as React components or GLSL.",
+  "category": "Technology",
+  "tags": [
+    "shaders",
+    "glsl",
+    "react"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-987b390ccf09ad703cc8b0ca.webp",
+      "mimeType": "image/webp",
+      "alt": "Paper Shaders – Ultra-fast zero-dependency shaders",
+      "role": "thumbnail",
+      "bytes": 14562,
+      "sha256": "987b390ccf09ad703cc8b0cafc64030cbdb912de413882687a7b2668fd961b3b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU2NzM5Ni9vcmlnaW5hbF85ZWQ1OGQyMWM2MmQ2NWQxNTIxNmI1YzViYTI2Njg4OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9ed58d21c62d65d15216b5c5ba266888.png"
+    },
+    {
+      "path": "assets/preview-2c6b97610ef5ce074bd9f638.webp",
+      "mimeType": "image/webp",
+      "alt": "Paper Shaders – Ultra-fast zero-dependency shaders",
+      "role": "preview",
+      "bytes": 709116,
+      "sha256": "2c6b97610ef5ce074bd9f638e5470cec41fc89abd1dc8f51f7d0507ec804fa96",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47567396/original_9ed58d21c62d65d15216b5c5ba266888.png",
+      "originalName": "9ed58d21c62d65d15216b5c5ba266888.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 3227040,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-03T21:30:11.000Z",
+  "updatedAt": "2026-07-03T21:30:22.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://shaders.paper.design/",
+    "title": "Paper Shaders – Ultra-fast zero-dependency shaders",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47567396,
+      "url": "https://www.are.na/block/47567396",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Paper Shaders – Ultra-fast zero-dependency shaders",
+      "createdAt": "2026-07-03T21:30:11Z",
+      "updatedAt": "2026-07-03T21:30:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Paper Shaders – Ultra-fast zero-dependency shaders",
+      "category": "Technology",
+      "tags": [
+        "creative-coding",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

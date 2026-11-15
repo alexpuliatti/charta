@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46111537",
+  "type": "link",
+  "title": "Interaction Futures",
+  "description": "So, here’s a Vision Of The Future that’s popular right now.",
+  "category": "Writing",
+  "tags": [
+    "interaction-design",
+    "embodied-interaction",
+    "tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-c98b1477f5f94e96ac4edfc6.webp",
+      "mimeType": "image/webp",
+      "alt": "A Brief Rant on the Future of Interaction Design",
+      "role": "thumbnail",
+      "bytes": 12610,
+      "sha256": "c98b1477f5f94e96ac4edfc60fb9c9fb27b25f295c09969493327f4d101f9989",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjExMTUzNy9vcmlnaW5hbF9jNTIzNDYxZWY3YzI3YjU5MjQxNDUyMzQ4YjVjYzgxZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c523461ef7c27b59241452348b5cc81e.png"
+    },
+    {
+      "path": "assets/preview-b6f8c983822c0dc391ba24d6.webp",
+      "mimeType": "image/webp",
+      "alt": "A Brief Rant on the Future of Interaction Design",
+      "role": "preview",
+      "bytes": 351242,
+      "sha256": "b6f8c983822c0dc391ba24d640a6c6c35520ea38e80b4d97f471687323c4f08d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46111537/original_c523461ef7c27b59241452348b5cc81e.png",
+      "originalName": "c523461ef7c27b59241452348b5cc81e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1585719,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:40:31.000Z",
+  "updatedAt": "2026-05-13T10:40:37.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/",
+    "title": "A Brief Rant on the Future of Interaction Design",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46111537,
+      "url": "https://www.are.na/block/46111537",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "A Brief Rant on the Future of Interaction Design",
+      "createdAt": "2026-05-13T10:40:31Z",
+      "updatedAt": "2026-05-13T10:40:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "A Brief Rant on the Future of Interaction Design",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45897656",
+      "reason": "Both critique current interaction paradigms and argue for broader forms of interface invention.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_45893277",
+      "reason": "Both present visions of future interaction, comparing modeless intent-driven software with embodied interaction.",
+      "method": "curation-v1"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340316",
+  "type": "image",
+  "title": "Cabin Conversation",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "cabin-conversation",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-087b95ba6c04adf2da157ae2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Cabin Conversation",
+      "role": "original",
+      "bytes": 60398,
+      "sha256": "087b95ba6c04adf2da157ae2a3df053f7e0d887ac53d6617158d133f7da2df0b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340316/original_27fabad52c8caee63a891dca54ecc307.jpg",
+      "originalName": "27fabad52c8caee63a891dca54ecc307.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c6ca13f0c1a2e3972ffb5b94.webp",
+      "mimeType": "image/webp",
+      "alt": "Cabin Conversation",
+      "role": "thumbnail",
+      "bytes": 6708,
+      "sha256": "c6ca13f0c1a2e3972ffb5b94a468194bb536154bcdfea7931eb24ba6695ae105",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxNi9vcmlnaW5hbF8yN2ZhYmFkNTJjOGNhZWU2M2E4OTFkY2E1NGVjYzMwNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "27fabad52c8caee63a891dca54ecc307.jpg"
+    },
+    {
+      "path": "assets/display-web-original-087b95ba6c04adf2da157ae2-087b95ba6c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Cabin Conversation",
+      "bytes": 36788,
+      "sha256": "23a48d6a321cc836f94c6633149d891ddf75695b30723786ff4b45a9997edf2c",
+      "width": 1010,
+      "height": 704,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-087b95ba6c04adf2da157ae2.jpg",
+        "sourceSha256": "087b95ba6c04adf2da157ae2a3df053f7e0d887ac53d6617158d133f7da2df0b",
+        "originalBytes": 60398,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340316",
+    "title": "d41715286a573eb462afce77627974be.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340316,
+      "url": "https://www.are.na/block/44340316",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "d41715286a573eb462afce77627974be.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "d41715286a573eb462afce77627974be.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cabin Conversation",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "23a48d6a321cc836f94c6633149d891ddf75695b30723786ff4b45a9997edf2c"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247051",
+  "type": "image",
+  "title": "Kith Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "kith-website",
+    "interaction-design",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-164d07ca0d1d767588859a64.png",
+      "mimeType": "image/png",
+      "alt": "Kith Website",
+      "role": "original",
+      "bytes": 1497090,
+      "sha256": "164d07ca0d1d767588859a644e76e755eecb66f9acf9ab12c7a141205c24f76f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247051/original_10f5c588fc0bb7d7b4e1548e980404d0.png",
+      "originalName": "10f5c588fc0bb7d7b4e1548e980404d0.png"
+    },
+    {
+      "path": "assets/thumbnail-1af33eb64c207878826e57bb.webp",
+      "mimeType": "image/webp",
+      "alt": "Kith Website",
+      "role": "thumbnail",
+      "bytes": 4306,
+      "sha256": "1af33eb64c207878826e57bbedefeee7440414d088130429fd2adf57f6b11fc9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA1MS9vcmlnaW5hbF8xMGY1YzU4OGZjMGJiN2Q3YjRlMTU0OGU5ODA0MDRkMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "10f5c588fc0bb7d7b4e1548e980404d0.png"
+    },
+    {
+      "path": "assets/display-web-original-164d07ca0d1d767588859a64-164d07ca0d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Kith Website",
+      "bytes": 42384,
+      "sha256": "c4274fdb4bae62e3319065aaece296319ad93c7b7eaafcd7abac9ae58cf65520",
+      "width": 2000,
+      "height": 997,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-164d07ca0d1d767588859a64.png",
+        "sourceSha256": "164d07ca0d1d767588859a644e76e755eecb66f9acf9ab12c7a141205c24f76f",
+        "originalBytes": 1497090,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:16.000Z",
+  "updatedAt": "2026-05-06T12:19:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247051",
+    "title": "screenshot-2026-03-08-alle-19.56.24.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247051,
+      "url": "https://www.are.na/block/44247051",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-08-alle-19.56.24.png",
+      "createdAt": "2026-03-08T22:30:16Z",
+      "updatedAt": "2026-05-06T12:19:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-08-alle-19.56.24.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594",
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Kith Website",
+    "text": "inkfish.\n• HOME\nWORK [14]\n• ASICS\nNISSAN\nPFIZER\nLADL\nDAZN\nVISTAPRINT\nMISSAN\nPETSAFE\nLAND ROVER\nMCDONALD'S\nMISSAN X STAR WARS\nTHERABODY\nSONETO GOLD X JAMESON\nIKEA\nVIEW ASICS\nABOUT\nCONTACT\n[81]\nMIND GAMES\n(82]\nNO LAZY HORSES\n(83]\nSCIENCE WILL MIN\n[04]\nSUSPICTOUSLY LOW-PRICED GROCERTES\n[85] SLOWING UP THE FIGHT GAME\n[B6] UNREGIFTABLE\n(07]\nKICKS\n[88] QUIT POOCRASTINATINO\n(09) PLAY HARDER THIS WINTER\n(18) 24 HOUR\n(11) MASTER THE DRIVE\n[12] CALR IN THE STORM\n13) NARKED BY BRAVERY\n(14]\nRENT\nONLY THE\nSTRONG EVOLVE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c4274fdb4bae62e3319065aaece296319ad93c7b7eaafcd7abac9ae58cf65520"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149323",
+  "type": "link",
+  "title": "Timecapsule Scrapbook",
+  "description": "a digital scrapbook ; art / design / life / music and everything random",
+  "category": "Interface design",
+  "tags": [
+    "scrapbook",
+    "art",
+    "music"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9bacc31840977848b08657c1.webp",
+      "mimeType": "image/webp",
+      "alt": "Timecapsule",
+      "role": "thumbnail",
+      "bytes": 7780,
+      "sha256": "9bacc31840977848b08657c144f182a8211fc410e258a51d11cd937aa42f15ff",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTMyMy9vcmlnaW5hbF8wZTVmNzU1MDQ4ZWU1ZDllMzllMjNiNzg5MzM2N2YyMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0e5f755048ee5d9e39e23b7893367f23.png"
+    },
+    {
+      "path": "assets/preview-7a62123489fd2b3fe4816e6d.webp",
+      "mimeType": "image/webp",
+      "alt": "Timecapsule",
+      "role": "preview",
+      "bytes": 228520,
+      "sha256": "7a62123489fd2b3fe4816e6da743508e9bb1f839f860ab0067bf5f16c1d2968f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149323/original_0e5f755048ee5d9e39e23b7893367f23.png",
+      "originalName": "0e5f755048ee5d9e39e23b7893367f23.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 636682,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:27:33.000Z",
+  "updatedAt": "2026-05-14T15:27:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.timecapsule.co.in/",
+    "title": "Timecapsule",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149323,
+      "url": "https://www.are.na/block/46149323",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Timecapsule",
+      "createdAt": "2026-05-14T15:27:33Z",
+      "updatedAt": "2026-05-14T15:27:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Timecapsule",
+      "category": "Digital design",
+      "tags": [
+        "music",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

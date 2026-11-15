@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787850",
+  "type": "image",
+  "title": "Soft Concrete",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "soft-concrete",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7c0a398ccd953a46b01a5cec.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Soft Concrete",
+      "role": "original",
+      "bytes": 288141,
+      "sha256": "7c0a398ccd953a46b01a5cec06a201f6152ab246e03ccb8adb4f20eeae35dbb8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787850/original_cb63c1616ba97a35f749a8f094b7601e.jpg",
+      "originalName": "cb63c1616ba97a35f749a8f094b7601e.jpg"
+    },
+    {
+      "path": "assets/thumbnail-04e8f86c122d0564ef32d77b.webp",
+      "mimeType": "image/webp",
+      "alt": "Soft Concrete",
+      "role": "thumbnail",
+      "bytes": 10526,
+      "sha256": "04e8f86c122d0564ef32d77b80204bb1bb3c430598674bcb11cf9051e763759d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg1MC9vcmlnaW5hbF9jYjYzYzE2MTZiYTk3YTM1Zjc0OWE4ZjA5NGI3NjAxZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cb63c1616ba97a35f749a8f094b7601e.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7c0a398ccd953a46b01a5cec-7c0a398ccd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Soft Concrete",
+      "bytes": 114316,
+      "sha256": "34000d9449ecdc5eb7a0bd4d485aa977abf02ebe4c769ac96f0e82a15416198b",
+      "width": 1179,
+      "height": 1473,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7c0a398ccd953a46b01a5cec.jpg",
+        "sourceSha256": "7c0a398ccd953a46b01a5cec06a201f6152ab246e03ccb8adb4f20eeae35dbb8",
+        "originalBytes": 288141,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:06.000Z",
+  "updatedAt": "2025-11-02T16:01:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787850",
+    "title": "whereiwouldliketoread-20250201_162659-46185610.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787850,
+      "url": "https://www.are.na/block/40787850",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20250201_162659-46185610.jpg",
+      "createdAt": "2025-11-02T16:01:06Z",
+      "updatedAt": "2025-11-02T16:01:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20250201_162659-46185610.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Soft Concrete",
+    "text": "202G",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "34000d9449ecdc5eb7a0bd4d485aa977abf02ebe4c769ac96f0e82a15416198b"
+  }
+}

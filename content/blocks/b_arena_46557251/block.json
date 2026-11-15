@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46557251",
+  "type": "link",
+  "title": "Claru Data",
+  "description": "500K+ egocentric videos. 4M+ annotations. The only training data company 100% focused on physical AI.",
+  "category": "Companies",
+  "tags": [
+    "physical-ai",
+    "training-data",
+    "video"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-27e38f99b63d92c345103792.webp",
+      "mimeType": "image/webp",
+      "alt": "Claru — Training Data for Physical AI",
+      "role": "thumbnail",
+      "bytes": 358,
+      "sha256": "27e38f99b63d92c345103792a062aaaba87ec9f3dbec46f05205d66d15d19225",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU1NzI1MS9vcmlnaW5hbF8wYjkzNjdhMTljZjAyN2MzMGUwNjAwMjgxODVjYjM0NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0b9367a19cf027c30e060028185cb345.png"
+    },
+    {
+      "path": "assets/preview-c0065c0c3b5fb7ae45b349cf.webp",
+      "mimeType": "image/webp",
+      "alt": "Claru — Training Data for Physical AI",
+      "role": "preview",
+      "bytes": 320,
+      "sha256": "c0065c0c3b5fb7ae45b349cf327be9ab3ff5b25f43c3f9a7afe3e9862f8f4c20",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46557251/original_0b9367a19cf027c30e060028185cb345.png",
+      "originalName": "0b9367a19cf027c30e060028185cb345.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 24862,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-28T13:25:55.000Z",
+  "updatedAt": "2026-05-28T13:26:03.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://claru.ai/",
+    "title": "Claru — Training Data for Physical AI",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46557251,
+      "url": "https://www.are.na/block/46557251",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Claru — Training Data for Physical AI",
+      "createdAt": "2026-05-28T13:25:55Z",
+      "updatedAt": "2026-05-28T13:26:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Organizations",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Claru — Training Data for Physical AI",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "video",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

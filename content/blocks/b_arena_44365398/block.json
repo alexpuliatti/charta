@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44365398",
+  "type": "link",
+  "title": "Music Machines",
+  "description": "Plan8",
+  "category": "Sound",
+  "tags": [
+    "music",
+    "interactive-installation",
+    "plan8"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-36416f2620f5c02290d08b2f.webp",
+      "mimeType": "image/webp",
+      "alt": "Music Machines - Reeses Puff’s",
+      "role": "thumbnail",
+      "bytes": 4030,
+      "sha256": "36416f2620f5c02290d08b2f1178c5600d341b748b47ac9e75a4878c5023d1a3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM2NTM5OC9vcmlnaW5hbF84N2E1OWE3ZTgyOTBjYjVhZmJiN2YxOWI0YzMwOGQ3Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "87a59a7e8290cb5afbb7f19b4c308d77.png"
+    },
+    {
+      "path": "assets/preview-8c07a7dd9681eebed74d984f.webp",
+      "mimeType": "image/webp",
+      "alt": "Music Machines - Reeses Puff’s",
+      "role": "preview",
+      "bytes": 38632,
+      "sha256": "8c07a7dd9681eebed74d984fd78bafaf3a8555b9ab462a7f84163c8526bb2b36",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44365398/original_87a59a7e8290cb5afbb7f19b4c308d77.png",
+      "originalName": "87a59a7e8290cb5afbb7f19b4c308d77.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 115279,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-12T11:38:07.000Z",
+  "updatedAt": "2026-03-12T11:38:15.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://plan8.se/work/music-machines",
+    "title": "Music Machines - Reeses Puff’s",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44365398,
+      "url": "https://www.are.na/block/44365398",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Music Machines - Reeses Puff’s",
+      "createdAt": "2026-03-12T11:38:07Z",
+      "updatedAt": "2026-03-12T11:38:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Instruments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Music Machines - Reeses Puff’s",
+      "category": "Music and sound",
+      "tags": [
+        "music",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

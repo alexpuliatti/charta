@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137731",
+  "type": "image",
+  "title": "Accordion Cards",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "accordion-cards",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0b2fed3638fad450a258fcf8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Accordion Cards",
+      "role": "original",
+      "bytes": 91275,
+      "sha256": "0b2fed3638fad450a258fcf8d0f13d7bf05d2e0fe5a09ade3421625ebd6c3e2b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137731/original_f17d8285f6a0b58559ba3fdd5982cea6.jpg",
+      "originalName": "f17d8285f6a0b58559ba3fdd5982cea6.jpg"
+    },
+    {
+      "path": "assets/thumbnail-048ff6cec759f5ee74549e45.webp",
+      "mimeType": "image/webp",
+      "alt": "Accordion Cards",
+      "role": "thumbnail",
+      "bytes": 4410,
+      "sha256": "048ff6cec759f5ee74549e450f0280ff7452feaab0ce4d27f177be23667f3dad",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzczMS9vcmlnaW5hbF9mMTdkODI4NWY2YTBiNTg1NTliYTNmZGQ1OTgyY2VhNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f17d8285f6a0b58559ba3fdd5982cea6.jpg"
+    },
+    {
+      "path": "assets/display-web-original-0b2fed3638fad450a258fcf8-0b2fed3638.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Accordion Cards",
+      "bytes": 61752,
+      "sha256": "499c544b07f40b99a7d8a04067a42f45c0f917cb313b076479582073b23d720d",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0b2fed3638fad450a258fcf8.jpg",
+        "sourceSha256": "0b2fed3638fad450a258fcf8d0f13d7bf05d2e0fe5a09ade3421625ebd6c3e2b",
+        "originalBytes": 91275,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:58:00.000Z",
+  "updatedAt": "2026-03-04T15:58:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137731",
+    "title": "9f3612fd25784698f2178b5f1764a7e9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137731,
+      "url": "https://www.are.na/block/44137731",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "9f3612fd25784698f2178b5f1764a7e9.jpg",
+      "createdAt": "2026-03-04T15:58:00Z",
+      "updatedAt": "2026-03-04T15:58:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "9f3612fd25784698f2178b5f1764a7e9.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Accordion Cards",
+    "text": "We design interiors that merge\nbeauty with function. creating\nspaces that are as considered as they\nare comfortable. With a meticulous\neye for detail and a referential\nsensibility, we curate materials.\nforms. and palettes that nod to the\npast while feeling distinetly modern.\nThe result is an environment that\nfeels both elevated and deeply\npersonal.\nFor those who crave a home that\nreflects their personal style, we craft\ninteriors that feel effortlessly\nsophisticated and uniquely theirs.\nClients who value quality and\ncraftsmanship will find that every\nmaterial and finish is thoughtfully\nselected to stand the test of time.\nensuring beauty and longevity. For\nthose navigating design decisions.\nwe provide clarity and creative\ndirection, making the journey from\nconcept to completion seamless and\ninspiring.\nEmmi Collective shapes\ninteriors with effortless\nintention-where art,\narchitecture, and\nnature converge.\nemmicollective\nemmicollective.com.au",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "499c544b07f40b99a7d8a04067a42f45c0f917cb313b076479582073b23d720d"
+  }
+}

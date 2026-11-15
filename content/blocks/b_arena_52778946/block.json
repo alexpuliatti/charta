@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_52778946",
+  "type": "link",
+  "title": "Gray Crawford",
+  "description": "Selected products, projects, performances, presentations, and experience by Gray Crawford.",
+  "category": "Interface design",
+  "tags": [
+    "portfolio",
+    "products",
+    "performances"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-245dc0c7e57b7e4230930d51.webp",
+      "mimeType": "image/webp",
+      "alt": "Gray Crawford",
+      "role": "thumbnail",
+      "bytes": 866,
+      "sha256": "245dc0c7e57b7e4230930d51bb80f2f11f0f65f65d94d7875b8286e1e181afef",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1Mjc3ODk0Ni9vcmlnaW5hbF9mNWI3NmYwMTI1MjRjMTk1NTk1MTBiZjQzNTRhMmRjZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f5b76f012524c19559510bf4354a2dcf.png"
+    },
+    {
+      "path": "assets/preview-a73b3dfe8a17598f417a318b.webp",
+      "mimeType": "image/webp",
+      "alt": "Gray Crawford",
+      "role": "preview",
+      "bytes": 22400,
+      "sha256": "a73b3dfe8a17598f417a318bf73f898a7f92b0ca961d0a54af90d743c99975f7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/52778946/original_f5b76f012524c19559510bf4354a2dcf.png",
+      "originalName": "f5b76f012524c19559510bf4354a2dcf.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 82287,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-14T11:38:35.000Z",
+  "updatedAt": "2026-11-14T11:38:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://graycrawford.com/",
+    "title": "Gray Crawford",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 52778946,
+      "url": "https://www.are.na/block/52778946",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Gray Crawford",
+      "createdAt": "2026-11-14T11:38:35Z",
+      "updatedAt": "2026-11-14T11:38:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Gray Crawford",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

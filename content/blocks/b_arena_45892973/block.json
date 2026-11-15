@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892973",
+  "type": "link",
+  "title": "Durable Moats",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "defensibility",
+    "network-effects"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-05-06T14:53:27.000Z",
+  "updatedAt": "2026-05-06T14:53:33.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://x.com/michaelxbloch/status/2038753872890778029",
+    "title": "Michael Bloch on X @michaelxbloch",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892973,
+      "url": "https://www.are.na/block/45892973",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Michael Bloch on X @michaelxbloch",
+      "createdAt": "2026-05-06T14:53:27Z",
+      "updatedAt": "2026-05-06T14:53:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://michaelxbloch.substack.com/p/the-only-moats-that-matter",
+        "finding": "Author’s own public Substack republishes The Only Moats That Matter, matching the exact saved X post identified by its article title, author and March 30 publication date. Read article to ground concise title and topics."
+      }
+    ],
+    "original": {
+      "title": "Michael Bloch on X @michaelxbloch",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Michael Bloch argues that AI reduces the advantage of difficult software work while durable businesses depend on assets that take real time to accumulate. He groups these advantages into compounding operational data, network effects, regulatory permission, physical infrastructure and capital access. This is the author’s investment thesis, rather than an independently established prediction.",
+    "text": "",
+    "method": "primary-source-review",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

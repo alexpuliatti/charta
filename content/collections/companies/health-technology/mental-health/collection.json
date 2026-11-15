@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_health_technology_mental_health",
+  "title": "Mental health & wellbeing",
+  "description": "",
+  "order": 1,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_46016387"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016341"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016313"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016213"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016208"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40767682"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40766712"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

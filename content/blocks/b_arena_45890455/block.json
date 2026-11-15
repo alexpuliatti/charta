@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890455",
+  "type": "link",
+  "title": "Flow Matching",
+  "description": "Animated overview of the flow matching process from noise to data.",
+  "category": "Writing",
+  "tags": [
+    "flow-matching",
+    "generative-models",
+    "visual-explainer"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-99cbe09cb262943ee4c6f4c4.webp",
+      "mimeType": "image/webp",
+      "alt": "Tutorials — Flow Matching",
+      "role": "thumbnail",
+      "bytes": 7326,
+      "sha256": "99cbe09cb262943ee4c6f4c4d9a09fda7d80f4f213e03a61bad0db7d4fcd2634",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDQ1NS9vcmlnaW5hbF81MzAxMjc0YjQzMjQwNWQ0NGI2NGMzMmU5MDhkMTdhYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5301274b432405d44b64c32e908d17ab.png"
+    },
+    {
+      "path": "assets/preview-8c01adbd250d79312e08b4a4.webp",
+      "mimeType": "image/webp",
+      "alt": "Tutorials — Flow Matching",
+      "role": "preview",
+      "bytes": 207864,
+      "sha256": "8c01adbd250d79312e08b4a4605aa02f9fd9278676fac7cf2aefc87ef2d1dc85",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890455/original_5301274b432405d44b64c32e908d17ab.png",
+      "originalName": "5301274b432405d44b64c32e908d17ab.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 460682,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:37:38.000Z",
+  "updatedAt": "2026-05-06T13:37:50.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://diffusion.fyi/tutorials/flow-matching?ch=2",
+    "title": "Tutorials — Flow Matching",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890455,
+      "url": "https://www.are.na/block/45890455",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Tutorials — Flow Matching",
+      "createdAt": "2026-05-06T13:37:38Z",
+      "updatedAt": "2026-05-06T13:37:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Tutorials — Flow Matching",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "motion-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46148883",
+  "type": "video",
+  "title": "Glass Video",
+  "description": "A few people asked for my exact workflow on how I create this effect, so here it is:\nThis tweet blew up more than I expected! So here’s a demo you can try to see how it works! 👇 https://t.co/qu5V7XeGhd\n@JoelTankard - https://x.com/JoelTankard/status/2052920534166630493 (https://x.com/JoelTankard/status/2052920534166630493)",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glass-video",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f02d32d23508cf079c739dbe.mp4",
+      "mimeType": "video/mp4",
+      "alt": "Joel Tankard on X @JoelTankard",
+      "role": "original",
+      "bytes": 2907901,
+      "sha256": "f02d32d23508cf079c739dbe2f0b125bf9548f6132787099961809543e9c9077",
+      "sourceUrl": "https://attachments.are.na/46148883/157c9b7ac774694f67a0cc9d780e44e1.mp4",
+      "originalName": "157c9b7ac774694f67a0cc9d780e44e1.mp4"
+    },
+    {
+      "path": "assets/thumbnail-cc40a812bbfb630ed8ae567d.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Video",
+      "role": "thumbnail",
+      "bytes": 2422,
+      "sha256": "cc40a812bbfb630ed8ae567d965a0b7c1999be938f2115075231a7b2bc403ba6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0ODg4My9vcmlnaW5hbF9hZTY0NGY0NTFhZmFhODUyMjAyNjA1MTQtMi16djEwb2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ae644f451afaa85220260514-2-zv10ob.png"
+    },
+    {
+      "path": "assets/display-web-original-f02d32d23508cf079c739dbe-f02d32d235.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "Joel Tankard on X @JoelTankard",
+      "bytes": 348442,
+      "sha256": "4549aa066cbb0f23b4758029b79f5ea5a2bdadd11285d71580dc3493a8d04fcc",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f02d32d23508cf079c739dbe.mp4",
+        "sourceSha256": "f02d32d23508cf079c739dbe2f0b125bf9548f6132787099961809543e9c9077",
+        "originalBytes": 2907901,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-f4cc2c8fdb34caf22b864851.webp",
+      "mimeType": "image/webp",
+      "alt": "Joel Tankard on X @JoelTankard",
+      "role": "preview",
+      "bytes": 47950,
+      "sha256": "f4cc2c8fdb34caf22b86485179bbbb30dbe5459a34d56995afd7bbeaa8362802",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46148883/original_ae644f451afaa85220260514-2-zv10ob.png",
+      "originalName": "ae644f451afaa85220260514-2-zv10ob.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 886222,
+        "width": 2560,
+        "height": 1634,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:15:01.000Z",
+  "updatedAt": "2026-05-14T15:19:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/JoelTankard/status/2054730443178803697?s=20",
+    "title": "Joel Tankard on X @JoelTankard",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46148883,
+      "url": "https://www.are.na/block/46148883",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Joel Tankard on X @JoelTankard",
+      "createdAt": "2026-05-14T15:15:01Z",
+      "updatedAt": "2026-05-14T15:19:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Joel Tankard on X @JoelTankard",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Video",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cc40a812bbfb630ed8ae567d965a0b7c1999be938f2115075231a7b2bc403ba6"
+  }
+}

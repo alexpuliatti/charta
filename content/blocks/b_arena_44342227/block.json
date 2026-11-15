@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44342227",
+  "type": "image",
+  "title": "Studio Tables",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "studio-tables",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-79c2ff807a6d3b830eda5cb5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Studio Tables",
+      "role": "original",
+      "bytes": 249038,
+      "sha256": "79c2ff807a6d3b830eda5cb5268e37eabc780edeebeefa6b368246c33858abfa",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44342227/original_48c4c6c191a3269acc29337639925cd7.jpg",
+      "originalName": "48c4c6c191a3269acc29337639925cd7.jpg"
+    },
+    {
+      "path": "assets/thumbnail-a972b06fd68b51aa1bf0f422.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Tables",
+      "role": "thumbnail",
+      "bytes": 11858,
+      "sha256": "a972b06fd68b51aa1bf0f422b9f18945a4be2a26659eeda0750e9f98cbdbf782",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MjIyNy9vcmlnaW5hbF80OGM0YzZjMTkxYTMyNjlhY2MyOTMzNzYzOTkyNWNkNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "48c4c6c191a3269acc29337639925cd7.jpg"
+    },
+    {
+      "path": "assets/display-web-original-79c2ff807a6d3b830eda5cb5-79c2ff807a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Tables",
+      "bytes": 142364,
+      "sha256": "d3247ed96b28847cf0d49c99142b4eaceb06164e1593b242c2512ad3618ff34c",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-79c2ff807a6d3b830eda5cb5.jpg",
+        "sourceSha256": "79c2ff807a6d3b830eda5cb5268e37eabc780edeebeefa6b368246c33858abfa",
+        "originalBytes": 249038,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T18:32:45.000Z",
+  "updatedAt": "2026-03-11T18:33:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44342227",
+    "title": "sebastianzuchowicki-20260311_125605-1359029445.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44342227,
+      "url": "https://www.are.na/block/44342227",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "sebastianzuchowicki-20260311_125605-1359029445.jpg",
+      "createdAt": "2026-03-11T18:32:45Z",
+      "updatedAt": "2026-03-11T18:33:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sebastianzuchowicki-20260311_125605-1359029445.jpg",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Tables",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d3247ed96b28847cf0d49c99142b4eaceb06164e1593b242c2512ad3618ff34c"
+  }
+}

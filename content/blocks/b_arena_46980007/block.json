@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46980007",
+  "type": "link",
+  "title": "Insider Media",
+  "description": "Working Theory #100",
+  "category": "Writing",
+  "tags": [
+    "media",
+    "prestige",
+    "attention"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-fb213320a8433b5296842c9b.webp",
+      "mimeType": "image/webp",
+      "alt": "New Media is Insider Media",
+      "role": "thumbnail",
+      "bytes": 13900,
+      "sha256": "fb213320a8433b5296842c9b5da794be071978f793e5331db1e39860ddbd4d27",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Njk4MDAwNy9vcmlnaW5hbF83ZTg4NDg1ZTkzY2I3OTgxZDBjYWQ4MDA1MDlhZTEyMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7e88485e93cb7981d0cad800509ae122.png"
+    },
+    {
+      "path": "assets/preview-66267df640f65809275ed673.webp",
+      "mimeType": "image/webp",
+      "alt": "New Media is Insider Media",
+      "role": "preview",
+      "bytes": 379614,
+      "sha256": "66267df640f65809275ed673dbf507a5561dec6258fcae851916dc95190aa0b0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46980007/original_7e88485e93cb7981d0cad800509ae122.png",
+      "originalName": "7e88485e93cb7981d0cad800509ae122.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 751855,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-12T13:19:34.000Z",
+  "updatedAt": "2026-06-12T13:19:45.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.workingtheorys.com/p/insider-media",
+    "title": "New Media is Insider Media",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46980007,
+      "url": "https://www.are.na/block/46980007",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "New Media is Insider Media",
+      "createdAt": "2026-06-12T13:19:34Z",
+      "updatedAt": "2026-06-12T13:19:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "article",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.workingtheorys.com/p/insider-media",
+        "finding": "Read public essay on insider audiences, prestige, taste and technology-media distribution."
+      }
+    ],
+    "original": {
+      "title": "New Media is Insider Media",
+      "category": "Writing and ideas",
+      "tags": [
+        "research",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_41336502",
+      "reason": "Both examine attention, prestige, narratives and influential personalities in technology culture, including who commands a valuable audience.",
+      "method": "curation-v1"
+    }
+  ]
+}

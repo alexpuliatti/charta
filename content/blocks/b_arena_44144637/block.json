@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144637",
+  "type": "image",
+  "title": "Temporal Diagram",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "temporal-diagram",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6611c94b7ec4a2af0a2926aa.png",
+      "mimeType": "image/png",
+      "alt": "Temporal Diagram",
+      "role": "original",
+      "bytes": 420671,
+      "sha256": "6611c94b7ec4a2af0a2926aa59da0c91fd3a1eeba6d0e3bdc59dce837d093af0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144637/original_718f2eef12dac846e7ebcaf16d4456e7.png",
+      "originalName": "718f2eef12dac846e7ebcaf16d4456e7.png"
+    },
+    {
+      "path": "assets/thumbnail-fa7eb11386461b009baaf7b5.webp",
+      "mimeType": "image/webp",
+      "alt": "Temporal Diagram",
+      "role": "thumbnail",
+      "bytes": 6552,
+      "sha256": "fa7eb11386461b009baaf7b5776978d2aac5262f6817accf0f4c043143944163",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYzNy9vcmlnaW5hbF83MThmMmVlZjEyZGFjODQ2ZTdlYmNhZjE2ZDQ0NTZlNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "718f2eef12dac846e7ebcaf16d4456e7.png"
+    },
+    {
+      "path": "assets/display-web-original-6611c94b7ec4a2af0a2926aa-6611c94b7e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Temporal Diagram",
+      "bytes": 71126,
+      "sha256": "118388e93b6c5656d5ea1312b5dcabc767f35c76d86815dee8b908e3852b46e6",
+      "width": 2000,
+      "height": 1301,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6611c94b7ec4a2af0a2926aa.png",
+        "sourceSha256": "6611c94b7ec4a2af0a2926aa59da0c91fd3a1eeba6d0e3bdc59dce837d093af0",
+        "originalBytes": 420671,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144637",
+    "title": "screenshot-2026-03-04-alle-20.16.05.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144637,
+      "url": "https://www.are.na/block/44144637",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.16.05.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.16.05.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Temporal Diagram",
+    "text": "1 JAN 24 - 1 JAN 35 CLIENTS: 1 BLN RATE GROWTH: 1.001\nSETTINGS\nCUSTOMER\nDUCAT\n9.400\n+511\n-500\nGEM\n9,400\n+511\n-500\nMARKET PLACE\nPLAY\n13 MAY 2024 - 13 MAY 2025\nCASH\n+511\n-511\nUSDT\n9.400\n+511\n-500\nGEM\n9.400\n+511\n-500\nS-B: $6,339\nDUCAT SC\nCUSTOMERS\nCUSTODY SC\nDROPS SALE ON MARKET\nGEM\n9.400\n+511\n-500\nDUCAT\n9.400\n+511\n-500\nUSDT\n9,400\n+511\n-500\nUSDT\n9.400\n+511\n-500\nB-E: $5,554\nS-E: $11,893\nVENDOR\nCUSTODY\n→ VENDOR\nGEM\n9.400\n+511\n-500\nUSDT\n9,400\n+511\n-500\nDROPS SALE ON MARKET\nGEM MINTING\nGEM GROWTH\n44%\nGEM MINTING\nGEM\nUSDT\n9.400\n+511\n-500\n9.400\n+511\n-500\nCONSUMPTION GROWTH\n63%\nGEM RATE\n4.30712\nBUYING FROM MARKET\nW\nY\nE-T: $252,335\nS-T: $264,228",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "118388e93b6c5656d5ea1312b5dcabc767f35c76d86815dee8b908e3852b46e6"
+  }
+}

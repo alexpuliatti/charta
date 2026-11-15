@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888545",
+  "type": "image",
+  "title": "Dark Assistant",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "dark-assistant",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-70cb0d7a1217ac246e6a08fb.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Dark Assistant",
+      "role": "original",
+      "bytes": 95921,
+      "sha256": "70cb0d7a1217ac246e6a08fbc87edba8fd8fb3d1e93d575f74ac6128d22de0d3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888545/original_58f13d708ffcc6c55453ea1851069fee.jpeg",
+      "originalName": "58f13d708ffcc6c55453ea1851069fee.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-73e3797c767bb172ba95b547.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Assistant",
+      "role": "thumbnail",
+      "bytes": 7654,
+      "sha256": "73e3797c767bb172ba95b547c380142478ec3d22386ce335349d83294274186a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU0NS9vcmlnaW5hbF81OGYxM2Q3MDhmZmNjNmM1NTQ1M2VhMTg1MTA2OWZlZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "58f13d708ffcc6c55453ea1851069fee.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-70cb0d7a1217ac246e6a08fb-70cb0d7a12.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dark Assistant",
+      "bytes": 72100,
+      "sha256": "5905741a54ae11d6df6e2333c28c6c41291cfab45d06187143ffc075e75c3895",
+      "width": 1200,
+      "height": 843,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-70cb0d7a1217ac246e6a08fb.jpg",
+        "sourceSha256": "70cb0d7a1217ac246e6a08fbc87edba8fd8fb3d1e93d575f74ac6128d22de0d3",
+        "originalBytes": 95921,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:51.000Z",
+  "updatedAt": "2026-05-06T12:21:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888545",
+    "title": "756541712e7c7bb6040bff054366302d-1-.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888545,
+      "url": "https://www.are.na/block/45888545",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "756541712e7c7bb6040bff054366302d-1-.jpg",
+      "createdAt": "2026-05-06T12:21:51Z",
+      "updatedAt": "2026-05-06T12:21:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "756541712e7c7bb6040bff054366302d-1-.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Assistant",
+    "text": "NEW\n- Home\nRemember\nSettings\nWhich months had the\nhighest expenses\nin 2024?\nAsk your data anything_\nM\n• PAST\nFUTURE\nPredict my busiest weeks based on my\ncalendar trends.\nPUTURE\nPredict\nquestions 1 might\nreceive for my\nnext\npresentation.\nWhat should l\nfocus on\nimproving based\non last year's\nmistakes?\nFUTURE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5905741a54ae11d6df6e2333c28c6c41291cfab45d06187143ffc075e75c3895"
+  }
+}

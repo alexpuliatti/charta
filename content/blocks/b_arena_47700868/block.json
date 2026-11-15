@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700868",
+  "type": "image",
+  "title": "Blue Anatomy",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "blue-anatomy",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cba7546e452ae1269d5115bc.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Anatomy",
+      "role": "original",
+      "bytes": 64087,
+      "sha256": "cba7546e452ae1269d5115bcf3387db74eb59009276a0ab55b80ed65d0e9e46e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700868/original_1633fb88e584183fbbb56cbbcdc2aa5f.jpeg",
+      "originalName": "1633fb88e584183fbbb56cbbcdc2aa5f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-99fe92ed1972016366fa6b4a.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Anatomy",
+      "role": "thumbnail",
+      "bytes": 13608,
+      "sha256": "99fe92ed1972016366fa6b4a9a8aa35321dd2dec086761ec864e8b4fd9c77c82",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg2OC9vcmlnaW5hbF8xNjMzZmI4OGU1ODQxODNmYmJiNTZjYmJjZGMyYWE1Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1633fb88e584183fbbb56cbbcdc2aa5f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-cba7546e452ae1269d5115bc-cba7546e45.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Anatomy",
+      "bytes": 52750,
+      "sha256": "5e307051371e50c299d29766a1c84e64284c8f41e12b3563fd1be99131e560cc",
+      "width": 564,
+      "height": 745,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cba7546e452ae1269d5115bc.jpg",
+        "sourceSha256": "cba7546e452ae1269d5115bcf3387db74eb59009276a0ab55b80ed65d0e9e46e",
+        "originalBytes": 64087,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:11.000Z",
+  "updatedAt": "2026-07-08T14:54:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700868",
+    "title": "f9084781fed88368022694567f85f895",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700868,
+      "url": "https://www.are.na/block/47700868",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "f9084781fed88368022694567f85f895",
+      "createdAt": "2026-07-08T14:54:11Z",
+      "updatedAt": "2026-07-08T14:54:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "f9084781fed88368022694567f85f895",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Anatomy",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5e307051371e50c299d29766a1c84e64284c8f41e12b3563fd1be99131e560cc"
+  }
+}

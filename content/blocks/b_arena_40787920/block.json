@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787920",
+  "type": "image",
+  "title": "Linear Radio",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "linear-radio",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-64816fd54fcb96a2abb96b43.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Linear Radio",
+      "role": "original",
+      "bytes": 92841,
+      "sha256": "64816fd54fcb96a2abb96b4344dca8f4d14e63620027dbdb259ce222a77425cb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787920/original_b20b708b3252194c458664f41292eb3a.jpg",
+      "originalName": "b20b708b3252194c458664f41292eb3a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0d8292f99af71c4a44b5c4b1.webp",
+      "mimeType": "image/webp",
+      "alt": "Linear Radio",
+      "role": "thumbnail",
+      "bytes": 2678,
+      "sha256": "0d8292f99af71c4a44b5c4b152750eac475b9a00214627869ff9f878687735da",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkyMC9vcmlnaW5hbF9iMjBiNzA4YjMyNTIxOTRjNDU4NjY0ZjQxMjkyZWIzYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b20b708b3252194c458664f41292eb3a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-64816fd54fcb96a2abb96b43-64816fd54f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Linear Radio",
+      "bytes": 23602,
+      "sha256": "d823e72facaa863a012e06859613818442d90c01acbbc1ca23229e13818226f7",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-64816fd54fcb96a2abb96b43.jpg",
+        "sourceSha256": "64816fd54fcb96a2abb96b4344dca8f4d14e63620027dbdb259ce222a77425cb",
+        "originalBytes": 92841,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:05:14.000Z",
+  "updatedAt": "2025-11-02T16:05:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787920",
+    "title": "industrialkonzept-20241221_104712-1957887852.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787920,
+      "url": "https://www.are.na/block/40787920",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20241221_104712-1957887852.jpg",
+      "createdAt": "2025-11-02T16:05:14Z",
+      "updatedAt": "2025-11-02T16:05:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20241221_104712-1957887852.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Linear Radio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d823e72facaa863a012e06859613818442d90c01acbbc1ca23229e13818226f7"
+  }
+}

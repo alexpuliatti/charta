@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787250",
+  "type": "image",
+  "title": "Faceted Horn",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "faceted-horn",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-aaccee85c7024702d46b61f4.png",
+      "mimeType": "image/png",
+      "alt": "Faceted Horn",
+      "role": "original",
+      "bytes": 1568398,
+      "sha256": "aaccee85c7024702d46b61f442d49395895e8eb911d4adc2b1a79f4a531ac97e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787250/original_9599c364042a7af2137b68876fdf5ed3.png",
+      "originalName": "9599c364042a7af2137b68876fdf5ed3.png"
+    },
+    {
+      "path": "assets/thumbnail-a411cc3174dc62f62e71f5e1.webp",
+      "mimeType": "image/webp",
+      "alt": "Faceted Horn",
+      "role": "thumbnail",
+      "bytes": 9928,
+      "sha256": "a411cc3174dc62f62e71f5e1f409d63d5c235635b424bc7a1b0a513fb3c3eb60",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzI1MC9vcmlnaW5hbF85NTk5YzM2NDA0MmE3YWYyMTM3YjY4ODc2ZmRmNWVkMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9599c364042a7af2137b68876fdf5ed3.png"
+    },
+    {
+      "path": "assets/display-web-original-aaccee85c7024702d46b61f4-aaccee85c7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Faceted Horn",
+      "bytes": 85254,
+      "sha256": "15cf2ee46a06c954da6174f4fd2285a2a8b982717fe692336e560207cdc830f5",
+      "width": 834,
+      "height": 1258,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-aaccee85c7024702d46b61f4.png",
+        "sourceSha256": "aaccee85c7024702d46b61f442d49395895e8eb911d4adc2b1a79f4a531ac97e",
+        "originalBytes": 1568398,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:35:05.000Z",
+  "updatedAt": "2026-10-21T13:59:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787250",
+    "title": "screenshot-2025-11-02-alle-15.34.24.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787250,
+      "url": "https://www.are.na/block/40787250",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2025-11-02-alle-15.34.24.png",
+      "createdAt": "2025-11-02T15:35:05Z",
+      "updatedAt": "2026-10-21T13:59:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2025-11-02-alle-15.34.24.png",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Faceted Horn",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "15cf2ee46a06c954da6174f4fd2285a2a8b982717fe692336e560207cdc830f5"
+  }
+}

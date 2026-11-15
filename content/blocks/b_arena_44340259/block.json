@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340259",
+  "type": "image",
+  "title": "Moon Phases",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "moon-phases",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-88f2e4dc0f71c16496e0c8e4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Moon Phases",
+      "role": "original",
+      "bytes": 228548,
+      "sha256": "88f2e4dc0f71c16496e0c8e44fdb61390be9509673a0b2b56b75d25a8b22e4b1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340259/original_548c9b96244551609905821b2725e26c.jpg",
+      "originalName": "548c9b96244551609905821b2725e26c.jpg"
+    },
+    {
+      "path": "assets/thumbnail-59aee435a57bcb89906c1bfa.webp",
+      "mimeType": "image/webp",
+      "alt": "Moon Phases",
+      "role": "thumbnail",
+      "bytes": 11424,
+      "sha256": "59aee435a57bcb89906c1bfa9e2d8d5a8cc6c908e2fa9b0445d211d02224f45e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1OS9vcmlnaW5hbF81NDhjOWI5NjI0NDU1MTYwOTkwNTgyMWIyNzI1ZTI2Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "548c9b96244551609905821b2725e26c.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340259",
+    "title": "ccbf9eb2ab84c3afe42f29e88aeb2c8f.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340259,
+      "url": "https://www.are.na/block/44340259",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ccbf9eb2ab84c3afe42f29e88aeb2c8f.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ccbf9eb2ab84c3afe42f29e88aeb2c8f.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Moon Phases",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "88f2e4dc0f71c16496e0c8e44fdb61390be9509673a0b2b56b75d25a8b22e4b1"
+  }
+}

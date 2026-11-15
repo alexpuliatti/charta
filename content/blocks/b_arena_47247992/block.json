@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247992",
+  "type": "image",
+  "title": "Colour Grid",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "colour-grid",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-12c2627450af4cb1a1b8198a.png",
+      "mimeType": "image/png",
+      "alt": "Colour Grid",
+      "role": "original",
+      "bytes": 2253356,
+      "sha256": "12c2627450af4cb1a1b8198ac6d2e11a7d9d5c30fd08f444cc62ce22b3be3ea6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247992/original_19edbc70b9b41b92649ca75142909316.png",
+      "originalName": "19edbc70b9b41b92649ca75142909316.png"
+    },
+    {
+      "path": "assets/thumbnail-02af88290331e8bee27c8b4c.webp",
+      "mimeType": "image/webp",
+      "alt": "Colour Grid",
+      "role": "thumbnail",
+      "bytes": 10814,
+      "sha256": "02af88290331e8bee27c8b4c6a587f83590b1d6bd49867f5a390a085a18276e2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzk5Mi9vcmlnaW5hbF8xOWVkYmM3MGI5YjQxYjkyNjQ5Y2E3NTE0MjkwOTMxNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "19edbc70b9b41b92649ca75142909316.png"
+    },
+    {
+      "path": "assets/display-web-original-12c2627450af4cb1a1b8198a-12c2627450.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Colour Grid",
+      "bytes": 129834,
+      "sha256": "ad91c40293669ec108f6ff71db101c6c52a32a93af581bf9db34f7d0cc6d4cc6",
+      "width": 1500,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-12c2627450af4cb1a1b8198a.png",
+        "sourceSha256": "12c2627450af4cb1a1b8198ac6d2e11a7d9d5c30fd08f444cc62ce22b3be3ea6",
+        "originalBytes": 2253356,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:39.000Z",
+  "updatedAt": "2026-06-23T14:30:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247992",
+    "title": "original_76e4e5d4cd8d93d9e5966f424b7d69e4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247992,
+      "url": "https://www.are.na/block/47247992",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_76e4e5d4cd8d93d9e5966f424b7d69e4",
+      "createdAt": "2026-06-23T14:30:39Z",
+      "updatedAt": "2026-06-23T14:30:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_76e4e5d4cd8d93d9e5966f424b7d69e4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colour Grid",
+    "text": "01\n18\nCPH\n10\nDK\nDESIGN\nMATTER\nDOESN'T",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ad91c40293669ec108f6ff71db101c6c52a32a93af581bf9db34f7d0cc6d4cc6"
+  }
+}

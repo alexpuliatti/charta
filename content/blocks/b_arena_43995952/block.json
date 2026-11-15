@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995952",
+  "type": "image",
+  "title": "Archive Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "archive-website",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0965aee5e77f6520d837abff.png",
+      "mimeType": "image/png",
+      "alt": "Archive Website",
+      "role": "original",
+      "bytes": 631702,
+      "sha256": "0965aee5e77f6520d837abffdb7e84b9b30043f9854eda73a620d139ca59c00c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995952/original_83018a818a9aa8b0db98b6fd29ffe150.png",
+      "originalName": "83018a818a9aa8b0db98b6fd29ffe150.png"
+    },
+    {
+      "path": "assets/thumbnail-d37ffae6fc47224a2fa97b6c.webp",
+      "mimeType": "image/webp",
+      "alt": "Archive Website",
+      "role": "thumbnail",
+      "bytes": 12730,
+      "sha256": "d37ffae6fc47224a2fa97b6c186840c02d6bfc3640b9bbb009dd9ae2a18fcdb9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTk1Mi9vcmlnaW5hbF84MzAxOGE4MThhOWFhOGIwZGI5OGI2ZmQyOWZmZTE1MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "83018a818a9aa8b0db98b6fd29ffe150.png"
+    },
+    {
+      "path": "assets/display-web-original-0965aee5e77f6520d837abff-0965aee5e7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Archive Website",
+      "bytes": 182432,
+      "sha256": "590e93a2fa985d4cd8070d6185dd0fa0f2e6706321c63fd384ed6742da48495c",
+      "width": 1540,
+      "height": 1124,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0965aee5e77f6520d837abff.png",
+        "sourceSha256": "0965aee5e77f6520d837abffdb7e84b9b30043f9854eda73a620d139ca59c00c",
+        "originalBytes": 631702,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:16:17.000Z",
+  "updatedAt": "2026-02-28T12:16:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995952",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995952,
+      "url": "https://www.are.na/block/43995952",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:16:17Z",
+      "updatedAt": "2026-02-28T12:16:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Archive Website",
+    "text": "° 2024\n° 2025\nSEP\nOCT NOV DEC\nJAN\nFEB MAR APR MAY JUN\nJUL\nAUG\nSEP\nOCT\nNOV\n2025\nYear ahead planning\nTemplate for planning, strategy.\nsetting goals,\nand mapping actions\nfor the next year.\n2025\nMoodboard\nVisual inspiration for\nthe year ahead.\nYou are home\nYou have arrived.\nHe hate fo\n• Evaluate time spent on work vs.\npersonal projects,\naiming for a\n68/40 split.\n© Schedule weekly beach walks and\nconmit to a 10-minute daily\nmeditation practice.\n• Run a 5K race by the end of the\nquarter and incorporate strength\ntraining twice a week.\n• Organize monthly potluck dinners\nwith friends\ntechnol\nfutures of design\nSpecialist ir\nploring and pr\nthroi\ndesigned ... vuil\n2025\nQuarterly planning\nTemplate for planning, strategy.\nsetting goals, and mapping actions\nfor the next three months.\nQ1\nQ2\nQ3\nQ4",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "590e93a2fa985d4cd8070d6185dd0fa0f2e6706321c63fd384ed6742da48495c"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144641",
+  "type": "image",
+  "title": "STABE Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "stabe-website",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-daafba1d2d57aeef74df663e.png",
+      "mimeType": "image/png",
+      "alt": "STABE Website",
+      "role": "original",
+      "bytes": 2182822,
+      "sha256": "daafba1d2d57aeef74df663e9c5bf285c1b690f565572f0baf148344da3d4eb8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144641/original_b07e0606713df08b3533556e386cce92.png",
+      "originalName": "b07e0606713df08b3533556e386cce92.png"
+    },
+    {
+      "path": "assets/thumbnail-3cccd38ed5869c30d967a65b.webp",
+      "mimeType": "image/webp",
+      "alt": "STABE Website",
+      "role": "thumbnail",
+      "bytes": 17998,
+      "sha256": "3cccd38ed5869c30d967a65bf76ec672685100e9f9dc2e46806c9638f2a93e3b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDY0MS9vcmlnaW5hbF9iMDdlMDYwNjcxM2RmMDhiMzUzMzU1NmUzODZjY2U5Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b07e0606713df08b3533556e386cce92.png"
+    },
+    {
+      "path": "assets/display-web-original-daafba1d2d57aeef74df663e-daafba1d2d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "STABE Website",
+      "bytes": 212026,
+      "sha256": "62251ac3d89d60d77bdd3534054ccdf8cb491ad42ef49948d5f06ac30ed8f5dd",
+      "width": 1520,
+      "height": 1582,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-daafba1d2d57aeef74df663e.png",
+        "sourceSha256": "daafba1d2d57aeef74df663e9c5bf285c1b690f565572f0baf148344da3d4eb8",
+        "originalBytes": 2182822,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144641",
+    "title": "screenshot-2026-03-04-alle-20.16.44.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144641,
+      "url": "https://www.are.na/block/44144641",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.16.44.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.16.44.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "STABE Website",
+    "text": "*\nView Ontology: Together with you v\nPROBLEMS: ALL\nV\nHand cooking.\nSpeed from Preparing to coocked\nSpeed of preparation\nProblem with hand cooking. Because\nthe low capacity of the cook in house\nroad because of the failure. it can affe\non 3 computed states.\nSTATE THINKING\nAUTONOMOUS\nBUSINESS ENTITY\n(STABE )\nCollaborate with STABE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "62251ac3d89d60d77bdd3534054ccdf8cb491ad42ef49948d5f06ac30ed8f5dd"
+  }
+}

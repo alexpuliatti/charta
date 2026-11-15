@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177413",
+  "type": "image",
+  "title": "Interference Editor",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "interference-editor",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1f29b9ebc480a96b3c855c37.png",
+      "mimeType": "image/png",
+      "alt": "Interference Editor",
+      "role": "original",
+      "bytes": 3344715,
+      "sha256": "1f29b9ebc480a96b3c855c3737b7630eb9d95a3067757516eff0ab66edaf1d6e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177413/original_686b961fe6cdb6c2f6fe680e58bb43c2.png",
+      "originalName": "686b961fe6cdb6c2f6fe680e58bb43c2.png"
+    },
+    {
+      "path": "assets/thumbnail-43f2c3de05cc6f5702f06085.webp",
+      "mimeType": "image/webp",
+      "alt": "Interference Editor",
+      "role": "thumbnail",
+      "bytes": 10152,
+      "sha256": "43f2c3de05cc6f5702f0608541f0500cd81716fde7c42709072a2d4f90aa9b7f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzQxMy9vcmlnaW5hbF82ODZiOTYxZmU2Y2RiNmMyZjZmZTY4MGU1OGJiNDNjMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "686b961fe6cdb6c2f6fe680e58bb43c2.png"
+    },
+    {
+      "path": "assets/display-web-original-1f29b9ebc480a96b3c855c37-1f29b9ebc4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Interference Editor",
+      "bytes": 93892,
+      "sha256": "e95ee459ff86ac7ca9e7ea495a8ff0d8f313917e2a0fe08c71e232fd8931ffd5",
+      "width": 2000,
+      "height": 1445,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1f29b9ebc480a96b3c855c37.png",
+        "sourceSha256": "1f29b9ebc480a96b3c855c3737b7630eb9d95a3067757516eff0ab66edaf1d6e",
+        "originalBytes": 3344715,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:51:19.000Z",
+  "updatedAt": "2026-03-05T19:51:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44177413",
+    "title": "screenshot-2026-03-05-alle-08.46.00.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177413,
+      "url": "https://www.are.na/block/44177413",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-05-alle-08.46.00.png",
+      "createdAt": "2026-03-05T19:51:19Z",
+      "updatedAt": "2026-03-05T19:51:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-05-alle-08.46.00.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Interference Editor",
+    "text": "- ALEMBIC\nPROCEDURAL\nIMAGE MODE\nALEMBIC SHADER LAB + INFINITE PROCEDURAL BEAUTY AT YOUR FINGERTIPS\nSTATUS:\nBETA\nEXPLORE\nCHANGELOG\nLAYER\nVisibility\nCANVAS SETTINGS\nOPACITY\nBLEND MODE\nlighten\nLAYERS\n+ SHADER V\nSHAPE\nQ\nT\nCOLOR\nTEXT\nIMAGE\ndelete layer\n• Image\nIMAGE LAYER\nreplace image\nWIDTH\nHEIGHT\n0.00\n0.00\n1.00\n1.00\n* LIGHT\nBRIGHTNESS\nCONTRAST\nEXPOSURE\nBLUR\n1.92\n1.82\n0.45\n5.5\nEXPORT\nCurrent size (847×840)|\n114%\n847x840\nSAVE IMAGE\nGLOBAL INTENSITY\nSAVE PROJECT (. SHADERLAB)",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e95ee459ff86ac7ca9e7ea495a8ff0d8f313917e2a0fe08c71e232fd8931ffd5"
+  }
+}

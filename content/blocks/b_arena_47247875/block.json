@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247875",
+  "type": "image",
+  "title": "Book Discovery",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "book-discovery",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7247b4a4a9d6298968af25b8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Book Discovery",
+      "role": "original",
+      "bytes": 1098691,
+      "sha256": "7247b4a4a9d6298968af25b882312c32bca478c300371b9541d54d93d12a0cb9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247875/original_966b3b15e9d82074158bd41f00de0f64.jpeg",
+      "originalName": "966b3b15e9d82074158bd41f00de0f64.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f085bf5282bb8016eb5f0df3.webp",
+      "mimeType": "image/webp",
+      "alt": "Book Discovery",
+      "role": "thumbnail",
+      "bytes": 14148,
+      "sha256": "f085bf5282bb8016eb5f0df397d7bb0a02b0269b5617e299135684d53b169b70",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg3NS9vcmlnaW5hbF85NjZiM2IxNWU5ZDgyMDc0MTU4YmQ0MWYwMGRlMGY2NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "966b3b15e9d82074158bd41f00de0f64.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-7247b4a4a9d6298968af25b8-7247b4a4a9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Book Discovery",
+      "bytes": 225990,
+      "sha256": "66f0e7c0c282ffc44c9c196801c1a4958a0fcd93282a0c7aee0f60dfe4dc8c9e",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7247b4a4a9d6298968af25b8.jpg",
+        "sourceSha256": "7247b4a4a9d6298968af25b882312c32bca478c300371b9541d54d93d12a0cb9",
+        "originalBytes": 1098691,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:37.000Z",
+  "updatedAt": "2026-06-23T14:28:41.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247875",
+    "title": "Gjf3EdmWIAA5ZoQ",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247875,
+      "url": "https://www.are.na/block/47247875",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Gjf3EdmWIAA5ZoQ",
+      "createdAt": "2026-06-23T14:28:37Z",
+      "updatedAt": "2026-06-23T14:28:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Gjf3EdmWIAA5ZoQ",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Book Discovery",
+    "text": "Discover\nFRIEDRICH\nNIETZSCHE\nThe\nANTI-CHRIST\nThe\nGOLDFiNCH\nDONNA TARTT\nWe Don't\nSee Thing\nThey Are\nANTHONY\nBURGESS\nA CLOCKWORK\nORANGE\nFober Firsts\nHOW TO\nBE\nEATEN\nGirls of a\nCertain Age\nMaria Adelmann\nThe\nBell\nJar\nSYLVIA PLATH\nCALEB AZUMAH NELSON\nGEORGE ORWELL\n1984\nOPEN\nWATER\nPENGUIN CLASSICS.\nSØREN KIERKEGAARD\nFEAR AND TREMBLING\nFRANZ\nKAFKA\nChinua Achebe\nTHINGS FALL APART\nA Hunger Artist\nFRANZ KAFKA\nAll genre -\nFor You\nFollowing\nLAPVONA\nA MOVIEL\nU\nOTTESSA MOSHFEGH\nA FoR of MY YEAR OF BEST AND BELAXATION\nranz Kafk\nhe metamornhosi\nFRANK HERBERT\nCreative\nBeing\nThe Only One\nWho's Really\nJudging You\nThe\nSurvival\nof God\nin the\nScientific\nAge\nAlan Isaacs",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "66f0e7c0c282ffc44c9c196801c1a4958a0fcd93282a0c7aee0f60dfe4dc8c9e"
+  }
+}

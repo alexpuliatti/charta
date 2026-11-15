@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701042",
+  "type": "image",
+  "title": "Nightfall Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "nightfall-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f13b3a54cef2b8841c9b6893.png",
+      "mimeType": "image/png",
+      "alt": "Nightfall Jacket",
+      "role": "original",
+      "bytes": 3439799,
+      "sha256": "f13b3a54cef2b8841c9b68937ea33034bf4eadc06e7c98569d7255e78f18f25a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701042/original_1d4fea74c014955cad73666441fff997.png",
+      "originalName": "1d4fea74c014955cad73666441fff997.png"
+    },
+    {
+      "path": "assets/thumbnail-9fae93fe641cb2600f4661a6.webp",
+      "mimeType": "image/webp",
+      "alt": "Nightfall Jacket",
+      "role": "thumbnail",
+      "bytes": 6004,
+      "sha256": "9fae93fe641cb2600f4661a61922bb8e6583ad04045e8610f5702c9fb67245cd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0Mi9vcmlnaW5hbF8xZDRmZWE3NGMwMTQ5NTVjYWQ3MzY2NjQ0MWZmZjk5Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1d4fea74c014955cad73666441fff997.png"
+    },
+    {
+      "path": "assets/display-web-original-f13b3a54cef2b8841c9b6893-f13b3a54ce.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Nightfall Jacket",
+      "bytes": 111210,
+      "sha256": "a48da1a55b60bd9f769fce43c93bfbeeb75e5732f6823788e4fdb5f21955b06f",
+      "width": 2000,
+      "height": 896,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f13b3a54cef2b8841c9b6893.png",
+        "sourceSha256": "f13b3a54cef2b8841c9b68937ea33034bf4eadc06e7c98569d7255e78f18f25a",
+        "originalBytes": 3439799,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:36.000Z",
+  "updatedAt": "2026-07-08T14:56:41.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701042",
+    "title": "Screenshot 2023-09-12 alle 17.05.28",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701042,
+      "url": "https://www.are.na/block/47701042",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.05.28",
+      "createdAt": "2026-07-08T14:56:36Z",
+      "updatedAt": "2026-07-08T14:56:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.05.28",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Nightfall Jacket",
+    "text": "Also by Graham Greene\nTHE MAN WITHIN\nTHE NAME OF ACTION\nEach 3r. 6d. net\n1 Book Society Choice\nSTAMBOUL TRAIN\nby\nGRAHAM GREENE\n\"It is good and reassuring to see\nwidespread recognition come to an\nartist who has all the time deserved\nit. Mr. Graham Greene, whose first\nnovel attracted much attention, has\nsince had far less luck than is his\ndue. One of the most interesting of\nour younger writers, he has a mind\nand method very much his own.\nhe has in high degree the good, old-\nfashioned ability to tell an exciting\nstory.\"\n_I. A. G. StRong in the Spectator.\n*Mr. Graham Greenegets betterand\nbetter... Stamboul Train is original\nand well-written, and contains many\naptly-conceived and interesting epi-\nsodes. This story should have wide\nsuccess.\"\n-GERALD Gotto in the Obserner.\n- 75. Gu. net\nRUMOUR\nAT NIGHT-\nFALL\nGRAHAM\nGREENE\n4-\nNET\nHEINEMANN\nRumour at\nNightfall\nGraham\nGreene\nAuthor of \"THE MAN WITHIN\"\nWAn unusual and interesting\nnovel.... Mr. Greene succeeds\nIn conveyin the tooti\ntragedy, despite the atmosphere\nof suspense and terror which\nspreads through the besieged\ntown. That alone is an achieve-\nment and I repeat that this is\nan unusual novel, and original as\nfew novels are to-day.\"\n-HOwARD MARsHALL in the\nDaily Telegraph.\n\"Among the new and few novel.\nists worth thinking about. Cer-\ntainly 1 find\nmyself thinking\neagerly about Rumour at Night-\nfall. It leaves a curious excite-\nment in you, like the sound of a\nbell tolled in darkness. It touches\nyou with the\nstranger\nand\nsojourner feeling that sharp-\nedged beauty can give.\"\n—John O'London's Weekly.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a48da1a55b60bd9f769fce43c93bfbeeb75e5732f6823788e4fdb5f21955b06f"
+  }
+}

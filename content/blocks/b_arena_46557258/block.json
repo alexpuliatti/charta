@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46557258",
+  "type": "link",
+  "title": "Reka AI",
+  "description": "Reka AI builds natively multimodal models (Spark, Edge, Flash, Core) for video, image, audio, and text. Used by enterprises in security, media, and defense.",
+  "category": "Companies",
+  "tags": [
+    "multimodal-models",
+    "artificial-intelligence",
+    "video"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e6cb8fcd9afe78a2fabab033.webp",
+      "mimeType": "image/webp",
+      "alt": "Reka",
+      "role": "thumbnail",
+      "bytes": 5774,
+      "sha256": "e6cb8fcd9afe78a2fabab0337b2397fc1a9283e6aba556a755b47e8ec3e74b69",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU1NzI1OC9vcmlnaW5hbF83OWQyMmNjNjc1YmM0YjkwMTM2ZThhY2NmNmIxYTNjYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "79d22cc675bc4b90136e8accf6b1a3ca.png"
+    },
+    {
+      "path": "assets/preview-cb8a0adf6398ce790f1ab930.webp",
+      "mimeType": "image/webp",
+      "alt": "Reka",
+      "role": "preview",
+      "bytes": 122358,
+      "sha256": "cb8a0adf6398ce790f1ab930e32e610fc8e86b6877ea724c2532200d126301cd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46557258/original_79d22cc675bc4b90136e8accf6b1a3ca.png",
+      "originalName": "79d22cc675bc4b90136e8accf6b1a3ca.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 340001,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-28T13:26:15.000Z",
+  "updatedAt": "2026-05-28T13:26:25.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://reka.ai/",
+    "title": "Reka",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46557258,
+      "url": "https://www.are.na/block/46557258",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Reka",
+      "createdAt": "2026-05-28T13:26:15Z",
+      "updatedAt": "2026-05-28T13:26:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Organizations",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Reka",
+      "category": "Information design",
+      "tags": [
+        "video",
+        "sound",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

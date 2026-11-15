@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579124",
+  "type": "image",
+  "title": "Particle Landscape",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "particle-landscape",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0ba30d9b149c570271f957a5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Particle Landscape",
+      "role": "original",
+      "bytes": 214695,
+      "sha256": "0ba30d9b149c570271f957a5df5c7d57aede79b8a771698c94fed9376aad80c4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579124/original_60f0aecee02e1b9a526612f13b300907.jpeg",
+      "originalName": "60f0aecee02e1b9a526612f13b300907.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-90cc59a6ee42c3e2deef5fee.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Landscape",
+      "role": "thumbnail",
+      "bytes": 30036,
+      "sha256": "90cc59a6ee42c3e2deef5feef5a5de67ca52fb16aa15a93c7f2786c781340dc3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTEyNC9vcmlnaW5hbF82MGYwYWVjZWUwMmUxYjlhNTI2NjEyZjEzYjMwMDkwNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "60f0aecee02e1b9a526612f13b300907.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0ba30d9b149c570271f957a5-0ba30d9b14.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Particle Landscape",
+      "bytes": 181848,
+      "sha256": "f4ac5df0a76e936706baaaa43558d70e765e1d45fce7c4e89f8f606341445277",
+      "width": 956,
+      "height": 1036,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0ba30d9b149c570271f957a5.jpg",
+        "sourceSha256": "0ba30d9b149c570271f957a5df5c7d57aede79b8a771698c94fed9376aad80c4",
+        "originalBytes": 214695,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:31:19.000Z",
+  "updatedAt": "2026-10-05T16:46:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579124",
+    "title": "HC9rmyAaAAAUCir",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579124,
+      "url": "https://www.are.na/block/47579124",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HC9rmyAaAAAUCir",
+      "createdAt": "2026-07-04T15:31:19Z",
+      "updatedAt": "2026-10-05T16:46:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HC9rmyAaAAAUCir",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Particle Landscape",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f4ac5df0a76e936706baaaa43558d70e765e1d45fce7c4e89f8f606341445277"
+  }
+}

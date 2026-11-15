@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144624",
+  "type": "image",
+  "title": "IBM Rebus",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "ibm-rebus",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f564677d1baf0941cae330eb.png",
+      "mimeType": "image/png",
+      "alt": "IBM Rebus",
+      "role": "original",
+      "bytes": 1530606,
+      "sha256": "f564677d1baf0941cae330eb6b033f8b15db6fa986e5b0b7973371a60f68adaf",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144624/original_bdbdf82f8fe83222dc637af1b36bf161.png",
+      "originalName": "bdbdf82f8fe83222dc637af1b36bf161.png"
+    },
+    {
+      "path": "assets/thumbnail-e418a75d69eef6564e9d267d.webp",
+      "mimeType": "image/webp",
+      "alt": "IBM Rebus",
+      "role": "thumbnail",
+      "bytes": 4614,
+      "sha256": "e418a75d69eef6564e9d267d8b44f9e5bca1b2f72c3e79301c3bd793bef48dd6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYyNC9vcmlnaW5hbF9iZGJkZjgyZjhmZTgzMjIyZGM2MzdhZjFiMzZiZjE2MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bdbdf82f8fe83222dc637af1b36bf161.png"
+    },
+    {
+      "path": "assets/display-web-original-f564677d1baf0941cae330eb-f564677d1b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "IBM Rebus",
+      "bytes": 49008,
+      "sha256": "54887b44de6a50aeeed62e31ae58ffdd918ebc6b57d228a96123f43d523c666f",
+      "width": 1432,
+      "height": 750,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f564677d1baf0941cae330eb.png",
+        "sourceSha256": "f564677d1baf0941cae330eb6b033f8b15db6fa986e5b0b7973371a60f68adaf",
+        "originalBytes": 1530606,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-03-04T19:22:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144624",
+    "title": "screenshot-2026-03-04-alle-16.21.47.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144624,
+      "url": "https://www.are.na/block/44144624",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.21.47.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-03-04T19:22:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.21.47.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "IBM Rebus",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "54887b44de6a50aeeed62e31ae58ffdd918ebc6b57d228a96123f43d523c666f"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136924",
+  "type": "image",
+  "title": "Server Relief",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "server-relief",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ad1cff56ff866d760d37f4b9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Server Relief",
+      "role": "original",
+      "bytes": 801478,
+      "sha256": "ad1cff56ff866d760d37f4b9fe6507166d5e459df489ed25d161aab31b2b0ceb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136924/original_b2c6e30585fe1b87c4ee0c3c3353cdb7.jpg",
+      "originalName": "b2c6e30585fe1b87c4ee0c3c3353cdb7.jpg"
+    },
+    {
+      "path": "assets/thumbnail-96e01317b810e97ba436d3dc.webp",
+      "mimeType": "image/webp",
+      "alt": "Server Relief",
+      "role": "thumbnail",
+      "bytes": 21894,
+      "sha256": "96e01317b810e97ba436d3dc5402ccacfbd160e57c17e6bf9cb04724cdc2c686",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkyNC9vcmlnaW5hbF9iMmM2ZTMwNTg1ZmUxYjg3YzRlZTBjM2MzMzUzY2RiNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b2c6e30585fe1b87c4ee0c3c3353cdb7.jpg"
+    },
+    {
+      "path": "assets/display-web-original-ad1cff56ff866d760d37f4b9-ad1cff56ff.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Server Relief",
+      "bytes": 598850,
+      "sha256": "8eded5bf20a035f96f056d8e6c9b798e5fdcf9f0016dc8544b3f276eed106cbd",
+      "width": 2000,
+      "height": 1507,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ad1cff56ff866d760d37f4b9.jpg",
+        "sourceSha256": "ad1cff56ff866d760d37f4b9fe6507166d5e459df489ed25d161aab31b2b0ceb",
+        "originalBytes": 801478,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:34:57.000Z",
+  "updatedAt": "2026-03-04T15:35:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136924",
+    "title": "hb4v6doxgaaokk2.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136924,
+      "url": "https://www.are.na/block/44136924",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hb4v6doxgaaokk2.jpeg",
+      "createdAt": "2026-03-04T15:34:57Z",
+      "updatedAt": "2026-03-04T15:35:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hb4v6doxgaaokk2.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Server Relief",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8eded5bf20a035f96f056d8e6c9b798e5fdcf9f0016dc8544b3f276eed106cbd"
+  }
+}

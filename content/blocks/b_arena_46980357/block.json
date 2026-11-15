@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46980357",
+  "type": "link",
+  "title": "Colossus Magazine",
+  "description": "Colossus covers the frontier of business, investing, and technology. We publish a digital and quarterly print magazine, and a podcast network that inc",
+  "category": "Writing",
+  "tags": [
+    "business",
+    "technology",
+    "investing"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-69826295f17eafac93aaf6b5.webp",
+      "mimeType": "image/webp",
+      "alt": "Colossus",
+      "role": "thumbnail",
+      "bytes": 10456,
+      "sha256": "69826295f17eafac93aaf6b5eedf5921a96ff27c0a51d2673b7082b0a8ce16ce",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Njk4MDM1Ny9vcmlnaW5hbF85NWZkYzViNGMzYTNlNzE5MGNmNTNmNmRkNTY2N2NjOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "95fdc5b4c3a3e7190cf53f6dd5667cc8.png"
+    },
+    {
+      "path": "assets/preview-e71ecaf1e2cb804af39cfc9d.webp",
+      "mimeType": "image/webp",
+      "alt": "Colossus",
+      "role": "preview",
+      "bytes": 332874,
+      "sha256": "e71ecaf1e2cb804af39cfc9d82216dbef8426ad0d45bea934b502dc8deaae51d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46980357/original_95fdc5b4c3a3e7190cf53f6dd5667cc8.png",
+      "originalName": "95fdc5b4c3a3e7190cf53f6dd5667cc8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 4269254,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-12T13:36:56.000Z",
+  "updatedAt": "2026-06-12T13:37:20.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://colossus.com/",
+    "title": "Colossus",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46980357,
+      "url": "https://www.are.na/block/46980357",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Colossus",
+      "createdAt": "2026-06-12T13:36:56Z",
+      "updatedAt": "2026-06-12T13:37:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Colossus",
+      "category": "Graphic design",
+      "tags": [
+        "editorial-design",
+        "print-design",
+        "sound",
+        "books",
+        "data-visualization",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

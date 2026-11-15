@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340313",
+  "type": "image",
+  "title": "Red Theatre",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "red-theatre",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-416783edcf384db7b2a030e0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Red Theatre",
+      "role": "original",
+      "bytes": 33079,
+      "sha256": "416783edcf384db7b2a030e0a1845134a3e655bf6abf086678fe5e8ada8f8ed2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340313/original_bc0ef26ef207b55f961576e9c42fe9b4.jpg",
+      "originalName": "bc0ef26ef207b55f961576e9c42fe9b4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-85dfd53f329fbd410c3a61a7.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Theatre",
+      "role": "thumbnail",
+      "bytes": 4208,
+      "sha256": "85dfd53f329fbd410c3a61a7f6c235c935a3bccac7502c4889ed82e6950a9443",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxMy9vcmlnaW5hbF9iYzBlZjI2ZWYyMDdiNTVmOTYxNTc2ZTljNDJmZTliNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bc0ef26ef207b55f961576e9c42fe9b4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-416783edcf384db7b2a030e0-416783edcf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Theatre",
+      "bytes": 18396,
+      "sha256": "7994e6bab2343b206efe973838719ac809fdbd7eb017e95bb6040abf1e684853",
+      "width": 1000,
+      "height": 750,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-416783edcf384db7b2a030e0.jpg",
+        "sourceSha256": "416783edcf384db7b2a030e0a1845134a3e655bf6abf086678fe5e8ada8f8ed2",
+        "originalBytes": 33079,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340313",
+    "title": "c3803d8af74aa6084957c666bff966d1.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340313,
+      "url": "https://www.are.na/block/44340313",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c3803d8af74aa6084957c666bff966d1.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c3803d8af74aa6084957c666bff966d1.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Theatre",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7994e6bab2343b206efe973838719ac809fdbd7eb017e95bb6040abf1e684853"
+  }
+}

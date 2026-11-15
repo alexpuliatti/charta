@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787825",
+  "type": "image",
+  "title": "Timber Passage",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "timber-passage",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fb0b3e3d179febfb0708134d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Timber Passage",
+      "role": "original",
+      "bytes": 393433,
+      "sha256": "fb0b3e3d179febfb0708134d87b5d8bc10885869178c2febc5cf39b966a116ab",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787825/original_08718f91e1cedd3dc92ae6b748ac8ab0.jpg",
+      "originalName": "08718f91e1cedd3dc92ae6b748ac8ab0.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f7dcfa106db5d33cb0291bd8.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Passage",
+      "role": "thumbnail",
+      "bytes": 8180,
+      "sha256": "f7dcfa106db5d33cb0291bd88e8ba620e38510365451e81110f39e0853ef8a23",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzgyNS9vcmlnaW5hbF8wODcxOGY5MWUxY2VkZDNkYzkyYWU2Yjc0OGFjOGFiMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "08718f91e1cedd3dc92ae6b748ac8ab0.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fb0b3e3d179febfb0708134d-fb0b3e3d17.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Passage",
+      "bytes": 137810,
+      "sha256": "743e3b96c5714f639dc5d9ddd238fe7c1666bd36e9a7ac76b94e8e878267c66d",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fb0b3e3d179febfb0708134d.jpg",
+        "sourceSha256": "fb0b3e3d179febfb0708134d87b5d8bc10885869178c2febc5cf39b966a116ab",
+        "originalBytes": 393433,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:59:48.000Z",
+  "updatedAt": "2025-11-02T15:59:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787825",
+    "title": "ontherunstudio-20250209_134852-1161453872.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787825,
+      "url": "https://www.are.na/block/40787825",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ontherunstudio-20250209_134852-1161453872.jpg",
+      "createdAt": "2025-11-02T15:59:48Z",
+      "updatedAt": "2025-11-02T15:59:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ontherunstudio-20250209_134852-1161453872.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Passage",
+    "text": "@wdavidmarx",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "743e3b96c5714f639dc5d9ddd238fe7c1666bd36e9a7ac76b94e8e878267c66d"
+  }
+}

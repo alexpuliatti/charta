@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_organizations_security_intelligence",
+  "title": "Security & intelligence",
+  "description": "",
+  "order": 2,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_44241153"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

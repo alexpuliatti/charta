@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995826",
+  "type": "image",
+  "title": "Curved Lounge",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "curved-lounge",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5bd051c05bda2119aad96e23.png",
+      "mimeType": "image/png",
+      "alt": "Curved Lounge",
+      "role": "original",
+      "bytes": 1344627,
+      "sha256": "5bd051c05bda2119aad96e2302b29c5c7cb9ca0816d11a5e0b73e7ca5f5f6b25",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995826/original_1c3fa781ba84f433e96d93e276edd309.png",
+      "originalName": "1c3fa781ba84f433e96d93e276edd309.png"
+    },
+    {
+      "path": "assets/thumbnail-3ddc2c416ac74fb02501de6c.webp",
+      "mimeType": "image/webp",
+      "alt": "Curved Lounge",
+      "role": "thumbnail",
+      "bytes": 12614,
+      "sha256": "3ddc2c416ac74fb02501de6cb85b560e7c60a5c4a762e8e9857493a781bde143",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgyNi9vcmlnaW5hbF8xYzNmYTc4MWJhODRmNDMzZTk2ZDkzZTI3NmVkZDMwOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1c3fa781ba84f433e96d93e276edd309.png"
+    },
+    {
+      "path": "assets/display-web-original-5bd051c05bda2119aad96e23-5bd051c05b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Curved Lounge",
+      "bytes": 127550,
+      "sha256": "2e0ae18c218ee9af2e9f83530b8dc3f87112a3215887c7a39f424ea8728865a9",
+      "width": 962,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5bd051c05bda2119aad96e23.png",
+        "sourceSha256": "5bd051c05bda2119aad96e2302b29c5c7cb9ca0816d11a5e0b73e7ca5f5f6b25",
+        "originalBytes": 1344627,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:01:30.000Z",
+  "updatedAt": "2026-02-28T12:01:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995826",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995826,
+      "url": "https://www.are.na/block/43995826",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:01:30Z",
+      "updatedAt": "2026-02-28T12:01:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Curved Lounge",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2e0ae18c218ee9af2e9f83530b8dc3f87112a3215887c7a39f424ea8728865a9"
+  }
+}

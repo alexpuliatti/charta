@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579161",
+  "type": "image",
+  "title": "Blue Film",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "blue-film",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dab21a6a87ee7b33ebd09edb.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Film",
+      "role": "original",
+      "bytes": 93465,
+      "sha256": "dab21a6a87ee7b33ebd09edbeea3c65b3c5670209267a5ddf520c28241f5fbac",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579161/original_19ff4e2393e8a15aff412718f6a933e4.jpeg",
+      "originalName": "19ff4e2393e8a15aff412718f6a933e4.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-fe2a2e24648dfec7038d85bd.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Film",
+      "role": "thumbnail",
+      "bytes": 6276,
+      "sha256": "fe2a2e24648dfec7038d85bd4e05c44b24f8e16affeed7dab256bd74d32021b2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE2MS9vcmlnaW5hbF8xOWZmNGUyMzkzZThhMTVhZmY0MTI3MThmNmE5MzNlNC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "19ff4e2393e8a15aff412718f6a933e4.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-dab21a6a87ee7b33ebd09edb-dab21a6a87.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Film",
+      "bytes": 88164,
+      "sha256": "cae59962fad5ace02dea7d33644152dba676661ec5abd8227a6777a9d7c15fdb",
+      "width": 1440,
+      "height": 960,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dab21a6a87ee7b33ebd09edb.jpg",
+        "sourceSha256": "dab21a6a87ee7b33ebd09edbeea3c65b3c5670209267a5ddf520c28241f5fbac",
+        "originalBytes": 93465,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:35:07.000Z",
+  "updatedAt": "2026-07-04T15:35:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579161",
+    "title": "bad_land.tv-20241227_132230-247349544",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579161,
+      "url": "https://www.are.na/block/47579161",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "bad_land.tv-20241227_132230-247349544",
+      "createdAt": "2026-07-04T15:35:07Z",
+      "updatedAt": "2026-07-04T15:35:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "bad_land.tv-20241227_132230-247349544",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Film",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cae59962fad5ace02dea7d33644152dba676661ec5abd8227a6777a9d7c15fdb"
+  }
+}

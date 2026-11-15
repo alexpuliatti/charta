@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701016",
+  "type": "image",
+  "title": "Dark Frontier",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "dark-frontier",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fa2711e1305bb4bf143d174b.png",
+      "mimeType": "image/png",
+      "alt": "Dark Frontier",
+      "role": "original",
+      "bytes": 1057578,
+      "sha256": "fa2711e1305bb4bf143d174b28ba23d0f8b274c17ab5b61c1920741d33d0d014",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701016/original_0ec1415ef30eaa211f18c1ffc6a48a2b.png",
+      "originalName": "0ec1415ef30eaa211f18c1ffc6a48a2b.png"
+    },
+    {
+      "path": "assets/thumbnail-aecb669f9c4e2894e7efa10b.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Frontier",
+      "role": "thumbnail",
+      "bytes": 10530,
+      "sha256": "aecb669f9c4e2894e7efa10bbaf43d8aa1476ae643765129beae9eebdaca8502",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAxNi9vcmlnaW5hbF8wZWMxNDE1ZWYzMGVhYTIxMWYxOGMxZmZjNmE0OGEyYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0ec1415ef30eaa211f18c1ffc6a48a2b.png"
+    },
+    {
+      "path": "assets/display-web-original-fa2711e1305bb4bf143d174b-fa2711e130.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dark Frontier",
+      "bytes": 65370,
+      "sha256": "87b7802b07af8e7354c8cdbd3a505f8a5c06bbbbfdfaab2840c5066d25ab9f45",
+      "width": 994,
+      "height": 1188,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fa2711e1305bb4bf143d174b.png",
+        "sourceSha256": "fa2711e1305bb4bf143d174b28ba23d0f8b274c17ab5b61c1920741d33d0d014",
+        "originalBytes": 1057578,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:13.000Z",
+  "updatedAt": "2026-07-08T14:56:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701016",
+    "title": "Screenshot 2023-09-12 alle 17.03.05",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701016,
+      "url": "https://www.are.na/block/47701016",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.03.05",
+      "createdAt": "2026-07-08T14:56:13Z",
+      "updatedAt": "2026-07-08T14:56:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.03.05",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Frontier",
+    "text": "HOXTIER\nTHARK\nFRONTIER\nun:Ambler\nH&S\nHER& STOUGHTON\nEric Ambler",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "87b7802b07af8e7354c8cdbd3a505f8a5c06bbbbfdfaab2840c5066d25ab9f45"
+  }
+}

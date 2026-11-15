@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46717031",
+  "type": "image",
+  "title": "Layered Cube",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "layered-cube",
+    "plywood",
+    "joinery",
+    "materials",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0cb3d2a7cea93ddf9ef3e809.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Layered Cube",
+      "role": "original",
+      "bytes": 106662,
+      "sha256": "0cb3d2a7cea93ddf9ef3e8094302d64cf1534573bb3bae0450e042469a12f1f2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46717031/original_7a1398240f5b2e09e95566df66637069.jpeg",
+      "originalName": "7a1398240f5b2e09e95566df66637069.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-4ce2ba87800246ac7716102a.webp",
+      "mimeType": "image/webp",
+      "alt": "Layered Cube",
+      "role": "thumbnail",
+      "bytes": 15792,
+      "sha256": "4ce2ba87800246ac7716102adabd5ea0fe77ab4e4806868bbb130b8e7bedf0eb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxNzAzMS9vcmlnaW5hbF83YTEzOTgyNDBmNWIyZTA5ZTk1NTY2ZGY2NjYzNzA2OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7a1398240f5b2e09e95566df66637069.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0cb3d2a7cea93ddf9ef3e809-0cb3d2a7ce.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Layered Cube",
+      "bytes": 78380,
+      "sha256": "701a03f224f7eb4e4e6dc9632222e209fca265c82f9f9b78eab75c5e005a397b",
+      "width": 736,
+      "height": 920,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0cb3d2a7cea93ddf9ef3e809.jpg",
+        "sourceSha256": "0cb3d2a7cea93ddf9ef3e8094302d64cf1534573bb3bae0450e042469a12f1f2",
+        "originalBytes": 106662,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T13:39:00.000Z",
+  "updatedAt": "2026-06-03T13:39:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46717031",
+    "title": "Plywood Detail",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46717031,
+      "url": "https://www.are.na/block/46717031",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Plywood Detail",
+      "createdAt": "2026-06-03T13:39:00Z",
+      "updatedAt": "2026-06-03T13:39:03Z",
+      "addedBy": {
+        "id": 480205,
+        "name": "aisha ahamed",
+        "slug": "aisha-ahamed"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Plywood Detail",
+      "category": "Objects and materials",
+      "tags": [
+        "plywood",
+        "joinery",
+        "materials",
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Layered Cube",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "701a03f224f7eb4e4e6dc9632222e209fca265c82f9f9b78eab75c5e005a397b"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340291",
+  "type": "image",
+  "title": "Soft Cards",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "soft-cards",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-78fb722f331e05ea0c767fae.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Soft Cards",
+      "role": "original",
+      "bytes": 26670,
+      "sha256": "78fb722f331e05ea0c767fae1cea78ab3a7f1b09922fac8a0f93250c8151f5a8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340291/original_361a33d44f6e3313ba1fd236d8b81eed.jpg",
+      "originalName": "361a33d44f6e3313ba1fd236d8b81eed.jpg"
+    },
+    {
+      "path": "assets/thumbnail-45e0605b41acb1d57ee9e0ff.webp",
+      "mimeType": "image/webp",
+      "alt": "Soft Cards",
+      "role": "thumbnail",
+      "bytes": 1612,
+      "sha256": "45e0605b41acb1d57ee9e0ffe8bc278728c24fa5855399ba51dadc14c35d572b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5MS9vcmlnaW5hbF8zNjFhMzNkNDRmNmUzMzEzYmExZmQyMzZkOGI4MWVlZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "361a33d44f6e3313ba1fd236d8b81eed.jpg"
+    },
+    {
+      "path": "assets/display-web-original-78fb722f331e05ea0c767fae-78fb722f33.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Soft Cards",
+      "bytes": 14432,
+      "sha256": "a47eaee6f6b4767befc130d81132265e66e240ac041ba7721e51c27e194b9cec",
+      "width": 1200,
+      "height": 675,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-78fb722f331e05ea0c767fae.jpg",
+        "sourceSha256": "78fb722f331e05ea0c767fae1cea78ab3a7f1b09922fac8a0f93250c8151f5a8",
+        "originalBytes": 26670,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340291",
+    "title": "3b9c09e36ad79be457ddd443631f04f8.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340291,
+      "url": "https://www.are.na/block/44340291",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "3b9c09e36ad79be457ddd443631f04f8.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "3b9c09e36ad79be457ddd443631f04f8.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Soft Cards",
+    "text": "Active Line\nEasily switch between lines\nMain\nPrivate\nConnectivity\nUse satellites if coverage drops\nSatellite\nCellular\nVPN\nSecure your browsing\nOff\nYour connection is secure\n• New York- VPN\nUpgrade to Pro\n$89/ Month\n© Satellite coverage\nAdditional lines included",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a47eaee6f6b4767befc130d81132265e66e240ac041ba7721e51c27e194b9cec"
+  }
+}

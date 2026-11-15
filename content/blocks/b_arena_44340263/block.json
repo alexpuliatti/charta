@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340263",
+  "type": "image",
+  "title": "Isometric Diagram",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "isometric-diagram",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5a61ac0a72a890f87fb5bf0a.png",
+      "mimeType": "image/png",
+      "alt": "Isometric Diagram",
+      "role": "original",
+      "bytes": 2921850,
+      "sha256": "5a61ac0a72a890f87fb5bf0abef5287ccbd7f481578634229001d700a6102a14",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340263/original_231a72e3543bcfd54442a89c25bae54b.png",
+      "originalName": "231a72e3543bcfd54442a89c25bae54b.png"
+    },
+    {
+      "path": "assets/thumbnail-d8bff21811be80abef2701ec.webp",
+      "mimeType": "image/webp",
+      "alt": "Isometric Diagram",
+      "role": "thumbnail",
+      "bytes": 6728,
+      "sha256": "d8bff21811be80abef2701ec3ebcf82797ac06c5b0703388c2930525cdbc4147",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI2My9vcmlnaW5hbF8yMzFhNzJlMzU0M2JjZmQ1NDQ0MmE4OWMyNWJhZTU0Yi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "231a72e3543bcfd54442a89c25bae54b.png"
+    },
+    {
+      "path": "assets/display-web-original-5a61ac0a72a890f87fb5bf0a-5a61ac0a72.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Isometric Diagram",
+      "bytes": 120738,
+      "sha256": "3561d55ec9b122c98bdd39aa22a6d71ff1f576ceefe5f3302aa681a7d754ee31",
+      "width": 2000,
+      "height": 1208,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5a61ac0a72a890f87fb5bf0a.png",
+        "sourceSha256": "5a61ac0a72a890f87fb5bf0abef5287ccbd7f481578634229001d700a6102a14",
+        "originalBytes": 2921850,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:41:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340263",
+    "title": "screenshot-2026-03-11-alle-08.09.30.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340263,
+      "url": "https://www.are.na/block/44340263",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-11-alle-08.09.30.png",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:41:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-11-alle-08.09.30.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Isometric Diagram",
+    "text": "Stage X\nnoise height map floral cu... X\nheight map 2X\nBETA 0.8.4342\n118.6% ...",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3561d55ec9b122c98bdd39aa22a6d71ff1f576ceefe5f3302aa681a7d754ee31"
+  }
+}

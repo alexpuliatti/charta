@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892327",
+  "type": "link",
+  "title": "SwiftUI Carousel",
+  "description": "While I looking for some design references, I happened to see an image of Pantone’s plastic color chip sets commonly seen in design…",
+  "category": "Writing",
+  "tags": [
+    "swiftui",
+    "carousel",
+    "3d-interface"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-008aba5c3e9fe3c8d98e0b7b.webp",
+      "mimeType": "image/webp",
+      "alt": "SwiftUI | How to make 3D carousel view",
+      "role": "thumbnail",
+      "bytes": 2324,
+      "sha256": "008aba5c3e9fe3c8d98e0b7b674e216ccc4e7ea6c25cfff29500c98f682fdad2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjMyNy9vcmlnaW5hbF9hOTg5OTkxMTZhOTQzZmMxYmQ2NWU3ZGE2MmMxMzAzMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a98999116a943fc1bd65e7da62c13030.png"
+    },
+    {
+      "path": "assets/preview-f8ab76ed76df5e06735a9223.webp",
+      "mimeType": "image/webp",
+      "alt": "SwiftUI | How to make 3D carousel view",
+      "role": "preview",
+      "bytes": 27252,
+      "sha256": "f8ab76ed76df5e06735a9223b47703a73658a58c43dcc48a1376cf75c9ed9493",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892327/original_a98999116a943fc1bd65e7da62c13030.png",
+      "originalName": "a98999116a943fc1bd65e7da62c13030.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 83583,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:33:01.000Z",
+  "updatedAt": "2026-05-06T14:33:23.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://enebin.medium.com/swiftui-how-to-make-3d-carousel-view-c81b1914cb25",
+    "title": "SwiftUI | How to make 3D carousel view",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892327,
+      "url": "https://www.are.na/block/45892327",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "SwiftUI | How to make 3D carousel view",
+      "createdAt": "2026-05-06T14:33:01Z",
+      "updatedAt": "2026-05-06T14:33:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "SwiftUI | How to make 3D carousel view",
+      "category": "Writing and ideas",
+      "tags": [
+        "3d-design",
+        "tools",
+        "research",
+        "inspiration",
+        "writing",
+        "reading",
+        "information-design",
+        "visual-research"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

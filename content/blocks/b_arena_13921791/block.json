@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_13921791",
+  "type": "image",
+  "title": "Leva Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "leva-identity",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-87be785e906956f3a87435c6.png",
+      "mimeType": "image/png",
+      "alt": "Leva Identity",
+      "role": "original",
+      "bytes": 2991601,
+      "sha256": "87be785e906956f3a87435c6f683fe83179470ce1e6ac033085c2e53fec68cbf",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/13921791/original_731b0ac8a1dbe5367fcf9a5a8fb5b24b.png",
+      "originalName": "731b0ac8a1dbe5367fcf9a5a8fb5b24b.png"
+    },
+    {
+      "path": "assets/thumbnail-b264666e3b3057d1006b6ddb.webp",
+      "mimeType": "image/webp",
+      "alt": "Leva Identity",
+      "role": "thumbnail",
+      "bytes": 10426,
+      "sha256": "b264666e3b3057d1006b6ddb40ed9e8129101f20c7c12f5bd63061ab4fe1c27b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMzkyMTc5MS9vcmlnaW5hbF83MzFiMGFjOGExZGJlNTM2N2ZjZjlhNWE4ZmI1YjI0Yi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "731b0ac8a1dbe5367fcf9a5a8fb5b24b.png"
+    },
+    {
+      "path": "assets/display-web-original-87be785e906956f3a87435c6-87be785e90.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Leva Identity",
+      "bytes": 147220,
+      "sha256": "aca59bcf98360be69451b2f833f625efd7025d1d96e5b4147f562f2960a893cd",
+      "width": 2000,
+      "height": 1126,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-87be785e906956f3a87435c6.png",
+        "sourceSha256": "87be785e906956f3a87435c6f683fe83179470ce1e6ac033085c2e53fec68cbf",
+        "originalBytes": 2991601,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2021-11-10T14:04:47.000Z",
+  "updatedAt": "2026-03-16T02:46:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.thatthing.com/work/leva",
+    "title": "Leva - That Thing",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 13921791,
+      "url": "https://www.are.na/block/13921791",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "guidelines-v02.png",
+      "createdAt": "2021-11-10T14:04:47Z",
+      "updatedAt": "2026-03-16T02:46:29Z",
+      "addedBy": {
+        "id": 265150,
+        "name": "Bill Whithers",
+        "slug": "bill-whithers"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "guidelines-v02.png",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Leva Identity",
+    "text": "Online for\na reason\nIntroducing\n360° Care\nOur clinic\nWhy Leva?\nLeVA\nPresentation to (Title/Name]\n4\nOngoing support\nподни во ві се ре\nofar.\nWhen I contactol Leva Clinic Pain Managerent services\nCreated by\nan expert team\nOur audience\n2\nOur servic\n3\nTh\njOl\nThis is\nTallored care plan\n6\nPeople we've\nhelped so far",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "aca59bcf98360be69451b2f833f625efd7025d1d96e5b4147f562f2960a893cd"
+  }
+}

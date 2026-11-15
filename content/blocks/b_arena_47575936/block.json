@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47575936",
+  "type": "link",
+  "title": "Graphics Library",
+  "description": "A library of featured website inspiration specializing in 3D and 2D interactive experiences. This site archives how WebGL experiences are being explored as a tool for web design and digital interaction.",
+  "category": "Interface design",
+  "tags": [
+    "webgl",
+    "interactive-design",
+    "inspiration"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1da55f676cfba1bd26cfe803.webp",
+      "mimeType": "image/webp",
+      "alt": "Graphics Library | Graphics Library",
+      "role": "thumbnail",
+      "bytes": 5818,
+      "sha256": "1da55f676cfba1bd26cfe803986fee92dbb131b009f4a8e4d48531561db41542",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3NTkzNi9vcmlnaW5hbF8wMGI4NTU2OTg5NjcyYmE2MDQ4NmFhNDg0ZTk2ODU4My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "00b8556989672ba60486aa484e968583.png"
+    },
+    {
+      "path": "assets/preview-8e4f94c45bcd9e82b857c903.webp",
+      "mimeType": "image/webp",
+      "alt": "Graphics Library | Graphics Library",
+      "role": "preview",
+      "bytes": 132584,
+      "sha256": "8e4f94c45bcd9e82b857c903c75976009d0dc756194ae5d6d56fa5f4f410b6b1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47575936/original_00b8556989672ba60486aa484e968583.png",
+      "originalName": "00b8556989672ba60486aa484e968583.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 526234,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T11:45:21.000Z",
+  "updatedAt": "2026-07-04T11:45:33.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://graphics-library.net/?page=3",
+    "title": "Graphics Library | Graphics Library",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47575936,
+      "url": "https://www.are.na/block/47575936",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Graphics Library | Graphics Library",
+      "createdAt": "2026-07-04T11:45:21Z",
+      "updatedAt": "2026-07-04T11:45:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Graphics Library | Graphics Library",
+      "category": "Books and publishing",
+      "tags": [
+        "graphic-design",
+        "books",
+        "web-design",
+        "interaction-design",
+        "3d-design",
+        "tools",
+        "archives",
+        "inspiration"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

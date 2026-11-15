@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889001",
+  "type": "video",
+  "title": "Rooftop Car",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "rooftop-car",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-86333148f545eb77fbe1c7f9.mp4",
+      "mimeType": "video/mp4",
+      "alt": "h.lls.h.lls-20260113_025210-2560749974.mp4",
+      "role": "original",
+      "bytes": 2220042,
+      "sha256": "86333148f545eb77fbe1c7f9f63edfcd6e113c65d3228cb1d1b5bb7889084da1",
+      "sourceUrl": "https://attachments.are.na/45889001/a7399f965ba7ac2e4276873891f4de0b.mp4",
+      "originalName": "a7399f965ba7ac2e4276873891f4de0b.mp4"
+    },
+    {
+      "path": "assets/thumbnail-253b7c3164c60eacd00e368e.webp",
+      "mimeType": "image/webp",
+      "alt": "Rooftop Car",
+      "role": "thumbnail",
+      "bytes": 7070,
+      "sha256": "253b7c3164c60eacd00e368ea823dbc0d97d0880e4f4b5c110b2b8b0b3d23e45",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTAwMS9vcmlnaW5hbF8xY2RiNzU2ZDY0NTE5NTY1MjAyNjA1MDYtMi13ZHdwNDUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1cdb756d6451956520260506-2-wdwp45.png"
+    },
+    {
+      "path": "assets/display-web-original-86333148f545eb77fbe1c7f9-86333148f5.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "h.lls.h.lls-20260113_025210-2560749974.mp4",
+      "bytes": 2143544,
+      "sha256": "3bebbb1cfa75987648c0fd3d44436544ae7e36fee40db2804a6ab9f0287f2294",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-86333148f545eb77fbe1c7f9.mp4",
+        "sourceSha256": "86333148f545eb77fbe1c7f9f63edfcd6e113c65d3228cb1d1b5bb7889084da1",
+        "originalBytes": 2220042,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-47513a27d8e36f495d137768.webp",
+      "mimeType": "image/webp",
+      "alt": "h.lls.h.lls-20260113_025210-2560749974.mp4",
+      "role": "preview",
+      "bytes": 80800,
+      "sha256": "47513a27d8e36f495d1377689c78bae329ba3650f05f96c85e68c3335c23df90",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889001/original_1cdb756d6451956520260506-2-wdwp45.png",
+      "originalName": "1cdb756d6451956520260506-2-wdwp45.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 831917,
+        "width": 1276,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:38:05.000Z",
+  "updatedAt": "2026-05-06T12:38:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889001",
+    "title": "h.lls.h.lls-20260113_025210-2560749974.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889001,
+      "url": "https://www.are.na/block/45889001",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "h.lls.h.lls-20260113_025210-2560749974.mp4",
+      "createdAt": "2026-05-06T12:38:05Z",
+      "updatedAt": "2026-05-06T12:38:07Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "h.lls.h.lls-20260113_025210-2560749974.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Rooftop Car",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "253b7c3164c60eacd00e368ea823dbc0d97d0880e4f4b5c110b2b8b0b3d23e45"
+  }
+}

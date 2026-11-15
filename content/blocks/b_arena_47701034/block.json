@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701034",
+  "type": "image",
+  "title": "Dimitrios Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "dimitrios-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5880a569cb7f76f03a392537.png",
+      "mimeType": "image/png",
+      "alt": "Dimitrios Jacket",
+      "role": "original",
+      "bytes": 2539255,
+      "sha256": "5880a569cb7f76f03a392537a47ba82b764fa7c81d54cf56491b8cd3b2d96713",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701034/original_ae978bfd40662169112749c8fb1e0d88.png",
+      "originalName": "ae978bfd40662169112749c8fb1e0d88.png"
+    },
+    {
+      "path": "assets/thumbnail-f12e57ce301f139a4a91bbe3.webp",
+      "mimeType": "image/webp",
+      "alt": "Dimitrios Jacket",
+      "role": "thumbnail",
+      "bytes": 15094,
+      "sha256": "f12e57ce301f139a4a91bbe3851396b6954ab31e3c87015807c26384e59c78b4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAzNC9vcmlnaW5hbF9hZTk3OGJmZDQwNjYyMTY5MTEyNzQ5YzhmYjFlMGQ4OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ae978bfd40662169112749c8fb1e0d88.png"
+    },
+    {
+      "path": "assets/display-web-original-5880a569cb7f76f03a392537-5880a569cb.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dimitrios Jacket",
+      "bytes": 142694,
+      "sha256": "4fb792938843b7791b0927800bd1bf17fae5c0a0cfc6aa32467be3f7e9a7fece",
+      "width": 1462,
+      "height": 1226,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5880a569cb7f76f03a392537.png",
+        "sourceSha256": "5880a569cb7f76f03a392537a47ba82b764fa7c81d54cf56491b8cd3b2d96713",
+        "originalBytes": 2539255,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:28.000Z",
+  "updatedAt": "2026-07-08T14:56:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701034",
+    "title": "Screenshot 2023-09-12 alle 17.03.47",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701034,
+      "url": "https://www.are.na/block/47701034",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.03.47",
+      "createdAt": "2026-07-08T14:56:28Z",
+      "updatedAt": "2026-07-08T14:56:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.03.47",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dimitrios Jacket",
+    "text": "In reviewing Mr. Ambler's third\nnovel in John o' London's Weekly,\nMR. ANTHONY BERKELEY wrote as\nfollows:\n\"The sophisticated thriller is a thing\nfor which we have been waiting a\nlong time, and it seems that in Mr.\nEric Ambler we have at last a novel-\nist who can supply this need. Mr.\nAmbler writes intelligently, he can\ndraw character, his book is a novel\nas well as a thriller. Here is a writer\nwith a big future, for Mr. Ambler\nis going to do for the straightfor-\nward thriller what Miss Dorothy\nL. Sayers has already done for the\ndetective story.'\nThe publishers do not wish to add\nanything to Mr. Berkeley's words,\nexcept to suggest that THE MASK\nOF DIMITRIOS is Mr. Ambler's most\nambitious novel to date.\nTHE\nMASK\nOF\nDIMITRIOS\nThe mask of\nDimitrios\nERIC\nAMBLER.\nHODDER &\nSTOUGHTON\nERIC AMBLER",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4fb792938843b7791b0927800bd1bf17fae5c0a0cfc6aa32467be3f7e9a7fece"
+  }
+}

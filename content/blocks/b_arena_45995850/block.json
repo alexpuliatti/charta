@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45995850",
+  "type": "image",
+  "title": "Circuit Traces",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "hardware",
+    "circuit-traces",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-98ea3afa46138b2a7af9936f.png",
+      "mimeType": "image/png",
+      "alt": "Circuit Traces",
+      "role": "original",
+      "bytes": 529534,
+      "sha256": "98ea3afa46138b2a7af9936f346ea6d285b0af675e6e7c3e3edea6bfe8b57716",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45995850/original_e9a94d1c5bf0cc396920ea1399f13156.png",
+      "originalName": "e9a94d1c5bf0cc396920ea1399f13156.png"
+    },
+    {
+      "path": "assets/thumbnail-65e7506168d44565202f9a9b.webp",
+      "mimeType": "image/webp",
+      "alt": "Circuit Traces",
+      "role": "thumbnail",
+      "bytes": 13978,
+      "sha256": "65e7506168d44565202f9a9b55f6a9d66d7b6174edf9f494813fe0323f1f2482",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk5NTg1MC9vcmlnaW5hbF9lOWE5NGQxYzViZjBjYzM5NjkyMGVhMTM5OWYxMzE1Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e9a94d1c5bf0cc396920ea1399f13156.png"
+    },
+    {
+      "path": "assets/display-web-original-98ea3afa46138b2a7af9936f-98ea3afa46.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circuit Traces",
+      "bytes": 43098,
+      "sha256": "f56f93e55b04084b694307e31565e1221840f717522eef52769373b8916703c6",
+      "width": 736,
+      "height": 736,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-98ea3afa46138b2a7af9936f.png",
+        "sourceSha256": "98ea3afa46138b2a7af9936f346ea6d285b0af675e6e7c3e3edea6bfe8b57716",
+        "originalBytes": 529534,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-10T19:38:29.000Z",
+  "updatedAt": "2026-06-19T16:09:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45995850",
+    "title": "original_b5e94a4a998efb6308b13d392fbda034",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45995850,
+      "url": "https://www.are.na/block/45995850",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_b5e94a4a998efb6308b13d392fbda034",
+      "createdAt": "2026-05-10T19:38:29Z",
+      "updatedAt": "2026-06-19T16:09:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Hardware",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_b5e94a4a998efb6308b13d392fbda034",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circuit Traces",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f56f93e55b04084b694307e31565e1221840f717522eef52769373b8916703c6"
+  }
+}

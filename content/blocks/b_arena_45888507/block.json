@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888507",
+  "type": "image",
+  "title": "Special Offer",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "special-offer",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f141df5d1c48e74b7578e04d.png",
+      "mimeType": "image/png",
+      "alt": "Special Offer",
+      "role": "original",
+      "bytes": 313318,
+      "sha256": "f141df5d1c48e74b7578e04db04a0e8bfaf980591c84ff5a397a9f19aa467505",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888507/original_0e433c0a72accf6297c7471124f6e9a8.png",
+      "originalName": "0e433c0a72accf6297c7471124f6e9a8.png"
+    },
+    {
+      "path": "assets/thumbnail-669e6c00e9087118316b0cf3.webp",
+      "mimeType": "image/webp",
+      "alt": "Special Offer",
+      "role": "thumbnail",
+      "bytes": 5902,
+      "sha256": "669e6c00e9087118316b0cf3661450d287ed5c1e4ba49b6db625af205147b04f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUwNy9vcmlnaW5hbF8wZTQzM2MwYTcyYWNjZjYyOTdjNzQ3MTEyNGY2ZTlhOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0e433c0a72accf6297c7471124f6e9a8.png"
+    },
+    {
+      "path": "assets/display-web-original-f141df5d1c48e74b7578e04d-f141df5d1c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Special Offer",
+      "bytes": 47566,
+      "sha256": "acae877d919b4603cb744721b25619c7ac9849babc7dca669568e93b8376e378",
+      "width": 2000,
+      "height": 1468,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f141df5d1c48e74b7578e04d.png",
+        "sourceSha256": "f141df5d1c48e74b7578e04db04a0e8bfaf980591c84ff5a397a9f19aa467505",
+        "originalBytes": 313318,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:19.000Z",
+  "updatedAt": "2026-05-06T12:20:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888507",
+    "title": "screenshot-2026-04-17-alle-14.52.48.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888507,
+      "url": "https://www.are.na/block/45888507",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-17-alle-14.52.48.png",
+      "createdAt": "2026-05-06T12:20:19Z",
+      "updatedAt": "2026-05-06T12:20:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-17-alle-14.52.48.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Special Offer",
+    "text": "INFORMATION\nSPECIAL OFFER, INC. IS A CREATIVE TECH\nCOMPANY FOCUSED ON THE GROWTH OF\nSUBCULTURE THROUGH DIGITAL EXPERIENCE.\nFOUNDED 2014 BY BRENT DAVID FREANEY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "acae877d919b4603cb744721b25619c7ac9849babc7dca669568e93b8376e378"
+  }
+}

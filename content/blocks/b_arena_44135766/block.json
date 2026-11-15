@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44135766",
+  "type": "link",
+  "title": "SILK Identity",
+  "description": "What could easily be mistaken for a thin silk thread randomly stuck to your device's screen turns out to be a notch that opens up a whole new world hidden behind the surface. The Design Foundation for SILK and SILK ROAD brands.",
+  "category": "Graphic design",
+  "tags": [
+    "visual-identity",
+    "brand-design",
+    "silk"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-accee742860f5a4e5173adb5.webp",
+      "mimeType": "image/webp",
+      "alt": "SILK - Brand Identity",
+      "role": "thumbnail",
+      "bytes": 1438,
+      "sha256": "accee742860f5a4e5173adb54250eb05f55d940b5fde7354ccd58b3c06bd3f41",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNTc2Ni9vcmlnaW5hbF83ZjI1YzYzNjg5MmRkMGM0NjNiM2UwZDYzM2VhN2IzOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7f25c636892dd0c463b3e0d633ea7b38.png"
+    },
+    {
+      "path": "assets/preview-181d4e635e04e2f518c6522c.webp",
+      "mimeType": "image/webp",
+      "alt": "SILK - Brand Identity",
+      "role": "preview",
+      "bytes": 49614,
+      "sha256": "181d4e635e04e2f518c6522ce95f31282c4b786edc788272d16e8db2888da052",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44135766/original_7f25c636892dd0c463b3e0d633ea7b38.png",
+      "originalName": "7f25c636892dd0c463b3e0d633ea7b38.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 237731,
+        "width": 1400,
+        "height": 788,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:02:16.000Z",
+  "updatedAt": "2026-03-04T15:02:24.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.behance.net/gallery/217754101/SILK-Brand-Identity",
+    "title": "SILK - Brand Identity",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44135766,
+      "url": "https://www.are.na/block/44135766",
+      "type": "Embed",
+      "visibility": "public",
+      "originalTitle": "SILK - Brand Identity",
+      "createdAt": "2026-03-04T15:02:16Z",
+      "updatedAt": "2026-03-04T15:02:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "SILK - Brand Identity",
+      "category": "Graphic design",
+      "tags": [
+        "visual-identity",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942216",
+  "type": "image",
+  "title": "Technical Diagrams",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "technical-diagrams",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d3a0d4df312ada1cd988d706.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Technical Diagrams",
+      "role": "original",
+      "bytes": 422802,
+      "sha256": "d3a0d4df312ada1cd988d706fa3bb552a3335776acdee419f159d4f6d6347f8a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942216/original_773ed5c9e490970e3cda4b79e7b5e4ab.jpeg",
+      "originalName": "773ed5c9e490970e3cda4b79e7b5e4ab.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-85c47997c8b9794bded2fab0.webp",
+      "mimeType": "image/webp",
+      "alt": "Technical Diagrams",
+      "role": "thumbnail",
+      "bytes": 3436,
+      "sha256": "85c47997c8b9794bded2fab0d195586de9bbbf502b713e6d23833da5562b9ee8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIxNi9vcmlnaW5hbF83NzNlZDVjOWU0OTA5NzBlM2NkYTRiNzllN2I1ZTRhYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "773ed5c9e490970e3cda4b79e7b5e4ab.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-d3a0d4df312ada1cd988d706-d3a0d4df31.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Technical Diagrams",
+      "bytes": 79372,
+      "sha256": "dac07a187a8839fa4558532efea2c48f887187e1663c973c7baea3b8be179de6",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d3a0d4df312ada1cd988d706.jpg",
+        "sourceSha256": "d3a0d4df312ada1cd988d706fa3bb552a3335776acdee419f159d4f6d6347f8a",
+        "originalBytes": 422802,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:32.000Z",
+  "updatedAt": "2026-05-08T09:25:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942216",
+    "title": "hhngselbwaayxh4.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942216,
+      "url": "https://www.are.na/block/45942216",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhngselbwaayxh4.jpeg",
+      "createdAt": "2026-05-08T09:25:32Z",
+      "updatedAt": "2026-05-08T09:25:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhngselbwaayxh4.jpeg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Technical Diagrams",
+    "text": "ATOMIC TESSELLATOR\nDISCOUERIES\nARE\nAMONGST\nUS\nATOMIC\nENGINEERING\nATOMIC TESSELLATOR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "dac07a187a8839fa4558532efea2c48f887187e1663c973c7baea3b8be179de6"
+  }
+}

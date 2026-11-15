@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888524",
+  "type": "image",
+  "title": "Radial Publication",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "radial-publication",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2737b2dc402c896d3ff0772b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Radial Publication",
+      "role": "original",
+      "bytes": 84851,
+      "sha256": "2737b2dc402c896d3ff0772be2c7cbe1a2d45c698a45da25c7068555a9c13445",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888524/original_0430297593f0e8f327c5fbcc15db46eb.jpeg",
+      "originalName": "0430297593f0e8f327c5fbcc15db46eb.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-ea2ff7eb2da1030cf7ae0daf.webp",
+      "mimeType": "image/webp",
+      "alt": "Radial Publication",
+      "role": "thumbnail",
+      "bytes": 6950,
+      "sha256": "ea2ff7eb2da1030cf7ae0dafd33914c76319fec200ce73c334f92caf04cf1485",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyNC9vcmlnaW5hbF8wNDMwMjk3NTkzZjBlOGYzMjdjNWZiY2MxNWRiNDZlYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0430297593f0e8f327c5fbcc15db46eb.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-2737b2dc402c896d3ff0772b-2737b2dc40.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Radial Publication",
+      "bytes": 50438,
+      "sha256": "9df329d15c15cadb552c6940b5e854fa4af0616505c5f2efa213275f0b98c1e5",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2737b2dc402c896d3ff0772b.jpg",
+        "sourceSha256": "2737b2dc402c896d3ff0772be2c7cbe1a2d45c698a45da25c7068555a9c13445",
+        "originalBytes": 84851,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:04.000Z",
+  "updatedAt": "2026-05-06T12:21:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888524",
+    "title": "477cae38f8b7df8435d79894fc3d66fd.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888524,
+      "url": "https://www.are.na/block/45888524",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "477cae38f8b7df8435d79894fc3d66fd.jpg",
+      "createdAt": "2026-05-06T12:21:04Z",
+      "updatedAt": "2026-05-06T12:21:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "477cae38f8b7df8435d79894fc3d66fd.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Radial Publication",
+    "text": "They stumbled upon an epiphany, very suddenly\nand quite by accident. Here we stand, feet plant-\nd in the earth. but might the cosmos be ver\near us, only just above our heads?-BLOODBORNE, 201\nNEW GENRES\nWhen we look into the sky, what\ncan we see? Is it the different\ncolours of atmospheric scattering?' Or\nthe ingredients of the sky? Does the sky\nlook different when we are in a different\nposition?* How exactly do we define the sky?*\nCA\nP2 P5\nP6\nP7\nP8 P11\n* P12_P15\nRUS\nWe look to the sky,\nand expect a response from its depths.\nVARIS\nHAIRUN LI\nRCA\nMA VISUAL COMMUNICATION\n7:41 a.m.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9df329d15c15cadb552c6940b5e854fa4af0616505c5f2efa213275f0b98c1e5"
+  }
+}

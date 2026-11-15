@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787869",
+  "type": "image",
+  "title": "Stone Entrance",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "stone-entrance",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1246e88aea275d5a2a0c438f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Stone Entrance",
+      "role": "original",
+      "bytes": 1120320,
+      "sha256": "1246e88aea275d5a2a0c438f56457b2eb56102f3a5b23c3795db814943e51f25",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787869/original_848486a99afcf6eeacd462bff1de37de.jpg",
+      "originalName": "848486a99afcf6eeacd462bff1de37de.jpg"
+    },
+    {
+      "path": "assets/thumbnail-604c3f2f67bb30bbe46b1813.webp",
+      "mimeType": "image/webp",
+      "alt": "Stone Entrance",
+      "role": "thumbnail",
+      "bytes": 27946,
+      "sha256": "604c3f2f67bb30bbe46b1813bd09d46b8d8b4aca4bb02f71d208cea587816c60",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg2OS9vcmlnaW5hbF84NDg0ODZhOTlhZmNmNmVlYWNkNDYyYmZmMWRlMzdkZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "848486a99afcf6eeacd462bff1de37de.jpg"
+    },
+    {
+      "path": "assets/display-web-original-1246e88aea275d5a2a0c438f-1246e88aea.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Stone Entrance",
+      "bytes": 701780,
+      "sha256": "a4cff46d979931804da0c0abf03c79a5dba77cd834c278e3f2766225055966a0",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1246e88aea275d5a2a0c438f.jpg",
+        "sourceSha256": "1246e88aea275d5a2a0c438f56457b2eb56102f3a5b23c3795db814943e51f25",
+        "originalBytes": 1120320,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:02:29.000Z",
+  "updatedAt": "2025-11-02T16:02:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787869",
+    "title": "topclosings-20250407_014837-2780442906.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787869,
+      "url": "https://www.are.na/block/40787869",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "topclosings-20250407_014837-2780442906.jpg",
+      "createdAt": "2025-11-02T16:02:29Z",
+      "updatedAt": "2025-11-02T16:02:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "topclosings-20250407_014837-2780442906.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Stone Entrance",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a4cff46d979931804da0c0abf03c79a5dba77cd834c278e3f2766225055966a0"
+  }
+}

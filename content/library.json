@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "title": "Charta",
+  "description": "Your Are.na library, organized and connected.",
+  "sampleContent": false,
+  "importedFrom": {
+    "service": "are.na",
+    "userId": 161174,
+    "username": "a-p-8ilc0lfnvlk",
+    "importedAt": "2026-11-15T11:34:12.640Z"
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "completedAt": "2026-11-15T13:17:57.516Z",
+    "materials": 1016,
+    "reportPath": "content/imports/curation/report.json",
+    "retiredCollectionsPath": "content/imports/curation/retired-collections.json"
+  },
+  "canvases": [
+    {
+      "id": "canvas_b3e9e148d9d94d0db519e54eb703ea93",
+      "title": "test1",
+      "nodes": [],
+      "edges": [],
+      "viewport": {
+        "x": 251.1366580066824,
+        "y": 173.7864727070234,
+        "zoom": 0.7021666986314111
+      },
+      "revision": 18,
+      "createdAt": "2026-11-15T16:49:56.078Z",
+      "updatedAt": "2026-11-15T16:55:29.844Z"
+    },
+    {
+      "id": "canvas_83b72bfce19e459b9f5e40710437795c",
+      "title": "test1",
+      "revision": 1,
+      "nodes": [],
+      "edges": [],
+      "viewport": {
+        "x": 100,
+        "y": 80,
+        "zoom": 1
+      },
+      "createdAt": "2026-11-15T16:50:03.079Z",
+      "updatedAt": "2026-11-15T16:50:03.079Z"
+    }
+  ]
+}

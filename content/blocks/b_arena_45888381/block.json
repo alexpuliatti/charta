@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888381",
+  "type": "image",
+  "title": "Production Portfolio",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "production-portfolio",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-089aefd162cdad301d34b6a2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Production Portfolio",
+      "role": "original",
+      "bytes": 148307,
+      "sha256": "089aefd162cdad301d34b6a2ac8250e8873048877139ebd5de412fd8eb40fc97",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888381/original_587b63ede82d5d9e686a76b9ff83d05f.jpeg",
+      "originalName": "587b63ede82d5d9e686a76b9ff83d05f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-7f8a33790803ad9869dbcc39.webp",
+      "mimeType": "image/webp",
+      "alt": "Production Portfolio",
+      "role": "thumbnail",
+      "bytes": 2968,
+      "sha256": "7f8a33790803ad9869dbcc39d798883fea0286ec53b969ba80ef79ba3085895e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM4MS9vcmlnaW5hbF81ODdiNjNlZGU4MmQ1ZDllNjg2YTc2YjlmZjgzZDA1Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "587b63ede82d5d9e686a76b9ff83d05f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-089aefd162cdad301d34b6a2-089aefd162.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Production Portfolio",
+      "bytes": 70768,
+      "sha256": "0a44ffa774a5b3c3fa63a65bffe7af934b55628fa99de35066706f6533655e6e",
+      "width": 1920,
+      "height": 1280,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-089aefd162cdad301d34b6a2.jpg",
+        "sourceSha256": "089aefd162cdad301d34b6a2ac8250e8873048877139ebd5de412fd8eb40fc97",
+        "originalBytes": 148307,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:15:13.000Z",
+  "updatedAt": "2026-05-06T12:15:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888381",
+    "title": "hexxe3-aiaaszze.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888381,
+      "url": "https://www.are.na/block/45888381",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hexxe3-aiaaszze.jpeg",
+      "createdAt": "2026-05-06T12:15:13Z",
+      "updatedAt": "2026-05-06T12:15:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hexxe3-aiaaszze.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Production Portfolio",
+    "text": "01. INTRODUCTION\n02. INDUSTRY BOTTLENECKS\n03. HOW WE FIX IT\n04. TRACK RECORD\nPartner with us\nProduction for\nthe in-house era\nSCROLL TO EXPLORE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0a44ffa774a5b3c3fa63a65bffe7af934b55628fa99de35066706f6533655e6e"
+  }
+}

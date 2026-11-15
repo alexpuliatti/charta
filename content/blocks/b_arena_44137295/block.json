@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137295",
+  "type": "image",
+  "title": "Quarry Theatre",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "quarry-theatre",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0a75d4876a4f4fef6279b877.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quarry Theatre",
+      "role": "original",
+      "bytes": 213939,
+      "sha256": "0a75d4876a4f4fef6279b877e8849ff4bbd5d4e08340c72f4fdbe14aca751f31",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137295/original_1d967ba8eb9c40a35532fddfadcd3223.jpg",
+      "originalName": "1d967ba8eb9c40a35532fddfadcd3223.jpg"
+    },
+    {
+      "path": "assets/thumbnail-a78610b01e8a64b1184fbefe.webp",
+      "mimeType": "image/webp",
+      "alt": "Quarry Theatre",
+      "role": "thumbnail",
+      "bytes": 17558,
+      "sha256": "a78610b01e8a64b1184fbefee7675ce49f9b5b69f79ceabe2cb638c8e9f56243",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI5NS9vcmlnaW5hbF8xZDk2N2JhOGViOWM0MGEzNTUzMmZkZGZhZGNkMzIyMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1d967ba8eb9c40a35532fddfadcd3223.jpg"
+    },
+    {
+      "path": "assets/display-web-original-0a75d4876a4f4fef6279b877-0a75d4876a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quarry Theatre",
+      "bytes": 168212,
+      "sha256": "a38b1e1f40183dd0eea4a1d9b98e85b9867db6b9d0612c48b72165bb1c6f7c4a",
+      "width": 1179,
+      "height": 1465,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0a75d4876a4f4fef6279b877.jpg",
+        "sourceSha256": "0a75d4876a4f4fef6279b877e8849ff4bbd5d4e08340c72f4fdbe14aca751f31",
+        "originalBytes": 213939,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:16.000Z",
+  "updatedAt": "2026-03-04T15:46:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137295",
+    "title": "_numeroventi_-20251019_180834-2061877235.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137295,
+      "url": "https://www.are.na/block/44137295",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_numeroventi_-20251019_180834-2061877235.jpg",
+      "createdAt": "2026-03-04T15:46:16Z",
+      "updatedAt": "2026-03-04T15:46:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_numeroventi_-20251019_180834-2061877235.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quarry Theatre",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a38b1e1f40183dd0eea4a1d9b98e85b9867db6b9d0612c48b72165bb1c6f7c4a"
+  }
+}

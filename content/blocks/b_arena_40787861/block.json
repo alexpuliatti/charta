@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787861",
+  "type": "image",
+  "title": "Sailing Deck",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "sailing-deck",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7bdc787aa45c529f6878b656.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sailing Deck",
+      "role": "original",
+      "bytes": 602594,
+      "sha256": "7bdc787aa45c529f6878b656b2e859c62b664216aba827d92330213aeb969297",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787861/original_6131dad2531a38eb4f52e8270001e513.jpg",
+      "originalName": "6131dad2531a38eb4f52e8270001e513.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0bcf9dfc585b56e461166bd2.webp",
+      "mimeType": "image/webp",
+      "alt": "Sailing Deck",
+      "role": "thumbnail",
+      "bytes": 8280,
+      "sha256": "0bcf9dfc585b56e461166bd29d44f27e521614745c993d70aaadba590a4fe79b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg2MS9vcmlnaW5hbF82MTMxZGFkMjUzMWEzOGViNGY1MmU4MjcwMDAxZTUxMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6131dad2531a38eb4f52e8270001e513.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7bdc787aa45c529f6878b656-7bdc787aa4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sailing Deck",
+      "bytes": 185438,
+      "sha256": "c03873821dc39ab5ba157b4f66e7b25a0d4c096406d20a67a91497daa0410b02",
+      "width": 1600,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7bdc787aa45c529f6878b656.jpg",
+        "sourceSha256": "7bdc787aa45c529f6878b656b2e859c62b664216aba827d92330213aeb969297",
+        "originalBytes": 602594,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:39.000Z",
+  "updatedAt": "2025-11-02T16:01:41.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787861",
+    "title": "wallyyachts_official-20250117_180016-2151235253.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787861,
+      "url": "https://www.are.na/block/40787861",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "wallyyachts_official-20250117_180016-2151235253.jpg",
+      "createdAt": "2025-11-02T16:01:39Z",
+      "updatedAt": "2025-11-02T16:01:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "wallyyachts_official-20250117_180016-2151235253.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sailing Deck",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c03873821dc39ab5ba157b4f66e7b25a0d4c096406d20a67a91497daa0410b02"
+  }
+}

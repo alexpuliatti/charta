@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227371",
+  "type": "image",
+  "title": "Tube Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "tube-website",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-028348067cf664d0947c3710.png",
+      "mimeType": "image/png",
+      "alt": "Tube Website",
+      "role": "original",
+      "bytes": 481398,
+      "sha256": "028348067cf664d0947c3710eacf9415e6b40429527c88c9c15bac1bd0b95e64",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227371/original_0497f1ae53363360d56ef85e9700330a.png",
+      "originalName": "0497f1ae53363360d56ef85e9700330a.png"
+    },
+    {
+      "path": "assets/thumbnail-764877ea9d808c2b50e62817.webp",
+      "mimeType": "image/webp",
+      "alt": "Tube Website",
+      "role": "thumbnail",
+      "bytes": 4792,
+      "sha256": "764877ea9d808c2b50e62817aa387728cf70cae213c089e242bd4a866daf9f92",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM3MS9vcmlnaW5hbF8wNDk3ZjFhZTUzMzYzMzYwZDU2ZWY4NWU5NzAwMzMwYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0497f1ae53363360d56ef85e9700330a.png"
+    },
+    {
+      "path": "assets/display-web-original-028348067cf664d0947c3710-028348067c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tube Website",
+      "bytes": 54318,
+      "sha256": "e751c02116b1e73eeaf4c49ebaff896ee170142572f53390b31969f6a36a3f56",
+      "width": 1748,
+      "height": 1300,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-028348067cf664d0947c3710.png",
+        "sourceSha256": "028348067cf664d0947c3710eacf9415e6b40429527c88c9c15bac1bd0b95e64",
+        "originalBytes": 481398,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-03-07T22:47:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227371",
+    "title": "screenshot-2026-03-07-alle-23.40.27.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227371,
+      "url": "https://www.are.na/block/44227371",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.40.27.png",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-03-07T22:47:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.40.27.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tube Website",
+    "text": "tube\nvortex shape\nshow parameters overlay\nphoto resolution\nanimation stiffness\nTUBE PARAMETERS\nRadius\nRows\nColumns\nHeight\nSUPERSQUAD PARAMETERS\nXY Exponent\n2 Exponent\n0.0\n1.0\n1000.0\n0.03\n4.5\n12.0\n8.0\n18.06\n0.84\n0.69\nSCROLL TO ROTATE // CLICK TO EXPAND\nMULTI- MODAL PORTFOLIO_V1.0",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e751c02116b1e73eeaf4c49ebaff896ee170142572f53390b31969f6a36a3f56"
+  }
+}

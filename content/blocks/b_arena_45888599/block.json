@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888599",
+  "type": "image",
+  "title": "Equalizer Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "equalizer-controls",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e96e1368b8a7a9d28aab2616.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Equalizer Controls",
+      "role": "original",
+      "bytes": 46526,
+      "sha256": "e96e1368b8a7a9d28aab2616efb777bdeb08b3818a98edef531da140e04a2d10",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888599/original_0bf255747edf5c13feca1352b98ff8f9.jpeg",
+      "originalName": "0bf255747edf5c13feca1352b98ff8f9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f169d5f05d77b937c367b81e.webp",
+      "mimeType": "image/webp",
+      "alt": "Equalizer Controls",
+      "role": "thumbnail",
+      "bytes": 3972,
+      "sha256": "f169d5f05d77b937c367b81e807c56f35affcd37c8a62acd1c0510ea01a8a0d7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU5OS9vcmlnaW5hbF8wYmYyNTU3NDdlZGY1YzEzZmVjYTEzNTJiOThmZjhmOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0bf255747edf5c13feca1352b98ff8f9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-e96e1368b8a7a9d28aab2616-e96e1368b8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Equalizer Controls",
+      "bytes": 15196,
+      "sha256": "012de99e2b3776af1ea826001856d07488bec441ea4b268379a102d349e96784",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e96e1368b8a7a9d28aab2616.jpg",
+        "sourceSha256": "e96e1368b8a7a9d28aab2616efb777bdeb08b3818a98edef531da140e04a2d10",
+        "originalBytes": 46526,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:23.000Z",
+  "updatedAt": "2026-05-06T12:23:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888599",
+    "title": "b4b4a36ab3b83bcdb67b2a36ba5a6500.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888599,
+      "url": "https://www.are.na/block/45888599",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b4b4a36ab3b83bcdb67b2a36ba5a6500.jpg",
+      "createdAt": "2026-05-06T12:23:23Z",
+      "updatedAt": "2026-05-06T12:23:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b4b4a36ab3b83bcdb67b2a36ba5a6500.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Equalizer Controls",
+    "text": "Profiles\nCUSTOM 1 V\n20\n50\n100\n500\n1K\n5 K\n10K 20k",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "012de99e2b3776af1ea826001856d07488bec441ea4b268379a102d349e96784"
+  }
+}

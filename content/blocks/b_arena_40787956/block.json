@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787956",
+  "type": "image",
+  "title": "Crowded Studio",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "crowded-studio",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3277eb7825a4f954332b6c3e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Crowded Studio",
+      "role": "original",
+      "bytes": 337227,
+      "sha256": "3277eb7825a4f954332b6c3e287c16354dc8cbb60d4b0cfd6ad590cd4f5ab262",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787956/original_421085ce1be35102584261cfc17e06f1.jpg",
+      "originalName": "421085ce1be35102584261cfc17e06f1.jpg"
+    },
+    {
+      "path": "assets/thumbnail-49156d0ffb9ed103b45e6ef5.webp",
+      "mimeType": "image/webp",
+      "alt": "Crowded Studio",
+      "role": "thumbnail",
+      "bytes": 20828,
+      "sha256": "49156d0ffb9ed103b45e6ef533669d1e27f13b9ce31f2e07370168c4b57669a0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk1Ni9vcmlnaW5hbF80MjEwODVjZTFiZTM1MTAyNTg0MjYxY2ZjMTdlMDZmMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "421085ce1be35102584261cfc17e06f1.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:07:13.000Z",
+  "updatedAt": "2025-11-02T16:07:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787956",
+    "title": "gkjwestxsae6xaf.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787956,
+      "url": "https://www.are.na/block/40787956",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gkjwestxsae6xaf.jpeg",
+      "createdAt": "2025-11-02T16:07:13Z",
+      "updatedAt": "2025-11-02T16:07:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gkjwestxsae6xaf.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Crowded Studio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3277eb7825a4f954332b6c3e287c16354dc8cbb60d4b0cfd6ad590cd4f5ab262"
+  }
+}

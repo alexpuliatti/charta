@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787105",
+  "type": "image",
+  "title": "Blue Monitors",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "blue-monitors",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9c793032d22fdfb4ac4caf4c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Monitors",
+      "role": "original",
+      "bytes": 108916,
+      "sha256": "9c793032d22fdfb4ac4caf4c44c07e0867266fb5377d8cab67c434e8d99d3951",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787105/original_15b721065553eef91b1f6695a8e38384.jpg",
+      "originalName": "15b721065553eef91b1f6695a8e38384.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8000923264b371db672f4d2f.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Monitors",
+      "role": "thumbnail",
+      "bytes": 7310,
+      "sha256": "8000923264b371db672f4d2f0313e80a1cb7fbac5d4cc3788bcaf02cf254d636",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwNS9vcmlnaW5hbF8xNWI3MjEwNjU1NTNlZWY5MWIxZjY2OTVhOGUzODM4NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "15b721065553eef91b1f6695a8e38384.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9c793032d22fdfb4ac4caf4c-9c793032d2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Monitors",
+      "bytes": 81114,
+      "sha256": "0d4443062e3955a321a575926c8d98ea443e6f4ee071e084ca0ce61f878e6aff",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9c793032d22fdfb4ac4caf4c.jpg",
+        "sourceSha256": "9c793032d22fdfb4ac4caf4c44c07e0867266fb5377d8cab67c434e8d99d3951",
+        "originalBytes": 108916,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:52.000Z",
+  "updatedAt": "2025-11-02T15:26:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787105",
+    "title": "pure_audio_project-20231205_171329-2279780934.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787105,
+      "url": "https://www.are.na/block/40787105",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "pure_audio_project-20231205_171329-2279780934.jpg",
+      "createdAt": "2025-11-02T15:26:52Z",
+      "updatedAt": "2025-11-02T15:26:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pure_audio_project-20231205_171329-2279780934.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Monitors",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0d4443062e3955a321a575926c8d98ea443e6f4ee071e084ca0ce61f878e6aff"
+  }
+}

@@ -1,0 +1,55 @@
+.folder-browser { max-width: 1100px; padding-bottom: 48px; }
+.folder-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 12px; }
+.directory-item { position: relative; min-width: 0; border: 1px solid #ffffff0c; border-radius: 12px; background: #ffffff02; transition: background-color 150ms ease, border-color 150ms ease; }
+.directory-open { display: flex; align-items: center; gap: 16px; width: 100%; min-height: 106px; padding: 23px 45px 23px 22px; color: var(--ink); text-decoration: none; border-radius: inherit; }
+.directory-glyph { display: grid; place-items: center; flex: none; width: 42px; height: 42px; color: #bababa; }
+.directory-glyph svg { width: 36px; height: 36px; fill: #bababa0b; stroke-width: 1.1; }
+.directory-copy { display: grid; min-width: 0; }
+.directory-title { overflow-wrap: anywhere; font: 450 14px/1.4 var(--sans); letter-spacing: -.15px; }
+.directory-item .directory-menu { position: absolute; top: 12px; right: 10px; width: 28px; height: 28px; color: var(--soft); }
+.directory-item .directory-menu svg { width: 16px; height: 16px; }
+.directory-open:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.folder-section-heading { margin: 0 0 14px; color: var(--muted); font: 450 11px/1.4 var(--sans); }
+.folder-browser > section + section { margin-top: 32px; }
+.folder-links { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 0 24px; }
+.folder-link { position: relative; display: flex; align-items: center; gap: 11px; min-width: 0; border-bottom: 1px solid #ffffff09; }
+.folder-link > a { display: flex; align-items: center; gap: 11px; flex: 1; min-width: 0; min-height: 54px; padding: 12px 0; color: var(--muted); font: 12px/1.5 var(--sans); text-decoration: none; }
+.folder-link > a > span { overflow-wrap: anywhere; }
+.folder-link > a > svg { flex: none; width: 14px; height: 14px; color: var(--soft); }
+.folder-link > a > svg:last-child { margin-left: auto; width: 12px; }
+.folder-link .directory-menu { flex: none; width: 28px; height: 28px; color: var(--soft); }
+.folder-link .directory-menu svg { width: 15px; height: 15px; }
+.folder-empty { display: grid; justify-items: center; padding: 70px 20px; text-align: center; }
+.folder-empty > svg { width: 36px; height: 36px; color: var(--soft); stroke-width: 1; margin-bottom: 18px; }
+.folder-empty h2 { margin: 0; color: var(--muted); font: 450 16px/1.5 var(--sans); }
+.folder-empty p { margin: 8px 0 20px; color: var(--soft); font: 12px/1.6 var(--sans); }
+.folder-empty-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+.folder-options .view-options-panel { width: 230px; }
+.view-options-panel .folder-empty-toggle { display: flex; flex-direction: row; align-items: center; gap: 10px; padding: 4px 0; color: var(--ink); font-size: 12px; cursor: pointer; }
+.folder-empty-toggle input { width: 15px; height: 15px; accent-color: var(--accent); }
+.folder-create { display: inline-flex; align-items: center; gap: 7px; padding: 8px 11px; border: 1px solid #ffffff13; border-radius: 8px; background: #ffffff03; color: var(--muted); font: 11px var(--sans); cursor: pointer; white-space: nowrap; }
+.folder-create svg { width: 14px; height: 14px; }
+.breadcrumb a, .breadcrumb strong { white-space: nowrap; }
+body[data-view=folder] .breadcrumb, body[data-view=collection] .breadcrumb { min-width: 0; overflow-x: auto; scrollbar-width: none; }
+.folder-toggle.active { color: var(--ink); }
+.folder-group { position: relative; display: grid; grid-template-columns: 32px minmax(0, 1fr); align-items: start; margin-top: 9px; }
+.folder-group > .folder-toggle { margin: 0; padding: 8px 10px; min-height: 35px; justify-content: center; }
+.folder-group > .folder-children { grid-column: 1 / -1; }
+.folder-browse { display: flex; align-items: center; min-height: 35px; padding: 8px 10px 8px 0; color: var(--muted); font: 450 12px/20px var(--sans); border-radius: 6px; text-decoration: none; overflow-wrap: anywhere; }
+.folder-group:has(> .folder-toggle.active) > .folder-browse { color: var(--ink); }
+.directory-menu, .folder-browse, .folder-create { transition: opacity 140ms ease, background-color 140ms ease, color 140ms ease; }
+@media (hover: hover) and (pointer: fine) {
+  .directory-item:hover { background: #ffffff05; border-color: #ffffff18; }
+  .directory-item .directory-menu { opacity: 0; }
+  .directory-item:hover .directory-menu, .directory-item:focus-within .directory-menu { opacity: 1; }
+  .folder-link > a:hover { color: var(--ink); }
+  .folder-create:hover { background: #ffffff08; color: var(--ink); }
+  .folder-browse:hover { color: var(--ink); text-decoration: none; }
+}
+@media (max-width: 600px) {
+  .folder-grid { grid-template-columns: 1fr; gap: 8px; }
+  .directory-open { min-height: 88px; padding: 17px 44px 17px 16px; gap: 12px; }
+  .directory-glyph svg { width: 31px; height: 31px; }
+  .folder-create { padding: 8px; }
+  .folder-links { grid-template-columns: 1fr; }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700900",
+  "type": "image",
+  "title": "Blue Fashion",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "blue-fashion",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0a9053c0930ff2ad1c61579c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Fashion",
+      "role": "original",
+      "bytes": 36679,
+      "sha256": "0a9053c0930ff2ad1c61579cc50432a1b7d9067971b745901086705112facd19",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700900/original_11e4a6601e541554db22318ce8ec43c7.jpeg",
+      "originalName": "11e4a6601e541554db22318ce8ec43c7.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-5c23163d1027eae2c013a3eb.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Fashion",
+      "role": "thumbnail",
+      "bytes": 12174,
+      "sha256": "5c23163d1027eae2c013a3eb1aa0988eee764a5cc91ec9e92a51f613e1aecbb9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDkwMC9vcmlnaW5hbF8xMWU0YTY2MDFlNTQxNTU0ZGIyMjMxOGNlOGVjNDNjNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "11e4a6601e541554db22318ce8ec43c7.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0a9053c0930ff2ad1c61579c-0a9053c093.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Fashion",
+      "bytes": 31110,
+      "sha256": "c446891b607f1174fe56df1e3fe76a31bed35acc5253366036e7ce225c2ad0e1",
+      "width": 564,
+      "height": 379,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0a9053c0930ff2ad1c61579c.jpg",
+        "sourceSha256": "0a9053c0930ff2ad1c61579cc50432a1b7d9067971b745901086705112facd19",
+        "originalBytes": 36679,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:34.000Z",
+  "updatedAt": "2026-07-08T14:54:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700900",
+    "title": "e9c5ce476d619faba2d2034da60ec668",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700900,
+      "url": "https://www.are.na/block/47700900",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "e9c5ce476d619faba2d2034da60ec668",
+      "createdAt": "2026-07-08T14:54:34Z",
+      "updatedAt": "2026-07-08T14:54:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "e9c5ce476d619faba2d2034da60ec668",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Fashion",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c446891b607f1174fe56df1e3fe76a31bed35acc5253366036e7ce225c2ad0e1"
+  }
+}

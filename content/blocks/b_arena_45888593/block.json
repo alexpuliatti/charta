@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888593",
+  "type": "image",
+  "title": "Sunset Poster",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "sunset-poster",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-04b490dc9e92216c2a112ad1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sunset Poster",
+      "role": "original",
+      "bytes": 43213,
+      "sha256": "04b490dc9e92216c2a112ad1204404f7fccfb2ae6bfdc8cda348879135a10577",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888593/original_a226be9cfcd6b7d34b0577d19440f2b0.jpeg",
+      "originalName": "a226be9cfcd6b7d34b0577d19440f2b0.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-4450bf1f030a057244aed4ab.webp",
+      "mimeType": "image/webp",
+      "alt": "Sunset Poster",
+      "role": "thumbnail",
+      "bytes": 10470,
+      "sha256": "4450bf1f030a057244aed4abf07e8aacb691434c1c015fac144c92cbfa1514c6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU5My9vcmlnaW5hbF9hMjI2YmU5Y2ZjZDZiN2QzNGIwNTc3ZDE5NDQwZjJiMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a226be9cfcd6b7d34b0577d19440f2b0.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-04b490dc9e92216c2a112ad1-04b490dc9e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sunset Poster",
+      "bytes": 38898,
+      "sha256": "5a0f95b097033816f86b87d53b3fec754d9cefc05c622953d40d80ba673a1c1d",
+      "width": 430,
+      "height": 600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-04b490dc9e92216c2a112ad1.jpg",
+        "sourceSha256": "04b490dc9e92216c2a112ad1204404f7fccfb2ae6bfdc8cda348879135a10577",
+        "originalBytes": 43213,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:17.000Z",
+  "updatedAt": "2026-10-28T14:59:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888593",
+    "title": "b958c7f5d4574cf1b302b66a74577e64.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888593,
+      "url": "https://www.are.na/block/45888593",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b958c7f5d4574cf1b302b66a74577e64.jpg",
+      "createdAt": "2026-05-06T12:23:17Z",
+      "updatedAt": "2026-10-28T14:59:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b958c7f5d4574cf1b302b66a74577e64.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sunset Poster",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5a0f95b097033816f86b87d53b3fec754d9cefc05c622953d40d80ba673a1c1d"
+  }
+}

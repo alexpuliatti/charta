@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46012885",
+  "type": "image",
+  "title": "Circuit Monitors",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "circuit-monitors",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-51350e161db6143a2167997a.png",
+      "mimeType": "image/png",
+      "alt": "Circuit Monitors",
+      "role": "original",
+      "bytes": 5435728,
+      "sha256": "51350e161db6143a2167997ad77282d5856e66d67ac4c4a2cbf5524d8d5550e3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46012885/original_166f6d4a0bd11ce2db1c8bb50e59ae8d.png",
+      "originalName": "166f6d4a0bd11ce2db1c8bb50e59ae8d.png"
+    },
+    {
+      "path": "assets/thumbnail-b4cbe81702745b42c6e3fc68.webp",
+      "mimeType": "image/webp",
+      "alt": "Circuit Monitors",
+      "role": "thumbnail",
+      "bytes": 8750,
+      "sha256": "b4cbe81702745b42c6e3fc6879e480fdac305e913e80c9d4af29e5e91ae6f8ae",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxMjg4NS9vcmlnaW5hbF8xNjZmNmQ0YTBiZDExY2UyZGIxYzhiYjUwZTU5YWU4ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "166f6d4a0bd11ce2db1c8bb50e59ae8d.png"
+    },
+    {
+      "path": "assets/display-web-original-51350e161db6143a2167997a-51350e161d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circuit Monitors",
+      "bytes": 193050,
+      "sha256": "a84da1067cc51ac82792bbd4e1c371e40f3f0596aae6484c5a8e2dde389ebfb7",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-51350e161db6143a2167997a.png",
+        "sourceSha256": "51350e161db6143a2167997ad77282d5856e66d67ac4c4a2cbf5524d8d5550e3",
+        "originalBytes": 5435728,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T12:00:04.000Z",
+  "updatedAt": "2026-05-11T12:00:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46012885",
+    "title": "qDozKB9A551tlhlCfBwZq_H5XD0yY6",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46012885,
+      "url": "https://www.are.na/block/46012885",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "qDozKB9A551tlhlCfBwZq_H5XD0yY6",
+      "createdAt": "2026-05-11T12:00:04Z",
+      "updatedAt": "2026-05-11T12:00:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "qDozKB9A551tlhlCfBwZq_H5XD0yY6",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circuit Monitors",
+    "text": "100%\n1 29 22 M",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a84da1067cc51ac82792bbd4e1c371e40f3f0596aae6484c5a8e2dde389ebfb7"
+  }
+}

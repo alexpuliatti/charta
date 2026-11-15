@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43997051",
+  "type": "link",
+  "title": "Hypha Letters",
+  "description": "Hypha grows letters (and other things) by simulating the mycelium growth found in fungi.",
+  "category": "Technology",
+  "tags": [
+    "generative-typography",
+    "simulation",
+    "mycelium"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7fdbaef7a53892ae723cbd2a.webp",
+      "mimeType": "image/webp",
+      "alt": "Hypha",
+      "role": "thumbnail",
+      "bytes": 5062,
+      "sha256": "7fdbaef7a53892ae723cbd2aa4ffbc721d23d5da1c4130908876d92c3db688d2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NzA1MS9vcmlnaW5hbF81ZjgxMzgzNWVhNzg2NWM5Yzk2MzAxMjUzNDIxZWUyNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5f813835ea7865c9c96301253421ee27.png"
+    },
+    {
+      "path": "assets/preview-a5498a6410398940c5440f5d.webp",
+      "mimeType": "image/webp",
+      "alt": "Hypha",
+      "role": "preview",
+      "bytes": 51670,
+      "sha256": "a5498a6410398940c5440f5dae2827a149e05403176df20756c51741953f10e5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43997051/original_5f813835ea7865c9c96301253421ee27.png",
+      "originalName": "5f813835ea7865c9c96301253421ee27.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 161464,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T13:48:30.000Z",
+  "updatedAt": "2026-02-28T13:48:40.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://hyphahypha.com/",
+    "title": "Hypha",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43997051,
+      "url": "https://www.are.na/block/43997051",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Hypha",
+      "createdAt": "2026-02-28T13:48:30Z",
+      "updatedAt": "2026-02-28T13:48:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Hypha",
+      "category": "Technology",
+      "tags": [
+        "generative-typography",
+        "creative-coding",
+        "simulation",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

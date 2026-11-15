@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_39534949",
+  "type": "image",
+  "title": "Trumpet Lettering",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "trumpet-lettering",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-52e97fac75bfcc03a9229cae.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Trumpet Lettering",
+      "role": "original",
+      "bytes": 54190,
+      "sha256": "52e97fac75bfcc03a9229caefcc1e31bbc86b07bfd51e3b80f8288acbed848f3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/39534949/original_b117e24744a7146f919b3b776ef6088d.jpg",
+      "originalName": "b117e24744a7146f919b3b776ef6088d.jpg"
+    },
+    {
+      "path": "assets/thumbnail-48815633a658465c95c6bf03.webp",
+      "mimeType": "image/webp",
+      "alt": "Trumpet Lettering",
+      "role": "thumbnail",
+      "bytes": 10162,
+      "sha256": "48815633a658465c95c6bf03cfaaee0ac538feb72f9640fa83cf911939cfc594",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzOTUzNDk0OS9vcmlnaW5hbF9iMTE3ZTI0NzQ0YTcxNDZmOTE5YjNiNzc2ZWY2MDg4ZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b117e24744a7146f919b3b776ef6088d.jpg"
+    },
+    {
+      "path": "assets/display-web-original-52e97fac75bfcc03a9229cae-52e97fac75.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Trumpet Lettering",
+      "bytes": 31258,
+      "sha256": "913af037ec4cdfda7dde8c6c2b21379a03105db6e3af1df0def229aaa367094d",
+      "width": 735,
+      "height": 803,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-52e97fac75bfcc03a9229cae.jpg",
+        "sourceSha256": "52e97fac75bfcc03a9229caefcc1e31bbc86b07bfd51e3b80f8288acbed848f3",
+        "originalBytes": 54190,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-09-14T06:50:43.000Z",
+  "updatedAt": "2026-03-20T07:30:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/39534949",
+    "title": "1136877499693419737.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 39534949,
+      "url": "https://www.are.na/block/39534949",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "1136877499693419737.jpg",
+      "createdAt": "2025-09-14T06:50:43Z",
+      "updatedAt": "2026-03-20T07:30:36Z",
+      "addedBy": {
+        "id": 895171,
+        "name": "Roman Skosyrev",
+        "slug": "roman-skosyrev"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "1136877499693419737.jpg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Trumpet Lettering",
+    "text": "BLa tu s Topt",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "913af037ec4cdfda7dde8c6c2b21379a03105db6e3af1df0def229aaa367094d"
+  }
+}

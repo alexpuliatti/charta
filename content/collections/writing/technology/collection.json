@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_writing_technology",
+  "title": "Technology",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_49477221"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47277659"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46981457"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46839649"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473931"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46438636"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46150372"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46110314"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46109540"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46109493"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46109460"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892973"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892933"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890455"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890193"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44241171"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40761692"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40758383"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

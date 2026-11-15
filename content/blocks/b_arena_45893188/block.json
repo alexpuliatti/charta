@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45893188",
+  "type": "link",
+  "title": "A¹ Sense",
+  "description": "A¹ Sense — Explore Augen’s A¹ Sense: a revolutionary Smart Patch that enhances life through Invisible Sense Computing, IoT, AI, and Advanced Health and Spatial Mapping Features.",
+  "category": "Objects",
+  "tags": [
+    "wearables",
+    "smart-patch",
+    "sensing"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1c17a3b4124f046603f78709.webp",
+      "mimeType": "image/webp",
+      "alt": "A¹ Sense — Augen Pro",
+      "role": "thumbnail",
+      "bytes": 1182,
+      "sha256": "1c17a3b4124f046603f787094397244f16f0cd5d6c875c040e1262d45aba5fc8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MzE4OC9vcmlnaW5hbF9mZDBjNmIwZTgxOGYzNTdmNjRjN2Y3Yzg2ZjA0ODdhYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fd0c6b0e818f357f64c7f7c86f0487aa.png"
+    },
+    {
+      "path": "assets/preview-59ad4a6ea5af2b3fceae595d.webp",
+      "mimeType": "image/webp",
+      "alt": "A¹ Sense — Augen Pro",
+      "role": "preview",
+      "bytes": 32612,
+      "sha256": "59ad4a6ea5af2b3fceae595d81e76c95f16c303972afd4a9f18c81bc162ce0df",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45893188/original_fd0c6b0e818f357f64c7f7c86f0487aa.png",
+      "originalName": "fd0c6b0e818f357f64c7f7c86f0487aa.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 108833,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T15:01:58.000Z",
+  "updatedAt": "2026-05-06T15:02:04.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://augen.pro/products/a1-sense",
+    "title": "A¹ Sense — Augen Pro",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45893188,
+      "url": "https://www.are.na/block/45893188",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "A¹ Sense — Augen Pro",
+      "createdAt": "2026-05-06T15:01:58Z",
+      "updatedAt": "2026-05-06T15:02:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "A¹ Sense — Augen Pro",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "wearables",
+        "sensing",
+        "spatial-computing",
+        "artificial-intelligence",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

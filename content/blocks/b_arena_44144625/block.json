@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144625",
+  "type": "image",
+  "title": "Chef Illustration",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "chef-illustration",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9e0c31defd2598f0c438d120.png",
+      "mimeType": "image/png",
+      "alt": "Chef Illustration",
+      "role": "original",
+      "bytes": 608826,
+      "sha256": "9e0c31defd2598f0c438d120b59664ce9e90183d5bd2441decb9b473f2d4f2a9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144625/original_7e8418f6d09e9c9033bfa352f2d0d934.png",
+      "originalName": "7e8418f6d09e9c9033bfa352f2d0d934.png"
+    },
+    {
+      "path": "assets/thumbnail-d088ee7e3cb2e8b16177bd3a.webp",
+      "mimeType": "image/webp",
+      "alt": "Chef Illustration",
+      "role": "thumbnail",
+      "bytes": 10222,
+      "sha256": "d088ee7e3cb2e8b16177bd3a12a5fe31371c652e6c67baf1bb4a0f856a49e027",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYyNS9vcmlnaW5hbF83ZTg0MThmNmQwOWU5YzkwMzNiZmEzNTJmMmQwZDkzNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7e8418f6d09e9c9033bfa352f2d0d934.png"
+    },
+    {
+      "path": "assets/display-web-original-9e0c31defd2598f0c438d120-9e0c31defd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Chef Illustration",
+      "bytes": 67492,
+      "sha256": "b2fe5a9373b0a2fd7e09bd637f8f2357fdb832f73cec29bfdc291219f87ff6b5",
+      "width": 1228,
+      "height": 1416,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9e0c31defd2598f0c438d120.png",
+        "sourceSha256": "9e0c31defd2598f0c438d120b59664ce9e90183d5bd2441decb9b473f2d4f2a9",
+        "originalBytes": 608826,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-03-04T19:22:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144625",
+    "title": "screenshot-2026-03-04-alle-20.12.14.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144625,
+      "url": "https://www.are.na/block/44144625",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.12.14.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-03-04T19:22:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.12.14.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Chef Illustration",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b2fe5a9373b0a2fd7e09bd637f8f2357fdb832f73cec29bfdc291219f87ff6b5"
+  }
+}

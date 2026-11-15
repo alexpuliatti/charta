@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47268323",
+  "type": "link",
+  "title": "AI Values",
+  "description": "How leading AI models value different people, companies, countries, and groups.",
+  "category": "Technology",
+  "tags": [
+    "artificial-intelligence",
+    "values",
+    "data-visualization"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-6ab822c7c9dd1bdaac7de732.webp",
+      "mimeType": "image/webp",
+      "alt": "AI Values Dashboard",
+      "role": "thumbnail",
+      "bytes": 11154,
+      "sha256": "6ab822c7c9dd1bdaac7de732da3088fdb888f36a1b0617bcdd4b5a84b07c96ae",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI2ODMyMy9vcmlnaW5hbF84MTE2MmExMTQwMjY0M2IwNDk5Y2E3YTMzYjUyYjBmYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "81162a11402643b0499ca7a33b52b0fa.png"
+    },
+    {
+      "path": "assets/preview-8bab493c41e4dcb8a21a85b4.webp",
+      "mimeType": "image/webp",
+      "alt": "AI Values Dashboard",
+      "role": "preview",
+      "bytes": 147576,
+      "sha256": "8bab493c41e4dcb8a21a85b435ccd6ebd963af181a461a8aa47a73379d66075d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47268323/original_81162a11402643b0499ca7a33b52b0fa.png",
+      "originalName": "81162a11402643b0499ca7a33b52b0fa.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 470284,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T09:11:13.000Z",
+  "updatedAt": "2026-06-24T09:11:22.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://values.safe.ai/#companies",
+    "title": "AI Values Dashboard",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47268323,
+      "url": "https://www.are.na/block/47268323",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "AI Values Dashboard",
+      "createdAt": "2026-06-24T09:11:13Z",
+      "updatedAt": "2026-06-24T09:11:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Research tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "AI Values Dashboard",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

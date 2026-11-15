@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_studios_brand_web",
+  "title": "Brand & web studios",
+  "description": "",
+  "order": 1,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_46316119"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45932662"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892721"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_38863662"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

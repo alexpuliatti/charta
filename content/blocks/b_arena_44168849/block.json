@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168849",
+  "type": "image",
+  "title": "Evolving Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "evolving-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b706c5798faee24ad5538490.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Evolving Identity",
+      "role": "original",
+      "bytes": 262069,
+      "sha256": "b706c5798faee24ad5538490eea0377afd3f8173887c31b82f366c968ae4fe08",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168849/original_98de512d58fb07e8cb3a76c08d9632d1.jpg",
+      "originalName": "98de512d58fb07e8cb3a76c08d9632d1.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3a8e525e3da1a8c212f88de3.webp",
+      "mimeType": "image/webp",
+      "alt": "Evolving Identity",
+      "role": "thumbnail",
+      "bytes": 4416,
+      "sha256": "3a8e525e3da1a8c212f88de308b1915689771783df28d7bfdac6de942dc51841",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg0OS9vcmlnaW5hbF85OGRlNTEyZDU4ZmIwN2U4Y2IzYTc2YzA4ZDk2MzJkMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "98de512d58fb07e8cb3a76c08d9632d1.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b706c5798faee24ad5538490-b706c5798f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Evolving Identity",
+      "bytes": 57366,
+      "sha256": "f6cd5d5d7d2db3506bd3084d790edef4e3b189fddc4395acffffe4e75fb5f7b8",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b706c5798faee24ad5538490.jpg",
+        "sourceSha256": "b706c5798faee24ad5538490eea0377afd3f8173887c31b82f366c968ae4fe08",
+        "originalBytes": 262069,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-03-05T15:46:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168849",
+    "title": "hcpuotpbaaackvp.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168849,
+      "url": "https://www.are.na/block/44168849",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcpuotpbaaackvp.jpeg",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-03-05T15:46:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcpuotpbaaackvp.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Evolving Identity",
+    "text": "A constantly evolving\nbrand DNA\nAI IS NOT A TOOL YOU ADD; IT IS A MINDSET YOU CULTIVATE. IT MUST\nBE YOUR ARCHITECT, NOT YOUR ACCESSORY. THIS IS NOT A PROJECT\nOR A PHASE - IT IS A REFLEX SHAPING EVERY MEETING, EVERY IDEA,\nEVERY PLAN.\nFoundations of Aura\nTHE FOUNDATIONS THAT AURA. THE RESEARCH\nLAB, THE MEDIA ARM, AND EVENTUALLY THE\nSECOND PRODUCT CAN ALL GROW FROM. THIS\nDOES NOT NEED TO BE FULLY RESOLVED.\nIT NEEDS TO BE STRUCTURALLY SOUND ENOUGH\nTHAT FUTURE DIVISIONS FEEL LIKE THEY BELONG.\nWORK WITH MOMENTUS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f6cd5d5d7d2db3506bd3084d790edef4e3b189fddc4395acffffe4e75fb5f7b8"
+  }
+}

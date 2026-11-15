@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137329",
+  "type": "video",
+  "title": "Particle Network",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "particle-network",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7d149ece393af6e31f167707.mp4",
+      "mimeType": "video/mp4",
+      "alt": "lucioarese-20251028_183408-17381162.mp4",
+      "role": "original",
+      "bytes": 2115035,
+      "sha256": "7d149ece393af6e31f167707dfefdf961d31fecba7fde6596a307be05b44a06e",
+      "sourceUrl": "https://attachments.are.na/44137329/7e0868814e9928a8ef5f6b26d589736e.mp4",
+      "originalName": "7e0868814e9928a8ef5f6b26d589736e.mp4"
+    },
+    {
+      "path": "assets/thumbnail-d3410bcde789c6dc71041444.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Network",
+      "role": "thumbnail",
+      "bytes": 9166,
+      "sha256": "d3410bcde789c6dc710414440261c052bc5349def5f73b93ab60f857d1a77ae2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzMyOS9vcmlnaW5hbF82ZmQ1ZDkxMDI2MjUzODkxMjAyNjAzMDQtMi1uNjR4c2QucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6fd5d9102625389120260304-2-n64xsd.png"
+    },
+    {
+      "path": "assets/display-web-original-7d149ece393af6e31f167707-7d149ece39.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "lucioarese-20251028_183408-17381162.mp4",
+      "bytes": 1978445,
+      "sha256": "d61f91580e5cdffc36066d59c5c8257f4cb8fedd623c96902a0c352bec7d8830",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7d149ece393af6e31f167707.mp4",
+        "sourceSha256": "7d149ece393af6e31f167707dfefdf961d31fecba7fde6596a307be05b44a06e",
+        "originalBytes": 2115035,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-db2b777a6b29c7b59e9eb6b0.webp",
+      "mimeType": "image/webp",
+      "alt": "lucioarese-20251028_183408-17381162.mp4",
+      "role": "preview",
+      "bytes": 84096,
+      "sha256": "db2b777a6b29c7b59e9eb6b0047920a97f2b4dd11403b5a3e1b5152a1958c9c1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137329/original_6fd5d9102625389120260304-2-n64xsd.png",
+      "originalName": "6fd5d9102625389120260304-2-n64xsd.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 784157,
+        "width": 716,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:42.000Z",
+  "updatedAt": "2026-03-04T15:46:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137329",
+    "title": "lucioarese-20251028_183408-17381162.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137329,
+      "url": "https://www.are.na/block/44137329",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "lucioarese-20251028_183408-17381162.mp4",
+      "createdAt": "2026-03-04T15:46:42Z",
+      "updatedAt": "2026-03-04T15:46:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "lucioarese-20251028_183408-17381162.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Particle Network",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d3410bcde789c6dc710414440261c052bc5349def5f73b93ab60f857d1a77ae2"
+  }
+}

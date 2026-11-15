@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44449939",
+  "type": "link",
+  "title": "Fontshare Fonts",
+  "description": "Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.",
+  "category": "Graphic design",
+  "tags": [
+    "fonts",
+    "typefaces",
+    "typography"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-258fbeb6c5a0bc88a789b855.webp",
+      "mimeType": "image/webp",
+      "alt": "Fontshare: Quality Fonts. Free.",
+      "role": "thumbnail",
+      "bytes": 356,
+      "sha256": "258fbeb6c5a0bc88a789b855d072ef0b002202d7cac1089e02d6f3d861fd5b70",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDQ0OTkzOS9vcmlnaW5hbF83YjEwODg1NDkwM2IxNWU4ZTA5NzQwN2MyYmZjYzNlZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7b108854903b15e8e097407c2bfcc3ed.png"
+    },
+    {
+      "path": "assets/preview-741742d4282885256111a223.webp",
+      "mimeType": "image/webp",
+      "alt": "Fontshare: Quality Fonts. Free.",
+      "role": "preview",
+      "bytes": 320,
+      "sha256": "741742d4282885256111a223c1222715e7622f9f8c58d075c0aaabc11576c74b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44449939/original_7b108854903b15e8e097407c2bfcc3ed.png",
+      "originalName": "7b108854903b15e8e097407c2bfcc3ed.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 24862,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-15T17:03:59.000Z",
+  "updatedAt": "2026-03-15T17:04:05.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.fontshare.com/",
+    "title": "Fontshare: Quality Fonts. Free.",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44449939,
+      "url": "https://www.are.na/block/44449939",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Fontshare: Quality Fonts. Free.",
+      "createdAt": "2026-03-15T17:03:59Z",
+      "updatedAt": "2026-03-15T17:04:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Fontshare: Quality Fonts. Free.",
+      "category": "Typography",
+      "tags": [
+        "typography",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45893223",
+  "type": "link",
+  "title": "Lightpage Notebook",
+  "description": "Lightpage is a personal AI notebook for reflection, clarity, and better decisions.",
+  "category": "Interface design",
+  "tags": [
+    "personal-notes",
+    "reflection",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-662d06d74c9bec3253971dc7.webp",
+      "mimeType": "image/webp",
+      "alt": "Lightpage",
+      "role": "thumbnail",
+      "bytes": 10638,
+      "sha256": "662d06d74c9bec3253971dc7a70ab39da7ded7d20ff38ef1732add797094e363",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MzIyMy9vcmlnaW5hbF85ZmEwN2NiMjgyYjkxNzc1NDgxMzE5NzYzMjBmY2FiYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9fa07cb282b9177548131976320fcabb.png"
+    },
+    {
+      "path": "assets/preview-b50a8a01182dca4e4c1e1628.webp",
+      "mimeType": "image/webp",
+      "alt": "Lightpage",
+      "role": "preview",
+      "bytes": 312738,
+      "sha256": "b50a8a01182dca4e4c1e1628af665b4534c0b5f75a6659099d1afad7ac7ba908",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45893223/original_9fa07cb282b9177548131976320fcabb.png",
+      "originalName": "9fa07cb282b9177548131976320fcabb.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2165135,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T15:03:16.000Z",
+  "updatedAt": "2026-05-06T15:03:24.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://lightpage.com/",
+    "title": "Lightpage",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45893223,
+      "url": "https://www.are.na/block/45893223",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Lightpage",
+      "createdAt": "2026-05-06T15:03:16Z",
+      "updatedAt": "2026-05-06T15:03:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Lightpage",
+      "category": "Digital design",
+      "tags": [
+        "artificial-intelligence",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

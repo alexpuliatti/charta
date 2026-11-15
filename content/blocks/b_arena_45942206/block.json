@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942206",
+  "type": "video",
+  "title": "Glass Button",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glass-button",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c9f059b2367957b75903faa5.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778148597466.mp4",
+      "role": "original",
+      "bytes": 882505,
+      "sha256": "c9f059b2367957b75903faa517850327a30fc0a9b3d0b7b1bb9a2544b3653153",
+      "sourceUrl": "https://attachments.are.na/45942206/5aab85aac1cfa1d572d1d6205be0437f.mp4",
+      "originalName": "5aab85aac1cfa1d572d1d6205be0437f.mp4"
+    },
+    {
+      "path": "assets/thumbnail-2bbeb22e7877b2678de51cea.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Button",
+      "role": "thumbnail",
+      "bytes": 4494,
+      "sha256": "2bbeb22e7877b2678de51ceab07a9523b8f72946271f2356dc374ff680c7465c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIwNi9vcmlnaW5hbF85NDY0ZTg4OWEwMjk4MDdmMjAyNjA1MDgtMi12emptc28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "9464e889a029807f20260508-2-vzjmso.png"
+    },
+    {
+      "path": "assets/display-web-original-c9f059b2367957b75903faa5-c9f059b236.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778148597466.mp4",
+      "bytes": 194414,
+      "sha256": "79fa90de5c82a2f9a8b487549169b04362b56690c50e7bf8fd7a6efc89abd3ac",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c9f059b2367957b75903faa5.mp4",
+        "sourceSha256": "c9f059b2367957b75903faa517850327a30fc0a9b3d0b7b1bb9a2544b3653153",
+        "originalBytes": 882505,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-f9d17a274db45999958ecb34.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778148597466.mp4",
+      "role": "preview",
+      "bytes": 62600,
+      "sha256": "f9d17a274db45999958ecb34be6eb737a5d08a4459c148d48bcd07533e2872cc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942206/original_9464e889a029807f20260508-2-vzjmso.png",
+      "originalName": "9464e889a029807f20260508-2-vzjmso.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 299335,
+        "width": 2256,
+        "height": 1624,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:15.000Z",
+  "updatedAt": "2026-05-08T09:25:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942206",
+    "title": "ssstwitter.com_1778148597466.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942206,
+      "url": "https://www.are.na/block/45942206",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778148597466.mp4",
+      "createdAt": "2026-05-08T09:25:15Z",
+      "updatedAt": "2026-05-08T09:25:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778148597466.mp4",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Button",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2bbeb22e7877b2678de51ceab07a9523b8f72946271f2356dc374ff680c7465c"
+  }
+}

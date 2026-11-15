@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46012824",
+  "type": "image",
+  "title": "Circuit Speakers",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "circuit-speakers",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a0d52f6664ef85e4d31538a4.png",
+      "mimeType": "image/png",
+      "alt": "Circuit Speakers",
+      "role": "original",
+      "bytes": 5989969,
+      "sha256": "a0d52f6664ef85e4d31538a4f263b1b247f1d93d26ed11c0ea873d2b6cd67f57",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46012824/original_be95564cbaef84c7ce76ad6cf31ab5d0.png",
+      "originalName": "be95564cbaef84c7ce76ad6cf31ab5d0.png"
+    },
+    {
+      "path": "assets/thumbnail-6643d3f38e833e058bbf207b.webp",
+      "mimeType": "image/webp",
+      "alt": "Circuit Speakers",
+      "role": "thumbnail",
+      "bytes": 15500,
+      "sha256": "6643d3f38e833e058bbf207b8eb3a4555fa3aee43f89a35ed11015e454c4b687",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxMjgyNC9vcmlnaW5hbF9iZTk1NTY0Y2JhZWY4NGM3Y2U3NmFkNmNmMzFhYjVkMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "be95564cbaef84c7ce76ad6cf31ab5d0.png"
+    },
+    {
+      "path": "assets/display-web-original-a0d52f6664ef85e4d31538a4-a0d52f6664.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circuit Speakers",
+      "bytes": 301268,
+      "sha256": "4008e0aecdb185ccd6c851e8a77d1949d6cd7b62d8ca9150e85f6cc99683e3e9",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a0d52f6664ef85e4d31538a4.png",
+        "sourceSha256": "a0d52f6664ef85e4d31538a4f263b1b247f1d93d26ed11c0ea873d2b6cd67f57",
+        "originalBytes": 5989969,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T11:58:03.000Z",
+  "updatedAt": "2026-05-11T11:58:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46012824",
+    "title": "MJclhbIer1YGetyiFPFN4_Yde4vEBZ",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46012824,
+      "url": "https://www.are.na/block/46012824",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "MJclhbIer1YGetyiFPFN4_Yde4vEBZ",
+      "createdAt": "2026-05-11T11:58:03Z",
+      "updatedAt": "2026-05-11T11:58:07Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "MJclhbIer1YGetyiFPFN4_Yde4vEBZ",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circuit Speakers",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4008e0aecdb185ccd6c851e8a77d1949d6cd7b62d8ca9150e85f6cc99683e3e9"
+  }
+}

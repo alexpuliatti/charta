@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44241023",
+  "type": "link",
+  "title": "Resurf Library",
+  "description": "A personal library and quick capture tool for thoughts, ideas, links, visuals, and more.",
+  "category": "Interface design",
+  "tags": [
+    "personal-library",
+    "capture",
+    "knowledge-management"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-092c75c48931a42f276796e3.webp",
+      "mimeType": "image/webp",
+      "alt": "Resurf - Capture things worth resurfacing",
+      "role": "thumbnail",
+      "bytes": 9024,
+      "sha256": "092c75c48931a42f276796e3bb0a04cc782d5b93875e67435330050c5378f90d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0MTAyMy9vcmlnaW5hbF9hY2Y5Nzc1OWY4OWJlMmFjMmEzYzdhMTc0YzhjZGUzMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "acf97759f89be2ac2a3c7a174c8cde32.png"
+    },
+    {
+      "path": "assets/preview-44a6ea5b9c42704fee5c6107.webp",
+      "mimeType": "image/webp",
+      "alt": "Resurf - Capture things worth resurfacing",
+      "role": "preview",
+      "bytes": 195632,
+      "sha256": "44a6ea5b9c42704fee5c61078c6ce8061e455545d97e24f8f56d50e7f04d3146",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44241023/original_acf97759f89be2ac2a3c7a174c8cde32.png",
+      "originalName": "acf97759f89be2ac2a3c7a174c8cde32.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 668123,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T17:17:14.000Z",
+  "updatedAt": "2026-03-08T17:17:28.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://resurf.so/",
+    "title": "Resurf - Capture things worth resurfacing",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44241023,
+      "url": "https://www.are.na/block/44241023",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Resurf - Capture things worth resurfacing",
+      "createdAt": "2026-03-08T17:17:14Z",
+      "updatedAt": "2026-03-08T17:17:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Resurf - Capture things worth resurfacing",
+      "category": "Information design",
+      "tags": [
+        "books",
+        "tools",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

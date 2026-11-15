@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46717033",
+  "type": "image",
+  "title": "Metal Table",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "furniture",
+    "metal-table",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-103153750270a5fcb67302dc.png",
+      "mimeType": "image/png",
+      "alt": "Metal Table",
+      "role": "original",
+      "bytes": 1304140,
+      "sha256": "103153750270a5fcb67302dc04a3b78052d69c99cd3d6d0549359b7c9aafacaa",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46717033/original_8834d99670f09153186274b32d6b9817.png",
+      "originalName": "8834d99670f09153186274b32d6b9817.png"
+    },
+    {
+      "path": "assets/thumbnail-e405d3ab5330225a9bb948c6.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Table",
+      "role": "thumbnail",
+      "bytes": 12152,
+      "sha256": "e405d3ab5330225a9bb948c688c9926e5068fd2fd22b0dff4e174d35d9a3ff1f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxNzAzMy9vcmlnaW5hbF84ODM0ZDk5NjcwZjA5MTUzMTg2Mjc0YjMyZDZiOTgxNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8834d99670f09153186274b32d6b9817.png"
+    },
+    {
+      "path": "assets/display-web-original-103153750270a5fcb67302dc-1031537502.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Table",
+      "bytes": 59328,
+      "sha256": "e47695e77e95669f39c76bf927ce2b9f85662da0248885e990e05bf476b24208",
+      "width": 1104,
+      "height": 884,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-103153750270a5fcb67302dc.png",
+        "sourceSha256": "103153750270a5fcb67302dc04a3b78052d69c99cd3d6d0549359b7c9aafacaa",
+        "originalBytes": 1304140,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T13:39:00.000Z",
+  "updatedAt": "2026-06-19T16:09:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46717033",
+    "title": "Screenshot 2026-05-14 at 11.57.01",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46717033,
+      "url": "https://www.are.na/block/46717033",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-05-14 at 11.57.01",
+      "createdAt": "2026-06-03T13:39:00Z",
+      "updatedAt": "2026-06-19T16:09:42Z",
+      "addedBy": {
+        "id": 480205,
+        "name": "aisha ahamed",
+        "slug": "aisha-ahamed"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Furniture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-05-14 at 11.57.01",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Table",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e47695e77e95669f39c76bf927ce2b9f85662da0248885e990e05bf476b24208"
+  }
+}

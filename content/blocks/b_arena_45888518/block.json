@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888518",
+  "type": "image",
+  "title": "Museum Programmes",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "museum-programmes",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-afe28a4b19953fc9f278205f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Museum Programmes",
+      "role": "original",
+      "bytes": 81854,
+      "sha256": "afe28a4b19953fc9f278205f5b6c72a555b3b3b9e21272334d7e52b28a51768b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888518/original_44770887a220b96bcb9f7fbe678431f8.jpeg",
+      "originalName": "44770887a220b96bcb9f7fbe678431f8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a462de9a45cae53ca98d5128.webp",
+      "mimeType": "image/webp",
+      "alt": "Museum Programmes",
+      "role": "thumbnail",
+      "bytes": 7964,
+      "sha256": "a462de9a45cae53ca98d5128199236066a748c60099f31e4db538c1e146664cf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUxOC9vcmlnaW5hbF80NDc3MDg4N2EyMjBiOTZiY2I5ZjdmYmU2Nzg0MzFmOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "44770887a220b96bcb9f7fbe678431f8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-afe28a4b19953fc9f278205f-afe28a4b19.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Museum Programmes",
+      "bytes": 43562,
+      "sha256": "20666a8a143be88c5b2a2636670ea255ded208bc48d7488ef53376f5046ebf5d",
+      "width": 1200,
+      "height": 800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-afe28a4b19953fc9f278205f.jpg",
+        "sourceSha256": "afe28a4b19953fc9f278205f5b6c72a555b3b3b9e21272334d7e52b28a51768b",
+        "originalBytes": 81854,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:49.000Z",
+  "updatedAt": "2026-05-06T12:20:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888518",
+    "title": "72f02c975668ffc3b3699ef22ced26a8.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888518,
+      "url": "https://www.are.na/block/45888518",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "72f02c975668ffc3b3699ef22ced26a8.jpg",
+      "createdAt": "2026-05-06T12:20:49Z",
+      "updatedAt": "2026-05-06T12:20:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "72f02c975668ffc3b3699ef22ced26a8.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Museum Programmes",
+    "text": "SPRENGEL\nMUSEUM\nHANNOUER\nSPRENGEL\nMUSEUM\nHANNOUER\nSPRENGEL\nMUSEUM\nHANNOUER\nDeZENDER\n2017\nJANUAR\n2018\nAPRIL\n2018\nSPRENGEL\nMUSEUM\nHANNOUER\nMOERZ\n2018",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "20666a8a143be88c5b2a2636670ea255ded208bc48d7488ef53376f5046ebf5d"
+  }
+}

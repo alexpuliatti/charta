@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888447",
+  "type": "image",
+  "title": "Project Archive",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "project-archive",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d8b8d65fb25b3af9c4019a74.png",
+      "mimeType": "image/png",
+      "alt": "Project Archive",
+      "role": "original",
+      "bytes": 305819,
+      "sha256": "d8b8d65fb25b3af9c4019a7481deed9e3eb05f6f284b2ff61bee1c148bdf653d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888447/original_91e37bdb73b7b933ee254f3e3486d35c.png",
+      "originalName": "91e37bdb73b7b933ee254f3e3486d35c.png"
+    },
+    {
+      "path": "assets/thumbnail-08a34d5df76ead76759e0d13.webp",
+      "mimeType": "image/webp",
+      "alt": "Project Archive",
+      "role": "thumbnail",
+      "bytes": 16920,
+      "sha256": "08a34d5df76ead76759e0d1397003bab92a821f0d15cc930d8f74213c61420d7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0Ny9vcmlnaW5hbF85MWUzN2JkYjczYjdiOTMzZWUyNTRmM2UzNDg2ZDM1Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "91e37bdb73b7b933ee254f3e3486d35c.png"
+    },
+    {
+      "path": "assets/display-web-original-d8b8d65fb25b3af9c4019a74-d8b8d65fb2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Project Archive",
+      "bytes": 128242,
+      "sha256": "d25d03d3920257ab8c415e91d1ff596b332de88aeb0d16ce0f35d1268501d561",
+      "width": 1280,
+      "height": 1280,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d8b8d65fb25b3af9c4019a74.png",
+        "sourceSha256": "d8b8d65fb25b3af9c4019a7481deed9e3eb05f6f284b2ff61bee1c148bdf653d",
+        "originalBytes": 305819,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:08.000Z",
+  "updatedAt": "2026-06-01T06:51:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888447",
+    "title": "original_2aaf069ac7c64fec52c5662a0ddad4be.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888447,
+      "url": "https://www.are.na/block/45888447",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_2aaf069ac7c64fec52c5662a0ddad4be.png",
+      "createdAt": "2026-05-06T12:17:08Z",
+      "updatedAt": "2026-06-01T06:51:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_2aaf069ac7c64fec52c5662a0ddad4be.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Project Archive",
+    "text": "W\nP\n& A\nProject Archive\nProject v\nBØRNS\nAARON CURRY\nANDERSON PAAK\nALEX ISRAEL\nDRAKE\nDRAKE\nCHARLI XCX\nBECK\nALEX ISRAEL\nANDERSON PAAK\nANDREW BIRD\nANDERSON PAAK\nFENTY\nDRAKE\nALEXANDER WANG\nADIDAS\nDWAYNE WADE\nART LOS ANGELES CONTEMPORARY\nBRUNO MARS\nBRUNO MARS\nCOLBY\nBEACH HOUSE\nCHILDISH GAMBINO\nARI MACROPOLOUS\nBEACH HOUSE\nDAVID BLACK\nAARON CURRY\nAARON CURRY\nCLOUDLAND CANYAN\nHONOR FRASER\nHENRY TAYLOR\nJASON RHOADES\nHONOR FRASER\nFRANK OCEAN\nHELMUT LANG\nHONOR FRASER\nFLORENCE & THE MACHINE\nG DRAGON\nGEORGE RODRIGUEZ\nG DRAGON\nFLORENCE & THE MACHINE\nFLORENCE & THE MACHINE\nFLORENCE & THE MACHINE\n[ALL CATEGORIES V\nTitle v\nTOUR MERCH 2018)\nMELT TO EARTH (2014)\nSNL (2018)\nAS IT LAYS SEASON 2 SET 2019)\nWOULD YOU LIKE A TOUR 2013)\nSNL (2011)\nSINGLES 2018)\nHELLO AGAIN 2013)\nSPF-18 2019)\nAPPLE MUSIC@ BRITONADE2018)\nARE YOU SERIOUS DELUXE BOX SET 2016)\nBEST TEEF IN THE GAME TOUR 2019)\nFENTY NYC POP UP (2019)\nAUBREY & THE THREE MIGOS TOUR 2018)\nCOLLECTION 1 FALL WINTER\nLOS ANGELES OFFICE 2015)\nDWAYNE WADE IDENTITY\nALAC (2019)\nSINGLES (2012)\nUNORTHODOX JUKEBOX 2012)\nIN THE GOOD NAME OF THE COMPANY(2013)\nBLOOM (2012)\nBECAUSE THE INTERNET 2013)\nPORTRAITS FROM THE STUDIO AND THE\nSTREET, IDEA BOOKS 2017)\nDEPRESSION CHERRY 2015)\nTHE DAYS CHANGE AT NIGHT 2019)\nMMNKTLPLKT(2010)\nBAD BRAIN (2015)\nAN ARABESQUE\nANDY WARHOL: ROBOTS & SPACESHIPS (2013)\nCATALOG RAISONNE 2018)\nJASON RHOADES' BLACK PUSSY COFFEE TABLE\nBOOK (2007)\nANDY WARHOL: SHADOWS 2016)\nFESTIVALS (2017)\nIN LANG WE TRUST2018)\nANDY WARHOL: CAMOUFLAGE 2011)\nHOW BIG, HOW BLUE, HOW BEAUTIFUL 2015)\nTOUR VIDEO (2017)\nDOUBLE VISION 2018)\nACT III M.O.T.T.E. TOUR (2017)\nHIGH AS HOPE(2018)\nHOW BIG, HOW BLUE, HOW BEAUTIFUL 7\" BOX\nSET 2015)\nHYDE PARK FESTIVAL 2015)\nType v\nBRAND\nPUBLICATION\nTELEVISION\nSCENIC\nVISUAL\nVISUAL\nALBUM\nEVENTS\nPUBLICATION\nTELEVISION\nALBUM\nCONCERTS\nEVENTS\nCONCERTS\nEVENTS\nINTERIOR\nBRAND\nBRAND\nALBUM\nALBUM\nPUBLICATION\nALBUM\nALBUM\nPUBLICATION\nALBUM\nPUBLICATION\nPUBLICATION\nPUBLICATION\nALBUM\nPUBLICATION\nPUBLICATION\nPUBLICATION\nPUBLICATION\nCONCERTS\nBRAND\nPUBLICATION\nCAMPAIGNS\nVISUAL\nPUBLICATION\nCONCERTS\nCAMPAIGNS\nALBUM\nVISUAL\nYear v\n2018\n2014\n2018\n2019\n2013\n2011\n2018\n2013\n2019\n2018\n2016\n2019\n2019\n2018\n2019\n2015\n2019\n2012\n2012\n2013\n2012\n2013\n2017\n2015\n2019\n2010\n2015\n2014\n2013\n2018\n2007\n2016\n2017\n2018\n2011\n2015\n2017\n2018\n2017\n2018\n2015\n2015",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d25d03d3920257ab8c415e91d1ff596b332de88aeb0d16ce0f35d1268501d561"
+  }
+}

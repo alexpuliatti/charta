@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701023",
+  "type": "image",
+  "title": "Uncommon Danger",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "uncommon-danger",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2567a3ff8d51f7def3ec93fd.png",
+      "mimeType": "image/png",
+      "alt": "Uncommon Danger",
+      "role": "original",
+      "bytes": 1328407,
+      "sha256": "2567a3ff8d51f7def3ec93fdfa69748d2717372eb3ca34707b92170132312a4b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701023/original_51e48068bccdb01c13231045ad93621b.png",
+      "originalName": "51e48068bccdb01c13231045ad93621b.png"
+    },
+    {
+      "path": "assets/thumbnail-119f421cdbe02cf9ca64e57d.webp",
+      "mimeType": "image/webp",
+      "alt": "Uncommon Danger",
+      "role": "thumbnail",
+      "bytes": 11590,
+      "sha256": "119f421cdbe02cf9ca64e57d085022b76678cc37813272969363a495e3dcd266",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyMy9vcmlnaW5hbF81MWU0ODA2OGJjY2RiMDFjMTMyMzEwNDVhZDkzNjIxYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "51e48068bccdb01c13231045ad93621b.png"
+    },
+    {
+      "path": "assets/display-web-original-2567a3ff8d51f7def3ec93fd-2567a3ff8d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Uncommon Danger",
+      "bytes": 82592,
+      "sha256": "17b154762df8f48005a886bf0bec538ab4e262f22adbbc634c23ce7c912d3a90",
+      "width": 1036,
+      "height": 1208,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2567a3ff8d51f7def3ec93fd.png",
+        "sourceSha256": "2567a3ff8d51f7def3ec93fdfa69748d2717372eb3ca34707b92170132312a4b",
+        "originalBytes": 1328407,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:17.000Z",
+  "updatedAt": "2026-07-08T14:57:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701023",
+    "title": "Screenshot 2023-09-12 alle 17.03.21",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701023,
+      "url": "https://www.are.na/block/47701023",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.03.21",
+      "createdAt": "2026-07-08T14:56:17Z",
+      "updatedAt": "2026-07-08T14:57:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.03.21",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Uncommon Danger",
+    "text": "ANOMMON\nDANGER\nAMBLER\nUNCOMMON\nDANGER\nDOSSIER\n$8439\nCopy 31\nZürich\nHOODERASTOUGHTON\nERIC AMBLER",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "17b154762df8f48005a886bf0bec538ab4e262f22adbbc634c23ce7c912d3a90"
+  }
+}

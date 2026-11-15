@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_18672138",
+  "type": "image",
+  "title": "Canton Wordmark",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "canton-wordmark",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-573622e3442d6f1e00a2baeb.gif",
+      "mimeType": "image/gif",
+      "alt": "Canton Wordmark",
+      "role": "original",
+      "bytes": 12622659,
+      "sha256": "573622e3442d6f1e00a2baebbceb0be5dac6cbc45e9bc6447f4e4b5ba8afa369",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/18672138/original_1485806f83817c039021fb0a6e8a3e82.gif",
+      "originalName": "1485806f83817c039021fb0a6e8a3e82.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2022-10-25T14:08:32.000Z",
+  "updatedAt": "2026-11-13T18:22:40.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/18672138",
+    "title": "Canton by LG2",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 18672138,
+      "url": "https://www.are.na/block/18672138",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Canton by LG2",
+      "createdAt": "2022-10-25T14:08:32Z",
+      "updatedAt": "2026-11-13T18:22:40Z",
+      "addedBy": {
+        "id": 126114,
+        "name": "Forrest Huu Ta",
+        "slug": "forrest-huu-ta"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Canton by LG2",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Canton Wordmark",
+    "text": "Canton",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "573622e3442d6f1e00a2baebbceb0be5dac6cbc45e9bc6447f4e4b5ba8afa369"
+  }
+}

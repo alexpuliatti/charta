@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168852",
+  "type": "image",
+  "title": "Polygon Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "polygon-controls",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a61cf934d0a0d5f82c1e6f9e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Polygon Controls",
+      "role": "original",
+      "bytes": 252927,
+      "sha256": "a61cf934d0a0d5f82c1e6f9e305f3a5b01733e48ebbb8f3858a6ad7731a3ef8b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168852/original_63d1d10eeb6bed239756298bbbc7ce8c.jpg",
+      "originalName": "63d1d10eeb6bed239756298bbbc7ce8c.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f0478d43a30902e4f7abbc59.webp",
+      "mimeType": "image/webp",
+      "alt": "Polygon Controls",
+      "role": "thumbnail",
+      "bytes": 5736,
+      "sha256": "f0478d43a30902e4f7abbc59590893ea3903042e02cd1b5f19e21ce7b4b6b97a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg1Mi9vcmlnaW5hbF82M2QxZDEwZWViNmJlZDIzOTc1NjI5OGJiYmM3Y2U4Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "63d1d10eeb6bed239756298bbbc7ce8c.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a61cf934d0a0d5f82c1e6f9e-a61cf934d0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Polygon Controls",
+      "bytes": 82128,
+      "sha256": "ce901fcbeadccf545bffe61f1eb0ce3bc142b0a4bcaee2fc55515672d83bb7f1",
+      "width": 2000,
+      "height": 1124,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a61cf934d0a0d5f82c1e6f9e.jpg",
+        "sourceSha256": "a61cf934d0a0d5f82c1e6f9e305f3a5b01733e48ebbb8f3858a6ad7731a3ef8b",
+        "originalBytes": 252927,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-11-14T15:27:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168852",
+    "title": "hcpye_dbsaahwmt.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168852,
+      "url": "https://www.are.na/block/44168852",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcpye_dbsaahwmt.jpeg",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-11-14T15:27:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcpye_dbsaahwmt.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Polygon Controls",
+    "text": "Circle\nSize\nSolid\nLine Weight\nFill Color\nO\nLine Color\nShow Main Shape\nDuplication\nNumber of Copies\nDistance\nSecondary Shape\nShape\nSize\nRotation\nLine Style\nLine Weight\nPolygon Sides\n<\nSolid\nLine Color\nShow Secondary Shape\nDuplication\nNumber of Copies\nDistance\nAdd-Ons\nAdd Circles at Vertices",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ce901fcbeadccf545bffe61f1eb0ce3bc142b0a4bcaee2fc55515672d83bb7f1"
+  }
+}

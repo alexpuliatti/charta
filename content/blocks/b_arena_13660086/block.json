@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_13660086",
+  "type": "image",
+  "title": "Solar Gradient",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "solar-gradient",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bd2f8611d7707301243cb6b4.gif",
+      "mimeType": "image/gif",
+      "alt": "Solar Gradient",
+      "role": "original",
+      "bytes": 5227066,
+      "sha256": "bd2f8611d7707301243cb6b49b221788314aa55e90bb27408e0e2174753c3c54",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/13660086/original_c25e21093b09d176c249029e209b4d77.gif",
+      "originalName": "c25e21093b09d176c249029e209b4d77.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2021-10-21T16:17:50.000Z",
+  "updatedAt": "2026-11-14T22:38:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/13660086",
+    "title": "ezgif.com-gif-maker-11-.gif",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 13660086,
+      "url": "https://www.are.na/block/13660086",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ezgif.com-gif-maker-11-.gif",
+      "createdAt": "2021-10-21T16:17:50Z",
+      "updatedAt": "2026-11-14T22:38:25Z",
+      "addedBy": {
+        "id": 266154,
+        "name": "Max Sh",
+        "slug": "max-sh"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ezgif.com-gif-maker-11-.gif",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Solar Gradient",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bd2f8611d7707301243cb6b49b221788314aa55e90bb27408e0e2174753c3c54"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46563143",
+  "type": "link",
+  "title": "Kaavio Content",
+  "description": "Kaavio sources, validates, and deploys product content for B2B distributors and manufacturers. AI workflows that turn part numbers into market-ready catalogs.",
+  "category": "Companies",
+  "tags": [
+    "product-data",
+    "artificial-intelligence",
+    "b2b"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-d12e0697b0506c086dd066eb.webp",
+      "mimeType": "image/webp",
+      "alt": "AI Product Content for Distributors & Manufacturers | Kaavio",
+      "role": "thumbnail",
+      "bytes": 8180,
+      "sha256": "d12e0697b0506c086dd066ebff9143d90667aeca58b74f5c068a56b7bb1524af",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU2MzE0My9vcmlnaW5hbF8zNTU2YmU3NmMwNDgyMjE0OWJmNzU2MDZiYTA1ZGE2MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3556be76c04822149bf75606ba05da60.png"
+    },
+    {
+      "path": "assets/preview-05ea1decaea0e3a724047675.webp",
+      "mimeType": "image/webp",
+      "alt": "AI Product Content for Distributors & Manufacturers | Kaavio",
+      "role": "preview",
+      "bytes": 222002,
+      "sha256": "05ea1decaea0e3a72404767506f71bb56ff779bc7e4a2e7b10f8e29c7763fae1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46563143/original_3556be76c04822149bf75606ba05da60.png",
+      "originalName": "3556be76c04822149bf75606ba05da60.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 444188,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-28T16:45:25.000Z",
+  "updatedAt": "2026-05-28T16:45:34.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.kaavio.ai/",
+    "title": "AI Product Content for Distributors & Manufacturers | Kaavio",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46563143,
+      "url": "https://www.are.na/block/46563143",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "AI Product Content for Distributors & Manufacturers | Kaavio",
+      "createdAt": "2026-05-28T16:45:25Z",
+      "updatedAt": "2026-05-28T16:45:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Organizations",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "AI Product Content for Distributors & Manufacturers | Kaavio",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

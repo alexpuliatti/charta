@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40985043",
+  "type": "image",
+  "title": "Listening Sanctuary",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "listening-sanctuary",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a4607266949dc2b9d8aff2ce.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Listening Sanctuary",
+      "role": "original",
+      "bytes": 329904,
+      "sha256": "a4607266949dc2b9d8aff2ce9c860137cdf00e750cb2a0b373a01b59c134c269",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40985043/original_e33bff6b815dd900571b68d1c3f0715b.jpg",
+      "originalName": "e33bff6b815dd900571b68d1c3f0715b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0847348a9f400ec417e3ad5f.webp",
+      "mimeType": "image/webp",
+      "alt": "Listening Sanctuary",
+      "role": "thumbnail",
+      "bytes": 8788,
+      "sha256": "0847348a9f400ec417e3ad5f861940189ea52b73c37d498b4f28c6cf9135fde7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDk4NTA0My9vcmlnaW5hbF9lMzNiZmY2YjgxNWRkOTAwNTcxYjY4ZDFjM2YwNzE1Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e33bff6b815dd900571b68d1c3f0715b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a4607266949dc2b9d8aff2ce-a460726694.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Listening Sanctuary",
+      "bytes": 85630,
+      "sha256": "e1510b6e6f4a7249055457791862905bc97e3d2413839acaec0a38eedf8d3e64",
+      "width": 1173,
+      "height": 1466,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a4607266949dc2b9d8aff2ce.jpg",
+        "sourceSha256": "a4607266949dc2b9d8aff2ce9c860137cdf00e750cb2a0b373a01b59c134c269",
+        "originalBytes": 329904,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-10T01:41:27.000Z",
+  "updatedAt": "2026-07-21T04:27:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40985043",
+    "title": "img_2738.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40985043,
+      "url": "https://www.are.na/block/40985043",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "img_2738.jpg",
+      "createdAt": "2025-11-10T01:41:27Z",
+      "updatedAt": "2026-07-21T04:27:23Z",
+      "addedBy": {
+        "id": 276174,
+        "name": "DUNYA WORLDWIDE™",
+        "slug": "dunya-worldwide"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "img_2738.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Listening Sanctuary",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e1510b6e6f4a7249055457791862905bc97e3d2413839acaec0a38eedf8d3e64"
+  }
+}

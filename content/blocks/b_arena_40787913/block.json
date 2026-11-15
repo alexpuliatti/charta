@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787913",
+  "type": "image",
+  "title": "Plywood Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "plywood-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fc1810bb56128e519b92304b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Plywood Bedroom",
+      "role": "original",
+      "bytes": 397418,
+      "sha256": "fc1810bb56128e519b92304b7dab21dff7ad0e358ceda47e04bfd60de86420d0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787913/original_81eb6371f976b0e691899cd50b615d2e.jpg",
+      "originalName": "81eb6371f976b0e691899cd50b615d2e.jpg"
+    },
+    {
+      "path": "assets/thumbnail-21a75c1b1af18d5d5a0a7d3a.webp",
+      "mimeType": "image/webp",
+      "alt": "Plywood Bedroom",
+      "role": "thumbnail",
+      "bytes": 7964,
+      "sha256": "21a75c1b1af18d5d5a0a7d3afd790ac62c1dba1f3bbb02613cf66e1b85af3eb5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkxMy9vcmlnaW5hbF84MWViNjM3MWY5NzZiMGU2OTE4OTljZDUwYjYxNWQyZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "81eb6371f976b0e691899cd50b615d2e.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fc1810bb56128e519b92304b-fc1810bb56.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Plywood Bedroom",
+      "bytes": 153608,
+      "sha256": "b2287443da8ee82e363a03eae285752d0cfd73e345f61a03d7386e05362a3ca1",
+      "width": 1440,
+      "height": 1777,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fc1810bb56128e519b92304b.jpg",
+        "sourceSha256": "fc1810bb56128e519b92304b7dab21dff7ad0e358ceda47e04bfd60de86420d0",
+        "originalBytes": 397418,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:04:49.000Z",
+  "updatedAt": "2025-11-02T16:04:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787913",
+    "title": "industrialkonzept-20250107_095024-1037531006.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787913,
+      "url": "https://www.are.na/block/40787913",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20250107_095024-1037531006.jpg",
+      "createdAt": "2025-11-02T16:04:49Z",
+      "updatedAt": "2025-11-02T16:04:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20250107_095024-1037531006.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Plywood Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b2287443da8ee82e363a03eae285752d0cfd73e345f61a03d7386e05362a3ca1"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45192138",
+  "type": "link",
+  "title": "Interaction Question",
+  "description": "How dude how? Anybody can explain??  https://x.com/alexwidua/status/1630998774247030786/video/1 ",
+  "category": "Writing",
+  "tags": [
+    "interaction-design",
+    "video-reference",
+    "x-post"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9c3b8af7ed54fd4188b3a549.webp",
+      "mimeType": "image/webp",
+      "alt": "Interaction Question",
+      "role": "thumbnail",
+      "bytes": 5480,
+      "sha256": "9c3b8af7ed54fd4188b3a549a28a605a42b3d15700acf761b897f1a9d49e9776",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTE5MjEzOC9vcmlnaW5hbF9jNWVlY2ViMmE0NzQ4ZWU3MDdlMmMzMzU3NzBiMDVkNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c5eeceb2a4748ee707e2c335770b05d6.png"
+    },
+    {
+      "path": "assets/preview-170d62d1205be3600a785645.webp",
+      "mimeType": "image/webp",
+      "alt": "Tweet by @uixamjad",
+      "role": "preview",
+      "bytes": 55448,
+      "sha256": "170d62d1205be3600a7856458f8b214466a33d1711786f9eac70295b39e6ba8a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45192138/original_c5eeceb2a4748ee707e2c335770b05d6.png",
+      "originalName": "c5eeceb2a4748ee707e2c335770b05d6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 147084,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-11T09:46:44.000Z",
+  "updatedAt": "2026-04-11T09:46:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Read saved note or tweet body; title names its actual subject. Visually reviewed thumbnail repeats the saved tweet asking about an embedded video without showing it. Actual video subject is unavailable. Inspected the saved local thumbnail visually (saved-tweet-thumbnail)."
+  },
+  "source": {
+    "url": "https://x.com/uixamjad/status/2042694368205951185?s=20",
+    "title": "Tweet by @uixamjad",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45192138,
+      "url": "https://www.are.na/block/45192138",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Tweet by @uixamjad",
+      "createdAt": "2026-04-11T09:46:44Z",
+      "updatedAt": "2026-04-11T09:46:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "bodyPath": "body.md",
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Tweets",
+    "genre": "tweet",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "Tweet by @uixamjad",
+      "category": "Film and video",
+      "tags": [
+        "video",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "",
+    "text": "Tweet by uixamjad asks: How dude how? Anybody can explain? Links to an Alex Widua video. The video itself is not visible.",
+    "method": "saved-artifact-review",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_23645617",
+  "type": "image",
+  "title": "Render Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "render-controls",
+    "3d-design",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dfa164569e470a898e5b74f5.png",
+      "mimeType": "image/png",
+      "alt": "Render Controls",
+      "role": "original",
+      "bytes": 521801,
+      "sha256": "dfa164569e470a898e5b74f529246c372d9bd5c79e6eebc8495ddf0eb3044101",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/23645617/original_56b7d94947eae932a944449bffd41c78.png",
+      "originalName": "56b7d94947eae932a944449bffd41c78.png"
+    },
+    {
+      "path": "assets/thumbnail-36a157abccf038d15083e9fa.webp",
+      "mimeType": "image/webp",
+      "alt": "Render Controls",
+      "role": "thumbnail",
+      "bytes": 6390,
+      "sha256": "36a157abccf038d15083e9faa84a6c767299c6ea127e36cce15fb6e061bc3a27",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMzY0NTYxNy9vcmlnaW5hbF81NmI3ZDk0OTQ3ZWFlOTMyYTk0NDQ0OWJmZmQ0MWM3OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "56b7d94947eae932a944449bffd41c78.png"
+    },
+    {
+      "path": "assets/display-web-original-dfa164569e470a898e5b74f5-dfa164569e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Render Controls",
+      "bytes": 66768,
+      "sha256": "bcabb884be48deb850e9eed031cf0f8de9ef954519096f1c74a70e2327cc6fb5",
+      "width": 2000,
+      "height": 1373,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dfa164569e470a898e5b74f5.png",
+        "sourceSha256": "dfa164569e470a898e5b74f529246c372d9bd5c79e6eebc8495ddf0eb3044101",
+        "originalBytes": 521801,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-09-15T13:09:57.000Z",
+  "updatedAt": "2026-11-14T01:08:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/23645617",
+    "title": "⒇⑵⑶——3D simulator by @abarabonova",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 23645617,
+      "url": "https://www.are.na/block/23645617",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "⒇⑵⑶——3D simulator by @abarabonova",
+      "createdAt": "2023-09-15T13:09:57Z",
+      "updatedAt": "2026-11-14T01:08:29Z",
+      "addedBy": {
+        "id": 208091,
+        "name": "sasha barabonova",
+        "slug": "sasha-barabonova"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "⒇⑵⑶——3D simulator by @abarabonova",
+      "category": "3D and computational design",
+      "tags": [
+        "3d-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Render Controls",
+    "text": "DI\nObject settings\nSize\nRadius\n230x\n240 Y\n235z\nZ\nRender settings\n1440 width\n600 height\nRender\n1x",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bcabb884be48deb850e9eed031cf0f8de9ef954519096f1c74a70e2327cc6fb5"
+  }
+}

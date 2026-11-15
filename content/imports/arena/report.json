@@ -1,0 +1,885 @@
+{
+  "schemaVersion": 1,
+  "importedAt": "2026-11-15T11:34:12.640Z",
+  "sourceUser": {
+    "id": 161174,
+    "name": "A P",
+    "slug": "a-p-8ilc0lfnvlk"
+  },
+  "accountChannels": 15,
+  "linkedChannelReferences": 62,
+  "materials": 1016,
+  "sourceIssues": [
+    {
+      "resource": "channel-count",
+      "id": 2000307,
+      "fetched": 198,
+      "expected": 204
+    },
+    {
+      "resource": "channel-count",
+      "id": 4408530,
+      "fetched": 66,
+      "expected": 67
+    },
+    {
+      "resource": "channel-count",
+      "id": 4921285,
+      "fetched": 15,
+      "expected": 16
+    }
+  ],
+  "media": {
+    "originals": 771,
+    "thumbnails": 991,
+    "cached": 1761,
+    "bytes": 1250770862,
+    "failures": [],
+    "embeddedVideos": [
+      {
+        "id": 46013039,
+        "source": "https://www.youtube.com/shorts/ZOxeXsuImJg",
+        "localOriginalAvailable": false
+      },
+      {
+        "id": 45895365,
+        "source": "https://www.youtube.com/watch?v=FxLLRWIEaDU",
+        "localOriginalAvailable": false
+      }
+    ]
+  },
+  "classification": {
+    "channels": 77,
+    "blocks": 1016,
+    "categorized": 1016,
+    "tagged": 1016,
+    "contextFallbacks": 0,
+    "categories": {
+      "3D and computational design": 2,
+      "Architecture": 22,
+      "Art": 6,
+      "Audio design": 78,
+      "Books and publishing": 5,
+      "Digital design": 146,
+      "Fashion": 3,
+      "Film and video": 1,
+      "Graphic design": 417,
+      "Health and neurotechnology": 24,
+      "Illustration": 2,
+      "Information design": 106,
+      "Interiors": 71,
+      "Motion design": 11,
+      "Music and sound": 1,
+      "Nature and science": 1,
+      "Objects and materials": 10,
+      "Photography": 1,
+      "Speculative design": 14,
+      "Technology": 32,
+      "Tools and resources": 42,
+      "Typography": 2,
+      "Writing and ideas": 19
+    },
+    "visuallyReviewed": 2
+  },
+  "connectionCounts": {
+    "7469": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 415,
+      "reference": true
+    },
+    "78535": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 1354,
+      "reference": true
+    },
+    "88133": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 15,
+      "reference": true
+    },
+    "114272": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 214,
+      "reference": true
+    },
+    "137322": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 45,
+      "reference": true
+    },
+    "140121": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 63,
+      "reference": true
+    },
+    "201965": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 1714,
+      "reference": true
+    },
+    "203987": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 36,
+      "reference": true
+    },
+    "218689": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 27,
+      "reference": true
+    },
+    "231009": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 66,
+      "reference": true
+    },
+    "247932": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 154,
+      "reference": true
+    },
+    "383381": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 38,
+      "reference": true
+    },
+    "426946": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 83,
+      "reference": true
+    },
+    "441681": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 436,
+      "reference": true
+    },
+    "445515": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 97,
+      "reference": true
+    },
+    "482179": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 72,
+      "reference": true
+    },
+    "553817": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 1178,
+      "reference": true
+    },
+    "555475": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 16,
+      "reference": true
+    },
+    "566536": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 475,
+      "reference": true
+    },
+    "586653": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 6,
+      "reference": true
+    },
+    "673770": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 377,
+      "reference": true
+    },
+    "749994": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 988,
+      "reference": true
+    },
+    "878779": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 135,
+      "reference": true
+    },
+    "930385": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 261,
+      "reference": true
+    },
+    "952143": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 77,
+      "reference": true
+    },
+    "959255": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 109,
+      "reference": true
+    },
+    "979227": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 356,
+      "reference": true
+    },
+    "1003657": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 148,
+      "reference": true
+    },
+    "1064143": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 433,
+      "reference": true
+    },
+    "1134714": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 200,
+      "reference": true
+    },
+    "1189681": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 215,
+      "reference": true
+    },
+    "1309829": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 147,
+      "reference": true
+    },
+    "1328839": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 287,
+      "reference": true
+    },
+    "1353190": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 101,
+      "reference": true
+    },
+    "1371610": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 226,
+      "reference": true
+    },
+    "1391443": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 1007,
+      "reference": true
+    },
+    "1587787": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 356,
+      "reference": true
+    },
+    "1608053": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 1205,
+      "reference": true
+    },
+    "1675896": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 995,
+      "reference": true
+    },
+    "1683212": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 177,
+      "reference": true
+    },
+    "1683676": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 175,
+      "reference": true
+    },
+    "1739787": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 541,
+      "reference": true
+    },
+    "1742887": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 305,
+      "reference": true
+    },
+    "2000307": {
+      "blocks": 155,
+      "linkedChannels": 43,
+      "sourceReported": 204,
+      "reference": false
+    },
+    "2006306": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 209,
+      "reference": true
+    },
+    "2037566": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 411,
+      "reference": true
+    },
+    "2132541": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 68,
+      "reference": true
+    },
+    "2291463": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 638,
+      "reference": true
+    },
+    "2551557": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 56,
+      "reference": true
+    },
+    "2572187": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 20,
+      "reference": true
+    },
+    "2934705": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 264,
+      "reference": true
+    },
+    "3253868": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 38,
+      "reference": true
+    },
+    "3273874": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 127,
+      "reference": true
+    },
+    "3670849": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 190,
+      "reference": true
+    },
+    "3763862": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 31,
+      "reference": true
+    },
+    "3784127": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 13,
+      "reference": true
+    },
+    "3790168": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 42,
+      "reference": true
+    },
+    "3935370": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 153,
+      "reference": true
+    },
+    "3962664": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 82,
+      "reference": true
+    },
+    "4402851": {
+      "blocks": 29,
+      "linkedChannels": 5,
+      "sourceReported": 34,
+      "reference": false
+    },
+    "4402875": {
+      "blocks": 27,
+      "linkedChannels": 1,
+      "sourceReported": 28,
+      "reference": false
+    },
+    "4403184": {
+      "blocks": 137,
+      "linkedChannels": 4,
+      "sourceReported": 141,
+      "reference": false
+    },
+    "4408530": {
+      "blocks": 65,
+      "linkedChannels": 1,
+      "sourceReported": 67,
+      "reference": false
+    },
+    "4408633": {
+      "blocks": 74,
+      "linkedChannels": 0,
+      "sourceReported": 74,
+      "reference": false
+    },
+    "4491641": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 192,
+      "reference": true
+    },
+    "4534393": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 177,
+      "reference": true
+    },
+    "4555597": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 4,
+      "reference": true
+    },
+    "4879085": {
+      "blocks": 20,
+      "linkedChannels": 3,
+      "sourceReported": 23,
+      "reference": false
+    },
+    "4894594": {
+      "blocks": 361,
+      "linkedChannels": 0,
+      "sourceReported": 361,
+      "reference": false
+    },
+    "4921285": {
+      "blocks": 9,
+      "linkedChannels": 6,
+      "sourceReported": 16,
+      "reference": false
+    },
+    "4956319": {
+      "blocks": 0,
+      "linkedChannels": 0,
+      "sourceReported": 450,
+      "reference": true
+    },
+    "5144967": {
+      "blocks": 10,
+      "linkedChannels": 0,
+      "sourceReported": 10,
+      "reference": false
+    },
+    "5161126": {
+      "blocks": 20,
+      "linkedChannels": 1,
+      "sourceReported": 21,
+      "reference": false
+    },
+    "5164043": {
+      "blocks": 10,
+      "linkedChannels": 0,
+      "sourceReported": 10,
+      "reference": false
+    },
+    "5168602": {
+      "blocks": 59,
+      "linkedChannels": 1,
+      "sourceReported": 60,
+      "reference": false
+    },
+    "5397650": {
+      "blocks": 1,
+      "linkedChannels": 0,
+      "sourceReported": 1,
+      "reference": false
+    },
+    "5415870": {
+      "blocks": 51,
+      "linkedChannels": 0,
+      "sourceReported": 51,
+      "reference": false
+    }
+  },
+  "privateChannels": [],
+  "unfiledMaterials": 2,
+  "reconciliation": {
+    "primaryChannels": 15,
+    "referenceChannels": 62,
+    "channelsByScope": {
+      "account": 15,
+      "reference": 62
+    },
+    "uniqueBlocks": 1016,
+    "blockRecordDuplicates": 0,
+    "userCreatedBlockCount": 948,
+    "otherAuthorsBlockCount": 68,
+    "uniqueBlocksInPrimaryChannels": 1014,
+    "blocksOutsidePrimaryChannels": 2,
+    "accountInventory": {
+      "reportedOwnedChannels": 15,
+      "ownedChannelsEndpoint": {
+        "fetched": 15,
+        "expected": 15
+      },
+      "createdBlocksEndpoint": {
+        "fetched": 938,
+        "expected": 938
+      }
+    },
+    "blockConnections": {
+      "reported": 1028,
+      "returned": 1028,
+      "allCountsMatch": true
+    },
+    "channelConnections": {
+      "reported": 73,
+      "returned": 65
+    },
+    "missingChannelRefCount": 8,
+    "missingChannelRefs": [
+      {
+        "channelId": 2000307,
+        "title": "visualizzare il sapere",
+        "reported": 49,
+        "returned": 43,
+        "missing": 6
+      },
+      {
+        "channelId": 4408530,
+        "title": "speakers",
+        "reported": 2,
+        "returned": 1,
+        "missing": 1
+      },
+      {
+        "channelId": 4921285,
+        "title": "objects",
+        "reported": 7,
+        "returned": 6,
+        "missing": 1
+      }
+    ],
+    "unresolvedMaterialReferenceIds": [],
+    "unresolvedChannelReferenceIds": [],
+    "channels": [
+      {
+        "id": 2000307,
+        "title": "visualizzare il sapere",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 155,
+        "returnedBlocks": 155,
+        "blockDifference": 0,
+        "reportedChannels": 49,
+        "returnedChannels": 43,
+        "channelDifference": 6,
+        "reportedContents": 204,
+        "returnedContents": 198,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4402851,
+        "title": "utopia",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 29,
+        "returnedBlocks": 29,
+        "blockDifference": 0,
+        "reportedChannels": 5,
+        "returnedChannels": 5,
+        "channelDifference": 0,
+        "reportedContents": 34,
+        "returnedContents": 34,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4402875,
+        "title": "leggi",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 27,
+        "returnedBlocks": 27,
+        "blockDifference": 0,
+        "reportedChannels": 1,
+        "returnedChannels": 1,
+        "channelDifference": 0,
+        "reportedContents": 28,
+        "returnedContents": 28,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4403184,
+        "title": "interfaces",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 137,
+        "returnedBlocks": 137,
+        "blockDifference": 0,
+        "reportedChannels": 4,
+        "returnedChannels": 4,
+        "channelDifference": 0,
+        "reportedContents": 141,
+        "returnedContents": 141,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4408530,
+        "title": "speakers",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 65,
+        "returnedBlocks": 65,
+        "blockDifference": 0,
+        "reportedChannels": 2,
+        "returnedChannels": 1,
+        "channelDifference": 1,
+        "reportedContents": 67,
+        "returnedContents": 66,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4408633,
+        "title": "interior",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 74,
+        "returnedBlocks": 74,
+        "blockDifference": 0,
+        "reportedChannels": 0,
+        "returnedChannels": 0,
+        "channelDifference": 0,
+        "reportedContents": 74,
+        "returnedContents": 74,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4879085,
+        "title": "arch",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 20,
+        "returnedBlocks": 20,
+        "blockDifference": 0,
+        "reportedChannels": 3,
+        "returnedChannels": 3,
+        "channelDifference": 0,
+        "reportedContents": 23,
+        "returnedContents": 23,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4894594,
+        "title": "materiali-grafici",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 361,
+        "returnedBlocks": 361,
+        "blockDifference": 0,
+        "reportedChannels": 0,
+        "returnedChannels": 0,
+        "channelDifference": 0,
+        "reportedContents": 361,
+        "returnedContents": 361,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 4921285,
+        "title": "objects",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 9,
+        "returnedBlocks": 9,
+        "blockDifference": 0,
+        "reportedChannels": 7,
+        "returnedChannels": 6,
+        "channelDifference": 1,
+        "reportedContents": 16,
+        "returnedContents": 15,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 5144967,
+        "title": "motion",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 10,
+        "returnedBlocks": 10,
+        "blockDifference": 0,
+        "reportedChannels": 0,
+        "returnedChannels": 0,
+        "channelDifference": 0,
+        "reportedContents": 10,
+        "returnedContents": 10,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 5161126,
+        "title": "drea-deva-speaker",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 20,
+        "returnedBlocks": 20,
+        "blockDifference": 0,
+        "reportedChannels": 1,
+        "returnedChannels": 1,
+        "channelDifference": 0,
+        "reportedContents": 21,
+        "returnedContents": 21,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 5164043,
+        "title": "MH-companies",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 10,
+        "returnedBlocks": 10,
+        "blockDifference": 0,
+        "reportedChannels": 0,
+        "returnedChannels": 0,
+        "channelDifference": 0,
+        "reportedContents": 10,
+        "returnedContents": 10,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 5168602,
+        "title": "design-tools",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 59,
+        "returnedBlocks": 59,
+        "blockDifference": 0,
+        "reportedChannels": 1,
+        "returnedChannels": 1,
+        "channelDifference": 0,
+        "reportedContents": 60,
+        "returnedContents": 60,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 5397650,
+        "title": "tweets",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 1,
+        "returnedBlocks": 1,
+        "blockDifference": 0,
+        "reportedChannels": 0,
+        "returnedChannels": 0,
+        "channelDifference": 0,
+        "reportedContents": 1,
+        "returnedContents": 1,
+        "unknownContentRows": 0
+      },
+      {
+        "id": 5415870,
+        "title": "copertine",
+        "scope": "account",
+        "contentsFetched": true,
+        "reportedBlocks": 51,
+        "returnedBlocks": 51,
+        "blockDifference": 0,
+        "reportedChannels": 0,
+        "returnedChannels": 0,
+        "channelDifference": 0,
+        "reportedContents": 51,
+        "returnedContents": 51,
+        "unknownContentRows": 0
+      }
+    ],
+    "conclusion": "Differences compare reported resource counts with returned rows. They do not establish whether absent channel references are private, deleted, inaccessible, or stale counts."
+  },
+  "completedAt": "2026-11-15T11:34:16.208Z",
+  "validation": {
+    "materials": 1016,
+    "collections": 78,
+    "folders": 6,
+    "tagged": 1016,
+    "assets": 2459,
+    "originals": 771,
+    "thumbnails": 991,
+    "optimized": 697,
+    "archiveAssetBytes": 1475158431,
+    "externalReferences": 62,
+    "graph": {
+      "shownNodes": 200,
+      "totalNodes": 1016,
+      "shownEdges": 1200,
+      "totalEdges": 7806
+    },
+    "validatedAt": "2026-11-15T11:51:01.267Z",
+    "assetChecksumsVerified": true
+  },
+  "publication": {
+    "bundleBytes": 256134257,
+    "bundleFiles": 2823,
+    "originalFilesRetainedInRepository": 771,
+    "liveDeploymentPerformed": false
+  },
+  "optimization": {
+    "images": {
+      "candidates": 663,
+      "optimized": 624,
+      "cached": 0,
+      "animatedOriginal": 11,
+      "smallerOriginal": 28,
+      "failed": 0
+    },
+    "videos": {
+      "candidates": 93,
+      "optimized": 73,
+      "cached": 0,
+      "smallerOriginal": 20,
+      "failed": 0
+    },
+    "originalImageVideoBytes": 1179370939,
+    "browserImageVideoBytes": 398406071,
+    "bytesSavedForBrowsing": 780964868
+  }
+}

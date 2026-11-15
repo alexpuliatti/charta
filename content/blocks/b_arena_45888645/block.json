@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888645",
+  "type": "image",
+  "title": "Mobile Banking",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "mobile-banking",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1a7f225a8c0fa314971d092e.png",
+      "mimeType": "image/png",
+      "alt": "Mobile Banking",
+      "role": "original",
+      "bytes": 68801,
+      "sha256": "1a7f225a8c0fa314971d092ecb6d2dbc6ee8a8d2845187aa22a7d77aa633807e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888645/original_68c191254b03164d25224f32a131667c.png",
+      "originalName": "68c191254b03164d25224f32a131667c.png"
+    },
+    {
+      "path": "assets/thumbnail-8b94e597b4b8003daad43e1a.webp",
+      "mimeType": "image/webp",
+      "alt": "Mobile Banking",
+      "role": "thumbnail",
+      "bytes": 3548,
+      "sha256": "8b94e597b4b8003daad43e1a688743b9509a3aeb385c37606a2b23c1e0bd96bd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY0NS9vcmlnaW5hbF82OGMxOTEyNTRiMDMxNjRkMjUyMjRmMzJhMTMxNjY3Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "68c191254b03164d25224f32a131667c.png"
+    },
+    {
+      "path": "assets/display-web-original-1a7f225a8c0fa314971d092e-1a7f225a8c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mobile Banking",
+      "bytes": 42826,
+      "sha256": "fdef683309dfb871303675770a25286ad018d19bbee79c0b20a1f8816ab26e36",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1a7f225a8c0fa314971d092e.png",
+        "sourceSha256": "1a7f225a8c0fa314971d092ecb6d2dbc6ee8a8d2845187aa22a7d77aa633807e",
+        "originalBytes": 68801,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:52.000Z",
+  "updatedAt": "2026-05-06T12:24:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888645",
+    "title": "heyzm4ba4aaeuuw.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888645,
+      "url": "https://www.are.na/block/45888645",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "heyzm4ba4aaeuuw.png",
+      "createdAt": "2026-05-06T12:24:52Z",
+      "updatedAt": "2026-05-06T12:24:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "heyzm4ba4aaeuuw.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mobile Banking",
+    "text": "9:41\nDANIEL C.\nDANIELC@GMAIL.COM\nSAVINGS\n$ 257,104.00\nASSETS\n$ 5,007,000.00\nBALANCE TRACKER\nINCOME (PAST 30D)\n20% MORE THAN LAST MONTH\nEXPENSES (PAST 30D)\n10% MORE THAN LAST MONTH\nAI -POWERED TOOLS\nSMART FINANCE ADVISOR\nDO RISK ASSESSMENT\n• ..\nPORTFOLIO ANALYSIS\n•ll\nACCOUNT BALANCE\n$ 11,257, 104.00\nINVESTMENTS\n$ 5,105,000.00\nOTHERS\n$\n888000.00\n$557,250.00\n$25,500.00\n>",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "fdef683309dfb871303675770a25286ad018d19bbee79c0b20a1f8816ab26e36"
+  }
+}

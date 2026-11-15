@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787248",
+  "type": "image",
+  "title": "Metal Horns",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "metal-horns",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ebc3e431ae08c1ea7356e6c9.png",
+      "mimeType": "image/png",
+      "alt": "Metal Horns",
+      "role": "original",
+      "bytes": 4390691,
+      "sha256": "ebc3e431ae08c1ea7356e6c90ab11a9fd656965a5d0cb9c6c144539656a4114f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787248/original_967bb952b531d9d13e2a68ceccf82fef.png",
+      "originalName": "967bb952b531d9d13e2a68ceccf82fef.png"
+    },
+    {
+      "path": "assets/thumbnail-514820c84b9eb031edfc47cf.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Horns",
+      "role": "thumbnail",
+      "bytes": 14998,
+      "sha256": "514820c84b9eb031edfc47cfd3ecd5f3b67fab2d9d01e40874d66025e3bd5c29",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzI0OC9vcmlnaW5hbF85NjdiYjk1MmI1MzFkOWQxM2UyYTY4Y2VjY2Y4MmZlZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "967bb952b531d9d13e2a68ceccf82fef.png"
+    },
+    {
+      "path": "assets/display-web-original-ebc3e431ae08c1ea7356e6c9-ebc3e431ae.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Horns",
+      "bytes": 333262,
+      "sha256": "efffcf026a53998ff5d250e11f6b00191e86d5f3bb24cc305274226b18d4f3f7",
+      "width": 1308,
+      "height": 1874,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ebc3e431ae08c1ea7356e6c9.png",
+        "sourceSha256": "ebc3e431ae08c1ea7356e6c90ab11a9fd656965a5d0cb9c6c144539656a4114f",
+        "originalBytes": 4390691,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:35:04.000Z",
+  "updatedAt": "2025-11-02T15:35:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787248",
+    "title": "screenshot-2025-11-02-alle-15.34.08.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787248,
+      "url": "https://www.are.na/block/40787248",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2025-11-02-alle-15.34.08.png",
+      "createdAt": "2025-11-02T15:35:04Z",
+      "updatedAt": "2025-11-02T15:35:07Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2025-11-02-alle-15.34.08.png",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Horns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "efffcf026a53998ff5d250e11f6b00191e86d5f3bb24cc305274226b18d4f3f7"
+  }
+}

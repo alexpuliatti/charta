@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247042",
+  "type": "image",
+  "title": "Material Picker",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "material-picker",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-733a8f5d7745e1d3942571aa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Material Picker",
+      "role": "original",
+      "bytes": 35011,
+      "sha256": "733a8f5d7745e1d3942571aa6d9b881c0a75cb4e0be6999e691fa79f7409556c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247042/original_771b6d56ae1709f665f6cb5274ec3cda.jpg",
+      "originalName": "771b6d56ae1709f665f6cb5274ec3cda.jpg"
+    },
+    {
+      "path": "assets/thumbnail-657cca888c3d53d4a818eebb.webp",
+      "mimeType": "image/webp",
+      "alt": "Material Picker",
+      "role": "thumbnail",
+      "bytes": 3312,
+      "sha256": "657cca888c3d53d4a818eebb06eff3fb50e8c747e17b94d85edcf022421afa60",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0Mi9vcmlnaW5hbF83NzFiNmQ1NmFlMTcwOWY2NjVmNmNiNTI3NGVjM2NkYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "771b6d56ae1709f665f6cb5274ec3cda.jpg"
+    },
+    {
+      "path": "assets/display-web-original-733a8f5d7745e1d3942571aa-733a8f5d77.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Material Picker",
+      "bytes": 21358,
+      "sha256": "513686c270d23975019651a9e475e61c9d3c1c08d7c39d3c12fc8bd567ee98c6",
+      "width": 1200,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-733a8f5d7745e1d3942571aa.jpg",
+        "sourceSha256": "733a8f5d7745e1d3942571aa6d9b881c0a75cb4e0be6999e691fa79f7409556c",
+        "originalBytes": 35011,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247042",
+    "title": "cad4cf15fe3addeb057808a180317e9e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247042,
+      "url": "https://www.are.na/block/44247042",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "cad4cf15fe3addeb057808a180317e9e.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "cad4cf15fe3addeb057808a180317e9e.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Material Picker",
+    "text": "View\nChoose s circles vou're interested in to\nhelp personalize your gather' circles.\nContemporary\nDance\nChoose 3 more circles\nSkip this",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "513686c270d23975019651a9e475e61c9d3c1c08d7c39d3c12fc8bd567ee98c6"
+  }
+}

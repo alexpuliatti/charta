@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888265",
+  "type": "image",
+  "title": "Atmospheric Hall",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "atmospheric-hall",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-75a872c8e5a2bf4305b985db.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Atmospheric Hall",
+      "role": "original",
+      "bytes": 94155,
+      "sha256": "75a872c8e5a2bf4305b985db73b3dda2d847929b637454bf605bc9d4b156043a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888265/original_7a862df21bf616d7e2353092d27da32e.jpeg",
+      "originalName": "7a862df21bf616d7e2353092d27da32e.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0a83020ad73b1de4b03d7c21.webp",
+      "mimeType": "image/webp",
+      "alt": "Atmospheric Hall",
+      "role": "thumbnail",
+      "bytes": 5950,
+      "sha256": "0a83020ad73b1de4b03d7c210dfae1f9c8e66a09425c21f5f2b0a6881eb3789e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODI2NS9vcmlnaW5hbF83YTg2MmRmMjFiZjYxNmQ3ZTIzNTMwOTJkMjdkYTMyZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7a862df21bf616d7e2353092d27da32e.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-75a872c8e5a2bf4305b985db-75a872c8e5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Atmospheric Hall",
+      "bytes": 54958,
+      "sha256": "f814790f4cff4a6d0d445c90b2b8648e9927b4fd53bb9ae91e8d2db9912554b5",
+      "width": 1080,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-75a872c8e5a2bf4305b985db.jpg",
+        "sourceSha256": "75a872c8e5a2bf4305b985db73b3dda2d847929b637454bf605bc9d4b156043a",
+        "originalBytes": 94155,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:11:13.000Z",
+  "updatedAt": "2026-05-06T12:11:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888265",
+    "title": "hhkeg8hwuamxx74.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888265,
+      "url": "https://www.are.na/block/45888265",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhkeg8hwuamxx74.jpeg",
+      "createdAt": "2026-05-06T12:11:13Z",
+      "updatedAt": "2026-05-06T12:11:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhkeg8hwuamxx74.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Atmospheric Hall",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f814790f4cff4a6d0d445c90b2b8648e9927b4fd53bb9ae91e8d2db9912554b5"
+  }
+}

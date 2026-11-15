@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890380",
+  "type": "link",
+  "title": "Pieoneer Launcher",
+  "description": "Let your apps fly—in a pie",
+  "category": "Interface design",
+  "tags": [
+    "macos",
+    "launcher",
+    "pie-menu"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a94afabf54a87ac3494a8a98.webp",
+      "mimeType": "image/webp",
+      "alt": "Pieoneer",
+      "role": "thumbnail",
+      "bytes": 9310,
+      "sha256": "a94afabf54a87ac3494a8a98f642054fe8a87a53c2983bd1f52f3e501e57d6fd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDM4MC9vcmlnaW5hbF9iYWJhNzI0YTJjY2E0MzA4YTU4NmZiZjI0YjVkNzRiZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "baba724a2cca4308a586fbf24b5d74bd.png"
+    },
+    {
+      "path": "assets/preview-6de57ccd7aeaf27e6e07cb59.webp",
+      "mimeType": "image/webp",
+      "alt": "Pieoneer",
+      "role": "preview",
+      "bytes": 229972,
+      "sha256": "6de57ccd7aeaf27e6e07cb59f9b741a02f2b15ec9878f9fe785ee8794fc2605b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890380/original_baba724a2cca4308a586fbf24b5d74bd.png",
+      "originalName": "baba724a2cca4308a586fbf24b5d74bd.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1003176,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:34:56.000Z",
+  "updatedAt": "2026-05-06T13:35:06.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://macfolio.com/item/pieoneer-let-your-apps-flyin-a-pie",
+    "title": "Pieoneer",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890380,
+      "url": "https://www.are.na/block/45890380",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Pieoneer",
+      "createdAt": "2026-05-06T13:34:56Z",
+      "updatedAt": "2026-05-06T13:35:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Pieoneer",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890041",
+  "type": "image",
+  "title": "Steel Kitchen",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "steel-kitchen",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-00ed661e2cf1890f7ac15cd8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Steel Kitchen",
+      "role": "original",
+      "bytes": 48038,
+      "sha256": "00ed661e2cf1890f7ac15cd8e05713554642541e1de8b4d1594babb0f5b8cb35",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890041/original_d0cd39c944978f4e8b8ae8929aa66d2b.jpeg",
+      "originalName": "d0cd39c944978f4e8b8ae8929aa66d2b.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-3afaf37fc675584c1463cb72.webp",
+      "mimeType": "image/webp",
+      "alt": "Steel Kitchen",
+      "role": "thumbnail",
+      "bytes": 5508,
+      "sha256": "3afaf37fc675584c1463cb72ecb9f80d98ca70b376e4236987fccd6a817bd397",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDA0MS9vcmlnaW5hbF9kMGNkMzljOTQ0OTc4ZjRlOGI4YWU4OTI5YWE2NmQyYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d0cd39c944978f4e8b8ae8929aa66d2b.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-00ed661e2cf1890f7ac15cd8-00ed661e2c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Steel Kitchen",
+      "bytes": 24696,
+      "sha256": "531e3d0503c3541f590c8f642dda837fa9b381ceb514b0406fbf6bfa9ea1765e",
+      "width": 750,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-00ed661e2cf1890f7ac15cd8.jpg",
+        "sourceSha256": "00ed661e2cf1890f7ac15cd8e05713554642541e1de8b4d1594babb0f5b8cb35",
+        "originalBytes": 48038,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:21:22.000Z",
+  "updatedAt": "2026-07-15T17:49:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890041",
+    "title": "c4104e31942b7ed008744b04fa05ef1b.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890041,
+      "url": "https://www.are.na/block/45890041",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c4104e31942b7ed008744b04fa05ef1b.jpg",
+      "createdAt": "2026-05-06T13:21:22Z",
+      "updatedAt": "2026-07-15T17:49:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c4104e31942b7ed008744b04fa05ef1b.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Steel Kitchen",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "531e3d0503c3541f590c8f642dda837fa9b381ceb514b0406fbf6bfa9ea1765e"
+  }
+}

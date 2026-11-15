@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892696",
+  "type": "video",
+  "title": "Woven Circuit",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "woven-circuit",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-522c11380b7dee6b63dbac2a.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778078693036.mp4",
+      "role": "original",
+      "bytes": 731843,
+      "sha256": "522c11380b7dee6b63dbac2a2d8b90e428de5ff6b1404b621b627bde531e2bd4",
+      "sourceUrl": "https://attachments.are.na/45892696/d7e370d5b1d48e5b9e12d361432b04fa.mp4",
+      "originalName": "d7e370d5b1d48e5b9e12d361432b04fa.mp4"
+    },
+    {
+      "path": "assets/thumbnail-8a3048e90e31b2d3a635bfbd.webp",
+      "mimeType": "image/webp",
+      "alt": "Woven Circuit",
+      "role": "thumbnail",
+      "bytes": 44118,
+      "sha256": "8a3048e90e31b2d3a635bfbdd1e64c2b053ae297e4d7fd57db3a5b9d808af239",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjY5Ni9vcmlnaW5hbF9kMjg2NDk2NGNlZTU2ZDRhMjAyNjA1MDYtMi12ZmFiMnoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d2864964cee56d4a20260506-2-vfab2z.png"
+    },
+    {
+      "path": "assets/preview-6e65a3de0e4ccebaa26038d1.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778078693036.mp4",
+      "role": "preview",
+      "bytes": 242092,
+      "sha256": "6e65a3de0e4ccebaa26038d11a49e9383b65cbce9ab3dbd646fe6661902e1718",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892696/original_d2864964cee56d4a20260506-2-vfab2z.png",
+      "originalName": "d2864964cee56d4a20260506-2-vfab2z.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1705779,
+        "width": 720,
+        "height": 884,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:45:09.000Z",
+  "updatedAt": "2026-05-06T14:45:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45892696",
+    "title": "ssstwitter.com_1778078693036.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892696,
+      "url": "https://www.are.na/block/45892696",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778078693036.mp4",
+      "createdAt": "2026-05-06T14:45:09Z",
+      "updatedAt": "2026-05-06T14:45:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778078693036.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Woven Circuit",
+    "text": "SIST",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8a3048e90e31b2d3a635bfbdd1e64c2b053ae297e4d7fd57db3a5b9d808af239"
+  }
+}

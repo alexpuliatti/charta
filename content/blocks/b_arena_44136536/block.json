@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136536",
+  "type": "image",
+  "title": "Paracelsus Cover",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "paracelsus-cover",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-44d381ca3d341884af533723.png",
+      "mimeType": "image/png",
+      "alt": "Paracelsus Cover",
+      "role": "original",
+      "bytes": 645646,
+      "sha256": "44d381ca3d341884af53372350285675ce9950d2c0b1b04308cc5d8bc4c23b06",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136536/original_512230df0e3f0e64f1800125a0a0e33f.png",
+      "originalName": "512230df0e3f0e64f1800125a0a0e33f.png"
+    },
+    {
+      "path": "assets/thumbnail-084d84043f10b05c4e39ecbf.webp",
+      "mimeType": "image/webp",
+      "alt": "Paracelsus Cover",
+      "role": "thumbnail",
+      "bytes": 6156,
+      "sha256": "084d84043f10b05c4e39ecbfadf71b1f4f12353260f747dabad712dc8e80cfb6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjUzNi9vcmlnaW5hbF81MTIyMzBkZjBlM2YwZTY0ZjE4MDAxMjVhMGEwZTMzZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "512230df0e3f0e64f1800125a0a0e33f.png"
+    },
+    {
+      "path": "assets/display-web-original-44d381ca3d341884af533723-44d381ca3d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Paracelsus Cover",
+      "bytes": 29394,
+      "sha256": "b8a5d8954c14f8e5e56562f77c00f41ba18331ec26de5a48c07b136a56331f67",
+      "width": 970,
+      "height": 1294,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-44d381ca3d341884af533723.png",
+        "sourceSha256": "44d381ca3d341884af53372350285675ce9950d2c0b1b04308cc5d8bc4c23b06",
+        "originalBytes": 645646,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:23:36.000Z",
+  "updatedAt": "2026-03-04T15:23:40.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136536",
+    "title": "screenshot-2026-03-04-alle-16.20.00.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136536,
+      "url": "https://www.are.na/block/44136536",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.20.00.png",
+      "createdAt": "2026-03-04T15:23:36Z",
+      "updatedAt": "2026-03-04T15:23:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.20.00.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Paracelsus Cover",
+    "text": "Paracelsus\nSelected Writings\nSecond Edition, Revised\nEdited by Jolande Jacobi\nBollingen Series XX VIII\nPantheon Books",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b8a5d8954c14f8e5e56562f77c00f41ba18331ec26de5a48c07b136a56331f67"
+  }
+}

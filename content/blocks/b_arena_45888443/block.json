@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888443",
+  "type": "image",
+  "title": "Pocket Radio",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "pocket-radio",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-29f95886302101ebab102cce.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Pocket Radio",
+      "role": "original",
+      "bytes": 97492,
+      "sha256": "29f95886302101ebab102ccec372f64ca8d3da5d5145baf773f8c4527055c956",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888443/original_63477d0751d01c6121bb353beccc2019.jpeg",
+      "originalName": "63477d0751d01c6121bb353beccc2019.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c3465486d6b68edab152c294.webp",
+      "mimeType": "image/webp",
+      "alt": "Pocket Radio",
+      "role": "thumbnail",
+      "bytes": 4702,
+      "sha256": "c3465486d6b68edab152c29484091e8e6ae7897cfdc5c2a0afb5fe1c38475370",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0My9vcmlnaW5hbF82MzQ3N2QwNzUxZDAxYzYxMjFiYjM1M2JlY2NjMjAxOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "63477d0751d01c6121bb353beccc2019.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-29f95886302101ebab102cce-29f9588630.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pocket Radio",
+      "bytes": 64044,
+      "sha256": "a9712d5c76bb19069d7a38252e00a2894307da93f5ed80d8ab983297dbb99f4d",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-29f95886302101ebab102cce.jpg",
+        "sourceSha256": "29f95886302101ebab102ccec372f64ca8d3da5d5145baf773f8c4527055c956",
+        "originalBytes": 97492,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:00.000Z",
+  "updatedAt": "2026-05-06T12:17:05.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888443",
+    "title": "hetcrezagaathrb.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888443,
+      "url": "https://www.are.na/block/45888443",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hetcrezagaathrb.jpeg",
+      "createdAt": "2026-05-06T12:17:00Z",
+      "updatedAt": "2026-05-06T12:17:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hetcrezagaathrb.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pocket Radio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a9712d5c76bb19069d7a38252e00a2894307da93f5ed80d8ab983297dbb99f4d"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247045",
+  "type": "image",
+  "title": "Tangled Thread",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "tangled-thread",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7a500799f20ccbc108612fd8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Tangled Thread",
+      "role": "original",
+      "bytes": 43005,
+      "sha256": "7a500799f20ccbc108612fd81d0b5f2fb310d0200a9b51a456db66faf0a4cf76",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247045/original_88eebd4b197fc35de73c161a4f180a27.jpg",
+      "originalName": "88eebd4b197fc35de73c161a4f180a27.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2dc614703bab8bd7aed939c8.webp",
+      "mimeType": "image/webp",
+      "alt": "Tangled Thread",
+      "role": "thumbnail",
+      "bytes": 2550,
+      "sha256": "2dc614703bab8bd7aed939c8fa829c47a41b477c4b3e5490fc62afe31ad1d17a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0NS9vcmlnaW5hbF84OGVlYmQ0YjE5N2ZjMzVkZTczYzE2MWE0ZjE4MGEyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "88eebd4b197fc35de73c161a4f180a27.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7a500799f20ccbc108612fd8-7a500799f2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tangled Thread",
+      "bytes": 25566,
+      "sha256": "87051db83f4df209019c425c6917e76a4abdeee28610fca3f4218422aa93eee3",
+      "width": 800,
+      "height": 540,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7a500799f20ccbc108612fd8.jpg",
+        "sourceSha256": "7a500799f20ccbc108612fd81d0b5f2fb310d0200a9b51a456db66faf0a4cf76",
+        "originalBytes": 43005,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247045",
+    "title": "d2ab2624b454966b1bc61330b512848a.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247045,
+      "url": "https://www.are.na/block/44247045",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "d2ab2624b454966b1bc61330b512848a.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "d2ab2624b454966b1bc61330b512848a.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tangled Thread",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "87051db83f4df209019c425c6917e76a4abdeee28610fca3f4218422aa93eee3"
+  }
+}

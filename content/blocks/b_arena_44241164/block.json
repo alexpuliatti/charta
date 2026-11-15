@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44241164",
+  "type": "link",
+  "title": "Inflection Writings",
+  "description": "Backing engineering moonshots.",
+  "category": "Companies",
+  "tags": [
+    "venture-capital",
+    "deep-tech",
+    "essays"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-6b562404ed2a3ad70fb70cbf.webp",
+      "mimeType": "image/webp",
+      "alt": "Inflection",
+      "role": "thumbnail",
+      "bytes": 4524,
+      "sha256": "6b562404ed2a3ad70fb70cbf35958578984ccec544506d94ce50b027531d73e7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0MTE2NC9vcmlnaW5hbF8xOGI3MjM2NDk5Y2U0MmY5M2E4MTU4YzIxY2ExNDk5Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "18b7236499ce42f93a8158c21ca1499c.png"
+    },
+    {
+      "path": "assets/preview-bf76eb4867963300ed2c64b5.webp",
+      "mimeType": "image/webp",
+      "alt": "Inflection",
+      "role": "preview",
+      "bytes": 59956,
+      "sha256": "bf76eb4867963300ed2c64b532fb17779cec8ff0d586636ffe9513f598cbcfae",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44241164/original_18b7236499ce42f93a8158c21ca1499c.png",
+      "originalName": "18b7236499ce42f93a8158c21ca1499c.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 170939,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T17:27:28.000Z",
+  "updatedAt": "2026-03-08T17:27:34.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://inflection.fund/writings",
+    "title": "Inflection",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44241164,
+      "url": "https://www.are.na/block/44241164",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Inflection",
+      "createdAt": "2026-03-08T17:27:28Z",
+      "updatedAt": "2026-03-08T17:27:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "VC firms",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://inflection.fund/",
+        "finding": "Official firm site describes first checks, limited partners, a venture investment portfolio and fund general partners."
+      }
+    ],
+    "original": {
+      "title": "Inflection",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

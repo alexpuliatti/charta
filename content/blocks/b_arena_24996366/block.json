@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_24996366",
+  "type": "image",
+  "title": "Watch Dials",
+  "description": "https://monochrome-watches.com/introducing-ressence-type-1-round-m-multicolour-dial-specs-price/\nhttps://www.fratellowatches.com/introducing-the-ressence-type-1-round-m/\nhttps://www.fratellowatches.com/hands-on-with-ressences-new-type-1-round-multicolour/",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "watch-dials",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eed2452c82bd63d3f2aef18b.webp",
+      "mimeType": "image/webp",
+      "alt": "Watch Dials",
+      "role": "original",
+      "bytes": 181708,
+      "sha256": "eed2452c82bd63d3f2aef18b5a2d7ce846914871266211cd4abf6bb9b81d4480",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/24996366/original_927092fad5fa1386fe48a092d46ec327.webp",
+      "originalName": "927092fad5fa1386fe48a092d46ec327.webp"
+    },
+    {
+      "path": "assets/thumbnail-2001213be86ac397e21aeff8.webp",
+      "mimeType": "image/webp",
+      "alt": "Watch Dials",
+      "role": "thumbnail",
+      "bytes": 12068,
+      "sha256": "2001213be86ac397e21aeff892a1a6e29614bf8dea035819729792d6b8ca15cf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNDk5NjM2Ni9vcmlnaW5hbF85MjcwOTJmYWQ1ZmExMzg2ZmU0OGEwOTJkNDZlYzMyNy53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "927092fad5fa1386fe48a092d46ec327.webp"
+    },
+    {
+      "path": "assets/display-web-original-eed2452c82bd63d3f2aef18b-eed2452c82.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Watch Dials",
+      "bytes": 152620,
+      "sha256": "a89d2519abcd5bc4d2f3649ad070fc65afe9c3f97dc43da44353323aa82c6bf1",
+      "width": 1500,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-eed2452c82bd63d3f2aef18b.webp",
+        "sourceSha256": "eed2452c82bd63d3f2aef18b5a2d7ce846914871266211cd4abf6bb9b81d4480",
+        "originalBytes": 181708,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-11-30T19:40:59.000Z",
+  "updatedAt": "2026-05-08T22:04:43.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/24996366",
+    "title": "Ressence Type 1° Round M",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 24996366,
+      "url": "https://www.are.na/block/24996366",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Ressence Type 1° Round M",
+      "createdAt": "2023-11-30T19:40:59Z",
+      "updatedAt": "2026-05-08T22:04:43Z",
+      "addedBy": {
+        "id": 8168,
+        "name": "Roberto Greco",
+        "slug": "roberto-greco"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Ressence Type 1° Round M",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Watch Dials",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a89d2519abcd5bc4d2f3649ad070fc65afe9c3f97dc43da44353323aa82c6bf1"
+  }
+}

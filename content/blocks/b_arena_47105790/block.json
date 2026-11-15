@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47105790",
+  "type": "link",
+  "title": "Kyma Neuro",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "brain-computer-interfaces",
+    "neurotechnology"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-b6d7475cb5e05d66a208a047.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 7538,
+      "sha256": "b6d7475cb5e05d66a208a0471de86683473a73006edd03cabe3f31c38eba5ea8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzEwNTc5MC9vcmlnaW5hbF9mOGE0YzlkZjg2MzU4N2Q0ZDVlMzc5MTY2NDI4M2QyMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f8a4c9df863587d4d5e3791664283d22.png"
+    },
+    {
+      "path": "assets/preview-8a0b0a829eefbe38a6de7bae.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 81744,
+      "sha256": "8a0b0a829eefbe38a6de7baef26bf744b796ab986a5a532e0fed76a89ab97566",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47105790/original_f8a4c9df863587d4d5e3791664283d22.png",
+      "originalName": "f8a4c9df863587d4d5e3791664283d22.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 457412,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-17T12:56:11.000Z",
+  "updatedAt": "2026-06-17T12:56:48.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://kymaneuro.com/",
+    "title": "Link · utopia · 47105790",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47105790,
+      "url": "https://www.are.na/block/47105790",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-06-17T12:56:11Z",
+      "updatedAt": "2026-06-17T12:56:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · utopia · 47105790",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787249",
+  "type": "image",
+  "title": "Cube Speaker",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "cube-speaker",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-33477321e827a8db54539537.png",
+      "mimeType": "image/png",
+      "alt": "Cube Speaker",
+      "role": "original",
+      "bytes": 795114,
+      "sha256": "33477321e827a8db5453953725ea763333292a89d3167b1c3e20fb9c72ec04a6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787249/original_508487de52a31272c6598c00f4bfd512.png",
+      "originalName": "508487de52a31272c6598c00f4bfd512.png"
+    },
+    {
+      "path": "assets/thumbnail-76d3fad96a709d849c8ef41b.webp",
+      "mimeType": "image/webp",
+      "alt": "Cube Speaker",
+      "role": "thumbnail",
+      "bytes": 8718,
+      "sha256": "76d3fad96a709d849c8ef41beae0b66beca4cc5ef6df4114796afdaae6ab7ef1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzI0OS9vcmlnaW5hbF81MDg0ODdkZTUyYTMxMjcyYzY1OThjMDBmNGJmZDUxMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "508487de52a31272c6598c00f4bfd512.png"
+    },
+    {
+      "path": "assets/display-web-original-33477321e827a8db54539537-33477321e8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Cube Speaker",
+      "bytes": 60814,
+      "sha256": "8361a9678d3b3362fea229f26f8f1458dcc89f4f4b800f12df6e005ea59c95fa",
+      "width": 676,
+      "height": 1072,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-33477321e827a8db54539537.png",
+        "sourceSha256": "33477321e827a8db5453953725ea763333292a89d3167b1c3e20fb9c72ec04a6",
+        "originalBytes": 795114,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:35:05.000Z",
+  "updatedAt": "2025-11-02T15:35:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787249",
+    "title": "screenshot-2025-11-02-alle-15.34.29.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787249,
+      "url": "https://www.are.na/block/40787249",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2025-11-02-alle-15.34.29.png",
+      "createdAt": "2025-11-02T15:35:05Z",
+      "updatedAt": "2025-11-02T15:35:07Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2025-11-02-alle-15.34.29.png",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cube Speaker",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8361a9678d3b3362fea229f26f8f1458dcc89f4f4b800f12df6e005ea59c95fa"
+  }
+}

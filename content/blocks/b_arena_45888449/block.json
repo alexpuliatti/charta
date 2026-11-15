@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888449",
+  "type": "image",
+  "title": "Mike Portfolio",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "mike-portfolio",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a57851208027c7632fa7da36.png",
+      "mimeType": "image/png",
+      "alt": "Mike Portfolio",
+      "role": "original",
+      "bytes": 534060,
+      "sha256": "a57851208027c7632fa7da361460e8de35bb44d433414906b058cb97971ec0f5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888449/original_b3ef1338e154c5eb8deba9a174fd4c2d.png",
+      "originalName": "b3ef1338e154c5eb8deba9a174fd4c2d.png"
+    },
+    {
+      "path": "assets/thumbnail-c16842f74b650abe3f97ebe3.webp",
+      "mimeType": "image/webp",
+      "alt": "Mike Portfolio",
+      "role": "thumbnail",
+      "bytes": 12070,
+      "sha256": "c16842f74b650abe3f97ebe3d1a93a77bc5086c7146bd5578fab8d22a09a4878",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0OS9vcmlnaW5hbF9iM2VmMTMzOGUxNTRjNWViOGRlYmE5YTE3NGZkNGMyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b3ef1338e154c5eb8deba9a174fd4c2d.png"
+    },
+    {
+      "path": "assets/display-web-original-a57851208027c7632fa7da36-a578512080.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mike Portfolio",
+      "bytes": 154868,
+      "sha256": "9a737ca162bebeeeb1f960662a4429c15cb9d93a0546bfc5c6e96ce9dc01419f",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a57851208027c7632fa7da36.png",
+        "sourceSha256": "a57851208027c7632fa7da361460e8de35bb44d433414906b058cb97971ec0f5",
+        "originalBytes": 534060,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:09.000Z",
+  "updatedAt": "2026-06-02T08:27:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888449",
+    "title": "original_43b847ff0c7cbe76996642482a6fd54a.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888449,
+      "url": "https://www.are.na/block/45888449",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_43b847ff0c7cbe76996642482a6fd54a.png",
+      "createdAt": "2026-05-06T12:17:09Z",
+      "updatedAt": "2026-06-02T08:27:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_43b847ff0c7cbe76996642482a6fd54a.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mike Portfolio",
+    "text": "Max Kohler is a graphic designer, frontend developer, and writer. Follow him on\nTwitter, Instagram, or email hi@makoehler.com with project inquiries.\nDesign\n20\n19\n18\n17\nWriting\nFollow\n20\n19\nThe Walkative Project\nWish you were here\nWindowcleaner Society\nThe Walker in the Landscape\nARC: The Dirty Issue\nPicnic Collective\nTypographic Singularity 20\nMoving Fast\nWalkative Society Posters\nMany people are typing\nStrike Radio\nWhite Noise Poster\nRCA Digital Direction\nNode Paint\nCamberwell Graphic Design Show 19\nVisual Forensics Exhibition\nIce Predictions\nBook Crosses\nBound in Blue Goatskin\nEmotional Tech Report Website\nGod is on the periphery of religion\nCamberwell Graphic Design Show 18\nTeaching machines to draw\nAvH Study Collection\nCamberwell FdA Degree Show 17\nAside London\nMet Office YCN Brief\nEvery Wordpress Editor Block\nIn loving memory of degree shows\nCloud Visions\nJust enough CMS\nWhere Does Logic Go on Jamstack Sites?\nHow to deploy a Wordpress Site using Github\nActions\nThe Business of Design\nHere's Jony\nZoom Zoom Zoom\nJunk City\nType Methods\nPanAm's World\nArchiver\nWho Counts?\nDrawing the line\nEditorial\nEvent\nEditorial\nEditorial\nEditorial\nInteractive\nInteractive\nInteractive\nPrint\nEditorial\nEditorial\nPrint\nEvent\nInteractive\nEvent\nEvent\nInstallation\nPrint\nPrint\nEditorial\nEvent\nEvent\nHardware\nArchive\nEvent\nEditorial\nData\nCSS-Tricks\nContent Free\nContent Free\nContent Free\nContent Free\nContent Free",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9a737ca162bebeeeb1f960662a4429c15cb9d93a0546bfc5c6e96ce9dc01419f"
+  }
+}

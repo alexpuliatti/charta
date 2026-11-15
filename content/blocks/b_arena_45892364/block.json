@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892364",
+  "type": "link",
+  "title": "Overtime Themes",
+  "description": "Twelve evocative themes that expand our horizons and drive our desire to learn, explore, and push our limits.",
+  "category": "Culture",
+  "tags": [
+    "creative-practice",
+    "exploration",
+    "themes"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0c6724dbad0482fb6f99c81b.webp",
+      "mimeType": "image/webp",
+      "alt": "About",
+      "role": "thumbnail",
+      "bytes": 3858,
+      "sha256": "0c6724dbad0482fb6f99c81b1845c4e4719a3ee55abe76080c654acc22d2d143",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjM2NC9vcmlnaW5hbF9kZDEzYWI0Yzk0NDlmZGY2M2U4MDlhOThjMzAwYjQzNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "dd13ab4c9449fdf63e809a98c300b437.png"
+    },
+    {
+      "path": "assets/preview-4430961c141b68ab93255fa9.webp",
+      "mimeType": "image/webp",
+      "alt": "About",
+      "role": "preview",
+      "bytes": 41324,
+      "sha256": "4430961c141b68ab93255fa99dc80a0d018f94deae072275dfc739065c6a3d1c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892364/original_dd13ab4c9449fdf63e809a98c300b437.png",
+      "originalName": "dd13ab4c9449fdf63e809a98c300b437.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 163456,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:34:12.000Z",
+  "updatedAt": "2026-05-06T14:34:21.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://overtime.companypolicy.studio/about",
+    "title": "About",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892364,
+      "url": "https://www.are.na/block/45892364",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "About",
+      "createdAt": "2026-05-06T14:34:12Z",
+      "updatedAt": "2026-05-06T14:34:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "About",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888640",
+  "type": "image",
+  "title": "Embossed Envelope",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "embossed-envelope",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ddf9c3a1ba110a5c1bdb91f1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Embossed Envelope",
+      "role": "original",
+      "bytes": 882076,
+      "sha256": "ddf9c3a1ba110a5c1bdb91f16ed9a56befe552ce7a0041d7b68ada75eab5f9b9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888640/original_ee4fc8465a344226e9cd9933b2e4855f.jpeg",
+      "originalName": "ee4fc8465a344226e9cd9933b2e4855f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-86e34c3327d09a014f5fde2b.webp",
+      "mimeType": "image/webp",
+      "alt": "Embossed Envelope",
+      "role": "thumbnail",
+      "bytes": 1108,
+      "sha256": "86e34c3327d09a014f5fde2b5cad856c43f8ca8fd48d9d42ac6bf991123a48bc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY0MC9vcmlnaW5hbF9lZTRmYzg0NjVhMzQ0MjI2ZTljZDk5MzNiMmU0ODU1Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ee4fc8465a344226e9cd9933b2e4855f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ddf9c3a1ba110a5c1bdb91f1-ddf9c3a1ba.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Embossed Envelope",
+      "bytes": 191884,
+      "sha256": "5eaa4f878bd29fd1c9997697c759c5807bfff279e6286487e27f5615b4c1957f",
+      "width": 1920,
+      "height": 1280,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ddf9c3a1ba110a5c1bdb91f1.jpg",
+        "sourceSha256": "ddf9c3a1ba110a5c1bdb91f16ed9a56befe552ce7a0041d7b68ada75eab5f9b9",
+        "originalBytes": 882076,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:44.000Z",
+  "updatedAt": "2026-05-06T12:24:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888640",
+    "title": "heuzh1zbyaagnyf.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888640,
+      "url": "https://www.are.na/block/45888640",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "heuzh1zbyaagnyf.jpeg",
+      "createdAt": "2026-05-06T12:24:44Z",
+      "updatedAt": "2026-05-06T12:24:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "heuzh1zbyaagnyf.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Embossed Envelope",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5eaa4f878bd29fd1c9997697c759c5807bfff279e6286487e27f5615b4c1957f"
+  }
+}

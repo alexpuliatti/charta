@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579123",
+  "type": "image",
+  "title": "Spiral Diagram",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "spiral-diagram",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b88a3d6bc96ab44356d85ec8.png",
+      "mimeType": "image/png",
+      "alt": "Spiral Diagram",
+      "role": "original",
+      "bytes": 39080,
+      "sha256": "b88a3d6bc96ab44356d85ec8c93d5ad9202299b2f9ef9abb664afccbb29ac27f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579123/original_529bf7df6c729810d93c9a5f76bf82ca.png",
+      "originalName": "529bf7df6c729810d93c9a5f76bf82ca.png"
+    },
+    {
+      "path": "assets/thumbnail-8afb29319a4572d6278385a8.webp",
+      "mimeType": "image/webp",
+      "alt": "Spiral Diagram",
+      "role": "thumbnail",
+      "bytes": 2444,
+      "sha256": "8afb29319a4572d6278385a850a8648cdd54e135f523e870b61801aedbf13a85",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTEyMy9vcmlnaW5hbF81MjliZjdkZjZjNzI5ODEwZDkzYzlhNWY3NmJmODJjYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "529bf7df6c729810d93c9a5f76bf82ca.png"
+    },
+    {
+      "path": "assets/display-web-original-b88a3d6bc96ab44356d85ec8-b88a3d6bc9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Spiral Diagram",
+      "bytes": 24648,
+      "sha256": "f0d0a45546809e42441745cd3a4414e92c1a3535a4c9b8b244af7634d2c30d41",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b88a3d6bc96ab44356d85ec8.png",
+        "sourceSha256": "b88a3d6bc96ab44356d85ec8c93d5ad9202299b2f9ef9abb664afccbb29ac27f",
+        "originalBytes": 39080,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:31:18.000Z",
+  "updatedAt": "2026-07-04T15:31:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579123",
+    "title": "HC9te-xaAAA8K7o",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579123,
+      "url": "https://www.are.na/block/47579123",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HC9te-xaAAA8K7o",
+      "createdAt": "2026-07-04T15:31:18Z",
+      "updatedAt": "2026-07-04T15:31:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HC9te-xaAAA8K7o",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Spiral Diagram",
+    "text": "WAVE X01918\nX\n0.1\nx = sin 31 y = sin 2t",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f0d0a45546809e42441745cd3a4414e92c1a3535a4c9b8b244af7634d2c30d41"
+  }
+}

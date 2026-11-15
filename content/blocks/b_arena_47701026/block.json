@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701026",
+  "type": "image",
+  "title": "Partners Crime",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "partners-crime",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2565d37c0d0cea7f50717599.png",
+      "mimeType": "image/png",
+      "alt": "Partners Crime",
+      "role": "original",
+      "bytes": 840877,
+      "sha256": "2565d37c0d0cea7f507175999fe7bbb1822538a5f44a0fdfbd9b53c539fa1c57",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701026/original_0651bec532827213c6595fbf026d87f3.png",
+      "originalName": "0651bec532827213c6595fbf026d87f3.png"
+    },
+    {
+      "path": "assets/thumbnail-ab03d80bb0c063e7e4f865fa.webp",
+      "mimeType": "image/webp",
+      "alt": "Partners Crime",
+      "role": "thumbnail",
+      "bytes": 3626,
+      "sha256": "ab03d80bb0c063e7e4f865fa2114860deb885c47f38a426bf7ea3882fa8ff410",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyNi9vcmlnaW5hbF8wNjUxYmVjNTMyODI3MjEzYzY1OTVmYmYwMjZkODdmMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0651bec532827213c6595fbf026d87f3.png"
+    },
+    {
+      "path": "assets/display-web-original-2565d37c0d0cea7f50717599-2565d37c0d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Partners Crime",
+      "bytes": 28174,
+      "sha256": "6945a68852760cd346b2b834da4e7d2c5e2393ca0ea824662a8ad655b46af0d0",
+      "width": 978,
+      "height": 1220,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2565d37c0d0cea7f50717599.png",
+        "sourceSha256": "2565d37c0d0cea7f507175999fe7bbb1822538a5f44a0fdfbd9b53c539fa1c57",
+        "originalBytes": 840877,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:23.000Z",
+  "updatedAt": "2026-07-08T14:56:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701026",
+    "title": "Screenshot 2023-09-12 alle 17.04.34",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701026,
+      "url": "https://www.are.na/block/47701026",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.04.34",
+      "createdAt": "2026-07-08T14:56:23Z",
+      "updatedAt": "2026-07-08T14:56:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.04.34",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Partners Crime",
+    "text": "Parkers\nin-\nCrime\nAgatha\nChristie\nPartners in Crime\nAgatha Christie\nCollins",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6945a68852760cd346b2b834da4e7d2c5e2393ca0ea824662a8ad655b46af0d0"
+  }
+}

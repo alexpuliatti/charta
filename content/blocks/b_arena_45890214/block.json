@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890214",
+  "type": "link",
+  "title": "Nucleo Icons",
+  "description": "Explore our collection of premium-quality, customizable SVG icons. Expertly crafted since 2014.",
+  "category": "Interface design",
+  "tags": [
+    "icons",
+    "svg",
+    "interface-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a435e9e7f51c93e601355e19.webp",
+      "mimeType": "image/webp",
+      "alt": "Your next-level icon library | Nucleo",
+      "role": "thumbnail",
+      "bytes": 7202,
+      "sha256": "a435e9e7f51c93e601355e19bf996e88769856c3247237d8365ef994aa3d2960",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDIxNC9vcmlnaW5hbF9lMTllYzU5NDBhMGNhMmEyNTg1NDRkNWZhYzVhNzNlYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e19ec5940a0ca2a258544d5fac5a73ea.png"
+    },
+    {
+      "path": "assets/preview-2c7730dd80c7e7cc638cf2ee.webp",
+      "mimeType": "image/webp",
+      "alt": "Your next-level icon library | Nucleo",
+      "role": "preview",
+      "bytes": 107076,
+      "sha256": "2c7730dd80c7e7cc638cf2ee78fdb0ff4cf06b9050644f1e9f777e60d9143fe1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890214/original_e19ec5940a0ca2a258544d5fac5a73ea.png",
+      "originalName": "e19ec5940a0ca2a258544d5fac5a73ea.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 287225,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:28:37.000Z",
+  "updatedAt": "2026-05-06T13:28:44.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://nucleoapp.com/premium-icons",
+    "title": "Your next-level icon library | Nucleo",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890214,
+      "url": "https://www.are.na/block/45890214",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Your next-level icon library | Nucleo",
+      "createdAt": "2026-05-06T13:28:37Z",
+      "updatedAt": "2026-05-06T13:28:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Your next-level icon library | Nucleo",
+      "category": "Books and publishing",
+      "tags": [
+        "books",
+        "archives",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

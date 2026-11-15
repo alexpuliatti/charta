@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45982069",
+  "type": "image",
+  "title": "Facial Landmarks",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "facial-landmarks",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0c7cebef12acf8a3b82733a3.png",
+      "mimeType": "image/png",
+      "alt": "Facial Landmarks",
+      "role": "original",
+      "bytes": 91247,
+      "sha256": "0c7cebef12acf8a3b82733a319b33fd6278a8e9f99167a1cfc1073744ed1a6eb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45982069/original_d818e3fb18e1b8e0472e0adfa7b8d6fe.png",
+      "originalName": "d818e3fb18e1b8e0472e0adfa7b8d6fe.png"
+    },
+    {
+      "path": "assets/thumbnail-6012715e116a388aa4a439f1.webp",
+      "mimeType": "image/webp",
+      "alt": "Facial Landmarks",
+      "role": "thumbnail",
+      "bytes": 6642,
+      "sha256": "6012715e116a388aa4a439f1910a21bc2f58f5f2f1c936202a3d781b198976dd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk4MjA2OS9vcmlnaW5hbF9kODE4ZTNmYjE4ZTFiOGUwNDcyZTBhZGZhN2I4ZDZmZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d818e3fb18e1b8e0472e0adfa7b8d6fe.png"
+    },
+    {
+      "path": "assets/display-web-original-0c7cebef12acf8a3b82733a3-0c7cebef12.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Facial Landmarks",
+      "bytes": 35164,
+      "sha256": "481c0dbe46eb9ee49a69903c6749fd56a594353b17e016295cfe1010ea313af7",
+      "width": 859,
+      "height": 425,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0c7cebef12acf8a3b82733a3.png",
+        "sourceSha256": "0c7cebef12acf8a3b82733a319b33fd6278a8e9f99167a1cfc1073744ed1a6eb",
+        "originalBytes": 91247,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-10T09:39:30.000Z",
+  "updatedAt": "2026-05-24T16:29:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45982069",
+    "title": "HH6gu6mXwAI7T2o",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45982069,
+      "url": "https://www.are.na/block/45982069",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HH6gu6mXwAI7T2o",
+      "createdAt": "2026-05-10T09:39:30Z",
+      "updatedAt": "2026-05-24T16:29:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HH6gu6mXwAI7T2o",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Facial Landmarks",
+    "text": "Г\nL\nGAZE\n*EYES\nNOSE\nMOUTH\nDomenico Fetti - Flying and Adoring Angels -\nYAW\nPITCH\nROLL\n45.0° - 27.7° -39.6°\nR\nGAZE X\n61%\nGAZE Y\n- 65%\nEAR\n0.00\nLow\nNose tip: (84.9, 58.2)\nNose bridge: (83.5, 55.7)\nUpper lip: (87.7, 71.3)\nLower lip: (87.7, 71.4)\nL eye\nout: (52.6, 61.6)\nMouth L: (80.6, 78.8)\nL eye in:\n(60.8,\n55.5)\nL eye bot: (58.3, 59.3)\nL eye top:\n(55.5, 56.1)\nR eye out: (70.6, 46.9)\nMouth R: (88.7,",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "481c0dbe46eb9ee49a69903c6749fd56a594353b17e016295cfe1010ea313af7"
+  }
+}

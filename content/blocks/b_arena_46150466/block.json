@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46150466",
+  "type": "link",
+  "title": "Blueprint Hardware",
+  "description": "Blueprint.am — design hardware projects with AI. Generate wiring diagrams, bills of materials, and step-by-step assembly guides from a single prompt.",
+  "category": "Technology",
+  "tags": [
+    "hardware-design",
+    "wiring-diagrams",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1a9f9df2c7eb11459738e699.webp",
+      "mimeType": "image/webp",
+      "alt": "Blueprint.am - AI Hardware Design Tool",
+      "role": "thumbnail",
+      "bytes": 3400,
+      "sha256": "1a9f9df2c7eb11459738e6995d5fa12eeb9e7054df8e2232b115982ef5d2fde2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE1MDQ2Ni9vcmlnaW5hbF8wM2VjMGNlNDgyODFlNTcyNDFhZjUzNDUwMmFhN2FhZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "03ec0ce48281e57241af534502aa7aaf.png"
+    },
+    {
+      "path": "assets/preview-7c33fee633da8241a4f8001b.webp",
+      "mimeType": "image/webp",
+      "alt": "Blueprint.am - AI Hardware Design Tool",
+      "role": "preview",
+      "bytes": 38824,
+      "sha256": "7c33fee633da8241a4f8001b466df0aa56ec53d1c6dc6dc9ece21d21a281060e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46150466/original_03ec0ce48281e57241af534502aa7aaf.png",
+      "originalName": "03ec0ce48281e57241af534502aa7aaf.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 120252,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T16:00:42.000Z",
+  "updatedAt": "2026-05-14T16:00:47.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.blueprint.am/",
+    "title": "Blueprint.am - AI Hardware Design Tool",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46150466,
+      "url": "https://www.are.na/block/46150466",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Blueprint.am - AI Hardware Design Tool",
+      "createdAt": "2026-05-14T16:00:42Z",
+      "updatedAt": "2026-05-14T16:00:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Blueprint.am - AI Hardware Design Tool",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "tools",
+        "information-design",
+        "materials",
+        "data-visualization",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

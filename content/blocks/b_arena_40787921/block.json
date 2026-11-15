@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787921",
+  "type": "image",
+  "title": "Tube Radio",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "tube-radio",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e98adf7061591f389bde9634.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Tube Radio",
+      "role": "original",
+      "bytes": 115324,
+      "sha256": "e98adf7061591f389bde9634b4cd34be285ccc73b3db22c346c46d027f40508d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787921/original_c4cc2bddb88fb1bba610b4dafb9e4275.jpg",
+      "originalName": "c4cc2bddb88fb1bba610b4dafb9e4275.jpg"
+    },
+    {
+      "path": "assets/thumbnail-bc479801b6667203fd5c2d5e.webp",
+      "mimeType": "image/webp",
+      "alt": "Tube Radio",
+      "role": "thumbnail",
+      "bytes": 1814,
+      "sha256": "bc479801b6667203fd5c2d5eadf7524e5ee8790f298701d87cac1785180988b3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkyMS9vcmlnaW5hbF9jNGNjMmJkZGI4OGZiMWJiYTYxMGI0ZGFmYjllNDI3NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c4cc2bddb88fb1bba610b4dafb9e4275.jpg"
+    },
+    {
+      "path": "assets/display-web-original-e98adf7061591f389bde9634-e98adf7061.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tube Radio",
+      "bytes": 24990,
+      "sha256": "56f5603bedea99bc257b996f450af0d3351979af6f7be71ed84d035fb39f285b",
+      "width": 1079,
+      "height": 1349,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e98adf7061591f389bde9634.jpg",
+        "sourceSha256": "e98adf7061591f389bde9634b4cd34be285ccc73b3db22c346c46d027f40508d",
+        "originalBytes": 115324,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:05:14.000Z",
+  "updatedAt": "2025-11-02T16:05:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787921",
+    "title": "industrialkonzept-20241221_104712-1559758590.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787921,
+      "url": "https://www.are.na/block/40787921",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20241221_104712-1559758590.jpg",
+      "createdAt": "2025-11-02T16:05:14Z",
+      "updatedAt": "2025-11-02T16:05:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20241221_104712-1559758590.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tube Radio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "56f5603bedea99bc257b996f450af0d3351979af6f7be71ed84d035fb39f285b"
+  }
+}

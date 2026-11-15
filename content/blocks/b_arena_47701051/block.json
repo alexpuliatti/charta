@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701051",
+  "type": "image",
+  "title": "Streetcar Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "streetcar-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b9ac6fbc3247593de7b6e5c0.png",
+      "mimeType": "image/png",
+      "alt": "Streetcar Jacket",
+      "role": "original",
+      "bytes": 2754135,
+      "sha256": "b9ac6fbc3247593de7b6e5c0a0b7107c61b6c432b7d77f0ba6a6b6c7d05b0f2a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701051/original_830ef49c2904d5aaa79b48e75930722b.png",
+      "originalName": "830ef49c2904d5aaa79b48e75930722b.png"
+    },
+    {
+      "path": "assets/thumbnail-af9c4efe8ed535266dd426cc.webp",
+      "mimeType": "image/webp",
+      "alt": "Streetcar Jacket",
+      "role": "thumbnail",
+      "bytes": 6754,
+      "sha256": "af9c4efe8ed535266dd426cc1e07d343713c7b407b9bb8f9cf668fc1c5a296d1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA1MS9vcmlnaW5hbF84MzBlZjQ5YzI5MDRkNWFhYTc5YjQ4ZTc1OTMwNzIyYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "830ef49c2904d5aaa79b48e75930722b.png"
+    },
+    {
+      "path": "assets/display-web-original-b9ac6fbc3247593de7b6e5c0-b9ac6fbc32.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Streetcar Jacket",
+      "bytes": 94770,
+      "sha256": "53447f01fc1a89dc0d9c2f7902fbb3b582460403f8f1bdab7b8af7dbb141342e",
+      "width": 1498,
+      "height": 1244,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b9ac6fbc3247593de7b6e5c0.png",
+        "sourceSha256": "b9ac6fbc3247593de7b6e5c0a0b7107c61b6c432b7d77f0ba6a6b6c7d05b0f2a",
+        "originalBytes": 2754135,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:41.000Z",
+  "updatedAt": "2026-07-08T14:56:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701051",
+    "title": "Screenshot 2023-09-12 alle 17.06.35",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701051,
+      "url": "https://www.are.na/block/47701051",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.06.35",
+      "createdAt": "2026-07-08T14:56:41Z",
+      "updatedAt": "2026-07-08T14:56:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.06.35",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Streetcar Jacket",
+    "text": "a street car named desire\ndesire\ne wilhams\ntennessee williom\nlusty",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "53447f01fc1a89dc0d9c2f7902fbb3b582460403f8f1bdab7b8af7dbb141342e"
+  }
+}

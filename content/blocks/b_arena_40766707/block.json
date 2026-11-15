@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40766707",
+  "type": "link",
+  "title": "Calculus Origins",
+  "description": "The true origin of calculus explained",
+  "category": "Writing",
+  "tags": [
+    "mathematics",
+    "history",
+    "calculus"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-fbda221f60dbf6cf6fce17b4.webp",
+      "mimeType": "image/webp",
+      "alt": "No, India did not invent calculus",
+      "role": "thumbnail",
+      "bytes": 13158,
+      "sha256": "fbda221f60dbf6cf6fce17b43fd7117b59808a86ec3e0a71bbc5bcdc603e3e08",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2NjcwNy9vcmlnaW5hbF84ZmZmYmZkMWE2NTFkMzY5MjdkNGY4YmJmMjE2ODM5OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8fffbfd1a651d36927d4f8bbf2168399.png"
+    },
+    {
+      "path": "assets/preview-a15048c2aa8f5591c5382930.webp",
+      "mimeType": "image/webp",
+      "alt": "No, India did not invent calculus",
+      "role": "preview",
+      "bytes": 129836,
+      "sha256": "a15048c2aa8f5591c53829305c834811d4a3cb2f0f06e0fcf579642465d7f7bf",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40766707/original_8fffbfd1a651d36927d4f8bbf2168399.png",
+      "originalName": "8fffbfd1a651d36927d4f8bbf2168399.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 427496,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-01T09:03:19.000Z",
+  "updatedAt": "2025-11-01T09:03:27.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://inquisitivebird.xyz/p/no-india-did-not-invent-calculus",
+    "title": "No, India did not invent calculus",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40766707,
+      "url": "https://www.are.na/block/40766707",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "No, India did not invent calculus",
+      "createdAt": "2025-11-01T09:03:19Z",
+      "updatedAt": "2025-11-01T09:03:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "No, India did not invent calculus",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

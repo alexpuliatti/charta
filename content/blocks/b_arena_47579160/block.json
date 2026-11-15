@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579160",
+  "type": "image",
+  "title": "Breakfast Patch",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "breakfast-patch",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-974d5e2084a4c7cbc4f3a497.png",
+      "mimeType": "image/png",
+      "alt": "Breakfast Patch",
+      "role": "original",
+      "bytes": 1231666,
+      "sha256": "974d5e2084a4c7cbc4f3a49731bf7795f7e4ef835e52f65579f3a32622a03f1e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579160/original_0b66a6b04e89ea8d396add2d19db9f81.png",
+      "originalName": "0b66a6b04e89ea8d396add2d19db9f81.png"
+    },
+    {
+      "path": "assets/thumbnail-8feafc530ac89356cd662ecd.webp",
+      "mimeType": "image/webp",
+      "alt": "Breakfast Patch",
+      "role": "thumbnail",
+      "bytes": 27904,
+      "sha256": "8feafc530ac89356cd662ecd2c3ea78ac6fa94912e75575c0b9c33d4e0166bab",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE2MC9vcmlnaW5hbF8wYjY2YTZiMDRlODllYThkMzk2YWRkMmQxOWRiOWY4MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0b66a6b04e89ea8d396add2d19db9f81.png"
+    },
+    {
+      "path": "assets/display-web-original-974d5e2084a4c7cbc4f3a497-974d5e2084.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Breakfast Patch",
+      "bytes": 161362,
+      "sha256": "cc72dcf5d731b6b03537a88652bab3c07c3be647850c91bef169c5f17fb346f9",
+      "width": 1000,
+      "height": 1000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-974d5e2084a4c7cbc4f3a497.png",
+        "sourceSha256": "974d5e2084a4c7cbc4f3a49731bf7795f7e4ef835e52f65579f3a32622a03f1e",
+        "originalBytes": 1231666,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:34:44.000Z",
+  "updatedAt": "2026-07-04T15:34:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579160",
+    "title": "patch og no bg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579160,
+      "url": "https://www.are.na/block/47579160",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "patch og no bg",
+      "createdAt": "2026-07-04T15:34:44Z",
+      "updatedAt": "2026-07-04T15:34:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "patch og no bg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Breakfast Patch",
+    "text": "Champions",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cc72dcf5d731b6b03537a88652bab3c07c3be647850c91bef169c5f17fb346f9"
+  }
+}

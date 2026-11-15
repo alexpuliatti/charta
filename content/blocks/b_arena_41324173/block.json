@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_41324173",
+  "type": "text",
+  "title": "Designer Portfolios",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "portfolio",
+    "brand-design",
+    "personal-notes"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2025-11-23T22:08:56.000Z",
+  "updatedAt": "2025-11-24T11:26:18.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read saved note or tweet body; title names its actual subject."
+  },
+  "source": {
+    "url": "https://www.are.na/block/41324173",
+    "title": "Text · visualizzare il sapere · 41324173",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 41324173,
+      "url": "https://www.are.na/block/41324173",
+      "type": "Text",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2025-11-23T22:08:56Z",
+      "updatedAt": "2025-11-24T11:26:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "bodyPath": "body.md",
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "note",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Text · visualizzare il sapere · 41324173",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

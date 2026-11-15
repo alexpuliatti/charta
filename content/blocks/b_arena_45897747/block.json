@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45897747",
+  "type": "link",
+  "title": "Body Shop",
+  "description": "Creative workshop for universal construction.",
+  "category": "Companies",
+  "tags": [
+    "creative-workshop",
+    "construction",
+    "design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-366a123a319ea7c0c9f9dc73.webp",
+      "mimeType": "image/webp",
+      "alt": "Body Shop",
+      "role": "thumbnail",
+      "bytes": 1014,
+      "sha256": "366a123a319ea7c0c9f9dc73a3dc29b2af870926b17d6c44ce250a6160ec3906",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Nzc0Ny9vcmlnaW5hbF80ODdiNzk0MWU1M2QwNmQwOTY5ZGIyNTBiNjg4ZTU0OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "487b7941e53d06d0969db250b688e549.png"
+    },
+    {
+      "path": "assets/preview-cd930f1687f1f89ea5152963.webp",
+      "mimeType": "image/webp",
+      "alt": "Body Shop",
+      "role": "preview",
+      "bytes": 12786,
+      "sha256": "cd930f1687f1f89ea5152963b94287cf4501c88a570c98dbc3f1313877b29504",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45897747/original_487b7941e53d06d0969db250b688e549.png",
+      "originalName": "487b7941e53d06d0969db250b688e549.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 52515,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T17:47:42.000Z",
+  "updatedAt": "2026-05-06T17:47:50.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.body-shop.co/",
+    "title": "Body Shop",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45897747,
+      "url": "https://www.are.na/block/45897747",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Body Shop",
+      "createdAt": "2026-05-06T17:47:42Z",
+      "updatedAt": "2026-05-06T17:47:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Body Shop",
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

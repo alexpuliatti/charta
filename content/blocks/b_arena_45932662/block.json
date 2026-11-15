@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45932662",
+  "type": "link",
+  "title": "Studio Freight",
+  "description": "Studio Freight delivers brands, digital experiences, campaigns, and special projects. We work across categories, continents, and capabilities to move missions forward.",
+  "category": "Companies",
+  "tags": [
+    "brand-design",
+    "digital-experience",
+    "design-studio"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a4c2c196e79ef25d39d55409.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Freight",
+      "role": "thumbnail",
+      "bytes": 1716,
+      "sha256": "a4c2c196e79ef25d39d554093d71a1872c76341f66197b3f2b4da7e714cb0032",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTkzMjY2Mi9vcmlnaW5hbF8yY2QwNzIwMDQxNzk0ZTExMmY4YTNhODE4NDU1NjVkMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2cd0720041794e112f8a3a81845565d0.png"
+    },
+    {
+      "path": "assets/preview-9b55c330b3337faac79c365a.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Freight",
+      "role": "preview",
+      "bytes": 18708,
+      "sha256": "9b55c330b3337faac79c365a84fb393744285c81612897b35416d4309302e034",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45932662/original_2cd0720041794e112f8a3a81845565d0.png",
+      "originalName": "2cd0720041794e112f8a3a81845565d0.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 68222,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-07T22:43:47.000Z",
+  "updatedAt": "2026-05-10T19:21:44.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://studiofreight.com/",
+    "title": "Studio Freight",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45932662,
+      "url": "https://www.are.na/block/45932662",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Studio Freight",
+      "createdAt": "2026-05-07T22:43:47Z",
+      "updatedAt": "2026-05-10T19:21:44Z",
+      "addedBy": {
+        "id": 62001,
+        "name": "Matija Gabrilo",
+        "slug": "matija-gabrilo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Studio Freight",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

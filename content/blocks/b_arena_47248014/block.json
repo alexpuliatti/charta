@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47248014",
+  "type": "image",
+  "title": "Landscape Fables",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "landscape-fables",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-305491e673de10ac235f8837.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Landscape Fables",
+      "role": "original",
+      "bytes": 514887,
+      "sha256": "305491e673de10ac235f88377a429009facde2a9a793f7023fc21f497041a663",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47248014/original_3765ae12d593399d97fc6ef4b42b130a.jpeg",
+      "originalName": "3765ae12d593399d97fc6ef4b42b130a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-1aabebba1e0241d7c045183e.webp",
+      "mimeType": "image/webp",
+      "alt": "Landscape Fables",
+      "role": "thumbnail",
+      "bytes": 18628,
+      "sha256": "1aabebba1e0241d7c045183e2a8db3986812424e66861468a204789ed8bcf76d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0ODAxNC9vcmlnaW5hbF8zNzY1YWUxMmQ1OTMzOTlkOTdmYzZlZjRiNDJiMTMwYS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3765ae12d593399d97fc6ef4b42b130a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-305491e673de10ac235f8837-305491e673.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Landscape Fables",
+      "bytes": 226938,
+      "sha256": "3f901437872d2e92caea2917169b2f2f38a6fa4cad5e02086d1cd8d9b377ba72",
+      "width": 960,
+      "height": 1207,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-305491e673de10ac235f8837.jpg",
+        "sourceSha256": "305491e673de10ac235f88377a429009facde2a9a793f7023fc21f497041a663",
+        "originalBytes": 514887,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:47.000Z",
+  "updatedAt": "2026-06-27T16:18:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47248014",
+    "title": "original_78aa400d15ca55498a7e56bdacdc3fa1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47248014,
+      "url": "https://www.are.na/block/47248014",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_78aa400d15ca55498a7e56bdacdc3fa1",
+      "createdAt": "2026-06-23T14:30:47Z",
+      "updatedAt": "2026-06-27T16:18:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_78aa400d15ca55498a7e56bdacdc3fa1",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Landscape Fables",
+    "text": "LANDSCAPe\nAND fABLeS\nwith\nJesús Cisneros\nfrom\n11.08\nuntil\n16.08.2019\nGerswalde\nUckermark\nILLUSTRATION WORKSHOP",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3f901437872d2e92caea2917169b2f2f38a6fa4cad5e02086d1cd8d9b377ba72"
+  }
+}

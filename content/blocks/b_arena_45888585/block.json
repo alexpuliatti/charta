@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888585",
+  "type": "image",
+  "title": "Pattern Library",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "pattern-library",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5327aa60a7de5a2350a5d82b.png",
+      "mimeType": "image/png",
+      "alt": "Pattern Library",
+      "role": "original",
+      "bytes": 3214785,
+      "sha256": "5327aa60a7de5a2350a5d82b540fa7213221723b1854a01e0367058ace82b59b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888585/original_92a2cbbc55ec9bdd5b13ac9c4a83fc9b.png",
+      "originalName": "92a2cbbc55ec9bdd5b13ac9c4a83fc9b.png"
+    },
+    {
+      "path": "assets/thumbnail-0610e2d2ffcbf08021c007d5.webp",
+      "mimeType": "image/webp",
+      "alt": "Pattern Library",
+      "role": "thumbnail",
+      "bytes": 26156,
+      "sha256": "0610e2d2ffcbf08021c007d5d16d026f273c1de37a08b3624787845ca3df1c1e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU4NS9vcmlnaW5hbF85MmEyY2JiYzU1ZWM5YmRkNWIxM2FjOWM0YTgzZmM5Yi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "92a2cbbc55ec9bdd5b13ac9c4a83fc9b.png"
+    },
+    {
+      "path": "assets/display-web-original-5327aa60a7de5a2350a5d82b-5327aa60a7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pattern Library",
+      "bytes": 268102,
+      "sha256": "54f6afd710fd9c01d45e7e21e7cff8917d7b6f6ae9f434dc0a75e5947ac13527",
+      "width": 1670,
+      "height": 1790,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5327aa60a7de5a2350a5d82b.png",
+        "sourceSha256": "5327aa60a7de5a2350a5d82b540fa7213221723b1854a01e0367058ace82b59b",
+        "originalBytes": 3214785,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:22:59.000Z",
+  "updatedAt": "2026-05-06T12:23:05.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888585",
+    "title": "artautomata.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888585,
+      "url": "https://www.are.na/block/45888585",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "artautomata.png",
+      "createdAt": "2026-05-06T12:22:59Z",
+      "updatedAt": "2026-05-06T12:23:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "artautomata.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pattern Library",
+    "text": "Adamatzky\nAlonso-Sanz\nBandman\nConti\nDeutsch\nEvans\nFaté\nGriffeath\nHutton\nImai\nJohnston\nKirceva\nKrawczyk\nMakowiec\nMargenstern\nMartinez\nMcintosh:\nMedvedev\nReiter\nRendell\nSayama\nSeck\nSipper\nGeorgoudas et al.\nStepney\nUmeo\nVentrella\nVitvitsky\nWuensche",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "54f6afd710fd9c01d45e7e21e7cff8917d7b6f6ae9f434dc0a75e5947ac13527"
+  }
+}

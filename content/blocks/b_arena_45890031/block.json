@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890031",
+  "type": "image",
+  "title": "Inscribed Floor",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "inscribed-floor",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1e315d2bf00fb1c473d2490e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Inscribed Floor",
+      "role": "original",
+      "bytes": 43831,
+      "sha256": "1e315d2bf00fb1c473d2490e25c22e5a2973f9231c54fff3129a1ed2027e96a0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890031/original_f2af554ce44cec3bad6f847a312819f6.jpeg",
+      "originalName": "f2af554ce44cec3bad6f847a312819f6.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-6ad0252eb23db7e5d00dfa20.webp",
+      "mimeType": "image/webp",
+      "alt": "Inscribed Floor",
+      "role": "thumbnail",
+      "bytes": 20448,
+      "sha256": "6ad0252eb23db7e5d00dfa20769f220175cf8a9bbe6af41feb7a2bcc24200051",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAzMS9vcmlnaW5hbF9mMmFmNTU0Y2U0NGNlYzNiYWQ2Zjg0N2EzMTI4MTlmNi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "f2af554ce44cec3bad6f847a312819f6.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-1e315d2bf00fb1c473d2490e-1e315d2bf0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Inscribed Floor",
+      "bytes": 40400,
+      "sha256": "e142fb3fa876573041ba32e1e19c4eef40f22fdc249ceb5cd40529482742260a",
+      "width": 388,
+      "height": 497,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1e315d2bf00fb1c473d2490e.jpg",
+        "sourceSha256": "1e315d2bf00fb1c473d2490e25c22e5a2973f9231c54fff3129a1ed2027e96a0",
+        "originalBytes": 43831,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:20:54.000Z",
+  "updatedAt": "2026-05-06T13:20:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890031",
+    "title": "177e81ba7b6096ac5ce407a4fd76293a.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890031,
+      "url": "https://www.are.na/block/45890031",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "177e81ba7b6096ac5ce407a4fd76293a.jpg",
+      "createdAt": "2026-05-06T13:20:54Z",
+      "updatedAt": "2026-05-06T13:20:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "177e81ba7b6096ac5ce407a4fd76293a.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Inscribed Floor",
+    "text": "SPITALFIELDS\nPARIS\n@Roman Prod",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e142fb3fa876573041ba32e1e19c4eef40f22fdc249ceb5cd40529482742260a"
+  }
+}

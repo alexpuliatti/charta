@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44369828",
+  "type": "link",
+  "title": "Labocine Cinema",
+  "description": "Labocine is a singular, ever-evolving, hybrid streaming platform that showcases science in cinema in all its flavors, challenging stereotypes in scientific representation and celebrating diversity in form and content. Our goal is to create more synergy between scientists and artists, embracing to the fullest the traits of the Science New Wave, where scientific pursuit is free to co-exist and blend freely across disciplines and cultures.",
+  "category": "Culture",
+  "tags": [
+    "science",
+    "cinema",
+    "streaming"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-4e678035a988c96174389e84.webp",
+      "mimeType": "image/webp",
+      "alt": "Labocine: The Science New Wave",
+      "role": "thumbnail",
+      "bytes": 16008,
+      "sha256": "4e678035a988c96174389e8402f0f4b8b4922d1a0fee2aa9154496f4012127eb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM2OTgyOC9vcmlnaW5hbF85MWM4YzMwZmM5YjgzNzk3OWIyYmQ1MTgwNWZjNmZiMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "91c8c30fc9b837979b2bd51805fc6fb0.png"
+    },
+    {
+      "path": "assets/preview-db7dd53abd7895656c527cdd.webp",
+      "mimeType": "image/webp",
+      "alt": "Labocine: The Science New Wave",
+      "role": "preview",
+      "bytes": 306336,
+      "sha256": "db7dd53abd7895656c527cdd1a277147387af04787ea6930df8dd4dab15e0ab3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44369828/original_91c8c30fc9b837979b2bd51805fc6fb0.png",
+      "originalName": "91c8c30fc9b837979b2bd51805fc6fb0.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2955985,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-12T14:08:48.000Z",
+  "updatedAt": "2026-03-12T14:08:55.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.labocine.com/",
+    "title": "Labocine: The Science New Wave",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44369828,
+      "url": "https://www.are.na/block/44369828",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Labocine: The Science New Wave",
+      "createdAt": "2026-03-12T14:08:48Z",
+      "updatedAt": "2026-03-12T14:08:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Labocine: The Science New Wave",
+      "category": "Nature and science",
+      "tags": [
+        "science",
+        "contemporary-art",
+        "film",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340295",
+  "type": "image",
+  "title": "Blue Dot",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "blue-dot",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5587f005d2d9cf2600bf7d55.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Dot",
+      "role": "original",
+      "bytes": 119895,
+      "sha256": "5587f005d2d9cf2600bf7d558820666950b20ea9ef79c30286db25e738461114",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340295/original_d347850c5dc770d73d77d04a1617bf01.jpg",
+      "originalName": "d347850c5dc770d73d77d04a1617bf01.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0f32ce7828760ce942f35b6a.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Dot",
+      "role": "thumbnail",
+      "bytes": 1496,
+      "sha256": "0f32ce7828760ce942f35b6a3e3d4a4a750e4740936675b56ba592eabf8940df",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5NS9vcmlnaW5hbF9kMzQ3ODUwYzVkYzc3MGQ3M2Q3N2QwNGExNjE3YmYwMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d347850c5dc770d73d77d04a1617bf01.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5587f005d2d9cf2600bf7d55-5587f005d2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Dot",
+      "bytes": 60766,
+      "sha256": "0b6d813a8485d648996b0a70eba04542f2d14582dd40dbc8ff7a0e9062d0ae58",
+      "width": 1200,
+      "height": 1620,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5587f005d2d9cf2600bf7d55.jpg",
+        "sourceSha256": "5587f005d2d9cf2600bf7d558820666950b20ea9ef79c30286db25e738461114",
+        "originalBytes": 119895,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340295",
+    "title": "5adacdc35fd253956db66145311f98b6.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340295,
+      "url": "https://www.are.na/block/44340295",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "5adacdc35fd253956db66145311f98b6.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "5adacdc35fd253956db66145311f98b6.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Dot",
+    "text": "BRIGHT\nCOLORFUL\n& HAPPY\nNEW YEAR!",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0b6d813a8485d648996b0a70eba04542f2d14582dd40dbc8ff7a0e9062d0ae58"
+  }
+}

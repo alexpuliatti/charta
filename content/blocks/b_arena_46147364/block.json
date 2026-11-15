@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46147364",
+  "type": "link",
+  "title": "McLane Teitel",
+  "description": "McLane Teitel is a product and visual designer based in Brooklyn, New York.",
+  "category": "Interface design",
+  "tags": [
+    "portfolio",
+    "product-design",
+    "visual-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-546415ad4a1726dddd376eaa.webp",
+      "mimeType": "image/webp",
+      "alt": "McLane Teitel",
+      "role": "thumbnail",
+      "bytes": 884,
+      "sha256": "546415ad4a1726dddd376eaabda24a02eb81bd4b028202b2e6a384247450fe04",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0NzM2NC9vcmlnaW5hbF8yOTNmNmVmZmUzNmRkYWZhMWYzNDk0NmQ5ZTE2NzM0NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "293f6effe36ddafa1f34946d9e167345.png"
+    },
+    {
+      "path": "assets/preview-9a2a6cb55c2e1b1028c59bf9.webp",
+      "mimeType": "image/webp",
+      "alt": "McLane Teitel",
+      "role": "preview",
+      "bytes": 14044,
+      "sha256": "9a2a6cb55c2e1b1028c59bf90408ab93e3db1d4746e7bd7385994e33d3a8275c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46147364/original_293f6effe36ddafa1f34946d9e167345.png",
+      "originalName": "293f6effe36ddafa1f34946d9e167345.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 53552,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T14:28:17.000Z",
+  "updatedAt": "2026-05-14T14:28:25.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://mc1ane.com/",
+    "title": "McLane Teitel",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46147364,
+      "url": "https://www.are.na/block/46147364",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "McLane Teitel",
+      "createdAt": "2026-05-14T14:28:17Z",
+      "updatedAt": "2026-05-14T14:28:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "McLane Teitel",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

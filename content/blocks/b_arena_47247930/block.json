@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247930",
+  "type": "image",
+  "title": "Loft Dining",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "loft-dining",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1c36e2a9ef48a2effab2a88c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Loft Dining",
+      "role": "original",
+      "bytes": 286524,
+      "sha256": "1c36e2a9ef48a2effab2a88c1258b76d5e7e672653eb899d038709c01185f70c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247930/original_30461886e9a32d12a1438e8bdb4ebcfd.jpeg",
+      "originalName": "30461886e9a32d12a1438e8bdb4ebcfd.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f598dd172937d4b94e99fa37.webp",
+      "mimeType": "image/webp",
+      "alt": "Loft Dining",
+      "role": "thumbnail",
+      "bytes": 18608,
+      "sha256": "f598dd172937d4b94e99fa37934455e7c150791eb0965c5eead83c06c830792b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkzMC9vcmlnaW5hbF8zMDQ2MTg4NmU5YTMyZDEyYTE0MzhlOGJkYjRlYmNmZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "30461886e9a32d12a1438e8bdb4ebcfd.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-1c36e2a9ef48a2effab2a88c-1c36e2a9ef.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Loft Dining",
+      "bytes": 240064,
+      "sha256": "9704f4dd1e1f5be0536b708a0549bf8807f281ec6d36d410544c87a52126b6dc",
+      "width": 1390,
+      "height": 927,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1c36e2a9ef48a2effab2a88c.jpg",
+        "sourceSha256": "1c36e2a9ef48a2effab2a88c1258b76d5e7e672653eb899d038709c01185f70c",
+        "originalBytes": 286524,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:07.000Z",
+  "updatedAt": "2026-09-21T20:40:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247930",
+    "title": "HGiD17KXgAA2FxD",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247930,
+      "url": "https://www.are.na/block/47247930",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HGiD17KXgAA2FxD",
+      "createdAt": "2026-06-23T14:30:07Z",
+      "updatedAt": "2026-09-21T20:40:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HGiD17KXgAA2FxD",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Loft Dining",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9704f4dd1e1f5be0536b708a0549bf8807f281ec6d36d410544c87a52126b6dc"
+  }
+}

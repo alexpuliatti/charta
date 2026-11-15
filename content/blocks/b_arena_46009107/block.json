@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46009107",
+  "type": "video",
+  "title": "Paired Glyphs",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "paired-glyphs",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-78782344087d9c9989a06333.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778442898074",
+      "role": "original",
+      "bytes": 3664954,
+      "sha256": "78782344087d9c9989a06333cf6371bbb03a69bb3c91aca39d1a7a722bc0c22e",
+      "sourceUrl": "https://attachments.are.na/46009107/e8eff2284eace072917dff3b9197156a.mp4",
+      "originalName": "e8eff2284eace072917dff3b9197156a.mp4"
+    },
+    {
+      "path": "assets/thumbnail-eece85a5bc1a3240fc3595a5.webp",
+      "mimeType": "image/webp",
+      "alt": "Paired Glyphs",
+      "role": "thumbnail",
+      "bytes": 1230,
+      "sha256": "eece85a5bc1a3240fc3595a53bfca55c5410982d5de75dad2f996ac1d83b4df3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAwOTEwNy9vcmlnaW5hbF9iMzI2ZGQzZDI5OWM0ODYxMjAyNjA1MTEtMi04NHRoeXIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b326dd3d299c486120260511-2-84thyr.png"
+    },
+    {
+      "path": "assets/display-web-original-78782344087d9c9989a06333-7878234408.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778442898074",
+      "bytes": 1627392,
+      "sha256": "22413d39595b284a7198e8bd9b213728fccb665b26e92b755472f5387688c080",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-78782344087d9c9989a06333.mp4",
+        "sourceSha256": "78782344087d9c9989a06333cf6371bbb03a69bb3c91aca39d1a7a722bc0c22e",
+        "originalBytes": 3664954,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-fe469c8e3cf509e4c4ddefd2.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778442898074",
+      "role": "preview",
+      "bytes": 27292,
+      "sha256": "fe469c8e3cf509e4c4ddefd290ff7106b18e039e77aba65ab27469e05259e55f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46009107/original_b326dd3d299c486120260511-2-84thyr.png",
+      "originalName": "b326dd3d299c486120260511-2-84thyr.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 153855,
+        "width": 1920,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T08:54:57.000Z",
+  "updatedAt": "2026-08-23T11:33:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46009107",
+    "title": "ssstwitter.com_1778442898074",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46009107,
+      "url": "https://www.are.na/block/46009107",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778442898074",
+      "createdAt": "2026-05-11T08:54:57Z",
+      "updatedAt": "2026-08-23T11:33:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778442898074",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Paired Glyphs",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "eece85a5bc1a3240fc3595a53bfca55c5410982d5de75dad2f996ac1d83b4df3"
+  }
+}

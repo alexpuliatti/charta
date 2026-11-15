@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46109512",
+  "type": "link",
+  "title": "Train GPT",
+  "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five. - raiyanyahya/how-to-train-your-gpt",
+  "category": "Technology",
+  "tags": [
+    "language-models",
+    "training",
+    "open-source"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2e60d31908e9727db99176f4.webp",
+      "mimeType": "image/webp",
+      "alt": "GitHub - raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+      "role": "thumbnail",
+      "bytes": 15424,
+      "sha256": "2e60d31908e9727db99176f4a66ee3a43c88d5f09c923a8b1ad8c5b2c6734117",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjEwOTUxMi9vcmlnaW5hbF82ZmMyMDA1MmVkMDdmZWFiMDhkNzllZDVjZGI5Y2EzYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6fc20052ed07feab08d79ed5cdb9ca3c.png"
+    },
+    {
+      "path": "assets/preview-eb3414c76fd24e423936bfe4.webp",
+      "mimeType": "image/webp",
+      "alt": "GitHub - raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+      "role": "preview",
+      "bytes": 226514,
+      "sha256": "eb3414c76fd24e423936bfe404fc26efbf415a4f14a65b5388e2c1ca587a2c3f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46109512/original_6fc20052ed07feab08d79ed5cdb9ca3c.png",
+      "originalName": "6fc20052ed07feab08d79ed5cdb9ca3c.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 622426,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:07:32.000Z",
+  "updatedAt": "2026-05-13T10:07:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt/tree/master",
+    "title": "GitHub - raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46109512,
+      "url": "https://www.are.na/block/46109512",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "GitHub - raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+      "createdAt": "2026-05-13T10:07:32Z",
+      "updatedAt": "2026-05-13T10:07:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GitHub - raiyanyahya/how-to-train-your-gpt: Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "programming",
+        "open-source",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

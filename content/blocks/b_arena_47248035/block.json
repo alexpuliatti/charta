@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47248035",
+  "type": "image",
+  "title": "Red Portfolio",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "red-portfolio",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c638ed4633ea165f93a31bb5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Red Portfolio",
+      "role": "original",
+      "bytes": 26411,
+      "sha256": "c638ed4633ea165f93a31bb503bc926a065547c21c0a0c924a4e7aec9b714dcd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47248035/original_b83a8a0dc2f7ba0eefd7ce2c51da82aa.jpeg",
+      "originalName": "b83a8a0dc2f7ba0eefd7ce2c51da82aa.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-9ad9c1402a0077f502dc4e89.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Portfolio",
+      "role": "thumbnail",
+      "bytes": 1504,
+      "sha256": "9ad9c1402a0077f502dc4e893214422f2d5ca7b804e630eaac113f8325e556c2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0ODAzNS9vcmlnaW5hbF9iODNhOGEwZGMyZjdiYTBlZWZkN2NlMmM1MWRhODJhYS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b83a8a0dc2f7ba0eefd7ce2c51da82aa.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c638ed4633ea165f93a31bb5-c638ed4633.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Portfolio",
+      "bytes": 12156,
+      "sha256": "c1a71a53d408da0e134539aee4455ef9dcfc915593e61f39d3c5d4c95b917bbe",
+      "width": 1199,
+      "height": 687,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c638ed4633ea165f93a31bb5.jpg",
+        "sourceSha256": "c638ed4633ea165f93a31bb503bc926a065547c21c0a0c924a4e7aec9b714dcd",
+        "originalBytes": 26411,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:31:11.000Z",
+  "updatedAt": "2026-06-23T14:31:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47248035",
+    "title": "1cbb9dd6472433d56d83b87970169e6b",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47248035,
+      "url": "https://www.are.na/block/47248035",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "1cbb9dd6472433d56d83b87970169e6b",
+      "createdAt": "2026-06-23T14:31:11Z",
+      "updatedAt": "2026-06-23T14:31:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "1cbb9dd6472433d56d83b87970169e6b",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Portfolio",
+    "text": "JEREMY ELLIOT\nDesigner based in Brooklyn, NY.\nFormerly Creative Director at Firstborn.\nCurrently bullding a new studio with Noemle Le Coz - Little Troop.\njeremyfredelliot@gmail.com\nLinkedin - WNW\nSELECT CLIENTS\nAdidas\nBillie\nOffCourt\nCove\nPax\nGirigaze\nPuma\nHilma\nsamsung",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c1a71a53d408da0e134539aee4455ef9dcfc915593e61f39d3c5d4c95b917bbe"
+  }
+}

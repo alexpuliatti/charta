@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340227",
+  "type": "image",
+  "title": "Benetton Faces",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "benetton-faces",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-62254bf5ea251a86f267b7b1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Benetton Faces",
+      "role": "original",
+      "bytes": 84866,
+      "sha256": "62254bf5ea251a86f267b7b18246d74c05ce9efbdc93ed5fce287af503dc06fe",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340227/original_d235efb86f709df8bcbd639f76e2e4a4.jpg",
+      "originalName": "d235efb86f709df8bcbd639f76e2e4a4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-aa5f5f174ef4dffc46c22b0d.webp",
+      "mimeType": "image/webp",
+      "alt": "Benetton Faces",
+      "role": "thumbnail",
+      "bytes": 11180,
+      "sha256": "aa5f5f174ef4dffc46c22b0d5b71fa47ea36fd8e4f051ce7a2d745a896520a2b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIyNy9vcmlnaW5hbF9kMjM1ZWZiODZmNzA5ZGY4YmNiZDYzOWY3NmUyZTRhNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d235efb86f709df8bcbd639f76e2e4a4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-62254bf5ea251a86f267b7b1-62254bf5ea.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Benetton Faces",
+      "bytes": 62286,
+      "sha256": "bc6249b9b3514ebd5af2c9bb70fac92a5e1ce6d5fc5ab8522fc87a7832c673d8",
+      "width": 665,
+      "height": 1000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-62254bf5ea251a86f267b7b1.jpg",
+        "sourceSha256": "62254bf5ea251a86f267b7b18246d74c05ce9efbdc93ed5fce287af503dc06fe",
+        "originalBytes": 84866,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340227",
+    "title": "886accd9b5dbd6f123048ddac8be9c09.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340227,
+      "url": "https://www.are.na/block/44340227",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "886accd9b5dbd6f123048ddac8be9c09.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "886accd9b5dbd6f123048ddac8be9c09.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Benetton Faces",
+    "text": "Benetton Retail\nTHE FACES.\n9000 portraits of ordinary people across the globe. The Faces\nreveals the DNA of the beauty of the future: young men and women\nof every nationality, an atlas of harmony and grace which goes\nbeyond the commonplace and beyond ethnic differences.\nUNITED COLORS\nOF BENETTON.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bc6249b9b3514ebd5af2c9bb70fac92a5e1ce6d5fc5ab8522fc87a7832c673d8"
+  }
+}

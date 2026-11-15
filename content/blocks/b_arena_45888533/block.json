@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888533",
+  "type": "image",
+  "title": "Sitting Room",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "sitting-room",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-300c41fc75d3180dd3081bdd.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sitting Room",
+      "role": "original",
+      "bytes": 78659,
+      "sha256": "300c41fc75d3180dd3081bdd372d862af95d49b4ec41037a21c31756cbe93319",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888533/original_ac0798383886eeed2e3b8850a0094329.jpeg",
+      "originalName": "ac0798383886eeed2e3b8850a0094329.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0c1d5604921bc8765513dc57.webp",
+      "mimeType": "image/webp",
+      "alt": "Sitting Room",
+      "role": "thumbnail",
+      "bytes": 9474,
+      "sha256": "0c1d5604921bc8765513dc579837a6fd3439557f32e28421ccc0d40d087c5918",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUzMy9vcmlnaW5hbF9hYzA3OTgzODM4ODZlZWVkMmUzYjg4NTBhMDA5NDMyOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ac0798383886eeed2e3b8850a0094329.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-300c41fc75d3180dd3081bdd-300c41fc75.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sitting Room",
+      "bytes": 64764,
+      "sha256": "f01f73590561067461c74a399089a41638a37ae6887593147b5b88524aab2e2f",
+      "width": 995,
+      "height": 1000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-300c41fc75d3180dd3081bdd.jpg",
+        "sourceSha256": "300c41fc75d3180dd3081bdd372d862af95d49b4ec41037a21c31756cbe93319",
+        "originalBytes": 78659,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:28.000Z",
+  "updatedAt": "2026-05-06T12:21:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888533",
+    "title": "7747c05b1c1fe3d7e7078fd5ba620ddb.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888533,
+      "url": "https://www.are.na/block/45888533",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "7747c05b1c1fe3d7e7078fd5ba620ddb.jpg",
+      "createdAt": "2026-05-06T12:21:28Z",
+      "updatedAt": "2026-05-06T12:21:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "7747c05b1c1fe3d7e7078fd5ba620ddb.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sitting Room",
+    "text": "I AM SITTING IN A ROOM\nALVIN LUCIER",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f01f73590561067461c74a399089a41638a37ae6887593147b5b88524aab2e2f"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_13757616",
+  "type": "image",
+  "title": "Pastel Editorial",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "pastel-editorial",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-69e1129112b10644e71b396d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Pastel Editorial",
+      "role": "original",
+      "bytes": 347063,
+      "sha256": "69e1129112b10644e71b396dd7632a2fb58e9baa3d2e30053b17e97a3e79133c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/13757616/original_d912a8174efd7754af75481c9c98c04a.jpg",
+      "originalName": "d912a8174efd7754af75481c9c98c04a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8cce340718a012e89330c199.webp",
+      "mimeType": "image/webp",
+      "alt": "Pastel Editorial",
+      "role": "thumbnail",
+      "bytes": 4642,
+      "sha256": "8cce340718a012e89330c199760611a22445e865af7dd2e95cd34f223140797d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMzc1NzYxNi9vcmlnaW5hbF9kOTEyYTgxNzRlZmQ3NzU0YWY3NTQ4MWM5Yzk4YzA0YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d912a8174efd7754af75481c9c98c04a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-69e1129112b10644e71b396d-69e1129112.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pastel Editorial",
+      "bytes": 109846,
+      "sha256": "e6e2f053b36a01aacf3ca96461fe422d81d96a6c618ee4a0ea4e02ac9d0a0cac",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-69e1129112b10644e71b396d.jpg",
+        "sourceSha256": "69e1129112b10644e71b396dd7632a2fb58e9baa3d2e30053b17e97a3e79133c",
+        "originalBytes": 347063,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2021-10-28T20:07:46.000Z",
+  "updatedAt": "2026-10-30T10:36:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://the-brandidentity.com/uploads/articles/2021/04/dutchscot-devise-dynamic-identity-system-london-based-interior-design-studio-littlemore/Littlemore-DutchScot-7.jpg",
+    "title": "Littlemore-DutchScot-7.jpg 2,000×1,333 pixels",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 13757616,
+      "url": "https://www.are.na/block/13757616",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "littlemore-dutchscot-7.jpg",
+      "createdAt": "2021-10-28T20:07:46Z",
+      "updatedAt": "2026-10-30T10:36:32Z",
+      "addedBy": {
+        "id": 62001,
+        "name": "Matija Gabrilo",
+        "slug": "matija-gabrilo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "littlemore-dutchscot-7.jpg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pastel Editorial",
+    "text": "CLIENT\nPROTECT\nCTACE\nDATE\nRitz-Cariton\nMuscat Hotel\nCHIENT\nPROIRCT\nSTAGE\nProsect title\n0.0\n00.00.00\nLitelmore is a London based interior design\nstudio established by Sameena Singh. We are as\nCIENT\nPROIECT\nDATE\nheartamil\nSt. John's Wood\n170819\nand all the sectors in between. Rather chan\nleaning on trends, all our work is born our of\nfinding that elusive HARMONY berween\nseemingly opposing forces\n- be it light and\nwork and\nshade, radition and modernity mck and\nor minimalism and\nplay or lilie and more. Our process is a finely\nTined BALANCE. Curiosity and audacity\ncombine with experience and sensibility to\nform a potent and award-winning combination.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e6e2f053b36a01aacf3ca96461fe422d81d96a6c618ee4a0ea4e02ac9d0a0cac"
+  }
+}

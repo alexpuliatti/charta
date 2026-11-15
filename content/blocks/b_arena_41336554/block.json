@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_41336554",
+  "type": "link",
+  "title": "Living Subcultures",
+  "description": "Proof of new-ness from a basement in Hong Kong.",
+  "category": "Writing",
+  "tags": [
+    "subculture",
+    "culture",
+    "hong-kong"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-d05831b7b1dbdb288af522de.webp",
+      "mimeType": "image/webp",
+      "alt": "Subculture Never Died; You Just Stopped Looking For It",
+      "role": "thumbnail",
+      "bytes": 17750,
+      "sha256": "d05831b7b1dbdb288af522de5f7454b2e457f2961cb101ef14f4f2ed045040c7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MTMzNjU1NC9vcmlnaW5hbF8xZWE5ZmIyYzhhZmFjMzdmMzE5Yjg5NjgyYzZhY2ZiNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1ea9fb2c8afac37f319b89682c6acfb4.png"
+    },
+    {
+      "path": "assets/preview-8482422b4880ff9c5972f0ef.webp",
+      "mimeType": "image/webp",
+      "alt": "Subculture Never Died; You Just Stopped Looking For It",
+      "role": "preview",
+      "bytes": 436930,
+      "sha256": "8482422b4880ff9c5972f0efdabb02bdca475b0eded6c87db0de38133cf7bf69",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/41336554/original_1ea9fb2c8afac37f319b89682c6acfb4.png",
+      "originalName": "1ea9fb2c8afac37f319b89682c6acfb4.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 3278001,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-24T10:25:27.000Z",
+  "updatedAt": "2025-11-24T10:25:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.thechow.net/p/subculture-is-not-dead",
+    "title": "Subculture Never Died; You Just Stopped Looking For It",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 41336554,
+      "url": "https://www.are.na/block/41336554",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Subculture Never Died; You Just Stopped Looking For It",
+      "createdAt": "2025-11-24T10:25:27Z",
+      "updatedAt": "2025-11-24T10:25:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Subculture Never Died; You Just Stopped Looking For It",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_25595195",
+      "reason": "Both focus on communities and subcultures; the report discusses commodification while the essay documents living subculture.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_45889816",
+      "reason": "Both ask whether contemporary culture is stagnant; the report argues hyper-optimization, while the essay supplies a counterexample of active subculture.",
+      "method": "curation-v1"
+    }
+  ]
+}

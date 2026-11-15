@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247925",
+  "type": "image",
+  "title": "Low Hearth",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "low-hearth",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cd79bdf1cec2a8ecb477715b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Low Hearth",
+      "role": "original",
+      "bytes": 145828,
+      "sha256": "cd79bdf1cec2a8ecb477715b36fcba41712e73347da81e59e2c206809a6d3d3f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247925/original_4d357011a0f10bc045fa3d5d831eb2ff.jpeg",
+      "originalName": "4d357011a0f10bc045fa3d5d831eb2ff.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-ff629060cc76c94961ebae68.webp",
+      "mimeType": "image/webp",
+      "alt": "Low Hearth",
+      "role": "thumbnail",
+      "bytes": 8850,
+      "sha256": "ff629060cc76c94961ebae6891652731f68f43cfb2abd0f7cd0bafbb2f8fe528",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkyNS9vcmlnaW5hbF80ZDM1NzAxMWEwZjEwYmMwNDVmYTNkNWQ4MzFlYjJmZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4d357011a0f10bc045fa3d5d831eb2ff.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-cd79bdf1cec2a8ecb477715b-cd79bdf1ce.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Low Hearth",
+      "bytes": 95980,
+      "sha256": "b22b16f35e00c79327c04a84cc5e442edc79b93334dec1bbacf982c4e54371ca",
+      "width": 1390,
+      "height": 927,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cd79bdf1cec2a8ecb477715b.jpg",
+        "sourceSha256": "cd79bdf1cec2a8ecb477715b36fcba41712e73347da81e59e2c206809a6d3d3f",
+        "originalBytes": 145828,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:05.000Z",
+  "updatedAt": "2026-06-23T14:30:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247925",
+    "title": "HGiD6zsXwAE-tiX",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247925,
+      "url": "https://www.are.na/block/47247925",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HGiD6zsXwAE-tiX",
+      "createdAt": "2026-06-23T14:30:05Z",
+      "updatedAt": "2026-06-23T14:30:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HGiD6zsXwAE-tiX",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Low Hearth",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b22b16f35e00c79327c04a84cc5e442edc79b93334dec1bbacf982c4e54371ca"
+  }
+}

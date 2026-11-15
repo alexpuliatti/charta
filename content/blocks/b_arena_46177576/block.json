@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177576",
+  "type": "link",
+  "title": "Collect UI",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "ui-patterns"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1f4f7a5d49b4f10b46b9402e.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 11064,
+      "sha256": "1f4f7a5d49b4f10b46b9402e7539a6d9e4741ce717aae6a4dcd4913b950845fd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3NzU3Ni9vcmlnaW5hbF8zMDUzMDQyOWIzY2ZlNWU4YzFhYjllYjBiMDdhZTIyNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "30530429b3cfe5e8c1ab9eb0b07ae227.png"
+    },
+    {
+      "path": "assets/preview-660497222b8a459d2e75035b.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 74746,
+      "sha256": "660497222b8a459d2e75035b3f89a0fa5240e41a92cce4ba1c7df279d68dec46",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177576/original_30530429b3cfe5e8c1ab9eb0b07ae227.png",
+      "originalName": "30530429b3cfe5e8c1ab9eb0b07ae227.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 168130,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:02:40.000Z",
+  "updatedAt": "2026-05-15T12:03:14.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://collectui.com/",
+    "title": "Link · design-tools · 46177576",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177576,
+      "url": "https://www.are.na/block/46177576",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-15T12:02:40Z",
+      "updatedAt": "2026-05-15T12:03:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · design-tools · 46177576",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

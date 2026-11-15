@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_9457690",
+  "type": "image",
+  "title": "Dancer Silhouette",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "dancer-silhouette",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b0e7da601af727854b5343dc.gif",
+      "mimeType": "image/gif",
+      "alt": "Dancer Silhouette",
+      "role": "original",
+      "bytes": 11808386,
+      "sha256": "b0e7da601af727854b5343dcd246c37ffbc9c98cc633fe339177df6218139f2f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/9457690/original_a0ed636f67b67a38a407e9c7c588a4ee.gif",
+      "originalName": "a0ed636f67b67a38a407e9c7c588a4ee.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2020-11-10T22:48:18.000Z",
+  "updatedAt": "2026-11-12T05:20:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/9457690",
+    "title": "stefanie-nelson-dancegroup_line.gif",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 9457690,
+      "url": "https://www.are.na/block/9457690",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "stefanie-nelson-dancegroup_line.gif",
+      "createdAt": "2020-11-10T22:48:18Z",
+      "updatedAt": "2026-11-12T05:20:38Z",
+      "addedBy": {
+        "id": 31178,
+        "name": "Lu –",
+        "slug": "lu-nty5h7yjoyq"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "stefanie-nelson-dancegroup_line.gif",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dancer Silhouette",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b0e7da601af727854b5343dcd246c37ffbc9c98cc633fe339177df6218139f2f"
+  }
+}

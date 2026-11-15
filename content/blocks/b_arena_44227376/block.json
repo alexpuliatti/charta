@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227376",
+  "type": "image",
+  "title": "Research Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "research-workspace",
+    "interaction-design",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b6743e72941584ea316cea88.png",
+      "mimeType": "image/png",
+      "alt": "Research Workspace",
+      "role": "original",
+      "bytes": 217177,
+      "sha256": "b6743e72941584ea316cea8889c5a443c4874edd0438af04a0b2c76b5cc0042b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227376/original_23c25e0b7318024ac2ddd0c4ee1171f7.png",
+      "originalName": "23c25e0b7318024ac2ddd0c4ee1171f7.png"
+    },
+    {
+      "path": "assets/thumbnail-fb9e7788444eb82ee016e6b2.webp",
+      "mimeType": "image/webp",
+      "alt": "Research Workspace",
+      "role": "thumbnail",
+      "bytes": 5876,
+      "sha256": "fb9e7788444eb82ee016e6b2df8167a46b9901b016eaa20df9050bd6a4124a82",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM3Ni9vcmlnaW5hbF8yM2MyNWUwYjczMTgwMjRhYzJkZGQwYzRlZTExNzFmNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "23c25e0b7318024ac2ddd0c4ee1171f7.png"
+    },
+    {
+      "path": "assets/display-web-original-b6743e72941584ea316cea88-b6743e7294.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Research Workspace",
+      "bytes": 66970,
+      "sha256": "ec0b8f0d9a1b3cfb22caa66a51725ddbbc031138f4c2af1c6c614534dfe9cb03",
+      "width": 1600,
+      "height": 1168,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b6743e72941584ea316cea88.png",
+        "sourceSha256": "b6743e72941584ea316cea8889c5a443c4874edd0438af04a0b2c76b5cc0042b",
+        "originalBytes": 217177,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-05-06T12:19:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227376",
+    "title": "screenshot-2026-03-07-alle-23.34.53.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227376,
+      "url": "https://www.are.na/block/44227376",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.34.53.png",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-05-06T12:19:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.34.53.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594",
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Research Workspace",
+    "text": "Notes\nProjects\nArchive\nAll Notes\n+\nLast edited today at 10:42 AM\nArchitecture Research\n10:42 AM\nArchitecture Research\nNotes on the brutalist movement and its im...\nYESTERDAY\nMeeting: Cirkel Sector\nDiscuss timeline for the archival project lau...\nThe project explores the intersection of digital archives and physical layout systems.\n1. Layout Physics\nThe interface relies on a strict separation of concerns, mimicking a filing cabinet. The tabs at the top\nprovide context switching without losing the sense of permanence.\nOCT 24\nMaterial Palette\nConcrete, raw steel, unbleached paper. Nee...\nOCT 22\nTypography System\nExploring monospace pairings for the head...\n2. Visual DNA\n- Colors: Monochromatic warm greys with high contrast black ink.\n- Typography: Functional, grotesque sans-serif.\n- Shapes: Softened geometric forms, specifically the tab shape.\nTo Do:\n- [] Finalize color contrast ratios\n- [] Export SVG assets for the folder tabs\n- [] Review mobile responsiveness logic\nReference material includes early 20th-century Dutch design manuals and industrial filing systems.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ec0b8f0d9a1b3cfb22caa66a51725ddbbc031138f4c2af1c6c614534dfe9cb03"
+  }
+}

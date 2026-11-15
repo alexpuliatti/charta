@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888678",
+  "type": "image",
+  "title": "Film Reels",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "film-reels",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8a60319530d43918ec8fe3c4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Film Reels",
+      "role": "original",
+      "bytes": 177424,
+      "sha256": "8a60319530d43918ec8fe3c4aecc7bb27dba9421cefac291a2b4f67badf98fe8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888678/original_a1206aad35094476322107f6f753446a.jpeg",
+      "originalName": "a1206aad35094476322107f6f753446a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e87dca3b9c64536189c1f336.webp",
+      "mimeType": "image/webp",
+      "alt": "Film Reels",
+      "role": "thumbnail",
+      "bytes": 11740,
+      "sha256": "e87dca3b9c64536189c1f3368943f392c326be4a8ad39e10093a90679849401e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY3OC9vcmlnaW5hbF9hMTIwNmFhZDM1MDk0NDc2MzIyMTA3ZjZmNzUzNDQ2YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a1206aad35094476322107f6f753446a.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:52.000Z",
+  "updatedAt": "2026-05-06T12:25:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888678",
+    "title": "rominamaltabigcreek.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888678,
+      "url": "https://www.are.na/block/45888678",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "rominamaltabigcreek.jpg",
+      "createdAt": "2026-05-06T12:25:52Z",
+      "updatedAt": "2026-05-06T12:25:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "rominamaltabigcreek.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Film Reels",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8a60319530d43918ec8fe3c4aecc7bb27dba9421cefac291a2b4f67badf98fe8"
+  }
+}

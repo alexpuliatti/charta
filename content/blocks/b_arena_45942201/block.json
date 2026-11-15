@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942201",
+  "type": "image",
+  "title": "Glyph Settings",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glyph-settings",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8b06f7f0936996b6e439e167.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glyph Settings",
+      "role": "original",
+      "bytes": 442518,
+      "sha256": "8b06f7f0936996b6e439e16729279bbdbe4f72e44ce42d6653eaa20371552b65",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942201/original_44bb6d022f17c1e9299d1c1bd5386abf.jpeg",
+      "originalName": "44bb6d022f17c1e9299d1c1bd5386abf.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-343d94a572882bff2d3cc7c3.webp",
+      "mimeType": "image/webp",
+      "alt": "Glyph Settings",
+      "role": "thumbnail",
+      "bytes": 13220,
+      "sha256": "343d94a572882bff2d3cc7c34768c0135570ed9591b855a454c753bb8e6a1f98",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIwMS9vcmlnaW5hbF80NGJiNmQwMjJmMTdjMWU5Mjk5ZDFjMWJkNTM4NmFiZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "44bb6d022f17c1e9299d1c1bd5386abf.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8b06f7f0936996b6e439e167-8b06f7f093.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glyph Settings",
+      "bytes": 257902,
+      "sha256": "83b7ceda7e2a7536f2c17ffe20f2e6d594856168d31642cfda61db2b2ee5cd70",
+      "width": 2000,
+      "height": 952,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8b06f7f0936996b6e439e167.jpg",
+        "sourceSha256": "8b06f7f0936996b6e439e16729279bbdbe4f72e44ce42d6653eaa20371552b65",
+        "originalBytes": 442518,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:06.000Z",
+  "updatedAt": "2026-05-08T09:25:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942201",
+    "title": "hhqpvria4aa0hdx.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942201,
+      "url": "https://www.are.na/block/45942201",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhqpvria4aa0hdx.jpeg",
+      "createdAt": "2026-05-08T09:25:06Z",
+      "updatedAt": "2026-05-08T09:25:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhqpvria4aa0hdx.jpeg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glyph Settings",
+    "text": "Name:\nperfect blue copy\nStyles\nBlending Options\nBevel & Emboss\nContour\nTexture\nStroke\nInner Shadow\nInner Shadow\n• Inner Shadow\n• Inner Shadow\n• Inner Shadow\n• Inner Shadow\nInner Shadow\n• Inner Shadow\n• Inner Shadow\nColor Overlay\n+\nLayer Style\nBevel & Emboss\nStructure\nStyle:\nInner Bevel\nTechnique:\nChisel Hard v\nDepth:\n199\nDirection:\n• Up\n• Down\nSize:\n213\nSoften:\nShading\nAngle:\nAltitude:\n56\n36\nUse Global Light\nGloss Contour:\nAnti-aliased\nHighlight Mode:\nNormal\nOpacity:\n82\nShadow Mode:\nScreen\nOpacity:\n100\nMake Default\n%\npx\npx\nReset to Default\nOK\nCancel\nNew Style...\nPreview",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "83b7ceda7e2a7536f2c17ffe20f2e6d594856168d31642cfda61db2b2ee5cd70"
+  }
+}

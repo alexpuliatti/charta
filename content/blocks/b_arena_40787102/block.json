@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787102",
+  "type": "image",
+  "title": "Outdoor Stack",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "outdoor-stack",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bbdce95eb3d7e58d8fdfaa42.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Outdoor Stack",
+      "role": "original",
+      "bytes": 453131,
+      "sha256": "bbdce95eb3d7e58d8fdfaa4201cc35adfc380d33d4ce2737b17031ba491b0a67",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787102/original_07a1b4176eb49b71063738fff307d181.jpg",
+      "originalName": "07a1b4176eb49b71063738fff307d181.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c327c45443c1cc506dbeca3b.webp",
+      "mimeType": "image/webp",
+      "alt": "Outdoor Stack",
+      "role": "thumbnail",
+      "bytes": 21228,
+      "sha256": "c327c45443c1cc506dbeca3be5eb7b1f381a47b2a6e6a0bed4627a2cbdc00c9d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwMi9vcmlnaW5hbF8wN2ExYjQxNzZlYjQ5YjcxMDYzNzM4ZmZmMzA3ZDE4MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "07a1b4176eb49b71063738fff307d181.jpg"
+    },
+    {
+      "path": "assets/display-web-original-bbdce95eb3d7e58d8fdfaa42-bbdce95eb3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Outdoor Stack",
+      "bytes": 297818,
+      "sha256": "d1d7f219ee6c0264b142758934a4f092116abbf73da94581bc4da9123011dfcc",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bbdce95eb3d7e58d8fdfaa42.jpg",
+        "sourceSha256": "bbdce95eb3d7e58d8fdfaa4201cc35adfc380d33d4ce2737b17031ba491b0a67",
+        "originalBytes": 453131,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:44.000Z",
+  "updatedAt": "2025-11-02T15:26:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787102",
+    "title": "designedbyforma-20251012_184632-1699912193.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787102,
+      "url": "https://www.are.na/block/40787102",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "designedbyforma-20251012_184632-1699912193.jpg",
+      "createdAt": "2025-11-02T15:26:44Z",
+      "updatedAt": "2025-11-02T15:26:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "designedbyforma-20251012_184632-1699912193.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Outdoor Stack",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d1d7f219ee6c0264b142758934a4f092116abbf73da94581bc4da9123011dfcc"
+  }
+}

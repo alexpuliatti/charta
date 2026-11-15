@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579117",
+  "type": "link",
+  "title": "Synaptrix Labs",
+  "description": "Introducing Neuralis by Synaptrix Labs, the first device that allows paralyzed patients to move their wheelchairs through brain activity alone, powered by our novel AI based EEG signal processing model that makes it possible.",
+  "category": "Companies",
+  "tags": [
+    "brain-computer-interfaces",
+    "eeg",
+    "assistive-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-c296455c73cbee0d8ae7d70c.webp",
+      "mimeType": "image/webp",
+      "alt": "Synaptrix Labs | AI powered Brain-computer interface Solutions",
+      "role": "thumbnail",
+      "bytes": 25488,
+      "sha256": "c296455c73cbee0d8ae7d70c29b567804acba8e015523440bec02d8ef49a9681",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTExNy9vcmlnaW5hbF84ZDgzMTMzYTJmYjc3MmYxNjJiNjYyNzMwMTM1YzBjOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8d83133a2fb772f162b662730135c0c9.png"
+    },
+    {
+      "path": "assets/preview-16a601ad01fb3d4540a22bf8.webp",
+      "mimeType": "image/webp",
+      "alt": "Synaptrix Labs | AI powered Brain-computer interface Solutions",
+      "role": "preview",
+      "bytes": 735186,
+      "sha256": "16a601ad01fb3d4540a22bf8f552e1d1c2915e3d0a3562ccf4cab7aafcd1f29c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579117/original_8d83133a2fb772f162b662730135c0c9.png",
+      "originalName": "8d83133a2fb772f162b662730135c0c9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 7188407,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:30:58.000Z",
+  "updatedAt": "2026-07-04T15:31:12.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.synaptrix-labs.com/",
+    "title": "Synaptrix Labs | AI powered Brain-computer interface Solutions",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579117,
+      "url": "https://www.are.na/block/47579117",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Synaptrix Labs | AI powered Brain-computer interface Solutions",
+      "createdAt": "2026-07-04T15:30:58Z",
+      "updatedAt": "2026-07-04T15:31:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Synaptrix Labs | AI powered Brain-computer interface Solutions",
+      "category": "Technology",
+      "tags": [
+        "interfaces",
+        "neurotechnology",
+        "artificial-intelligence",
+        "creative-coding",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

@@ -1,0 +1,883 @@
+{
+  "schemaVersion": 1,
+  "method": "assistant-reviewed-channel-context",
+  "channels": {
+    "7469": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "78535": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "88133": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "114272": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "137322": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "140121": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "201965": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "203987": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "218689": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "231009": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "247932": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "383381": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "426946": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "441681": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "445515": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "482179": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "553817": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "555475": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "566536": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "586653": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "673770": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "749994": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "878779": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "930385": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "952143": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "959255": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "979227": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1003657": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1064143": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1134714": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1189681": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1309829": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1328839": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1353190": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1371610": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1391443": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1587787": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1608053": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1675896": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1683212": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1683676": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1739787": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "1742887": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2000307": {
+      "folder": {
+        "id": "f_arena_knowledge",
+        "title": "Knowledge and culture",
+        "slug": "knowledge-and-culture"
+      },
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "knowledge-mapping",
+        "diagrams"
+      ]
+    },
+    "2006306": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2037566": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2132541": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2291463": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2551557": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2572187": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "2934705": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3253868": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3273874": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3670849": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3763862": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3784127": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3790168": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3935370": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "3962664": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "4402851": {
+      "folder": {
+        "id": "f_arena_knowledge",
+        "title": "Knowledge and culture",
+        "slug": "knowledge-and-culture"
+      },
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "futures",
+        "experimental-interfaces"
+      ]
+    },
+    "4402875": {
+      "folder": {
+        "id": "f_arena_knowledge",
+        "title": "Knowledge and culture",
+        "slug": "knowledge-and-culture"
+      },
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "cultural-criticism",
+        "research"
+      ]
+    },
+    "4403184": {
+      "folder": {
+        "id": "f_arena_digital",
+        "title": "Interfaces and tools",
+        "slug": "interfaces-and-tools"
+      },
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "user-experience",
+        "digital-products"
+      ]
+    },
+    "4408530": {
+      "folder": {
+        "id": "f_arena_sound",
+        "title": "Sound and hardware",
+        "slug": "sound-and-hardware"
+      },
+      "category": "Audio design",
+      "tags": [
+        "loudspeakers",
+        "audio-hardware",
+        "industrial-design",
+        "acoustics"
+      ]
+    },
+    "4408633": {
+      "folder": {
+        "id": "f_arena_spaces",
+        "title": "Spaces and objects",
+        "slug": "spaces-and-objects"
+      },
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior-architecture",
+        "furniture"
+      ]
+    },
+    "4491641": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "4534393": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "4555597": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "4879085": {
+      "folder": {
+        "id": "f_arena_spaces",
+        "title": "Spaces and objects",
+        "slug": "spaces-and-objects"
+      },
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "buildings",
+        "spatial-design",
+        "structures"
+      ]
+    },
+    "4894594": {
+      "folder": {
+        "id": "f_arena_graphic",
+        "title": "Graphic and motion design",
+        "slug": "graphic-and-motion-design"
+      },
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "typography",
+        "design-reference"
+      ]
+    },
+    "4921285": {
+      "folder": {
+        "id": "f_arena_spaces",
+        "title": "Spaces and objects",
+        "slug": "spaces-and-objects"
+      },
+      "category": "Objects and materials",
+      "tags": [
+        "objects",
+        "product-design",
+        "industrial-design",
+        "materials"
+      ]
+    },
+    "4956319": {
+      "folder": {
+        "id": "f_arena_linked",
+        "title": "Linked channels",
+        "slug": "linked-channels"
+      }
+    },
+    "5144967": {
+      "folder": {
+        "id": "f_arena_graphic",
+        "title": "Graphic and motion design",
+        "slug": "graphic-and-motion-design"
+      },
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "moving-image",
+        "kinetic-design"
+      ]
+    },
+    "5161126": {
+      "folder": {
+        "id": "f_arena_sound",
+        "title": "Sound and hardware",
+        "slug": "sound-and-hardware"
+      },
+      "category": "Audio design",
+      "tags": [
+        "speaker-project",
+        "loudspeakers",
+        "acoustic-design",
+        "product-design"
+      ]
+    },
+    "5164043": {
+      "folder": {
+        "id": "f_arena_knowledge",
+        "title": "Knowledge and culture",
+        "slug": "knowledge-and-culture"
+      },
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "mental-health",
+        "wearables",
+        "wellbeing"
+      ]
+    },
+    "5168602": {
+      "folder": {
+        "id": "f_arena_digital",
+        "title": "Interfaces and tools",
+        "slug": "interfaces-and-tools"
+      },
+      "category": "Tools and resources",
+      "tags": [
+        "design-tools",
+        "creative-technology",
+        "workflows",
+        "resources"
+      ]
+    },
+    "5397650": {
+      "folder": {
+        "id": "f_arena_knowledge",
+        "title": "Knowledge and culture",
+        "slug": "knowledge-and-culture"
+      },
+      "category": "Writing and ideas",
+      "tags": [
+        "social-commentary",
+        "history",
+        "culture",
+        "saved-writing"
+      ]
+    },
+    "5415870": {
+      "folder": {
+        "id": "f_arena_graphic",
+        "title": "Graphic and motion design",
+        "slug": "graphic-and-motion-design"
+      },
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "typography",
+        "publishing"
+      ]
+    }
+  },
+  "blocks": {
+    "2607873": {
+      "category": "Audio design",
+      "tags": [
+        "vintage-electronics",
+        "industrial-design",
+        "audio-hardware"
+      ]
+    },
+    "5092682": {
+      "category": "Illustration",
+      "tags": [
+        "illustration",
+        "drawing",
+        "visual-culture"
+      ]
+    },
+    "5262650": {
+      "category": "Objects and materials",
+      "tags": [
+        "handheld-devices",
+        "gaming",
+        "industrial-design"
+      ]
+    },
+    "17375164": {
+      "category": "Art",
+      "tags": [
+        "painting",
+        "figurative-art",
+        "visual-culture"
+      ]
+    },
+    "28211773": {
+      "category": "Art",
+      "tags": [
+        "sculpture",
+        "materials",
+        "glass"
+      ]
+    },
+    "37657607": {
+      "category": "Fashion",
+      "tags": [
+        "jewelry",
+        "accessories",
+        "product-design"
+      ]
+    },
+    "39496260": {
+      "category": "Fashion",
+      "tags": [
+        "fashion-editorial",
+        "portraiture",
+        "minimalism",
+        "black-and-white",
+        "editorial-layout"
+      ],
+      "title": "Monochrome fashion editorial — Spring/Summer 2024",
+      "description": "A monochrome fashion layout pairing portraits with restrained typography and a Spring/Summer 2024 caption.",
+      "classification": {
+        "method": "assistant-visual-review",
+        "version": "arena-taxonomy-1",
+        "inputs": [
+          "original-image",
+          "source-metadata"
+        ],
+        "visualAnalysis": true,
+        "basis": "visible-editorial-layout-and-clothing",
+        "sourceChannelIds": []
+      }
+    },
+    "39496263": {
+      "category": "Fashion",
+      "tags": [
+        "fashion-editorial",
+        "outerwear",
+        "blue",
+        "portraiture",
+        "editorial-layout",
+        "image-grid"
+      ],
+      "title": "Blue coat fashion editorial",
+      "description": "A blue coat editorial combining a close portrait with a grid of full-length photographs.",
+      "classification": {
+        "method": "assistant-visual-review",
+        "version": "arena-taxonomy-1",
+        "inputs": [
+          "original-image",
+          "source-metadata"
+        ],
+        "visualAnalysis": true,
+        "basis": "visible-editorial-layout-and-clothing",
+        "sourceChannelIds": []
+      }
+    },
+    "40766710": {
+      "category": "Health and neurotechnology",
+      "tags": [
+        "depression-research",
+        "mental-health",
+        "neurotechnology"
+      ]
+    },
+    "40766712": {
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurostimulation",
+        "mental-health",
+        "wearables"
+      ]
+    },
+    "40767680": {
+      "category": "Health and neurotechnology",
+      "tags": [
+        "brain-computer-interfaces",
+        "wearables",
+        "cognitive-health"
+      ]
+    },
+    "40767682": {
+      "category": "Health and neurotechnology",
+      "tags": [
+        "virtual-reality",
+        "biofeedback",
+        "mental-health"
+      ]
+    },
+    "43997051": {
+      "category": "Technology",
+      "tags": [
+        "generative-typography",
+        "creative-coding",
+        "simulation"
+      ]
+    },
+    "44255862": {
+      "category": "Graphic design",
+      "tags": [
+        "album-covers",
+        "typography",
+        "music-graphics"
+      ]
+    },
+    "44262701": {
+      "category": "Digital design",
+      "tags": [
+        "operating-systems",
+        "interfaces",
+        "modeless-design"
+      ]
+    },
+    "44365423": {
+      "category": "Digital design",
+      "tags": [
+        "playful-interfaces",
+        "music",
+        "interaction-design"
+      ]
+    },
+    "45888226": {
+      "category": "Digital design",
+      "tags": [
+        "software-design",
+        "design-engineering",
+        "reference-manuals"
+      ]
+    },
+    "45889805": {
+      "category": "Writing and ideas",
+      "tags": [
+        "design-criticism",
+        "platform-culture",
+        "reading"
+      ]
+    },
+    "45889809": {
+      "category": "Writing and ideas",
+      "tags": [
+        "branding",
+        "consumer-culture",
+        "reading"
+      ]
+    },
+    "45889822": {
+      "category": "Writing and ideas",
+      "tags": [
+        "sociology",
+        "modernity",
+        "reading"
+      ]
+    },
+    "45889841": {
+      "category": "Writing and ideas",
+      "tags": [
+        "social-media",
+        "platform-culture",
+        "reading"
+      ]
+    },
+    "45893188": {
+      "category": "Health and neurotechnology",
+      "tags": [
+        "wearables",
+        "sensing",
+        "spatial-computing"
+      ]
+    },
+    "45893277": {
+      "category": "Digital design",
+      "tags": [
+        "operating-systems",
+        "interfaces",
+        "speculative-design"
+      ]
+    },
+    "46717031": {
+      "category": "Objects and materials",
+      "tags": [
+        "plywood",
+        "joinery",
+        "materials"
+      ]
+    },
+    "47567580": {
+      "category": "Writing and ideas",
+      "tags": [
+        "history",
+        "economics",
+        "social-commentary"
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40758383",
+  "type": "link",
+  "title": "AI Slop",
+  "description": "AI slop isn’t invested in the order of events or even looking like reality. The slop is not the territory: it just smothers it in synthetic goop. It’s flooding the zone with AI shit.",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "culture",
+    "synthetic-media"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9052ae291b6d70c0fdaea6f7.webp",
+      "mimeType": "image/webp",
+      "alt": "Intensification - Kate Crawford - Eating the Future: The Metabolic Logic of AI Slop",
+      "role": "thumbnail",
+      "bytes": 14148,
+      "sha256": "9052ae291b6d70c0fdaea6f7157c7fedf46bbd93f73c566488bf5b3737b1fe7f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc1ODM4My9vcmlnaW5hbF80MmRiYTA4ODhlMDFlOGQwNTdiMTUyNTNmNWI4OWExZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "42dba0888e01e8d057b15253f5b89a1e.png"
+    },
+    {
+      "path": "assets/preview-48318602e45fce7baaccba2f.webp",
+      "mimeType": "image/webp",
+      "alt": "Intensification - Kate Crawford - Eating the Future: The Metabolic Logic of AI Slop",
+      "role": "preview",
+      "bytes": 264566,
+      "sha256": "48318602e45fce7baaccba2fe4a9fbc694956c7120a203018024b15787392d4e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40758383/original_42dba0888e01e8d057b15253f5b89a1e.png",
+      "originalName": "42dba0888e01e8d057b15253f5b89a1e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1920835,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-10-31T18:37:52.000Z",
+  "updatedAt": "2025-10-31T18:38:10.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.e-flux.com/architecture/intensification/6782975/eating-the-future-the-metabolic-logic-of-ai-slop",
+    "title": "Intensification - Kate Crawford - Eating the Future: The Metabolic Logic of AI Slop",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40758383,
+      "url": "https://www.are.na/block/40758383",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Intensification - Kate Crawford - Eating the Future: The Metabolic Logic of AI Slop",
+      "createdAt": "2025-10-31T18:37:52Z",
+      "updatedAt": "2025-10-31T18:38:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Intensification - Kate Crawford - Eating the Future: The Metabolic Logic of AI Slop",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_44241171",
+      "reason": "Both examine AI-generated culture and cognitive flattening; the saved descriptions explicitly identify synthetic media and cognition.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_46473931",
+      "reason": "Both discuss how AI changes cultural production and the role of human creative judgment.",
+      "method": "curation-v1"
+    }
+  ]
+}

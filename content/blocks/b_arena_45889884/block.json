@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889884",
+  "type": "image",
+  "title": "Writing Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "writing-workspace",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-64fba75f99b2b7b166f580cc.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Writing Workspace",
+      "role": "original",
+      "bytes": 188994,
+      "sha256": "64fba75f99b2b7b166f580ccdc826f5b80ba22b804b082f6d2ddeafcd0bb97bb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889884/original_7965be47f9b6ad009bac6a57ee36dd4b.jpeg",
+      "originalName": "7965be47f9b6ad009bac6a57ee36dd4b.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d829d964e1ae546db8fb6d5c.webp",
+      "mimeType": "image/webp",
+      "alt": "Writing Workspace",
+      "role": "thumbnail",
+      "bytes": 6520,
+      "sha256": "d829d964e1ae546db8fb6d5c81392474281bfd44e8fcb25495bf6b8f51285460",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTg4NC9vcmlnaW5hbF83OTY1YmU0N2Y5YjZhZDAwOWJhYzZhNTdlZTM2ZGQ0Yi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7965be47f9b6ad009bac6a57ee36dd4b.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-64fba75f99b2b7b166f580cc-64fba75f99.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Writing Workspace",
+      "bytes": 107210,
+      "sha256": "eee696596322fc27dfb578ffd7673b4174f0784377984a4a0f4b8d5b63cae079",
+      "width": 1917,
+      "height": 1389,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-64fba75f99b2b7b166f580cc.jpg",
+        "sourceSha256": "64fba75f99b2b7b166f580ccdc826f5b80ba22b804b082f6d2ddeafcd0bb97bb",
+        "originalBytes": 188994,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:14:16.000Z",
+  "updatedAt": "2026-05-06T13:14:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889884",
+    "title": "hhop2w7xaaaiflr.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889884,
+      "url": "https://www.are.na/block/45889884",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhop2w7xaaaiflr.jpeg",
+      "createdAt": "2026-05-06T13:14:16Z",
+      "updatedAt": "2026-05-06T13:14:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhop2w7xaaaiflr.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Writing Workspace",
+    "text": "next js\nWhats the main difference in react and next.js whe\nTest button sHows meana leay.\n• USER\ncan you just explain what the full pnpm dix shadon@latest init --preset b2CQ2QY6s --\ntemplate next installs and why pnpm dix shadn@latest add button again installs a single\nbutton code this time in my repo as my own code, i get this, but former where is that\nadded?\nSelected text:\nCopy\npopm dix shaden@latest init --preset b2c020y6s - template next\nIf it asks questions, accept the defaults unless you specifically want to change then.\n4, Adache est button conbonent\nCopy\nprem aux shadchelatest add button\n• REASONING\n**Explaining Next.is setup** I should.\nYes - the key distinction 1s:\n• init sets up the shaden foundation in your app\nadd button copies one actual component into your repo\nAnd one subtle thing:\n\"pope dix shaden@Latest...\ndoes not mean \"install shadon permanently as a dependency\".\"\npopm dix means:\ndownload the CLI temporarily\n* run it\n• let it modify your project\ndiscard the CLI package itself afterward\nSo the CLI tool is transient, but the changes it makes to your repo are permanent.\nLll\nWhat init actually does\nType your message...\nOpenAI (ChatGPT)\nGPT-5.4\nSHIFTSENTER SETTLI\nhn so if next.je already\nin a lot of cases 1 am.\nYeah - that instinct 1s\nexactly the one Next. Js so\nso what you mean se. fo:\nexample a bust anont\nYar\nright idea. ed Short.\nWhate the main difference\nThe sirolest way to thank\nshout it: **Hosct as sUi\nLibrary. ****Next.js is a.\n1 see what are these btin\nTurbopack An increnental\nbungler cotanized ToL\nThose are **Next.Js\nKance concensan\nwhat is the difference\nbetween\n•wd_changed D: \\FLorenc\nhon\" and pope are\nso onom would be a lot\nbetter with worktrees?\nYes - **generally onom is\nworktrees**. *e Why Each.\nFull\ncool 1 built a deno\nproject following next.js\nguide. a want to use.\non test in Met.:\nTeD - in the shader\nCLI** that * Base\"\nChae means:\nshadenistost anst .\nYes - **if you are already\nproject directory**. that.\ndann why do\nwe need\ntasiwind if we got shaden\nwhats netonce\nYeah - this is the part\nthat contuses almost\neveryone at first. me.\nstate in D: (Florence To\ntest shadon. I want to ru.\nI checked\niN Current state in\nhe full once o\nshaden@latest inst -_\nYes - the key distinctio\nle: - \"*inst sets up the\nshaden foundation in your.\nuse htal rende\nCaval aaa\nBubble Sort an",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "eee696596322fc27dfb578ffd7673b4174f0784377984a4a0f4b8d5b63cae079"
+  }
+}

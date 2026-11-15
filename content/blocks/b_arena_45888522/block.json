@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888522",
+  "type": "image",
+  "title": "Financial Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "financial-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f03a6e6d3d4d408d1dc66326.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Financial Identity",
+      "role": "original",
+      "bytes": 45262,
+      "sha256": "f03a6e6d3d4d408d1dc6632650ae7d3f7370d7a910564741c1aca0ded3396944",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888522/original_2730334723da159434654fac4441466e.jpeg",
+      "originalName": "2730334723da159434654fac4441466e.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-62ac258b153467a0c6ee4158.webp",
+      "mimeType": "image/webp",
+      "alt": "Financial Identity",
+      "role": "thumbnail",
+      "bytes": 15148,
+      "sha256": "62ac258b153467a0c6ee4158f364539e8d89fe0394ab4a45d34d5d1f88665bc3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyMi9vcmlnaW5hbF8yNzMwMzM0NzIzZGExNTk0MzQ2NTRmYWM0NDQxNDY2ZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2730334723da159434654fac4441466e.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f03a6e6d3d4d408d1dc66326-f03a6e6d3d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Financial Identity",
+      "bytes": 36112,
+      "sha256": "3e4ea192bfadb7efefe473d3288d74028885e79caaccd402daf34221ed6f0003",
+      "width": 640,
+      "height": 640,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f03a6e6d3d4d408d1dc66326.jpg",
+        "sourceSha256": "f03a6e6d3d4d408d1dc6632650ae7d3f7370d7a910564741c1aca0ded3396944",
+        "originalBytes": 45262,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:01.000Z",
+  "updatedAt": "2026-05-06T12:21:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888522",
+    "title": "360e3fbe2d7e687c04e84d53eeb150b8.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888522,
+      "url": "https://www.are.na/block/45888522",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "360e3fbe2d7e687c04e84d53eeb150b8.jpg",
+      "createdAt": "2026-05-06T12:21:01Z",
+      "updatedAt": "2026-05-06T12:21:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "360e3fbe2d7e687c04e84d53eeb150b8.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Financial Identity",
+    "text": "New\nStockhoLm,\nGermany\nBerLin,\nNorway\noslo:\nDenmark\nCopenhagen,\nLondon,\nUK\nMadrid,\nSpain\nHelsinki, Finland\nShanghai, China\nSan Francisco, USA\nTokyo, Japan\nSao Palo, Brazil\nAuckland, New Zealand\nSydney, Australia\nNew York, USA\nStockholm, Sweden\nBerlin, Germany\nOslo, Norway\nMani\nLondon\nCopenhagen\nAssets\n3.14%\nCardano\n[ADA]\nIUSD",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3e4ea192bfadb7efefe473d3288d74028885e79caaccd402daf34221ed6f0003"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888590",
+  "type": "image",
+  "title": "Sensory Spaces",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "sensory-spaces",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0767c03dde66ba134d50b837.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sensory Spaces",
+      "role": "original",
+      "bytes": 59705,
+      "sha256": "0767c03dde66ba134d50b837ef651474b6a8c977d2c55bd25eaf5fbba6c0ba1e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888590/original_041f1c406238c1f8f06426e7f24a061f.jpeg",
+      "originalName": "041f1c406238c1f8f06426e7f24a061f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c4e3102478df9541c7f3d241.webp",
+      "mimeType": "image/webp",
+      "alt": "Sensory Spaces",
+      "role": "thumbnail",
+      "bytes": 7102,
+      "sha256": "c4e3102478df9541c7f3d241ea23cfb47c721535845124938b3c9c7eef7140d6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU5MC9vcmlnaW5hbF8wNDFmMWM0MDYyMzhjMWY4ZjA2NDI2ZTdmMjRhMDYxZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "041f1c406238c1f8f06426e7f24a061f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0767c03dde66ba134d50b837-0767c03dde.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sensory Spaces",
+      "bytes": 35126,
+      "sha256": "366610c0e45d2ae7989edfd21e762a2e1893caf25b202cc103a5bfb1424b6922",
+      "width": 1199,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0767c03dde66ba134d50b837.jpg",
+        "sourceSha256": "0767c03dde66ba134d50b837ef651474b6a8c977d2c55bd25eaf5fbba6c0ba1e",
+        "originalBytes": 59705,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:15.000Z",
+  "updatedAt": "2026-05-06T12:23:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888590",
+    "title": "b05bb714ed336995d05ae8a7f10d526e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888590,
+      "url": "https://www.are.na/block/45888590",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b05bb714ed336995d05ae8a7f10d526e.jpg",
+      "createdAt": "2026-05-06T12:23:15Z",
+      "updatedAt": "2026-05-06T12:23:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b05bb714ed336995d05ae8a7f10d526e.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sensory Spaces",
+    "text": "SPACES THAT\nFOSTER SENSORY\nEXPERIENCES\nWE ARE AN AWARD-WINNING AUSTRALIAN INTERIOR DESIGN STUDIO, DELIVERING FUNCTIONAL SPACES THAT ENRICH AND INSPIRE.\nSUITE 508, 19A BOUNDARY ST. DARLINGHURST NSW 2010\nOFFICE 07-101, 25 KING ST. BOWEN HILLS QLD 4006\nTOMMARKHENRY.STUDIO",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "366610c0e45d2ae7989edfd21e762a2e1893caf25b202cc103a5bfb1424b6922"
+  }
+}

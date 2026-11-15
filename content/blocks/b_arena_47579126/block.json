@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579126",
+  "type": "image",
+  "title": "Orbital Trajectories",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "orbital-trajectories",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b35df7d33e9880a61bdb2cd3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Orbital Trajectories",
+      "role": "original",
+      "bytes": 200053,
+      "sha256": "b35df7d33e9880a61bdb2cd3aa689708009fe8818c0fd22a3fb4acb3bf976824",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579126/original_ca52d6233be15553b79e0ac2c0548cf5.jpeg",
+      "originalName": "ca52d6233be15553b79e0ac2c0548cf5.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e5f6235a158e0b7652e66c67.webp",
+      "mimeType": "image/webp",
+      "alt": "Orbital Trajectories",
+      "role": "thumbnail",
+      "bytes": 30296,
+      "sha256": "e5f6235a158e0b7652e66c67152e3a640a8b41f1fd986a4a4c843ca2cf683477",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTEyNi9vcmlnaW5hbF9jYTUyZDYyMzNiZTE1NTUzYjc5ZTBhYzJjMDU0OGNmNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ca52d6233be15553b79e0ac2c0548cf5.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-b35df7d33e9880a61bdb2cd3-b35df7d33e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orbital Trajectories",
+      "bytes": 145150,
+      "sha256": "06a3def324063a5f2e1fddf31230f19a8eedcf7bbbcc4f6203cb2e3a6c618333",
+      "width": 956,
+      "height": 1036,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b35df7d33e9880a61bdb2cd3.jpg",
+        "sourceSha256": "b35df7d33e9880a61bdb2cd3aa689708009fe8818c0fd22a3fb4acb3bf976824",
+        "originalBytes": 200053,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:31:19.000Z",
+  "updatedAt": "2026-07-04T15:31:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579126",
+    "title": "HC9rl3JbcAAHAjR",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579126,
+      "url": "https://www.are.na/block/47579126",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HC9rl3JbcAAHAjR",
+      "createdAt": "2026-07-04T15:31:19Z",
+      "updatedAt": "2026-07-04T15:31:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HC9rl3JbcAAHAjR",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orbital Trajectories",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "06a3def324063a5f2e1fddf31230f19a8eedcf7bbbcc4f6203cb2e3a6c618333"
+  }
+}

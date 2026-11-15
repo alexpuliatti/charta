@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888318",
+  "type": "video",
+  "title": "Product Icons",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "product-icons",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f848f89e6b85f5a74c0e1d28.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1777968981905.mp4",
+      "role": "original",
+      "bytes": 105535,
+      "sha256": "f848f89e6b85f5a74c0e1d28dc47b64d0c97f594c2fd262efe77a79fb378f594",
+      "sourceUrl": "https://attachments.are.na/45888318/3175bae455c4aa9ea1fd9d5a48f37ac3.mp4",
+      "originalName": "3175bae455c4aa9ea1fd9d5a48f37ac3.mp4"
+    },
+    {
+      "path": "assets/thumbnail-17381f5ce62c739ca314682d.webp",
+      "mimeType": "image/webp",
+      "alt": "Product Icons",
+      "role": "thumbnail",
+      "bytes": 3714,
+      "sha256": "17381f5ce62c739ca314682dc4ec0e2d4f6a5422f695763ef22da77fbe52c1bd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMxOC9vcmlnaW5hbF8yZWI1NDM0ZmQzMzAxNTNmMjAyNjA1MDYtMi1xZXpyOWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2eb5434fd330153f20260506-2-qezr9b.png"
+    },
+    {
+      "path": "assets/display-web-original-f848f89e6b85f5a74c0e1d28-f848f89e6b.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1777968981905.mp4",
+      "bytes": 69240,
+      "sha256": "5e821ab962482dfd5430ad579fb6e998eefaad09892830c64e8bc4f3bbfb1149",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f848f89e6b85f5a74c0e1d28.mp4",
+        "sourceSha256": "f848f89e6b85f5a74c0e1d28dc47b64d0c97f594c2fd262efe77a79fb378f594",
+        "originalBytes": 105535,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-784f4dce8deae947a8a2410b.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1777968981905.mp4",
+      "role": "preview",
+      "bytes": 13040,
+      "sha256": "784f4dce8deae947a8a2410bab1c830dab75b46cecc4b5f83166c86fc101b2cb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888318/original_2eb5434fd330153f20260506-2-qezr9b.png",
+      "originalName": "2eb5434fd330153f20260506-2-qezr9b.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 144008,
+        "width": 770,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:41.000Z",
+  "updatedAt": "2026-05-06T12:12:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888318",
+    "title": "ssstwitter.com_1777968981905.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888318,
+      "url": "https://www.are.na/block/45888318",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1777968981905.mp4",
+      "createdAt": "2026-05-06T12:12:41Z",
+      "updatedAt": "2026-05-06T12:12:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1777968981905.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Product Icons",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "17381f5ce62c739ca314682dc4ec0e2d4f6a5422f695763ef22da77fbe52c1bd"
+  }
+}

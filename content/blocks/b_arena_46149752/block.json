@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149752",
+  "type": "video",
+  "title": "Dark Curves",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "dark-curves",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-57db7ef478b7741f35d4353b.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778773148820",
+      "role": "original",
+      "bytes": 2091751,
+      "sha256": "57db7ef478b7741f35d4353b63c0ceb1f4670480e40d54f533f91680f7d8eec3",
+      "sourceUrl": "https://attachments.are.na/46149752/04f46c5bc2c6412cf28437f7ddc905a7.mp4",
+      "originalName": "04f46c5bc2c6412cf28437f7ddc905a7.mp4"
+    },
+    {
+      "path": "assets/thumbnail-f309abc41ca1a216d25d32ab.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Curves",
+      "role": "thumbnail",
+      "bytes": 2024,
+      "sha256": "f309abc41ca1a216d25d32ab8a3c970146d8d24217c42575f8e3d6251f11f3c6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTc1Mi9vcmlnaW5hbF9hMDRjYjEwZTUyZDVhZDg2MjAyNjA1MTQtMi1wNmF5Y3UucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a04cb10e52d5ad8620260514-2-p6aycu.png"
+    },
+    {
+      "path": "assets/display-web-original-57db7ef478b7741f35d4353b-57db7ef478.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778773148820",
+      "bytes": 969898,
+      "sha256": "b7bcb18f8bf23346263f514f7353e093e001f38ee0b0c010b0aa1520870a8c69",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-57db7ef478b7741f35d4353b.mp4",
+        "sourceSha256": "57db7ef478b7741f35d4353b63c0ceb1f4670480e40d54f533f91680f7d8eec3",
+        "originalBytes": 2091751,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-59eca48e4f4132214dbed053.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778773148820",
+      "role": "preview",
+      "bytes": 37968,
+      "sha256": "59eca48e4f4132214dbed053ecc208aad6946f7e666ee63456771d3754bd3f20",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149752/original_a04cb10e52d5ad8620260514-2-p6aycu.png",
+      "originalName": "a04cb10e52d5ad8620260514-2-p6aycu.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 277821,
+        "width": 1730,
+        "height": 1166,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:39:20.000Z",
+  "updatedAt": "2026-05-14T15:39:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46149752",
+    "title": "ssstwitter.com_1778773148820",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149752,
+      "url": "https://www.are.na/block/46149752",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778773148820",
+      "createdAt": "2026-05-14T15:39:20Z",
+      "updatedAt": "2026-05-14T15:39:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778773148820",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Curves",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f309abc41ca1a216d25d32ab8a3c970146d8d24217c42575f8e3d6251f11f3c6"
+  }
+}

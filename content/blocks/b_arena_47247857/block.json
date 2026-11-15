@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247857",
+  "type": "image",
+  "title": "Golf Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "golf-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f4c51c50e30108da45993d2d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Golf Identity",
+      "role": "original",
+      "bytes": 137069,
+      "sha256": "f4c51c50e30108da45993d2d31116373004e5b4cc99856cfc4a733e369e05e2e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247857/original_98ea5409d2da1d91e0dc8d42d2ad4338.jpeg",
+      "originalName": "98ea5409d2da1d91e0dc8d42d2ad4338.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-367437403cbd20c6e9a91bc4.webp",
+      "mimeType": "image/webp",
+      "alt": "Golf Identity",
+      "role": "thumbnail",
+      "bytes": 8672,
+      "sha256": "367437403cbd20c6e9a91bc4dd7f1336e45de68c0479ed1cdd697e80682d3362",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg1Ny9vcmlnaW5hbF85OGVhNTQwOWQyZGExZDkxZTBkYzhkNDJkMmFkNDMzOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "98ea5409d2da1d91e0dc8d42d2ad4338.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f4c51c50e30108da45993d2d-f4c51c50e3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Golf Identity",
+      "bytes": 81104,
+      "sha256": "64ea41c0b56c8fa7611dec75689ba99c8704d3f574295afed9ba423bc7a45aa7",
+      "width": 1200,
+      "height": 1522,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f4c51c50e30108da45993d2d.jpg",
+        "sourceSha256": "f4c51c50e30108da45993d2d31116373004e5b4cc99856cfc4a733e369e05e2e",
+        "originalBytes": 137069,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:27:50.000Z",
+  "updatedAt": "2026-07-29T18:15:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247857",
+    "title": "74ddfd1bea83bf87375eab49cf736bbe",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247857,
+      "url": "https://www.are.na/block/47247857",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "74ddfd1bea83bf87375eab49cf736bbe",
+      "createdAt": "2026-06-23T14:27:50Z",
+      "updatedAt": "2026-07-29T18:15:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "74ddfd1bea83bf87375eab49cf736bbe",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Golf Identity",
+    "text": "SE EXPLORE |\nGOUr\nLO ACAUCMY\n• BOOK NOW\nTHE CLOL ININ CLUB\nRooted in a rich legacy, our\ngolf club's history unfolds as a\ntale of passion, sportsmanship, and\ncamaraderie. Since 1956, our\nfairways have hosted golfing\ntraditions and timeless memories.\nA timeless journey of excellence.\nEstablished in 1956, our golf club stands as\na testament to tradition and excellence.\nNESCO WILL DICTES PISCIN OU\ncourse maries nature's beauty with\nmachos don crome augura\nswing, our fairways have hosted moments\n........\nlegendary rounds and shared victories. With\na course rating of 3.4 and 125,000 acres of\ngolfers an immersive experience. As we\nour community, where every tee-off is an\n....******........\niPad",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "64ea41c0b56c8fa7611dec75689ba99c8704d3f574295afed9ba423bc7a45aa7"
+  }
+}

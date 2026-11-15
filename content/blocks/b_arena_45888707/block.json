@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888707",
+  "type": "image",
+  "title": "Yellow Geometry",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "yellow-geometry",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-55bcc9b6a1ee4d9551aa6bd2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Yellow Geometry",
+      "role": "original",
+      "bytes": 167582,
+      "sha256": "55bcc9b6a1ee4d9551aa6bd24f094b836616c47924e556deffc5655c5f47776d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888707/original_5fe33dfc0b08b79ccfa3f34d7114f46a.jpeg",
+      "originalName": "5fe33dfc0b08b79ccfa3f34d7114f46a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-3c2c0912a6ab1ae09a00547e.webp",
+      "mimeType": "image/webp",
+      "alt": "Yellow Geometry",
+      "role": "thumbnail",
+      "bytes": 5676,
+      "sha256": "3c2c0912a6ab1ae09a00547effd8b34225e7da50fb373b1d4b581d923fdaeb6f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcwNy9vcmlnaW5hbF81ZmUzM2RmYzBiMDhiNzljY2ZhM2YzNGQ3MTE0ZjQ2YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5fe33dfc0b08b79ccfa3f34d7114f46a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-55bcc9b6a1ee4d9551aa6bd2-55bcc9b6a1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Yellow Geometry",
+      "bytes": 56028,
+      "sha256": "2580d20c01c75a8660b398ea9bd10af308f16ef443b0657b1bd03c34439f3223",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-55bcc9b6a1ee4d9551aa6bd2.jpg",
+        "sourceSha256": "55bcc9b6a1ee4d9551aa6bd24f094b836616c47924e556deffc5655c5f47776d",
+        "originalBytes": 167582,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:04.000Z",
+  "updatedAt": "2026-05-06T12:26:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888707",
+    "title": "original_538a57daee1ed8489d6c0f583a538329.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888707,
+      "url": "https://www.are.na/block/45888707",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_538a57daee1ed8489d6c0f583a538329.jpg",
+      "createdAt": "2026-05-06T12:26:04Z",
+      "updatedAt": "2026-05-06T12:26:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_538a57daee1ed8489d6c0f583a538329.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Yellow Geometry",
+    "text": "SHIGEO FUKUDA May 15 to June3.1978 MINAMIAOYAMA\nCOSY SPACE\nTOKYO",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2580d20c01c75a8660b398ea9bd10af308f16ef443b0657b1bd03c34439f3223"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995836",
+  "type": "image",
+  "title": "Steel Kitchen",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "steel-kitchen",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6c489d9444a4d62e19e90352.png",
+      "mimeType": "image/png",
+      "alt": "Steel Kitchen",
+      "role": "original",
+      "bytes": 1444315,
+      "sha256": "6c489d9444a4d62e19e903524976fa8307c81d905a76883dcfaf9a25c1de1939",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995836/original_d9d8223182ceeb60bb37c77410e07d70.png",
+      "originalName": "d9d8223182ceeb60bb37c77410e07d70.png"
+    },
+    {
+      "path": "assets/thumbnail-f9e28093d4bec5b7d3c4daf4.webp",
+      "mimeType": "image/webp",
+      "alt": "Steel Kitchen",
+      "role": "thumbnail",
+      "bytes": 11108,
+      "sha256": "f9e28093d4bec5b7d3c4daf4e9b42455d07c5bd3ed1ff3fb9621a5f15cfc03e2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgzNi9vcmlnaW5hbF9kOWQ4MjIzMTgyY2VlYjYwYmIzN2M3NzQxMGUwN2Q3MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d9d8223182ceeb60bb37c77410e07d70.png"
+    },
+    {
+      "path": "assets/display-web-original-6c489d9444a4d62e19e90352-6c489d9444.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Steel Kitchen",
+      "bytes": 128114,
+      "sha256": "6c07485b59087bf3af236a597925c9373d432a59430720477d9f882b8430efdc",
+      "width": 1200,
+      "height": 984,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6c489d9444a4d62e19e90352.png",
+        "sourceSha256": "6c489d9444a4d62e19e903524976fa8307c81d905a76883dcfaf9a25c1de1939",
+        "originalBytes": 1444315,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:02:23.000Z",
+  "updatedAt": "2026-02-28T12:02:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995836",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995836,
+      "url": "https://www.are.na/block/43995836",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:02:23Z",
+      "updatedAt": "2026-02-28T12:02:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Steel Kitchen",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6c07485b59087bf3af236a597925c9373d432a59430720477d9f882b8430efdc"
+  }
+}

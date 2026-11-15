@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889013",
+  "type": "video",
+  "title": "Type Specimen",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "type-specimen",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e4ffada907a0189c6bfed82f.mp4",
+      "mimeType": "video/mp4",
+      "alt": "holographik_-_we_developed_a_scalable_brand_direction_for_quantum_spa_an_immersive..._pszmtm.mp4",
+      "role": "original",
+      "bytes": 793260,
+      "sha256": "e4ffada907a0189c6bfed82f2ce4c4605f6f413efd104146466f8f46289cb69c",
+      "sourceUrl": "https://attachments.are.na/45889013/d10ab6bc2559fccb3eb026208d0582c5.mp4",
+      "originalName": "d10ab6bc2559fccb3eb026208d0582c5.mp4"
+    },
+    {
+      "path": "assets/thumbnail-441c4a27f030e9ec0dc2064f.webp",
+      "mimeType": "image/webp",
+      "alt": "Type Specimen",
+      "role": "thumbnail",
+      "bytes": 4158,
+      "sha256": "441c4a27f030e9ec0dc2064f65bbbb902739f75d9e599cc002755b0661abcac9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTAxMy9vcmlnaW5hbF8zYWNkZWQ4ZmYzZDUzYjIzMjAyNjA1MDYtMi1va3MzM2gucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3acded8ff3d53b2320260506-2-oks33h.png"
+    },
+    {
+      "path": "assets/display-web-original-e4ffada907a0189c6bfed82f-e4ffada907.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "holographik_-_we_developed_a_scalable_brand_direction_for_quantum_spa_an_immersive..._pszmtm.mp4",
+      "bytes": 724546,
+      "sha256": "9161f4aaf7216222cf19d0842c343abb6245b25e66d79ecbab2f2559acf602ad",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e4ffada907a0189c6bfed82f.mp4",
+        "sourceSha256": "e4ffada907a0189c6bfed82f2ce4c4605f6f413efd104146466f8f46289cb69c",
+        "originalBytes": 793260,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-cbba00a2dfcebbf65c50919f.webp",
+      "mimeType": "image/webp",
+      "alt": "holographik_-_we_developed_a_scalable_brand_direction_for_quantum_spa_an_immersive..._pszmtm.mp4",
+      "role": "preview",
+      "bytes": 19214,
+      "sha256": "cbba00a2dfcebbf65c50919f54edceaf1163a5aa60651d77d4e246d00cdd8c9f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889013/original_3acded8ff3d53b2320260506-2-oks33h.png",
+      "originalName": "3acded8ff3d53b2320260506-2-oks33h.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 78765,
+        "width": 720,
+        "height": 900,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:38:22.000Z",
+  "updatedAt": "2026-05-06T12:38:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889013",
+    "title": "holographik_-_we_developed_a_scalable_brand_direction_for_quantum_spa_an_immersive..._pszmtm.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889013,
+      "url": "https://www.are.na/block/45889013",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "holographik_-_we_developed_a_scalable_brand_direction_for_quantum_spa_an_immersive..._pszmtm.mp4",
+      "createdAt": "2026-05-06T12:38:22Z",
+      "updatedAt": "2026-05-06T12:38:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "holographik_-_we_developed_a_scalable_brand_direction_for_quantum_spa_an_immersive..._pszmtm.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Type Specimen",
+    "text": "DOR TONLE CALTRCONDA\nESSE\nDOA TORDE CALTECHTA\nABCDEFGHIJKLMNO\nPORSTUVWXYZ\nabcdefghijklmno\nprstuvwxyz\n0123456789\nMLOSANNIK BTIEEO, 5004",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "441c4a27f030e9ec0dc2064f65bbbb902739f75d9e599cc002755b0661abcac9"
+  }
+}

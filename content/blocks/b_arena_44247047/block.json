@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247047",
+  "type": "image",
+  "title": "Chair Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "chair-website",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d315c4c3d4d5c2e4e15feb0b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Chair Website",
+      "role": "original",
+      "bytes": 17277,
+      "sha256": "d315c4c3d4d5c2e4e15feb0b4a583cc4ca49c4aed62b1f2c8d3fd5721488d2d6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247047/original_6db3e59779f317b6581ba1935f788f52.jpg",
+      "originalName": "6db3e59779f317b6581ba1935f788f52.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6e25cc3f59a1e49a912fd201.webp",
+      "mimeType": "image/webp",
+      "alt": "Chair Website",
+      "role": "thumbnail",
+      "bytes": 3510,
+      "sha256": "6e25cc3f59a1e49a912fd201813eaf465b2cd4b66dfa1aa8f2b89ae0b7f5c913",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0Ny9vcmlnaW5hbF82ZGIzZTU5Nzc5ZjMxN2I2NTgxYmExOTM1Zjc4OGY1Mi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6db3e59779f317b6581ba1935f788f52.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d315c4c3d4d5c2e4e15feb0b-d315c4c3d4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Chair Website",
+      "bytes": 10936,
+      "sha256": "4955aae1e0d56bda0f861d0b000d69988cbc56fb6db8a674da486c22c18e8a89",
+      "width": 640,
+      "height": 640,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d315c4c3d4d5c2e4e15feb0b.jpg",
+        "sourceSha256": "d315c4c3d4d5c2e4e15feb0b4a583cc4ca49c4aed62b1f2c8d3fd5721488d2d6",
+        "originalBytes": 17277,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247047",
+    "title": "ff85953d26eb9c76d3040968aa29c065.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247047,
+      "url": "https://www.are.na/block/44247047",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ff85953d26eb9c76d3040968aa29c065.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ff85953d26eb9c76d3040968aa29c065.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Chair Website",
+    "text": "(1) MARCEL BREUER: THE CHAIR CHAPTER\nSTEEL CLUB EXPERIHENTAL\nARCHAIR (83)\nSTEEL SEE CHA\nSSILY CHAIR, ALSO EXPERIMENTAL PROT\nAS THE MODEL B3 SIDE\nCHAIR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4955aae1e0d56bda0f861d0b000d69988cbc56fb6db8a674da486c22c18e8a89"
+  }
+}

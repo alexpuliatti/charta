@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888321",
+  "type": "image",
+  "title": "Red Monogram",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "red-monogram",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3c3cdade1e77f4e920769f8e.png",
+      "mimeType": "image/png",
+      "alt": "Red Monogram",
+      "role": "original",
+      "bytes": 134413,
+      "sha256": "3c3cdade1e77f4e920769f8e2ce3f38fd5c754e3c0ec11307286ce451f9adc2d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888321/original_aec9c4c110d9307e84f15fe9daf0a743.png",
+      "originalName": "aec9c4c110d9307e84f15fe9daf0a743.png"
+    },
+    {
+      "path": "assets/thumbnail-865124cb2d33b38ef8d2816c.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Monogram",
+      "role": "thumbnail",
+      "bytes": 5766,
+      "sha256": "865124cb2d33b38ef8d2816c3189e35561687ebb27b40e5213908c81904c791c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMyMS9vcmlnaW5hbF9hZWM5YzRjMTEwZDkzMDdlODRmMTVmZTlkYWYwYTc0My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "aec9c4c110d9307e84f15fe9daf0a743.png"
+    },
+    {
+      "path": "assets/display-web-original-3c3cdade1e77f4e920769f8e-3c3cdade1e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Monogram",
+      "bytes": 82696,
+      "sha256": "73c5b07316a077699ea7adf01a5ffa5876b472cb61c14e272d03bf0fbfd7d50b",
+      "width": 2000,
+      "height": 1250,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3c3cdade1e77f4e920769f8e.png",
+        "sourceSha256": "3c3cdade1e77f4e920769f8e2ce3f38fd5c754e3c0ec11307286ce451f9adc2d",
+        "originalBytes": 134413,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:43.000Z",
+  "updatedAt": "2026-10-15T03:05:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888321",
+    "title": "hhdhmjpbsaa8pa2.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888321,
+      "url": "https://www.are.na/block/45888321",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhdhmjpbsaa8pa2.png",
+      "createdAt": "2026-05-06T12:12:43Z",
+      "updatedAt": "2026-10-15T03:05:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhdhmjpbsaa8pa2.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Monogram",
+    "text": "Instagram Get In Touch\nWe collaborate with teams who care\nabout precision and clarity. The work is\nnot about adding more, but about\nremoving what is unnecessary until only\nwhat matters remains.\nA digital presence should feel immediate\nand understood. It should guide, not\noverwhelm. Every interaction is shaped\nto feel natural, reducing friction and\nbuilding quiet confidence.\nThe goal is simple. Create systems that\nhold up over time, adapt without\nbreaking, and communicate without\neffort.\nDirection\nDigital Systems\nVisual Identity\nInterfaces\nCommon Practice, Object Study\nCommon Practice, Commerce Build\nGrid Orie Brand Structer Assets",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "73c5b07316a077699ea7adf01a5ffa5876b472cb61c14e272d03bf0fbfd7d50b"
+  }
+}

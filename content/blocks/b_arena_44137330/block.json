@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137330",
+  "type": "video",
+  "title": "Musical Network",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "musical-network",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eb99f2fecc10447ee63caa36.mp4",
+      "mimeType": "video/mp4",
+      "alt": "lucioarese-20251014_183727-3066854251.mp4",
+      "role": "original",
+      "bytes": 4992122,
+      "sha256": "eb99f2fecc10447ee63caa366aac8a671166c15e924abb9c42133c628691f4be",
+      "sourceUrl": "https://attachments.are.na/44137330/07b71f3c699a973b5dae7f947df77509.mp4",
+      "originalName": "07b71f3c699a973b5dae7f947df77509.mp4"
+    },
+    {
+      "path": "assets/thumbnail-2bd130d2d32519cd21b518cf.webp",
+      "mimeType": "image/webp",
+      "alt": "Musical Network",
+      "role": "thumbnail",
+      "bytes": 8386,
+      "sha256": "2bd130d2d32519cd21b518cfdc7db5f00d62f457dc5bcf9b769daeeb32ee0ca9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzMzMC9vcmlnaW5hbF9kNDk0MTA5YzM1ZTM3YmY2MjAyNjAzMDQtMi1tM2ZwbzYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d494109c35e37bf620260304-2-m3fpo6.png"
+    },
+    {
+      "path": "assets/display-web-original-eb99f2fecc10447ee63caa36-eb99f2fecc.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "lucioarese-20251014_183727-3066854251.mp4",
+      "bytes": 4468081,
+      "sha256": "b286a0afd2180ddab825ae849b392754504d3c86b6decbb5a796a5acd23699fd",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-eb99f2fecc10447ee63caa36.mp4",
+        "sourceSha256": "eb99f2fecc10447ee63caa366aac8a671166c15e924abb9c42133c628691f4be",
+        "originalBytes": 4992122,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-e8804154d30da292673f15a5.webp",
+      "mimeType": "image/webp",
+      "alt": "lucioarese-20251014_183727-3066854251.mp4",
+      "role": "preview",
+      "bytes": 64954,
+      "sha256": "e8804154d30da292673f15a576896cf41d6819bfe2636c473a7b82f93eda555c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137330/original_d494109c35e37bf620260304-2-m3fpo6.png",
+      "originalName": "d494109c35e37bf620260304-2-m3fpo6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 605580,
+        "width": 716,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:42.000Z",
+  "updatedAt": "2026-03-04T15:46:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137330",
+    "title": "lucioarese-20251014_183727-3066854251.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137330,
+      "url": "https://www.are.na/block/44137330",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "lucioarese-20251014_183727-3066854251.mp4",
+      "createdAt": "2026-03-04T15:46:42Z",
+      "updatedAt": "2026-03-04T15:46:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "lucioarese-20251014_183727-3066854251.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Musical Network",
+    "text": "7.8\nPaganini's intricate beauty\n-0.5\n9.3",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2bd130d2d32519cd21b518cfdc7db5f00d62f457dc5bcf9b769daeeb32ee0ca9"
+  }
+}

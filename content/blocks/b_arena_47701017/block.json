@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701017",
+  "type": "image",
+  "title": "Parker Strings",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "parker-strings",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-06d10a0d8d6eeed693541982.png",
+      "mimeType": "image/png",
+      "alt": "Parker Strings",
+      "role": "original",
+      "bytes": 3778821,
+      "sha256": "06d10a0d8d6eeed693541982a744eb6c3e57e1ed5efe3f4c3afbda26b59630cf",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701017/original_c362878e65577ff40068790f0c7d1598.png",
+      "originalName": "c362878e65577ff40068790f0c7d1598.png"
+    },
+    {
+      "path": "assets/thumbnail-2d604bd0879d89896c0201de.webp",
+      "mimeType": "image/webp",
+      "alt": "Parker Strings",
+      "role": "thumbnail",
+      "bytes": 15912,
+      "sha256": "2d604bd0879d89896c0201de120fd4173b081dd8d167f1fb53e0a1a2a68cc890",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAxNy9vcmlnaW5hbF9jMzYyODc4ZTY1NTc3ZmY0MDA2ODc5MGYwYzdkMTU5OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c362878e65577ff40068790f0c7d1598.png"
+    },
+    {
+      "path": "assets/display-web-original-06d10a0d8d6eeed693541982-06d10a0d8d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Parker Strings",
+      "bytes": 226664,
+      "sha256": "b71e71b6caf5e6dc8140fc99eae798441aef95ef3c0cb42c379ea0ccfbc33b13",
+      "width": 1702,
+      "height": 1370,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-06d10a0d8d6eeed693541982.png",
+        "sourceSha256": "06d10a0d8d6eeed693541982a744eb6c3e57e1ed5efe3f4c3afbda26b59630cf",
+        "originalBytes": 3778821,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:13.000Z",
+  "updatedAt": "2026-07-08T14:56:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701017",
+    "title": "Screenshot 2023-09-12 alle 16.51.20",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701017,
+      "url": "https://www.are.na/block/47701017",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.51.20",
+      "createdAt": "2026-07-08T14:56:13Z",
+      "updatedAt": "2026-07-08T14:56:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.51.20",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Parker Strings",
+    "text": "Charlie\nPARKER\nWith Strings\nSupervised by Norman Cranz\nMERCURY RECORDS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b71e71b6caf5e6dc8140fc99eae798441aef95ef3c0cb42c379ea0ccfbc33b13"
+  }
+}

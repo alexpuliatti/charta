@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247052",
+  "type": "image",
+  "title": "Ocean Print",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "ocean-print",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f9119ce9640b8e3a5ec6e2a0.png",
+      "mimeType": "image/png",
+      "alt": "Ocean Print",
+      "role": "original",
+      "bytes": 3995632,
+      "sha256": "f9119ce9640b8e3a5ec6e2a08d82256aa876a8d38d1cc8c4bb0f599a436140f2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247052/original_fe0a3a680f2e5295e66937c805f0258e.png",
+      "originalName": "fe0a3a680f2e5295e66937c805f0258e.png"
+    },
+    {
+      "path": "assets/thumbnail-367e64ba830a781f7884af97.webp",
+      "mimeType": "image/webp",
+      "alt": "Ocean Print",
+      "role": "thumbnail",
+      "bytes": 8348,
+      "sha256": "367e64ba830a781f7884af9724ef499229690c9bc516cffc349a5568a1cc92f6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA1Mi9vcmlnaW5hbF9mZTBhM2E2ODBmMmU1Mjk1ZTY2OTM3YzgwNWYwMjU4ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fe0a3a680f2e5295e66937c805f0258e.png"
+    },
+    {
+      "path": "assets/display-web-original-f9119ce9640b8e3a5ec6e2a0-f9119ce964.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Ocean Print",
+      "bytes": 145588,
+      "sha256": "286af9422cf754dc10daf3bfb43d8ccf733f8c15b3f05947b591991862f886c1",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f9119ce9640b8e3a5ec6e2a0.png",
+        "sourceSha256": "f9119ce9640b8e3a5ec6e2a08d82256aa876a8d38d1cc8c4bb0f599a436140f2",
+        "originalBytes": 3995632,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:16.000Z",
+  "updatedAt": "2026-03-08T22:30:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247052",
+    "title": "download-2-.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247052,
+      "url": "https://www.are.na/block/44247052",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "download-2-.png",
+      "createdAt": "2026-03-08T22:30:16Z",
+      "updatedAt": "2026-03-08T22:30:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "download-2-.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Ocean Print",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "286af9422cf754dc10daf3bfb43d8ccf733f8c15b3f05947b591991862f886c1"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46110314",
+  "type": "link",
+  "title": "Cofounder Sales",
+  "description": "Brand, ICP, outreach, and a sales motion you can actually run end-to-end.",
+  "category": "Writing",
+  "tags": [
+    "sales",
+    "workflows",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e747e4768da1f86a6d2754dd.webp",
+      "mimeType": "image/webp",
+      "alt": "How to sell with Cofounder",
+      "role": "thumbnail",
+      "bytes": 13554,
+      "sha256": "e747e4768da1f86a6d2754dde73b4ea2ec52fcc9430163e7fb9ec0514a933ccc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjExMDMxNC9vcmlnaW5hbF83OTYyNDNmMTI3MTNlODUzZGVmMmFiNGE2MjAwOGQ1OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "796243f12713e853def2ab4a62008d59.png"
+    },
+    {
+      "path": "assets/preview-88c1753a4384c3649ed1ee9d.webp",
+      "mimeType": "image/webp",
+      "alt": "How to sell with Cofounder",
+      "role": "preview",
+      "bytes": 280012,
+      "sha256": "88c1753a4384c3649ed1ee9d2feb2f3320ad98c45059f0edfeacae12b30a7df1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46110314/original_796243f12713e853def2ab4a62008d59.png",
+      "originalName": "796243f12713e853def2ab4a62008d59.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 807441,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:21:24.000Z",
+  "updatedAt": "2026-05-13T10:22:03.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://cofounder.co/how-to/sell",
+    "title": "How to sell with Cofounder",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46110314,
+      "url": "https://www.are.na/block/46110314",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "How to sell with Cofounder",
+      "createdAt": "2026-05-13T10:21:24Z",
+      "updatedAt": "2026-05-13T10:22:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "How to sell with Cofounder",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "motion-design",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

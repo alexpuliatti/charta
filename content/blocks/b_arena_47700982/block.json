@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700982",
+  "type": "image",
+  "title": "Agatha Christie",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "agatha-christie",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-85edd9c593ff5314c7b62f45.png",
+      "mimeType": "image/png",
+      "alt": "Agatha Christie",
+      "role": "original",
+      "bytes": 1498536,
+      "sha256": "85edd9c593ff5314c7b62f45c697656afcf50d93d38ea6ec30104966277f7b10",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700982/original_2aea3dde33569566f061b3f5d21c0c95.png",
+      "originalName": "2aea3dde33569566f061b3f5d21c0c95.png"
+    },
+    {
+      "path": "assets/thumbnail-7ffda71d897de2ea6314b925.webp",
+      "mimeType": "image/webp",
+      "alt": "Agatha Christie",
+      "role": "thumbnail",
+      "bytes": 9254,
+      "sha256": "7ffda71d897de2ea6314b9251b1ba1ca9376a203daa08b4dee8a77d83f62992c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk4Mi9vcmlnaW5hbF8yYWVhM2RkZTMzNTY5NTY2ZjA2MWIzZjVkMjFjMGM5NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2aea3dde33569566f061b3f5d21c0c95.png"
+    },
+    {
+      "path": "assets/display-web-original-85edd9c593ff5314c7b62f45-85edd9c593.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Agatha Christie",
+      "bytes": 160846,
+      "sha256": "0e41605430ab89af44692cc200c425c7f53badc5cca351103994a9798eda49a5",
+      "width": 1022,
+      "height": 1290,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-85edd9c593ff5314c7b62f45.png",
+        "sourceSha256": "85edd9c593ff5314c7b62f45c697656afcf50d93d38ea6ec30104966277f7b10",
+        "originalBytes": 1498536,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:49.000Z",
+  "updatedAt": "2026-07-08T14:55:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700982",
+    "title": "Screenshot 2023-09-12 alle 16.49.39",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700982,
+      "url": "https://www.are.na/block/47700982",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.49.39",
+      "createdAt": "2026-07-08T14:55:49Z",
+      "updatedAt": "2026-07-08T14:55:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.49.39",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Agatha Christie",
+    "text": "Agatha\nChristie\nor\nChristha ~ 3\nRIME\nCLUB\nor\nThorpsess",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0e41605430ab89af44692cc200c425c7f53badc5cca351103994a9798eda49a5"
+  }
+}

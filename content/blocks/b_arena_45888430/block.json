@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888430",
+  "type": "image",
+  "title": "Warm Listening",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "warm-listening",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fea33394306d00869f9aa95b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Warm Listening",
+      "role": "original",
+      "bytes": 154135,
+      "sha256": "fea33394306d00869f9aa95b7741fc1984358729f800b1c6c9669c6ec6832fe4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888430/original_102005ec4aca2a9cfb19d0512b693627.jpeg",
+      "originalName": "102005ec4aca2a9cfb19d0512b693627.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e53e347bab4c44abd94f4fd0.webp",
+      "mimeType": "image/webp",
+      "alt": "Warm Listening",
+      "role": "thumbnail",
+      "bytes": 7846,
+      "sha256": "e53e347bab4c44abd94f4fd071ef2576d176eb3d0a581c50094a8fddd70b7eff",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQzMC9vcmlnaW5hbF8xMDIwMDVlYzRhY2EyYTljZmIxOWQwNTEyYjY5MzYyNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "102005ec4aca2a9cfb19d0512b693627.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-fea33394306d00869f9aa95b-fea3339430.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Warm Listening",
+      "bytes": 70676,
+      "sha256": "c79e18afd5ac4c919d3773a3ed2aad79dedc2d1ae9d5ad11bbfc6aac5444aa00",
+      "width": 1600,
+      "height": 1067,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fea33394306d00869f9aa95b.jpg",
+        "sourceSha256": "fea33394306d00869f9aa95b7741fc1984358729f800b1c6c9669c6ec6832fe4",
+        "originalBytes": 154135,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:16:43.000Z",
+  "updatedAt": "2026-05-06T12:16:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888430",
+    "title": "hem70pdbaaauuve.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888430,
+      "url": "https://www.are.na/block/45888430",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hem70pdbaaauuve.jpeg",
+      "createdAt": "2026-05-06T12:16:43Z",
+      "updatedAt": "2026-05-06T12:16:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hem70pdbaaauuve.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Warm Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c79e18afd5ac4c919d3773a3ed2aad79dedc2d1ae9d5ad11bbfc6aac5444aa00"
+  }
+}

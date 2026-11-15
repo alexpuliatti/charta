@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787848",
+  "type": "image",
+  "title": "Concrete Lounge",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-lounge",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-84e7348082a366017fab014e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Lounge",
+      "role": "original",
+      "bytes": 275004,
+      "sha256": "84e7348082a366017fab014e22424c8d3625c387105bb55f43a95831344f1a3d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787848/original_3cd361d45c674c3a0a0aa3913ea203a1.jpg",
+      "originalName": "3cd361d45c674c3a0a0aa3913ea203a1.jpg"
+    },
+    {
+      "path": "assets/thumbnail-9a6b57f56f1eec18c1989d28.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Lounge",
+      "role": "thumbnail",
+      "bytes": 11424,
+      "sha256": "9a6b57f56f1eec18c1989d28bfe23267794af88a585bf736b2c04cc191225f86",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg0OC9vcmlnaW5hbF8zY2QzNjFkNDVjNjc0YzNhMGEwYWEzOTEzZWEyMDNhMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3cd361d45c674c3a0a0aa3913ea203a1.jpg"
+    },
+    {
+      "path": "assets/display-web-original-84e7348082a366017fab014e-84e7348082.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Lounge",
+      "bytes": 100770,
+      "sha256": "6037b25e38f77d2e954c06224b754d613d1083f242cfd1d51c6facd150fbee53",
+      "width": 1179,
+      "height": 1473,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-84e7348082a366017fab014e.jpg",
+        "sourceSha256": "84e7348082a366017fab014e22424c8d3625c387105bb55f43a95831344f1a3d",
+        "originalBytes": 275004,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:06.000Z",
+  "updatedAt": "2025-11-02T16:01:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787848",
+    "title": "whereiwouldliketoread-20250201_162659-46185612.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787848,
+      "url": "https://www.are.na/block/40787848",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20250201_162659-46185612.jpg",
+      "createdAt": "2025-11-02T16:01:06Z",
+      "updatedAt": "2025-11-02T16:01:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20250201_162659-46185612.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Lounge",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6037b25e38f77d2e954c06224b754d613d1083f242cfd1d51c6facd150fbee53"
+  }
+}

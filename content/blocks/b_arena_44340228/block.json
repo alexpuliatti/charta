@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340228",
+  "type": "image",
+  "title": "Red Geometry",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "red-geometry",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4c35950e8320e42614a48680.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Red Geometry",
+      "role": "original",
+      "bytes": 90197,
+      "sha256": "4c35950e8320e42614a48680eed6e414a35bc78449e7ca0202c9387ec98eed33",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340228/original_ae9abc545bef27ddd31c5d4b2ae9a2de.jpg",
+      "originalName": "ae9abc545bef27ddd31c5d4b2ae9a2de.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f0dd610b69396566ae921f55.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Geometry",
+      "role": "thumbnail",
+      "bytes": 5788,
+      "sha256": "f0dd610b69396566ae921f555babd329123aea906c6f179f494dadc37d288ef5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIyOC9vcmlnaW5hbF9hZTlhYmM1NDViZWYyN2RkZDMxYzVkNGIyYWU5YTJkZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ae9abc545bef27ddd31c5d4b2ae9a2de.jpg"
+    },
+    {
+      "path": "assets/display-web-original-4c35950e8320e42614a48680-4c35950e83.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Geometry",
+      "bytes": 47926,
+      "sha256": "7ffb4a359122cf536eed903f5d7a58bdb28652057e37d6866da45fc2f31419c0",
+      "width": 1200,
+      "height": 1389,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4c35950e8320e42614a48680.jpg",
+        "sourceSha256": "4c35950e8320e42614a48680eed6e414a35bc78449e7ca0202c9387ec98eed33",
+        "originalBytes": 90197,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340228",
+    "title": "444da97ad5bfa5b3e34a22adb3e06ccf.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340228,
+      "url": "https://www.are.na/block/44340228",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "444da97ad5bfa5b3e34a22adb3e06ccf.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "444da97ad5bfa5b3e34a22adb3e06ccf.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Geometry",
+    "text": "ЛЕТО НА СТРЕЛКЕ 2021: ОТКРЫТЫЙ\nКОД\nSTRELKA SUM-\nMER 2021: OPEN CODE\nSTRELKA SUMMER 2021: OPEN CODE\nSTRELKA SUMMER 2021:\nOPEN CODE\nSTRELKA\nSUMMER 2021: OPEN CODE\nSTRELKA SUMMER 2021: OPEN\nCODE\nSTRELKA SUM-\nMER 2021: OPEN CODE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7ffb4a359122cf536eed903f5d7a58bdb28652057e37d6866da45fc2f31419c0"
+  }
+}

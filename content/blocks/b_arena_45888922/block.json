@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888922",
+  "type": "video",
+  "title": "Lunar Player",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "lunar-player",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-523d8d2c7568600884a022ce.mp4",
+      "mimeType": "video/mp4",
+      "alt": "pbltrr-20250708_014242-3235305911.mp4",
+      "role": "original",
+      "bytes": 2828536,
+      "sha256": "523d8d2c7568600884a022ceb646942c4764d01d0b511dcb54b6059361959b61",
+      "sourceUrl": "https://attachments.are.na/45888922/0c36005f51d779e080152ffefec8bb31.mp4",
+      "originalName": "0c36005f51d779e080152ffefec8bb31.mp4"
+    },
+    {
+      "path": "assets/thumbnail-36328fbe11c296f35608cc4c.webp",
+      "mimeType": "image/webp",
+      "alt": "Lunar Player",
+      "role": "thumbnail",
+      "bytes": 2246,
+      "sha256": "36328fbe11c296f35608cc4cb58e581e65dabc176e4f30beca8b246aac476725",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODkyMi9vcmlnaW5hbF8yYjJmMzgyZWU5Nzk0MTYzMjAyNjA1MDYtMi1seXdtaHoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2b2f382ee979416320260506-2-lywmhz.png"
+    },
+    {
+      "path": "assets/display-web-original-523d8d2c7568600884a022ce-523d8d2c75.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "pbltrr-20250708_014242-3235305911.mp4",
+      "bytes": 2584482,
+      "sha256": "0db175018efb9e4a93389ded9e291b189221b0e1aa26f279c673cadf0a5526fb",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-523d8d2c7568600884a022ce.mp4",
+        "sourceSha256": "523d8d2c7568600884a022ceb646942c4764d01d0b511dcb54b6059361959b61",
+        "originalBytes": 2828536,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-ea00a2991624ecf38d0bd1ef.webp",
+      "mimeType": "image/webp",
+      "alt": "pbltrr-20250708_014242-3235305911.mp4",
+      "role": "preview",
+      "bytes": 24516,
+      "sha256": "ea00a2991624ecf38d0bd1ef1b8771516e32c48e86c097591a8d4b6fd23cbaf4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888922/original_2b2f382ee979416320260506-2-lywmhz.png",
+      "originalName": "2b2f382ee979416320260506-2-lywmhz.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 218952,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:35:25.000Z",
+  "updatedAt": "2026-05-06T12:35:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888922",
+    "title": "pbltrr-20250708_014242-3235305911.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888922,
+      "url": "https://www.are.na/block/45888922",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "pbltrr-20250708_014242-3235305911.mp4",
+      "createdAt": "2026-05-06T12:35:25Z",
+      "updatedAt": "2026-05-06T12:35:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pbltrr-20250708_014242-3235305911.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Lunar Player",
+    "text": "E BE CEC",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "36328fbe11c296f35608cc4cb58e581e65dabc176e4f30beca8b246aac476725"
+  }
+}

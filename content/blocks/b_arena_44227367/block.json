@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227367",
+  "type": "image",
+  "title": "Orbital Player",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "orbital-player",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4f1df50aa24e8ac51d824e3e.png",
+      "mimeType": "image/png",
+      "alt": "Orbital Player",
+      "role": "original",
+      "bytes": 199941,
+      "sha256": "4f1df50aa24e8ac51d824e3e7bbd59c5edb27270f4b10dde81e82bdf95228f6a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227367/original_2918ea6d43bcd8773049b6393cc4272d.png",
+      "originalName": "2918ea6d43bcd8773049b6393cc4272d.png"
+    },
+    {
+      "path": "assets/thumbnail-8c2f2bae75ebde3cf4f63a46.webp",
+      "mimeType": "image/webp",
+      "alt": "Orbital Player",
+      "role": "thumbnail",
+      "bytes": 2480,
+      "sha256": "8c2f2bae75ebde3cf4f63a461cd0273083de8f7087879694bf49dd2b3b85c99b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM2Ny9vcmlnaW5hbF8yOTE4ZWE2ZDQzYmNkODc3MzA0OWI2MzkzY2M0MjcyZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2918ea6d43bcd8773049b6393cc4272d.png"
+    },
+    {
+      "path": "assets/display-web-original-4f1df50aa24e8ac51d824e3e-4f1df50aa2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orbital Player",
+      "bytes": 22666,
+      "sha256": "4d89899f7f22bfe91a24b82dd9e0415a27c762290ce1b967fa4b4c5a8583ec52",
+      "width": 1650,
+      "height": 1348,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4f1df50aa24e8ac51d824e3e.png",
+        "sourceSha256": "4f1df50aa24e8ac51d824e3e7bbd59c5edb27270f4b10dde81e82bdf95228f6a",
+        "originalBytes": 199941,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:32.000Z",
+  "updatedAt": "2026-03-07T22:47:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227367",
+    "title": "screenshot-2026-03-07-alle-23.38.35.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227367,
+      "url": "https://www.are.na/block/44227367",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.38.35.png",
+      "createdAt": "2026-03-07T22:47:32Z",
+      "updatedAt": "2026-03-07T22:47:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.38.35.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orbital Player",
+    "text": "W - 01\nAUDIO_IN\nSTATUS\nSecure link established.\nCapturing input stream...\n00: 05:22:46\n44.1 kHz",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4d89899f7f22bfe91a24b82dd9e0415a27c762290ce1b967fa4b4c5a8583ec52"
+  }
+}

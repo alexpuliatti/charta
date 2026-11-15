@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340278",
+  "type": "image",
+  "title": "Speaker Bag",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "speaker-bag",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-85e3b1b12686ed82491b6543.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Speaker Bag",
+      "role": "original",
+      "bytes": 201182,
+      "sha256": "85e3b1b12686ed82491b6543e32a4d337727bfc869992ee506933fec1ae7c0f7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340278/original_2f2e6cf1d585f26c1c8b0cd08a17ab15.jpg",
+      "originalName": "2f2e6cf1d585f26c1c8b0cd08a17ab15.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f89b946786268b56ef152bf6.webp",
+      "mimeType": "image/webp",
+      "alt": "Speaker Bag",
+      "role": "thumbnail",
+      "bytes": 15682,
+      "sha256": "f89b946786268b56ef152bf66eb4927ce3e2208b0c0639e1a372083c145b9e5d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI3OC9vcmlnaW5hbF8yZjJlNmNmMWQ1ODVmMjZjMWM4YjBjZDA4YTE3YWIxNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2f2e6cf1d585f26c1c8b0cd08a17ab15.jpg"
+    },
+    {
+      "path": "assets/display-web-original-85e3b1b12686ed82491b6543-85e3b1b126.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Speaker Bag",
+      "bytes": 133976,
+      "sha256": "921c8e5c3d10da93961623877bb83be850cb9756626d1a46f0d82a4846c488e8",
+      "width": 1206,
+      "height": 1649,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-85e3b1b12686ed82491b6543.jpg",
+        "sourceSha256": "85e3b1b12686ed82491b6543e32a4d337727bfc869992ee506933fec1ae7c0f7",
+        "originalBytes": 201182,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:41:37.000Z",
+  "updatedAt": "2026-03-11T17:41:40.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340278",
+    "title": "hdibtqvb0aegkxl.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340278,
+      "url": "https://www.are.na/block/44340278",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hdibtqvb0aegkxl.jpeg",
+      "createdAt": "2026-03-11T17:41:37Z",
+      "updatedAt": "2026-03-11T17:41:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hdibtqvb0aegkxl.jpeg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Speaker Bag",
+    "text": "highsnobietystyle\n• and highsnobietyde...",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "921c8e5c3d10da93961623877bb83be850cb9756626d1a46f0d82a4846c488e8"
+  }
+}

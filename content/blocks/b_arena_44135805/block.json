@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44135805",
+  "type": "link",
+  "title": "FAIR Zine",
+  "description": "Graphic Design, Branding, Editorial Design, Figma, Adobe Illustrator",
+  "category": "Graphic design",
+  "tags": [
+    "zine",
+    "editorial-design",
+    "branding"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-14dfd8ab223a2782fd936485.gif",
+      "mimeType": "image/gif",
+      "alt": "FAIR ZINE",
+      "role": "thumbnail",
+      "bytes": 1687251,
+      "sha256": "14dfd8ab223a2782fd9364852ab2267196af6872f989e37617412ddab0b278ed",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44135805/original_618872de2dc893215e01691c01b1279a.gif",
+      "originalName": "618872de2dc893215e01691c01b1279a.gif"
+    },
+    {
+      "path": "assets/preview-14dfd8ab223a2782fd936485.gif",
+      "mimeType": "image/gif",
+      "alt": "FAIR ZINE",
+      "role": "preview",
+      "bytes": 1687251,
+      "sha256": "14dfd8ab223a2782fd9364852ab2267196af6872f989e37617412ddab0b278ed",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44135805/original_618872de2dc893215e01691c01b1279a.gif",
+      "originalName": "618872de2dc893215e01691c01b1279a.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:03:52.000Z",
+  "updatedAt": "2026-04-22T17:23:29.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.behance.net/gallery/232794991/FAIR-ZINE?tracking_source=project_owner_other_projects",
+    "title": "FAIR ZINE",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44135805,
+      "url": "https://www.are.na/block/44135805",
+      "type": "Embed",
+      "visibility": "public",
+      "originalTitle": "FAIR ZINE",
+      "createdAt": "2026-03-04T15:03:52Z",
+      "updatedAt": "2026-04-22T17:23:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "FAIR ZINE",
+      "category": "Graphic design",
+      "tags": [
+        "books",
+        "visual-identity",
+        "graphic-design",
+        "editorial-design",
+        "illustration",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

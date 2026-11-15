@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888892",
+  "type": "video",
+  "title": "Neural Interaction",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "neural-interaction",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-112d6414ae6f973f34386f9b.mp4",
+      "mimeType": "video/mp4",
+      "alt": "mindspiritdesign-20251120_134326-1479205761.mp4",
+      "role": "original",
+      "bytes": 4945511,
+      "sha256": "112d6414ae6f973f34386f9b75b306fcdd73c7dd1711998f52f0449a4486b47e",
+      "sourceUrl": "https://attachments.are.na/45888892/d9fa49fbdcd7f1265c13ccfea8d785ee.mp4",
+      "originalName": "d9fa49fbdcd7f1265c13ccfea8d785ee.mp4"
+    },
+    {
+      "path": "assets/thumbnail-ffc3ba39c6b1dfb10c5cdcd8.webp",
+      "mimeType": "image/webp",
+      "alt": "Neural Interaction",
+      "role": "thumbnail",
+      "bytes": 11848,
+      "sha256": "ffc3ba39c6b1dfb10c5cdcd89cf03eb09e588076dfadc70cc25bc25bb99ac0bb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg5Mi9vcmlnaW5hbF84OTEyODI4MGI5OWY1NTRiMjAyNjA1MDYtMi1zYmV6YmIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "89128280b99f554b20260506-2-sbezbb.png"
+    },
+    {
+      "path": "assets/preview-6db64ffddd4e0800d31e4314.webp",
+      "mimeType": "image/webp",
+      "alt": "mindspiritdesign-20251120_134326-1479205761.mp4",
+      "role": "preview",
+      "bytes": 79236,
+      "sha256": "6db64ffddd4e0800d31e43148e808af31801baa6da2e7f028ec86159dfd7d9e7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888892/original_89128280b99f554b20260506-2-sbezbb.png",
+      "originalName": "89128280b99f554b20260506-2-sbezbb.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 823428,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:34:26.000Z",
+  "updatedAt": "2026-05-06T12:34:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888892",
+    "title": "mindspiritdesign-20251120_134326-1479205761.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888892,
+      "url": "https://www.are.na/block/45888892",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "mindspiritdesign-20251120_134326-1479205761.mp4",
+      "createdAt": "2026-05-06T12:34:26Z",
+      "updatedAt": "2026-05-06T12:34:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "mindspiritdesign-20251120_134326-1479205761.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Neural Interaction",
+    "text": "pep\n20-00\n1-0-",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ffc3ba39c6b1dfb10c5cdcd89cf03eb09e588076dfadc70cc25bc25bb99ac0bb"
+  }
+}

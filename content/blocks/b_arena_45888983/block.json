@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888983",
+  "type": "video",
+  "title": "Colour Rows",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "colour-rows",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-28683761f7e48fe5653fecdb.mp4",
+      "mimeType": "video/mp4",
+      "alt": "thebrandidentity-20250829_210420-1662001863.mp4",
+      "role": "original",
+      "bytes": 422195,
+      "sha256": "28683761f7e48fe5653fecdb53d8d0c073b2330177ad2468dcc8d202f5821f5d",
+      "sourceUrl": "https://attachments.are.na/45888983/09b62188d4dcc003455717aa14e16c97.mp4",
+      "originalName": "09b62188d4dcc003455717aa14e16c97.mp4"
+    },
+    {
+      "path": "assets/thumbnail-7593ef80e9e663764a54b056.webp",
+      "mimeType": "image/webp",
+      "alt": "Colour Rows",
+      "role": "thumbnail",
+      "bytes": 6518,
+      "sha256": "7593ef80e9e663764a54b05694c14b479a16a3020274986216de0f2eef799a71",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODk4My9vcmlnaW5hbF9mYTM1NDVkODJlMTM3Y2VmMjAyNjA1MDYtMi1uaTFmdHkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "fa3545d82e137cef20260506-2-ni1fty.png"
+    },
+    {
+      "path": "assets/preview-53c57c3fb1dcb0b3bc6353be.webp",
+      "mimeType": "image/webp",
+      "alt": "thebrandidentity-20250829_210420-1662001863.mp4",
+      "role": "preview",
+      "bytes": 34976,
+      "sha256": "53c57c3fb1dcb0b3bc6353be2d2ebbc8107127c0a228f2e390fb00f4c13ab2cd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888983/original_fa3545d82e137cef20260506-2-ni1fty.png",
+      "originalName": "fa3545d82e137cef20260506-2-ni1fty.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 147205,
+        "width": 720,
+        "height": 900,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:37:22.000Z",
+  "updatedAt": "2026-05-06T12:37:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888983",
+    "title": "thebrandidentity-20250829_210420-1662001863.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888983,
+      "url": "https://www.are.na/block/45888983",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "thebrandidentity-20250829_210420-1662001863.mp4",
+      "createdAt": "2026-05-06T12:37:22Z",
+      "updatedAt": "2026-05-06T12:37:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "thebrandidentity-20250829_210420-1662001863.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colour Rows",
+    "text": "Matanse\nMS SAY\nHuo\nserg,\nane...\nHOnA.\nBbru\nHAme\nHon:\ntse, sorotes\nT2:1000c.000\n0213313k, ox. s.an\n:re8.:582\nBAnce war\n......\ncт336cлeсse.ms\n13knassscmn",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7593ef80e9e663764a54b05694c14b479a16a3020274986216de0f2eef799a71"
+  }
+}

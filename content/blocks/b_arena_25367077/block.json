@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_25367077",
+  "type": "image",
+  "title": "Timer Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "timer-controls",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6897dff1e9c74331f4a388a7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Timer Controls",
+      "role": "original",
+      "bytes": 34184,
+      "sha256": "6897dff1e9c74331f4a388a7ea35887233c82d2ea18327fac5d9b7fbdff87e1b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/25367077/original_77b82a2a885de63a7332c2d8b4799665.jpg",
+      "originalName": "77b82a2a885de63a7332c2d8b4799665.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2b579a6de1178419122056f1.webp",
+      "mimeType": "image/webp",
+      "alt": "Timer Controls",
+      "role": "thumbnail",
+      "bytes": 2724,
+      "sha256": "2b579a6de1178419122056f16165582d8a1e55f3b7fd6d8abe153e70c978e77b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNTM2NzA3Ny9vcmlnaW5hbF83N2I4MmEyYTg4NWRlNjNhNzMzMmMyZDhiNDc5OTY2NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "77b82a2a885de63a7332c2d8b4799665.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6897dff1e9c74331f4a388a7-6897dff1e9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timer Controls",
+      "bytes": 13116,
+      "sha256": "aa1e4f370a59b3a54cdd4b0aa1731cc9fb3ffedc7d09b7ed2c466ec9ff998763",
+      "width": 1200,
+      "height": 675,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6897dff1e9c74331f4a388a7.jpg",
+        "sourceSha256": "6897dff1e9c74331f4a388a7ea35887233c82d2ea18327fac5d9b7fbdff87e1b",
+        "originalBytes": 34184,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-12-24T15:31:29.000Z",
+  "updatedAt": "2026-11-12T20:14:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://twitter.com/home",
+    "title": "Startpagina / X",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 25367077,
+      "url": "https://www.are.na/block/25367077",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gcesjpsxiaawimo?format=jpg-name=medium",
+      "createdAt": "2023-12-24T15:31:29Z",
+      "updatedAt": "2026-11-12T20:14:50Z",
+      "addedBy": {
+        "id": 139940,
+        "name": "kent ◎",
+        "slug": "kent"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gcesjpsxiaawimo?format=jpg-name=medium",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timer Controls",
+    "text": "12:35 PM\n* +16\n45:00\n12:39 PM\n* +16\n36:12",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "aa1e4f370a59b3a54cdd4b0aa1731cc9fb3ffedc7d09b7ed2c466ec9ff998763"
+  }
+}

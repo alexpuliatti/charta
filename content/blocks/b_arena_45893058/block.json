@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45893058",
+  "type": "link",
+  "title": "Rauno Craft",
+  "description": "History of Software Design",
+  "category": "Interface design",
+  "tags": [
+    "interaction-design",
+    "interface-craft",
+    "experiments"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-dc324c693f6017e7c33c8416.webp",
+      "mimeType": "image/webp",
+      "alt": "Craft",
+      "role": "thumbnail",
+      "bytes": 4366,
+      "sha256": "dc324c693f6017e7c33c841618bff2f5e5b09926301d78f555bc12344d0cc978",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MzA1OC9vcmlnaW5hbF9mZDNmOGZlNzFlMzQ4OGM3NDQ3ZDlkZjkwODRiZDNkNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fd3f8fe71e3488c7447d9df9084bd3d7.png"
+    },
+    {
+      "path": "assets/preview-b32a696a784d5fb12c7a54a2.webp",
+      "mimeType": "image/webp",
+      "alt": "Craft",
+      "role": "preview",
+      "bytes": 88686,
+      "sha256": "b32a696a784d5fb12c7a54a202b14a4e9049ca01c598c52d12d8a4adbc6965f0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45893058/original_fd3f8fe71e3488c7447d9df9084bd3d7.png",
+      "originalName": "fd3f8fe71e3488c7447d9df9084bd3d7.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1192747,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:56:43.000Z",
+  "updatedAt": "2026-05-06T14:56:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://rauno.me/craft",
+    "title": "Craft",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45893058,
+      "url": "https://www.are.na/block/45893058",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Craft",
+      "createdAt": "2026-05-06T14:56:43Z",
+      "updatedAt": "2026-05-06T14:56:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Craft",
+      "category": "Information design",
+      "tags": [
+        "programming",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

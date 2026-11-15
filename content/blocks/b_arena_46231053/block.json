@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46231053",
+  "type": "link",
+  "title": "Personalized Brain Health",
+  "description": "Neurodiversity redefines brain health by showing how personalized neuromodulation and EEG tools support the unique neural profiles of neurodiverse individuals.",
+  "category": "Writing",
+  "tags": [
+    "neurodiversity",
+    "eeg",
+    "neuromodulation"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-914f7ec6f31163155dd16ed3.webp",
+      "mimeType": "image/webp",
+      "alt": "Neurodiversity & Brain Health: From Standardized to Personalized",
+      "role": "thumbnail",
+      "bytes": 16964,
+      "sha256": "914f7ec6f31163155dd16ed3864e9d7593bfe4ad1983a59a45989787a30f9494",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjIzMTA1My9vcmlnaW5hbF80NTg5OGViNTQwMDY0NGU5NGM1MDcwMDVkNjJmYjAxYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "45898eb5400644e94c507005d62fb01a.png"
+    },
+    {
+      "path": "assets/preview-b8cc7d128571d099c46f83dd.webp",
+      "mimeType": "image/webp",
+      "alt": "Neurodiversity & Brain Health: From Standardized to Personalized",
+      "role": "preview",
+      "bytes": 248726,
+      "sha256": "b8cc7d128571d099c46f83ddf1a8c2159d4d4aa3556c587164e6395e5484bf87",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46231053/original_45898eb5400644e94c507005d62fb01a.png",
+      "originalName": "45898eb5400644e94c507005d62fb01a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 588926,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-16T08:14:53.000Z",
+  "updatedAt": "2026-05-16T08:15:08.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.neuroelectrics.com/blog/neurodiversity-brain-health-from-standardized-to-personalized",
+    "title": "Neurodiversity & Brain Health: From Standardized to Personalized",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46231053,
+      "url": "https://www.are.na/block/46231053",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Neurodiversity & Brain Health: From Standardized to Personalized",
+      "createdAt": "2026-05-16T08:14:53Z",
+      "updatedAt": "2026-05-16T08:15:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Neurodiversity & Brain Health: From Standardized to Personalized",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "artificial-intelligence",
+        "tools",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_47042012",
+      "reason": "Both discuss the transition toward personalized neurotechnology, including EEG, neuromodulation, and end-user applications.",
+      "method": "curation-v1"
+    }
+  ]
+}

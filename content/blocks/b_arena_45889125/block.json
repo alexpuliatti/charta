@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889125",
+  "type": "file",
+  "title": "Hedron Satellites",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "satellites",
+    "optical-communications",
+    "space"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bacdf2e21a0dde7cc5f39f16.pdf",
+      "mimeType": "application/pdf",
+      "alt": "1d4c6b319fee543eaba306bd4aa8d9b7.pdf",
+      "role": "original",
+      "bytes": 1002383,
+      "sha256": "bacdf2e21a0dde7cc5f39f16402586900c430a9dc09ec8aa8b220f1c17b489a5",
+      "sourceUrl": "https://attachments.are.na/45889125/1eeeb1fb28667ccc318b7d02ef0ceefd.pdf",
+      "originalName": "1eeeb1fb28667ccc318b7d02ef0ceefd.pdf"
+    },
+    {
+      "path": "assets/thumbnail-26b4755d87187c240963ce87.webp",
+      "mimeType": "image/webp",
+      "alt": "1d4c6b319fee543eaba306bd4aa8d9b7.pdf",
+      "role": "thumbnail",
+      "bytes": 3346,
+      "sha256": "26b4755d87187c240963ce877d6a6520cf15b883d6c83a06b200fc64b68b274c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTEyNS9vcmlnaW5hbF8zZTA5M2E1ZjcyMGNlOTA3MjAyNjA1MDYtMi1yMmpvcXAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3e093a5f720ce90720260506-2-r2joqp.png"
+    },
+    {
+      "path": "assets/preview-a6864ef79fec8cafa70d1b50.webp",
+      "mimeType": "image/webp",
+      "alt": "1d4c6b319fee543eaba306bd4aa8d9b7.pdf",
+      "role": "preview",
+      "bytes": 117104,
+      "sha256": "a6864ef79fec8cafa70d1b50948e3779bf145871998c72c0497dd6a1bc2c9d2a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889125/original_3e093a5f720ce90720260506-2-r2joqp.png",
+      "originalName": "3e093a5f720ce90720260506-2-r2joqp.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1025189,
+        "width": 1131,
+        "height": 1600,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:42:11.000Z",
+  "updatedAt": "2026-09-04T20:17:49.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 7-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889125",
+    "title": "1d4c6b319fee543eaba306bd4aa8d9b7.pdf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889125,
+      "url": "https://www.are.na/block/45889125",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "1d4c6b319fee543eaba306bd4aa8d9b7.pdf",
+      "createdAt": "2026-05-06T12:42:11Z",
+      "updatedAt": "2026-09-04T20:17:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Startups",
+    "genre": "report",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://hedron.space",
+        "finding": "Archived seven-page company PDF identifies Hedron satellite relay network, seed and Series A financing; this is an archived startup presentation, not a current operational-status claim.",
+        "localArtifact": "content/blocks/b_arena_45889125/assets/original-bacdf2e21a0dde7cc5f39f16.pdf"
+      }
+    ],
+    "original": {
+      "title": "1d4c6b319fee543eaba306bd4aa8d9b7.pdf",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "Connecting space to  \nEarth in realtime.\n\nHedron is building a \nnetwork of data relay \nsatellites that will \nsolve the connectivity \nproblems faced by \nremote sensing \nconstellations. \nOUR STORY\nCONNECTING SPACE TO EARTH 24 /7\nEarth Observing Satellites spend 70% of their orbits in \nconnectivity blackout zones, forced to hold their critical \ndata onboard until the next downlink opportunity.  \nWith leading multi-aperture optical technology, Hedron \nis building the critical infrastructure that makes high \nbandwidth, low latency connectivity to space a reality.\n2\n\n\n4 TECHNOLOGY\nSpace’s open data \nrelay network is \nbuilt with Earth ’s \nbest technology.\n01  Satellites collect data \nabout our planet.\n02  Satellites offload data to \nNetwork using RF and \nOptical Relays.\n03  The Halo Network optically \nroutes data through a series \nof relays, finding the optimal \npathway to the ground.\n04  Data is downlinked using \nRF and laser connections \nto ground service providers \nand end users.\nHe d r o n’s initial operating demonstration will decrease data downlink latency for \nclient GEOINT satellites after data collections in any Area of Responsibility.\nWith the deployment of converter satellites in close proximity to partner GEOINT \ncollection satellites, Hedron delivers an “always on ” TT&C and a direct connection \nto the Halo Network.\nThe Halo Network will leverage software defined radios to ingest EO data from \nlegacy imaging satellites in a wide range of radio frequencies, allowing clients to \nextend their downlink capacity while using existing hardware.\nBy increasing data rates and widening ground station availability, the Hedron \nnetwork will enable EO satellite operators to downlink and deliver up to six times \nthe amount of data previously possible.\nLOW LATENCY \nALWAYS ON TASKING\nBACKWARDS COMPATIBILITY\nINCREASING THROUGHPUT\n\nW e’re bringing \nit down here.\n6 USE CASES\nRemote sensing satellites gather data \nthat helps feed, effect, and protect \nmillions. They provide crucial weather \ndata, help optimize industrial-scale \nagriculture, track vital industrial assets, \naid in disaster response, and more.\nThe data to fight \nforest fires, \n   \n plan food security, observe oceans, \n  track emissions,  \n predict natural disasters, monitor \nmaritime areas and  \nsaves lives \n  \nis up there.\n\nTIMELINE\nHedron ’s demonstration satellites  \nset to launch in 2022.\nHedron raises $3.5M in \nseed funding\nRadix, the first tech demo satellite, \ncommences test campaign fully \nbooked with government and \ncommercial partners.\n$3M win on \nSpace Pitch Day\nHedron receives a $26.4M \nUSSF Contract to build out the \ninitial operating demonstration \nsatellite network.\n2017201820192020\nFCC authorizes data relay test \nwith first customers\nOpens an Optical Communications \nT est Lab in Los Angeles, California\nFully booked benchtop test campaign \nwith premier remote sensing satellite \nconstellation operators underway.\nRaises +$17 .8M \nSeries A \nFinancing Round\n2021\nAnnounces Senior Leadership \nAppointments and announces \nname change to Hedron.\nTIMELINE\nLicenses the Inter Satellite \nOptical Communicator (ISOC) \nfrom NASA JPL.\n\n\n10\nADVISORY BOARD\nRobert Cardillo\nF ormer Director of the NGA, F ormer \nDeputy Director of National Intelligence\nPete W orden\nF ormer NASA Ames Director Chairman, \nBreakthrough Prize F oundation\nPeter Marquez\nF ormer White House Director  of Space \nPolicy, Head of Space Policy at A WS\nMike F rench\nF ormer NASA Chief of Staff,   \nF ormer Bryce Space & T echnology  \nSVP of Commercial Space\nJustin Oliveira Advisor and Co-F ounder\nAmanda  \nKoenig Fuisz\nF ormer T echnology Legal Strategist, \nSenior Attorney, NASA\nRamana Nanda\nSarofim-Rock Professor, Harvard \nBusiness School\nSteve Blumenthal\nF ormer Speedy Packets VP of \nEngineering, VP of Engineering at W afer\nPROGRESS AND ACCOLADES U.S. Space F orce Contract Currently on contract to prototype and \ndeliver data delay as a service with 2 \nAFWERX awards.\n2019 F ast Company Most Innovative Company\n2019 AFRL - sponsored Catalyst Space \nAccelerator Cohort\n2018 NASA iT ech Competition Winner\n2016 MassChallenge Platinum Prize Winner\nCONTACT\nhedron.space\n© 2021 HEDRON SPACE\n\nhedron.space",
+    "textPath": "extracted.txt",
+    "textSha256": "ded4d8766ebf96291667f6a377e723483687393775da1b73af4040d57ab95b44",
+    "textCharacters": 4181,
+    "pages": 7,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

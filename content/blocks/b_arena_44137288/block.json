@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137288",
+  "type": "image",
+  "title": "Quarry Stage",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "quarry-stage",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eeb412e53ed97436c421103b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quarry Stage",
+      "role": "original",
+      "bytes": 106531,
+      "sha256": "eeb412e53ed97436c421103b4aa847328213ea0b2dfb69c6021012bde9da3da6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137288/original_945aa055cc6533c735acaae9ce2cf40d.jpg",
+      "originalName": "945aa055cc6533c735acaae9ce2cf40d.jpg"
+    },
+    {
+      "path": "assets/thumbnail-408d354cacc4aace2608a9d2.webp",
+      "mimeType": "image/webp",
+      "alt": "Quarry Stage",
+      "role": "thumbnail",
+      "bytes": 7538,
+      "sha256": "408d354cacc4aace2608a9d2cc44270c75e005904ce05f8063186727e4765c82",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI4OC9vcmlnaW5hbF85NDVhYTA1NWNjNjUzM2M3MzVhY2FhZTljZTJjZjQwZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "945aa055cc6533c735acaae9ce2cf40d.jpg"
+    },
+    {
+      "path": "assets/display-web-original-eeb412e53ed97436c421103b-eeb412e53e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quarry Stage",
+      "bytes": 68632,
+      "sha256": "eed556e8b1f5465b1957759a3c4d565f7a6c82c349781366c8a82dcd4235f7ec",
+      "width": 1179,
+      "height": 1464,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-eeb412e53ed97436c421103b.jpg",
+        "sourceSha256": "eeb412e53ed97436c421103b4aa847328213ea0b2dfb69c6021012bde9da3da6",
+        "originalBytes": 106531,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:16.000Z",
+  "updatedAt": "2026-03-04T15:46:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137288",
+    "title": "_numeroventi_-20251019_180834-2061877234.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137288,
+      "url": "https://www.are.na/block/44137288",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_numeroventi_-20251019_180834-2061877234.jpg",
+      "createdAt": "2026-03-04T15:46:16Z",
+      "updatedAt": "2026-03-04T15:46:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_numeroventi_-20251019_180834-2061877234.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quarry Stage",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "eed556e8b1f5465b1957759a3c4d565f7a6c82c349781366c8a82dcd4235f7ec"
+  }
+}

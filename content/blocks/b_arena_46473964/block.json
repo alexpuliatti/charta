@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473964",
+  "type": "link",
+  "title": "Font Brief",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "typefaces",
+    "personality",
+    "font-discovery"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-50fa0bcbb48dff5ee091e5e6.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 8722,
+      "sha256": "50fa0bcbb48dff5ee091e5e6797acddf87b40bcd450b9607bbc5096a6b0d0d8d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk2NC9vcmlnaW5hbF9hZWMyNGY3ZGJjOWExNWQ1M2Q2ODNjODcwMTUyMDRiMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "aec24f7dbc9a15d53d683c87015204b1.png"
+    },
+    {
+      "path": "assets/preview-24120b07fe4adc3429550782.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 43706,
+      "sha256": "24120b07fe4adc342955078273f981da085b70e721e94a03a300c9de1d20bfc2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473964/original_aec24f7dbc9a15d53d683c87015204b1.png",
+      "originalName": "aec24f7dbc9a15d53d683c87015204b1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 140586,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:33.000Z",
+  "updatedAt": "2026-05-25T10:58:49.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://www.fontbrief.com/fontbrief",
+    "title": "Link · design-tools · 46473964",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473964,
+      "url": "https://www.are.na/block/46473964",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-25T10:58:33Z",
+      "updatedAt": "2026-05-25T10:58:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "resource",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.fontbrief.com/fontbrief",
+        "finding": "Official Font Brief tool offers font selection by personality and typeface characteristics."
+      }
+    ],
+    "original": {
+      "title": "Link · design-tools · 46473964",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579182",
+  "type": "image",
+  "title": "Avedon Letterhead",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "avedon-letterhead",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dac7c69e4f33a7aa50c7ae0e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Avedon Letterhead",
+      "role": "original",
+      "bytes": 168967,
+      "sha256": "dac7c69e4f33a7aa50c7ae0ecd790502afc733a39b36a405262057a1976703f8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579182/original_360b6791de610cfd58be89644a9ab1ed.jpeg",
+      "originalName": "360b6791de610cfd58be89644a9ab1ed.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-ef851a055ef2782b9314578e.webp",
+      "mimeType": "image/webp",
+      "alt": "Avedon Letterhead",
+      "role": "thumbnail",
+      "bytes": 2202,
+      "sha256": "ef851a055ef2782b9314578e0c0cd5480f582e1d459da083411280648bab0bab",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE4Mi9vcmlnaW5hbF8zNjBiNjc5MWRlNjEwY2ZkNThiZTg5NjQ0YTlhYjFlZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "360b6791de610cfd58be89644a9ab1ed.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-dac7c69e4f33a7aa50c7ae0e-dac7c69e4f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Avedon Letterhead",
+      "bytes": 56596,
+      "sha256": "00db0501d6b3127e90e038d178fec35ffc44813ce6864bbd76b4f0f9c231dfb4",
+      "width": 1080,
+      "height": 1349,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dac7c69e4f33a7aa50c7ae0e.jpg",
+        "sourceSha256": "dac7c69e4f33a7aa50c7ae0ecd790502afc733a39b36a405262057a1976703f8",
+        "originalBytes": 168967,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:17.000Z",
+  "updatedAt": "2026-11-14T15:27:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579182",
+    "title": "dasswerke-20250108_130000-1238760928",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579182,
+      "url": "https://www.are.na/block/47579182",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-1238760928",
+      "createdAt": "2026-07-04T15:36:17Z",
+      "updatedAt": "2026-11-14T15:27:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-1238760928",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Avedon Letterhead",
+    "text": "RICHARD AVEDON, 110 EAST 58™H STREET, NEW YORK CITY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "00db0501d6b3127e90e038d178fec35ffc44813ce6864bbd76b4f0f9c231dfb4"
+  }
+}

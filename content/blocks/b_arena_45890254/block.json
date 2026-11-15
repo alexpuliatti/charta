@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890254",
+  "type": "link",
+  "title": "DEEO Artifacts",
+  "description": "Built for the curious. Interactive and motion experiments. Made to be played with.",
+  "category": "Interface design",
+  "tags": [
+    "motion-design",
+    "interactive-design",
+    "experiments"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f56ada977f221bf044d4ebf8.webp",
+      "mimeType": "image/webp",
+      "alt": "DEEO Artifacts",
+      "role": "thumbnail",
+      "bytes": 5724,
+      "sha256": "f56ada977f221bf044d4ebf8266b7b46a334d5408a5cdf58de706a581b20a427",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDI1NC9vcmlnaW5hbF8zNzdlYTVkYjc0ZjZmMjZjN2EyYjU5MjBjYjYzZTk0NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "377ea5db74f6f26c7a2b5920cb63e945.png"
+    },
+    {
+      "path": "assets/preview-5539ea0e4b00c12fae06964c.webp",
+      "mimeType": "image/webp",
+      "alt": "DEEO Artifacts",
+      "role": "preview",
+      "bytes": 56998,
+      "sha256": "5539ea0e4b00c12fae06964cc273f88188dab952b5b8f51f3c26cacdf5563294",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890254/original_377ea5db74f6f26c7a2b5920cb63e945.png",
+      "originalName": "377ea5db74f6f26c7a2b5920cb63e945.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 162524,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:29:55.000Z",
+  "updatedAt": "2026-05-06T13:30:11.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://artifacts.deeo.studio/",
+    "title": "DEEO Artifacts",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890254,
+      "url": "https://www.are.na/block/45890254",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "DEEO Artifacts",
+      "createdAt": "2026-05-06T13:29:55Z",
+      "updatedAt": "2026-05-06T13:30:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "DEEO Artifacts",
+      "category": "Information design",
+      "tags": [
+        "interaction-design",
+        "motion-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

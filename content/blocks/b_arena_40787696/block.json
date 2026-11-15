@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787696",
+  "type": "image",
+  "title": "Iridescent Cube",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "iridescent-cube",
+    "audio-hardware",
+    "loudspeakers",
+    "speaker-project"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8225217ee16e355a3d173047.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Iridescent Cube",
+      "role": "original",
+      "bytes": 45982,
+      "sha256": "8225217ee16e355a3d173047d3c1a61e4cbf82455eda25362a301b2f7024b232",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787696/original_82f3dad1e4ad1741eeb96a667910292a.jpg",
+      "originalName": "82f3dad1e4ad1741eeb96a667910292a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-7f786443aeb9075926affa84.webp",
+      "mimeType": "image/webp",
+      "alt": "Iridescent Cube",
+      "role": "thumbnail",
+      "bytes": 3034,
+      "sha256": "7f786443aeb9075926affa840d58608fe943765342c49579721fe9acdc9afda1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzY5Ni9vcmlnaW5hbF84MmYzZGFkMWU0YWQxNzQxZWViOTZhNjY3OTEwMjkyYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "82f3dad1e4ad1741eeb96a667910292a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-8225217ee16e355a3d173047-8225217ee1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Iridescent Cube",
+      "bytes": 21806,
+      "sha256": "5d7ee54eb70c864733d13b08018d280a5e896ca33b107d4ed2d283486761f46f",
+      "width": 1000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8225217ee16e355a3d173047.jpg",
+        "sourceSha256": "8225217ee16e355a3d173047d3c1a61e4cbf82455eda25362a301b2f7024b232",
+        "originalBytes": 45982,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:55:28.000Z",
+  "updatedAt": "2026-05-11T09:08:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787696",
+    "title": "c73baeef5b422e08ac4880e443cad179.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787696,
+      "url": "https://www.are.na/block/40787696",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c73baeef5b422e08ac4880e443cad179.jpg",
+      "createdAt": "2025-11-02T15:55:28Z",
+      "updatedAt": "2026-05-11T09:08:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c73baeef5b422e08ac4880e443cad179.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speaker-project",
+        "speakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126",
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Iridescent Cube",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5d7ee54eb70c864733d13b08018d280a5e896ca33b107d4ed2d283486761f46f"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144608",
+  "type": "image",
+  "title": "Editorial Panels",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "editorial-panels",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0328d770bac32fe74c117bbc.png",
+      "mimeType": "image/png",
+      "alt": "Editorial Panels",
+      "role": "original",
+      "bytes": 132252,
+      "sha256": "0328d770bac32fe74c117bbcb2c6302ddcf6b9dc8ea2779f9de4210256bda523",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144608/original_6885ccc907dd16f612b614d44455f7c6.png",
+      "originalName": "6885ccc907dd16f612b614d44455f7c6.png"
+    },
+    {
+      "path": "assets/thumbnail-96dfe1482e64278386688e10.webp",
+      "mimeType": "image/webp",
+      "alt": "Editorial Panels",
+      "role": "thumbnail",
+      "bytes": 7332,
+      "sha256": "96dfe1482e64278386688e1063fbd429eb05b0f5de32c7390ea2ee0a1417c1de",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYwOC9vcmlnaW5hbF82ODg1Y2NjOTA3ZGQxNmY2MTJiNjE0ZDQ0NDU1ZjdjNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6885ccc907dd16f612b614d44455f7c6.png"
+    },
+    {
+      "path": "assets/display-web-original-0328d770bac32fe74c117bbc-0328d770ba.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Editorial Panels",
+      "bytes": 53332,
+      "sha256": "94d282551c4cad9149568bdb3c429b16ba8e31b2178344b197625b588b0c68f1",
+      "width": 1500,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0328d770bac32fe74c117bbc.png",
+        "sourceSha256": "0328d770bac32fe74c117bbcb2c6302ddcf6b9dc8ea2779f9de4210256bda523",
+        "originalBytes": 132252,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:15.000Z",
+  "updatedAt": "2026-03-04T19:22:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144608",
+    "title": "hcfpathbqaacrc6.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144608,
+      "url": "https://www.are.na/block/44144608",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcfpathbqaacrc6.png",
+      "createdAt": "2026-03-04T19:22:15Z",
+      "updatedAt": "2026-03-04T19:22:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcfpathbqaacrc6.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Editorial Panels",
+    "text": "London\nKEKE\nGenesis\nDrop\nExhibition\nROAD\n20 Feb\n2025",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "94d282551c4cad9149568bdb3c429b16ba8e31b2178344b197625b588b0c68f1"
+  }
+}

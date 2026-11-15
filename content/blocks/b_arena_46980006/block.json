@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46980006",
+  "type": "link",
+  "title": "Jessyin Writing",
+  "description": "A personal website styled as a macOS Finder window",
+  "category": "Writing",
+  "tags": [
+    "personal-writing",
+    "essays",
+    "portfolio"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-be7c6c4230e768f106b541da.webp",
+      "mimeType": "image/webp",
+      "alt": "hey there",
+      "role": "thumbnail",
+      "bytes": 4376,
+      "sha256": "be7c6c4230e768f106b541dab15bfeac111fc001191845e05a2bebec9cc07e31",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Njk4MDAwNi9vcmlnaW5hbF84YzZmZDUzZWI3Y2NlMjcxYjk3ODcxNDNlM2NjMTI2MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8c6fd53eb7cce271b9787143e3cc1261.png"
+    },
+    {
+      "path": "assets/preview-5822306f4b12dfaf841ae7f5.webp",
+      "mimeType": "image/webp",
+      "alt": "hey there",
+      "role": "preview",
+      "bytes": 64158,
+      "sha256": "5822306f4b12dfaf841ae7f52670e2f59a137bb44d324d304facd73a011f0562",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46980006/original_8c6fd53eb7cce271b9787143e3cc1261.png",
+      "originalName": "8c6fd53eb7cce271b9787143e3cc1261.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 274341,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-12T13:19:24.000Z",
+  "updatedAt": "2026-06-12T13:19:29.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Saved page identifies Jessyin writing directory, not a specific article. Public page has only navigation and Loading state."
+  },
+  "source": {
+    "url": "https://jessyin.world/writing",
+    "title": "hey there",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46980006,
+      "url": "https://www.are.na/block/46980006",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "hey there",
+      "createdAt": "2026-06-12T13:19:24Z",
+      "updatedAt": "2026-06-12T13:19:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "archive",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "hey there",
+      "category": "Digital design",
+      "tags": [
+        "web-design",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700899",
+  "type": "image",
+  "title": "White Traces",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "white-traces",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5ca037c5cc1a71d1453e1bd8.webp",
+      "mimeType": "image/webp",
+      "alt": "White Traces",
+      "role": "original",
+      "bytes": 103450,
+      "sha256": "5ca037c5cc1a71d1453e1bd882191736ba8b42e3a1a9cdcac82e8858165ca1ce",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700899/original_621c6f5b4327487b01cbbe410ca1c734.webp",
+      "originalName": "621c6f5b4327487b01cbbe410ca1c734.webp"
+    },
+    {
+      "path": "assets/thumbnail-6dbf3e300a5a494cb61e7850.webp",
+      "mimeType": "image/webp",
+      "alt": "White Traces",
+      "role": "thumbnail",
+      "bytes": 24836,
+      "sha256": "6dbf3e300a5a494cb61e7850faf56099f50725fca893239e1b358fa58c39ab5a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg5OS9vcmlnaW5hbF82MjFjNmY1YjQzMjc0ODdiMDFjYmJlNDEwY2ExYzczNC53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "621c6f5b4327487b01cbbe410ca1c734.webp"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:34.000Z",
+  "updatedAt": "2026-07-08T14:54:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700899",
+    "title": "download",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700899,
+      "url": "https://www.are.na/block/47700899",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "download",
+      "createdAt": "2026-07-08T14:54:34Z",
+      "updatedAt": "2026-07-08T14:54:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "download",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "White Traces",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5ca037c5cc1a71d1453e1bd882191736ba8b42e3a1a9cdcac82e8858165ca1ce"
+  }
+}

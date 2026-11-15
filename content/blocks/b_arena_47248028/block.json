@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47248028",
+  "type": "image",
+  "title": "Connected Images",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "connected-images",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-57b47ddf349741563587b72c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Connected Images",
+      "role": "original",
+      "bytes": 553189,
+      "sha256": "57b47ddf349741563587b72cebe3b2a4aec72f904758f1f681f07b7aaab8efa2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47248028/original_8cb4d9db9b9d924961a84573b3104ab2.jpeg",
+      "originalName": "8cb4d9db9b9d924961a84573b3104ab2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-7a1d3ea6e65f7ea68f1f6108.webp",
+      "mimeType": "image/webp",
+      "alt": "Connected Images",
+      "role": "thumbnail",
+      "bytes": 8748,
+      "sha256": "7a1d3ea6e65f7ea68f1f61089c199a029e0800ec0c987b372d14a2605b8c5f4c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0ODAyOC9vcmlnaW5hbF84Y2I0ZDlkYjliOWQ5MjQ5NjFhODQ1NzNiMzEwNGFiMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "8cb4d9db9b9d924961a84573b3104ab2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-57b47ddf349741563587b72c-57b47ddf34.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Connected Images",
+      "bytes": 79490,
+      "sha256": "ada249ff0a992e2d7da91994a264bb9cb2e17d46961f3c59c2201907c608bb75",
+      "width": 1600,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-57b47ddf349741563587b72c.jpg",
+        "sourceSha256": "57b47ddf349741563587b72cebe3b2a4aec72f904758f1f681f07b7aaab8efa2",
+        "originalBytes": 553189,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:31:00.000Z",
+  "updatedAt": "2026-06-23T14:31:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47248028",
+    "title": "63737e91d4d4f904771850",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47248028,
+      "url": "https://www.are.na/block/47248028",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "63737e91d4d4f904771850",
+      "createdAt": "2026-06-23T14:31:00Z",
+      "updatedAt": "2026-06-23T14:31:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "63737e91d4d4f904771850",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Connected Images",
+    "text": "connections\nQ\nevent\ntours\nworkshop\nexhibition\nfor-members\nFoam Forward Tour Mous Lamrabat\nview events",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ada249ff0a992e2d7da91994a264bb9cb2e17d46961f3c59c2201907c608bb75"
+  }
+}

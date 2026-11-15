@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40788085",
+  "type": "image",
+  "title": "Artful Listening",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "artful-listening",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-824dbcce02328fa753dfaafa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Artful Listening",
+      "role": "original",
+      "bytes": 50585,
+      "sha256": "824dbcce02328fa753dfaafaee317c6e1cfb971ddeb0075f9dc7e86b08501a47",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40788085/original_3c435d106b5a8eb22ee05ec1ad272dfe.jpg",
+      "originalName": "3c435d106b5a8eb22ee05ec1ad272dfe.jpg"
+    },
+    {
+      "path": "assets/thumbnail-606c5b3def814ba13cb272b2.webp",
+      "mimeType": "image/webp",
+      "alt": "Artful Listening",
+      "role": "thumbnail",
+      "bytes": 20150,
+      "sha256": "606c5b3def814ba13cb272b201ac4276485617bf7635ec727e42b5ed09d27ae2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4ODA4NS9vcmlnaW5hbF8zYzQzNWQxMDZiNWE4ZWIyMmVlMDVlYzFhZDI3MmRmZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3c435d106b5a8eb22ee05ec1ad272dfe.jpg"
+    },
+    {
+      "path": "assets/display-web-original-824dbcce02328fa753dfaafa-824dbcce02.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Artful Listening",
+      "bytes": 43722,
+      "sha256": "12a696c23b4d66882a1fb7d3e5262db44ae84eff6f925468ebf844516f9469ca",
+      "width": 516,
+      "height": 540,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-824dbcce02328fa753dfaafa.jpg",
+        "sourceSha256": "824dbcce02328fa753dfaafaee317c6e1cfb971ddeb0075f9dc7e86b08501a47",
+        "originalBytes": 50585,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:11:20.000Z",
+  "updatedAt": "2025-11-02T16:11:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40788085",
+    "title": "e13077766dea6e8ecba7e0f969b2d58c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40788085,
+      "url": "https://www.are.na/block/40788085",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "e13077766dea6e8ecba7e0f969b2d58c.jpg",
+      "createdAt": "2025-11-02T16:11:20Z",
+      "updatedAt": "2025-11-02T16:11:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "e13077766dea6e8ecba7e0f969b2d58c.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Artful Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "12a696c23b4d66882a1fb7d3e5262db44ae84eff6f925468ebf844516f9469ca"
+  }
+}

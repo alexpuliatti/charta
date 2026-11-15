@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700973",
+  "type": "image",
+  "title": "Vintage Spines",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "vintage-spines",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-27188f2a3efbae4d4c62e374.png",
+      "mimeType": "image/png",
+      "alt": "Vintage Spines",
+      "role": "original",
+      "bytes": 2267682,
+      "sha256": "27188f2a3efbae4d4c62e374554f0576b835568542f0c9eaacf3cad7974c31ec",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700973/original_5db0ec60fe13f08f006512c25330d31a.png",
+      "originalName": "5db0ec60fe13f08f006512c25330d31a.png"
+    },
+    {
+      "path": "assets/thumbnail-d91d463d0c425766a44350f7.webp",
+      "mimeType": "image/webp",
+      "alt": "Vintage Spines",
+      "role": "thumbnail",
+      "bytes": 22972,
+      "sha256": "d91d463d0c425766a44350f764751b3019612f50a3f150d84cf197e2d6313827",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk3My9vcmlnaW5hbF81ZGIwZWM2MGZlMTNmMDhmMDA2NTEyYzI1MzMwZDMxYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5db0ec60fe13f08f006512c25330d31a.png"
+    },
+    {
+      "path": "assets/display-web-original-27188f2a3efbae4d4c62e374-27188f2a3e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Vintage Spines",
+      "bytes": 148322,
+      "sha256": "33f919ac1dd3da3a68c45b30e510bd44836e417febe8fafcd2be70986b9a8a07",
+      "width": 1200,
+      "height": 1228,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-27188f2a3efbae4d4c62e374.png",
+        "sourceSha256": "27188f2a3efbae4d4c62e374554f0576b835568542f0c9eaacf3cad7974c31ec",
+        "originalBytes": 2267682,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:42.000Z",
+  "updatedAt": "2026-07-08T14:55:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700973",
+    "title": "Screenshot 2023-09-12 alle 16.46.39",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700973,
+      "url": "https://www.are.na/block/47700973",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.46.39",
+      "createdAt": "2026-07-08T14:55:42Z",
+      "updatedAt": "2026-07-08T14:55:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.46.39",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Vintage Spines",
+    "text": "THEY\nFOUND\nEACH\nOTHER\nGERARD\nFAIRLIE\nHODDER E\nSTOUGHTON\nLIMITED\nMusk&\nAmber\n9 by (\nJA•E•W•6\nMason\nHodder and\n(Stoughton)\nTHE\nNIGHT\nSHIP\nCRYSTAL\nSKULL\nACTION ASHORE\nJACK\nMCLAREN\nPARKMAN\nBULL-DOG\nDRUMMOND\nAT BAY\nSAPPER\nSYDNEY\nCHOSEN BY\nPARKMAN\nTHE DAILY\nMIRROR\nadventure!\nAS THE\nTHRILLER\nOF THE\nMONTH\n76\nNET\nPHILIP\nALLAN\nНаб\nH&S\nHODDER&STOUGHTON\nHODDER&STOUGHTON\nH&S\nHODDER & STOUGHTON",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "33f919ac1dd3da3a68c45b30e510bd44836e417febe8fafcd2be70986b9a8a07"
+  }
+}

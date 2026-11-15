@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136930",
+  "type": "image",
+  "title": "Red Cover",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "red-cover",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-794a1634b3622a989b4dace4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Red Cover",
+      "role": "original",
+      "bytes": 322158,
+      "sha256": "794a1634b3622a989b4dace4bf5b38c380e7c647f4368677aca65fe3fccb7cd8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136930/original_fcaac06d81d6b2263934f21a20f26836.jpg",
+      "originalName": "fcaac06d81d6b2263934f21a20f26836.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e9a8090f43bea45d818551df.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Cover",
+      "role": "thumbnail",
+      "bytes": 8334,
+      "sha256": "e9a8090f43bea45d818551df770a86266111e8f4b2c4fa24764a3247badde7f8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkzMC9vcmlnaW5hbF9mY2FhYzA2ZDgxZDZiMjI2MzkzNGYyMWEyMGYyNjgzNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fcaac06d81d6b2263934f21a20f26836.jpg"
+    },
+    {
+      "path": "assets/display-web-original-794a1634b3622a989b4dace4-794a1634b3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Cover",
+      "bytes": 210210,
+      "sha256": "71d3154c5f473ca5b6b5de331f61bda46c5158a9dca65e76dcaa32d21ee3fda0",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-794a1634b3622a989b4dace4.jpg",
+        "sourceSha256": "794a1634b3622a989b4dace4bf5b38c380e7c647f4368677aca65fe3fccb7cd8",
+        "originalBytes": 322158,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:06.000Z",
+  "updatedAt": "2026-03-04T15:35:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136930",
+    "title": "jonathanhepfer-20260224_100230-151225487.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136930,
+      "url": "https://www.are.na/block/44136930",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "jonathanhepfer-20260224_100230-151225487.jpg",
+      "createdAt": "2026-03-04T15:35:06Z",
+      "updatedAt": "2026-03-04T15:35:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "jonathanhepfer-20260224_100230-151225487.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Cover",
+    "text": "René Char\nthe hideons flower terolves its black petals in the mad flesh of the sun\nHYPNOS\nTRANSLATED BY MARK HUTCHINSON",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "71d3154c5f473ca5b6b5de331f61bda46c5158a9dca65e76dcaa32d21ee3fda0"
+  }
+}

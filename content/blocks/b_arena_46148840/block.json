@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46148840",
+  "type": "video",
+  "title": "Voxel Structure",
+  "description": "sacred_not_secret\nMy entry for the HERMES Agent Creative Hackathon by @NousResearch \nA thread⏬",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "voxel-structure",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e6d5ebd6d3eabfe3a34d35aa.mp4",
+      "mimeType": "video/mp4",
+      "alt": "MACBETH on X @macbethAI",
+      "role": "original",
+      "bytes": 28682976,
+      "sha256": "e6d5ebd6d3eabfe3a34d35aa7a63674da7be7f181b8cf10590ea78098c733ba8",
+      "sourceUrl": "https://attachments.are.na/46148840/688937bcddf75df1b165ffd139330ed7.mp4",
+      "originalName": "688937bcddf75df1b165ffd139330ed7.mp4"
+    },
+    {
+      "path": "assets/thumbnail-f1182e10ee7f51879c0fb02c.webp",
+      "mimeType": "image/webp",
+      "alt": "Voxel Structure",
+      "role": "thumbnail",
+      "bytes": 15054,
+      "sha256": "f1182e10ee7f51879c0fb02c82791f939bbe9b47ae9af43d680b093a42e0101c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0ODg0MC9vcmlnaW5hbF9lMGMwMTk3N2EzYjM1ZGI5MjAyNjA1MTQtMi1heTk2emwucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e0c01977a3b35db920260514-2-ay96zl.png"
+    },
+    {
+      "path": "assets/preview-d26b47b8665d3d3cad226903.webp",
+      "mimeType": "image/webp",
+      "alt": "MACBETH on X @macbethAI",
+      "role": "preview",
+      "bytes": 132008,
+      "sha256": "d26b47b8665d3d3cad226903249f93f655d4abc5d63120236f002c7feb653bf5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46148840/original_e0c01977a3b35db920260514-2-ay96zl.png",
+      "originalName": "e0c01977a3b35db920260514-2-ay96zl.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 229812,
+        "width": 1080,
+        "height": 1080,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:13:16.000Z",
+  "updatedAt": "2026-05-14T15:15:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/macbethAI/status/2051174052707053733?s=20",
+    "title": "MACBETH on X @macbethAI",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46148840,
+      "url": "https://www.are.na/block/46148840",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "MACBETH on X @macbethAI",
+      "createdAt": "2026-05-14T15:13:16Z",
+      "updatedAt": "2026-05-14T15:15:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "MACBETH on X @macbethAI",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Voxel Structure",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f1182e10ee7f51879c0fb02c82791f939bbe9b47ae9af43d680b093a42e0101c"
+  }
+}

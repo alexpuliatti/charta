@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_nonprofits_ai",
+  "title": "AI nonprofits",
+  "description": "",
+  "order": 1,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47268434"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

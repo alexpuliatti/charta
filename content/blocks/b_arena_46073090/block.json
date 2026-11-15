@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46073090",
+  "type": "link",
+  "title": "Design Engineers",
+  "description": "A curated collection of design engineering resources.",
+  "category": "Interface design",
+  "tags": [
+    "design-engineering",
+    "resources",
+    "creative-coding"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-b15e46edf474ee6436a8072b.webp",
+      "mimeType": "image/webp",
+      "alt": "DesEngs: Resources for Design Engineers",
+      "role": "thumbnail",
+      "bytes": 7934,
+      "sha256": "b15e46edf474ee6436a8072bad68b4138399d0f053a2faa60cb5a37d31df322b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjA3MzA5MC9vcmlnaW5hbF81ZjIzOThiM2E0YmM4NGJmYzJiNTAwZGM4YzQwMTYyNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5f2398b3a4bc84bfc2b500dc8c401625.png"
+    },
+    {
+      "path": "assets/preview-4cf0f93931d0330684152d10.webp",
+      "mimeType": "image/webp",
+      "alt": "DesEngs: Resources for Design Engineers",
+      "role": "preview",
+      "bytes": 136118,
+      "sha256": "4cf0f93931d0330684152d10f39a07f155d1075fd0c4d1d52d883991df74ec8b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46073090/original_5f2398b3a4bc84bfc2b500dc8c401625.png",
+      "originalName": "5f2398b3a4bc84bfc2b500dc8c401625.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 486591,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-12T13:06:03.000Z",
+  "updatedAt": "2026-05-15T03:29:58.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://desengs.com/",
+    "title": "DesEngs: Resources for Design Engineers",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46073090,
+      "url": "https://www.are.na/block/46073090",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "DesEngs: Resources for Design Engineers",
+      "createdAt": "2026-05-12T13:06:03Z",
+      "updatedAt": "2026-05-15T03:29:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "DesEngs: Resources for Design Engineers",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "archives",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

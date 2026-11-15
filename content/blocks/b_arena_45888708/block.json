@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888708",
+  "type": "image",
+  "title": "Folded Image",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "folded-image",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bab93dbc8a82e0e0471ee332.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Folded Image",
+      "role": "original",
+      "bytes": 165807,
+      "sha256": "bab93dbc8a82e0e0471ee332ac5f8b24ca09e34bdd385902f3ba97dfa956842d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888708/original_b9f2f8e524c761fc22215c3fa3620020.jpeg",
+      "originalName": "b9f2f8e524c761fc22215c3fa3620020.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d0bdbb1b853c997483ce5055.webp",
+      "mimeType": "image/webp",
+      "alt": "Folded Image",
+      "role": "thumbnail",
+      "bytes": 11822,
+      "sha256": "d0bdbb1b853c997483ce5055971a5180e33369796e905b09cafa3870e3b98139",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcwOC9vcmlnaW5hbF9iOWYyZjhlNTI0Yzc2MWZjMjIyMTVjM2ZhMzYyMDAyMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b9f2f8e524c761fc22215c3fa3620020.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-bab93dbc8a82e0e0471ee332-bab93dbc8a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Folded Image",
+      "bytes": 133550,
+      "sha256": "04f06a7f1cbfcb1e38761bbd282056f585fa5c51b1e095d6b7e9590a3309643d",
+      "width": 1504,
+      "height": 1059,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bab93dbc8a82e0e0471ee332.jpg",
+        "sourceSha256": "bab93dbc8a82e0e0471ee332ac5f8b24ca09e34bdd385902f3ba97dfa956842d",
+        "originalBytes": 165807,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:04.000Z",
+  "updatedAt": "2026-05-06T12:26:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888708",
+    "title": "original_86168cd659a7ac019464b945b4397213.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888708,
+      "url": "https://www.are.na/block/45888708",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_86168cd659a7ac019464b945b4397213.jpeg",
+      "createdAt": "2026-05-06T12:26:04Z",
+      "updatedAt": "2026-05-06T12:26:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_86168cd659a7ac019464b945b4397213.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Folded Image",
+    "text": "Toledo",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "04f06a7f1cbfcb1e38761bbd282056f585fa5c51b1e095d6b7e9590a3309643d"
+  }
+}

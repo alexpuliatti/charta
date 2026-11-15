@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995859",
+  "type": "image",
+  "title": "Golden Bathroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "golden-bathroom",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8586394b7ef262fa91701978.png",
+      "mimeType": "image/png",
+      "alt": "Golden Bathroom",
+      "role": "original",
+      "bytes": 624887,
+      "sha256": "8586394b7ef262fa917019784a901a56d7699a7c16bc1291609d31f821132ffe",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995859/original_69cc7b35431dd99e4c7788ffb1296bd7.png",
+      "originalName": "69cc7b35431dd99e4c7788ffb1296bd7.png"
+    },
+    {
+      "path": "assets/thumbnail-6850963bfb47e18ade88a925.webp",
+      "mimeType": "image/webp",
+      "alt": "Golden Bathroom",
+      "role": "thumbnail",
+      "bytes": 5062,
+      "sha256": "6850963bfb47e18ade88a9252dadb8660a91edd7a8173fcce9148305ced36759",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTg1OS9vcmlnaW5hbF82OWNjN2IzNTQzMWRkOTllNGM3Nzg4ZmZiMTI5NmJkNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "69cc7b35431dd99e4c7788ffb1296bd7.png"
+    },
+    {
+      "path": "assets/display-web-original-8586394b7ef262fa91701978-8586394b7e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Golden Bathroom",
+      "bytes": 33514,
+      "sha256": "bac8b4e9b04d5625e5e3cbace108b77dfbd9a56a22d02bfc89740f65f447e852",
+      "width": 836,
+      "height": 1186,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8586394b7ef262fa91701978.png",
+        "sourceSha256": "8586394b7ef262fa917019784a901a56d7699a7c16bc1291609d31f821132ffe",
+        "originalBytes": 624887,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:04:48.000Z",
+  "updatedAt": "2026-02-28T12:04:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995859",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995859,
+      "url": "https://www.are.na/block/43995859",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:04:48Z",
+      "updatedAt": "2026-02-28T12:04:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Golden Bathroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bac8b4e9b04d5625e5e3cbace108b77dfbd9a56a22d02bfc89740f65f447e852"
+  }
+}

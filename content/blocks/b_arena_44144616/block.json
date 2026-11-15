@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144616",
+  "type": "image",
+  "title": "Seamarks Cover",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "seamarks-cover",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2e1fd30b2248f573d90f406b.png",
+      "mimeType": "image/png",
+      "alt": "Seamarks Cover",
+      "role": "original",
+      "bytes": 1849282,
+      "sha256": "2e1fd30b2248f573d90f406bc84903daef9d833f3d69fcc32524b1512410e17a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144616/original_f1514cc6cece38625fd2a3bead8c7658.png",
+      "originalName": "f1514cc6cece38625fd2a3bead8c7658.png"
+    },
+    {
+      "path": "assets/thumbnail-fb7f2d34a98d8aefbde713aa.webp",
+      "mimeType": "image/webp",
+      "alt": "Seamarks Cover",
+      "role": "thumbnail",
+      "bytes": 7222,
+      "sha256": "fb7f2d34a98d8aefbde713aa54f4f402099af4d9326f7dacf63024d15dcab880",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYxNi9vcmlnaW5hbF9mMTUxNGNjNmNlY2UzODYyNWZkMmEzYmVhZDhjNzY1OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f1514cc6cece38625fd2a3bead8c7658.png"
+    },
+    {
+      "path": "assets/display-web-original-2e1fd30b2248f573d90f406b-2e1fd30b22.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Seamarks Cover",
+      "bytes": 67944,
+      "sha256": "827a22abf166c9bd8a61261c36ba2768e6c115134f09015dfd2ba85aa05fefee",
+      "width": 1418,
+      "height": 1810,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2e1fd30b2248f573d90f406b.png",
+        "sourceSha256": "2e1fd30b2248f573d90f406bc84903daef9d833f3d69fcc32524b1512410e17a",
+        "originalBytes": 1849282,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-03-04T19:22:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144616",
+    "title": "screenshot-2026-03-04-alle-16.19.51.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144616,
+      "url": "https://www.are.na/block/44144616",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.19.51.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-03-04T19:22:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.19.51.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Seamarks Cover",
+    "text": "•\nSeamaras\nSt: Johu Perse\nTranslated by Wallace Fowlie\nBolluggen SeriesdXY/I\nPautheon",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "827a22abf166c9bd8a61261c36ba2768e6c115134f09015dfd2ba85aa05fefee"
+  }
+}

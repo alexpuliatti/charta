@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787849",
+  "type": "image",
+  "title": "Paper Lantern",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "paper-lantern",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fcdef3dd28e7d5dd03a511e7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Paper Lantern",
+      "role": "original",
+      "bytes": 340857,
+      "sha256": "fcdef3dd28e7d5dd03a511e7fc50e61558c5165ed4ce791bb556d1d6a7a1b994",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787849/original_2ee00e12460c2b626c8a48f54a7ea677.jpg",
+      "originalName": "2ee00e12460c2b626c8a48f54a7ea677.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e40f768e3b6d66f153ab645a.webp",
+      "mimeType": "image/webp",
+      "alt": "Paper Lantern",
+      "role": "thumbnail",
+      "bytes": 13638,
+      "sha256": "e40f768e3b6d66f153ab645a6a937a22964b6d1106336348831998180d403fef",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg0OS9vcmlnaW5hbF8yZWUwMGUxMjQ2MGMyYjYyNmM4YTQ4ZjU0YTdlYTY3Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2ee00e12460c2b626c8a48f54a7ea677.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fcdef3dd28e7d5dd03a511e7-fcdef3dd28.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Paper Lantern",
+      "bytes": 150586,
+      "sha256": "9370120d646775ba15335760f5545bf30bb992140c102b29e99b390726067829",
+      "width": 1179,
+      "height": 1473,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fcdef3dd28e7d5dd03a511e7.jpg",
+        "sourceSha256": "fcdef3dd28e7d5dd03a511e7fc50e61558c5165ed4ce791bb556d1d6a7a1b994",
+        "originalBytes": 340857,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:06.000Z",
+  "updatedAt": "2025-11-02T16:01:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787849",
+    "title": "whereiwouldliketoread-20250201_162659-46185611.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787849,
+      "url": "https://www.are.na/block/40787849",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20250201_162659-46185611.jpg",
+      "createdAt": "2025-11-02T16:01:06Z",
+      "updatedAt": "2025-11-02T16:01:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20250201_162659-46185611.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Paper Lantern",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9370120d646775ba15335760f5545bf30bb992140c102b29e99b390726067829"
+  }
+}

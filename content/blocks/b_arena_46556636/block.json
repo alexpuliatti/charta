@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46556636",
+  "type": "video",
+  "title": "Floating Images",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "floating-images",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f06f85e70d40cb6da4f0abe3.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1779964969337",
+      "role": "original",
+      "bytes": 1238021,
+      "sha256": "f06f85e70d40cb6da4f0abe3c9c376be3bd0feb7093bb333d35bfbe630dd5a2e",
+      "sourceUrl": "https://attachments.are.na/46556636/8a91c134e463cc177508a6a9abb0edaf.mp4",
+      "originalName": "8a91c134e463cc177508a6a9abb0edaf.mp4"
+    },
+    {
+      "path": "assets/thumbnail-659b68bf51341c4541ed444e.webp",
+      "mimeType": "image/webp",
+      "alt": "Floating Images",
+      "role": "thumbnail",
+      "bytes": 13264,
+      "sha256": "659b68bf51341c4541ed444ec79abe534deec6987c20f58a49979dcc5dd70683",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU1NjYzNi9vcmlnaW5hbF9hN2NmOTVhYmJmZDNhNzljMjAyNjA1MjgtMi16Njc1aGsucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a7cf95abbfd3a79c20260528-2-z675hk.png"
+    },
+    {
+      "path": "assets/display-web-original-f06f85e70d40cb6da4f0abe3-f06f85e70d.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1779964969337",
+      "bytes": 583112,
+      "sha256": "3ce30dccd830d671ae39ba9eaf8b5cf1753b67c24a0449f7479a3a1c9f11afcf",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f06f85e70d40cb6da4f0abe3.mp4",
+        "sourceSha256": "f06f85e70d40cb6da4f0abe3c9c376be3bd0feb7093bb333d35bfbe630dd5a2e",
+        "originalBytes": 1238021,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-babf9241c1b3bcf35c709d77.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1779964969337",
+      "role": "preview",
+      "bytes": 212356,
+      "sha256": "babf9241c1b3bcf35c709d77d51b85fca684f94e32759a1ea448e50fe45b1082",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46556636/original_a7cf95abbfd3a79c20260528-2-z675hk.png",
+      "originalName": "a7cf95abbfd3a79c20260528-2-z675hk.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2493420,
+        "width": 1918,
+        "height": 1440,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-28T13:00:35.000Z",
+  "updatedAt": "2026-05-28T13:00:43.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46556636",
+    "title": "ssstwitter.com_1779964969337",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46556636,
+      "url": "https://www.are.na/block/46556636",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1779964969337",
+      "createdAt": "2026-05-28T13:00:35Z",
+      "updatedAt": "2026-05-28T13:00:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1779964969337",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Floating Images",
+    "text": "Backgros",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "659b68bf51341c4541ed444ec79abe534deec6987c20f58a49979dcc5dd70683"
+  }
+}

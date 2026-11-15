@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44498050",
+  "type": "video",
+  "title": "Minimal Navigation",
+  "description": "anchor positioning for movement on the X axis, then animated Y translation, easing to make it appear like an arc movement, using li indexes to multiply the Y offset so that the arcs are bigger for items further apart",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "minimal-navigation",
+    "motion-design",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ca2e46592c5b6d1174627465.mp4",
+      "mimeType": "video/mp4",
+      "alt": "sssx.io_1773746047178.mp4",
+      "role": "original",
+      "bytes": 616392,
+      "sha256": "ca2e46592c5b6d1174627465f25e4b41aa312e43c3791326ccc83399c9e51539",
+      "sourceUrl": "https://attachments.are.na/44498050/a8849e6c24363fe75a322075d16ffdf2.mp4",
+      "originalName": "a8849e6c24363fe75a322075d16ffdf2.mp4"
+    },
+    {
+      "path": "assets/thumbnail-2e8622b8f5f9c4e462145b7b.webp",
+      "mimeType": "image/webp",
+      "alt": "Minimal Navigation",
+      "role": "thumbnail",
+      "bytes": 1604,
+      "sha256": "2e8622b8f5f9c4e462145b7b096cd8e4e5ffffcfd27ef1baa04060f71e096b1b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDQ5ODA1MC9vcmlnaW5hbF83MTZkZDIyNWNmM2E5NzI5MjAyNjAzMTctMi03cHkzNjcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "716dd225cf3a972920260317-2-7py367.png"
+    },
+    {
+      "path": "assets/display-web-original-ca2e46592c5b6d1174627465-ca2e46592c.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "sssx.io_1773746047178.mp4",
+      "bytes": 204633,
+      "sha256": "524eebfc5ab8672b4dec259278d91b12697506682d477a022bb2a71c5938a2da",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ca2e46592c5b6d1174627465.mp4",
+        "sourceSha256": "ca2e46592c5b6d1174627465f25e4b41aa312e43c3791326ccc83399c9e51539",
+        "originalBytes": 616392,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-94936cef6253039a8493c7fc.webp",
+      "mimeType": "image/webp",
+      "alt": "sssx.io_1773746047178.mp4",
+      "role": "preview",
+      "bytes": 10726,
+      "sha256": "94936cef6253039a8493c7fc36e9eace69df84f29f227e97cf3fb9e261eb24cb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44498050/original_716dd225cf3a972920260317-2-7py367.png",
+      "originalName": "716dd225cf3a972920260317-2-7py367.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 49291,
+        "width": 1442,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-17T11:15:12.000Z",
+  "updatedAt": "2026-03-17T11:15:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44498050",
+    "title": "sssx.io_1773746047178.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44498050,
+      "url": "https://www.are.na/block/44498050",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "sssx.io_1773746047178.mp4",
+      "createdAt": "2026-03-17T11:15:12Z",
+      "updatedAt": "2026-03-17T11:15:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sssx.io_1773746047178.mp4",
+      "category": "Information design",
+      "tags": [
+        "motion-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Minimal Navigation",
+    "text": "All Design\n•\nEngineering\nProduct\nResearch",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2e8622b8f5f9c4e462145b7b096cd8e4e5ffffcfd27ef1baa04060f71e096b1b"
+  }
+}

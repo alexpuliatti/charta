@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892775",
+  "type": "link",
+  "title": "A¹ Sense",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "wearables",
+    "smart-patch",
+    "sensing"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-26b26f74922c0b22f57163bd.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 434,
+      "sha256": "26b26f74922c0b22f57163bd15803ddfbfd215a20247a29590cf68e57deb2ac6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjc3NS9vcmlnaW5hbF9jOTZiMGUxZGI3NzFkNDAwNjM4ZjY3Y2U2YTUwMmZiZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c96b0e1db771d400638f67ce6a502fbf.png"
+    },
+    {
+      "path": "assets/preview-1809fc906423ef71205ad3b7.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 4412,
+      "sha256": "1809fc906423ef71205ad3b7e49e1afaacd34a184b3c62a7007ac391c4780660",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892775/original_c96b0e1db771d400638f67ce6a502fbf.png",
+      "originalName": "c96b0e1db771d400638f67ce6a502fbf.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 6722,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:48:05.000Z",
+  "updatedAt": "2026-05-06T14:48:24.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://augen.pro/products/a1-sense",
+    "title": "Link · utopia · 45892775",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892775,
+      "url": "https://www.are.na/block/45892775",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-06T14:48:05Z",
+      "updatedAt": "2026-05-06T14:48:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · utopia · 45892775",
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

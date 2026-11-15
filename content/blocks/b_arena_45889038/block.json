@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889038",
+  "type": "video",
+  "title": "Retro Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "retro-controls",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b9bf705a2cbf593b516cbaf4.mp4",
+      "mimeType": "video/mp4",
+      "alt": "eyecannndy-2411121856-20260414_054429.mp4",
+      "role": "original",
+      "bytes": 1696108,
+      "sha256": "b9bf705a2cbf593b516cbaf47af44cc083e8bd7b448da9576215eac26d97ca78",
+      "sourceUrl": "https://attachments.are.na/45889038/fe34b6a4b8dd903ad50a2018537fd711.mp4",
+      "originalName": "fe34b6a4b8dd903ad50a2018537fd711.mp4"
+    },
+    {
+      "path": "assets/thumbnail-ebdfc92100e8f90ad88cb5e2.webp",
+      "mimeType": "image/webp",
+      "alt": "Retro Controls",
+      "role": "thumbnail",
+      "bytes": 7342,
+      "sha256": "ebdfc92100e8f90ad88cb5e26a106d8c60789b4af703e9cc67033ae09d2ddb4f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTAzOC9vcmlnaW5hbF81YmNjMTJmMzQzM2ExMzE3MjAyNjA1MDYtMi1ueXk0NWkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5bcc12f3433a131720260506-2-nyy45i.png"
+    },
+    {
+      "path": "assets/preview-4dfd1a755bb3ea025c21e219.webp",
+      "mimeType": "image/webp",
+      "alt": "eyecannndy-2411121856-20260414_054429.mp4",
+      "role": "preview",
+      "bytes": 33422,
+      "sha256": "4dfd1a755bb3ea025c21e219c989aeb0f52c90b3fb6abacce2bce685454184b2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889038/original_5bcc12f3433a131720260506-2-nyy45i.png",
+      "originalName": "5bcc12f3433a131720260506-2-nyy45i.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 452650,
+        "width": 960,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:39:42.000Z",
+  "updatedAt": "2026-05-06T12:39:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889038",
+    "title": "eyecannndy-2411121856-20260414_054429.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889038,
+      "url": "https://www.are.na/block/45889038",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "eyecannndy-2411121856-20260414_054429.mp4",
+      "createdAt": "2026-05-06T12:39:42Z",
+      "updatedAt": "2026-05-06T12:39:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "eyecannndy-2411121856-20260414_054429.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Retro Controls",
+    "text": "-3",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ebdfc92100e8f90ad88cb5e26a106d8c60789b4af703e9cc67033ae09d2ddb4f"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888529",
+  "type": "image",
+  "title": "Blurred Horizon",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "blurred-horizon",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ff248ffeb5a5b54fc47b12f6.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blurred Horizon",
+      "role": "original",
+      "bytes": 23446,
+      "sha256": "ff248ffeb5a5b54fc47b12f6fc77174b28a4cf6252f2b714c7e2ae14787624e5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888529/original_bd0adc287c2b9c1882afc8a56dbfa671.jpeg",
+      "originalName": "bd0adc287c2b9c1882afc8a56dbfa671.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-4c27033a8c93cdec85ad80e4.webp",
+      "mimeType": "image/webp",
+      "alt": "Blurred Horizon",
+      "role": "thumbnail",
+      "bytes": 924,
+      "sha256": "4c27033a8c93cdec85ad80e42649cbb28202b36099ba6522826c639cf3407681",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyOS9vcmlnaW5hbF9iZDBhZGMyODdjMmI5YzE4ODJhZmM4YTU2ZGJmYTY3MS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "bd0adc287c2b9c1882afc8a56dbfa671.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ff248ffeb5a5b54fc47b12f6-ff248ffeb5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blurred Horizon",
+      "bytes": 1864,
+      "sha256": "4964521dc03add8a5180b30f79cc30d8cf40192eb46485f5508839d1e32451a0",
+      "width": 400,
+      "height": 500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ff248ffeb5a5b54fc47b12f6.jpg",
+        "sourceSha256": "ff248ffeb5a5b54fc47b12f6fc77174b28a4cf6252f2b714c7e2ae14787624e5",
+        "originalBytes": 23446,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:09.000Z",
+  "updatedAt": "2026-05-06T12:21:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888529",
+    "title": "798d67951f83b18b12613ffbc78355d2.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888529,
+      "url": "https://www.are.na/block/45888529",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "798d67951f83b18b12613ffbc78355d2.jpg",
+      "createdAt": "2026-05-06T12:21:09Z",
+      "updatedAt": "2026-05-06T12:21:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "798d67951f83b18b12613ffbc78355d2.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blurred Horizon",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4964521dc03add8a5180b30f79cc30d8cf40192eb46485f5508839d1e32451a0"
+  }
+}

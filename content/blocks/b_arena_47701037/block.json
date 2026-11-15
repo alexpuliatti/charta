@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701037",
+  "type": "image",
+  "title": "Rumour Nightfall",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "rumour-nightfall",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cc75a4dedf095f670b02d3c2.png",
+      "mimeType": "image/png",
+      "alt": "Rumour Nightfall",
+      "role": "original",
+      "bytes": 1156859,
+      "sha256": "cc75a4dedf095f670b02d3c213898cd058f45fd184397d2ac4f4bc631cfe837c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701037/original_83be4e2308aec4467ceaa2a321dce01d.png",
+      "originalName": "83be4e2308aec4467ceaa2a321dce01d.png"
+    },
+    {
+      "path": "assets/thumbnail-3af2520506f1534fbb2e5510.webp",
+      "mimeType": "image/webp",
+      "alt": "Rumour Nightfall",
+      "role": "thumbnail",
+      "bytes": 11218,
+      "sha256": "3af2520506f1534fbb2e551023c6d9ab72758d92df466714f8d2b5898232581c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAzNy9vcmlnaW5hbF84M2JlNGUyMzA4YWVjNDQ2N2NlYWEyYTMyMWRjZTAxZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "83be4e2308aec4467ceaa2a321dce01d.png"
+    },
+    {
+      "path": "assets/display-web-original-cc75a4dedf095f670b02d3c2-cc75a4dedf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Rumour Nightfall",
+      "bytes": 75488,
+      "sha256": "96c102e87961de2e77d2df6aa32b295f2c96093aa2406052c575529082549417",
+      "width": 874,
+      "height": 1246,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cc75a4dedf095f670b02d3c2.png",
+        "sourceSha256": "cc75a4dedf095f670b02d3c213898cd058f45fd184397d2ac4f4bc631cfe837c",
+        "originalBytes": 1156859,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:29.000Z",
+  "updatedAt": "2026-07-08T14:56:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701037",
+    "title": "Screenshot 2023-09-12 alle 17.05.16",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701037,
+      "url": "https://www.are.na/block/47701037",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.05.16",
+      "createdAt": "2026-07-08T14:56:29Z",
+      "updatedAt": "2026-07-08T14:56:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.05.16",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Rumour Nightfall",
+    "text": "RUMOUR\nAT NIGHT-\nFALL\nGRAHAM\nGREENE\n4.\nNET\nHEINEMANN\nRumour at\nNightfall\nGraham\nGreene\nAuthor of \"THE MAN WITHIN\"",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "96c102e87961de2e77d2df6aa32b295f2c96093aa2406052c575529082549417"
+  }
+}

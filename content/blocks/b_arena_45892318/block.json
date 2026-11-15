@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892318",
+  "type": "link",
+  "title": "Penguin Covers",
+  "description": "Create and download custom Penguin Classics book covers",
+  "category": "Graphic design",
+  "tags": [
+    "book-covers",
+    "generator",
+    "penguin-classics"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-759734ff24fcb4eb5767c0e8.webp",
+      "mimeType": "image/webp",
+      "alt": "Penguin Classics Cover Generator",
+      "role": "thumbnail",
+      "bytes": 2938,
+      "sha256": "759734ff24fcb4eb5767c0e8a5dcc9017401b734f17584d2e334cf2066a666a5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjMxOC9vcmlnaW5hbF8xOGRhOTI0NTRlMDE5OGY2YmIyYWIwN2JmY2FmYzlhMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "18da92454e0198f6bb2ab07bfcafc9a1.png"
+    },
+    {
+      "path": "assets/preview-ae80d469f9bde88d757bd93f.webp",
+      "mimeType": "image/webp",
+      "alt": "Penguin Classics Cover Generator",
+      "role": "preview",
+      "bytes": 35690,
+      "sha256": "ae80d469f9bde88d757bd93f6e35fb8e4c6feebfba01b43521fb65072b464392",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892318/original_18da92454e0198f6bb2ab07bfcafc9a1.png",
+      "originalName": "18da92454e0198f6bb2ab07bfcafc9a1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 109410,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:32:36.000Z",
+  "updatedAt": "2026-05-06T14:32:41.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://penguin.jos.ht/",
+    "title": "Penguin Classics Cover Generator",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892318,
+      "url": "https://www.are.na/block/45892318",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Penguin Classics Cover Generator",
+      "createdAt": "2026-05-06T14:32:36Z",
+      "updatedAt": "2026-05-06T14:32:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Penguin Classics Cover Generator",
+      "category": "Information design",
+      "tags": [
+        "books",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

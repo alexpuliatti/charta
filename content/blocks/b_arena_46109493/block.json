@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46109493",
+  "type": "link",
+  "title": "Shadertoy Conversion",
+  "description": "By Markus Neuy and Dirk Krause",
+  "category": "Writing",
+  "tags": [
+    "shaders",
+    "threejs",
+    "shadertoy"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-60353f3e30cd40810278e903.webp",
+      "mimeType": "image/webp",
+      "alt": "Converting Shaders from Shadertoy to ThreeJS",
+      "role": "thumbnail",
+      "bytes": 2446,
+      "sha256": "60353f3e30cd40810278e9037e88cb2c67bbba67de06c35d787aec25284edf3b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjEwOTQ5My9vcmlnaW5hbF9kNGE1NGJlODM1Yzg4MjcxYmU4NjYyNGQ1YjdhY2RlOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d4a54be835c88271be86624d5b7acde8.png"
+    },
+    {
+      "path": "assets/preview-56d4f7d882ae19bf0b7ee11b.webp",
+      "mimeType": "image/webp",
+      "alt": "Converting Shaders from Shadertoy to ThreeJS",
+      "role": "preview",
+      "bytes": 27866,
+      "sha256": "56d4f7d882ae19bf0b7ee11bae9e927546f8c34504db0b3fa924cd77cdebe684",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46109493/original_d4a54be835c88271be86624d5b7acde8.png",
+      "originalName": "d4a54be835c88271be86624d5b7acde8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 87638,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:07:10.000Z",
+  "updatedAt": "2026-05-13T10:07:33.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://medium.com/hackernoon/converting-shaders-from-shadertoy-to-threejs-fe17480ed5c6",
+    "title": "Converting Shaders from Shadertoy to ThreeJS",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46109493,
+      "url": "https://www.are.na/block/46109493",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Converting Shaders from Shadertoy to ThreeJS",
+      "createdAt": "2026-05-13T10:07:10Z",
+      "updatedAt": "2026-05-13T10:07:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Converting Shaders from Shadertoy to ThreeJS",
+      "category": "Technology",
+      "tags": [
+        "creative-coding",
+        "writing",
+        "reading",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_46109540",
+      "reason": "Both are shader implementation tutorials: converting GLSL from Shadertoy to Three.js and rendering atmospheric scenes in the browser.",
+      "method": "curation-v1"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45982072",
+  "type": "video",
+  "title": "Facial Angles",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "facial-angles",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b6c0348463ba1f04a1ae05b2.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778405983627",
+      "role": "original",
+      "bytes": 6060543,
+      "sha256": "b6c0348463ba1f04a1ae05b2b81254a86fae53e360feef904c94f597ee3a7d5c",
+      "sourceUrl": "https://attachments.are.na/45982072/1a74cab4eaa03b1990b95d5c2ffbc531.mp4",
+      "originalName": "1a74cab4eaa03b1990b95d5c2ffbc531.mp4"
+    },
+    {
+      "path": "assets/thumbnail-5f6eb9f5e52df2f304d38ab1.webp",
+      "mimeType": "image/webp",
+      "alt": "Facial Angles",
+      "role": "thumbnail",
+      "bytes": 4470,
+      "sha256": "5f6eb9f5e52df2f304d38ab1122897a45fd5798cf71b2919f991f271a753b23d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk4MjA3Mi9vcmlnaW5hbF8zZWQxMmZjNmM3M2ZiYWFiMjAyNjA1MTAtMi03bDIydncucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3ed12fc6c73fbaab20260510-2-7l22vw.png"
+    },
+    {
+      "path": "assets/display-web-original-b6c0348463ba1f04a1ae05b2-b6c0348463.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778405983627",
+      "bytes": 4563351,
+      "sha256": "1f6662dd12743d77a88c129b7e5a890008b29aa444946a207b9bc8828a8f1c3b",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b6c0348463ba1f04a1ae05b2.mp4",
+        "sourceSha256": "b6c0348463ba1f04a1ae05b2b81254a86fae53e360feef904c94f597ee3a7d5c",
+        "originalBytes": 6060543,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-9cc1b5dcad60a8ee7c46bd39.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778405983627",
+      "role": "preview",
+      "bytes": 60304,
+      "sha256": "9cc1b5dcad60a8ee7c46bd39242c2fc63e99ae8bac54911731fac70e1db7e262",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45982072/original_3ed12fc6c73fbaab20260510-2-7l22vw.png",
+      "originalName": "3ed12fc6c73fbaab20260510-2-7l22vw.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 571531,
+        "width": 1576,
+        "height": 1056,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-10T09:39:51.000Z",
+  "updatedAt": "2026-05-10T09:39:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45982072",
+    "title": "ssstwitter.com_1778405983627",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45982072,
+      "url": "https://www.are.na/block/45982072",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778405983627",
+      "createdAt": "2026-05-10T09:39:51Z",
+      "updatedAt": "2026-05-10T09:39:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778405983627",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Facial Angles",
+    "text": "filipps Razzela - The Dead Co*87.-281958-185.\n48.62 -1754% -14.31\n51%\n-348\n8.80",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5f6eb9f5e52df2f304d38ab1122897a45fd5798cf71b2919f991f271a753b23d"
+  }
+}

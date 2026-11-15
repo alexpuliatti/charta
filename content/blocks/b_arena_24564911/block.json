@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_24564911",
+  "type": "image",
+  "title": "Budget Cap",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "budget-cap",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-64367c130198299ec83e8c37.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Budget Cap",
+      "role": "original",
+      "bytes": 366449,
+      "sha256": "64367c130198299ec83e8c375126d3387036a95b4079a27c0d77ca87a3f988ad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/24564911/original_0a62b6e9d50a23a8abed8311ed2d65bf.jpg",
+      "originalName": "0a62b6e9d50a23a8abed8311ed2d65bf.jpg"
+    },
+    {
+      "path": "assets/thumbnail-b11b571da6c340310733a692.webp",
+      "mimeType": "image/webp",
+      "alt": "Budget Cap",
+      "role": "thumbnail",
+      "bytes": 10148,
+      "sha256": "b11b571da6c340310733a692f520ebd431c815525dffe18489f1d0b96bbdfd11",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNDU2NDkxMS9vcmlnaW5hbF8wYTYyYjZlOWQ1MGEyM2E4YWJlZDgzMTFlZDJkNjViZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0a62b6e9d50a23a8abed8311ed2d65bf.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-11-06T19:36:35.000Z",
+  "updatedAt": "2026-11-10T22:42:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.instagram.com/p/CzTVrM5NoMI/",
+    "title": "All Posts • Instagram",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 24564911,
+      "url": "https://www.are.na/block/24564911",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "398920977_688939156631029_1941538067080972810_n.jpg?stp=dst-jpg_e35-efg=eyj2zw5jb2rlx3rhzyi6imltywdlx3vybgdlbi4xndqwede4mdau...",
+      "createdAt": "2023-11-06T19:36:35Z",
+      "updatedAt": "2026-11-10T22:42:53Z",
+      "addedBy": {
+        "id": 32716,
+        "name": "Elizabeth Goodspeed",
+        "slug": "elizabeth-goodspeed"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "398920977_688939156631029_1941538067080972810_n.jpg?stp=dst-jpg_e35-efg=eyj2zw5jb2rlx3rhzyi6imltywdlx3vybgdlbi4xndqwede4mdau...",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Budget Cap",
+    "text": "What's Your\nBudget?",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "64367c130198299ec83e8c375126d3387036a95b4079a27c0d77ca87a3f988ad"
+  }
+}

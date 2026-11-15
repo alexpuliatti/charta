@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787916",
+  "type": "image",
+  "title": "Window Study",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "window-study",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eb056c6ea12760e24f01d4a3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Window Study",
+      "role": "original",
+      "bytes": 327511,
+      "sha256": "eb056c6ea12760e24f01d4a319a9e092618f8b3268f4904ea8bf2bee7906eb30",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787916/original_7403aa4df2a5e62ad8184675b2920a79.jpg",
+      "originalName": "7403aa4df2a5e62ad8184675b2920a79.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e050dc0d45df375c02faa0b3.webp",
+      "mimeType": "image/webp",
+      "alt": "Window Study",
+      "role": "thumbnail",
+      "bytes": 7146,
+      "sha256": "e050dc0d45df375c02faa0b3c58e67fc53afaf0cd1182ba2d345b7c87172ad14",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkxNi9vcmlnaW5hbF83NDAzYWE0ZGYyYTVlNjJhZDgxODQ2NzViMjkyMGE3OS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7403aa4df2a5e62ad8184675b2920a79.jpg"
+    },
+    {
+      "path": "assets/display-web-original-eb056c6ea12760e24f01d4a3-eb056c6ea1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Window Study",
+      "bytes": 109494,
+      "sha256": "535d848ed0f7f5b3d47808f766cb4f631ff2fd3f225b6684bf43e5386fb3ebc8",
+      "width": 1439,
+      "height": 1777,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-eb056c6ea12760e24f01d4a3.jpg",
+        "sourceSha256": "eb056c6ea12760e24f01d4a319a9e092618f8b3268f4904ea8bf2bee7906eb30",
+        "originalBytes": 327511,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:04:50.000Z",
+  "updatedAt": "2025-11-02T16:04:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787916",
+    "title": "industrialkonzept-20250107_095024-3809367826.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787916,
+      "url": "https://www.are.na/block/40787916",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20250107_095024-3809367826.jpg",
+      "createdAt": "2025-11-02T16:04:50Z",
+      "updatedAt": "2025-11-02T16:04:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20250107_095024-3809367826.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Window Study",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "535d848ed0f7f5b3d47808f766cb4f631ff2fd3f225b6684bf43e5386fb3ebc8"
+  }
+}

@@ -1,0 +1,24 @@
+/* Adapted from alexpuliatti/gradient-components (MIT declared upstream).
+ * src/index.css @ 4ba7a657985e898f3a96767ebdcea5a9ce488d83.
+ * Static integration; attribution: vendor/GRADIENT-COMPONENTS-NOTICE.md.
+ */
+.gradient-line-base { position: absolute; z-index: 1; background: var(--gl-gradient, var(--gradient)); pointer-events: none; }
+.gradient-line-horizontal { height: 1px; width: 100%; }
+.gradient-line-vertical { width: 1px; height: 100%; }
+.gradient-line-taper { mask-image: linear-gradient(to right, transparent, #000 18%, #000 82%, transparent); }
+.gradient-line-vertical.gradient-line-taper { mask-image: linear-gradient(to bottom, transparent, #000 18%, #000 82%, transparent); }
+.gradient-line-taper-end { mask-image: linear-gradient(to bottom, #000 75%, transparent); }
+/* A rounded, open border extends the line primitive to tree connectors. */
+.gradient-line-branch { box-sizing: border-box; border: solid transparent; border-width: 0 0 1px 1px; border-bottom-left-radius: 8px; mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0); mask-composite: exclude; }
+.gradient-divider { position: relative; display: flex; align-items: center; width: 100%; gap: 1rem; }
+.gradient-divider .gradient-line-base { position: relative; flex: 1; opacity: .35; }
+.gradient-divider-label { font: 9px var(--mono); text-transform: uppercase; letter-spacing: .12em; color: var(--soft); white-space: nowrap; flex-shrink: 0; }
+.gradient-border-outer { display: inline-block; position: relative; background: var(--gradient); padding: 1px; }
+.gradient-border-inner { background: var(--sidebar-bg); width: 100%; height: 100%; border-radius: inherit; }
+.gradient-underline { position: relative; display: inline; }
+.gradient-underline::after { content: ''; position: absolute; left: 0; bottom: -3px; width: 100%; height: var(--gu-thickness, 1px); background: var(--gu-gradient, var(--gradient)); border-radius: 1px; transform-origin: left; transition: transform 160ms var(--ease), opacity 160ms ease; }
+.gradient-underline-always::after { transform: scaleX(1); }
+.gradient-underline-hover::after { transform: scaleX(0); }
+.gradient-underline-hover:hover::after, .gradient-underline-hover:focus-visible::after { transform: scaleX(1); }
+.gradient-underline:focus-visible::after { transition: none; }
+@media (prefers-reduced-motion: reduce) { .gradient-underline::after { transition: none; } }

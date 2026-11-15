@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892899",
+  "type": "link",
+  "title": "Networked Museums",
+  "description": "The question isn’t simply whether digital art needs museums, but whether museums might learn from these artists and their hybrid practices",
+  "category": "Writing",
+  "tags": [
+    "museums",
+    "digital-art",
+    "networks"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0b0ac9f82292df95bb7a8666.webp",
+      "mimeType": "image/webp",
+      "alt": "Museum as Networked Modality",
+      "role": "thumbnail",
+      "bytes": 3502,
+      "sha256": "0b0ac9f82292df95bb7a8666f888adf9eeb705b216d4981fe3f999fbdd3248fa",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjg5OS9vcmlnaW5hbF9iNmNlN2Y1NGM2ZDRhYjdlYzlkYmU0YTU3NzI2ZmNmZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b6ce7f54c6d4ab7ec9dbe4a57726fcfe.png"
+    },
+    {
+      "path": "assets/preview-be692c0e953319afa0187046.webp",
+      "mimeType": "image/webp",
+      "alt": "Museum as Networked Modality",
+      "role": "preview",
+      "bytes": 89918,
+      "sha256": "be692c0e953319afa0187046aca101427cf7788b356e50f5a2bd5a2578b67fd0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892899/original_b6ce7f54c6d4ab7ec9dbe4a57726fcfe.png",
+      "originalName": "b6ce7f54c6d4ab7ec9dbe4a57726fcfe.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 561823,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:51:43.000Z",
+  "updatedAt": "2026-05-06T14:51:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://artreview.com/museum-as-networked-modality-charlotte-kent/",
+    "title": "Museum as Networked Modality",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892899,
+      "url": "https://www.are.na/block/45892899",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Museum as Networked Modality",
+      "createdAt": "2026-05-06T14:51:43Z",
+      "updatedAt": "2026-05-06T14:51:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "article",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://artreview.com/museum-as-networked-modality-charlotte-kent/",
+        "finding": "Read public essay on museums, digital art, networked practices and institutional preservation infrastructure."
+      }
+    ],
+    "original": {
+      "title": "Museum as Networked Modality",
+      "category": "Art",
+      "tags": [
+        "contemporary-art",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45889134",
+      "reason": "Both examine cultural institutions adapting to AI and digital art infrastructure: governing training data and preserving networked artistic work.",
+      "method": "curation-v1"
+    }
+  ]
+}

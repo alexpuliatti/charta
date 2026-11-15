@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888802",
+  "type": "image",
+  "title": "Obscured Editorial",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "obscured-editorial",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cfbf9fdee56bd3e122a83200.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Obscured Editorial",
+      "role": "original",
+      "bytes": 143119,
+      "sha256": "cfbf9fdee56bd3e122a83200194fdce21540d85b01dfef64d12ef855c7e54509",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888802/original_da91bf5d651741b63bcd76829e489468.jpeg",
+      "originalName": "da91bf5d651741b63bcd76829e489468.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-83ea09204d1c98300598e983.webp",
+      "mimeType": "image/webp",
+      "alt": "Obscured Editorial",
+      "role": "thumbnail",
+      "bytes": 11776,
+      "sha256": "83ea09204d1c98300598e983f56c50a07f58dd81dca168b2d56eb4169e1d0c9c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODgwMi9vcmlnaW5hbF9kYTkxYmY1ZDY1MTc0MWI2M2JjZDc2ODI5ZTQ4OTQ2OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "da91bf5d651741b63bcd76829e489468.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-cfbf9fdee56bd3e122a83200-cfbf9fdee5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Obscured Editorial",
+      "bytes": 90388,
+      "sha256": "d1145a2673663d2d78b826ae89a3172919d0e6987eae419a039b8f698362c304",
+      "width": 1498,
+      "height": 896,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cfbf9fdee56bd3e122a83200.jpg",
+        "sourceSha256": "cfbf9fdee56bd3e122a83200194fdce21540d85b01dfef64d12ef855c7e54509",
+        "originalBytes": 143119,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:30:45.000Z",
+  "updatedAt": "2026-05-06T12:30:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888802",
+    "title": "hhirv0dasaevaes.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888802,
+      "url": "https://www.are.na/block/45888802",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhirv0dasaevaes.jpeg",
+      "createdAt": "2026-05-06T12:30:45Z",
+      "updatedAt": "2026-05-06T12:30:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhirv0dasaevaes.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Obscured Editorial",
+    "text": "VISUALS\nOBSCURED\n04 DRIOINS\nA PROFILE OF THE MAN BEHIND THE QUART D'HEURE\nFIG. 4 CANIDE MOREMO = COINCO THE IS MINUTE CITY 2010)\nNOTES\n852925\n1003)\nSARAHTIAL GAYOR OR THE WALKALESM\nCARLOS MORENO LA VILLE DU QUART D'HEURE E\nANNE HIDALGO PARIS RESPIRE JANE JACOBS b\nDEATH AND LIFE OF GREAT AMERICAN CITIES JAN\nGEHL CITIES FOR PEOPLE LEWILLIAM WHYTE THE\nSOCIAL LIFE OF SMALL URBAN SPACES • ENRIQUE\nPENALOSA CICLOVIA DOMINICAL DAKEVIN LYNCH\nTHE IMAGE OF THE CITY DONALD APPLEYARD *\nLIVABLE STREETS LEWIS MUMFORD THE CITY IN\nHISTORY HENRI LEFEBVRE THE RIGHT TO THE\nCITY DAVID SIM SOFT CITY SALVADOR RUEDA\nSUPERILLES BARCELONA RICHARD SENNETT\nTHE OPEN CITY JANETTE SADIK-KHAN\non Turale",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d1145a2673663d2d78b826ae89a3172919d0e6987eae419a039b8f698362c304"
+  }
+}

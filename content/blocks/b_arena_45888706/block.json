@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888706",
+  "type": "image",
+  "title": "Rain Hollywood",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "rain-hollywood",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3581ce9a2fdbe87f50f6ce80.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Rain Hollywood",
+      "role": "original",
+      "bytes": 158815,
+      "sha256": "3581ce9a2fdbe87f50f6ce80bf93d70b93eb780a4febb91455c352cb7557f8a0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888706/original_7de81207797059b32be57a7ad9f19272.jpeg",
+      "originalName": "7de81207797059b32be57a7ad9f19272.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-1c856e9e0f442dbdb943a685.webp",
+      "mimeType": "image/webp",
+      "alt": "Rain Hollywood",
+      "role": "thumbnail",
+      "bytes": 13012,
+      "sha256": "1c856e9e0f442dbdb943a685046c4dc07affe981d9d51c8af1b539ddac4b7985",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcwNi9vcmlnaW5hbF83ZGU4MTIwNzc5NzA1OWIzMmJlNTdhN2FkOWYxOTI3Mi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7de81207797059b32be57a7ad9f19272.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:04.000Z",
+  "updatedAt": "2026-05-06T12:26:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888706",
+    "title": "original_29fb4d548a602c57afada3842f908701.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888706,
+      "url": "https://www.are.na/block/45888706",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_29fb4d548a602c57afada3842f908701.jpg",
+      "createdAt": "2026-05-06T12:26:04Z",
+      "updatedAt": "2026-05-06T12:26:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_29fb4d548a602c57afada3842f908701.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Rain Hollywood",
+    "text": "RAIN / HOLLYWOOD HUDI",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3581ce9a2fdbe87f50f6ce80bf93d70b93eb780a4febb91455c352cb7557f8a0"
+  }
+}

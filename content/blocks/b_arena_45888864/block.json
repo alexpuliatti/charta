@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888864",
+  "type": "video",
+  "title": "Wooden Awl",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "wooden-awl",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5e56f80482af0ccdd1671d0f.mp4",
+      "mimeType": "video/mp4",
+      "alt": "flaurant.kad-20250821_101000-4280795850.mp4",
+      "role": "original",
+      "bytes": 2655059,
+      "sha256": "5e56f80482af0ccdd1671d0f2ceb2d4073bdbf27eceeff4e77e0d9c53599cb7d",
+      "sourceUrl": "https://attachments.are.na/45888864/a9fa3f4804276e35541d044c7b1de51b.mp4",
+      "originalName": "a9fa3f4804276e35541d044c7b1de51b.mp4"
+    },
+    {
+      "path": "assets/thumbnail-569911c2a78d874d93cb7e93.webp",
+      "mimeType": "image/webp",
+      "alt": "Wooden Awl",
+      "role": "thumbnail",
+      "bytes": 1020,
+      "sha256": "569911c2a78d874d93cb7e934f7048851f2040a5459567ed1973ae47430877dc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg2NC9vcmlnaW5hbF81MGE3MjhiMjczZWM3MjhhMjAyNjA1MDYtMi00eXl1cjMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "50a728b273ec728a20260506-2-4yyur3.png"
+    },
+    {
+      "path": "assets/preview-a9f193726fa020a0abda7f2d.webp",
+      "mimeType": "image/webp",
+      "alt": "flaurant.kad-20250821_101000-4280795850.mp4",
+      "role": "preview",
+      "bytes": 14704,
+      "sha256": "a9f193726fa020a0abda7f2d0c9f1725dc266d8b39c97eae05b9c5461b65e8a3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888864/original_50a728b273ec728a20260506-2-4yyur3.png",
+      "originalName": "50a728b273ec728a20260506-2-4yyur3.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 155168,
+        "width": 1278,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:33:28.000Z",
+  "updatedAt": "2026-05-06T12:33:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888864",
+    "title": "flaurant.kad-20250821_101000-4280795850.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888864,
+      "url": "https://www.are.na/block/45888864",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "flaurant.kad-20250821_101000-4280795850.mp4",
+      "createdAt": "2026-05-06T12:33:28Z",
+      "updatedAt": "2026-05-06T12:33:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "flaurant.kad-20250821_101000-4280795850.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wooden Awl",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "569911c2a78d874d93cb7e934f7048851f2040a5459567ed1973ae47430877dc"
+  }
+}

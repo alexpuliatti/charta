@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46231295",
+  "type": "link",
+  "title": "Purple Gaze",
+  "description": "Apply to the job posting from Purple Gaze",
+  "category": "Companies",
+  "tags": [
+    "neuroscience",
+    "data-science",
+    "careers"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f673b5290631212221fb7f66.webp",
+      "mimeType": "image/webp",
+      "alt": "Neural Data Scientist",
+      "role": "thumbnail",
+      "bytes": 10520,
+      "sha256": "f673b5290631212221fb7f66c7791d3f65cf36bcf53830807185d1408a91e677",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjIzMTI5NS9vcmlnaW5hbF83NzcxMGM5OGQ1ODY4NjZiOGRlMmEwYTRkNjBiNjRlMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "77710c98d586866b8de2a0a4d60b64e1.png"
+    },
+    {
+      "path": "assets/preview-e78dc68d67944b3c1469954b.webp",
+      "mimeType": "image/webp",
+      "alt": "Neural Data Scientist",
+      "role": "preview",
+      "bytes": 170754,
+      "sha256": "e78dc68d67944b3c1469954bb8a59af8ce2b7b8899c4df4645fb2a6571ba5fa3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46231295/original_77710c98d586866b8de2a0a4d60b64e1.png",
+      "originalName": "77710c98d586866b8de2a0a4d60b64e1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 472713,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-16T08:21:32.000Z",
+  "updatedAt": "2026-05-16T08:21:40.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://purplegaze.io/careers/neuraldatascientist",
+    "title": "Neural Data Scientist",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46231295,
+      "url": "https://www.are.na/block/46231295",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Neural Data Scientist",
+      "createdAt": "2026-05-16T08:21:32Z",
+      "updatedAt": "2026-05-16T08:21:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Neural Data Scientist",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

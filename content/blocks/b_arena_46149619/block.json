@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149619",
+  "type": "video",
+  "title": "Manufacturing Desire",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "writing",
+    "design",
+    "manufacturing-desire",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9eb4ef225fd35e130af094b4.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778772468087",
+      "role": "original",
+      "bytes": 4670322,
+      "sha256": "9eb4ef225fd35e130af094b42c8b83c56c700de2b4799227125ceacea9d08c6e",
+      "sourceUrl": "https://attachments.are.na/46149619/61326f29ad94d2598a1ee1b85962c911.mp4",
+      "originalName": "61326f29ad94d2598a1ee1b85962c911.mp4"
+    },
+    {
+      "path": "assets/thumbnail-c64113a2acce981315576371.webp",
+      "mimeType": "image/webp",
+      "alt": "Manufacturing Desire",
+      "role": "thumbnail",
+      "bytes": 11746,
+      "sha256": "c64113a2acce9813155763716fa2d72e7bb112bf8feea9b844cd0e98a7b68842",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTYxOS9vcmlnaW5hbF9hN2VkM2Y4OGMzZTA5YTY3MjAyNjA1MTQtMi1pb3NpYjgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a7ed3f88c3e09a6720260514-2-iosib8.png"
+    },
+    {
+      "path": "assets/display-web-original-9eb4ef225fd35e130af094b4-9eb4ef225f.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778772468087",
+      "bytes": 1537603,
+      "sha256": "052279f4d52680484968fcb9340495ee80bef8a3358236edcfdc09af46b627df",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9eb4ef225fd35e130af094b4.mp4",
+        "sourceSha256": "9eb4ef225fd35e130af094b42c8b83c56c700de2b4799227125ceacea9d08c6e",
+        "originalBytes": 4670322,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-03a77971c79383b6c728940a.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778772468087",
+      "role": "preview",
+      "bytes": 196886,
+      "sha256": "03a77971c79383b6c728940aca5c6007adfe7d27bf397908ffc60aa51f6eec97",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149619/original_a7ed3f88c3e09a6720260514-2-iosib8.png",
+      "originalName": "a7ed3f88c3e09a6720260514-2-iosib8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2871284,
+        "width": 2412,
+        "height": 2160,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:33:42.000Z",
+  "updatedAt": "2026-05-14T15:33:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46149619",
+    "title": "ssstwitter.com_1778772468087",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149619,
+      "url": "https://www.are.na/block/46149619",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778772468087",
+      "createdAt": "2026-05-14T15:33:42Z",
+      "updatedAt": "2026-05-14T15:33:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778772468087",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Manufacturing Desire",
+    "text": "LOS ANGELES. CA\n0 00:00\nManufacturing Desire\nApri 2726\nT he Greck word cros denotes wome, lock, a deire for what is mising. to\nEros the Bitterswest, Anne Carson opens with a fragment from Sappho\na lover sees the beloved across a foot ano, ln tbe scep- pas afat. Ine\nbrealh cone. Ube congoe broken. The skin on fuc. carsons argument is nol\nthat this is a description of love. It is a description of \"longing\" She insists on",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c64113a2acce9813155763716fa2d72e7bb112bf8feea9b844cd0e98a7b68842"
+  }
+}

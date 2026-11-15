@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892933",
+  "type": "link",
+  "title": "AI Workflows",
+  "description": "A project manager’s guide to building AI workflows — from chatbots to self-improving systems",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "workflows",
+    "prompting"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-68577442f7d1d5787234410d.webp",
+      "mimeType": "image/webp",
+      "alt": "Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don’t Code",
+      "role": "thumbnail",
+      "bytes": 11782,
+      "sha256": "68577442f7d1d5787234410d1da2ac258f25540e9e6943fdd93c90d2b8ce349f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjkzMy9vcmlnaW5hbF8wZjk1YjJkMzJmNzhjZjFiMGRhNTBhNTRkOWJiZDUwMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0f95b2d32f78cf1b0da50a54d9bbd502.png"
+    },
+    {
+      "path": "assets/preview-c19f981b9414847e2e6b6d6f.webp",
+      "mimeType": "image/webp",
+      "alt": "Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don’t Code",
+      "role": "preview",
+      "bytes": 162794,
+      "sha256": "c19f981b9414847e2e6b6d6f4daff2a3012f2f349daa2e8f50d3ddd61d0bbb85",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892933/original_0f95b2d32f78cf1b0da50a54d9bbd502.png",
+      "originalName": "0f95b2d32f78cf1b0da50a54d9bbd502.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 603667,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:52:29.000Z",
+  "updatedAt": "2026-05-06T14:52:35.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://claudeblattman.com/workflows/first-session-skills/#__tabbed_2_1",
+    "title": "Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don’t Code",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892933,
+      "url": "https://www.are.na/block/45892933",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don’t Code",
+      "createdAt": "2026-05-06T14:52:29Z",
+      "updatedAt": "2026-05-06T14:52:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Prompt, Plan, Review, Revise - Claude Blattman · AI for Professionals Who Don’t Code",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "programming",
+        "architecture",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45892941",
+      "reason": "Both describe practical AI workflows for producing work, with the second applying AI-assisted iteration to academic writing.",
+      "method": "curation-v1"
+    }
+  ]
+}

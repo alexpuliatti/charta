@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579176",
+  "type": "image",
+  "title": "Electronics Covers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "electronics-covers",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f12411fa4f1a819aeebe2a8b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Electronics Covers",
+      "role": "original",
+      "bytes": 1363846,
+      "sha256": "f12411fa4f1a819aeebe2a8b6a90f825b602379f30730fc9fcda62fedd2ac193",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579176/original_615d8639c7f91474d663c49fd0289716.jpeg",
+      "originalName": "615d8639c7f91474d663c49fd0289716.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-925bbad956f4cdfdf922fbc2.webp",
+      "mimeType": "image/webp",
+      "alt": "Electronics Covers",
+      "role": "thumbnail",
+      "bytes": 25976,
+      "sha256": "925bbad956f4cdfdf922fbc29598bd1a3c51d12e890018230c80fcc36e79ef8e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE3Ni9vcmlnaW5hbF82MTVkODYzOWM3ZjkxNDc0ZDY2M2M0OWZkMDI4OTcxNi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "615d8639c7f91474d663c49fd0289716.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f12411fa4f1a819aeebe2a8b-f12411fa4f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Electronics Covers",
+      "bytes": 364832,
+      "sha256": "1d19ca7bc74e6e945ccd7aeb92637b2d55140c863c6cc784457e157c84a220ec",
+      "width": 1516,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f12411fa4f1a819aeebe2a8b.jpg",
+        "sourceSha256": "f12411fa4f1a819aeebe2a8b6a90f825b602379f30730fc9fcda62fedd2ac193",
+        "originalBytes": 1363846,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:06.000Z",
+  "updatedAt": "2026-09-01T17:27:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579176",
+    "title": "X tweet image (6)",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579176,
+      "url": "https://www.are.na/block/47579176",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "X tweet image (6)",
+      "createdAt": "2026-07-04T15:36:06Z",
+      "updatedAt": "2026-09-01T17:27:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "X tweet image (6)",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Electronics Covers",
+    "text": "Electronics\nSimplified drift compensation: page 90\nSwitching electroluminescent arrays: page 95\nTimers exploit ferroelectric memories: page 98\nHow RCA puts lasers\nand holograms to work\nTor low-cost tv playback\npage 106\nNovember 10, 1969\nElectronics\nWhat makes\nmicrowave\nacoustics\nattractive\nfor signal\nprocessing\npage 54\nWhy\nSupernova\nis\nfaster\nElectronics\nTuning integrated circuits: page 114\nHall-effect multipliers for computers: page 120\n75 cents\nCorrecting errors in digital links: page 125\nElectronics\nActive filters need no inductors: page 109\nMay 27,1968\nDetecting bad IC's: page 120\n$3:00\nFaster low-frequency measurements: page 123\nElectronics\nMore reliable semiconductor transducers: page 72\nShortcut to calculating Q: page 85\nSharpening microwave reception: page 89\nElectronics\nGuarding against frequency variations: page 86\nIC's in an instrument tape recorder: page 93\nOutlook for electronics markets: page 105\n1968\nA year\nof\ndoubt\nHow MOS devices fail\n106\n5100 A Mograw-Hit Pubicaten\nJune 23, 1969\nMeasuring rejection ratios more accurately\nComputer aids ground-station design\n120\n116\nElectronics\nLUAN\nstems hit:\nlanguage\nbarrier\nElectronics\nImproving integrated electronics reliability: page 56\nDecember 20. 19\nDesigning with the state variable: page 63\nAnnual European market report: page 79\nEuropean markets 1967\nElectronics\nIntegrated circuits replace the servo: page 90\n. Improving diode lasers: page 95\n• Electronics markets for 1966: page 111",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1d19ca7bc74e6e945ccd7aeb92637b2d55140c863c6cc784457e157c84a220ec"
+  }
+}

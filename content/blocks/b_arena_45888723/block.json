@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888723",
+  "type": "video",
+  "title": "Linked Notes",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "linked-notes",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-04f45753342aceb9e1eef626.mp4",
+      "mimeType": "video/mp4",
+      "alt": "sssx.io_1774609948801.mp4",
+      "role": "original",
+      "bytes": 1327474,
+      "sha256": "04f45753342aceb9e1eef6266fcedc48e614fef157de3d3ccc75d93407bb053e",
+      "sourceUrl": "https://attachments.are.na/45888723/a565a369b917f23719637eda79e11de0.mp4",
+      "originalName": "a565a369b917f23719637eda79e11de0.mp4"
+    },
+    {
+      "path": "assets/thumbnail-ed8d3b328188b0f2c8818a35.webp",
+      "mimeType": "image/webp",
+      "alt": "Linked Notes",
+      "role": "thumbnail",
+      "bytes": 5296,
+      "sha256": "ed8d3b328188b0f2c8818a351f65fdcad680d555a2746f3316a205f6cc415967",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcyMy9vcmlnaW5hbF9iZTFmZWQ1MWQ4YmI0NDBhMjAyNjA1MDYtMi1qYjIxbHcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "be1fed51d8bb440a20260506-2-jb21lw.png"
+    },
+    {
+      "path": "assets/display-web-original-04f45753342aceb9e1eef626-04f4575334.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "sssx.io_1774609948801.mp4",
+      "bytes": 859401,
+      "sha256": "39b0d40eac87224c33f413c60ec78b467d41898c6c33bfa3359620d454d5ecdd",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-04f45753342aceb9e1eef626.mp4",
+        "sourceSha256": "04f45753342aceb9e1eef6266fcedc48e614fef157de3d3ccc75d93407bb053e",
+        "originalBytes": 1327474,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-ced228936da10b3f6a6fdf03.webp",
+      "mimeType": "image/webp",
+      "alt": "sssx.io_1774609948801.mp4",
+      "role": "preview",
+      "bytes": 31642,
+      "sha256": "ced228936da10b3f6a6fdf0308673312d7386df5459c0b54dcf051e87cd54d81",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888723/original_be1fed51d8bb440a20260506-2-jb21lw.png",
+      "originalName": "be1fed51d8bb440a20260506-2-jb21lw.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 189366,
+        "width": 1140,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:58.000Z",
+  "updatedAt": "2026-05-06T12:27:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888723",
+    "title": "sssx.io_1774609948801.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888723,
+      "url": "https://www.are.na/block/45888723",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "sssx.io_1774609948801.mp4",
+      "createdAt": "2026-05-06T12:26:58Z",
+      "updatedAt": "2026-05-06T12:27:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sssx.io_1774609948801.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Linked Notes",
+    "text": "SAN FRANC\n....,\n....\nration of world-altering\nous fox even has a nickname-\nmeeting warm inland air, regularm\nng the Golden Gate Bridge whole\nIts liberal reputation, SF has one of\nst percentages of children of any\ns city, largely due to extreme\ncosts pushing tanslies out\ncontain notescandl",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ed8d3b328188b0f2c8818a351f65fdcad680d555a2746f3316a205f6cc415967"
+  }
+}

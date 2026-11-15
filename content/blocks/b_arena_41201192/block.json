@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_41201192",
+  "type": "link",
+  "title": "oyes Studio",
+  "description": "oyes is a lab for collaboration and exploration – a space where design, ai and mixed media projects unfold. a space to push boundaries.",
+  "category": "Companies",
+  "tags": [
+    "artificial-intelligence",
+    "mixed-media",
+    "collaboration"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1c72170168873c8299110d46.webp",
+      "mimeType": "image/webp",
+      "alt": "oyes",
+      "role": "thumbnail",
+      "bytes": 4736,
+      "sha256": "1c72170168873c8299110d46bfbf96f3128913e33635a8b9fb32820c5c2d2201",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MTIwMTE5Mi9vcmlnaW5hbF8wZjE2YzAxMzk1MWMzMzVjOGEyOWRjZjc2M2E5ZTg3Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0f16c013951c335c8a29dcf763a9e877.png"
+    },
+    {
+      "path": "assets/preview-230b575cd21b1ed95f7a48a8.webp",
+      "mimeType": "image/webp",
+      "alt": "oyes",
+      "role": "preview",
+      "bytes": 194070,
+      "sha256": "230b575cd21b1ed95f7a48a859effe391d29e4b997cde99827d265bae865803c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/41201192/original_0f16c013951c335c8a29dcf763a9e877.png",
+      "originalName": "0f16c013951c335c8a29dcf763a9e877.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1332418,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-18T17:29:54.000Z",
+  "updatedAt": "2026-07-17T06:59:51.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.oyes.studio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnFPlKOqvR56XlF3CXO-lwybNSobcexuGlEOPUmiVvVE0hCB6_kemCmc3ot7Y_aem_EaQkk-nUKBpHy4h8myPHXg",
+    "title": "oyes",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 41201192,
+      "url": "https://www.are.na/block/41201192",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "oyes",
+      "createdAt": "2025-11-18T17:29:54Z",
+      "updatedAt": "2026-07-17T06:59:51Z",
+      "addedBy": {
+        "id": 62001,
+        "name": "Matija Gabrilo",
+        "slug": "matija-gabrilo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "oyes",
+      "category": "Information design",
+      "tags": [
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

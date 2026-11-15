@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890036",
+  "type": "image",
+  "title": "Loft Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "loft-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-61d33306b9f4cd4ae5618b32.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Loft Bedroom",
+      "role": "original",
+      "bytes": 62674,
+      "sha256": "61d33306b9f4cd4ae5618b325b27969d232ccc07a003406a9a7893d11f62177b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890036/original_c6390260138956da0000173444da85c8.jpeg",
+      "originalName": "c6390260138956da0000173444da85c8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c934639617df754d3547e699.webp",
+      "mimeType": "image/webp",
+      "alt": "Loft Bedroom",
+      "role": "thumbnail",
+      "bytes": 7826,
+      "sha256": "c934639617df754d3547e699049b28bd542a0a0701c8bf9d8d09cb71c4ab6cef",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAzNi9vcmlnaW5hbF9jNjM5MDI2MDEzODk1NmRhMDAwMDE3MzQ0NGRhODVjOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c6390260138956da0000173444da85c8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-61d33306b9f4cd4ae5618b32-61d33306b9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Loft Bedroom",
+      "bytes": 46068,
+      "sha256": "efcb6d1675c8c3f7c82518dc5685b20333760766ba4639b3275d179ee1045994",
+      "width": 606,
+      "height": 866,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-61d33306b9f4cd4ae5618b32.jpg",
+        "sourceSha256": "61d33306b9f4cd4ae5618b325b27969d232ccc07a003406a9a7893d11f62177b",
+        "originalBytes": 62674,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:21:02.000Z",
+  "updatedAt": "2026-05-06T13:21:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890036",
+    "title": "679efa5d83ecb57d2f31dc6c9acd5288.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890036,
+      "url": "https://www.are.na/block/45890036",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "679efa5d83ecb57d2f31dc6c9acd5288.jpg",
+      "createdAt": "2026-05-06T13:21:02Z",
+      "updatedAt": "2026-05-06T13:21:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "679efa5d83ecb57d2f31dc6c9acd5288.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Loft Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "efcb6d1675c8c3f7c82518dc5685b20333760766ba4639b3275d179ee1045994"
+  }
+}

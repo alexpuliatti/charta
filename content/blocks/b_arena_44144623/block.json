@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144623",
+  "type": "image",
+  "title": "Growing Knowledge",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "growing-knowledge",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e7eaca0e67e6d495b12bd4ea.png",
+      "mimeType": "image/png",
+      "alt": "Growing Knowledge",
+      "role": "original",
+      "bytes": 1830437,
+      "sha256": "e7eaca0e67e6d495b12bd4ea12f2820c46f23a9b655c3ac90a9fc8ed6df782c1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144623/original_758c83b64413bbf6fd3a269c6828c834.png",
+      "originalName": "758c83b64413bbf6fd3a269c6828c834.png"
+    },
+    {
+      "path": "assets/thumbnail-99d29a1c9c2839cd33f79d88.webp",
+      "mimeType": "image/webp",
+      "alt": "Growing Knowledge",
+      "role": "thumbnail",
+      "bytes": 3432,
+      "sha256": "99d29a1c9c2839cd33f79d88e15aaf67f0ebea0d10ce24b7e5751fc6e2d91f1a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYyMy9vcmlnaW5hbF83NThjODNiNjQ0MTNiYmY2ZmQzYTI2OWM2ODI4YzgzNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "758c83b64413bbf6fd3a269c6828c834.png"
+    },
+    {
+      "path": "assets/display-web-original-e7eaca0e67e6d495b12bd4ea-e7eaca0e67.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Growing Knowledge",
+      "bytes": 45148,
+      "sha256": "090f7ee52c7fa053ec2c95e7cbe63e037f4cddf96bdc65e07899427c6a8b5900",
+      "width": 1174,
+      "height": 1832,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e7eaca0e67e6d495b12bd4ea.png",
+        "sourceSha256": "e7eaca0e67e6d495b12bd4ea12f2820c46f23a9b655c3ac90a9fc8ed6df782c1",
+        "originalBytes": 1830437,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-03-04T19:22:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144623",
+    "title": "screenshot-2026-03-04-alle-16.21.11.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144623,
+      "url": "https://www.are.na/block/44144623",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.21.11.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-03-04T19:22:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.21.11.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Growing Knowledge",
+    "text": "Oh\nI know\nsuch\na\nlot\nof\nthings,\nbut\nas\nI\ngrow\nI know\nTIl\nknow\nmuch\nmore.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "090f7ee52c7fa053ec2c95e7cbe63e037f4cddf96bdc65e07899427c6a8b5900"
+  }
+}

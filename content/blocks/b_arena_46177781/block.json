@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177781",
+  "type": "link",
+  "title": "Image Motion",
+  "description": "Upload images, animate them with generative motion presets, and export a seamless MP4 loop.",
+  "category": "Graphic design",
+  "tags": [
+    "generative-motion",
+    "image-animation",
+    "mp4"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0ea90840f310c05a8471ecf4.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Tool - Paul Soulhiard",
+      "role": "thumbnail",
+      "bytes": 1298,
+      "sha256": "0ea90840f310c05a8471ecf406b1ee15a7c98020cad9d6a0d304c84da02a20f8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3Nzc4MS9vcmlnaW5hbF81N2NkZmVkY2FlZjQyOTA0NzUxNzkxMTBlZjZmZDcxYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "57cdfedcaef4290475179110ef6fd71c.png"
+    },
+    {
+      "path": "assets/preview-3ac1d96f1356bf1c46a2f993.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Tool - Paul Soulhiard",
+      "role": "preview",
+      "bytes": 40862,
+      "sha256": "3ac1d96f1356bf1c46a2f993fda1276fb2efd2ce6d521ac5dd5e8775d54d9e09",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177781/original_57cdfedcaef4290475179110ef6fd71c.png",
+      "originalName": "57cdfedcaef4290475179110ef6fd71c.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 548998,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:10:51.000Z",
+  "updatedAt": "2026-05-15T12:10:59.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://imagetool.paulsoulhiard.com/",
+    "title": "Image Tool - Paul Soulhiard",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177781,
+      "url": "https://www.are.na/block/46177781",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Image Tool - Paul Soulhiard",
+      "createdAt": "2026-05-15T12:10:51Z",
+      "updatedAt": "2026-05-15T12:10:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Image Tool - Paul Soulhiard",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "motion-design",
+        "creative-coding",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

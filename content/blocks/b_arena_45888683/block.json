@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888683",
+  "type": "image",
+  "title": "Halftone Cube",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "halftone-cube",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8094245719a119bfbe49585d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Halftone Cube",
+      "role": "original",
+      "bytes": 575158,
+      "sha256": "8094245719a119bfbe49585db231354bb799357ed49ed2c297b8088abec3c024",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888683/original_6ef2b5ce22ca77f494ea0659679f59e9.jpeg",
+      "originalName": "6ef2b5ce22ca77f494ea0659679f59e9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-66551a64ddebe77d6c0eb480.webp",
+      "mimeType": "image/webp",
+      "alt": "Halftone Cube",
+      "role": "thumbnail",
+      "bytes": 7968,
+      "sha256": "66551a64ddebe77d6c0eb4808d24b05c367fdfe5d680a499734b00c040e42ee2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY4My9vcmlnaW5hbF82ZWYyYjVjZTIyY2E3N2Y0OTRlYTA2NTk2NzlmNTllOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6ef2b5ce22ca77f494ea0659679f59e9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8094245719a119bfbe49585d-8094245719.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Halftone Cube",
+      "bytes": 344036,
+      "sha256": "6fcc2620569908fa325fbd515037be6436db094250a4154aed1be21f5d35962c",
+      "width": 1600,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8094245719a119bfbe49585d.jpg",
+        "sourceSha256": "8094245719a119bfbe49585db231354bb799357ed49ed2c297b8088abec3c024",
+        "originalBytes": 575158,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:58.000Z",
+  "updatedAt": "2026-05-06T12:26:05.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888683",
+    "title": "out003.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888683,
+      "url": "https://www.are.na/block/45888683",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "out003.jpg",
+      "createdAt": "2026-05-06T12:25:58Z",
+      "updatedAt": "2026-05-06T12:26:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "out003.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Halftone Cube",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6fcc2620569908fa325fbd515037be6436db094250a4154aed1be21f5d35962c"
+  }
+}

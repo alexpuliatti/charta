@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "f_curated_technology",
+  "title": "Technology",
+  "order": 7,
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

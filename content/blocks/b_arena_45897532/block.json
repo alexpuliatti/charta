@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45897532",
+  "type": "image",
+  "title": "Kano Model",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "writing",
+    "design",
+    "kano-model",
+    "emerging-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fcf9ad9f56126f8ae28770a0.png",
+      "mimeType": "image/png",
+      "alt": "Kano Model",
+      "role": "original",
+      "bytes": 329475,
+      "sha256": "fcf9ad9f56126f8ae28770a0a68877b5431d8db6d0a6e6bebfc5d60932bd7b91",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45897532/original_77315d48f497a68bfe4ec83c9627266d.png",
+      "originalName": "77315d48f497a68bfe4ec83c9627266d.png"
+    },
+    {
+      "path": "assets/thumbnail-0a2c79eb8aef25bdc6b971c8.webp",
+      "mimeType": "image/webp",
+      "alt": "Kano Model",
+      "role": "thumbnail",
+      "bytes": 15704,
+      "sha256": "0a2c79eb8aef25bdc6b971c8decf96275fa7ab9c48147e29ff4b5f8ab8c347b5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5NzUzMi9vcmlnaW5hbF83NzMxNWQ0OGY0OTdhNjhiZmU0ZWM4M2M5NjI3MjY2ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "77315d48f497a68bfe4ec83c9627266d.png"
+    },
+    {
+      "path": "assets/display-web-original-fcf9ad9f56126f8ae28770a0-fcf9ad9f56.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Kano Model",
+      "bytes": 111734,
+      "sha256": "3447a796b201f82d4c30a4deba60dc17956a6f3312c24f99901c3b8b613c29a7",
+      "width": 1526,
+      "height": 1464,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fcf9ad9f56126f8ae28770a0.png",
+        "sourceSha256": "fcf9ad9f56126f8ae28770a0a68877b5431d8db6d0a6e6bebfc5d60932bd7b91",
+        "originalBytes": 329475,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T17:35:58.000Z",
+  "updatedAt": "2026-05-06T17:36:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45897532",
+    "title": "screenshot-2026-05-06-alle-18.35.52.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45897532,
+      "url": "https://www.are.na/block/45897532",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-05-06-alle-18.35.52.png",
+      "createdAt": "2026-05-06T17:35:58Z",
+      "updatedAt": "2026-05-06T17:36:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-05-06-alle-18.35.52.png",
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Kano Model",
+    "text": "The Kano model is a theory for product development and customer satisfaction. It was\ndeveloped in the 1980s by Professor Noriaki Kano. The core idea is that when product\ndevelopment focuses on basic needs and core functionality, the end-user's satisfaction is\ncapped.\nKano argued that better products are made by delighting end-users. By moving our focus\nfrom fixing functional problems to creating delight and joy, we can create a product that\ndelivers more value to users.\nCustomer satisfaction →\nDelighters\nPerformance\nNeutral satisfaction\nMust haves\nFeature sophistication →\nOur work always includes the Kano model. But to embed the principles and allow more\ncreative ideas to emerge, we've evolved the model into a dedicated full-week Kano sprint. We\nrun these Kano weeks quarterly. They're the perfect opportunity to follow our curiosity and\nfocus on joy.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3447a796b201f82d4c30a4deba60dc17956a6f3312c24f99901c3b8b613c29a7"
+  }
+}

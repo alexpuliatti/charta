@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45915994",
+  "type": "video",
+  "title": "Website Inspector",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "website-inspector",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ed76022a705ed3eabda029cd.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778148662921.mp4",
+      "role": "original",
+      "bytes": 10457288,
+      "sha256": "ed76022a705ed3eabda029cd04892cc1a1d636a306ffd7d20659f08231b7c8a0",
+      "sourceUrl": "https://attachments.are.na/45915994/60057a09100560be08a091e84744db45.mp4",
+      "originalName": "60057a09100560be08a091e84744db45.mp4"
+    },
+    {
+      "path": "assets/thumbnail-b343f66a1d18ab237c610960.webp",
+      "mimeType": "image/webp",
+      "alt": "Website Inspector",
+      "role": "thumbnail",
+      "bytes": 6008,
+      "sha256": "b343f66a1d18ab237c61096062d2df26e93026fe892c5aeae42231b226238319",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTkxNTk5NC9vcmlnaW5hbF83ODc5NmZkYWEzYTEyYTdkMjAyNjA1MDctMi1nN210bHEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "78796fdaa3a12a7d20260507-2-g7mtlq.png"
+    },
+    {
+      "path": "assets/display-web-original-ed76022a705ed3eabda029cd-ed76022a70.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778148662921.mp4",
+      "bytes": 1465358,
+      "sha256": "5a395c6585dc96040bd844a0a0ff226908410f7346ea98dc6e27cd061abc8db4",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ed76022a705ed3eabda029cd.mp4",
+        "sourceSha256": "ed76022a705ed3eabda029cd04892cc1a1d636a306ffd7d20659f08231b7c8a0",
+        "originalBytes": 10457288,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-ee6e4e8837ba8ecccae043a4.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778148662921.mp4",
+      "role": "preview",
+      "bytes": 204830,
+      "sha256": "ee6e4e8837ba8ecccae043a42e5804bcb9f19b04a662af44fa48244ed8084839",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45915994/original_78796fdaa3a12a7d20260507-2-g7mtlq.png",
+      "originalName": "78796fdaa3a12a7d20260507-2-g7mtlq.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2045341,
+        "width": 2560,
+        "height": 1549,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-07T10:11:30.000Z",
+  "updatedAt": "2026-05-07T10:11:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45915994",
+    "title": "ssstwitter.com_1778148662921.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45915994,
+      "url": "https://www.are.na/block/45915994",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778148662921.mp4",
+      "createdAt": "2026-05-07T10:11:30Z",
+      "updatedAt": "2026-05-07T10:11:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778148662921.mp4",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Website Inspector",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b343f66a1d18ab237c61096062d2df26e93026fe892c5aeae42231b226238319"
+  }
+}

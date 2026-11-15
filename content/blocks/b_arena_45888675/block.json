@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888675",
+  "type": "image",
+  "title": "Candy Outline",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "candy-outline",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9715b8042e34a4df245db57b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Candy Outline",
+      "role": "original",
+      "bytes": 180878,
+      "sha256": "9715b8042e34a4df245db57bbd248cf9b3a0716963ecdd8b289685e28eb27c5a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888675/original_c1f92233ae4c589f3ee30c9c649fe142.jpeg",
+      "originalName": "c1f92233ae4c589f3ee30c9c649fe142.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c37d204df17b565b60a2889a.webp",
+      "mimeType": "image/webp",
+      "alt": "Candy Outline",
+      "role": "thumbnail",
+      "bytes": 7104,
+      "sha256": "c37d204df17b565b60a2889aac50b1adf2a3b4091a3071166f3a5b4e0a3aa884",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY3NS9vcmlnaW5hbF9jMWY5MjIzM2FlNGM1ODlmM2VlMzBjOWM2NDlmZTE0Mi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c1f92233ae4c589f3ee30c9c649fe142.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:51.000Z",
+  "updatedAt": "2026-05-06T12:25:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888675",
+    "title": "rominamalta25.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888675,
+      "url": "https://www.are.na/block/45888675",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "rominamalta25.jpg",
+      "createdAt": "2026-05-06T12:25:51Z",
+      "updatedAt": "2026-05-06T12:25:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "rominamalta25.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Candy Outline",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9715b8042e34a4df245db57bbd248cf9b3a0716963ecdd8b289685e28eb27c5a"
+  }
+}

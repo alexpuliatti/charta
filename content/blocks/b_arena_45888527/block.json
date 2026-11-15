@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888527",
+  "type": "image",
+  "title": "Boys Life",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "boys-life",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8678bb44c2f55f32405a65f2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Boys Life",
+      "role": "original",
+      "bytes": 14098,
+      "sha256": "8678bb44c2f55f32405a65f2ed6ca05402ff892b980b65f8399a32463aeb4ff4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888527/original_5cb80aebd382224e64f427407f932807.jpeg",
+      "originalName": "5cb80aebd382224e64f427407f932807.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-46a383a1dcc23dcdfda791fc.webp",
+      "mimeType": "image/webp",
+      "alt": "Boys Life",
+      "role": "thumbnail",
+      "bytes": 6204,
+      "sha256": "46a383a1dcc23dcdfda791fc716fd46ad4e2a15cb0f7595bd3b26d68cea0ca9b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyNy9vcmlnaW5hbF81Y2I4MGFlYmQzODIyMjRlNjRmNDI3NDA3ZjkzMjgwNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5cb80aebd382224e64f427407f932807.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8678bb44c2f55f32405a65f2-8678bb44c2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Boys Life",
+      "bytes": 9288,
+      "sha256": "e5d0e730fd4335847c5f5e8d4e374aaad2b400074083bfd76099eb443deb6031",
+      "width": 384,
+      "height": 384,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8678bb44c2f55f32405a65f2.jpg",
+        "sourceSha256": "8678bb44c2f55f32405a65f2ed6ca05402ff892b980b65f8399a32463aeb4ff4",
+        "originalBytes": 14098,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:09.000Z",
+  "updatedAt": "2026-05-06T12:21:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888527",
+    "title": "758a4293decd7ce2a0d53ed1a9987b57.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888527,
+      "url": "https://www.are.na/block/45888527",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "758a4293decd7ce2a0d53ed1a9987b57.jpg",
+      "createdAt": "2026-05-06T12:21:09Z",
+      "updatedAt": "2026-05-06T12:21:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "758a4293decd7ce2a0d53ed1a9987b57.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Boys Life",
+    "text": "•DEDARTERT ANRT ANTATT GROSSEN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e5d0e730fd4335847c5f5e8d4e374aaad2b400074083bfd76099eb443deb6031"
+  }
+}

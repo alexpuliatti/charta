@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227382",
+  "type": "image",
+  "title": "Latin Verse",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "writing",
+    "culture",
+    "latin-verse",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5f82f5a4e40fa071b192e093.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Latin Verse",
+      "role": "original",
+      "bytes": 323353,
+      "sha256": "5f82f5a4e40fa071b192e0938a3d436bbeb3c5b37bc0a91d896710f52b10a643",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227382/original_44c2a2e25618943c4f200b491020b537.jpg",
+      "originalName": "44c2a2e25618943c4f200b491020b537.jpg"
+    },
+    {
+      "path": "assets/thumbnail-93f8839acb234bde9fb3bd9d.webp",
+      "mimeType": "image/webp",
+      "alt": "Latin Verse",
+      "role": "thumbnail",
+      "bytes": 13750,
+      "sha256": "93f8839acb234bde9fb3bd9d2aaa571cc53878ec9db418674d56d2d4fdded9dd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM4Mi9vcmlnaW5hbF80NGMyYTJlMjU2MTg5NDNjNGYyMDBiNDkxMDIwYjUzNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "44c2a2e25618943c4f200b491020b537.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5f82f5a4e40fa071b192e093-5f82f5a4e4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Latin Verse",
+      "bytes": 255282,
+      "sha256": "c5b2ff5a739a2458936a8cadb82f0ce1fd0af9f2f3e0848b372c1e5ee721ec07",
+      "width": 2000,
+      "height": 827,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5f82f5a4e40fa071b192e093.jpg",
+        "sourceSha256": "5f82f5a4e40fa071b192e0938a3d436bbeb3c5b37bc0a91d896710f52b10a643",
+        "originalBytes": 323353,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:46.000Z",
+  "updatedAt": "2026-03-07T22:47:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227382",
+    "title": "hc0kleob0aabfnk.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227382,
+      "url": "https://www.are.na/block/44227382",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hc0kleob0aabfnk.jpeg",
+      "createdAt": "2026-03-07T22:47:46Z",
+      "updatedAt": "2026-03-07T22:47:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hc0kleob0aabfnk.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Latin Verse",
+    "text": "I love the language, that soft bastard Latin,\nWhich melts like kisses from a female mouth,\nAnd sounds as if it should be writ on satin,\nWith syllables which breathe of the sweet South,\nAnd gentle liquids gliding all so pat in,\nThat not a single accent seems uncouth,\nLike our harsh northern whistling, grunting guttural,\nWhich we're obliged to hiss, and spit, and sputter all.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c5b2ff5a739a2458936a8cadb82f0ce1fd0af9f2f3e0848b372c1e5ee721ec07"
+  }
+}

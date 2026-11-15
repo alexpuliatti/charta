@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890034",
+  "type": "image",
+  "title": "Reflective Seat",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "furniture",
+    "reflective-seat",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-950e9abd6f2fade183d08a86.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Reflective Seat",
+      "role": "original",
+      "bytes": 26027,
+      "sha256": "950e9abd6f2fade183d08a86193d20e8d09b1c8cb06b9a86fb7770b88f096911",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890034/original_dac62692ac1f482e92d560e5f7c8367f.jpeg",
+      "originalName": "dac62692ac1f482e92d560e5f7c8367f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a1274f9a06a4b02a4290d029.webp",
+      "mimeType": "image/webp",
+      "alt": "Reflective Seat",
+      "role": "thumbnail",
+      "bytes": 3220,
+      "sha256": "a1274f9a06a4b02a4290d029463664182111adc35820fbdb9d02caab7cb64c92",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAzNC9vcmlnaW5hbF9kYWM2MjY5MmFjMWY0ODJlOTJkNTYwZTVmN2M4MzY3Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "dac62692ac1f482e92d560e5f7c8367f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-950e9abd6f2fade183d08a86-950e9abd6f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Reflective Seat",
+      "bytes": 12780,
+      "sha256": "375aeaedd80a2c9e643a926929482a77e857b8d12df01b3ed44ee8afbcc220c8",
+      "width": 750,
+      "height": 830,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-950e9abd6f2fade183d08a86.jpg",
+        "sourceSha256": "950e9abd6f2fade183d08a86193d20e8d09b1c8cb06b9a86fb7770b88f096911",
+        "originalBytes": 26027,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:21:01.000Z",
+  "updatedAt": "2026-05-06T13:21:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890034",
+    "title": "900d51aa8100fecded6185de992472d6.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890034,
+      "url": "https://www.are.na/block/45890034",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "900d51aa8100fecded6185de992472d6.jpg",
+      "createdAt": "2026-05-06T13:21:01Z",
+      "updatedAt": "2026-05-06T13:21:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Furniture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "900d51aa8100fecded6185de992472d6.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Reflective Seat",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "375aeaedd80a2c9e643a926929482a77e857b8d12df01b3ed44ee8afbcc220c8"
+  }
+}

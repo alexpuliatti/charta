@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787986",
+  "type": "image",
+  "title": "Breakfast Table",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "breakfast-table",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-76a7024bde063758ad18646d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Breakfast Table",
+      "role": "original",
+      "bytes": 90562,
+      "sha256": "76a7024bde063758ad18646daba089b3065a49398ab0434481e83f98405c0840",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787986/original_10a5d9413e1f790cab657c6a6d1fef11.jpg",
+      "originalName": "10a5d9413e1f790cab657c6a6d1fef11.jpg"
+    },
+    {
+      "path": "assets/thumbnail-9889e86b8b14cf1f4d17c345.webp",
+      "mimeType": "image/webp",
+      "alt": "Breakfast Table",
+      "role": "thumbnail",
+      "bytes": 16860,
+      "sha256": "9889e86b8b14cf1f4d17c345d0354c7f02f64a2619f3a6f755d0d52d1320b4e3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk4Ni9vcmlnaW5hbF8xMGE1ZDk0MTNlMWY3OTBjYWI2NTdjNmE2ZDFmZWYxMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "10a5d9413e1f790cab657c6a6d1fef11.jpg"
+    },
+    {
+      "path": "assets/display-web-original-76a7024bde063758ad18646d-76a7024bde.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Breakfast Table",
+      "bytes": 53660,
+      "sha256": "1f0de4691dbdf2f69feb9ad2bf54b15074c41adc69d312d796660de733548d31",
+      "width": 735,
+      "height": 490,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-76a7024bde063758ad18646d.jpg",
+        "sourceSha256": "76a7024bde063758ad18646daba089b3065a49398ab0434481e83f98405c0840",
+        "originalBytes": 90562,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:08:34.000Z",
+  "updatedAt": "2025-11-02T16:08:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787986",
+    "title": "gclnfzgbwaaumdg.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787986,
+      "url": "https://www.are.na/block/40787986",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gclnfzgbwaaumdg.jpeg",
+      "createdAt": "2025-11-02T16:08:34Z",
+      "updatedAt": "2025-11-02T16:08:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gclnfzgbwaaumdg.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Breakfast Table",
+    "text": "S.PELLE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1f0de4691dbdf2f69feb9ad2bf54b15074c41adc69d312d796660de733548d31"
+  }
+}

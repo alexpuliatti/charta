@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701038",
+  "type": "image",
+  "title": "Stamboul Train",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "stamboul-train",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-87e021e97d34086e04c7306f.png",
+      "mimeType": "image/png",
+      "alt": "Stamboul Train",
+      "role": "original",
+      "bytes": 3034857,
+      "sha256": "87e021e97d34086e04c7306ff271c81338074da6c988f5b0cc494e6b179373ea",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701038/original_1b8b9abb4c1619f33c2406f8de8620d9.png",
+      "originalName": "1b8b9abb4c1619f33c2406f8de8620d9.png"
+    },
+    {
+      "path": "assets/thumbnail-b7ce563a29e73f36fd86b709.webp",
+      "mimeType": "image/webp",
+      "alt": "Stamboul Train",
+      "role": "thumbnail",
+      "bytes": 3900,
+      "sha256": "b7ce563a29e73f36fd86b70907f4bb51e4f1b0193dd019f8f8019c94db05f0ad",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAzOC9vcmlnaW5hbF8xYjhiOWFiYjRjMTYxOWYzM2MyNDA2ZjhkZTg2MjBkOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1b8b9abb4c1619f33c2406f8de8620d9.png"
+    },
+    {
+      "path": "assets/display-web-original-87e021e97d34086e04c7306f-87e021e97d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Stamboul Train",
+      "bytes": 61972,
+      "sha256": "96da8bc81e2032bebb5fb05953f9ca2d24e65a8fe69106280181083112e8b3de",
+      "width": 2000,
+      "height": 987,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-87e021e97d34086e04c7306f.png",
+        "sourceSha256": "87e021e97d34086e04c7306ff271c81338074da6c988f5b0cc494e6b179373ea",
+        "originalBytes": 3034857,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:29.000Z",
+  "updatedAt": "2026-07-08T14:56:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701038",
+    "title": "Screenshot 2023-09-12 alle 17.05.09",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701038,
+      "url": "https://www.are.na/block/47701038",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.05.09",
+      "createdAt": "2026-07-08T14:56:29Z",
+      "updatedAt": "2026-07-08T14:56:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.05.09",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Stamboul Train",
+    "text": "STAMBOUL TRAIN\nGRAHAM GREENE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "96da8bc81e2032bebb5fb05953f9ca2d24e65a8fe69106280181083112e8b3de"
+  }
+}

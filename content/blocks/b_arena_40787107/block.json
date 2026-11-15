@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787107",
+  "type": "image",
+  "title": "White Monitors",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "white-monitors",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5f65e210d798dedef2f032ee.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "White Monitors",
+      "role": "original",
+      "bytes": 111427,
+      "sha256": "5f65e210d798dedef2f032eed257460a6add9c9a82bc5c1cdf49d1eb3eebece8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787107/original_6a19e9b6fca8b2a69e1a505db8d1a057.jpg",
+      "originalName": "6a19e9b6fca8b2a69e1a505db8d1a057.jpg"
+    },
+    {
+      "path": "assets/thumbnail-259e0e77c9b54b2aa3ebc8ed.webp",
+      "mimeType": "image/webp",
+      "alt": "White Monitors",
+      "role": "thumbnail",
+      "bytes": 11376,
+      "sha256": "259e0e77c9b54b2aa3ebc8ed5486c5d20416846ad4b9923798dc15820f0467be",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwNy9vcmlnaW5hbF82YTE5ZTliNmZjYThiMmE2OWUxYTUwNWRiOGQxYTA1Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6a19e9b6fca8b2a69e1a505db8d1a057.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5f65e210d798dedef2f032ee-5f65e210d7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "White Monitors",
+      "bytes": 85914,
+      "sha256": "0601dfca3d977d1df024e91aaf4483c4f73051f29f3f5c963067f8e841e7bce9",
+      "width": 1440,
+      "height": 964,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5f65e210d798dedef2f032ee.jpg",
+        "sourceSha256": "5f65e210d798dedef2f032eed257460a6add9c9a82bc5c1cdf49d1eb3eebece8",
+        "originalBytes": 111427,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:52.000Z",
+  "updatedAt": "2025-11-02T15:26:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787107",
+    "title": "pure_audio_project-20240211_080544-3141666371.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787107,
+      "url": "https://www.are.na/block/40787107",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "pure_audio_project-20240211_080544-3141666371.jpg",
+      "createdAt": "2025-11-02T15:26:52Z",
+      "updatedAt": "2025-11-02T15:26:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pure_audio_project-20240211_080544-3141666371.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "White Monitors",
+    "text": "10\n66:36\n•oC\nCE CCT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0601dfca3d977d1df024e91aaf4483c4f73051f29f3f5c963067f8e841e7bce9"
+  }
+}

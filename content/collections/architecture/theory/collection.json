@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_architecture_theory",
+  "title": "Theory",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47700806"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137289"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137291"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137292"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

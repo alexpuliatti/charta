@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144634",
+  "type": "image",
+  "title": "Food Ordering",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "food-ordering",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e9e4d657c6aa471bcd048ad1.png",
+      "mimeType": "image/png",
+      "alt": "Food Ordering",
+      "role": "original",
+      "bytes": 1892101,
+      "sha256": "e9e4d657c6aa471bcd048ad11bea11f1870b9fbad6a7d3ce0a30b200093dd4ad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144634/original_081e18a3232fd0aa79aa1302c034f1ba.png",
+      "originalName": "081e18a3232fd0aa79aa1302c034f1ba.png"
+    },
+    {
+      "path": "assets/thumbnail-04796953339dc55d8e196b08.webp",
+      "mimeType": "image/webp",
+      "alt": "Food Ordering",
+      "role": "thumbnail",
+      "bytes": 12900,
+      "sha256": "04796953339dc55d8e196b08f1d59b9258ec7f592bff52d0051e9446a586699d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYzNC9vcmlnaW5hbF8wODFlMThhMzIzMmZkMGFhNzlhYTEzMDJjMDM0ZjFiYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "081e18a3232fd0aa79aa1302c034f1ba.png"
+    },
+    {
+      "path": "assets/display-web-original-e9e4d657c6aa471bcd048ad1-e9e4d657c6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Food Ordering",
+      "bytes": 117534,
+      "sha256": "675e423da4fb465d76a7b13e8a0ce045f25b58dbc4627731e44a19af99f9a5b9",
+      "width": 1066,
+      "height": 1680,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e9e4d657c6aa471bcd048ad1.png",
+        "sourceSha256": "e9e4d657c6aa471bcd048ad11bea11f1870b9fbad6a7d3ce0a30b200093dd4ad",
+        "originalBytes": 1892101,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144634",
+    "title": "screenshot-2026-03-04-alle-20.12.21.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144634,
+      "url": "https://www.are.na/block/44144634",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.12.21.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.12.21.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Food Ordering",
+    "text": "9:41\n•oll\n1/4\nRabbit Ravioli\n250 g, 440 kCal, 440 HP\n£14.99\nTender and juicy meatballs. The perfect\ncombination of premium meat and exquisite\nspices that captivates the hearts of food",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "675e423da4fb465d76a7b13e8a0ce045f25b58dbc4627731e44a19af99f9a5b9"
+  }
+}

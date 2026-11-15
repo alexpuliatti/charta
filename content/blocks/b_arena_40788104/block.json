@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40788104",
+  "type": "image",
+  "title": "Concrete Retreat",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-retreat",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a064fee5de6b2663176d3c22.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Retreat",
+      "role": "original",
+      "bytes": 882056,
+      "sha256": "a064fee5de6b2663176d3c22015636fffccca250e79daba37c8e86216246db50",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40788104/original_6fb6a4cce6bfd56525cc1c24d3013468.jpg",
+      "originalName": "6fb6a4cce6bfd56525cc1c24d3013468.jpg"
+    },
+    {
+      "path": "assets/thumbnail-67a253488bf6cbcdbe2d7e39.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Retreat",
+      "role": "thumbnail",
+      "bytes": 20530,
+      "sha256": "67a253488bf6cbcdbe2d7e39430ebafa95248b67d404c645415580cf63468697",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4ODEwNC9vcmlnaW5hbF82ZmI2YTRjY2U2YmZkNTY1MjVjYzFjMjRkMzAxMzQ2OC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6fb6a4cce6bfd56525cc1c24d3013468.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a064fee5de6b2663176d3c22-a064fee5de.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Retreat",
+      "bytes": 476324,
+      "sha256": "0bc1b2de4f782b8b766130c54960057aaee2f3fe5aaa95b6cd4917298bab8e72",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a064fee5de6b2663176d3c22.jpg",
+        "sourceSha256": "a064fee5de6b2663176d3c22015636fffccca250e79daba37c8e86216246db50",
+        "originalBytes": 882056,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:12:02.000Z",
+  "updatedAt": "2025-11-02T16:12:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40788104",
+    "title": "donborsch-20250214_202250-2181331446.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40788104,
+      "url": "https://www.are.na/block/40788104",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "donborsch-20250214_202250-2181331446.jpg",
+      "createdAt": "2025-11-02T16:12:02Z",
+      "updatedAt": "2025-11-02T16:12:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "donborsch-20250214_202250-2181331446.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Retreat",
+    "text": "ROMAN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0bc1b2de4f782b8b766130c54960057aaee2f3fe5aaa95b6cd4917298bab8e72"
+  }
+}

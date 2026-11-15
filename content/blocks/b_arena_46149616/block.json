@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149616",
+  "type": "link",
+  "title": "3D Composition",
+  "description": "Figma Weave - Pro-grade design workflows, Powered by any AI model",
+  "category": "Graphic design",
+  "tags": [
+    "3d-text",
+    "artificial-intelligence",
+    "workflow"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-95f147787ce1dd21238af8d7.webp",
+      "mimeType": "image/webp",
+      "alt": "3D Composition - Text",
+      "role": "thumbnail",
+      "bytes": 360,
+      "sha256": "95f147787ce1dd21238af8d719ab32da0acf9806e7cebfd1798920337ccd3b7f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTYxNi9vcmlnaW5hbF84ZGYxZjFiOGU4ZDg0NzEzODY5MGY1ZjU1YWQ2ZDZiNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8df1f1b8e8d847138690f5f55ad6d6b6.png"
+    },
+    {
+      "path": "assets/preview-1f3b80a5034aa97fbd857fd3.webp",
+      "mimeType": "image/webp",
+      "alt": "3D Composition - Text",
+      "role": "preview",
+      "bytes": 1764,
+      "sha256": "1f3b80a5034aa97fbd857fd33af64f4aee31c3a1765ec57efc3eaee5179b67c1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149616/original_8df1f1b8e8d847138690f5f55ad6d6b6.png",
+      "originalName": "8df1f1b8e8d847138690f5f55ad6d6b6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 26153,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:33:33.000Z",
+  "updatedAt": "2026-05-14T15:33:42.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://app.weavy.ai/flow/zDHjYfS1m1rk0PBfaLkdvG/",
+    "title": "3D Composition - Text",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149616,
+      "url": "https://www.are.na/block/46149616",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "3D Composition - Text",
+      "createdAt": "2026-05-14T15:33:33Z",
+      "updatedAt": "2026-05-14T15:33:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "3D Composition - Text",
+      "category": "3D and computational design",
+      "tags": [
+        "music",
+        "3d-design",
+        "artificial-intelligence",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

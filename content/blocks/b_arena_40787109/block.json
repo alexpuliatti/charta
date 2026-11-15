@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787109",
+  "type": "image",
+  "title": "Blue Tower",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "blue-tower",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9b34c26c8a5e0dc817609c00.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Tower",
+      "role": "original",
+      "bytes": 162110,
+      "sha256": "9b34c26c8a5e0dc817609c00539920847627646f14a18d1499db258e9f2d36d8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787109/original_c88d58c00c0df65845ff49ea14113140.jpg",
+      "originalName": "c88d58c00c0df65845ff49ea14113140.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f8e3b93971a9efb9c2960227.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Tower",
+      "role": "thumbnail",
+      "bytes": 10484,
+      "sha256": "f8e3b93971a9efb9c2960227934e8836a57c53293f33b310358e34d00090a691",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwOS9vcmlnaW5hbF9jODhkNThjMDBjMGRmNjU4NDVmZjQ5ZWExNDExMzE0MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c88d58c00c0df65845ff49ea14113140.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9b34c26c8a5e0dc817609c00-9b34c26c8a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Tower",
+      "bytes": 130896,
+      "sha256": "d1feda004adc8b98884bc649508c57aa3e57aab5025920c05ac987e8cfb4bf6c",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9b34c26c8a5e0dc817609c00.jpg",
+        "sourceSha256": "9b34c26c8a5e0dc817609c00539920847627646f14a18d1499db258e9f2d36d8",
+        "originalBytes": 162110,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:52.000Z",
+  "updatedAt": "2025-11-02T15:26:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787109",
+    "title": "pure_audio_project-20231205_171329-2279780935.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787109,
+      "url": "https://www.are.na/block/40787109",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "pure_audio_project-20231205_171329-2279780935.jpg",
+      "createdAt": "2025-11-02T15:26:52Z",
+      "updatedAt": "2025-11-02T15:26:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pure_audio_project-20231205_171329-2279780935.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Tower",
+    "text": "PUREAUDIOPROJECT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d1feda004adc8b98884bc649508c57aa3e57aab5025920c05ac987e8cfb4bf6c"
+  }
+}

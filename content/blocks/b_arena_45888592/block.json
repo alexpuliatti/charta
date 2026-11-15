@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888592",
+  "type": "image",
+  "title": "Eye Contact",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "eye-contact",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6f477867e44a84298448589d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Eye Contact",
+      "role": "original",
+      "bytes": 40169,
+      "sha256": "6f477867e44a84298448589de4f2357e3ec6fc989ad69194554d7308113abe8a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888592/original_6785140b99f71b10fc6601e5bb3a47bd.jpeg",
+      "originalName": "6785140b99f71b10fc6601e5bb3a47bd.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e5b1d02eb194564dfc9f248a.webp",
+      "mimeType": "image/webp",
+      "alt": "Eye Contact",
+      "role": "thumbnail",
+      "bytes": 4276,
+      "sha256": "e5b1d02eb194564dfc9f248a914f1573855481b7e02dbc97c1c016382fecdc7f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU5Mi9vcmlnaW5hbF82Nzg1MTQwYjk5ZjcxYjEwZmM2NjAxZTViYjNhNDdiZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6785140b99f71b10fc6601e5bb3a47bd.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6f477867e44a84298448589d-6f477867e4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Eye Contact",
+      "bytes": 20932,
+      "sha256": "734aa9492f3af1064e374300291aa80d5f800368a27105b2d26a2b8fc9556f28",
+      "width": 648,
+      "height": 647,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6f477867e44a84298448589d.jpg",
+        "sourceSha256": "6f477867e44a84298448589de4f2357e3ec6fc989ad69194554d7308113abe8a",
+        "originalBytes": 40169,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:17.000Z",
+  "updatedAt": "2026-05-06T12:23:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888592",
+    "title": "b175caf773d9e625784a22a9cd0b7c94.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888592,
+      "url": "https://www.are.na/block/45888592",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b175caf773d9e625784a22a9cd0b7c94.jpg",
+      "createdAt": "2026-05-06T12:23:17Z",
+      "updatedAt": "2026-05-06T12:23:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b175caf773d9e625784a22a9cd0b7c94.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Eye Contact",
+    "text": "EYE TO EYE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "734aa9492f3af1064e374300291aa80d5f800368a27105b2d26a2b8fc9556f28"
+  }
+}

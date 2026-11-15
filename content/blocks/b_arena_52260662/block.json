@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_52260662",
+  "type": "link",
+  "title": "BoardUI Components",
+  "description": "Build agentic products and data-rich dashboards with 103 React components (19 chart cards), 10 Pro templates, Tailwind CSS, and editable source code.",
+  "category": "Interface design",
+  "tags": [
+    "react",
+    "dashboards",
+    "components"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2461dd8eca1847142e4fdc72.webp",
+      "mimeType": "image/webp",
+      "alt": "BoardUI - React Design System for Dashboards",
+      "role": "thumbnail",
+      "bytes": 9672,
+      "sha256": "2461dd8eca1847142e4fdc7222acd621f4a2dce7fc743d228651e83538e3c229",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MjI2MDY2Mi9vcmlnaW5hbF81NmM1NmViNGNjMjVkNzhmZDdiMWNjOGIxNDAzMmQzYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "56c56eb4cc25d78fd7b1cc8b14032d3a.png"
+    },
+    {
+      "path": "assets/preview-13561e886aab733cdf25523c.webp",
+      "mimeType": "image/webp",
+      "alt": "BoardUI - React Design System for Dashboards",
+      "role": "preview",
+      "bytes": 195232,
+      "sha256": "13561e886aab733cdf25523c2bb0367277a0d9e4e58716cb589b1754333e29d2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/52260662/original_56c56eb4cc25d78fd7b1cc8b14032d3a.png",
+      "originalName": "56c56eb4cc25d78fd7b1cc8b14032d3a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 431381,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-02T18:14:39.000Z",
+  "updatedAt": "2026-11-02T18:15:05.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.boardui.com/components",
+    "title": "BoardUI - React Design System for Dashboards",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 52260662,
+      "url": "https://www.are.na/block/52260662",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "BoardUI - React Design System for Dashboards",
+      "createdAt": "2026-11-02T18:14:39Z",
+      "updatedAt": "2026-11-02T18:15:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "BoardUI - React Design System for Dashboards",
+      "category": "Tools and resources",
+      "tags": [
+        "programming",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

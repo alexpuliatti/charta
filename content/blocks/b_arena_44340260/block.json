@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340260",
+  "type": "image",
+  "title": "Glyph Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "glyph-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9eaff759531fefdd9ba28d5a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glyph Identity",
+      "role": "original",
+      "bytes": 83506,
+      "sha256": "9eaff759531fefdd9ba28d5ae3f0682645748246f22b82dd991ec900dc7ed9c5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340260/original_37361a159ad99f58723b033a1e3b7757.jpg",
+      "originalName": "37361a159ad99f58723b033a1e3b7757.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c598ca5cc4add1db85f347fc.webp",
+      "mimeType": "image/webp",
+      "alt": "Glyph Identity",
+      "role": "thumbnail",
+      "bytes": 12248,
+      "sha256": "c598ca5cc4add1db85f347fc0ed5cf06b8683d12a36497a80eda78d691cc6143",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI2MC9vcmlnaW5hbF8zNzM2MWExNTlhZDk5ZjU4NzIzYjAzM2ExZTNiNzc1Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "37361a159ad99f58723b033a1e3b7757.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9eaff759531fefdd9ba28d5a-9eaff75953.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glyph Identity",
+      "bytes": 44224,
+      "sha256": "5c37b62b5763fd1fc7937e7482aee01c01662e1d22097a31d802740378ade326",
+      "width": 736,
+      "height": 954,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9eaff759531fefdd9ba28d5a.jpg",
+        "sourceSha256": "9eaff759531fefdd9ba28d5ae3f0682645748246f22b82dd991ec900dc7ed9c5",
+        "originalBytes": 83506,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340260",
+    "title": "ce7bd008fa1027eb1c2eb6c6359feb55.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340260,
+      "url": "https://www.are.na/block/44340260",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ce7bd008fa1027eb1c2eb6c6359feb55.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ce7bd008fa1027eb1c2eb6c6359feb55.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glyph Identity",
+    "text": "FD\nWATCH\nIS\nDEEPLY\nLOVED AND\nSOUGHT\nAFTER. FIRST\nOF ALL, IT'S\nTHE BEST\nGIFT. WHETH-\nER YOU GIVE\nIT TO YOUR\nLOVER, RELA-\nTIVES, COL-\nLEAGUES,\nFRIENDS,\nLEADERS, HE\nHAS DIFFER-\nENT EXPRES-\nSIONS.\nPROVIDE\nINNOVATIVE\nPRODUCTS\n7058\nINNOVATIVE\nPRODUCTS\nPRODUCTS\n0356\nPROVIDE\nUNIQUE\n01/007\nINGENUITY CREATES EXTRAORDINARY\nUNIQUE\nPRODUCTS\nWatch is deeply loved and\nsought after. First of all, it's\nthe best gift. Whether you\ngive it to your lover, rela-\ntives, colleaques, friends,\nleaders, he has dilferent\nexpressions. Secondly. he\nis also a persons identity\nsymbol. For example, like\njewelry and diamonds, he\nhas the value of collection\nand appreciation.\nPROVIDE\nINNOVATIVE\nPRODUCTS\n0356\n7058\n7058\n0356\nPROVIDE\nINNOVATIVE\nPRODUCTS\nUNIQUE\nPRODUCTS\n01/007\nINGENUITY CREATES EXTRAORDINARY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5c37b62b5763fd1fc7937e7482aee01c01662e1d22097a31d802740378ade326"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787628",
+  "type": "image",
+  "title": "Window Monitors",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "window-monitors",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-955f638a09bcc797c519034a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Window Monitors",
+      "role": "original",
+      "bytes": 198102,
+      "sha256": "955f638a09bcc797c519034a38757b5f2a61f1e72ad2ad80366d4575cdf40390",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787628/original_e0e3030a3864b299b42fc5e7e87658d9.jpg",
+      "originalName": "e0e3030a3864b299b42fc5e7e87658d9.jpg"
+    },
+    {
+      "path": "assets/thumbnail-ff483322ebe6ccd7b8763880.webp",
+      "mimeType": "image/webp",
+      "alt": "Window Monitors",
+      "role": "thumbnail",
+      "bytes": 12356,
+      "sha256": "ff483322ebe6ccd7b8763880b58e2e2cecbc52c0c06b4b88a91218986f6cc023",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzYyOC9vcmlnaW5hbF9lMGUzMDMwYTM4NjRiMjk5YjQyZmM1ZTdlODc2NThkOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e0e3030a3864b299b42fc5e7e87658d9.jpg"
+    },
+    {
+      "path": "assets/display-web-original-955f638a09bcc797c519034a-955f638a09.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Window Monitors",
+      "bytes": 130988,
+      "sha256": "83ce0c5465e7ed020d77e8835410e1a5943e55482f77600dcd99ebcf914b4eab",
+      "width": 1170,
+      "height": 1435,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-955f638a09bcc797c519034a.jpg",
+        "sourceSha256": "955f638a09bcc797c519034a38757b5f2a61f1e72ad2ad80366d4575cdf40390",
+        "originalBytes": 198102,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:51:33.000Z",
+  "updatedAt": "2025-11-02T15:51:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787628",
+    "title": "0d4949338f7896a8f11c07eacae03072.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787628,
+      "url": "https://www.are.na/block/40787628",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "0d4949338f7896a8f11c07eacae03072.jpg",
+      "createdAt": "2025-11-02T15:51:33Z",
+      "updatedAt": "2025-11-02T15:51:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "0d4949338f7896a8f11c07eacae03072.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Window Monitors",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "83ce0c5465e7ed020d77e8835410e1a5943e55482f77600dcd99ebcf914b4eab"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892498",
+  "type": "video",
+  "title": "Canvas Workspace",
+  "description": "wrapped up the demo for Interspace a few nights ago!\nInterspace is a non-tabular and spatial information mapping tool that helps you discover webs of information you gather for yourself and others.\nit allows you to recontextualize and source content that you save or create from any of your existing social media platforms all in one space.\nit's geared towards insight making and emphasizes the process of gathering/picking information",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "canvas-workspace",
+    "interaction-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-095ac60bcb8dc019f55939ad.mp4",
+      "mimeType": "video/mp4",
+      "alt": "shrawberry on X @shrawberryy",
+      "role": "original",
+      "bytes": 7171304,
+      "sha256": "095ac60bcb8dc019f55939ad13b4d1c51849991ab305bd032226fb4b4c7f44a0",
+      "sourceUrl": "https://attachments.are.na/45892498/d64985f79dc2f654644592d22bf81b7c.mp4",
+      "originalName": "d64985f79dc2f654644592d22bf81b7c.mp4"
+    },
+    {
+      "path": "assets/thumbnail-15704c4224d5b6f249381837.webp",
+      "mimeType": "image/webp",
+      "alt": "Canvas Workspace",
+      "role": "thumbnail",
+      "bytes": 3532,
+      "sha256": "15704c4224d5b6f24938183784edaf47c8c941fdd72b044d0567564d16b81c4a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjQ5OC9vcmlnaW5hbF9iYmQ1OWMyNjJjNjllNTMyMjAyNjA1MDYtMi15Z2hkc2oucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "bbd59c262c69e53220260506-2-yghdsj.png"
+    },
+    {
+      "path": "assets/preview-8c746fb864a57459dc7a5c95.webp",
+      "mimeType": "image/webp",
+      "alt": "shrawberry on X @shrawberryy",
+      "role": "preview",
+      "bytes": 23924,
+      "sha256": "8c746fb864a57459dc7a5c950e3ee03c651f05570f8540446b8ddc52e5ae29af",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892498/original_bbd59c262c69e53220260506-2-yghdsj.png",
+      "originalName": "bbd59c262c69e53220260506-2-yghdsj.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 193959,
+        "width": 1112,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:39:11.000Z",
+  "updatedAt": "2026-05-06T14:39:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/shrawberryy/status/1776011518921908485",
+    "title": "shrawberry on X @shrawberryy",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892498,
+      "url": "https://www.are.na/block/45892498",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "shrawberry on X @shrawberryy",
+      "createdAt": "2026-05-06T14:39:11Z",
+      "updatedAt": "2026-05-06T14:39:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "shrawberry on X @shrawberryy",
+      "category": "Digital design",
+      "tags": [
+        "tools",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Canvas Workspace",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "15704c4224d5b6f24938183784edaf47c8c941fdd72b044d0567564d16b81c4a"
+  }
+}

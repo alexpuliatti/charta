@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_21879574",
+  "type": "image",
+  "title": "Pear Layers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "pear-layers",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-104ab29fb1b4ba541fcc8892.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Pear Layers",
+      "role": "original",
+      "bytes": 34835,
+      "sha256": "104ab29fb1b4ba541fcc88924a160e3ddd99deaae65264646be0ceb3f286214c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/21879574/original_cfcd7b84892fb18f0e1411e1784f82af.jpg",
+      "originalName": "cfcd7b84892fb18f0e1411e1784f82af.jpg"
+    },
+    {
+      "path": "assets/thumbnail-09cf35e8c1868bcaee5700d9.webp",
+      "mimeType": "image/webp",
+      "alt": "Pear Layers",
+      "role": "thumbnail",
+      "bytes": 4988,
+      "sha256": "09cf35e8c1868bcaee5700d975924c304f4cc3fd3772ba6b3b3baeab8d276935",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMTg3OTU3NC9vcmlnaW5hbF9jZmNkN2I4NDg5MmZiMThmMGUxNDExZTE3ODRmODJhZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cfcd7b84892fb18f0e1411e1784f82af.jpg"
+    },
+    {
+      "path": "assets/display-web-original-104ab29fb1b4ba541fcc8892-104ab29fb1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pear Layers",
+      "bytes": 20124,
+      "sha256": "e941c267a01d1a07da0f7e8857bbc64151272170a2ec0974e4a8dea8f0331dc1",
+      "width": 750,
+      "height": 938,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-104ab29fb1b4ba541fcc8892.jpg",
+        "sourceSha256": "104ab29fb1b4ba541fcc88924a160e3ddd99deaae65264646be0ceb3f286214c",
+        "originalBytes": 34835,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-05-17T22:37:17.000Z",
+  "updatedAt": "2026-09-30T18:16:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/21879574",
+    "title": "8.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 21879574,
+      "url": "https://www.are.na/block/21879574",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "8.jpeg",
+      "createdAt": "2023-05-17T22:37:17Z",
+      "updatedAt": "2026-09-30T18:16:58Z",
+      "addedBy": {
+        "id": 391870,
+        "name": "alsu 🌞  ",
+        "slug": "alsu"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "8.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pear Layers",
+    "text": "OREGON\nSTATE FRUIT\nPEAR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e941c267a01d1a07da0f7e8857bbc64151272170a2ec0974e4a8dea8f0331dc1"
+  }
+}

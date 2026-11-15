@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700895",
+  "type": "image",
+  "title": "Reading Pair",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "reading-pair",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-04e2b05701dbc9bee8e85ed1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Reading Pair",
+      "role": "original",
+      "bytes": 85487,
+      "sha256": "04e2b05701dbc9bee8e85ed16e5c1ea517849c2b9793dc5a9f64667992e0f055",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700895/original_a1338a514a4681ed01b2906e38ebf668.jpeg",
+      "originalName": "a1338a514a4681ed01b2906e38ebf668.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-54681b8a86af232453a19199.webp",
+      "mimeType": "image/webp",
+      "alt": "Reading Pair",
+      "role": "thumbnail",
+      "bytes": 28490,
+      "sha256": "54681b8a86af232453a191997a108d7a13d556d162f41488afc65b6d03a3a55d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg5NS9vcmlnaW5hbF9hMTMzOGE1MTRhNDY4MWVkMDFiMjkwNmUzOGViZjY2OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a1338a514a4681ed01b2906e38ebf668.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:32.000Z",
+  "updatedAt": "2026-07-08T14:54:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700895",
+    "title": "0d0e696110bd4794c0ec5133df205f96",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700895,
+      "url": "https://www.are.na/block/47700895",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "0d0e696110bd4794c0ec5133df205f96",
+      "createdAt": "2026-07-08T14:54:32Z",
+      "updatedAt": "2026-07-08T14:54:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "0d0e696110bd4794c0ec5133df205f96",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Reading Pair",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "04e2b05701dbc9bee8e85ed16e5c1ea517849c2b9793dc5a9f64667992e0f055"
+  }
+}

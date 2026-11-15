@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892941",
+  "type": "link",
+  "title": "Vibe Research",
+  "description": "A blog about coding (mostly) in Python for empirical research in finance",
+  "category": "Writing",
+  "tags": [
+    "research",
+    "artificial-intelligence",
+    "academic-writing"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9ba5cf27c2545f167d1df30e.webp",
+      "mimeType": "image/webp",
+      "alt": "Vibe Research, or How I Wrote an Academic Paper in Four Days – Vincent Codes Finance",
+      "role": "thumbnail",
+      "bytes": 17974,
+      "sha256": "9ba5cf27c2545f167d1df30eb73b4d2a57857e7b6651e1bd4b296106227c3ff0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjk0MS9vcmlnaW5hbF9mNTgyOGE0N2YxM2U5Yzk0MGY2NGI3YjRiMWY0NzAwMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f5828a47f13e9c940f64b7b4b1f47001.png"
+    },
+    {
+      "path": "assets/preview-1831224b36641426d0d25dbb.webp",
+      "mimeType": "image/webp",
+      "alt": "Vibe Research, or How I Wrote an Academic Paper in Four Days – Vincent Codes Finance",
+      "role": "preview",
+      "bytes": 143074,
+      "sha256": "1831224b36641426d0d25dbb56f92a7437e5ca2be9f9bec07184d67748f73040",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892941/original_f5828a47f13e9c940f64b7b4b1f47001.png",
+      "originalName": "f5828a47f13e9c940f64b7b4b1f47001.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 501033,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:52:38.000Z",
+  "updatedAt": "2026-05-06T14:52:44.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://vincent.codes.finance/posts/vibe-research-paper/",
+    "title": "Vibe Research, or How I Wrote an Academic Paper in Four Days – Vincent Codes Finance",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892941,
+      "url": "https://www.are.na/block/45892941",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Vibe Research, or How I Wrote an Academic Paper in Four Days – Vincent Codes Finance",
+      "createdAt": "2026-05-06T14:52:38Z",
+      "updatedAt": "2026-05-06T14:52:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Vibe Research, or How I Wrote an Academic Paper in Four Days – Vincent Codes Finance",
+      "category": "Information design",
+      "tags": [
+        "research",
+        "programming",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45892933",
+      "reason": "Both describe practical AI workflows for producing work, with the second applying AI-assisted iteration to academic writing.",
+      "method": "curation-v1"
+    }
+  ]
+}

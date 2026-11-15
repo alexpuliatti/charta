@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137290",
+  "type": "image",
+  "title": "Amphitheatre Crowd",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "amphitheatre-crowd",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f424004b2c2a7405e22fd214.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Amphitheatre Crowd",
+      "role": "original",
+      "bytes": 209955,
+      "sha256": "f424004b2c2a7405e22fd21482b83881b866fcd61a7d43ae1b0140a21c60529e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137290/original_9f76cc73205393f1901331db36c47d35.jpg",
+      "originalName": "9f76cc73205393f1901331db36c47d35.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2e7b5ec1df46f3d41f4ce047.webp",
+      "mimeType": "image/webp",
+      "alt": "Amphitheatre Crowd",
+      "role": "thumbnail",
+      "bytes": 22872,
+      "sha256": "2e7b5ec1df46f3d41f4ce047dedf81e08cce215f7f868f0f041dd84bd1b9b711",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI5MC9vcmlnaW5hbF85Zjc2Y2M3MzIwNTM5M2YxOTAxMzMxZGIzNmM0N2QzNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9f76cc73205393f1901331db36c47d35.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f424004b2c2a7405e22fd214-f424004b2c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Amphitheatre Crowd",
+      "bytes": 159740,
+      "sha256": "50c89f9a9ba979c1cf369a51e62604f128c3b3eb2f4a2e3f2b2b295ed0897800",
+      "width": 1179,
+      "height": 1464,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f424004b2c2a7405e22fd214.jpg",
+        "sourceSha256": "f424004b2c2a7405e22fd21482b83881b866fcd61a7d43ae1b0140a21c60529e",
+        "originalBytes": 209955,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:16.000Z",
+  "updatedAt": "2026-03-04T15:46:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137290",
+    "title": "_numeroventi_-20251019_180834-2061877233.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137290,
+      "url": "https://www.are.na/block/44137290",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_numeroventi_-20251019_180834-2061877233.jpg",
+      "createdAt": "2026-03-04T15:46:16Z",
+      "updatedAt": "2026-03-04T15:46:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_numeroventi_-20251019_180834-2061877233.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Amphitheatre Crowd",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "50c89f9a9ba979c1cf369a51e62604f128c3b3eb2f4a2e3f2b2b295ed0897800"
+  }
+}

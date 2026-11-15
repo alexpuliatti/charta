@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701003",
+  "type": "image",
+  "title": "Jazz Covers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "jazz-covers",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9454aae01e6da883add524c9.png",
+      "mimeType": "image/png",
+      "alt": "Jazz Covers",
+      "role": "original",
+      "bytes": 2478065,
+      "sha256": "9454aae01e6da883add524c95d5b8a99c9742c0a0ad76459373565b7244100e5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701003/original_0c873d4004e14862aee12ed05bd98167.png",
+      "originalName": "0c873d4004e14862aee12ed05bd98167.png"
+    },
+    {
+      "path": "assets/thumbnail-558284f3aa408d80da82f2c7.webp",
+      "mimeType": "image/webp",
+      "alt": "Jazz Covers",
+      "role": "thumbnail",
+      "bytes": 18644,
+      "sha256": "558284f3aa408d80da82f2c7e732711ee81967ab1c7fe30cd4e2759079521614",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAwMy9vcmlnaW5hbF8wYzg3M2Q0MDA0ZTE0ODYyYWVlMTJlZDA1YmQ5ODE2Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0c873d4004e14862aee12ed05bd98167.png"
+    },
+    {
+      "path": "assets/display-web-original-9454aae01e6da883add524c9-9454aae01e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Jazz Covers",
+      "bytes": 225562,
+      "sha256": "7c5b96a98b748fe2ecb5fc7c4f4cc7491156bb49f36f6c83825e4be82b2c546e",
+      "width": 1564,
+      "height": 1212,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9454aae01e6da883add524c9.png",
+        "sourceSha256": "9454aae01e6da883add524c95d5b8a99c9742c0a0ad76459373565b7244100e5",
+        "originalBytes": 2478065,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:07.000Z",
+  "updatedAt": "2026-07-08T14:56:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701003",
+    "title": "Screenshot 2023-09-12 alle 16.51.46",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701003,
+      "url": "https://www.are.na/block/47701003",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.51.46",
+      "createdAt": "2026-07-08T14:56:07Z",
+      "updatedAt": "2026-07-08T14:56:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.51.46",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Jazz Covers",
+    "text": "NORMAN GORANZ.\nNORMAN\nGRANZ'\nJAZZ AT THE\nPHILHARMONIC\nNORMAN\nGRANZ'\nJAZZ AT THE\nPHILHARMONIC\nNORMAN GRANZ'\nJAZZ\nAT THE\nPHILHARMONIC\n*17th NATIONAL\nTOUR\nONIC\n12th TOUR\n4th NATIONAL TOUR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7c5b96a98b748fe2ecb5fc7c4f4cc7491156bb49f36f6c83825e4be82b2c546e"
+  }
+}

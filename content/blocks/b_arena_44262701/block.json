@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44262701",
+  "type": "link",
+  "title": "Mercury OS",
+  "description": "Mercury is a reimaging of the operating system as a fluid modeless experience drive by human intent.",
+  "category": "Interface design",
+  "tags": [
+    "operating-systems",
+    "modeless-interfaces",
+    "speculative-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ebc1d9871d6597dd798e0079.webp",
+      "mimeType": "image/webp",
+      "alt": "MercuryOS",
+      "role": "thumbnail",
+      "bytes": 1168,
+      "sha256": "ebc1d9871d6597dd798e007908e1f0cec8139be033751c760915464d12f2f502",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI2MjcwMS9vcmlnaW5hbF80MjJlMzNhOTcwODYzZDY2ZjFiOWZlMGFlYzQ5MDRkOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "422e33a970863d66f1b9fe0aec4904d8.png"
+    },
+    {
+      "path": "assets/preview-fa8e6f9d393f55a9e78c8641.webp",
+      "mimeType": "image/webp",
+      "alt": "MercuryOS",
+      "role": "preview",
+      "bytes": 42862,
+      "sha256": "fa8e6f9d393f55a9e78c864166717c22c3bbc9b4ada05a7d88d45069d2450d9a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44262701/original_422e33a970863d66f1b9fe0aec4904d8.png",
+      "originalName": "422e33a970863d66f1b9fe0aec4904d8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 351463,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-09T12:48:01.000Z",
+  "updatedAt": "2026-03-09T12:48:06.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.mercuryos.com/",
+    "title": "MercuryOS",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44262701,
+      "url": "https://www.are.na/block/44262701",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "MercuryOS",
+      "createdAt": "2026-03-09T12:48:01Z",
+      "updatedAt": "2026-03-09T12:48:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "MercuryOS",
+      "category": "Digital design",
+      "tags": [
+        "operating-systems",
+        "interfaces",
+        "modeless-design",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

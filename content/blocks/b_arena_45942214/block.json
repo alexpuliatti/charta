@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942214",
+  "type": "image",
+  "title": "Atomic Translation",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "atomic-translation",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-88ed0e34976e77f4d64ac8c4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Atomic Translation",
+      "role": "original",
+      "bytes": 345558,
+      "sha256": "88ed0e34976e77f4d64ac8c43e360ea2e62a956c312f00d52a8988b320568413",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942214/original_d91b219a0e405b2c3b75357441c71199.jpeg",
+      "originalName": "d91b219a0e405b2c3b75357441c71199.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-636b14764ca1415bc554e998.webp",
+      "mimeType": "image/webp",
+      "alt": "Atomic Translation",
+      "role": "thumbnail",
+      "bytes": 5128,
+      "sha256": "636b14764ca1415bc554e9985c52ab8db2904dbafc4bf86cf224f46a9ae473a2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIxNC9vcmlnaW5hbF9kOTFiMjE5YTBlNDA1YjJjM2I3NTM1NzQ0MWM3MTE5OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d91b219a0e405b2c3b75357441c71199.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-88ed0e34976e77f4d64ac8c4-88ed0e3497.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Atomic Translation",
+      "bytes": 58802,
+      "sha256": "4f8f014ae6d75959da04ac1f5e7718677e61c70bf345f4e019e1107ae0861341",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-88ed0e34976e77f4d64ac8c4.jpg",
+        "sourceSha256": "88ed0e34976e77f4d64ac8c43e360ea2e62a956c312f00d52a8988b320568413",
+        "originalBytes": 345558,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:32.000Z",
+  "updatedAt": "2026-05-08T09:25:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942214",
+    "title": "hhnguzfaqaacxoa.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942214,
+      "url": "https://www.are.na/block/45942214",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhnguzfaqaacxoa.jpeg",
+      "createdAt": "2026-05-08T09:25:32Z",
+      "updatedAt": "2026-05-08T09:25:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhnguzfaqaacxoa.jpeg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Atomic Translation",
+    "text": "THE FUTURE WILL BE BUILT WITH\nMATERIALS CREATED BY AI THAT NO\nHUMAN HAS YET IMAGINED.\nPLASMA FACING MATERIALS\nFOR FUSION REACTORS\nATOMIC TESSELLATOR\nUnlike lithium or cobalt, they cannot simply be swapped\nout for another supplier when supply runs short.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4f8f014ae6d75959da04ac1f5e7718677e61c70bf345f4e019e1107ae0861341"
+  }
+}

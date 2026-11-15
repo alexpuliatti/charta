@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888931",
+  "type": "video",
+  "title": "Glass Desk",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "glass-desk",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-63de78931df4b36f8dca2c24.mp4",
+      "mimeType": "video/mp4",
+      "alt": "samuelemazzadesigner-20241229_172239-1091725312.mp4",
+      "role": "original",
+      "bytes": 5295406,
+      "sha256": "63de78931df4b36f8dca2c24599011882aee3a5e4409aaf6f532b0d14d288bf5",
+      "sourceUrl": "https://attachments.are.na/45888931/3cbcd00ffd38ba42f8e7a0d7011eff78.mp4",
+      "originalName": "3cbcd00ffd38ba42f8e7a0d7011eff78.mp4"
+    },
+    {
+      "path": "assets/thumbnail-411482ee32816b08faa482ca.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Desk",
+      "role": "thumbnail",
+      "bytes": 6776,
+      "sha256": "411482ee32816b08faa482ca9970c3d7d4ab4d0b9621af62edfdca9b4de845c4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODkzMS9vcmlnaW5hbF80OWU4OGU4MTlmOWI3M2E5MjAyNjA1MDYtMi1nMXZxYWEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "49e88e819f9b73a920260506-2-g1vqaa.png"
+    },
+    {
+      "path": "assets/preview-2b45d7c256a664b00974b0cb.webp",
+      "mimeType": "image/webp",
+      "alt": "samuelemazzadesigner-20241229_172239-1091725312.mp4",
+      "role": "preview",
+      "bytes": 53742,
+      "sha256": "2b45d7c256a664b00974b0cb9cd69afa3092cbaa1221b078e5f38bdb5f5f739f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888931/original_49e88e819f9b73a920260506-2-g1vqaa.png",
+      "originalName": "49e88e819f9b73a920260506-2-g1vqaa.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 834527,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:35:54.000Z",
+  "updatedAt": "2026-05-06T12:36:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888931",
+    "title": "samuelemazzadesigner-20241229_172239-1091725312.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888931,
+      "url": "https://www.are.na/block/45888931",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "samuelemazzadesigner-20241229_172239-1091725312.mp4",
+      "createdAt": "2026-05-06T12:35:54Z",
+      "updatedAt": "2026-05-06T12:36:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "samuelemazzadesigner-20241229_172239-1091725312.mp4",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Desk",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "411482ee32816b08faa482ca9970c3d7d4ab4d0b9621af62edfdca9b4de845c4"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786812",
+  "type": "image",
+  "title": "Aluminium Monitor",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "aluminium-monitor",
+    "audio-hardware",
+    "loudspeakers",
+    "speaker-project"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c7cba74072bc0efea0f287f8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Aluminium Monitor",
+      "role": "original",
+      "bytes": 157120,
+      "sha256": "c7cba74072bc0efea0f287f84c72b90e6fb9e811e9cb7f905b1e7e43bcef7ec0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786812/original_b72d61f439381d80b848b3e452193349.jpg",
+      "originalName": "b72d61f439381d80b848b3e452193349.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8462953772f7317e11790504.webp",
+      "mimeType": "image/webp",
+      "alt": "Aluminium Monitor",
+      "role": "thumbnail",
+      "bytes": 6592,
+      "sha256": "8462953772f7317e117905047feab1655798aa4d507ef2b9e42c60afd0f3fcc5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NjgxMi9vcmlnaW5hbF9iNzJkNjFmNDM5MzgxZDgwYjg0OGIzZTQ1MjE5MzM0OS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b72d61f439381d80b848b3e452193349.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c7cba74072bc0efea0f287f8-c7cba74072.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Aluminium Monitor",
+      "bytes": 117856,
+      "sha256": "43a73a411557f70bdd334b61e57db1f5c0ed65b8480e5bb36dc228dda539c460",
+      "width": 901,
+      "height": 1600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c7cba74072bc0efea0f287f8.jpg",
+        "sourceSha256": "c7cba74072bc0efea0f287f84c72b90e6fb9e811e9cb7f905b1e7e43bcef7ec0",
+        "originalBytes": 157120,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:10:49.000Z",
+  "updatedAt": "2026-05-11T09:08:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786812",
+    "title": "5c33336bd30e80aa62771f8762700860.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786812,
+      "url": "https://www.are.na/block/40786812",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "5c33336bd30e80aa62771f8762700860.jpg",
+      "createdAt": "2025-11-02T15:10:49Z",
+      "updatedAt": "2026-05-11T09:08:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "5c33336bd30e80aa62771f8762700860.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speaker-project",
+        "speakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126",
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Aluminium Monitor",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "43a73a411557f70bdd334b61e57db1f5c0ed65b8480e5bb36dc228dda539c460"
+  }
+}

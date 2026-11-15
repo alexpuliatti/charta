@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889788",
+  "type": "image",
+  "title": "Pixel Map",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "pixel-map",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-633a97b9010d0addcf9bb2a5.png",
+      "mimeType": "image/png",
+      "alt": "Pixel Map",
+      "role": "original",
+      "bytes": 5098946,
+      "sha256": "633a97b9010d0addcf9bb2a541143070034f1e36a8f2699ebd412d0a56465c2f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889788/original_5e63c982d6c8609c3e6ac230bbc45979.png",
+      "originalName": "5e63c982d6c8609c3e6ac230bbc45979.png"
+    },
+    {
+      "path": "assets/thumbnail-4046782274a98159c7dba7ab.webp",
+      "mimeType": "image/webp",
+      "alt": "Pixel Map",
+      "role": "thumbnail",
+      "bytes": 13072,
+      "sha256": "4046782274a98159c7dba7abc0c9be18261ba2c99c48d2e73ce40467061a1653",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTc4OC9vcmlnaW5hbF81ZTYzYzk4MmQ2Yzg2MDljM2U2YWMyMzBiYmM0NTk3OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5e63c982d6c8609c3e6ac230bbc45979.png"
+    },
+    {
+      "path": "assets/display-web-original-633a97b9010d0addcf9bb2a5-633a97b901.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pixel Map",
+      "bytes": 372192,
+      "sha256": "b6a8b422126ce10400a954d51dc4bed0184385c3ea561b2497a28921cfa22273",
+      "width": 2000,
+      "height": 1253,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-633a97b9010d0addcf9bb2a5.png",
+        "sourceSha256": "633a97b9010d0addcf9bb2a541143070034f1e36a8f2699ebd412d0a56465c2f",
+        "originalBytes": 5098946,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:10:57.000Z",
+  "updatedAt": "2026-05-06T13:11:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889788",
+    "title": "screenshot-2026-04-30-alle-09.35.54.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889788,
+      "url": "https://www.are.na/block/45889788",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-30-alle-09.35.54.png",
+      "createdAt": "2026-05-06T13:10:57Z",
+      "updatedAt": "2026-05-06T13:11:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-30-alle-09.35.54.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pixel Map",
+    "text": "(6, 1)\nOxf39F...2266\nmutation resistance: 9\n•\nworld view\nLEARNE\nepoch 1",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b6a8b422126ce10400a954d51dc4bed0184385c3ea561b2497a28921cfa22273"
+  }
+}

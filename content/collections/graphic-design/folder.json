@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "f_curated_graphic_design",
+  "title": "Graphic design",
+  "order": 1,
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

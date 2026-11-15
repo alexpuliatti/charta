@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_architecture_interiors",
+  "title": "Interiors",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_48329205"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_48329203"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_48329204"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247930"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247925"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247926"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247927"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890041"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890036"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890027"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890005"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889985"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889957"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889934"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888931"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888896"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888430"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888431"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888429"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888336"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888303"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888304"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888305"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888306"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888307"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888265"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44342227"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44342225"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340322"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340304"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340306"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340309"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340311"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340312"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340317"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137349"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995859"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995858"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995845"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995838"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995837"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995836"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995828"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995826"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995819"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995818"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_43995815"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40788108"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40788104"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40788103"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40788085"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787985"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787987"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787983"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787972"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787973"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787975"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787971"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787956"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787916"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787911"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787912"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787913"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787914"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787867"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787868"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787870"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787855"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787856"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787852"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787853"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787848"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787849"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787850"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787851"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787845"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787846"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787834"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787835"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787825"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787636"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787180"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787108"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787104"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_36194951"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_30726105"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_37657607",
+  "type": "link",
+  "title": "INO Jewelry",
+  "description": "INO is a modern, unisex jewelry brand focusing on purity and sustainability based out of New York. INO crafts rings, ear cuffs, necklaces, bracelets, and chains out of recycled 14-karat solid gold and 925 sterling silver for men and women.",
+  "category": "Objects",
+  "tags": [
+    "jewelry",
+    "recycled-materials",
+    "accessories"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-77180edba166c617e5b6975e.webp",
+      "mimeType": "image/webp",
+      "alt": "Fine Jewelry | 925 Silver | 14k Solid Gold | INO Online Jewelry Shop",
+      "role": "thumbnail",
+      "bytes": 7904,
+      "sha256": "77180edba166c617e5b6975ec1e98079f8abf2b9f19b16246e9e59ae300b068c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzNzY1NzYwNy9vcmlnaW5hbF80MjhjYmQ0Yjk5YWI0NDlkNDBiYzdkMDg2ZmUxZTE3Zi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "428cbd4b99ab449d40bc7d086fe1e17f.png"
+    },
+    {
+      "path": "assets/preview-761ec6d072621bf5644af5ad.webp",
+      "mimeType": "image/webp",
+      "alt": "Fine Jewelry | 925 Silver | 14k Solid Gold | INO Online Jewelry Shop",
+      "role": "preview",
+      "bytes": 686654,
+      "sha256": "761ec6d072621bf5644af5ad16f1a475864985eb13ff75410c93f03041276cc4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/37657607/original_428cbd4b99ab449d40bc7d086fe1e17f.png",
+      "originalName": "428cbd4b99ab449d40bc7d086fe1e17f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 5379806,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-06-24T21:06:09.000Z",
+  "updatedAt": "2026-05-10T20:20:19.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://ino.jewelry/",
+    "title": "Fine Jewelry | 925 Silver | 14k Solid Gold | INO Online Jewelry Shop",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 37657607,
+      "url": "https://www.are.na/block/37657607",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Fine Jewelry | 925 Silver | 14k Solid Gold | INO Online Jewelry Shop",
+      "createdAt": "2025-06-24T21:06:09Z",
+      "updatedAt": "2026-05-10T20:20:19Z",
+      "addedBy": {
+        "id": 62001,
+        "name": "Matija Gabrilo",
+        "slug": "matija-gabrilo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Fine Jewelry | 925 Silver | 14k Solid Gold | INO Online Jewelry Shop",
+      "category": "Fashion",
+      "tags": [
+        "jewelry",
+        "accessories",
+        "product-design",
+        "fashion",
+        "objects"
+      ],
+      "collectionIds": [
+        "c_arena_4921285"
+      ]
+    }
+  }
+}

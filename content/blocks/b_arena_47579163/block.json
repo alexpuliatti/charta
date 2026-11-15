@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579163",
+  "type": "image",
+  "title": "Alpine Film",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "alpine-film",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e3528012ce3dd20b6d8ac930.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Alpine Film",
+      "role": "original",
+      "bytes": 958115,
+      "sha256": "e3528012ce3dd20b6d8ac9300dc7e7f45b873e5f06f7d559f6a6badff258291b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579163/original_f89ef109af73c7c02a753127ce70a30e.jpeg",
+      "originalName": "f89ef109af73c7c02a753127ce70a30e.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-4af574dc55697067d7d8313a.webp",
+      "mimeType": "image/webp",
+      "alt": "Alpine Film",
+      "role": "thumbnail",
+      "bytes": 15392,
+      "sha256": "4af574dc55697067d7d8313ac82eab7d9dd8bada5e1396414056e0bedc3a9c48",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE2My9vcmlnaW5hbF9mODllZjEwOWFmNzNjN2MwMmE3NTMxMjdjZTcwYTMwZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "f89ef109af73c7c02a753127ce70a30e.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-e3528012ce3dd20b6d8ac930-e3528012ce.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Alpine Film",
+      "bytes": 353782,
+      "sha256": "3fff8c9ca6a70d583d13b2de590ff0c39432ffa5b44ac1924a323edf5a56d512",
+      "width": 1920,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e3528012ce3dd20b6d8ac930.jpg",
+        "sourceSha256": "e3528012ce3dd20b6d8ac9300dc7e7f45b873e5f06f7d559f6a6badff258291b",
+        "originalBytes": 958115,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:35:19.000Z",
+  "updatedAt": "2026-07-04T15:35:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579163",
+    "title": "etnasnow00000000",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579163,
+      "url": "https://www.are.na/block/47579163",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "etnasnow00000000",
+      "createdAt": "2026-07-04T15:35:19Z",
+      "updatedAt": "2026-07-04T15:35:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "etnasnow00000000",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Alpine Film",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3fff8c9ca6a70d583d13b2de590ff0c39432ffa5b44ac1924a323edf5a56d512"
+  }
+}

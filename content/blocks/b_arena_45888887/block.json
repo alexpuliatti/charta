@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888887",
+  "type": "video",
+  "title": "Night Interaction",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "night-interaction",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a74fdcc15c4fb2f9286fa44b.mp4",
+      "mimeType": "video/mp4",
+      "alt": "mindspiritdesign-20251204_135434-1859682741.mp4",
+      "role": "original",
+      "bytes": 901357,
+      "sha256": "a74fdcc15c4fb2f9286fa44b1f2a60a2868090125a9667adea4f860df97ba1b1",
+      "sourceUrl": "https://attachments.are.na/45888887/5469dd7ca4f15e988e265174d4f81367.mp4",
+      "originalName": "5469dd7ca4f15e988e265174d4f81367.mp4"
+    },
+    {
+      "path": "assets/thumbnail-433e9d842c7bd481aa1f4dc2.webp",
+      "mimeType": "image/webp",
+      "alt": "Night Interaction",
+      "role": "thumbnail",
+      "bytes": 1876,
+      "sha256": "433e9d842c7bd481aa1f4dc2c56f72ecdb7b5f466015707c44cf8b0bef6d995e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg4Ny9vcmlnaW5hbF9jZjRhZmQyZWZhMzY1NDNjMjAyNjA1MDYtMi1wYmdpcmoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "cf4afd2efa36543c20260506-2-pbgirj.png"
+    },
+    {
+      "path": "assets/preview-5f7556b2b654798f8890931b.webp",
+      "mimeType": "image/webp",
+      "alt": "mindspiritdesign-20251204_135434-1859682741.mp4",
+      "role": "preview",
+      "bytes": 13966,
+      "sha256": "5f7556b2b654798f8890931bdd1f501b3825ce18faab73a4fe066c23649420db",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888887/original_cf4afd2efa36543c20260506-2-pbgirj.png",
+      "originalName": "cf4afd2efa36543c20260506-2-pbgirj.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 154070,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:34:15.000Z",
+  "updatedAt": "2026-05-06T12:34:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888887",
+    "title": "mindspiritdesign-20251204_135434-1859682741.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888887,
+      "url": "https://www.are.na/block/45888887",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "mindspiritdesign-20251204_135434-1859682741.mp4",
+      "createdAt": "2026-05-06T12:34:15Z",
+      "updatedAt": "2026-05-06T12:34:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "mindspiritdesign-20251204_135434-1859682741.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Night Interaction",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "433e9d842c7bd481aa1f4dc2c56f72ecdb7b5f466015707c44cf8b0bef6d995e"
+  }
+}

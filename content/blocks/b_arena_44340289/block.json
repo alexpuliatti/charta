@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340289",
+  "type": "image",
+  "title": "Blue Tracklist",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "blue-tracklist",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a90644ae38745d6e8251c189.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Tracklist",
+      "role": "original",
+      "bytes": 50777,
+      "sha256": "a90644ae38745d6e8251c189a53b97a4bde5760581b56dc25187c5377edd1fb5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340289/original_5df0af5222dc0156b894444302dbed18.jpg",
+      "originalName": "5df0af5222dc0156b894444302dbed18.jpg"
+    },
+    {
+      "path": "assets/thumbnail-91067c16b26d396816708e5f.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Tracklist",
+      "role": "thumbnail",
+      "bytes": 10000,
+      "sha256": "91067c16b26d396816708e5f94ade50135891369629e30e15bea930a8f44b09b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI4OS9vcmlnaW5hbF81ZGYwYWY1MjIyZGMwMTU2Yjg5NDQ0NDMwMmRiZWQxOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5df0af5222dc0156b894444302dbed18.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a90644ae38745d6e8251c189-a90644ae38.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Tracklist",
+      "bytes": 38260,
+      "sha256": "b56b9e380f387a9936a73a66d6e2a8d1609cb5ebd9d7a26a583e980829294287",
+      "width": 700,
+      "height": 700,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a90644ae38745d6e8251c189.jpg",
+        "sourceSha256": "a90644ae38745d6e8251c189a53b97a4bde5760581b56dc25187c5377edd1fb5",
+        "originalBytes": 50777,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-07-10T20:24:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340289",
+    "title": "3ace5327556e58c1e16a01ce458e82b5.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340289,
+      "url": "https://www.are.na/block/44340289",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "3ace5327556e58c1e16a01ce458e82b5.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-07-10T20:24:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "3ace5327556e58c1e16a01ce458e82b5.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Tracklist",
+    "text": "Dariah Academy of Staste Copenhagen May 2014 sUrrosk The Damih Art Ceonall and The Denith BrosSesting Compans:\nIX MOVEMENTS\n• LE BRIN CROIX 9.2\nI SORROW 9.43\nII. JUMNA 5.47\nIV. KOLLAPS 6.09\nV. DER RUF 4.16\nVI. WHAT A DAY 8.11\nVIl. ARCA HYMN 3.04\nVIlI. RASAMI 7.19\nIX. WINGS 7.27",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b56b9e380f387a9936a73a66d6e2a8d1609cb5ebd9d7a26a583e980829294287"
+  }
+}

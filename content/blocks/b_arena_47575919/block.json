@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47575919",
+  "type": "link",
+  "title": "Image Scraper",
+  "description": "Extract and download all images from any webpage instantly.",
+  "category": "Graphic design",
+  "tags": [
+    "images",
+    "scraping",
+    "web-tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2418127796093f71149ee4b6.webp",
+      "mimeType": "image/webp",
+      "alt": "ImageScraper - Extract All Images From Any URL",
+      "role": "thumbnail",
+      "bytes": 6044,
+      "sha256": "2418127796093f71149ee4b674bce97ea86adccfedb80ed3c0fbd764406fe6fa",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3NTkxOS9vcmlnaW5hbF8zZmRjMmVlZGJhOTYxNzY5ODRhZWRiMGMwYmViNmZhMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3fdc2eedba96176984aedb0c0beb6fa0.png"
+    },
+    {
+      "path": "assets/preview-51b0a8ba481e39c94b145656.webp",
+      "mimeType": "image/webp",
+      "alt": "ImageScraper - Extract All Images From Any URL",
+      "role": "preview",
+      "bytes": 98444,
+      "sha256": "51b0a8ba481e39c94b1456561665c7fcf4ca01cd44c28acdae44fc4e6112cd0f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47575919/original_3fdc2eedba96176984aedb0c0beb6fa0.png",
+      "originalName": "3fdc2eedba96176984aedb0c0beb6fa0.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 241699,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T11:43:03.000Z",
+  "updatedAt": "2026-07-04T11:43:10.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://imgscraper.com/",
+    "title": "ImageScraper - Extract All Images From Any URL",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47575919,
+      "url": "https://www.are.na/block/47575919",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "ImageScraper - Extract All Images From Any URL",
+      "createdAt": "2026-07-04T11:43:03Z",
+      "updatedAt": "2026-07-04T11:43:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ImageScraper - Extract All Images From Any URL",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

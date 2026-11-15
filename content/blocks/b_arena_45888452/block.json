@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888452",
+  "type": "image",
+  "title": "Radial Timeline",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "radial-timeline",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-59dd1f64c55772f00190dc2a.png",
+      "mimeType": "image/png",
+      "alt": "Radial Timeline",
+      "role": "original",
+      "bytes": 152687,
+      "sha256": "59dd1f64c55772f00190dc2af7b340b2404ce873ad0edbf6a187fd11ffb2ee3a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888452/original_474a4346070cf115106427278f04a82c.png",
+      "originalName": "474a4346070cf115106427278f04a82c.png"
+    },
+    {
+      "path": "assets/thumbnail-2cb46c67bdb017faf9aa75f5.webp",
+      "mimeType": "image/webp",
+      "alt": "Radial Timeline",
+      "role": "thumbnail",
+      "bytes": 3318,
+      "sha256": "2cb46c67bdb017faf9aa75f5139bfd26267c905eeaa2f14ae01ad6c96ebbf506",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ1Mi9vcmlnaW5hbF80NzRhNDM0NjA3MGNmMTE1MTA2NDI3Mjc4ZjA0YTgyYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "474a4346070cf115106427278f04a82c.png"
+    },
+    {
+      "path": "assets/display-web-original-59dd1f64c55772f00190dc2a-59dd1f64c5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Radial Timeline",
+      "bytes": 9560,
+      "sha256": "62c238ade5d70480c4691a424ce7838c4493b86a86c58a11d352fb3bc71e7898",
+      "width": 808,
+      "height": 848,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-59dd1f64c55772f00190dc2a.png",
+        "sourceSha256": "59dd1f64c55772f00190dc2af7b340b2404ce873ad0edbf6a187fd11ffb2ee3a",
+        "originalBytes": 152687,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:20.000Z",
+  "updatedAt": "2026-05-06T12:17:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888452",
+    "title": "screenshot-2026-03-30-alle-12.07.45.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888452,
+      "url": "https://www.are.na/block/45888452",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-30-alle-12.07.45.png",
+      "createdAt": "2026-05-06T12:17:20Z",
+      "updatedAt": "2026-05-06T12:17:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-30-alle-12.07.45.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Radial Timeline",
+    "text": "Radial Timeline",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "62c238ade5d70480c4691a424ce7838c4493b86a86c58a11d352fb3bc71e7898"
+  }
+}

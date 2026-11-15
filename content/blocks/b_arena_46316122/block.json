@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46316122",
+  "type": "link",
+  "title": "Agency Gallery",
+  "description": "Discover highly curated creative agencies, modern web design inspiration, and top agency portfolio examples updated regularly.",
+  "category": "Interface design",
+  "tags": [
+    "web-design",
+    "agencies",
+    "inspiration"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-198e37c1333c150b73bd3bcb.webp",
+      "mimeType": "image/webp",
+      "alt": "Discover the Best Agency Websites In The World | Agency Gallery",
+      "role": "thumbnail",
+      "bytes": 13466,
+      "sha256": "198e37c1333c150b73bd3bcb9f648a35d4e9fe0df669d4fee00fdd9d9269db38",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjMxNjEyMi9vcmlnaW5hbF9lZTRkYWJmZGQxYmI4YTk2Zjc3ZGQwM2FmYzRhNmY2Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ee4dabfdd1bb8a96f77dd03afc4a6f67.png"
+    },
+    {
+      "path": "assets/preview-26e2be2aaeb90da982ef73e6.webp",
+      "mimeType": "image/webp",
+      "alt": "Discover the Best Agency Websites In The World | Agency Gallery",
+      "role": "preview",
+      "bytes": 248454,
+      "sha256": "26e2be2aaeb90da982ef73e65c5b8d7dc0d6c8d11fee64e1b1f3f9d8d77713cd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46316122/original_ee4dabfdd1bb8a96f77dd03afc4a6f67.png",
+      "originalName": "ee4dabfdd1bb8a96f77dd03afc4a6f67.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1341881,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-19T11:42:59.000Z",
+  "updatedAt": "2026-05-19T11:43:11.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://agencygallery.com/",
+    "title": "Discover the Best Agency Websites In The World | Agency Gallery",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46316122,
+      "url": "https://www.are.na/block/46316122",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Discover the Best Agency Websites In The World | Agency Gallery",
+      "createdAt": "2026-05-19T11:42:59Z",
+      "updatedAt": "2026-05-19T11:43:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Discover the Best Agency Websites In The World | Agency Gallery",
+      "category": "Digital design",
+      "tags": [
+        "web-design",
+        "contemporary-art",
+        "inspiration",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

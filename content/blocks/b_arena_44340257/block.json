@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340257",
+  "type": "image",
+  "title": "Geometric Spread",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "geometric-spread",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1805589e3738aaf8caaa24ea.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Geometric Spread",
+      "role": "original",
+      "bytes": 83081,
+      "sha256": "1805589e3738aaf8caaa24eac847bf5af8495e77e405d37c8b879a08f6b1ce95",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340257/original_fe48b60e6a94886666d84e14df808e3f.jpg",
+      "originalName": "fe48b60e6a94886666d84e14df808e3f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f75c9e26b0b18f156119482e.webp",
+      "mimeType": "image/webp",
+      "alt": "Geometric Spread",
+      "role": "thumbnail",
+      "bytes": 4578,
+      "sha256": "f75c9e26b0b18f156119482eaba4f3a2b28ce4973ffb686f384c50600e17a679",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1Ny9vcmlnaW5hbF9mZTQ4YjYwZTZhOTQ4ODY2NjZkODRlMTRkZjgwOGUzZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fe48b60e6a94886666d84e14df808e3f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-1805589e3738aaf8caaa24ea-1805589e37.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Geometric Spread",
+      "bytes": 42546,
+      "sha256": "a213492be7e01aa4852c39518abfcd854b00ec42ecfa3f7b8f3aeb056501b0f1",
+      "width": 1440,
+      "height": 961,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1805589e3738aaf8caaa24ea.jpg",
+        "sourceSha256": "1805589e3738aaf8caaa24eac847bf5af8495e77e405d37c8b879a08f6b1ce95",
+        "originalBytes": 83081,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340257",
+    "title": "madisonoud-20260309_182854-1909027704.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340257,
+      "url": "https://www.are.na/block/44340257",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "madisonoud-20260309_182854-1909027704.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "madisonoud-20260309_182854-1909027704.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Geometric Spread",
+    "text": "WIFE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a213492be7e01aa4852c39518abfcd854b00ec42ecfa3f7b8f3aeb056501b0f1"
+  }
+}

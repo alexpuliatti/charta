@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_writing_culture",
+  "title": "Culture",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47700869"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46980357"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46980007"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46980006"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892899"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889841"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889816"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889805"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44227382"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_41379695"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_41336554"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_41336502"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40761688"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_25595195"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_6722076"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136965",
+  "type": "image",
+  "title": "Fanny Alexander",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "fanny-alexander",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-28dc312976d66fd596a330ab.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Fanny Alexander",
+      "role": "original",
+      "bytes": 225274,
+      "sha256": "28dc312976d66fd596a330ab6bf622fe031c008f5c1476b0188f9747fe9bc007",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136965/original_0b91d541863025dcf057611160ceb107.jpg",
+      "originalName": "0b91d541863025dcf057611160ceb107.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d13303d20799c038e410747d.webp",
+      "mimeType": "image/webp",
+      "alt": "Fanny Alexander",
+      "role": "thumbnail",
+      "bytes": 10128,
+      "sha256": "d13303d20799c038e410747d145c5667aff8f92b5fec423b12588f29d171395b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk2NS9vcmlnaW5hbF8wYjkxZDU0MTg2MzAyNWRjZjA1NzYxMTE2MGNlYjEwNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0b91d541863025dcf057611160ceb107.jpg"
+    },
+    {
+      "path": "assets/display-web-original-28dc312976d66fd596a330ab-28dc312976.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Fanny Alexander",
+      "bytes": 192644,
+      "sha256": "b6737d21ae33a377f0a65db851c6b4333b95fb4d60b9870ff57a284459372d5d",
+      "width": 1288,
+      "height": 1610,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-28dc312976d66fd596a330ab.jpg",
+        "sourceSha256": "28dc312976d66fd596a330ab6bf622fe031c008f5c1476b0188f9747fe9bc007",
+        "originalBytes": 225274,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:06.000Z",
+  "updatedAt": "2026-03-04T15:36:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136965",
+    "title": "criterioncollection-20260129_061114-2876497914.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136965,
+      "url": "https://www.are.na/block/44136965",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "criterioncollection-20260129_061114-2876497914.jpg",
+      "createdAt": "2026-03-04T15:36:06Z",
+      "updatedAt": "2026-03-04T15:36:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "criterioncollection-20260129_061114-2876497914.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Fanny Alexander",
+    "text": "C\n1982\nTHE CRITERION COLLECTION\nINGMAR BERGMAN'S\nFANNY &\nALEXANDER\nTHETELEVISION VERSION",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b6737d21ae33a377f0a65db851c6b4333b95fb4d60b9870ff57a284459372d5d"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168853",
+  "type": "image",
+  "title": "Wave Texture",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "wave-texture",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2c1aa8f85e725c671c7774d2.png",
+      "mimeType": "image/png",
+      "alt": "Wave Texture",
+      "role": "original",
+      "bytes": 2354478,
+      "sha256": "2c1aa8f85e725c671c7774d24fb8160497e3b5ab83087bd9c9fd5ff306512395",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168853/original_537680dbc18267d9214d3ab38e174eb5.png",
+      "originalName": "537680dbc18267d9214d3ab38e174eb5.png"
+    },
+    {
+      "path": "assets/thumbnail-30ca8a145696c73bad5bd0fa.webp",
+      "mimeType": "image/webp",
+      "alt": "Wave Texture",
+      "role": "thumbnail",
+      "bytes": 54250,
+      "sha256": "30ca8a145696c73bad5bd0fa655eec2cee14253b988a5a68d35af440683d5191",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg1My9vcmlnaW5hbF81Mzc2ODBkYmMxODI2N2Q5MjE0ZDNhYjM4ZTE3NGViNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "537680dbc18267d9214d3ab38e174eb5.png"
+    },
+    {
+      "path": "assets/display-web-original-2c1aa8f85e725c671c7774d2-2c1aa8f85e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Wave Texture",
+      "bytes": 465978,
+      "sha256": "91de2907d798a3b3a9f6d1f3c0be32cb6f2c03edec944ec195df57adb05e111c",
+      "width": 896,
+      "height": 889,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2c1aa8f85e725c671c7774d2.png",
+        "sourceSha256": "2c1aa8f85e725c671c7774d24fb8160497e3b5ab83087bd9c9fd5ff306512395",
+        "originalBytes": 2354478,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-03-05T15:46:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168853",
+    "title": "hcoospjxqaavtmn.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168853,
+      "url": "https://www.are.na/block/44168853",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcoospjxqaavtmn.png",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-03-05T15:46:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcoospjxqaavtmn.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wave Texture",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "91de2907d798a3b3a9f6d1f3c0be32cb6f2c03edec944ec195df57adb05e111c"
+  }
+}

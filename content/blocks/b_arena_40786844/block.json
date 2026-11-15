@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786844",
+  "type": "image",
+  "title": "Clear Arrays",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "clear-arrays",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8da196f077705569f24f9b53.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Clear Arrays",
+      "role": "original",
+      "bytes": 263350,
+      "sha256": "8da196f077705569f24f9b53ab7b3ed98f72153c5b6b4876e33141e278abc20a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786844/original_73331da8cf0a4e3c045ec3191030f119.jpg",
+      "originalName": "73331da8cf0a4e3c045ec3191030f119.jpg"
+    },
+    {
+      "path": "assets/thumbnail-be2eff4c5aa31c07a3891208.webp",
+      "mimeType": "image/webp",
+      "alt": "Clear Arrays",
+      "role": "thumbnail",
+      "bytes": 24248,
+      "sha256": "be2eff4c5aa31c07a38912088ce4594b2d7bbae78337ad28780fc71ed22f88f9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Njg0NC9vcmlnaW5hbF83MzMzMWRhOGNmMGE0ZTNjMDQ1ZWMzMTkxMDMwZjExOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "73331da8cf0a4e3c045ec3191030f119.jpg"
+    },
+    {
+      "path": "assets/display-web-original-8da196f077705569f24f9b53-8da196f077.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Clear Arrays",
+      "bytes": 257644,
+      "sha256": "83bf7a26ca49abcb59bb67c239eebf3587d1cb58533f681b9979595087059011",
+      "width": 1440,
+      "height": 1345,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8da196f077705569f24f9b53.jpg",
+        "sourceSha256": "8da196f077705569f24f9b53ab7b3ed98f72153c5b6b4876e33141e278abc20a",
+        "originalBytes": 263350,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:12:57.000Z",
+  "updatedAt": "2025-11-02T15:12:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786844",
+    "title": "sub.global-20250401_211339-454939355.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786844,
+      "url": "https://www.are.na/block/40786844",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "sub.global-20250401_211339-454939355.jpg",
+      "createdAt": "2025-11-02T15:12:57Z",
+      "updatedAt": "2025-11-02T15:12:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sub.global-20250401_211339-454939355.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Clear Arrays",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "83bf7a26ca49abcb59bb67c239eebf3587d1cb58533f681b9979595087059011"
+  }
+}

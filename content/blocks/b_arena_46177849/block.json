@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177849",
+  "type": "link",
+  "title": "Paul Soulhiard",
+  "description": "Freelance interactive designer who codes, based in Paris — moving between art direction and engineering across web experiences and frontend projects.",
+  "category": "Interface design",
+  "tags": [
+    "interactive-design",
+    "creative-coding",
+    "portfolio"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-d6b5e0e74ca311bbf5524e3f.webp",
+      "mimeType": "image/webp",
+      "alt": "Paul Soulhiard - Interactive Design & Code",
+      "role": "thumbnail",
+      "bytes": 520,
+      "sha256": "d6b5e0e74ca311bbf5524e3f224ed8e4a67ed20e911ce12ad03e2013ad99d3b0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3Nzg0OS9vcmlnaW5hbF81NmM4MzE4ZWZlNjg2NDA1NDNkNWM0ZWE3ODFhNjg0OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "56c8318efe68640543d5c4ea781a6849.png"
+    },
+    {
+      "path": "assets/preview-1b783105a4edf4062c083449.webp",
+      "mimeType": "image/webp",
+      "alt": "Paul Soulhiard - Interactive Design & Code",
+      "role": "preview",
+      "bytes": 8802,
+      "sha256": "1b783105a4edf4062c08344904164db81610c997f4447ccc0b64374dc4a39c8a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177849/original_56c8318efe68640543d5c4ea781a6849.png",
+      "originalName": "56c8318efe68640543d5c4ea781a6849.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 38794,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:12:06.000Z",
+  "updatedAt": "2026-05-15T12:12:12.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://paulsoulhiard.com/",
+    "title": "Paul Soulhiard - Interactive Design & Code",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177849,
+      "url": "https://www.are.na/block/46177849",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Paul Soulhiard - Interactive Design & Code",
+      "createdAt": "2026-05-15T12:12:06Z",
+      "updatedAt": "2026-05-15T12:12:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Paul Soulhiard - Interactive Design & Code",
+      "category": "Digital design",
+      "tags": [
+        "interaction-design",
+        "programming",
+        "art-direction",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

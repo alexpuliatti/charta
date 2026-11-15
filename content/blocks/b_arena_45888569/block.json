@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888569",
+  "type": "image",
+  "title": "Help Lettering",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "help-lettering",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-811bd183c12a21888efd7610.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Help Lettering",
+      "role": "original",
+      "bytes": 540190,
+      "sha256": "811bd183c12a21888efd7610f6f601c59dab430e9438b0cbc13ae85f649ccaac",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888569/original_9a38c958b86f1d206e11e1c1490d4d64.jpeg",
+      "originalName": "9a38c958b86f1d206e11e1c1490d4d64.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-223174a047126c33179e40df.webp",
+      "mimeType": "image/webp",
+      "alt": "Help Lettering",
+      "role": "thumbnail",
+      "bytes": 6886,
+      "sha256": "223174a047126c33179e40df3d06c9ed5f11cf72c3ea85b35636612af26f8837",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU2OS9vcmlnaW5hbF85YTM4Yzk1OGI4NmYxZDIwNmUxMWUxYzE0OTBkNGQ2NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "9a38c958b86f1d206e11e1c1490d4d64.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:22:25.000Z",
+  "updatedAt": "2026-05-06T12:22:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888569",
+    "title": "a6.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888569,
+      "url": "https://www.are.na/block/45888569",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a6.jpg",
+      "createdAt": "2026-05-06T12:22:25Z",
+      "updatedAt": "2026-05-06T12:22:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a6.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Help Lettering",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "811bd183c12a21888efd7610f6f601c59dab430e9438b0cbc13ae85f649ccaac"
+  }
+}

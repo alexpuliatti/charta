@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786825",
+  "type": "image",
+  "title": "Stone Horn",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "stone-horn",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ffb380b3c020625379b82cc9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Stone Horn",
+      "role": "original",
+      "bytes": 130386,
+      "sha256": "ffb380b3c020625379b82cc97e2f1191ca9959cf643119ee2cc025d8d4b2ab23",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786825/original_5bdf9a4bb33a0c69ab979b1b4a78d766.jpg",
+      "originalName": "5bdf9a4bb33a0c69ab979b1b4a78d766.jpg"
+    },
+    {
+      "path": "assets/thumbnail-a91a7d6868494e79fd5b6105.webp",
+      "mimeType": "image/webp",
+      "alt": "Stone Horn",
+      "role": "thumbnail",
+      "bytes": 4792,
+      "sha256": "a91a7d6868494e79fd5b61053da8d711a3826a223403d230b65cb341049adfc1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NjgyNS9vcmlnaW5hbF81YmRmOWE0YmIzM2EwYzY5YWI5NzliMWI0YTc4ZDc2Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5bdf9a4bb33a0c69ab979b1b4a78d766.jpg"
+    },
+    {
+      "path": "assets/display-web-original-ffb380b3c020625379b82cc9-ffb380b3c0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Stone Horn",
+      "bytes": 82710,
+      "sha256": "25bfc4424618c404797b52cae0912a17d9e7088b30c411924945b92a7585f297",
+      "width": 1200,
+      "height": 1799,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ffb380b3c020625379b82cc9.jpg",
+        "sourceSha256": "ffb380b3c020625379b82cc97e2f1191ca9959cf643119ee2cc025d8d4b2ab23",
+        "originalBytes": 130386,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:11:22.000Z",
+  "updatedAt": "2025-11-02T15:11:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786825",
+    "title": "75f4f85b95c332a2ecfc8cd71635cb23.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786825,
+      "url": "https://www.are.na/block/40786825",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "75f4f85b95c332a2ecfc8cd71635cb23.jpg",
+      "createdAt": "2025-11-02T15:11:22Z",
+      "updatedAt": "2025-11-02T15:11:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "75f4f85b95c332a2ecfc8cd71635cb23.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Stone Horn",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "25bfc4424618c404797b52cae0912a17d9e7088b30c411924945b92a7585f297"
+  }
+}

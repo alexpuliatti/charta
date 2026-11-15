@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892486",
+  "type": "link",
+  "title": "Startup Pressure-Test",
+  "description": "Contribute to Kappaemme-git/codex-startup-pressure-test-skill development by creating an account on GitHub.",
+  "category": "Technology",
+  "tags": [
+    "ai-skills",
+    "startups",
+    "product-strategy"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-58a455aa1cd0e0641792dddd.webp",
+      "mimeType": "image/webp",
+      "alt": "codex-startup-pressure-test-skill/startup-pressure-test/SKILL.md at main · Kappaemme-git/codex-startup-pressure-test-skill",
+      "role": "thumbnail",
+      "bytes": 13316,
+      "sha256": "58a455aa1cd0e0641792dddd2fec5075c02d20d56593dba678faec3c6c0bbe05",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjQ4Ni9vcmlnaW5hbF9hYWVmMzVjN2JiMjBjNTU5MWJjMTU3MDhlN2EwYjc4YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "aaef35c7bb20c5591bc15708e7a0b78a.png"
+    },
+    {
+      "path": "assets/preview-7dcdf301640f17636dedfbea.webp",
+      "mimeType": "image/webp",
+      "alt": "codex-startup-pressure-test-skill/startup-pressure-test/SKILL.md at main · Kappaemme-git/codex-startup-pressure-test-skill",
+      "role": "preview",
+      "bytes": 158840,
+      "sha256": "7dcdf301640f17636dedfbea60103993846fd530e90f31e041a8fe30718fa076",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892486/original_aaef35c7bb20c5591bc15708e7a0b78a.png",
+      "originalName": "aaef35c7bb20c5591bc15708e7a0b78a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 476455,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:38:38.000Z",
+  "updatedAt": "2026-05-06T14:38:47.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill/blob/main/startup-pressure-test/SKILL.md",
+    "title": "codex-startup-pressure-test-skill/startup-pressure-test/SKILL.md at main · Kappaemme-git/codex-startup-pressure-test-skill",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892486,
+      "url": "https://www.are.na/block/45892486",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "codex-startup-pressure-test-skill/startup-pressure-test/SKILL.md at main · Kappaemme-git/codex-startup-pressure-test-skill",
+      "createdAt": "2026-05-06T14:38:38Z",
+      "updatedAt": "2026-05-06T14:38:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "codex-startup-pressure-test-skill/startup-pressure-test/SKILL.md at main · Kappaemme-git/codex-startup-pressure-test-skill",
+      "category": "Technology",
+      "tags": [
+        "programming",
+        "open-source",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889791",
+  "type": "image",
+  "title": "Workflow Nodes",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "workflow-nodes",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a12a3d4bef22537b47f1db92.png",
+      "mimeType": "image/png",
+      "alt": "Workflow Nodes",
+      "role": "original",
+      "bytes": 691926,
+      "sha256": "a12a3d4bef22537b47f1db9208cfa177d5853b68d759296c1f7e6033c0fe7d33",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889791/original_069d8919d7e6c93e13f42cb7d80f3688.png",
+      "originalName": "069d8919d7e6c93e13f42cb7d80f3688.png"
+    },
+    {
+      "path": "assets/thumbnail-c382c5bf0159043e5bf6ba4b.webp",
+      "mimeType": "image/webp",
+      "alt": "Workflow Nodes",
+      "role": "thumbnail",
+      "bytes": 2724,
+      "sha256": "c382c5bf0159043e5bf6ba4bfda1bee9d527ba5d63c3fb27ce8dba54e0433ceb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTc5MS9vcmlnaW5hbF8wNjlkODkxOWQ3ZTZjOTNlMTNmNDJjYjdkODBmMzY4OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "069d8919d7e6c93e13f42cb7d80f3688.png"
+    },
+    {
+      "path": "assets/display-web-original-a12a3d4bef22537b47f1db92-a12a3d4bef.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Workflow Nodes",
+      "bytes": 48530,
+      "sha256": "6959fd74a61ee97e8b1914c27ad10cc4947fbaf0ac6e977ad6203f508e41dfd0",
+      "width": 2000,
+      "height": 1238,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a12a3d4bef22537b47f1db92.png",
+        "sourceSha256": "a12a3d4bef22537b47f1db9208cfa177d5853b68d759296c1f7e6033c0fe7d33",
+        "originalBytes": 691926,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:11:07.000Z",
+  "updatedAt": "2026-05-06T13:11:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889791",
+    "title": "screenshot-2026-03-07-alle-23.54.28.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889791,
+      "url": "https://www.are.na/block/45889791",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.54.28.png",
+      "createdAt": "2026-05-06T13:11:07Z",
+      "updatedAt": "2026-05-06T13:11:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.54.28.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Workflow Nodes",
+    "text": "Workflows / User Onboarding V3\n• Webhook Listener\nConfigures the entry point trigger.\n• Filter Logic\nPARAMETERS\nMethod\nPOST\nReset\nBearer\nField\nif (payload.verified) (\nreturn next);\ntrue\nOPTIONS\nValidate Payload\n• Sync to Database\nRetry on Fail\n• Data Transform\nUSAGE (24H)\nRecord Updated\nID: #9942a\nJSON\nCSV\n( \"id\": 1204, \"status\": \"pending\"...)\nLatency: 24ms\nQ\n100%\nExport d\n→ Queue Run\nShare\nDeploy\nC\nSuccess\nDesigned in\nvariant",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6959fd74a61ee97e8b1914c27ad10cc4947fbaf0ac6e977ad6203f508e41dfd0"
+  }
+}

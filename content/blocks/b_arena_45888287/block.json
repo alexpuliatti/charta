@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888287",
+  "type": "video",
+  "title": "Classical Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "classical-website",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-538feace37467c7ae469bdc2.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1777902262787.mp4",
+      "role": "original",
+      "bytes": 2582377,
+      "sha256": "538feace37467c7ae469bdc2162e58c727f8586f1536b18949835a246dc64a94",
+      "sourceUrl": "https://attachments.are.na/45888287/ff7da9ce3ac749282887096f537b0580.mp4",
+      "originalName": "ff7da9ce3ac749282887096f537b0580.mp4"
+    },
+    {
+      "path": "assets/thumbnail-7aea6587434efe94b27dccbe.webp",
+      "mimeType": "image/webp",
+      "alt": "Classical Website",
+      "role": "thumbnail",
+      "bytes": 2748,
+      "sha256": "7aea6587434efe94b27dccbeef0a393d5df2fe0c222f0ab17720dcdeb34e8424",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODI4Ny9vcmlnaW5hbF83M2IwZmQzNmQ2YmViNTc1MjAyNjA1MDYtMi1xbzV5emQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "73b0fd36d6beb57520260506-2-qo5yzd.png"
+    },
+    {
+      "path": "assets/display-web-original-538feace37467c7ae469bdc2-538feace37.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1777902262787.mp4",
+      "bytes": 220247,
+      "sha256": "aa2be5d144d36efe3431d61cadb735ab5b0cd55f528074969ec4d5256d8bfd61",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-538feace37467c7ae469bdc2.mp4",
+        "sourceSha256": "538feace37467c7ae469bdc2162e58c727f8586f1536b18949835a246dc64a94",
+        "originalBytes": 2582377,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-120085219b43e6debc81a207.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1777902262787.mp4",
+      "role": "preview",
+      "bytes": 111258,
+      "sha256": "120085219b43e6debc81a207cfa5f05f6b4a7dc5c4c0a9412691ffd8c5110b8f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888287/original_73b0fd36d6beb57520260506-2-qo5yzd.png",
+      "originalName": "73b0fd36d6beb57520260506-2-qo5yzd.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1955389,
+        "width": 2560,
+        "height": 1440,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:11:53.000Z",
+  "updatedAt": "2026-05-06T12:11:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888287",
+    "title": "ssstwitter.com_1777902262787.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888287,
+      "url": "https://www.are.na/block/45888287",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1777902262787.mp4",
+      "createdAt": "2026-05-06T12:11:53Z",
+      "updatedAt": "2026-05-06T12:11:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1777902262787.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Classical Website",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7aea6587434efe94b27dccbeef0a393d5df2fe0c222f0ab17720dcdeb34e8424"
+  }
+}

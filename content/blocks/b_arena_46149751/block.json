@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149751",
+  "type": "video",
+  "title": "Curve Editor",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "curve-editor",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2d3ff286a1f60ecf6e36b767.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778773135492",
+      "role": "original",
+      "bytes": 2792207,
+      "sha256": "2d3ff286a1f60ecf6e36b7672a54292867629013d502b01598d95d67580b0950",
+      "sourceUrl": "https://attachments.are.na/46149751/33aae8d00689b14f5170279c44859160.mp4",
+      "originalName": "33aae8d00689b14f5170279c44859160.mp4"
+    },
+    {
+      "path": "assets/thumbnail-ca3ee5d5ee61e3bd9af00ea3.webp",
+      "mimeType": "image/webp",
+      "alt": "Curve Editor",
+      "role": "thumbnail",
+      "bytes": 2706,
+      "sha256": "ca3ee5d5ee61e3bd9af00ea34e71c4e8a0d5d01c556c20af8011ed49eafea990",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTc1MS9vcmlnaW5hbF9jNzIwNDg3ODdkZGU1ZDBmMjAyNjA1MTQtMi1ucHJndTYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c72048787dde5d0f20260514-2-nprgu6.png"
+    },
+    {
+      "path": "assets/display-web-original-2d3ff286a1f60ecf6e36b767-2d3ff286a1.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778773135492",
+      "bytes": 888847,
+      "sha256": "d6c176a334a14412a4bb185270166fdd36410fe250afe1ad60f33cba67c9ae83",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2d3ff286a1f60ecf6e36b767.mp4",
+        "sourceSha256": "2d3ff286a1f60ecf6e36b7672a54292867629013d502b01598d95d67580b0950",
+        "originalBytes": 2792207,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-c6d080c71f64a6c29bbcacc6.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778773135492",
+      "role": "preview",
+      "bytes": 63606,
+      "sha256": "c6d080c71f64a6c29bbcacc6c7d9b460a6a01e199f04b45fb72c11f2fec96bb0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149751/original_c72048787dde5d0f20260514-2-nprgu6.png",
+      "originalName": "c72048787dde5d0f20260514-2-nprgu6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 445279,
+        "width": 2128,
+        "height": 1452,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:39:17.000Z",
+  "updatedAt": "2026-05-14T15:39:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46149751",
+    "title": "ssstwitter.com_1778773135492",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149751,
+      "url": "https://www.are.na/block/46149751",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778773135492",
+      "createdAt": "2026-05-14T15:39:17Z",
+      "updatedAt": "2026-05-14T15:39:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778773135492",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Curve Editor",
+    "text": "..<)",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ca3ee5d5ee61e3bd9af00ea34e71c4e8a0d5d01c556c20af8011ed49eafea990"
+  }
+}

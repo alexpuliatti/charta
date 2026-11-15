@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46111081",
+  "type": "video",
+  "title": "Character Editor",
+  "description": "Played around with generating the internal anatomy of a creature (skeletons and organs).\nI used GPT Images 2 to keep the creature anatomy consistent, while the code, interactions and 3D models were generated with @omma_ai  and uses @threejs.",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "character-editor",
+    "3d-design",
+    "programming",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-785f665c1abc1798e1020af4.mp4",
+      "mimeType": "video/mp4",
+      "alt": "Gábor Pribék on X @gaborpribek",
+      "role": "original",
+      "bytes": 5548150,
+      "sha256": "785f665c1abc1798e1020af4b24016eb69b8c2905118f256f2e2c071212a242e",
+      "sourceUrl": "https://attachments.are.na/46111081/a13e650e7a283b9278c688324fb22490.mp4",
+      "originalName": "a13e650e7a283b9278c688324fb22490.mp4"
+    },
+    {
+      "path": "assets/thumbnail-ed7d6373ed8db40a1ca335c3.webp",
+      "mimeType": "image/webp",
+      "alt": "Character Editor",
+      "role": "thumbnail",
+      "bytes": 8594,
+      "sha256": "ed7d6373ed8db40a1ca335c3001fe44eedd76f4fee189cd8ecde17ee9ca1ea56",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjExMTA4MS9vcmlnaW5hbF85Yjk1YjIxY2UwMTdjY2E3MjAyNjA1MTMtMi03NGtlejUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "9b95b21ce017cca720260513-2-74kez5.png"
+    },
+    {
+      "path": "assets/display-web-original-785f665c1abc1798e1020af4-785f665c1a.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "Gábor Pribék on X @gaborpribek",
+      "bytes": 1432151,
+      "sha256": "43b329b76842bd3a6b714669a55c5d908fa54cd06a5214cf281023bb07b26080",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-785f665c1abc1798e1020af4.mp4",
+        "sourceSha256": "785f665c1abc1798e1020af4b24016eb69b8c2905118f256f2e2c071212a242e",
+        "originalBytes": 5548150,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-53e472fa7bbcc445eea33f02.webp",
+      "mimeType": "image/webp",
+      "alt": "Gábor Pribék on X @gaborpribek",
+      "role": "preview",
+      "bytes": 163540,
+      "sha256": "53e472fa7bbcc445eea33f02215ea01d987bd24cfc4018eedaa18b73e1989086",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46111081/original_9b95b21ce017cca720260513-2-74kez5.png",
+      "originalName": "9b95b21ce017cca720260513-2-74kez5.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2458718,
+        "width": 2560,
+        "height": 1920,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:23:55.000Z",
+  "updatedAt": "2026-05-13T10:23:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/i/status/2053879878693380346",
+    "title": "Gábor Pribék on X @gaborpribek",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46111081,
+      "url": "https://www.are.na/block/46111081",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Gábor Pribék on X @gaborpribek",
+      "createdAt": "2026-05-13T10:23:55Z",
+      "updatedAt": "2026-05-13T10:23:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Gábor Pribék on X @gaborpribek",
+      "category": "Tools and resources",
+      "tags": [
+        "3d-design",
+        "programming",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Character Editor",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ed7d6373ed8db40a1ca335c3001fe44eedd76f4fee189cd8ecde17ee9ca1ea56"
+  }
+}

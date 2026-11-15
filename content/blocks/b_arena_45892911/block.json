@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892911",
+  "type": "link",
+  "title": "Component Gallery",
+  "description": "An up-to-date repository of interface components based on examples from the world of design systems, designed to be a reference for anyone building user interfaces.",
+  "category": "Interface design",
+  "tags": [
+    "design-systems",
+    "components",
+    "interface-patterns"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f6484a02d01287ccb2222356.webp",
+      "mimeType": "image/webp",
+      "alt": "Components",
+      "role": "thumbnail",
+      "bytes": 8478,
+      "sha256": "f6484a02d01287ccb22223563afe379b6a24c4d1203860d34648363050e4e612",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjkxMS9vcmlnaW5hbF82M2E4MDVlOTE2MjEwZTgyNzU1ZGJkYzY4ZTY2OTMxZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "63a805e916210e82755dbdc68e66931e.png"
+    },
+    {
+      "path": "assets/preview-57ccdbfe1e36b6583e726c3b.webp",
+      "mimeType": "image/webp",
+      "alt": "Components",
+      "role": "preview",
+      "bytes": 170514,
+      "sha256": "57ccdbfe1e36b6583e726c3b958c4d9f9298088972969d574c415aabb5d88e5f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892911/original_63a805e916210e82755dbdc68e66931e.png",
+      "originalName": "63a805e916210e82755dbdc68e66931e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1097157,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:52:04.000Z",
+  "updatedAt": "2026-05-06T15:08:08.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://component.gallery/components/",
+    "title": "Components",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892911,
+      "url": "https://www.are.na/block/45892911",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Components",
+      "createdAt": "2026-05-06T14:52:04Z",
+      "updatedAt": "2026-05-06T15:08:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Components",
+      "category": "Information design",
+      "tags": [
+        "interfaces",
+        "architecture",
+        "research",
+        "inspiration",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

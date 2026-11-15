@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46016816",
+  "type": "link",
+  "title": "Neurable BCI",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "brain-computer-interfaces",
+    "eeg",
+    "wearables"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e5e41c86a92219f2fba37ab7.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 9520,
+      "sha256": "e5e41c86a92219f2fba37ab7fe8d5ffd2f471ecb6f025d8baf1559efd85f98ff",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxNjgxNi9vcmlnaW5hbF85ZDdiNTk0NmZiNDdkZjliZjFmZGQzNTQxZjAyODM1YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9d7b5946fb47df9bf1fdd3541f02835a.png"
+    },
+    {
+      "path": "assets/preview-7b295a40bc8aadf8ef1d9cec.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 93716,
+      "sha256": "7b295a40bc8aadf8ef1d9cec1afb38f089c90530abe1d2eddb10ad8be3c5d8a4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46016816/original_9d7b5946fb47df9bf1fdd3541f02835a.png",
+      "originalName": "9d7b5946fb47df9bf1fdd3541f02835a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 353382,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T14:06:48.000Z",
+  "updatedAt": "2026-05-11T14:07:14.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.neurable.com/",
+    "title": "Link · MH-companies · 46016816",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46016816,
+      "url": "https://www.are.na/block/46016816",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-11T14:06:48Z",
+      "updatedAt": "2026-05-11T14:07:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · MH-companies · 46016816",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "wellbeing",
+        "mental-health",
+        "mh-companies"
+      ],
+      "collectionIds": [
+        "c_arena_5164043"
+      ]
+    }
+  }
+}

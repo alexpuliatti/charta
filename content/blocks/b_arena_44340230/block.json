@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340230",
+  "type": "image",
+  "title": "Painting Studio",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "painting-studio",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4cb0f05ca3ed7d8674098a2a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Painting Studio",
+      "role": "original",
+      "bytes": 134251,
+      "sha256": "4cb0f05ca3ed7d8674098a2a783ea174ef386a3f377f4b3835712cf37ab48937",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340230/original_61f92f0818aba499f847055416192dea.jpg",
+      "originalName": "61f92f0818aba499f847055416192dea.jpg"
+    },
+    {
+      "path": "assets/thumbnail-9cbb41c0f4d3fbe288e1f26d.webp",
+      "mimeType": "image/webp",
+      "alt": "Painting Studio",
+      "role": "thumbnail",
+      "bytes": 15374,
+      "sha256": "9cbb41c0f4d3fbe288e1f26d7af6d6b6287e079cea7c45138c1d8830957ec4ed",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIzMC9vcmlnaW5hbF82MWY5MmYwODE4YWJhNDk5Zjg0NzA1NTQxNjE5MmRlYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "61f92f0818aba499f847055416192dea.jpg"
+    },
+    {
+      "path": "assets/display-web-original-4cb0f05ca3ed7d8674098a2a-4cb0f05ca3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Painting Studio",
+      "bytes": 99376,
+      "sha256": "2dd2ee87c98ede882612eb03f76c8089c5f9abee2c39fbfa3d2387d57a607f97",
+      "width": 1000,
+      "height": 1000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4cb0f05ca3ed7d8674098a2a.jpg",
+        "sourceSha256": "4cb0f05ca3ed7d8674098a2a783ea174ef386a3f377f4b3835712cf37ab48937",
+        "originalBytes": 134251,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340230",
+    "title": "211a61e507915154fe003df07b7f51bb.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340230,
+      "url": "https://www.are.na/block/44340230",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "211a61e507915154fe003df07b7f51bb.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "211a61e507915154fe003df07b7f51bb.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Painting Studio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2dd2ee87c98ede882612eb03f76c8089c5f9abee2c39fbfa3d2387d57a607f97"
+  }
+}

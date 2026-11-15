@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136938",
+  "type": "image",
+  "title": "Colour Pairings",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "colour-pairings",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-979738c64c680f44aabdc467.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Colour Pairings",
+      "role": "original",
+      "bytes": 120586,
+      "sha256": "979738c64c680f44aabdc46788159bb1035858dc6f77627c8711f4732dee7151",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136938/original_6e126048a1dafaaa66f343fd32eff7f1.jpg",
+      "originalName": "6e126048a1dafaaa66f343fd32eff7f1.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f1280102776ad9880aa78bdd.webp",
+      "mimeType": "image/webp",
+      "alt": "Colour Pairings",
+      "role": "thumbnail",
+      "bytes": 2362,
+      "sha256": "f1280102776ad9880aa78bdd769b966cec52682c1f45aacdd970763f887b0624",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkzOC9vcmlnaW5hbF82ZTEyNjA0OGExZGFmYWFhNjZmMzQzZmQzMmVmZjdmMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6e126048a1dafaaa66f343fd32eff7f1.jpg"
+    },
+    {
+      "path": "assets/display-web-original-979738c64c680f44aabdc467-979738c64c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Colour Pairings",
+      "bytes": 13548,
+      "sha256": "22308b8ac465feddee876f2e8707994c62e0a718cc073c5c1d8809f7f48cf234",
+      "width": 1700,
+      "height": 1152,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-979738c64c680f44aabdc467.jpg",
+        "sourceSha256": "979738c64c680f44aabdc46788159bb1035858dc6f77627c8711f4732dee7151",
+        "originalBytes": 120586,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:16.000Z",
+  "updatedAt": "2026-03-04T15:35:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136938",
+    "title": "original_a98c38158d5499a8b619e507dc4032bd.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136938,
+      "url": "https://www.are.na/block/44136938",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_a98c38158d5499a8b619e507dc4032bd.jpg",
+      "createdAt": "2026-03-04T15:35:16Z",
+      "updatedAt": "2026-03-04T15:35:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_a98c38158d5499a8b619e507dc4032bd.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colour Pairings",
+    "text": "L\nI\nT\nT\nL\nE\nM\nR\nE\nI\nT\nT\nL\nE\nM O\nR\nE\nL\nT\nT\nL\nE\nO R\nE\nL\nT\nT\nL\nE\nM\nE\nLITTLE\nM\nR\nE\nLITTLE\nM\nE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "22308b8ac465feddee876f2e8707994c62e0a718cc073c5c1d8809f7f48cf234"
+  }
+}

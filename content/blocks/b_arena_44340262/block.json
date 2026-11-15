@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340262",
+  "type": "image",
+  "title": "Scale Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "scale-website",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9da59f22fe53509b8caa5511.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Scale Website",
+      "role": "original",
+      "bytes": 124101,
+      "sha256": "9da59f22fe53509b8caa551109986170fc1637f80d7681186b19e48d1c3e2c10",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340262/original_1f37e5bb8555194c78d27fc211eda799.jpg",
+      "originalName": "1f37e5bb8555194c78d27fc211eda799.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e173fbff0b97c372a3fe7860.webp",
+      "mimeType": "image/webp",
+      "alt": "Scale Website",
+      "role": "thumbnail",
+      "bytes": 8806,
+      "sha256": "e173fbff0b97c372a3fe7860b954404a7518789af78b5aaba218fd9046ec4ddc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI2Mi9vcmlnaW5hbF8xZjM3ZTViYjg1NTUxOTRjNzhkMjdmYzIxMWVkYTc5OS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1f37e5bb8555194c78d27fc211eda799.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9da59f22fe53509b8caa5511-9da59f22fe.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Scale Website",
+      "bytes": 81178,
+      "sha256": "8e4b6a5d3de02458e1a10e128762546f52fde7f26d06d83018d1e13be39a2349",
+      "width": 1200,
+      "height": 853,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9da59f22fe53509b8caa5511.jpg",
+        "sourceSha256": "9da59f22fe53509b8caa551109986170fc1637f80d7681186b19e48d1c3e2c10",
+        "originalBytes": 124101,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340262",
+    "title": "b2f5b5bd2c26dea736a8ada00f773ec8.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340262,
+      "url": "https://www.are.na/block/44340262",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "b2f5b5bd2c26dea736a8ada00f773ec8.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "b2f5b5bd2c26dea736a8ada00f773ec8.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Scale Website",
+    "text": "Scale\nStudio\nThe Science of Viral\nContent for Building\nExperts\nViral Growth, Made Predictable\nAfter analyzing over 10,000 high-performing\nposts, we've identified the exact formula that\nseparates viral content from the noise. Our\nsystematic approach eliminates the trial-and-\nerror of audience building-delivering consistent\nfollower growth through content that's\nengineered to spread.\nHome\nAbout\nHow It Works\nResources\nMore\n=\n+",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8e4b6a5d3de02458e1a10e128762546f52fde7f26d06d83018d1e13be39a2349"
+  }
+}

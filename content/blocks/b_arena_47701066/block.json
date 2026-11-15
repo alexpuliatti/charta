@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701066",
+  "type": "image",
+  "title": "Asphalt Jungle",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "asphalt-jungle",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-295bc821e0a3ce901bdac7a0.png",
+      "mimeType": "image/png",
+      "alt": "Asphalt Jungle",
+      "role": "original",
+      "bytes": 934821,
+      "sha256": "295bc821e0a3ce901bdac7a0d9366270020cafa06c44651aa73918678df5e170",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701066/original_4773939259756dbd0664c199113eada5.png",
+      "originalName": "4773939259756dbd0664c199113eada5.png"
+    },
+    {
+      "path": "assets/thumbnail-a95f57309aec7deea2fe2b88.webp",
+      "mimeType": "image/webp",
+      "alt": "Asphalt Jungle",
+      "role": "thumbnail",
+      "bytes": 8500,
+      "sha256": "a95f57309aec7deea2fe2b883db67fcd44ecb81872ff0442911b53a4e94087a9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA2Ni9vcmlnaW5hbF80NzczOTM5MjU5NzU2ZGJkMDY2NGMxOTkxMTNlYWRhNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4773939259756dbd0664c199113eada5.png"
+    },
+    {
+      "path": "assets/display-web-original-295bc821e0a3ce901bdac7a0-295bc821e0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Asphalt Jungle",
+      "bytes": 58206,
+      "sha256": "9974a5ec8afe5b3d77c7e5edbc35d6ca9f4a6922ac6ea1663b98ad1dfb7603f4",
+      "width": 962,
+      "height": 1154,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-295bc821e0a3ce901bdac7a0.png",
+        "sourceSha256": "295bc821e0a3ce901bdac7a0d9366270020cafa06c44651aa73918678df5e170",
+        "originalBytes": 934821,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:57:12.000Z",
+  "updatedAt": "2026-07-08T14:57:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701066",
+    "title": "Screenshot 2023-09-12 alle 16.49.01",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701066,
+      "url": "https://www.are.na/block/47701066",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.49.01",
+      "createdAt": "2026-07-08T14:57:12Z",
+      "updatedAt": "2026-07-08T14:57:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.49.01",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Asphalt Jungle",
+    "text": "THE ASPHALT JUNGLE\nTHE\nSPHALT\nJUNGLE\nW. R.\nBURNETT\nBY\nW. R. BURNETT\nBORZO\nBOOKS\nALFRED -A-KNOPF\nHIS BEST NOVEL SINCE \"UTTLE CAESAR\"",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9974a5ec8afe5b3d77c7e5edbc35d6ca9f4a6922ac6ea1663b98ad1dfb7603f4"
+  }
+}

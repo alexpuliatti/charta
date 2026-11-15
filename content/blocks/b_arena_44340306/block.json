@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340306",
+  "type": "image",
+  "title": "White Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "white-bedroom",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3f0f9bedb856c32553b2bd45.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "White Bedroom",
+      "role": "original",
+      "bytes": 56299,
+      "sha256": "3f0f9bedb856c32553b2bd459e91d10ddcc87a0256baadb602cccf0f1ceb80ef",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340306/original_c8712b54e4d2fc033c6150f11524136f.jpg",
+      "originalName": "c8712b54e4d2fc033c6150f11524136f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-484bbb8196e49d1ba2c41b54.webp",
+      "mimeType": "image/webp",
+      "alt": "White Bedroom",
+      "role": "thumbnail",
+      "bytes": 11576,
+      "sha256": "484bbb8196e49d1ba2c41b5413fafba7de943bf7c49a4cde9b3ace32bf49e2b9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwNi9vcmlnaW5hbF9jODcxMmI1NGU0ZDJmYzAzM2M2MTUwZjExNTI0MTM2Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c8712b54e4d2fc033c6150f11524136f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3f0f9bedb856c32553b2bd45-3f0f9bedb8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "White Bedroom",
+      "bytes": 41210,
+      "sha256": "a6ce4f5627e766513d1bd5fedd73a74ba037121d3a23c4d3e91a44af8a5257af",
+      "width": 735,
+      "height": 550,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3f0f9bedb856c32553b2bd45.jpg",
+        "sourceSha256": "3f0f9bedb856c32553b2bd459e91d10ddcc87a0256baadb602cccf0f1ceb80ef",
+        "originalBytes": 56299,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340306",
+    "title": "50ed655b4ce66d77681f2e6a726c8e5c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340306,
+      "url": "https://www.are.na/block/44340306",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "50ed655b4ce66d77681f2e6a726c8e5c.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "50ed655b4ce66d77681f2e6a726c8e5c.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "White Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a6ce4f5627e766513d1bd5fedd73a74ba037121d3a23c4d3e91a44af8a5257af"
+  }
+}

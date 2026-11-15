@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579172",
+  "type": "image",
+  "title": "Red Binding",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "red-binding",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0f1d1fe5d326b0f01cdf869d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Red Binding",
+      "role": "original",
+      "bytes": 1373668,
+      "sha256": "0f1d1fe5d326b0f01cdf869d20620f686d79fa424a3b0ce61c178d5c25403512",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579172/original_95d73e1c0c527216077a3f2e472d7f98.jpeg",
+      "originalName": "95d73e1c0c527216077a3f2e472d7f98.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a2ba68cb944fe6c86bd67fb8.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Binding",
+      "role": "thumbnail",
+      "bytes": 1320,
+      "sha256": "a2ba68cb944fe6c86bd67fb8c24c879d19081c5249381e3e98dfc314ab8c4712",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE3Mi9vcmlnaW5hbF85NWQ3M2UxYzBjNTI3MjE2MDc3YTNmMmU0NzJkN2Y5OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "95d73e1c0c527216077a3f2e472d7f98.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0f1d1fe5d326b0f01cdf869d-0f1d1fe5d3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Binding",
+      "bytes": 544158,
+      "sha256": "5055394808237d30782711997e41ca349ab9785db6df873f6fa9d4d409f61944",
+      "width": 1238,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0f1d1fe5d326b0f01cdf869d.jpg",
+        "sourceSha256": "0f1d1fe5d326b0f01cdf869d20620f686d79fa424a3b0ce61c178d5c25403512",
+        "originalBytes": 1373668,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:02.000Z",
+  "updatedAt": "2026-07-04T15:36:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579172",
+    "title": "X GWBHpQzWoAAOve1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579172,
+      "url": "https://www.are.na/block/47579172",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "X GWBHpQzWoAAOve1",
+      "createdAt": "2026-07-04T15:36:02Z",
+      "updatedAt": "2026-07-04T15:36:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "X GWBHpQzWoAAOve1",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Binding",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5055394808237d30782711997e41ca349ab9785db6df873f6fa9d4d409f61944"
+  }
+}

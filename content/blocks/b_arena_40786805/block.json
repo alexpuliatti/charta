@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786805",
+  "type": "image",
+  "title": "Giant Horns",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "giant-horns",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b0bcfd1fe702087dc9f29111.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Giant Horns",
+      "role": "original",
+      "bytes": 199479,
+      "sha256": "b0bcfd1fe702087dc9f29111c9a36b1fef893c9986243920aa8d2111aac5362d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786805/original_9b041355e2dd06010eedda66c766c8ba.jpg",
+      "originalName": "9b041355e2dd06010eedda66c766c8ba.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e5b42477f74b7d4dbaef5071.webp",
+      "mimeType": "image/webp",
+      "alt": "Giant Horns",
+      "role": "thumbnail",
+      "bytes": 7648,
+      "sha256": "e5b42477f74b7d4dbaef5071f9f6f873e276f10e586b947769c4881fe5ce0adb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NjgwNS9vcmlnaW5hbF85YjA0MTM1NWUyZGQwNjAxMGVlZGRhNjZjNzY2YzhiYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9b041355e2dd06010eedda66c766c8ba.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b0bcfd1fe702087dc9f29111-b0bcfd1fe7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Giant Horns",
+      "bytes": 108258,
+      "sha256": "21afc7e099451928530e41b82afa576b4934a7c204a97acd62995c765e6e3dc1",
+      "width": 960,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b0bcfd1fe702087dc9f29111.jpg",
+        "sourceSha256": "b0bcfd1fe702087dc9f29111c9a36b1fef893c9986243920aa8d2111aac5362d",
+        "originalBytes": 199479,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:10:19.000Z",
+  "updatedAt": "2025-11-02T15:10:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786805",
+    "title": "designedbyforma-20251012_184632-1699912192.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786805,
+      "url": "https://www.are.na/block/40786805",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "designedbyforma-20251012_184632-1699912192.jpg",
+      "createdAt": "2025-11-02T15:10:19Z",
+      "updatedAt": "2025-11-02T15:10:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "designedbyforma-20251012_184632-1699912192.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Giant Horns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "21afc7e099451928530e41b82afa576b4934a7c204a97acd62995c765e6e3dc1"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888290",
+  "type": "image",
+  "title": "Città Aperta",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "citt-aperta",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-af94c8255c1306e50b56a79b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Città Aperta",
+      "role": "original",
+      "bytes": 153191,
+      "sha256": "af94c8255c1306e50b56a79b9b7663f04c11efdbc7c1ee240763f020aa98cd67",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888290/original_9fd0ef4ef31944203c90ad8abe5ce010.jpeg",
+      "originalName": "9fd0ef4ef31944203c90ad8abe5ce010.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c16086c4e4cc4ee8f8eb0fa7.webp",
+      "mimeType": "image/webp",
+      "alt": "Città Aperta",
+      "role": "thumbnail",
+      "bytes": 18518,
+      "sha256": "c16086c4e4cc4ee8f8eb0fa7c59561c6daaaf51d5f97f2798fb812d1eda6f006",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODI5MC9vcmlnaW5hbF85ZmQwZWY0ZWYzMTk0NDIwM2M5MGFkOGFiZTVjZTAxMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "9fd0ef4ef31944203c90ad8abe5ce010.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-af94c8255c1306e50b56a79b-af94c8255c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Città Aperta",
+      "bytes": 108756,
+      "sha256": "a0af3810119b71e3f8d08d5c4dc0ce749454faae5cc1717c4cc0db7a502b3346",
+      "width": 1280,
+      "height": 937,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-af94c8255c1306e50b56a79b.jpg",
+        "sourceSha256": "af94c8255c1306e50b56a79b9b7663f04c11efdbc7c1ee240763f020aa98cd67",
+        "originalBytes": 153191,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:11:58.000Z",
+  "updatedAt": "2026-05-06T12:12:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888290",
+    "title": "original_64c7e2e2e8f53c528d04b1193482d7db.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888290,
+      "url": "https://www.are.na/block/45888290",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_64c7e2e2e8f53c528d04b1193482d7db.jpg",
+      "createdAt": "2026-05-06T12:11:58Z",
+      "updatedAt": "2026-05-06T12:12:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_64c7e2e2e8f53c528d04b1193482d7db.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Città Aperta",
+    "text": "CIMTA\nAPERTA",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a0af3810119b71e3f8d08d5c4dc0ce749454faae5cc1717c4cc0db7a502b3346"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137344",
+  "type": "image",
+  "title": "Striped Figure",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "striped-figure",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b197f96ff2dff865d09830bb.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Striped Figure",
+      "role": "original",
+      "bytes": 444746,
+      "sha256": "b197f96ff2dff865d09830bb4ca1066260e92f861fdbd50a7b1bd5b9162fbd3d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137344/original_86a9a699c98650e649223bee8d32e40c.jpg",
+      "originalName": "86a9a699c98650e649223bee8d32e40c.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0df17d77ac59872217d0c6e6.webp",
+      "mimeType": "image/webp",
+      "alt": "Striped Figure",
+      "role": "thumbnail",
+      "bytes": 39658,
+      "sha256": "0df17d77ac59872217d0c6e63ab4951c25c42f052d8186a0af4a79595d39d7bc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzM0NC9vcmlnaW5hbF84NmE5YTY5OWM5ODY1MGU2NDkyMjNiZWU4ZDMyZTQwYy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "86a9a699c98650e649223bee8d32e40c.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b197f96ff2dff865d09830bb-b197f96ff2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Striped Figure",
+      "bytes": 316236,
+      "sha256": "c4196ab08e808fdd7e178ba813a59dcdfc34fd7406cca1e5f784a73d0f649623",
+      "width": 1200,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b197f96ff2dff865d09830bb.jpg",
+        "sourceSha256": "b197f96ff2dff865d09830bb4ca1066260e92f861fdbd50a7b1bd5b9162fbd3d",
+        "originalBytes": 444746,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:47:02.000Z",
+  "updatedAt": "2026-03-04T15:47:05.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137344",
+    "title": "madisonoud-20250828_044522-2170838992.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137344,
+      "url": "https://www.are.na/block/44137344",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "madisonoud-20250828_044522-2170838992.jpg",
+      "createdAt": "2026-03-04T15:47:02Z",
+      "updatedAt": "2026-03-04T15:47:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "madisonoud-20250828_044522-2170838992.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Striped Figure",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c4196ab08e808fdd7e178ba813a59dcdfc34fd7406cca1e5f784a73d0f649623"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_48329204",
+  "type": "image",
+  "title": "Golden Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "golden-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-441546c789b3edc4e75368f6.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Golden Bedroom",
+      "role": "original",
+      "bytes": 424796,
+      "sha256": "441546c789b3edc4e75368f6e820a75b378710f9d9aabd2de826302fe35989e7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/48329204/original_eb9d20a1a64e2213d717397b45291884.jpeg",
+      "originalName": "eb9d20a1a64e2213d717397b45291884.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e85952b45698db606b8994e4.webp",
+      "mimeType": "image/webp",
+      "alt": "Golden Bedroom",
+      "role": "thumbnail",
+      "bytes": 14488,
+      "sha256": "e85952b45698db606b8994e47815c9dbdfcf9d8fd19253cbcb8a774a2c02edd6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODMyOTIwNC9vcmlnaW5hbF9lYjlkMjBhMWE2NGUyMjEzZDcxNzM5N2I0NTI5MTg4NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "eb9d20a1a64e2213d717397b45291884.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-441546c789b3edc4e75368f6-441546c789.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Golden Bedroom",
+      "bytes": 197964,
+      "sha256": "0e1fec30c706b5d818f2cf9f4082c03bcf47d4b5c49fbfce008616ef5d66a70f",
+      "width": 1086,
+      "height": 1445,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-441546c789b3edc4e75368f6.jpg",
+        "sourceSha256": "441546c789b3edc4e75368f6e820a75b378710f9d9aabd2de826302fe35989e7",
+        "originalBytes": 424796,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-29T17:00:10.000Z",
+  "updatedAt": "2026-07-29T17:00:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/48329204",
+    "title": "ignacioortegainteriors-3951085007032291772_455320684_9-20260728_100738",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 48329204,
+      "url": "https://www.are.na/block/48329204",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ignacioortegainteriors-3951085007032291772_455320684_9-20260728_100738",
+      "createdAt": "2026-07-29T17:00:10Z",
+      "updatedAt": "2026-07-29T17:00:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ignacioortegainteriors-3951085007032291772_455320684_9-20260728_100738",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Golden Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0e1fec30c706b5d818f2cf9f4082c03bcf47d4b5c49fbfce008616ef5d66a70f"
+  }
+}

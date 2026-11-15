@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787104",
+  "type": "image",
+  "title": "Listening Room",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "listening-room",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3ef2bce32d9e8ab7f500be8c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Listening Room",
+      "role": "original",
+      "bytes": 391088,
+      "sha256": "3ef2bce32d9e8ab7f500be8c3b12c2988579b7375bddad450c321220dbe079e6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787104/original_de8ced3f1901b738c295fd777cf4e52e.jpg",
+      "originalName": "de8ced3f1901b738c295fd777cf4e52e.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5ccac70679631b36fdbfc643.webp",
+      "mimeType": "image/webp",
+      "alt": "Listening Room",
+      "role": "thumbnail",
+      "bytes": 19016,
+      "sha256": "5ccac70679631b36fdbfc643f00c5ebd91de76bcdef7377a1e55b10f7fd05d7e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwNC9vcmlnaW5hbF9kZThjZWQzZjE5MDFiNzM4YzI5NWZkNzc3Y2Y0ZTUyZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "de8ced3f1901b738c295fd777cf4e52e.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3ef2bce32d9e8ab7f500be8c-3ef2bce32d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Listening Room",
+      "bytes": 320860,
+      "sha256": "a4bbc38154e53cf9e424181485c223a695bc3d4d30e30b63d5cf3bb374fa7560",
+      "width": 1440,
+      "height": 1920,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3ef2bce32d9e8ab7f500be8c.jpg",
+        "sourceSha256": "3ef2bce32d9e8ab7f500be8c3b12c2988579b7375bddad450c321220dbe079e6",
+        "originalBytes": 391088,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:44.000Z",
+  "updatedAt": "2025-11-02T15:26:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787104",
+    "title": "devonojas-20250903_140315-605771464.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787104,
+      "url": "https://www.are.na/block/40787104",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "devonojas-20250903_140315-605771464.jpg",
+      "createdAt": "2025-11-02T15:26:44Z",
+      "updatedAt": "2025-11-02T15:26:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "devonojas-20250903_140315-605771464.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Listening Room",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a4bbc38154e53cf9e424181485c223a695bc3d4d30e30b63d5cf3bb374fa7560"
+  }
+}

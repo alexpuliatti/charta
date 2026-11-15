@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44586367",
+  "type": "video",
+  "title": "Procedural Rings",
+  "description": "parametric design tool",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "procedural-rings",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e190e17bd515c9cab1927789.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1774012712791.mp4",
+      "role": "original",
+      "bytes": 8662396,
+      "sha256": "e190e17bd515c9cab1927789ea195d7b1a3ca191528a25f9e8d3d0b2209d52b1",
+      "sourceUrl": "https://attachments.are.na/44586367/682f2c236c17f087bb30df105f64e7ba.mp4",
+      "originalName": "682f2c236c17f087bb30df105f64e7ba.mp4"
+    },
+    {
+      "path": "assets/thumbnail-c8cbe6567dfcd2f38b841b3a.webp",
+      "mimeType": "image/webp",
+      "alt": "Procedural Rings",
+      "role": "thumbnail",
+      "bytes": 17604,
+      "sha256": "c8cbe6567dfcd2f38b841b3a0895307a114481aee0985822415ea8826401092c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDU4NjM2Ny9vcmlnaW5hbF82ZjNkNTUzYzM2MGNkZjBlMjAyNjAzMjAtMi1ucnU1d3cucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6f3d553c360cdf0e20260320-2-nru5ww.png"
+    },
+    {
+      "path": "assets/display-web-original-e190e17bd515c9cab1927789-e190e17bd5.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1774012712791.mp4",
+      "bytes": 4265314,
+      "sha256": "457621863553aebe38bf19264be8e201c033c07dd1f9f45842fb9b4cf042bd33",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e190e17bd515c9cab1927789.mp4",
+        "sourceSha256": "e190e17bd515c9cab1927789ea195d7b1a3ca191528a25f9e8d3d0b2209d52b1",
+        "originalBytes": 8662396,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-852fa7d6afba7b8842d58315.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1774012712791.mp4",
+      "role": "preview",
+      "bytes": 1009544,
+      "sha256": "852fa7d6afba7b8842d58315a732d3eeb5e441955667d48ea2bd89c2ce35aeda",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44586367/original_6f3d553c360cdf0e20260320-2-nru5ww.png",
+      "originalName": "6f3d553c360cdf0e20260320-2-nru5ww.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 4659499,
+        "width": 2382,
+        "height": 2048,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-20T13:18:53.000Z",
+  "updatedAt": "2026-03-29T23:48:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44586367",
+    "title": "ssstwitter.com_1774012712791.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44586367,
+      "url": "https://www.are.na/block/44586367",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1774012712791.mp4",
+      "createdAt": "2026-03-20T13:18:53Z",
+      "updatedAt": "2026-03-29T23:48:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1774012712791.mp4",
+      "category": "Information design",
+      "tags": [
+        "tools",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Procedural Rings",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c8cbe6567dfcd2f38b841b3a0895307a114481aee0985822415ea8826401092c"
+  }
+}

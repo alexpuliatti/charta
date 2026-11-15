@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144618",
+  "type": "image",
+  "title": "Geometric Houses",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "geometric-houses",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cccf27a106a6c3ed0ad0a9df.png",
+      "mimeType": "image/png",
+      "alt": "Geometric Houses",
+      "role": "original",
+      "bytes": 2413016,
+      "sha256": "cccf27a106a6c3ed0ad0a9dfc44609aa70897408d024fd9ceca62b1ed0131adc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144618/original_4dc7785f958c6107ba406c3a01227047.png",
+      "originalName": "4dc7785f958c6107ba406c3a01227047.png"
+    },
+    {
+      "path": "assets/thumbnail-a343c4f04758b14f6c630626.webp",
+      "mimeType": "image/webp",
+      "alt": "Geometric Houses",
+      "role": "thumbnail",
+      "bytes": 7112,
+      "sha256": "a343c4f04758b14f6c630626ba2d6d4436c485ec09a5839eb79efbbbbf42a800",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYxOC9vcmlnaW5hbF80ZGM3Nzg1Zjk1OGM2MTA3YmE0MDZjM2EwMTIyNzA0Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4dc7785f958c6107ba406c3a01227047.png"
+    },
+    {
+      "path": "assets/display-web-original-cccf27a106a6c3ed0ad0a9df-cccf27a106.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Geometric Houses",
+      "bytes": 52586,
+      "sha256": "92fd1ad60366b94c81eb28f73c59ec2a52dc1ce3b764844a9f6a42f706b7167c",
+      "width": 1390,
+      "height": 1376,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cccf27a106a6c3ed0ad0a9df.png",
+        "sourceSha256": "cccf27a106a6c3ed0ad0a9dfc44609aa70897408d024fd9ceca62b1ed0131adc",
+        "originalBytes": 2413016,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-10-09T16:28:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144618",
+    "title": "screenshot-2026-03-04-alle-16.20.42.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144618,
+      "url": "https://www.are.na/block/44144618",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.20.42.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-10-09T16:28:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.20.42.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Geometric Houses",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "92fd1ad60366b94c81eb28f73c59ec2a52dc1ce3b764844a9f6a42f706b7167c"
+  }
+}

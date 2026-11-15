@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890198",
+  "type": "image",
+  "title": "Orbital Navigation",
+  "description": "https://aistudio.google.com/apps/cacebb0a-aa89-45fe-bb37-5237e1fa30ac?showPreview=true&showAssistant=true&fullscreenApplet=true",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "orbital-navigation",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a5cffb5885d484bcbe47d4db.png",
+      "mimeType": "image/png",
+      "alt": "Orbital Navigation",
+      "role": "original",
+      "bytes": 380063,
+      "sha256": "a5cffb5885d484bcbe47d4db0897af7ac3e2afad7871248bda0bb053b2754b4c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890198/original_e7baad537e70620943fcc07c701aadab.png",
+      "originalName": "e7baad537e70620943fcc07c701aadab.png"
+    },
+    {
+      "path": "assets/thumbnail-9abe98a2e89bf17b347dd10c.webp",
+      "mimeType": "image/webp",
+      "alt": "Orbital Navigation",
+      "role": "thumbnail",
+      "bytes": 5620,
+      "sha256": "9abe98a2e89bf17b347dd10c7ca92766d864beab9d88da627a3ec2740622ad64",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDE5OC9vcmlnaW5hbF9lN2JhYWQ1MzdlNzA2MjA5NDNmY2MwN2M3MDFhYWRhYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e7baad537e70620943fcc07c701aadab.png"
+    },
+    {
+      "path": "assets/display-web-original-a5cffb5885d484bcbe47d4db-a5cffb5885.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orbital Navigation",
+      "bytes": 65464,
+      "sha256": "1b049b9a1457daa4cf43a82d4bf27a18ea73f2ab18763574e3ecb597c3dd479b",
+      "width": 2000,
+      "height": 1197,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a5cffb5885d484bcbe47d4db.png",
+        "sourceSha256": "a5cffb5885d484bcbe47d4db0897af7ac3e2afad7871248bda0bb053b2754b4c",
+        "originalBytes": 380063,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:27:42.000Z",
+  "updatedAt": "2026-05-06T13:28:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890198",
+    "title": "screenshot-2026-05-06-alle-14.27.37.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890198,
+      "url": "https://www.are.na/block/45890198",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-05-06-alle-14.27.37.png",
+      "createdAt": "2026-05-06T13:27:42Z",
+      "updatedAt": "2026-05-06T13:28:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-05-06-alle-14.27.37.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orbital Navigation",
+    "text": "M- A - C-H- I - N- E\nT — E —\n- E 0 1 8\n1 Enter a concept in the\n'your input' card.\n2 Pick a machine on the\nrotary dial, and drag it to\nthe empty circle.\n3 Observe machine\ninterpretation through a\ngame of telephone.\nIcon / Text\nYOUR\nINPUT\nType here...\n•• With each step, the\nmodel only reacts to the\nlink directly behind it.\nAn experiment by Khyati Trehan • About",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1b049b9a1457daa4cf43a82d4bf27a18ea73f2ab18763574e3ecb597c3dd479b"
+  }
+}

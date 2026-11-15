@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340277",
+  "type": "image",
+  "title": "Fashion Soundsystem",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "fashion-soundsystem",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-402abc31995a3e79f508201b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Fashion Soundsystem",
+      "role": "original",
+      "bytes": 108094,
+      "sha256": "402abc31995a3e79f508201bb2132cacb1766e67496fcdc643829100e63fc468",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340277/original_7ef4a3bee02cfd3b2a35c8f167c79a2f.jpg",
+      "originalName": "7ef4a3bee02cfd3b2a35c8f167c79a2f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-1b44b94b64d019655f5f1408.webp",
+      "mimeType": "image/webp",
+      "alt": "Fashion Soundsystem",
+      "role": "thumbnail",
+      "bytes": 6430,
+      "sha256": "1b44b94b64d019655f5f14088de95cf1f4ef853fa4932154a986093100704cf6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI3Ny9vcmlnaW5hbF83ZWY0YTNiZWUwMmNmZDNiMmEzNWM4ZjE2N2M3OWEyZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7ef4a3bee02cfd3b2a35c8f167c79a2f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-402abc31995a3e79f508201b-402abc3199.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Fashion Soundsystem",
+      "bytes": 57178,
+      "sha256": "a3945d3d9e32e8fbd8b7fd290d79d7dd8b037948cf2f3acf030d711a8bc20726",
+      "width": 1206,
+      "height": 1658,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-402abc31995a3e79f508201b.jpg",
+        "sourceSha256": "402abc31995a3e79f508201bb2132cacb1766e67496fcdc643829100e63fc468",
+        "originalBytes": 108094,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:41:36.000Z",
+  "updatedAt": "2026-03-11T17:41:40.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340277",
+    "title": "hdibtqnwwaatcla.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340277,
+      "url": "https://www.are.na/block/44340277",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hdibtqnwwaatcla.jpeg",
+      "createdAt": "2026-03-11T17:41:36Z",
+      "updatedAt": "2026-03-11T17:41:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hdibtqnwwaatcla.jpeg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Fashion Soundsystem",
+    "text": "CELINE\nPARIS\nceline\n•..",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a3945d3d9e32e8fbd8b7fd290d79d7dd8b037948cf2f3acf030d711a8bc20726"
+  }
+}

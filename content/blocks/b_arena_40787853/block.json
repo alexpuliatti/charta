@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787853",
+  "type": "image",
+  "title": "Open Studio",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "open-studio",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-def05f239b1d0e8b0bf1299f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Open Studio",
+      "role": "original",
+      "bytes": 202419,
+      "sha256": "def05f239b1d0e8b0bf1299fc5e77d9bfdd9d4ed380d4d450898e81abb36ab44",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787853/original_236ca205dc1d7d6c24e72ffff85d4e8a.jpg",
+      "originalName": "236ca205dc1d7d6c24e72ffff85d4e8a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-29ecc02807e827371e203fc4.webp",
+      "mimeType": "image/webp",
+      "alt": "Open Studio",
+      "role": "thumbnail",
+      "bytes": 11804,
+      "sha256": "29ecc02807e827371e203fc4ea16a403bb079d06b1c07399bd6f1da7ca8ac87a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg1My9vcmlnaW5hbF8yMzZjYTIwNWRjMWQ3ZDZjMjRlNzJmZmZmODVkNGU4YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "236ca205dc1d7d6c24e72ffff85d4e8a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-def05f239b1d0e8b0bf1299f-def05f239b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Open Studio",
+      "bytes": 172590,
+      "sha256": "9d40eab09a7c57f19cefcd8b52cefd360b5d4d44a655186c45577dc852def8fd",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-def05f239b1d0e8b0bf1299f.jpg",
+        "sourceSha256": "def05f239b1d0e8b0bf1299fc5e77d9bfdd9d4ed380d4d450898e81abb36ab44",
+        "originalBytes": 202419,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:07.000Z",
+  "updatedAt": "2025-11-02T16:01:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787853",
+    "title": "whereiwouldliketoread-20240419_124307-2907545887.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787853,
+      "url": "https://www.are.na/block/40787853",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20240419_124307-2907545887.jpg",
+      "createdAt": "2025-11-02T16:01:07Z",
+      "updatedAt": "2025-11-02T16:01:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20240419_124307-2907545887.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Open Studio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9d40eab09a7c57f19cefcd8b52cefd360b5d4d44a655186c45577dc852def8fd"
+  }
+}

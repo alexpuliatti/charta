@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136973",
+  "type": "image",
+  "title": "Paired Posters",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "paired-posters",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0e78969bfa32407d7585369a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Paired Posters",
+      "role": "original",
+      "bytes": 428267,
+      "sha256": "0e78969bfa32407d7585369a64c456802f598c1c93c3d5ba0720e5a851c87374",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136973/original_944e3a6726b9b92f22d1b37b0a86de86.jpg",
+      "originalName": "944e3a6726b9b92f22d1b37b0a86de86.jpg"
+    },
+    {
+      "path": "assets/thumbnail-ce2f850ba7f4384d1e2fd789.webp",
+      "mimeType": "image/webp",
+      "alt": "Paired Posters",
+      "role": "thumbnail",
+      "bytes": 6188,
+      "sha256": "ce2f850ba7f4384d1e2fd7897a552b9ed6018adcd49de3180e015aac540f826e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk3My9vcmlnaW5hbF85NDRlM2E2NzI2YjliOTJmMjJkMWIzN2IwYTg2ZGU4Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "944e3a6726b9b92f22d1b37b0a86de86.jpg"
+    },
+    {
+      "path": "assets/display-web-original-0e78969bfa32407d7585369a-0e78969bfa.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Paired Posters",
+      "bytes": 98120,
+      "sha256": "007aeb9ddd7fc2f9642f292b8b97209e3d69e06f097fbadb79b82f17fa78fa1a",
+      "width": 2000,
+      "height": 1463,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0e78969bfa32407d7585369a.jpg",
+        "sourceSha256": "0e78969bfa32407d7585369a64c456802f598c1c93c3d5ba0720e5a851c87374",
+        "originalBytes": 428267,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:13.000Z",
+  "updatedAt": "2026-03-04T15:36:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136973",
+    "title": "g_nyocdbqaa0t_k.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136973,
+      "url": "https://www.are.na/block/44136973",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "g_nyocdbqaa0t_k.jpeg",
+      "createdAt": "2026-03-04T15:36:13Z",
+      "updatedAt": "2026-03-04T15:36:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "g_nyocdbqaa0t_k.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Paired Posters",
+    "text": "Contact Form Modal\nBACKHOUSE\nBIH\nWe're always interested to\nhear about new projects, feel\nfree to reach out on the\nchannels below if you'd like to\ncollaborate with us.\nContact Form Modal\nclose\nBACKHOUSE\nClose\nThe reel doesn't stop here.\nLet's create the next\nscene together.\n(01) Your name*\nEnter name\n(02) Your email*\nEnter your email\n(03) What can we help you with?*\n• Brand & Commercial\n• Episodic & Integrated\nCorporate & Internal\nLive & Event\n• Not sure...\n(04) Project details*\nDescribe your challenges and business needs.\nWe're always interested to\nhear about new projects.\ncel free to reach out on the\nThe reel doesn't stop\nhere. Let's create the\nnext scene together.\n(01) Your name*\nEnter name\n(02) Your email*\nEnter your email\n(03) What can we help you with?*\n• Brand & Commercial\nO Corporate & Internal\nO Live & Event\nNOT SUC\n(04) Project details*\nDescribe your challenges and business needs.\n(05) Where did you hear about us?*\n• Google\n• Linkedin\n• Instagram\nReferral\nSubmit\n(05) Where did you hear about us?*\nO Google\n• Linkedin\nO Instagram\nHe tortal\nSubmit\n→\n& WARNING\nto explosive growth. Proceed with caution\nEST\nCALIFORNIA\nWORKING\nWORLDWIDE\n©2026 Backhouse Entertainment, LLC\nAll rights reserved.\n• 04:22 PM\nPacific standard time",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "007aeb9ddd7fc2f9642f292b8b97209e3d69e06f097fbadb79b82f17fa78fa1a"
+  }
+}

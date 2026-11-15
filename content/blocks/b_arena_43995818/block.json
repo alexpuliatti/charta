@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995818",
+  "type": "image",
+  "title": "Garden Dining",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "garden-dining",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5f0b4a6f88d8ed765c022bd7.png",
+      "mimeType": "image/png",
+      "alt": "Garden Dining",
+      "role": "original",
+      "bytes": 1466293,
+      "sha256": "5f0b4a6f88d8ed765c022bd7143c58745722b2739331d1c5fda36f82226af8e7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995818/original_d43fb0ddb2cd3b860f0ec2b01bbde429.png",
+      "originalName": "d43fb0ddb2cd3b860f0ec2b01bbde429.png"
+    },
+    {
+      "path": "assets/thumbnail-758cb137db5429184d39df3e.webp",
+      "mimeType": "image/webp",
+      "alt": "Garden Dining",
+      "role": "thumbnail",
+      "bytes": 13474,
+      "sha256": "758cb137db5429184d39df3ecc23f5077f5f9667da5e6d02b5cc858c3a5765db",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgxOC9vcmlnaW5hbF9kNDNmYjBkZGIyY2QzYjg2MGYwZWMyYjAxYmJkZTQyOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d43fb0ddb2cd3b860f0ec2b01bbde429.png"
+    },
+    {
+      "path": "assets/display-web-original-5f0b4a6f88d8ed765c022bd7-5f0b4a6f88.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Garden Dining",
+      "bytes": 130922,
+      "sha256": "51fe966e9049e02b0247d22ddd1026df30f716082fdd79d14773f674b50b47e3",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5f0b4a6f88d8ed765c022bd7.png",
+        "sourceSha256": "5f0b4a6f88d8ed765c022bd7143c58745722b2739331d1c5fda36f82226af8e7",
+        "originalBytes": 1466293,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:00:49.000Z",
+  "updatedAt": "2026-02-28T12:00:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995818",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995818,
+      "url": "https://www.are.na/block/43995818",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:00:49Z",
+      "updatedAt": "2026-02-28T12:00:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Garden Dining",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "51fe966e9049e02b0247d22ddd1026df30f716082fdd79d14773f674b50b47e3"
+  }
+}

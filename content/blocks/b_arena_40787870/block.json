@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787870",
+  "type": "image",
+  "title": "Cabin Tapestry",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "cabin-tapestry",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f246dcfcaf5b45f0418d9e5a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Cabin Tapestry",
+      "role": "original",
+      "bytes": 1165876,
+      "sha256": "f246dcfcaf5b45f0418d9e5ae3273ecd6d1a15ed4a50962db1352a10c5e686d9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787870/original_465607c62bc76386583493997cc8b44f.jpg",
+      "originalName": "465607c62bc76386583493997cc8b44f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-900da7bb0091a27287c0797b.webp",
+      "mimeType": "image/webp",
+      "alt": "Cabin Tapestry",
+      "role": "thumbnail",
+      "bytes": 30338,
+      "sha256": "900da7bb0091a27287c0797b7949ad7500b8620994fdbd62aee6536176ab681b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg3MC9vcmlnaW5hbF80NjU2MDdjNjJiYzc2Mzg2NTgzNDkzOTk3Y2M4YjQ0Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "465607c62bc76386583493997cc8b44f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f246dcfcaf5b45f0418d9e5a-f246dcfcaf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Cabin Tapestry",
+      "bytes": 752800,
+      "sha256": "8db05cecee02e71fbad4171034466a05fafc8faa7223333fabe0384299954725",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f246dcfcaf5b45f0418d9e5a.jpg",
+        "sourceSha256": "f246dcfcaf5b45f0418d9e5ae3273ecd6d1a15ed4a50962db1352a10c5e686d9",
+        "originalBytes": 1165876,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:02:29.000Z",
+  "updatedAt": "2025-11-02T16:02:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787870",
+    "title": "topclosings-20250407_014837-2780442909.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787870,
+      "url": "https://www.are.na/block/40787870",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "topclosings-20250407_014837-2780442909.jpg",
+      "createdAt": "2025-11-02T16:02:29Z",
+      "updatedAt": "2025-11-02T16:02:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "topclosings-20250407_014837-2780442909.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cabin Tapestry",
+    "text": "MOVE ACROSS HEAVEN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8db05cecee02e71fbad4171034466a05fafc8faa7223333fabe0384299954725"
+  }
+}

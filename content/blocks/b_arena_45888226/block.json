@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888226",
+  "type": "link",
+  "title": "Making Software",
+  "description": "A reference manual for people who design and build software.",
+  "category": "Writing",
+  "tags": [
+    "software-design",
+    "reference",
+    "interaction-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-02b877c9a024e14ac7401d9c.webp",
+      "mimeType": "image/webp",
+      "alt": "Making Software",
+      "role": "thumbnail",
+      "bytes": 800,
+      "sha256": "02b877c9a024e14ac7401d9ce405fb96a3bdc4e546aa5065c77fa0091cc35a57",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODIyNi9vcmlnaW5hbF8zZmU0Zjc3NGJmYWJhYzczYTU4YTBkOWIxYTNhN2YyZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3fe4f774bfabac73a58a0d9b1a3a7f2e.png"
+    },
+    {
+      "path": "assets/preview-193a8f000632e2b678f811ca.webp",
+      "mimeType": "image/webp",
+      "alt": "Making Software",
+      "role": "preview",
+      "bytes": 12992,
+      "sha256": "193a8f000632e2b678f811ca85bc0b832a7709f06673bae3d0ca558dc5070515",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888226/original_3fe4f774bfabac73a58a0d9b1a3a7f2e.png",
+      "originalName": "3fe4f774bfabac73a58a0d9b1a3a7f2e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 50087,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:08:30.000Z",
+  "updatedAt": "2026-05-06T12:08:55.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.makingsoftware.com/",
+    "title": "Making Software",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888226,
+      "url": "https://www.are.na/block/45888226",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Making Software",
+      "createdAt": "2026-05-06T12:08:30Z",
+      "updatedAt": "2026-05-06T12:08:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "book",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Making Software",
+      "category": "Digital design",
+      "tags": [
+        "software-design",
+        "design-engineering",
+        "reference-manuals",
+        "programming",
+        "research",
+        "inspiration",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

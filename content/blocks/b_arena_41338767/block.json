@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_41338767",
+  "type": "link",
+  "title": "Until Labs",
+  "description": "We are optimistic that human whole-body reversible cryopreservation is solvable. We’ve built a world-class multidisciplinary team and raised $48M to tackle this problem.",
+  "category": "Companies",
+  "tags": [
+    "cryopreservation",
+    "biotechnology",
+    "organs"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-de2c361261f6f043fb152c6e.webp",
+      "mimeType": "image/webp",
+      "alt": "until",
+      "role": "thumbnail",
+      "bytes": 1314,
+      "sha256": "de2c361261f6f043fb152c6edf936343187c5732b9108b80a9a3ed41638dbb00",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MTMzODc2Ny9vcmlnaW5hbF80NDk2YTYyYTdjYjcxMjlmYTE5NDY3MDEzNTAwNjE0Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4496a62a7cb7129fa19467013500614c.png"
+    },
+    {
+      "path": "assets/preview-302560ac1213e5b801093e46.webp",
+      "mimeType": "image/webp",
+      "alt": "until",
+      "role": "preview",
+      "bytes": 42308,
+      "sha256": "302560ac1213e5b801093e46d10b4c8b556ba93f5cd580b6df06fed4b6ace0a3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/41338767/original_4496a62a7cb7129fa19467013500614c.png",
+      "originalName": "4496a62a7cb7129fa19467013500614c.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 964891,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-24T12:15:59.000Z",
+  "updatedAt": "2025-11-24T12:16:08.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.untillabs.com/",
+    "title": "until",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 41338767,
+      "url": "https://www.are.na/block/41338767",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "until",
+      "createdAt": "2025-11-24T12:15:59Z",
+      "updatedAt": "2025-11-24T12:16:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Startups",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.untillabs.com/",
+        "finding": "Official company site describes organ cryopreservation systems and its Series A financing; startup classification reflects venture-backed development stage."
+      }
+    ],
+    "original": {
+      "title": "until",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

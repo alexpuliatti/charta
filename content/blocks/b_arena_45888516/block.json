@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888516",
+  "type": "image",
+  "title": "Gradient Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "gradient-controls",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d7fab62f3ec4b7c40d1ef287.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Gradient Controls",
+      "role": "original",
+      "bytes": 57804,
+      "sha256": "d7fab62f3ec4b7c40d1ef287d210a53b39b2800badb26c9bc52914e15db5f404",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888516/original_352b7b6f72061bc96d9884f9902e4ee7.jpeg",
+      "originalName": "352b7b6f72061bc96d9884f9902e4ee7.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-8a4d4d7ac6776d8ed0a8aa56.webp",
+      "mimeType": "image/webp",
+      "alt": "Gradient Controls",
+      "role": "thumbnail",
+      "bytes": 3382,
+      "sha256": "8a4d4d7ac6776d8ed0a8aa561e6719270df083e096db8862d10d6e17668f6df4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUxNi9vcmlnaW5hbF8zNTJiN2I2ZjcyMDYxYmM5NmQ5ODg0Zjk5MDJlNGVlNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "352b7b6f72061bc96d9884f9902e4ee7.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-d7fab62f3ec4b7c40d1ef287-d7fab62f3e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Gradient Controls",
+      "bytes": 35334,
+      "sha256": "1c4bf7db350390074c8f35dc4ffc77b84442836dd19b1b751854b9997b12361a",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d7fab62f3ec4b7c40d1ef287.jpg",
+        "sourceSha256": "d7fab62f3ec4b7c40d1ef287d210a53b39b2800badb26c9bc52914e15db5f404",
+        "originalBytes": 57804,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:44.000Z",
+  "updatedAt": "2026-06-21T00:01:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888516",
+    "title": "93aa862834535e75fc9d37a68da6921b.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888516,
+      "url": "https://www.are.na/block/45888516",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "93aa862834535e75fc9d37a68da6921b.jpg",
+      "createdAt": "2026-05-06T12:20:44Z",
+      "updatedAt": "2026-06-21T00:01:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "93aa862834535e75fc9d37a68da6921b.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Gradient Controls",
+    "text": "→\nneutone\narchitecturemodel\nby Nao Tokui\nmidi in\nV\nstereo out\nV\ncustom settings\nA\nD\nwet\ndry\noutput gain\noversampling: x2\npreset\nsave",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1c4bf7db350390074c8f35dc4ffc77b84442836dd19b1b751854b9997b12361a"
+  }
+}

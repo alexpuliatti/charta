@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995828",
+  "type": "image",
+  "title": "Textured Stairwell",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "textured-stairwell",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-265b1e7b64963f77d0063559.png",
+      "mimeType": "image/png",
+      "alt": "Textured Stairwell",
+      "role": "original",
+      "bytes": 1694076,
+      "sha256": "265b1e7b64963f77d006355906b441934d2dec1efe1be2f551be3fcb45230ce3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995828/original_b7f452554951d4977c7e8f05d90a5b22.png",
+      "originalName": "b7f452554951d4977c7e8f05d90a5b22.png"
+    },
+    {
+      "path": "assets/thumbnail-992b2562935d21678c592023.webp",
+      "mimeType": "image/webp",
+      "alt": "Textured Stairwell",
+      "role": "thumbnail",
+      "bytes": 11834,
+      "sha256": "992b2562935d21678c592023c79585ca7e5ba4e9ae34568d2eb65e7913aadf59",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgyOC9vcmlnaW5hbF9iN2Y0NTI1NTQ5NTFkNDk3N2M3ZThmMDVkOTBhNWIyMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b7f452554951d4977c7e8f05d90a5b22.png"
+    },
+    {
+      "path": "assets/display-web-original-265b1e7b64963f77d0063559-265b1e7b64.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Textured Stairwell",
+      "bytes": 163434,
+      "sha256": "3ec9033ce6dae3bdaeb80edb0163a16af33eab6a69b6f7332bb1da299d865eb6",
+      "width": 960,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-265b1e7b64963f77d0063559.png",
+        "sourceSha256": "265b1e7b64963f77d006355906b441934d2dec1efe1be2f551be3fcb45230ce3",
+        "originalBytes": 1694076,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:01:32.000Z",
+  "updatedAt": "2026-02-28T12:01:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995828",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995828,
+      "url": "https://www.are.na/block/43995828",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:01:32Z",
+      "updatedAt": "2026-02-28T12:01:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Textured Stairwell",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3ec9033ce6dae3bdaeb80edb0163a16af33eab6a69b6f7332bb1da299d865eb6"
+  }
+}

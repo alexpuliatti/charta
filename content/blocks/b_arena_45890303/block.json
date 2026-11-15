@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890303",
+  "type": "link",
+  "title": "NeuralSet Datasets",
+  "description": "NeuralSet turns raw neural recordings and stimuli into PyTorch-ready\ndatasets.",
+  "category": "Technology",
+  "tags": [
+    "neural-data",
+    "datasets",
+    "pytorch"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ae7d185389b480d80d9c38a1.webp",
+      "mimeType": "image/webp",
+      "alt": "NeuralSet - neuroai",
+      "role": "thumbnail",
+      "bytes": 9546,
+      "sha256": "ae7d185389b480d80d9c38a1bef009c8601a5959d4f8a7ec0f12830702e119c9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDMwMy9vcmlnaW5hbF9lNTc1NDFmNTU5ZWExNGUwYjY2MTdkMTk2OTNiY2JlYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e57541f559ea14e0b6617d19693bcbec.png"
+    },
+    {
+      "path": "assets/preview-32f298e4c649d23e25427fb3.webp",
+      "mimeType": "image/webp",
+      "alt": "NeuralSet - neuroai",
+      "role": "preview",
+      "bytes": 185558,
+      "sha256": "32f298e4c649d23e25427fb3a8519cd232a47243884ed2c56d3164dd6be4fef8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890303/original_e57541f559ea14e0b6617d19693bcbec.png",
+      "originalName": "e57541f559ea14e0b6617d19693bcbec.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 390996,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:31:49.000Z",
+  "updatedAt": "2026-05-06T13:31:54.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://facebookresearch.github.io/neuroai/neuralset/",
+    "title": "NeuralSet - neuroai",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890303,
+      "url": "https://www.are.na/block/45890303",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "NeuralSet - neuroai",
+      "createdAt": "2026-05-06T13:31:49Z",
+      "updatedAt": "2026-05-06T13:31:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Research tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "NeuralSet - neuroai",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

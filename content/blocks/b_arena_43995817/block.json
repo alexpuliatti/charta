@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995817",
+  "type": "image",
+  "title": "Forest Pavilion",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "forest-pavilion",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2fc17a99028b1cc920492f9f.png",
+      "mimeType": "image/png",
+      "alt": "Forest Pavilion",
+      "role": "original",
+      "bytes": 1406712,
+      "sha256": "2fc17a99028b1cc920492f9f468437bea9b560a29d7e214eede1d677a22b2c36",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995817/original_286e3ba64d08b693c1066d6e578e11ef.png",
+      "originalName": "286e3ba64d08b693c1066d6e578e11ef.png"
+    },
+    {
+      "path": "assets/thumbnail-a2f0847959587ab2517d2ffa.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Pavilion",
+      "role": "thumbnail",
+      "bytes": 11704,
+      "sha256": "a2f0847959587ab2517d2ffac6dc27389df37e8f30fc2e28d7e7a778abcb6e40",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgxNy9vcmlnaW5hbF8yODZlM2JhNjRkMDhiNjkzYzEwNjZkNmU1NzhlMTFlZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "286e3ba64d08b693c1066d6e578e11ef.png"
+    },
+    {
+      "path": "assets/display-web-original-2fc17a99028b1cc920492f9f-2fc17a9902.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Forest Pavilion",
+      "bytes": 139982,
+      "sha256": "4e44471fad87f057b308a21b94a89fdb0d925f0cbb116d8360d7a2749481173f",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2fc17a99028b1cc920492f9f.png",
+        "sourceSha256": "2fc17a99028b1cc920492f9f468437bea9b560a29d7e214eede1d677a22b2c36",
+        "originalBytes": 1406712,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:00:45.000Z",
+  "updatedAt": "2026-02-28T12:00:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995817",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995817,
+      "url": "https://www.are.na/block/43995817",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:00:45Z",
+      "updatedAt": "2026-02-28T12:00:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Pavilion",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4e44471fad87f057b308a21b94a89fdb0d925f0cbb116d8360d7a2749481173f"
+  }
+}

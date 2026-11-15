@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227375",
+  "type": "video",
+  "title": "Wave Traces",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "wave-traces",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f149cb8e45587420695e489d.mp4",
+      "mimeType": "video/mp4",
+      "alt": "khyatitrehan-20250701_022916-3855614043.mp4",
+      "role": "original",
+      "bytes": 3827678,
+      "sha256": "f149cb8e45587420695e489d6407e300c48bb915857f1a1319fa9db560076a5a",
+      "sourceUrl": "https://attachments.are.na/44227375/106a693acc238eede9c2f87ac9096791.mp4",
+      "originalName": "106a693acc238eede9c2f87ac9096791.mp4"
+    },
+    {
+      "path": "assets/thumbnail-01860c42dc8d531af0d721d2.webp",
+      "mimeType": "image/webp",
+      "alt": "Wave Traces",
+      "role": "thumbnail",
+      "bytes": 12078,
+      "sha256": "01860c42dc8d531af0d721d24c13583e583cd859b107f46561a4f081990452a9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM3NS9vcmlnaW5hbF9hMGIyNjI5MGY2YzkzODNjMjAyNjAzMDctMi0zczE3NG0ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a0b26290f6c9383c20260307-2-3s174m.png"
+    },
+    {
+      "path": "assets/preview-45e505a85a1b63b7f739a0ba.webp",
+      "mimeType": "image/webp",
+      "alt": "khyatitrehan-20250701_022916-3855614043.mp4",
+      "role": "preview",
+      "bytes": 61654,
+      "sha256": "45e505a85a1b63b7f739a0ba8ef5b035ea81862194860e2bb8d20a92afcee525",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227375/original_a0b26290f6c9383c20260307-2-3s174m.png",
+      "originalName": "a0b26290f6c9383c20260307-2-3s174m.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 444419,
+        "width": 1048,
+        "height": 718,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-03-07T22:47:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227375",
+    "title": "khyatitrehan-20250701_022916-3855614043.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227375,
+      "url": "https://www.are.na/block/44227375",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "khyatitrehan-20250701_022916-3855614043.mp4",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-03-07T22:47:38Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "khyatitrehan-20250701_022916-3855614043.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wave Traces",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "01860c42dc8d531af0d721d24c13583e583cd859b107f46561a4f081990452a9"
+  }
+}

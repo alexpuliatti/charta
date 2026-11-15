@@ -1,0 +1,44 @@
+{
+  "upstream": "https://github.com/kepano/defuddle/tree/0.19.2",
+  "clipperReference": "https://github.com/obsidianmd/obsidian-clipper",
+  "packages": [
+    {
+      "name": "defuddle",
+      "version": "0.19.2",
+      "tarball": "https://registry.npmjs.org/defuddle/-/defuddle-0.19.2.tgz",
+      "integrity": "sha512-FY+a9Byo3uS04SQnQjLaguNoEA0Y58vXTB1XvvnOkO6M0zo897ipekv2Unci42QEY70emZ6OLe7C0vPojr1JEA==",
+      "license": "MIT",
+      "source": "dist/index.full.js",
+      "output": "defuddle.js",
+      "sha256": "b5a828bc49b863837931c3b59b97112a30b700b7fcd34dbe6e2a379dc1da379d"
+    },
+    {
+      "name": "turndown",
+      "version": "7.2.0",
+      "tarball": "https://registry.npmjs.org/turndown/-/turndown-7.2.0.tgz",
+      "integrity": "sha512-eCZGBN4nNNqM9Owkv9HAtWRYfLA4h909E/WGAWWBpmB275ehNhZyk87/Tpvjbp0jjNl9XwCsbe6bm6CqFsgD+A==",
+      "license": "MIT"
+    },
+    {
+      "name": "mathml-to-latex",
+      "version": "1.8.0",
+      "tarball": "https://registry.npmjs.org/mathml-to-latex/-/mathml-to-latex-1.8.0.tgz",
+      "integrity": "sha512-gQ0uK3zqB8HwlfaXJkEL5rgaZNbKUiBMmBP/B/W+b+t6KcseLSuYb1b0BjLgS9ZiQa24ePkqTX8/6FaQuDL7wQ==",
+      "license": "MIT"
+    },
+    {
+      "name": "temml",
+      "version": "0.13.3",
+      "tarball": "https://registry.npmjs.org/temml/-/temml-0.13.3.tgz",
+      "integrity": "sha512-GLNEdf5qBWux3adbOxFus4jlds8nCdEIkkKq99m/4GGTfqnsjlVlK/i371Ux7yYSg/WNmOyAkNT/GJlZoJ0v+w==",
+      "license": "MIT"
+    },
+    {
+      "name": "@xmldom/xmldom",
+      "version": "0.9.10",
+      "tarball": "https://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.9.10.tgz",
+      "integrity": "sha512-A9gOqLdi6cV4ibazAjcQufGj0B1y/vDqYrcuP6d/6x8P27gRS8643Dj9o1dEKtB6O7fwxb2FgBmJS2mX7gpvdw==",
+      "license": "MIT"
+    }
+  ]
+}

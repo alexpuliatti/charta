@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "f_curated_culture",
+  "title": "Culture",
+  "order": 8,
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

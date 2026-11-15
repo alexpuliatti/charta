@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340321",
+  "type": "image",
+  "title": "Dancer Silhouette",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "dancer-silhouette",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b0e7da601af727854b5343dc.gif",
+      "mimeType": "image/gif",
+      "alt": "Dancer Silhouette",
+      "role": "original",
+      "bytes": 11808386,
+      "sha256": "b0e7da601af727854b5343dcd246c37ffbc9c98cc633fe339177df6218139f2f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340321/original_12f5f139c0981eb3f5903ad2ab70153b.gif",
+      "originalName": "12f5f139c0981eb3f5903ad2ab70153b.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:10.000Z",
+  "updatedAt": "2026-10-10T12:53:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340321",
+    "title": "original_a0ed636f67b67a38a407e9c7c588a4ee.gif",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340321,
+      "url": "https://www.are.na/block/44340321",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_a0ed636f67b67a38a407e9c7c588a4ee.gif",
+      "createdAt": "2026-03-11T17:42:10Z",
+      "updatedAt": "2026-10-10T12:53:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_a0ed636f67b67a38a407e9c7c588a4ee.gif",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dancer Silhouette",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b0e7da601af727854b5343dcd246c37ffbc9c98cc633fe339177df6218139f2f"
+  }
+}

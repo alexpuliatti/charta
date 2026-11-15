@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942217",
+  "type": "image",
+  "title": "Artos Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "artos-website",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8082d8aaeab93dbe8f85e678.png",
+      "mimeType": "image/png",
+      "alt": "Artos Website",
+      "role": "original",
+      "bytes": 630429,
+      "sha256": "8082d8aaeab93dbe8f85e678a1a50229da748eafae35b09a1373490c8918fcdb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942217/original_4a69060ea5a2f60e8eca1c8faaa0fc98.png",
+      "originalName": "4a69060ea5a2f60e8eca1c8faaa0fc98.png"
+    },
+    {
+      "path": "assets/thumbnail-863b08385f6a80cb4e1378bd.webp",
+      "mimeType": "image/webp",
+      "alt": "Artos Website",
+      "role": "thumbnail",
+      "bytes": 1380,
+      "sha256": "863b08385f6a80cb4e1378bd34926142c0e910f7e283b922d48443009c90cce7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIxNy9vcmlnaW5hbF80YTY5MDYwZWE1YTJmNjBlOGVjYTFjOGZhYWEwZmM5OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4a69060ea5a2f60e8eca1c8faaa0fc98.png"
+    },
+    {
+      "path": "assets/display-web-original-8082d8aaeab93dbe8f85e678-8082d8aaea.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Artos Website",
+      "bytes": 120404,
+      "sha256": "5b57facc56623f1346362f69bc535857475f1e770074e17e390dce6c79ac7f6b",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8082d8aaeab93dbe8f85e678.png",
+        "sourceSha256": "8082d8aaeab93dbe8f85e678a1a50229da748eafae35b09a1373490c8918fcdb",
+        "originalBytes": 630429,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:32.000Z",
+  "updatedAt": "2026-05-23T10:48:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942217",
+    "title": "hhngo1aaeaa3zkw.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942217,
+      "url": "https://www.are.na/block/45942217",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhngo1aaeaa3zkw.png",
+      "createdAt": "2026-05-08T09:25:32Z",
+      "updatedAt": "2026-05-23T10:48:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhngo1aaeaa3zkw.png",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Artos Website",
+    "text": "PLASMA FACING MATERIALS\nFOR FUSION REACTORS\nAtomic Tessellator\nZAP. ENERGY PILOT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5b57facc56623f1346362f69bc535857475f1e770074e17e390dce6c79ac7f6b"
+  }
+}

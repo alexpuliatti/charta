@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_52260766",
+  "type": "link",
+  "title": "Morphing Dialog",
+  "description": "A dialog that uses layout animations to transition content into a focused view. It supports click-outside and escape key functionalities for closing. Built for React, Next.js, and Tailwind CSS.",
+  "category": "Interface design",
+  "tags": [
+    "dialogs",
+    "layout-animation",
+    "react"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ce0a049592582978f0f3cb8b.webp",
+      "mimeType": "image/webp",
+      "alt": "Morphing Dialog - Motion-Primitives",
+      "role": "thumbnail",
+      "bytes": 6786,
+      "sha256": "ce0a049592582978f0f3cb8bbe779c9e69b83b5f85110e9567ac88f8d2a1f11b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MjI2MDc2Ni9vcmlnaW5hbF8wNDJmMTAzNzk0OTQzMDY5YjM1ZjZiNmIzNGZmYzJmNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "042f103794943069b35f6b6b34ffc2f5.png"
+    },
+    {
+      "path": "assets/preview-1b79d0c64e6b32ea6f0b81b3.webp",
+      "mimeType": "image/webp",
+      "alt": "Morphing Dialog - Motion-Primitives",
+      "role": "preview",
+      "bytes": 115988,
+      "sha256": "1b79d0c64e6b32ea6f0b81b30652ee1e6d37cced7da4314b3bf719dfb3ff50ce",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/52260766/original_042f103794943069b35f6b6b34ffc2f5.png",
+      "originalName": "042f103794943069b35f6b6b34ffc2f5.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 361189,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-02T18:18:09.000Z",
+  "updatedAt": "2026-11-02T18:18:16.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://motion-primitives.com/docs/morphing-dialog",
+    "title": "Morphing Dialog - Motion-Primitives",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 52260766,
+      "url": "https://www.are.na/block/52260766",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Morphing Dialog - Motion-Primitives",
+      "createdAt": "2026-11-02T18:18:09Z",
+      "updatedAt": "2026-11-02T18:18:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Morphing Dialog - Motion-Primitives",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "editorial-design",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

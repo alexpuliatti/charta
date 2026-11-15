@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892867",
+  "type": "link",
+  "title": "Baked Components",
+  "description": "Supplies to speed up your design process from website to product design. Focused on custom AI design supplies for fast growing startups who value design. Find hero’s, tables, footers, dashboard’s, testimonials and more for startups and businesses of all sizes.",
+  "category": "Interface design",
+  "tags": [
+    "components",
+    "templates",
+    "product-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-8e7ac777c5404bd1a727f1bc.webp",
+      "mimeType": "image/webp",
+      "alt": "Baked Supply | Premium Design Supplies",
+      "role": "thumbnail",
+      "bytes": 7996,
+      "sha256": "8e7ac777c5404bd1a727f1bc27b567172e1b339537a802df7250742df3ebedb7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjg2Ny9vcmlnaW5hbF82ZDViOGQxZTU3ZjZhYmEzYjNmOGE5YjMwYjc5MDJlNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6d5b8d1e57f6aba3b3f8a9b30b7902e6.png"
+    },
+    {
+      "path": "assets/preview-13625b458debb0ebe6ca0325.webp",
+      "mimeType": "image/webp",
+      "alt": "Baked Supply | Premium Design Supplies",
+      "role": "preview",
+      "bytes": 162792,
+      "sha256": "13625b458debb0ebe6ca03252290b1ef7f0037547816ec9ca0d8eae0d03d2823",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892867/original_6d5b8d1e57f6aba3b3f8a9b30b7902e6.png",
+      "originalName": "6d5b8d1e57f6aba3b3f8a9b30b7902e6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 442842,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:50:48.000Z",
+  "updatedAt": "2026-05-06T14:50:59.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.baked.supply/components?category=all",
+    "title": "Baked Supply | Premium Design Supplies",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892867,
+      "url": "https://www.are.na/block/45892867",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Baked Supply | Premium Design Supplies",
+      "createdAt": "2026-05-06T14:50:48Z",
+      "updatedAt": "2026-05-06T14:50:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Baked Supply | Premium Design Supplies",
+      "category": "Objects and materials",
+      "tags": [
+        "web-design",
+        "furniture",
+        "product-design",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

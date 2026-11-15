@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995838",
+  "type": "image",
+  "title": "Forest Library",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "forest-library",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7aaba59107bcd1aa4e7bbab8.png",
+      "mimeType": "image/png",
+      "alt": "Forest Library",
+      "role": "original",
+      "bytes": 2233439,
+      "sha256": "7aaba59107bcd1aa4e7bbab83dfd2b01731e8633ee94a881d45436b2d4da4eb3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995838/original_2c5c9534688a441316878433ae1b509d.png",
+      "originalName": "2c5c9534688a441316878433ae1b509d.png"
+    },
+    {
+      "path": "assets/thumbnail-c13c5c0087c2052dc61a5e8b.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Library",
+      "role": "thumbnail",
+      "bytes": 25738,
+      "sha256": "c13c5c0087c2052dc61a5e8bfdd47d5ce2c6b0c20573f226d767e46d047daad2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgzOC9vcmlnaW5hbF8yYzVjOTUzNDY4OGE0NDEzMTY4Nzg0MzNhZTFiNTA5ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2c5c9534688a441316878433ae1b509d.png"
+    },
+    {
+      "path": "assets/display-web-original-7aaba59107bcd1aa4e7bbab8-7aaba59107.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Forest Library",
+      "bytes": 268976,
+      "sha256": "eeb8e58f42d69cc273ef39117d0b94fca6419f80e87f9bed8423a6f3c1d0b184",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7aaba59107bcd1aa4e7bbab8.png",
+        "sourceSha256": "7aaba59107bcd1aa4e7bbab83dfd2b01731e8633ee94a881d45436b2d4da4eb3",
+        "originalBytes": 2233439,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:02:36.000Z",
+  "updatedAt": "2026-05-28T17:17:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995838",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995838,
+      "url": "https://www.are.na/block/43995838",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:02:36Z",
+      "updatedAt": "2026-05-28T17:17:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Library",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "eeb8e58f42d69cc273ef39117d0b94fca6419f80e87f9bed8423a6f3c1d0b184"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888856",
+  "type": "video",
+  "title": "Tennis Collage",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "tennis-collage",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-23b2c091a9be5aa3adb8ac59.mp4",
+      "mimeType": "video/mp4",
+      "alt": "designeverywhere_-20251025_143756-126596941.mp4",
+      "role": "original",
+      "bytes": 260561,
+      "sha256": "23b2c091a9be5aa3adb8ac59d7600603a9e9862a58c9ed1b30c53426b98d29de",
+      "sourceUrl": "https://attachments.are.na/45888856/2ff3d7a29ac222b358f8ae60969ac8cc.mp4",
+      "originalName": "2ff3d7a29ac222b358f8ae60969ac8cc.mp4"
+    },
+    {
+      "path": "assets/display-web-original-23b2c091a9be5aa3adb8ac59-23b2c091a9.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "designeverywhere_-20251025_143756-126596941.mp4",
+      "bytes": 170525,
+      "sha256": "4ad1cb62aec6f0537e2cd5dcbbb4257abf0041a651187a1f8bddb27074ba680a",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-23b2c091a9be5aa3adb8ac59.mp4",
+        "sourceSha256": "23b2c091a9be5aa3adb8ac59d7600603a9e9862a58c9ed1b30c53426b98d29de",
+        "originalBytes": 260561,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/representative-frame.jpg",
+      "mimeType": "image/jpeg",
+      "role": "thumbnail",
+      "alt": "Tennis Collage",
+      "bytes": 44910,
+      "sha256": "03cd3c75d5682a2006c15eff243763da7da56bbcd2d7408f3e9235e4ce361adf",
+      "derivation": {
+        "method": "ffmpeg-representative-frame",
+        "timeSeconds": 1
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:33:00.000Z",
+  "updatedAt": "2026-05-06T12:33:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888856",
+    "title": "designeverywhere_-20251025_143756-126596941.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888856,
+      "url": "https://www.are.na/block/45888856",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "designeverywhere_-20251025_143756-126596941.mp4",
+      "createdAt": "2026-05-06T12:33:00Z",
+      "updatedAt": "2026-05-06T12:33:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "designeverywhere_-20251025_143756-126596941.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tennis Collage",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "03cd3c75d5682a2006c15eff243763da7da56bbcd2d7408f3e9235e4ce361adf"
+  }
+}

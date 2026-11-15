@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787912",
+  "type": "image",
+  "title": "Forest Hearth",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "forest-hearth",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d85cf457b41363ff60216980.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Forest Hearth",
+      "role": "original",
+      "bytes": 517192,
+      "sha256": "d85cf457b41363ff602169809aee2ef6fed28b3e5dda2ec0e8d54d7efed8d721",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787912/original_8122e47848a6712c9440dc681989c1af.jpg",
+      "originalName": "8122e47848a6712c9440dc681989c1af.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5a86008a1dbb142b3fc48bc9.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Hearth",
+      "role": "thumbnail",
+      "bytes": 25192,
+      "sha256": "5a86008a1dbb142b3fc48bc9724ee467bcf78c09315c10031145379ff304dce7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkxMi9vcmlnaW5hbF84MTIyZTQ3ODQ4YTY3MTJjOTQ0MGRjNjgxOTg5YzFhZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8122e47848a6712c9440dc681989c1af.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d85cf457b41363ff60216980-d85cf457b4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Forest Hearth",
+      "bytes": 383224,
+      "sha256": "14307eeae10b860242f45d3557f8c7b5c925e02e83f2b129e8e7add8d5217824",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d85cf457b41363ff60216980.jpg",
+        "sourceSha256": "d85cf457b41363ff602169809aee2ef6fed28b3e5dda2ec0e8d54d7efed8d721",
+        "originalBytes": 517192,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:04:49.000Z",
+  "updatedAt": "2025-11-02T16:04:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787912",
+    "title": "industrialkonzept-20250204_112516-3314746986.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787912,
+      "url": "https://www.are.na/block/40787912",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20250204_112516-3314746986.jpg",
+      "createdAt": "2025-11-02T16:04:49Z",
+      "updatedAt": "2025-11-02T16:04:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20250204_112516-3314746986.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Hearth",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "14307eeae10b860242f45d3557f8c7b5c925e02e83f2b129e8e7add8d5217824"
+  }
+}

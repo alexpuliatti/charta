@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888315",
+  "type": "video",
+  "title": "Book Grid",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "book-grid",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-73e5fe45b34d67ffb3ce8a4e.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778063206803.mp4",
+      "role": "original",
+      "bytes": 8366199,
+      "sha256": "73e5fe45b34d67ffb3ce8a4eeda8fc213996405062676a35a183b6e646eb89fd",
+      "sourceUrl": "https://attachments.are.na/45888315/244eaff62521ba8d7cf6d2530eae3f22.mp4",
+      "originalName": "244eaff62521ba8d7cf6d2530eae3f22.mp4"
+    },
+    {
+      "path": "assets/thumbnail-48231a7ced80af235b9c8cd4.webp",
+      "mimeType": "image/webp",
+      "alt": "Book Grid",
+      "role": "thumbnail",
+      "bytes": 10580,
+      "sha256": "48231a7ced80af235b9c8cd4be807c573acfcbb35283f7c53ee1655d993ab332",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMxNS9vcmlnaW5hbF81ZDc5MzBiYTFhNTFhMzE1MjAyNjA1MDYtMi1uZWY3dDgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5d7930ba1a51a31520260506-2-nef7t8.png"
+    },
+    {
+      "path": "assets/display-web-original-73e5fe45b34d67ffb3ce8a4e-73e5fe45b3.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778063206803.mp4",
+      "bytes": 2564614,
+      "sha256": "77117d70fb98b0237fa37ae23e5f54a59d8dbbbeda2646948f3f7e0bf6fd20c7",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-73e5fe45b34d67ffb3ce8a4e.mp4",
+        "sourceSha256": "73e5fe45b34d67ffb3ce8a4eeda8fc213996405062676a35a183b6e646eb89fd",
+        "originalBytes": 8366199,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-bb4fa1267ee15edbac112dde.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778063206803.mp4",
+      "role": "preview",
+      "bytes": 283352,
+      "sha256": "bb4fa1267ee15edbac112dde2509bd8f00e72f7e9078a031f3219370bbbd34d4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888315/original_5d7930ba1a51a31520260506-2-nef7t8.png",
+      "originalName": "5d7930ba1a51a31520260506-2-nef7t8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 3489723,
+        "width": 2560,
+        "height": 1707,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:38.000Z",
+  "updatedAt": "2026-05-06T12:12:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888315",
+    "title": "ssstwitter.com_1778063206803.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888315,
+      "url": "https://www.are.na/block/45888315",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778063206803.mp4",
+      "createdAt": "2026-05-06T12:12:38Z",
+      "updatedAt": "2026-05-06T12:12:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778063206803.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Book Grid",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "48231a7ced80af235b9c8cd4be807c573acfcbb35283f7c53ee1655d993ab332"
+  }
+}

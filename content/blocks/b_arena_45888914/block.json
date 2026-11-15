@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888914",
+  "type": "video",
+  "title": "Particle Editor",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "particle-editor",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b45c9280364e8fa3ddaaebc1.mp4",
+      "mimeType": "video/mp4",
+      "alt": "pbltrr-20250819_175656-1041530493.mp4",
+      "role": "original",
+      "bytes": 1651576,
+      "sha256": "b45c9280364e8fa3ddaaebc18c47cce764febe2597764fc4ff6f1c98c3e6a9f8",
+      "sourceUrl": "https://attachments.are.na/45888914/40889a9d830dc4d32892aa6d7812bc6f.mp4",
+      "originalName": "40889a9d830dc4d32892aa6d7812bc6f.mp4"
+    },
+    {
+      "path": "assets/thumbnail-bcbcff4835bac8779f4749cd.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Editor",
+      "role": "thumbnail",
+      "bytes": 3014,
+      "sha256": "bcbcff4835bac8779f4749cdf84de3ae43ed9661f0da30a953767b98d4793219",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODkxNC9vcmlnaW5hbF9kMDEwOWUxOWRjOWJhOGIzMjAyNjA1MDYtMi05OXA3YTkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d0109e19dc9ba8b320260506-2-99p7a9.png"
+    },
+    {
+      "path": "assets/display-web-original-b45c9280364e8fa3ddaaebc1-b45c928036.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "pbltrr-20250819_175656-1041530493.mp4",
+      "bytes": 1643368,
+      "sha256": "f486858b234930ba917fe3a438a7c247a8362e0b595866cc7b71815f987a3ac3",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b45c9280364e8fa3ddaaebc1.mp4",
+        "sourceSha256": "b45c9280364e8fa3ddaaebc18c47cce764febe2597764fc4ff6f1c98c3e6a9f8",
+        "originalBytes": 1651576,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-536be665467bb4cca7c7e1d2.webp",
+      "mimeType": "image/webp",
+      "alt": "pbltrr-20250819_175656-1041530493.mp4",
+      "role": "preview",
+      "bytes": 30602,
+      "sha256": "536be665467bb4cca7c7e1d24eb14d1e2024876570cb6bdece194a44ebce4295",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888914/original_d0109e19dc9ba8b320260506-2-99p7a9.png",
+      "originalName": "d0109e19dc9ba8b320260506-2-99p7a9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 275247,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:35:20.000Z",
+  "updatedAt": "2026-05-06T12:35:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888914",
+    "title": "pbltrr-20250819_175656-1041530493.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888914,
+      "url": "https://www.are.na/block/45888914",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "pbltrr-20250819_175656-1041530493.mp4",
+      "createdAt": "2026-05-06T12:35:20Z",
+      "updatedAt": "2026-05-06T12:35:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "pbltrr-20250819_175656-1041530493.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Particle Editor",
+    "text": "Ctn",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bcbcff4835bac8779f4749cdf84de3ae43ed9661f0da30a953767b98d4793219"
+  }
+}

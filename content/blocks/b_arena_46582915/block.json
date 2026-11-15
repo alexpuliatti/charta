@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582915",
+  "type": "video",
+  "title": "Dark Canvas",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "dark-canvas",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-852feeb51a5ad1368be82488.mp4",
+      "mimeType": "video/mp4",
+      "alt": "built-in-retina-display",
+      "role": "original",
+      "bytes": 181605,
+      "sha256": "852feeb51a5ad1368be824888658a23acaa401d68cc41fc4823e90befed2f73d",
+      "sourceUrl": "https://attachments.are.na/46582915/4f80c9071d9da51f39c7a5284ad51682.mp4",
+      "originalName": "4f80c9071d9da51f39c7a5284ad51682.mp4"
+    },
+    {
+      "path": "assets/thumbnail-ca82dfc866c75bb20034de2b.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Canvas",
+      "role": "thumbnail",
+      "bytes": 600,
+      "sha256": "ca82dfc866c75bb20034de2b3ebb3b2da7f6420bf4c9b6f733db32161a2f5a10",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkxNS9vcmlnaW5hbF9jZjY5NjlmMWRmOTg4NDJjMjAyNjA1MjktMi16d21nMXUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "cf6969f1df98842c20260529-2-zwmg1u.png"
+    },
+    {
+      "path": "assets/display-web-original-852feeb51a5ad1368be82488-852feeb51a.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "built-in-retina-display",
+      "bytes": 24265,
+      "sha256": "4fb77b361b1afd48ab45c9beae7fd722c0b7ebab36eb99a059fb333fba18c181",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-852feeb51a5ad1368be82488.mp4",
+        "sourceSha256": "852feeb51a5ad1368be824888658a23acaa401d68cc41fc4823e90befed2f73d",
+        "originalBytes": 181605,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-35a4e8b9b2aa9f466b8dc1bf.webp",
+      "mimeType": "image/webp",
+      "alt": "built-in-retina-display",
+      "role": "preview",
+      "bytes": 6946,
+      "sha256": "35a4e8b9b2aa9f466b8dc1bf224c72514e057b65f1f31ef8ff891af0b262b14e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582915/original_cf6969f1df98842c20260529-2-zwmg1u.png",
+      "originalName": "cf6969f1df98842c20260529-2-zwmg1u.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 39045,
+        "width": 2380,
+        "height": 2160,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:29.000Z",
+  "updatedAt": "2026-05-29T08:53:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582915",
+    "title": "built-in-retina-display",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582915,
+      "url": "https://www.are.na/block/46582915",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "built-in-retina-display",
+      "createdAt": "2026-05-29T08:53:29Z",
+      "updatedAt": "2026-05-29T08:53:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "built-in-retina-display",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Canvas",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ca82dfc866c75bb20034de2b3ebb3b2da7f6420bf4c9b6f733db32161a2f5a10"
+  }
+}

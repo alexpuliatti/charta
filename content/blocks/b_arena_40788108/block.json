@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40788108",
+  "type": "image",
+  "title": "Timber Dining",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "timber-dining",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2518f1a00908e748a5fbf68b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Timber Dining",
+      "role": "original",
+      "bytes": 879119,
+      "sha256": "2518f1a00908e748a5fbf68bd60d4592a032280e5ec50891c0b86101ada5f4c8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40788108/original_4340a8259f3bb97cf2019dd43a5fa4dc.jpg",
+      "originalName": "4340a8259f3bb97cf2019dd43a5fa4dc.jpg"
+    },
+    {
+      "path": "assets/thumbnail-a89a862e1e48697ff579be37.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Dining",
+      "role": "thumbnail",
+      "bytes": 18886,
+      "sha256": "a89a862e1e48697ff579be37449158323ce5282af265b5f3482c64895706e3eb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4ODEwOC9vcmlnaW5hbF80MzQwYTgyNTlmM2JiOTdjZjIwMTlkZDQzYTVmYTRkYy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4340a8259f3bb97cf2019dd43a5fa4dc.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2518f1a00908e748a5fbf68b-2518f1a009.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Dining",
+      "bytes": 470494,
+      "sha256": "6d492e1f2557b43bbea0959ebd92509d00922cbe650af05d47b369aaea90bd1c",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2518f1a00908e748a5fbf68b.jpg",
+        "sourceSha256": "2518f1a00908e748a5fbf68bd60d4592a032280e5ec50891c0b86101ada5f4c8",
+        "originalBytes": 879119,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:12:07.000Z",
+  "updatedAt": "2025-11-02T16:12:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40788108",
+    "title": "donborsch-20250214_202250-2181331449.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40788108,
+      "url": "https://www.are.na/block/40788108",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "donborsch-20250214_202250-2181331449.jpg",
+      "createdAt": "2025-11-02T16:12:07Z",
+      "updatedAt": "2025-11-02T16:12:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "donborsch-20250214_202250-2181331449.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Dining",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6d492e1f2557b43bbea0959ebd92509d00922cbe650af05d47b369aaea90bd1c"
+  }
+}

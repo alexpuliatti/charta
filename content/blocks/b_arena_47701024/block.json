@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701024",
+  "type": "image",
+  "title": "A Train",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "a-train",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6b17502bf4bf6240be191081.png",
+      "mimeType": "image/png",
+      "alt": "A Train",
+      "role": "original",
+      "bytes": 3239230,
+      "sha256": "6b17502bf4bf6240be19108184b8754e94814dda36c83d558e4da1a19b43a3a4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701024/original_807fd9c3d4ad1266760ff3b92e924973.png",
+      "originalName": "807fd9c3d4ad1266760ff3b92e924973.png"
+    },
+    {
+      "path": "assets/thumbnail-477817b82f2bb473730ee86b.webp",
+      "mimeType": "image/webp",
+      "alt": "A Train",
+      "role": "thumbnail",
+      "bytes": 25946,
+      "sha256": "477817b82f2bb473730ee86bb080aae039760ed49d707e97423ee505e701d69d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyNC9vcmlnaW5hbF84MDdmZDljM2Q0YWQxMjY2NzYwZmYzYjkyZTkyNDk3My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "807fd9c3d4ad1266760ff3b92e924973.png"
+    },
+    {
+      "path": "assets/display-web-original-6b17502bf4bf6240be191081-6b17502bf4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "A Train",
+      "bytes": 313984,
+      "sha256": "6ce4a9f38f43c930ab9abb5b397f6c6cb9f5937008cce4d18a67326b8317e46a",
+      "width": 1132,
+      "height": 1416,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6b17502bf4bf6240be191081.png",
+        "sourceSha256": "6b17502bf4bf6240be19108184b8754e94814dda36c83d558e4da1a19b43a3a4",
+        "originalBytes": 3239230,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:17.000Z",
+  "updatedAt": "2026-07-08T14:56:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701024",
+    "title": "Screenshot 2023-09-12 alle 16.53.28",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701024,
+      "url": "https://www.are.na/block/47701024",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.53.28",
+      "createdAt": "2026-07-08T14:56:17Z",
+      "updatedAt": "2026-07-08T14:56:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.53.28",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "A Train",
+    "text": "TAKE THE A' TRAIN\nby BILLY STRAYHORN\nYale\n1 Andyplane\n\"TEMPOT\nING.\nMusIc~\n/ 1775\nBRO\nNEW YORK AR WARPE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6ce4a9f38f43c930ab9abb5b397f6c6cb9f5937008cce4d18a67326b8317e46a"
+  }
+}

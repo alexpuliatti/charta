@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888855",
+  "type": "video",
+  "title": "Subdivision Grid",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "subdivision-grid",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4c590b4b8af332f1f8e01f89.mp4",
+      "mimeType": "video/mp4",
+      "alt": "designeverywhere_-20251025_143756-126596944.mp4",
+      "role": "original",
+      "bytes": 444737,
+      "sha256": "4c590b4b8af332f1f8e01f89090deccad16ddaee9dd5df798e6383e52a091656",
+      "sourceUrl": "https://attachments.are.na/45888855/e588e48482458ea9bd60e86adc8382fe.mp4",
+      "originalName": "e588e48482458ea9bd60e86adc8382fe.mp4"
+    },
+    {
+      "path": "assets/thumbnail-256bc8d763ce6493bb979aa2.webp",
+      "mimeType": "image/webp",
+      "alt": "Subdivision Grid",
+      "role": "thumbnail",
+      "bytes": 1274,
+      "sha256": "256bc8d763ce6493bb979aa2addbc782fafb8e9a830a1534f701b7ebaac43830",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg1NS9vcmlnaW5hbF9hMTYxNGMwZGI3NmU4MjE1MjAyNjA1MDYtMi13NGZkODMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a1614c0db76e821520260506-2-w4fd83.png"
+    },
+    {
+      "path": "assets/display-web-original-4c590b4b8af332f1f8e01f89-4c590b4b8a.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "designeverywhere_-20251025_143756-126596944.mp4",
+      "bytes": 339926,
+      "sha256": "65e6a93ed14ee0c2a8bc71568147f34704bd3d739b96936c46c3a1f9546c518d",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4c590b4b8af332f1f8e01f89.mp4",
+        "sourceSha256": "4c590b4b8af332f1f8e01f89090deccad16ddaee9dd5df798e6383e52a091656",
+        "originalBytes": 444737,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-392bad128d35d638e8e9ac75.webp",
+      "mimeType": "image/webp",
+      "alt": "designeverywhere_-20251025_143756-126596944.mp4",
+      "role": "preview",
+      "bytes": 5544,
+      "sha256": "392bad128d35d638e8e9ac752fe75aca4f560c91fc6152394ab55671f41e3020",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888855/original_a1614c0db76e821520260506-2-w4fd83.png",
+      "originalName": "a1614c0db76e821520260506-2-w4fd83.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 35385,
+        "width": 716,
+        "height": 954,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:32:57.000Z",
+  "updatedAt": "2026-05-06T12:32:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888855",
+    "title": "designeverywhere_-20251025_143756-126596944.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888855,
+      "url": "https://www.are.na/block/45888855",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "designeverywhere_-20251025_143756-126596944.mp4",
+      "createdAt": "2026-05-06T12:32:57Z",
+      "updatedAt": "2026-05-06T12:32:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "designeverywhere_-20251025_143756-126596944.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Subdivision Grid",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "256bc8d763ce6493bb979aa2addbc782fafb8e9a830a1534f701b7ebaac43830"
+  }
+}

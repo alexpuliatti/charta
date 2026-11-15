@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888532",
+  "type": "image",
+  "title": "Keith Jarrett",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "keith-jarrett",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dd6d5e08243ca8296e7bfcf9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Keith Jarrett",
+      "role": "original",
+      "bytes": 53277,
+      "sha256": "dd6d5e08243ca8296e7bfcf97f5325345a12285ad864a3f595aebfaf98699399",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888532/original_a24fcf34e41df545ba7bd0bbcc8233f4.jpeg",
+      "originalName": "a24fcf34e41df545ba7bd0bbcc8233f4.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-69d55f28a1fc488c5863a182.webp",
+      "mimeType": "image/webp",
+      "alt": "Keith Jarrett",
+      "role": "thumbnail",
+      "bytes": 7272,
+      "sha256": "69d55f28a1fc488c5863a182b77a1c793a7f04329cd1bacdd683fd38bd69920d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUzMi9vcmlnaW5hbF9hMjRmY2YzNGU0MWRmNTQ1YmE3YmQwYmJjYzgyMzNmNC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a24fcf34e41df545ba7bd0bbcc8233f4.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-dd6d5e08243ca8296e7bfcf9-dd6d5e0824.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Keith Jarrett",
+      "bytes": 35438,
+      "sha256": "69bf126459a30ac9e19001424de093c5a78e08c18ac25fdaa599c3a97adb2a0a",
+      "width": 749,
+      "height": 754,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dd6d5e08243ca8296e7bfcf9.jpg",
+        "sourceSha256": "dd6d5e08243ca8296e7bfcf97f5325345a12285ad864a3f595aebfaf98699399",
+        "originalBytes": 53277,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:28.000Z",
+  "updatedAt": "2026-05-06T12:21:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888532",
+    "title": "816ead85802107bad7beb647ba5f3b75.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888532,
+      "url": "https://www.are.na/block/45888532",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "816ead85802107bad7beb647ba5f3b75.jpg",
+      "createdAt": "2026-05-06T12:21:28Z",
+      "updatedAt": "2026-05-06T12:21:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "816ead85802107bad7beb647ba5f3b75.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Keith Jarrett",
+    "text": "KEITH JARRETT\nWORKS\nECM",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "69bf126459a30ac9e19001424de093c5a78e08c18ac25fdaa599c3a97adb2a0a"
+  }
+}

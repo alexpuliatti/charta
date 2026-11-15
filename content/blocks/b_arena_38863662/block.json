@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_38863662",
+  "type": "link",
+  "title": "3200 Kelvin",
+  "description": "Web Design and Development studio creating authentic websites that speak, connect, illuminate, and transform brands’ digital presence",
+  "category": "Companies",
+  "tags": [
+    "web-design",
+    "design-studio"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-eeb6f85bc81df373ef00a4f3.webp",
+      "mimeType": "image/webp",
+      "alt": "3200 Kelvin — Web Design Studio",
+      "role": "thumbnail",
+      "bytes": 780,
+      "sha256": "eeb6f85bc81df373ef00a4f35449fac68157f028e21c07eeef2b3dee623f810b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzODg2MzY2Mi9vcmlnaW5hbF8wZDNmMTNiZDNhNTE1ZTJiOTRlYWIxZGE2MDQ0ZDM0Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0d3f13bd3a515e2b94eab1da6044d34c.png"
+    },
+    {
+      "path": "assets/preview-c9eddbc73c6dd82c4268b7bd.webp",
+      "mimeType": "image/webp",
+      "alt": "3200 Kelvin — Web Design Studio",
+      "role": "preview",
+      "bytes": 12684,
+      "sha256": "c9eddbc73c6dd82c4268b7bd1e06f0ac4ac47315d43fce12592d5748685ddd85",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/38863662/original_0d3f13bd3a515e2b94eab1da6044d34c.png",
+      "originalName": "0d3f13bd3a515e2b94eab1da6044d34c.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 70737,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-08-18T17:55:58.000Z",
+  "updatedAt": "2026-02-28T19:05:05.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.3200kelvin.com",
+    "title": "3200 Kelvin — Web Design Studio",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 38863662,
+      "url": "https://www.are.na/block/38863662",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "3200 Kelvin — Web Design Studio",
+      "createdAt": "2025-08-18T17:55:58Z",
+      "updatedAt": "2026-02-28T19:05:05Z",
+      "addedBy": {
+        "id": 146730,
+        "name": "Laura Sinisterra",
+        "slug": "symbolicxchange"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "3200 Kelvin — Web Design Studio",
+      "category": "Digital design",
+      "tags": [
+        "web-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

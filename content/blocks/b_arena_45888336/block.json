@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888336",
+  "type": "image",
+  "title": "Open Living",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "open-living",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-928ab600a9b33a50a425d9c4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Open Living",
+      "role": "original",
+      "bytes": 456055,
+      "sha256": "928ab600a9b33a50a425d9c4b4c9a037777601bf34b486399dad2a5a6f9bad1d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888336/original_8b82824ce57204620288983f3b64e4e9.jpeg",
+      "originalName": "8b82824ce57204620288983f3b64e4e9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a92f5b6ba5cf6d9d69462a7f.webp",
+      "mimeType": "image/webp",
+      "alt": "Open Living",
+      "role": "thumbnail",
+      "bytes": 7646,
+      "sha256": "a92f5b6ba5cf6d9d69462a7f76138c0d3f30a21eff06415477dcb7fe9112f3d7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMzNi9vcmlnaW5hbF84YjgyODI0Y2U1NzIwNDYyMDI4ODk4M2YzYjY0ZTRlOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "8b82824ce57204620288983f3b64e4e9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-928ab600a9b33a50a425d9c4-928ab600a9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Open Living",
+      "bytes": 171228,
+      "sha256": "2e32d282673ff3f2eaf69b7c1e2d40b75dba5ccfbfd90896b482b4cde78c100d",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-928ab600a9b33a50a425d9c4.jpg",
+        "sourceSha256": "928ab600a9b33a50a425d9c4b4c9a037777601bf34b486399dad2a5a6f9bad1d",
+        "originalBytes": 456055,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:13:17.000Z",
+  "updatedAt": "2026-05-06T12:13:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888336",
+    "title": "johnpawsonworks-3195919890-20260424_110020.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888336,
+      "url": "https://www.are.na/block/45888336",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "johnpawsonworks-3195919890-20260424_110020.jpg",
+      "createdAt": "2026-05-06T12:13:17Z",
+      "updatedAt": "2026-05-06T12:13:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "johnpawsonworks-3195919890-20260424_110020.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Open Living",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2e32d282673ff3f2eaf69b7c1e2d40b75dba5ccfbfd90896b482b4cde78c100d"
+  }
+}

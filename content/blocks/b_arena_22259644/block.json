@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_22259644",
+  "type": "image",
+  "title": "Upward Arrow",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "upward-arrow",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f23f39d4c0a9c328b7816a64.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Upward Arrow",
+      "role": "original",
+      "bytes": 61463,
+      "sha256": "f23f39d4c0a9c328b7816a64164cfe890fb8dc489e318df3ff08cdc5c99f1425",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/22259644/original_053c42a2a1b0b7c7295fd3b76a127be9.jpg",
+      "originalName": "053c42a2a1b0b7c7295fd3b76a127be9.jpg"
+    },
+    {
+      "path": "assets/thumbnail-172429fc59e6b7ca5664fece.webp",
+      "mimeType": "image/webp",
+      "alt": "Upward Arrow",
+      "role": "thumbnail",
+      "bytes": 4560,
+      "sha256": "172429fc59e6b7ca5664fece636b7a9cb8994a6609c7ca2ab248593864b4fe51",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMjI1OTY0NC9vcmlnaW5hbF8wNTNjNDJhMmExYjBiN2M3Mjk1ZmQzYjc2YTEyN2JlOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "053c42a2a1b0b7c7295fd3b76a127be9.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f23f39d4c0a9c328b7816a64-f23f39d4c0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Upward Arrow",
+      "bytes": 32556,
+      "sha256": "551318fe45910988558d22084f50736f821cf78e123a8a9b63fb6a5987f94170",
+      "width": 865,
+      "height": 1280,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f23f39d4c0a9c328b7816a64.jpg",
+        "sourceSha256": "f23f39d4c0a9c328b7816a64164cfe890fb8dc489e318df3ff08cdc5c99f1425",
+        "originalBytes": 61463,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-06-14T20:03:50.000Z",
+  "updatedAt": "2026-03-11T13:18:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/22259644",
+    "title": "image-2023-06-14-23:03:46.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 22259644,
+      "url": "https://www.are.na/block/22259644",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image-2023-06-14-23:03:46.jpg",
+      "createdAt": "2023-06-14T20:03:50Z",
+      "updatedAt": "2026-03-11T13:18:48Z",
+      "addedBy": {
+        "id": 111268,
+        "name": "Alzhana Amusova",
+        "slug": "alzhana-amusova"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image-2023-06-14-23:03:46.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Upward Arrow",
+    "text": "WHEY / CHOOSE A WORD IT\nMEANS JUST WHAT / CHOOSE\nTony Sive",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "551318fe45910988558d22084f50736f821cf78e123a8a9b63fb6a5987f94170"
+  }
+}

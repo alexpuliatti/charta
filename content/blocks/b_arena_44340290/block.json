@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340290",
+  "type": "image",
+  "title": "Chess Figure",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "chess-figure",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-750eb815644f7578ae6a08a4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Chess Figure",
+      "role": "original",
+      "bytes": 19206,
+      "sha256": "750eb815644f7578ae6a08a4db971d13d51cc599fba8d5e78ffc0ac3cb3dd657",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340290/original_2a3669c2f5c1ac2edbc695bb72f207ec.jpg",
+      "originalName": "2a3669c2f5c1ac2edbc695bb72f207ec.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3f34f980ed04f8346357c8c6.webp",
+      "mimeType": "image/webp",
+      "alt": "Chess Figure",
+      "role": "thumbnail",
+      "bytes": 5008,
+      "sha256": "3f34f980ed04f8346357c8c653dfdfb5481137da6752aac501a4014addf58c43",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5MC9vcmlnaW5hbF8yYTM2NjljMmY1YzFhYzJlZGJjNjk1YmI3MmYyMDdlYy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2a3669c2f5c1ac2edbc695bb72f207ec.jpg"
+    },
+    {
+      "path": "assets/display-web-original-750eb815644f7578ae6a08a4-750eb81564.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Chess Figure",
+      "bytes": 12042,
+      "sha256": "31850a9dafdb8ef4bf54a2606880c1c56539eb15593a22568011b352a3bad83f",
+      "width": 508,
+      "height": 379,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-750eb815644f7578ae6a08a4.jpg",
+        "sourceSha256": "750eb815644f7578ae6a08a4db971d13d51cc599fba8d5e78ffc0ac3cb3dd657",
+        "originalBytes": 19206,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340290",
+    "title": "2f55f89442f7c2e525aaac813ae3dd40.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340290,
+      "url": "https://www.are.na/block/44340290",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "2f55f89442f7c2e525aaac813ae3dd40.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2f55f89442f7c2e525aaac813ae3dd40.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Chess Figure",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "31850a9dafdb8ef4bf54a2606880c1c56539eb15593a22568011b352a3bad83f"
+  }
+}

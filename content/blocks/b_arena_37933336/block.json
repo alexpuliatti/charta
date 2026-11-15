@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_37933336",
+  "type": "image",
+  "title": "Dashboard Radio",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "dashboard-radio",
+    "product-design",
+    "objects-and-materials"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7c68548b3f57a7a2acb0d306.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Dashboard Radio",
+      "role": "original",
+      "bytes": 343759,
+      "sha256": "7c68548b3f57a7a2acb0d3065ef716d7214c3348454b0dfdbf46b8a5a7735af0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/37933336/original_3137701a6fc9d7792a1b8b95309bb185.jpg",
+      "originalName": "3137701a6fc9d7792a1b8b95309bb185.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f4d74af7a9574a643c9d3440.webp",
+      "mimeType": "image/webp",
+      "alt": "Dashboard Radio",
+      "role": "thumbnail",
+      "bytes": 3704,
+      "sha256": "f4d74af7a9574a643c9d34408e2f500ef5a03479141410e44e84acc0fb414b2e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzNzkzMzMzNi9vcmlnaW5hbF8zMTM3NzAxYTZmYzlkNzc5MmExYjhiOTUzMDliYjE4NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3137701a6fc9d7792a1b8b95309bb185.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7c68548b3f57a7a2acb0d306-7c68548b3f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dashboard Radio",
+      "bytes": 34644,
+      "sha256": "9af4b8a90e899d0994c82191346575ebca97bab3031fabee29342f37c2b46be4",
+      "width": 1620,
+      "height": 1297,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7c68548b3f57a7a2acb0d306.jpg",
+        "sourceSha256": "7c68548b3f57a7a2acb0d3065ef716d7214c3348454b0dfdbf46b8a5a7735af0",
+        "originalBytes": 343759,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-07-07T20:34:55.000Z",
+  "updatedAt": "2026-05-10T20:16:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/37933336",
+    "title": "02.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 37933336,
+      "url": "https://www.are.na/block/37933336",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "02.jpg",
+      "createdAt": "2025-07-07T20:34:55Z",
+      "updatedAt": "2026-05-10T20:16:26Z",
+      "addedBy": {
+        "id": 62001,
+        "name": "Matija Gabrilo",
+        "slug": "matija-gabrilo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "02.jpg",
+      "category": "Objects and materials",
+      "tags": [
+        "product-design",
+        "objects",
+        "objects-and-materials"
+      ],
+      "collectionIds": [
+        "c_arena_4921285"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dashboard Radio",
+    "text": "VOL\nTREB\nSATURN\n11:27\n7",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9af4b8a90e899d0994c82191346575ebca97bab3031fabee29342f37c2b46be4"
+  }
+}

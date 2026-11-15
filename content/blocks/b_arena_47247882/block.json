@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247882",
+  "type": "image",
+  "title": "Code Editor",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "code-editor",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-72d2909b9104c4d56c71553a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Code Editor",
+      "role": "original",
+      "bytes": 301723,
+      "sha256": "72d2909b9104c4d56c71553a7b5edb2ac749b48bf75e8bf81c7877349757770a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247882/original_ef905112a06ed661864a21f2cf95298f.jpeg",
+      "originalName": "ef905112a06ed661864a21f2cf95298f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-bde699bcaef28956aebdfbc1.webp",
+      "mimeType": "image/webp",
+      "alt": "Code Editor",
+      "role": "thumbnail",
+      "bytes": 3574,
+      "sha256": "bde699bcaef28956aebdfbc13d916f13d8c827e04a493c71376efb81b196ee02",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg4Mi9vcmlnaW5hbF9lZjkwNTExMmEwNmVkNjYxODY0YTIxZjJjZjk1Mjk4Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ef905112a06ed661864a21f2cf95298f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-72d2909b9104c4d56c71553a-72d2909b91.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Code Editor",
+      "bytes": 51832,
+      "sha256": "25e5f1a904de9b154de5b49306c92f2a310bcecdc78ccbbc485ce81f2f950b7b",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-72d2909b9104c4d56c71553a.jpg",
+        "sourceSha256": "72d2909b9104c4d56c71553a7b5edb2ac749b48bf75e8bf81c7877349757770a",
+        "originalBytes": 301723,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:49.000Z",
+  "updatedAt": "2026-06-23T14:28:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247882",
+    "title": "Gqs83j0XcAEG37M",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247882,
+      "url": "https://www.are.na/block/47247882",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Gqs83j0XcAEG37M",
+      "createdAt": "2026-06-23T14:28:49Z",
+      "updatedAt": "2026-06-23T14:28:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Gqs83j0XcAEG37M",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Code Editor",
+    "text": "From\nkoyiadesanya@icloud.com\nTo\n.. solomonbenign@example.com X\nkoyiadesanya@gmail.com X\nCC\nBCC\nSubiect\nLet's Plan Our Amazing Vacation!\nHi guy!\nI hope this email finds you well! I've been thinking about our much-needed getaway, and I'm super excited to start planning it\nwith you.\nHares what i have in mind colars\n• Destination: [Santorini/Amalfi Coast/Another option you prefer].\n• Dates: [insert preferred dates or ask for their availability].\n• Activities: Exploring scenic spots, trying local food, and just relaxing!\nI'd love to hear your thoughts and suggestions. If there's something specific you want to do or a place you've always wanted to\nvisit, let me know, and we'll make it happen.\nCan't wait to make some unforgettable memories together! Let's catch up soon to finalize the details.\nTake care and talk soon!\nBest,\nSanya\nBody +\n• -|\nB l\nI\n99\nSave draft\nSend",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "25e5f1a904de9b154de5b49306c92f2a310bcecdc78ccbbc485ce81f2f950b7b"
+  }
+}

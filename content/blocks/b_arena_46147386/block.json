@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46147386",
+  "type": "link",
+  "title": "Chloe Yan",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "portfolio",
+    "web-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-bceae45fdc1042ebeab36152.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 3344,
+      "sha256": "bceae45fdc1042ebeab3615220f3d5bcd18665bda7fc2e6473ecb3d307ce981b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0NzM4Ni9vcmlnaW5hbF82ZDg4NGFjMWM3ZGI2YTQ1MTFkMWZhMGEwZWQ2ODcwMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6d884ac1c7db6a4511d1fa0a0ed68701.png"
+    },
+    {
+      "path": "assets/preview-99d0a858973b3438d392a587.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 238534,
+      "sha256": "99d0a858973b3438d392a587a4480d800a9c148538bed7f48b1a0b002a4fa573",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46147386/original_6d884ac1c7db6a4511d1fa0a0ed68701.png",
+      "originalName": "6d884ac1c7db6a4511d1fa0a0ed68701.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2518983,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T14:29:36.000Z",
+  "updatedAt": "2026-05-14T14:29:48.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. URL identifies Chloe Yan; live site provides no readable text. Portfolio category follows original interfaces collection context."
+  },
+  "source": {
+    "url": "https://www.chloeyan.me/",
+    "title": "Link · interfaces · 46147386",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46147386,
+      "url": "https://www.are.na/block/46147386",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-14T14:29:36Z",
+      "updatedAt": "2026-05-14T14:29:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "Link · interfaces · 46147386",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

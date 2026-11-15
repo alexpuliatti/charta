@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892456",
+  "type": "link",
+  "title": "Liquid Glass",
+  "description": "Apple’s Liquid Glass effect for React. Contribute to rdev/liquid-glass-react development by creating an account on GitHub.",
+  "category": "Interface design",
+  "tags": [
+    "glass",
+    "react",
+    "interface-effects"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-4a077973f250b79ef1a8b459.webp",
+      "mimeType": "image/webp",
+      "alt": "GitHub - rdev/liquid-glass-react: Apple’s Liquid Glass effect for React",
+      "role": "thumbnail",
+      "bytes": 11766,
+      "sha256": "4a077973f250b79ef1a8b459a0bc5a6749092d40eb51cfa4b598a3ff861cb2cc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjQ1Ni9vcmlnaW5hbF8xZDBlZWUwM2VkOWVmMjA5NTYyMjFiNWZjYjU4ODNiNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1d0eee03ed9ef20956221b5fcb5883b4.png"
+    },
+    {
+      "path": "assets/preview-c4234042e20a1aa48cb6dd02.webp",
+      "mimeType": "image/webp",
+      "alt": "GitHub - rdev/liquid-glass-react: Apple’s Liquid Glass effect for React",
+      "role": "preview",
+      "bytes": 268602,
+      "sha256": "c4234042e20a1aa48cb6dd022310164e53af5814a5b95ef39627edf73ec8f34f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892456/original_1d0eee03ed9ef20956221b5fcb5883b4.png",
+      "originalName": "1d0eee03ed9ef20956221b5fcb5883b4.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 981628,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:38:06.000Z",
+  "updatedAt": "2026-05-06T14:38:17.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://github.com/rdev/liquid-glass-react",
+    "title": "GitHub - rdev/liquid-glass-react: Apple’s Liquid Glass effect for React",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892456,
+      "url": "https://www.are.na/block/45892456",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "GitHub - rdev/liquid-glass-react: Apple’s Liquid Glass effect for React",
+      "createdAt": "2026-05-06T14:38:06Z",
+      "updatedAt": "2026-05-06T14:38:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GitHub - rdev/liquid-glass-react: Apple’s Liquid Glass effect for React",
+      "category": "Technology",
+      "tags": [
+        "materials",
+        "programming",
+        "open-source",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

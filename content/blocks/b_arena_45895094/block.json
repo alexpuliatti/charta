@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45895094",
+  "type": "link",
+  "title": "Brand Assets",
+  "description": "Personal tool by Yordan Stoyanov for generating composed brand asset imagery — circle-mapping experiments, drawing studio, geo-generator, and hero compositions.",
+  "category": "Graphic design",
+  "tags": [
+    "generators",
+    "brand-assets",
+    "geometric-composition"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-6cf41dd9d6c77514c6e863f3.webp",
+      "mimeType": "image/webp",
+      "alt": "Brand Assets Generator",
+      "role": "thumbnail",
+      "bytes": 18610,
+      "sha256": "6cf41dd9d6c77514c6e863f326d72e1bb3c754c69ac01b70a9da1d984e49422f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5NTA5NC9vcmlnaW5hbF83YzI2NzAyZDlmNzFmYjA4NGQ2ODYyODdhYWMwZjlhNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7c26702d9f71fb084d686287aac0f9a6.png"
+    },
+    {
+      "path": "assets/preview-197aee86e027b23ee39a5ac5.webp",
+      "mimeType": "image/webp",
+      "alt": "Brand Assets Generator",
+      "role": "preview",
+      "bytes": 635198,
+      "sha256": "197aee86e027b23ee39a5ac5b2dbf0e3157fcd64641dbf0f09fb280fad852ca7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45895094/original_7c26702d9f71fb084d686287aac0f9a6.png",
+      "originalName": "7c26702d9f71fb084d686287aac0f9a6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 5398231,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T16:02:27.000Z",
+  "updatedAt": "2026-05-06T16:02:37.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://brand-generator.stoyanov.works/",
+    "title": "Brand Assets Generator",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45895094,
+      "url": "https://www.are.na/block/45895094",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Brand Assets Generator",
+      "createdAt": "2026-05-06T16:02:27Z",
+      "updatedAt": "2026-05-06T16:02:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Brand Assets Generator",
+      "category": "Information design",
+      "tags": [
+        "illustration",
+        "music",
+        "tools",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "source": "https://github.com/DavidHDev/react-bits",
+  "retrievedOn": "2026-11-15",
+  "installation": "Official JS-CSS registry source, installed by hand as documented by React Bits.",
+  "components": [
+    {
+      "name": "BranchedMenu",
+      "registry": "https://reactbits.dev/r/BranchedMenu-JS-CSS.json",
+      "registrySha256": "996589b42ccc8d490a415637affaafb3060683730a299403a627860cf5b37ca2",
+      "files": [
+        {
+          "path": "BranchedMenu.css",
+          "upstreamSha256": "9f483b0c5395623b8d7faf47978d34bf826b8cf1caf8ba4406d42a53ae8e6f83",
+          "patches": []
+        },
+        {
+          "path": "BranchedMenu.jsx",
+          "upstreamSha256": "ef27b050487d41091324874f16ab253567215756fc9b8260e8d934de381385e3",
+          "patches": []
+        }
+      ]
+    },
+    {
+      "name": "AnimatedList",
+      "registry": "https://reactbits.dev/r/AnimatedList-JS-CSS.json",
+      "registrySha256": "88ef0c85d7358823fc435c387aa167a2cee9eb2c2492aa16abbb6bce64d4f298",
+      "files": [
+        {
+          "path": "AnimatedList.css",
+          "upstreamSha256": "c9b74ad88b92e9836b6ec91ad21170da5d5325cfd0a1a18d1a863e545d8baffc",
+          "patches": []
+        },
+        {
+          "path": "AnimatedList.jsx",
+          "upstreamSha256": "bd554c09360298bca5b8d74a79595d22fd1c4c4aeb56ab4548eff412385bd593",
+          "patches": [
+            {
+              "before": "if (snap || reduced || !motion.ready)",
+              "after": "if (snap || reduced || keyboardRef.current || root.closest('[data-motion-input=\"keyboard\"]') || !motion.ready)"
+            },
+            {
+              "before": "behavior: 'smooth'",
+              "after": "behavior: 'instant'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orb",
+      "registry": "https://reactbits.dev/r/Orb-JS-CSS.json",
+      "registrySha256": "b0443d61af22477d08499c82b1ef296e02f1106bda0273a174b16b20e89bdf99",
+      "files": [
+        {
+          "path": "Orb.css",
+          "upstreamSha256": "7f1dd853ee98801256aaba5db5bb08bd738593ea76dd42e993d1403f6887816a",
+          "patches": []
+        },
+        {
+          "path": "Orb.jsx",
+          "upstreamSha256": "d16aa62ba56629820e0b9b8d7a087df64b34ab9b1784b83b04719d158b8a7168",
+          "patches": [
+            {
+              "before": "      gl.drawArrays(gl.TRIANGLES, 0, 3);",
+              "after": "      gl.drawArrays(gl.TRIANGLES, 0, 3);\n      if (!container.hasAttribute('data-ready')) container.dataset.ready = 'true';"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

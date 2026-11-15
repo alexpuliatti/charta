@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473961",
+  "type": "link",
+  "title": "SearchSystem References",
+  "description": "An ever-growing collection of references and tools for designers. Curated by Julien Van Havere,…",
+  "category": "Graphic design",
+  "tags": [
+    "design-references",
+    "tools",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ec890f30cd871388f021c7da.webp",
+      "mimeType": "image/webp",
+      "alt": "SearchSystem™",
+      "role": "thumbnail",
+      "bytes": 15148,
+      "sha256": "ec890f30cd871388f021c7dab870cecc14cc34ed1886ed9d0c92365820abad98",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk2MS9vcmlnaW5hbF8zZGNhODM5NjcyNDMyZTQxNjcyYmRjODYyZjBkYmM3YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3dca839672432e41672bdc862f0dbc7a.png"
+    },
+    {
+      "path": "assets/preview-aca309316a597acf507b0810.webp",
+      "mimeType": "image/webp",
+      "alt": "SearchSystem™",
+      "role": "preview",
+      "bytes": 451784,
+      "sha256": "aca309316a597acf507b08104967421ed03e9652be02b19644383b9e1e7cf3b4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473961/original_3dca839672432e41672bdc862f0dbc7a.png",
+      "originalName": "3dca839672432e41672bdc862f0dbc7a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2605841,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:18.000Z",
+  "updatedAt": "2026-05-25T10:58:28.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://searchsystem.co/",
+    "title": "SearchSystem™",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473961,
+      "url": "https://www.are.na/block/46473961",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "SearchSystem™",
+      "createdAt": "2026-05-25T10:58:18Z",
+      "updatedAt": "2026-05-25T10:58:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "SearchSystem™",
+      "category": "Tools and resources",
+      "tags": [
+        "research",
+        "tools",
+        "archives",
+        "inspiration",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

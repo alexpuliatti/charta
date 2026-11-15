@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888305",
+  "type": "image",
+  "title": "White Living",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "white-living",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5476208f1d0749976f6802d5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "White Living",
+      "role": "original",
+      "bytes": 159275,
+      "sha256": "5476208f1d0749976f6802d57c63be0ae76c7755dfb6a9b3ec8309b497ff3aa0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888305/original_298d61c68e3f81ffb9b68b54735bdeb7.jpeg",
+      "originalName": "298d61c68e3f81ffb9b68b54735bdeb7.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-9f764506b69f92b10e4a45c3.webp",
+      "mimeType": "image/webp",
+      "alt": "White Living",
+      "role": "thumbnail",
+      "bytes": 7054,
+      "sha256": "9f764506b69f92b10e4a45c3b31a2ef126512c20545e8442204f15ef84726a78",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMwNS9vcmlnaW5hbF8yOThkNjFjNjhlM2Y4MWZmYjliNjhiNTQ3MzViZGViNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "298d61c68e3f81ffb9b68b54735bdeb7.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-5476208f1d0749976f6802d5-5476208f1d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "White Living",
+      "bytes": 126388,
+      "sha256": "a04e6e8b4817c2c7c3fad43e95f9a40b130cd8a2a68377a3b95b4b6ba1f548b9",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5476208f1d0749976f6802d5.jpg",
+        "sourceSha256": "5476208f1d0749976f6802d57c63be0ae76c7755dfb6a9b3ec8309b497ff3aa0",
+        "originalBytes": 159275,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:22.000Z",
+  "updatedAt": "2026-05-06T12:12:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888305",
+    "title": "05-studio.arme-2646513673-20260426_074723.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888305,
+      "url": "https://www.are.na/block/45888305",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "05-studio.arme-2646513673-20260426_074723.jpg",
+      "createdAt": "2026-05-06T12:12:22Z",
+      "updatedAt": "2026-05-06T12:12:26Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "05-studio.arme-2646513673-20260426_074723.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "White Living",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a04e6e8b4817c2c7c3fad43e95f9a40b130cd8a2a68377a3b95b4b6ba1f548b9"
+  }
+}

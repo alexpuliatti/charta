@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995819",
+  "type": "image",
+  "title": "Timber Shelving",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "timber-shelving",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3b48c874d825a887a1f4d631.png",
+      "mimeType": "image/png",
+      "alt": "Timber Shelving",
+      "role": "original",
+      "bytes": 1733770,
+      "sha256": "3b48c874d825a887a1f4d631c8de857e7ff43f0ebaa057d9e7846a676d86e69e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995819/original_4a4b0db833bf406a5ec6f66e2d9e59fa.png",
+      "originalName": "4a4b0db833bf406a5ec6f66e2d9e59fa.png"
+    },
+    {
+      "path": "assets/thumbnail-ac3188904b611d4c9b3787e0.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Shelving",
+      "role": "thumbnail",
+      "bytes": 15140,
+      "sha256": "ac3188904b611d4c9b3787e0a4892b420d67f770b8e8f7fd6fa6e344730b604c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgxOS9vcmlnaW5hbF80YTRiMGRiODMzYmY0MDZhNWVjNmY2NmUyZDllNTlmYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4a4b0db833bf406a5ec6f66e2d9e59fa.png"
+    },
+    {
+      "path": "assets/display-web-original-3b48c874d825a887a1f4d631-3b48c874d8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Shelving",
+      "bytes": 141516,
+      "sha256": "97b8f496cd35ee49b74b077c11fa2b8c94e38941680c1810f61c4224d16d1d39",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3b48c874d825a887a1f4d631.png",
+        "sourceSha256": "3b48c874d825a887a1f4d631c8de857e7ff43f0ebaa057d9e7846a676d86e69e",
+        "originalBytes": 1733770,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:00:54.000Z",
+  "updatedAt": "2026-02-28T12:00:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995819",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995819,
+      "url": "https://www.are.na/block/43995819",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:00:54Z",
+      "updatedAt": "2026-02-28T12:00:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Shelving",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "97b8f496cd35ee49b74b077c11fa2b8c94e38941680c1810f61c4224d16d1d39"
+  }
+}

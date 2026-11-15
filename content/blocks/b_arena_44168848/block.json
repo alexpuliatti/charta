@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168848",
+  "type": "image",
+  "title": "Colour Tool",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "colour-tool",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e63ed3c3f799ce3a49b6e1a7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Colour Tool",
+      "role": "original",
+      "bytes": 264968,
+      "sha256": "e63ed3c3f799ce3a49b6e1a7ff9de81504a9d640ab570db75c765151553a5abd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168848/original_18edf88b18a257e1ba759459311c8156.jpg",
+      "originalName": "18edf88b18a257e1ba759459311c8156.jpg"
+    },
+    {
+      "path": "assets/thumbnail-66f9e53b0b6ac28941c89b9c.webp",
+      "mimeType": "image/webp",
+      "alt": "Colour Tool",
+      "role": "thumbnail",
+      "bytes": 6712,
+      "sha256": "66f9e53b0b6ac28941c89b9cd1004f98024803c137a68b1b8f396984d11bf01b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg0OC9vcmlnaW5hbF8xOGVkZjg4YjE4YTI1N2UxYmE3NTk0NTkzMTFjODE1Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "18edf88b18a257e1ba759459311c8156.jpg"
+    },
+    {
+      "path": "assets/display-web-original-e63ed3c3f799ce3a49b6e1a7-e63ed3c3f7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Colour Tool",
+      "bytes": 95704,
+      "sha256": "de2536ec8e3c3a85308071c6e270d1b3469ca55ac8676bd1c4052a70d3d2b05a",
+      "width": 2000,
+      "height": 1124,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e63ed3c3f799ce3a49b6e1a7.jpg",
+        "sourceSha256": "e63ed3c3f799ce3a49b6e1a7ff9de81504a9d640ab570db75c765151553a5abd",
+        "originalBytes": 264968,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-03-05T15:47:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168848",
+    "title": "hcpx1hqayaacwke.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168848,
+      "url": "https://www.are.na/block/44168848",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcpx1hqayaacwke.jpeg",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-03-05T15:47:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcpx1hqayaacwke.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colour Tool",
+    "text": "88 Dither\nWAVE FIELD\nEnable waves\nAmplitude\nFrequency\nDirection\nPhase\n•\nSpeed\nSecondary wave\nSecondary amplitude\nSecondary frequency\nSecondary direction\nSecondary phase\n•\nSecondary speed\n18.00\n0.050\n35\n0.00\n1.20\n8.00\n0.110\n120\n1.10\n-0.60\n714 dots\nCopy React\nCopy SVG\n/**\n* @framerSupportedLayoutwidth any\n* @framerSupportedLayoutHeight any\nCotool\nimport * as React\nfrom\n\"react\"\nexport default function DotPattern(props)\nconst {\nwidth = \"100%\",\nheight,\nclassName,\nstyle,\n} = props |l O\nconst dots = React. useMemo (\n() => [\n{ x: 58.5, y: 4.5,\nr:\n4.5,\n{ x:\n67.5, y: 4.5,\nr:\n4.5,\nX:\n76.5, y:\n4.5,\nr:\n4.5,\n{ x:\n85.5,\ny:\n4.5,\nr:\n4.5,\n{ x:\n94.5,\ny: 4.5,\nr: 4.5,\n{ x:\n103.5,\ny: 4.5,\nr: 4.5,\nX:\n112.5,\ny: 4.5, r: 4.5,\n{ x:\n121.5,\ny:\n4.5.\ncolor:\n\"#0e\ncolor:\n\"#0€\ncolor:\n\"#0€\ncolor:\n\"#0e\ncolor:\n\"#0€\ncolor:\n\"#C\ncolor:\n\"#1\n\"#C",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "de2536ec8e3c3a85308071c6e270d1b3469ca55ac8676bd1c4052a70d3d2b05a"
+  }
+}

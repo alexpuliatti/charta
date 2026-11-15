@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_41547151",
+  "type": "text",
+  "title": "Tracking & Halftones",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "computer-vision",
+    "halftone",
+    "python"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2025-12-03T15:54:31.000Z",
+  "updatedAt": "2025-12-03T16:38:56.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read saved note or tweet body; title names its actual subject."
+  },
+  "source": {
+    "url": "https://www.are.na/block/41547151",
+    "title": "Text · visualizzare il sapere · 41547151",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 41547151,
+      "url": "https://www.are.na/block/41547151",
+      "type": "Text",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2025-12-03T15:54:31Z",
+      "updatedAt": "2025-12-03T16:38:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "bodyPath": "body.md",
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "note",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Text · visualizzare il sapere · 41547151",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "programming",
+        "tools",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46111538",
+  "type": "link",
+  "title": "Rauno Craft",
+  "description": "History of Software Design",
+  "category": "Interface design",
+  "tags": [
+    "interaction-design",
+    "interface-craft",
+    "experiments"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-26d9330408bdcf232935a96c.webp",
+      "mimeType": "image/webp",
+      "alt": "Craft",
+      "role": "thumbnail",
+      "bytes": 6296,
+      "sha256": "26d9330408bdcf232935a96c1558d03ab167363221de4c27dfa8d4884264a018",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjExMTUzOC9vcmlnaW5hbF8xNWJmYjQ3NTk4M2JkZTk3ZjQ0MTY5ZjU1MDU3NjJkYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "15bfb475983bde97f44169f5505762db.png"
+    },
+    {
+      "path": "assets/preview-b040140ebea976553790838a.webp",
+      "mimeType": "image/webp",
+      "alt": "Craft",
+      "role": "preview",
+      "bytes": 145314,
+      "sha256": "b040140ebea976553790838ac130fe77ee5f8f26ad3f83d23400b1f45ff22c3d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46111538/original_15bfb475983bde97f44169f5505762db.png",
+      "originalName": "15bfb475983bde97f44169f5505762db.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1247548,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:40:51.000Z",
+  "updatedAt": "2026-05-13T10:41:03.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://rauno.me/craft",
+    "title": "Craft",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46111538,
+      "url": "https://www.are.na/block/46111538",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Craft",
+      "createdAt": "2026-05-13T10:40:51Z",
+      "updatedAt": "2026-05-13T10:41:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Craft",
+      "category": "Digital design",
+      "tags": [
+        "programming",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168837",
+  "type": "image",
+  "title": "Wave Interference",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "wave-interference",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c32b8b9e772a9af02202c78c.png",
+      "mimeType": "image/png",
+      "alt": "Wave Interference",
+      "role": "original",
+      "bytes": 1014328,
+      "sha256": "c32b8b9e772a9af02202c78c9e2ac53737045e30e4a52983f6596742a58a5781",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168837/original_51cac63ae4bfd40f06537a1dff0e66a7.png",
+      "originalName": "51cac63ae4bfd40f06537a1dff0e66a7.png"
+    },
+    {
+      "path": "assets/thumbnail-36947a67c20124b98daf4c52.webp",
+      "mimeType": "image/webp",
+      "alt": "Wave Interference",
+      "role": "thumbnail",
+      "bytes": 16120,
+      "sha256": "36947a67c20124b98daf4c5263e244648e68c1ae87e11de6b142e729c4a3145d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODgzNy9vcmlnaW5hbF81MWNhYzYzYWU0YmZkNDBmMDY1MzdhMWRmZjBlNjZhNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "51cac63ae4bfd40f06537a1dff0e66a7.png"
+    },
+    {
+      "path": "assets/display-web-original-c32b8b9e772a9af02202c78c-c32b8b9e77.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Wave Interference",
+      "bytes": 112794,
+      "sha256": "70eed4f692b9aca07d5cadc5679d62fc579044a1eb5dccaa41c3b401ffd18beb",
+      "width": 847,
+      "height": 840,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c32b8b9e772a9af02202c78c.png",
+        "sourceSha256": "c32b8b9e772a9af02202c78c9e2ac53737045e30e4a52983f6596742a58a5781",
+        "originalBytes": 1014328,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:35.000Z",
+  "updatedAt": "2026-03-05T15:46:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168837",
+    "title": "hcopopoxeaaygsw.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168837,
+      "url": "https://www.are.na/block/44168837",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcopopoxeaaygsw.png",
+      "createdAt": "2026-03-05T15:46:35Z",
+      "updatedAt": "2026-03-05T15:46:38Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcopopoxeaaygsw.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wave Interference",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "70eed4f692b9aca07d5cadc5679d62fc579044a1eb5dccaa41c3b401ffd18beb"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582933",
+  "type": "image",
+  "title": "Type Curves",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "type-curves",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d4e8b13d5b3fe5890fdb8df7.png",
+      "mimeType": "image/png",
+      "alt": "Type Curves",
+      "role": "original",
+      "bytes": 313096,
+      "sha256": "d4e8b13d5b3fe5890fdb8df7abb69af6287986d76f9a714eca97faef4cd236eb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582933/original_d29af746baf8a4a32cc1335f08652cda.png",
+      "originalName": "d29af746baf8a4a32cc1335f08652cda.png"
+    },
+    {
+      "path": "assets/thumbnail-bd885dbabaf92ffba3c0185e.webp",
+      "mimeType": "image/webp",
+      "alt": "Type Curves",
+      "role": "thumbnail",
+      "bytes": 2074,
+      "sha256": "bd885dbabaf92ffba3c0185e8b18dc3a7e394942262b2513ba8f6675145609bb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkzMy9vcmlnaW5hbF9kMjlhZjc0NmJhZjhhNGEzMmNjMTMzNWYwODY1MmNkYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d29af746baf8a4a32cc1335f08652cda.png"
+    },
+    {
+      "path": "assets/display-web-original-d4e8b13d5b3fe5890fdb8df7-d4e8b13d5b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Type Curves",
+      "bytes": 24920,
+      "sha256": "61826a90c59aa07b5927bc8d81b51930e8322489db40738490f0cfaf8f870e30",
+      "width": 1930,
+      "height": 1132,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d4e8b13d5b3fe5890fdb8df7.png",
+        "sourceSha256": "d4e8b13d5b3fe5890fdb8df7abb69af6287986d76f9a714eca97faef4cd236eb",
+        "originalBytes": 313096,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:54:02.000Z",
+  "updatedAt": "2026-05-29T08:54:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582933",
+    "title": "Screenshot 2026-05-28 alle 18.40.34",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582933,
+      "url": "https://www.are.na/block/46582933",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-05-28 alle 18.40.34",
+      "createdAt": "2026-05-29T08:54:02Z",
+      "updatedAt": "2026-05-29T08:54:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-05-28 alle 18.40.34",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Type Curves",
+    "text": "FIG. I\nRTL\nGIF\n• 0•\nA(R) = EXPC-BANDTIGHT - R2)\nGAUSSIAN FALLOFF\nx' = x + SIN(Y • 0)\nEDGE PERTURBATION\n- 1.00\n1 - 30P)\n1 = 0.7%\n1 = 0.40\n1= 1100)\n- 0.1!\n= 180p\n, = 0.01\n= 280p\nX(T) = EASE(T) • 100VW\nTRAVERSAL — SEE EASING\n•\n+\nGLINH.\nDEV\nT-0.3\nT=0,5\nT=O.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "61826a90c59aa07b5927bc8d81b51930e8322489db40738490f0cfaf8f870e30"
+  }
+}

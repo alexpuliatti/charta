@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45113522",
+  "type": "link",
+  "title": "Klikkenthéke Catalogue",
+  "description": "Klikkenthéke. Neue Web Design Catalogue. A source of inspiration for designers, developers, and HTML enthusiasts. A daily showcase of contemporary web design. Design, Development, and Curation by Division Binaural. ©2026 Division Binaural. All screenshot rights belong to their respective owners.",
+  "category": "Interface design",
+  "tags": [
+    "web-design",
+    "inspiration",
+    "catalogue"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7d2db004656172d3c1b1919c.webp",
+      "mimeType": "image/webp",
+      "alt": "Klikkenthéke",
+      "role": "thumbnail",
+      "bytes": 6326,
+      "sha256": "7d2db004656172d3c1b1919c206e581441e800026daf7c76ea5d1be838a8e275",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTExMzUyMi9vcmlnaW5hbF81MzJlN2M0ODgyYmZiMTdkMmZjZTQwNGM3ODE2YzM4OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "532e7c4882bfb17d2fce404c7816c388.png"
+    },
+    {
+      "path": "assets/preview-9c6a1a82f2775a2fb27e1b62.webp",
+      "mimeType": "image/webp",
+      "alt": "Klikkenthéke",
+      "role": "preview",
+      "bytes": 34764,
+      "sha256": "9c6a1a82f2775a2fb27e1b6257050e23dfde877a24ce0e9c70b5edf2215d8869",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45113522/original_532e7c4882bfb17d2fce404c7816c388.png",
+      "originalName": "532e7c4882bfb17d2fce404c7816c388.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 140562,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-08T10:44:07.000Z",
+  "updatedAt": "2026-04-08T10:44:19.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://klikkentheke.com/",
+    "title": "Klikkenthéke",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45113522,
+      "url": "https://www.are.na/block/45113522",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Klikkenthéke",
+      "createdAt": "2026-04-08T10:44:07Z",
+      "updatedAt": "2026-04-08T10:44:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Klikkenthéke",
+      "category": "Information design",
+      "tags": [
+        "web-design",
+        "inspiration",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

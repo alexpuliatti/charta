@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892695",
+  "type": "image",
+  "title": "Landscape Editorial",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "landscape-editorial",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b85659900c012759f766ad15.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Landscape Editorial",
+      "role": "original",
+      "bytes": 187857,
+      "sha256": "b85659900c012759f766ad153a4a20e6b35a373296b6d163b0902def4607bcd8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892695/original_3b4e2cb9f4108678b4bdce31b881e898.jpeg",
+      "originalName": "3b4e2cb9f4108678b4bdce31b881e898.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-048d8a48ef6ba775fde85a74.webp",
+      "mimeType": "image/webp",
+      "alt": "Landscape Editorial",
+      "role": "thumbnail",
+      "bytes": 4834,
+      "sha256": "048d8a48ef6ba775fde85a74012abfe88d55c716b3f6e8962beebf92dc1d30e1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjY5NS9vcmlnaW5hbF8zYjRlMmNiOWY0MTA4Njc4YjRiZGNlMzFiODgxZTg5OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3b4e2cb9f4108678b4bdce31b881e898.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-b85659900c012759f766ad15-b85659900c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Landscape Editorial",
+      "bytes": 112900,
+      "sha256": "5cec2290e4a1eccd35f50ca16b16e71f9011e9140c35b294321b9a1d78cea8ad",
+      "width": 1920,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b85659900c012759f766ad15.jpg",
+        "sourceSha256": "b85659900c012759f766ad153a4a20e6b35a373296b6d163b0902def4607bcd8",
+        "originalBytes": 187857,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:45:06.000Z",
+  "updatedAt": "2026-05-06T14:45:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45892695",
+    "title": "hhjgq0oweaana2q.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892695,
+      "url": "https://www.are.na/block/45892695",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhjgq0oweaana2q.jpeg",
+      "createdAt": "2026-05-06T14:45:06Z",
+      "updatedAt": "2026-05-06T14:45:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhjgq0oweaana2q.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Landscape Editorial",
+    "text": "AMBIENT INTERACTION\nO CLINICAL REASONING\n• ECOSYSTEM SYNC\nFrom initial intake to long-term care, athea provides the agentic\nintelligence needed to structure complex data, surface hidden insights.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5cec2290e4a1eccd35f50ca16b16e71f9011e9140c35b294321b9a1d78cea8ad"
+  }
+}

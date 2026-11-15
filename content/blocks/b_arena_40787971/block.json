@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787971",
+  "type": "image",
+  "title": "Quiet Living",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "quiet-living",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bc6d9fcf6cb20b47ee9a8bce.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quiet Living",
+      "role": "original",
+      "bytes": 321017,
+      "sha256": "bc6d9fcf6cb20b47ee9a8bcedd916339a6b972eefa814d14e7fd0a3893f28e0d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787971/original_0a8a4de364951169dd71a8a07bec147b.jpg",
+      "originalName": "0a8a4de364951169dd71a8a07bec147b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3b1e53856229576340a2dd80.webp",
+      "mimeType": "image/webp",
+      "alt": "Quiet Living",
+      "role": "thumbnail",
+      "bytes": 5482,
+      "sha256": "3b1e53856229576340a2dd80eb2f82007d44718099ad4e519aa937b8ef8262d8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk3MS9vcmlnaW5hbF8wYThhNGRlMzY0OTUxMTY5ZGQ3MWE4YTA3YmVjMTQ3Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0a8a4de364951169dd71a8a07bec147b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-bc6d9fcf6cb20b47ee9a8bce-bc6d9fcf6c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quiet Living",
+      "bytes": 89272,
+      "sha256": "793a4e254660eb257d6e9a11dded8d6cad345ebe64e0261c8f84c9d82c5b94e5",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bc6d9fcf6cb20b47ee9a8bce.jpg",
+        "sourceSha256": "bc6d9fcf6cb20b47ee9a8bcedd916339a6b972eefa814d14e7fd0a3893f28e0d",
+        "originalBytes": 321017,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:07:58.000Z",
+  "updatedAt": "2025-11-02T16:08:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787971",
+    "title": "gemellineeee-20250407_093351-160409362.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787971,
+      "url": "https://www.are.na/block/40787971",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gemellineeee-20250407_093351-160409362.jpg",
+      "createdAt": "2025-11-02T16:07:58Z",
+      "updatedAt": "2025-11-02T16:08:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gemellineeee-20250407_093351-160409362.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quiet Living",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "793a4e254660eb257d6e9a11dded8d6cad345ebe64e0261c8f84c9d82c5b94e5"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44342225",
+  "type": "image",
+  "title": "Spring Studio",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "spring-studio",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b6a4eb6bb8b5386cb36c157d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Spring Studio",
+      "role": "original",
+      "bytes": 246982,
+      "sha256": "b6a4eb6bb8b5386cb36c157d1c579c97398c6332f142bff4435baae286497247",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44342225/original_86740d39e13498aa56e942daf579d44c.jpg",
+      "originalName": "86740d39e13498aa56e942daf579d44c.jpg"
+    },
+    {
+      "path": "assets/thumbnail-aa8b175db56efcca23ee8cfb.webp",
+      "mimeType": "image/webp",
+      "alt": "Spring Studio",
+      "role": "thumbnail",
+      "bytes": 7920,
+      "sha256": "aa8b175db56efcca23ee8cfb5f949b2444b6eb7ef861e734519dab99bbd084a6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MjIyNS9vcmlnaW5hbF84Njc0MGQzOWUxMzQ5OGFhNTZlOTQyZGFmNTc5ZDQ0Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "86740d39e13498aa56e942daf579d44c.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b6a4eb6bb8b5386cb36c157d-b6a4eb6bb8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Spring Studio",
+      "bytes": 142140,
+      "sha256": "2a87004ae3bbc963a0595ec24cc0da8c91fafebe082910ecc4a81c628c07e638",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b6a4eb6bb8b5386cb36c157d.jpg",
+        "sourceSha256": "b6a4eb6bb8b5386cb36c157d1c579c97398c6332f142bff4435baae286497247",
+        "originalBytes": 246982,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T18:32:44.000Z",
+  "updatedAt": "2026-03-11T18:33:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44342225",
+    "title": "sebastianzuchowicki-20260311_125411-3010895048.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44342225,
+      "url": "https://www.are.na/block/44342225",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "sebastianzuchowicki-20260311_125411-3010895048.jpg",
+      "createdAt": "2026-03-11T18:32:44Z",
+      "updatedAt": "2026-03-11T18:33:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sebastianzuchowicki-20260311_125411-3010895048.jpg",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Spring Studio",
+    "text": "Spring light in the studio...",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2a87004ae3bbc963a0595ec24cc0da8c91fafebe082910ecc4a81c628c07e638"
+  }
+}

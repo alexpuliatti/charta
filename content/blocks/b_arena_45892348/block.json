@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892348",
+  "type": "link",
+  "title": "Shader Lab",
+  "description": "A powerful toolkit to create, stack, and animate shaders.",
+  "category": "Technology",
+  "tags": [
+    "shaders",
+    "webgl",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-53ba193ba81ca3d123e88ea3.webp",
+      "mimeType": "image/webp",
+      "alt": "Shader Lab | basement.studio",
+      "role": "thumbnail",
+      "bytes": 362,
+      "sha256": "53ba193ba81ca3d123e88ea3a70962cded9dce814000f03c69d6d156ca062bcc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjM0OC9vcmlnaW5hbF85ZDRlYzQ5YjZkYTU0MTk0YWNhNjI3MGU5YzczODAzNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9d4ec49b6da54194aca6270e9c738037.png"
+    },
+    {
+      "path": "assets/preview-a202d6bd4ed692a7ca5ca2e4.webp",
+      "mimeType": "image/webp",
+      "alt": "Shader Lab | basement.studio",
+      "role": "preview",
+      "bytes": 676,
+      "sha256": "a202d6bd4ed692a7ca5ca2e40b91cd12c59cdde148cfcb313b641d03e098edda",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892348/original_9d4ec49b6da54194aca6270e9c738037.png",
+      "originalName": "9d4ec49b6da54194aca6270e9c738037.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 24972,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:33:34.000Z",
+  "updatedAt": "2026-05-06T14:33:51.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://eng.basement.studio/tools/shader-lab",
+    "title": "Shader Lab | basement.studio",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892348,
+      "url": "https://www.are.na/block/45892348",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Shader Lab | basement.studio",
+      "createdAt": "2026-05-06T14:33:34Z",
+      "updatedAt": "2026-05-06T14:33:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Shader Lab | basement.studio",
+      "category": "Technology",
+      "tags": [
+        "creative-coding",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

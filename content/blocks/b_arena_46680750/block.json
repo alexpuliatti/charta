@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46680750",
+  "type": "video",
+  "title": "Tiger Lettering",
+  "description": "I hope this GIF finds you well",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "tiger-lettering",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f345cc12052fe339ddedc08b.mp4",
+      "mimeType": "video/mp4",
+      "alt": "Oliver ೫ on X @oliverhamrin",
+      "role": "original",
+      "bytes": 1645036,
+      "sha256": "f345cc12052fe339ddedc08b59170947bfda51f61ed2ab78de474d6c793c7b86",
+      "sourceUrl": "https://attachments.are.na/46680750/c06255420991666c5448b6b68f10f4a3.mp4",
+      "originalName": "c06255420991666c5448b6b68f10f4a3.mp4"
+    },
+    {
+      "path": "assets/thumbnail-cad5867b3ee6cf91e7c764c7.webp",
+      "mimeType": "image/webp",
+      "alt": "Tiger Lettering",
+      "role": "thumbnail",
+      "bytes": 17076,
+      "sha256": "cad5867b3ee6cf91e7c764c772de50bd3741ca8a25a30c535f7777875b693e79",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjY4MDc1MC9vcmlnaW5hbF83NDQ5YzYyZWYyNmFiOGY3MjAyNjA2MDItMi1yYnh3ei5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7449c62ef26ab8f720260602-2-rbxwz.png"
+    },
+    {
+      "path": "assets/preview-f6a71dac1ab3e5899ec390a5.webp",
+      "mimeType": "image/webp",
+      "alt": "Oliver ೫ on X @oliverhamrin",
+      "role": "preview",
+      "bytes": 123476,
+      "sha256": "f6a71dac1ab3e5899ec390a595dfa4ca4dbfba8018baddff6dab0b88148ec135",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46680750/original_7449c62ef26ab8f720260602-2-rbxwz.png",
+      "originalName": "7449c62ef26ab8f720260602-2-rbxwz.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 774300,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-02T09:23:27.000Z",
+  "updatedAt": "2026-06-02T09:23:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/i/status/2061046619303182820",
+    "title": "Oliver ೫ on X @oliverhamrin",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46680750,
+      "url": "https://www.are.na/block/46680750",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Oliver ೫ on X @oliverhamrin",
+      "createdAt": "2026-06-02T09:23:27Z",
+      "updatedAt": "2026-06-02T09:23:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Oliver ೫ on X @oliverhamrin",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tiger Lettering",
+    "text": "ous email from Thursday -,\nOmake sure this didn't go,",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cad5867b3ee6cf91e7c764c772de50bd3741ca8a25a30c535f7777875b693e79"
+  }
+}

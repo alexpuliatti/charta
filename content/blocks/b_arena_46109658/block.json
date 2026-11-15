@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46109658",
+  "type": "video",
+  "title": "Computer Evolution",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "computer-evolution",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1c4f5308c8a8b28f8f477ed7.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778667146972",
+      "role": "original",
+      "bytes": 9157415,
+      "sha256": "1c4f5308c8a8b28f8f477ed7b897d0cbf21739436c124ef4d3e20486913aca1e",
+      "sourceUrl": "https://attachments.are.na/46109658/fff811793ed9b509b16ad7bee4243c72.mp4",
+      "originalName": "fff811793ed9b509b16ad7bee4243c72.mp4"
+    },
+    {
+      "path": "assets/thumbnail-d4cf550db51fb74f8b961f23.webp",
+      "mimeType": "image/webp",
+      "alt": "Computer Evolution",
+      "role": "thumbnail",
+      "bytes": 3030,
+      "sha256": "d4cf550db51fb74f8b961f2344732176d5a2d1ad05aedab0300c7e8f701d1777",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjEwOTY1OC9vcmlnaW5hbF80MTA4OWI1NjQ0NzgyOTk3MjAyNjA1MTMtMi1iZWF4YWcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "41089b564478299720260513-2-beaxag.png"
+    },
+    {
+      "path": "assets/display-web-original-1c4f5308c8a8b28f8f477ed7-1c4f5308c8.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778667146972",
+      "bytes": 2111090,
+      "sha256": "11067d0be482f29d685f4e1f553cc54569cd583a94ea8ccc4fc342c17da3c9c8",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1c4f5308c8a8b28f8f477ed7.mp4",
+        "sourceSha256": "1c4f5308c8a8b28f8f477ed7b897d0cbf21739436c124ef4d3e20486913aca1e",
+        "originalBytes": 9157415,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-df694eb3d455b8524c844de2.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778667146972",
+      "role": "preview",
+      "bytes": 63128,
+      "sha256": "df694eb3d455b8524c844de2bf9207affe2ffc36dcbf7cd40f6f054824e98696",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46109658/original_41089b564478299720260513-2-beaxag.png",
+      "originalName": "41089b564478299720260513-2-beaxag.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 794001,
+        "width": 2560,
+        "height": 2127,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:13:37.000Z",
+  "updatedAt": "2026-05-13T10:13:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46109658",
+    "title": "ssstwitter.com_1778667146972",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46109658,
+      "url": "https://www.are.na/block/46109658",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778667146972",
+      "createdAt": "2026-05-13T10:13:37Z",
+      "updatedAt": "2026-05-13T10:13:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778667146972",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Computer Evolution",
+    "text": "Apple 11",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d4cf550db51fb74f8b961f2344732176d5a2d1ad05aedab0300c7e8f701d1777"
+  }
+}

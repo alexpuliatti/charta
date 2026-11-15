@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46149801",
+  "type": "link",
+  "title": "Interactive Research",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "web-research",
+    "task-api",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e13da8b5ee7bf953a27e4df4.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 11828,
+      "sha256": "e13da8b5ee7bf953a27e4df47dddb70fcda4ca0042fca374afa2d3351354c56c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE0OTgwMS9vcmlnaW5hbF82ODRhYmQ4ZjdkY2I3MGQ0MWRiNzAxM2U0NzU3YjgxOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "684abd8f7dcb70d41db7013e4757b818.png"
+    },
+    {
+      "path": "assets/preview-33ad9857e19c98a162af8c18.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 73280,
+      "sha256": "33ad9857e19c98a162af8c180ec7da1f6c3e5a1054323965bf7bdfe9301871ca",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46149801/original_684abd8f7dcb70d41db7013e4757b818.png",
+      "originalName": "684abd8f7dcb70d41db7013e4757b818.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 243652,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:41:35.000Z",
+  "updatedAt": "2026-05-14T15:41:58.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://docs.parallel.ai/task-api/examples/interactive-research",
+    "title": "Link · design-tools · 46149801",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46149801,
+      "url": "https://www.are.na/block/46149801",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-14T15:41:35Z",
+      "updatedAt": "2026-05-14T15:41:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Research tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · design-tools · 46149801",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

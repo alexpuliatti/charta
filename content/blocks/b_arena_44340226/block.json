@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340226",
+  "type": "image",
+  "title": "Designing Deletion",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "designing-deletion",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-274d25559ead003f14da1b3b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Designing Deletion",
+      "role": "original",
+      "bytes": 85375,
+      "sha256": "274d25559ead003f14da1b3b005bb8620f49cce12f25eaa35cf0e06bf5c41a37",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340226/original_f5affe1f39fdefed79978b945c020437.jpg",
+      "originalName": "f5affe1f39fdefed79978b945c020437.jpg"
+    },
+    {
+      "path": "assets/thumbnail-397efbb503be3a0d8680a692.webp",
+      "mimeType": "image/webp",
+      "alt": "Designing Deletion",
+      "role": "thumbnail",
+      "bytes": 7286,
+      "sha256": "397efbb503be3a0d8680a6928377af897e29ec966cac555127db3519a9780eb4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIyNi9vcmlnaW5hbF9mNWFmZmUxZjM5ZmRlZmVkNzk5NzhiOTQ1YzAyMDQzNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f5affe1f39fdefed79978b945c020437.jpg"
+    },
+    {
+      "path": "assets/display-web-original-274d25559ead003f14da1b3b-274d25559e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Designing Deletion",
+      "bytes": 63688,
+      "sha256": "b9e1f8045c235f2524302dc37d4083487401377653635775046c00a6fc0c5cb0",
+      "width": 1199,
+      "height": 663,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-274d25559ead003f14da1b3b.jpg",
+        "sourceSha256": "274d25559ead003f14da1b3b005bb8620f49cce12f25eaa35cf0e06bf5c41a37",
+        "originalBytes": 85375,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340226",
+    "title": "432f741a29af267d464e0ddc63cc15f7.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340226,
+      "url": "https://www.are.na/block/44340226",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "432f741a29af267d464e0ddc63cc15f7.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "432f741a29af267d464e0ddc63cc15f7.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Designing Deletion",
+    "text": "PALANTIR EXPLAINED SERIES\nDesigning\nfor Deletion →\n-Tactics for\nBuilding an Effective\nFramework\nISSUE N° 6\nPalantir Technologies\nSecurity + Functionality\npalantir.com\n01\nOriginal Data Asset\n02\nPost-Deletion Data Asset\nData y\nSECURE\nDeletion\nProcess",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b9e1f8045c235f2524302dc37d4083487401377653635775046c00a6fc0c5cb0"
+  }
+}

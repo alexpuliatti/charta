@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_50113679",
+  "type": "link",
+  "title": "Arbor Neuroscience",
+  "description": "Arbor Neuroscience is building the instruments, data, and models to make neuromodulation predictable – brain-circuit treatment targeted to the individual patient.",
+  "category": "Companies",
+  "tags": [
+    "focused-research-organizations",
+    "neuromodulation",
+    "brain-circuits"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0c88443b8c45cb8b9f26d5fa.webp",
+      "mimeType": "image/webp",
+      "alt": "Arbor Neuroscience",
+      "role": "thumbnail",
+      "bytes": 8522,
+      "sha256": "0c88443b8c45cb8b9f26d5fa83abfba95b63fab708d7257244bc6f1e642cabc7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MDExMzY3OS9vcmlnaW5hbF9mMTY4MzRhNjRiYzE2ZDQ1N2I2M2UxOGI4MzQwZmMyYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f16834a64bc16d457b63e18b8340fc2a.png"
+    },
+    {
+      "path": "assets/preview-510a1b97a049dfb209d7ba09.webp",
+      "mimeType": "image/webp",
+      "alt": "Arbor Neuroscience",
+      "role": "preview",
+      "bytes": 85712,
+      "sha256": "510a1b97a049dfb209d7ba09923ad522493ff5de154fc3942eeb473b4240296c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/50113679/original_f16834a64bc16d457b63e18b8340fc2a.png",
+      "originalName": "f16834a64bc16d457b63e18b8340fc2a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 320849,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-09-04T07:41:40.000Z",
+  "updatedAt": "2026-09-04T07:41:45.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.arborneuroscience.org/index.html",
+    "title": "Arbor Neuroscience",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 50113679,
+      "url": "https://www.are.na/block/50113679",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Arbor Neuroscience",
+      "createdAt": "2026-09-04T07:41:40Z",
+      "updatedAt": "2026-09-04T07:41:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Nonprofits",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.arborneuroscience.org/index.html",
+        "finding": "Official home page explicitly identifies Arbor Neuroscience as a nonprofit Focused Research Organization, part of Convergent Research."
+      }
+    ],
+    "original": {
+      "title": "Arbor Neuroscience",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "architecture",
+        "wellbeing",
+        "mental-health",
+        "mh-companies"
+      ],
+      "collectionIds": [
+        "c_arena_5164043"
+      ]
+    }
+  }
+}

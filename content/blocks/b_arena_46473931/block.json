@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473931",
+  "type": "link",
+  "title": "Human Filter",
+  "description": "On AI, systems, taste and the human filter",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "taste",
+    "creative-practice"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-d761f1f0861f4df3f58cdb4a.webp",
+      "mimeType": "image/webp",
+      "alt": "On AI, systems, taste and the human filter",
+      "role": "thumbnail",
+      "bytes": 6174,
+      "sha256": "d761f1f0861f4df3f58cdb4a4719e9c8ee8e9fc2a6d09c729597d2ba1b59fc54",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3MzkzMS9vcmlnaW5hbF9jNTZkZGNjNDljNzk3Nzk2OThmN2YxODgwOTA4YTE3ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c56ddcc49c79779698f7f1880908a17d.png"
+    },
+    {
+      "path": "assets/preview-0f9e3eb19041826fe8911a83.webp",
+      "mimeType": "image/webp",
+      "alt": "On AI, systems, taste and the human filter",
+      "role": "preview",
+      "bytes": 32438,
+      "sha256": "0f9e3eb19041826fe8911a83f04bfd1fad87836768c3f88048dddd9afaea4d6c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473931/original_c56ddcc49c79779698f7f1880908a17d.png",
+      "originalName": "c56ddcc49c79779698f7f1880908a17d.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 101880,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:56:22.000Z",
+  "updatedAt": "2026-05-25T11:22:47.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://shedsgns.me/taste",
+    "title": "On AI, systems, taste and the human filter",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473931,
+      "url": "https://www.are.na/block/46473931",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "On AI, systems, taste and the human filter",
+      "createdAt": "2026-05-25T10:56:22Z",
+      "updatedAt": "2026-05-25T11:22:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "On AI, systems, taste and the human filter",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_44241171",
+      "reason": "Both address AI and human judgment: cognitive flattening in the first, taste and the human filter in the second.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_40758383",
+      "reason": "Both discuss how AI changes cultural production and the role of human creative judgment.",
+      "method": "curation-v1"
+    }
+  ]
+}

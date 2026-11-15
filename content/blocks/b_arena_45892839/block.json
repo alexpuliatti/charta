@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892839",
+  "type": "image",
+  "title": "Blue Orb",
+  "description": "--sref 3653740444\nZeroNode — Brand Direction\nWhile exploring Midjourney, I found a reference style that mixed dither, blur, and diffusion it felt too good not to build on.\nI developed a full visual system and brand direction around it, creating ZeroNode, a fictional Web3/AI concept. https://t.co/VPqaddo1f0\n@keilethh - https://x.com/keilethh/status/1987603201026367608 (https://x.com/keilethh/status/1987603201026367608)",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "blue-orb",
+    "research",
+    "artificial-intelligence",
+    "inspiration",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-113f8ce5ec327f16777d3f7c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Orb",
+      "role": "original",
+      "bytes": 141743,
+      "sha256": "113f8ce5ec327f16777d3f7c7f993cd34cd4cfa3b2ad2ec743c3a67fedb577c6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892839/original_21bf2ec35a2a27167ea29db421f34273.jpeg",
+      "originalName": "21bf2ec35a2a27167ea29db421f34273.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-975da535c87873652537bcd4.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Orb",
+      "role": "thumbnail",
+      "bytes": 1560,
+      "sha256": "975da535c87873652537bcd4f9daecc422b5507fcd99dd0538056641c1d56453",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjgzOS9vcmlnaW5hbF8yMWJmMmVjMzVhMmEyNzE2N2VhMjlkYjQyMWYzNDI3My5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "21bf2ec35a2a27167ea29db421f34273.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-113f8ce5ec327f16777d3f7c-113f8ce5ec.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Orb",
+      "bytes": 133696,
+      "sha256": "90de433ad3e77ac79d26c5cf023352ddf46c32b85043238eb548a2db004b2778",
+      "width": 1200,
+      "height": 673,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-113f8ce5ec327f16777d3f7c.jpg",
+        "sourceSha256": "113f8ce5ec327f16777d3f7c7f993cd34cd4cfa3b2ad2ec743c3a67fedb577c6",
+        "originalBytes": 141743,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:49:58.000Z",
+  "updatedAt": "2026-05-29T21:37:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://x.com/keilethh/status/1987910344879022388",
+    "title": "Keileth on X @keilethh",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892839,
+      "url": "https://www.are.na/block/45892839",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Keileth on X @keilethh",
+      "createdAt": "2026-05-06T14:49:58Z",
+      "updatedAt": "2026-05-29T21:37:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Keileth on X @keilethh",
+      "category": "Information design",
+      "tags": [
+        "research",
+        "artificial-intelligence",
+        "inspiration",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Orb",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "90de433ad3e77ac79d26c5cf023352ddf46c32b85043238eb548a2db004b2778"
+  }
+}

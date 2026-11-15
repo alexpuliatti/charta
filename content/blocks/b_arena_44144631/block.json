@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144631",
+  "type": "image",
+  "title": "News Interface",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "news-interface",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-27e53d71b9f8d0ab7fc53eba.png",
+      "mimeType": "image/png",
+      "alt": "News Interface",
+      "role": "original",
+      "bytes": 1115315,
+      "sha256": "27e53d71b9f8d0ab7fc53ebae6581d0407b010ae95219586e5edecfaf811e28b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144631/original_bf8e0d5e91a7635470349f57326d6233.png",
+      "originalName": "bf8e0d5e91a7635470349f57326d6233.png"
+    },
+    {
+      "path": "assets/thumbnail-3a700108d0db404f13aa2004.webp",
+      "mimeType": "image/webp",
+      "alt": "News Interface",
+      "role": "thumbnail",
+      "bytes": 6028,
+      "sha256": "3a700108d0db404f13aa2004e587bb129fbfb167fbe42728b67c40ac1aea687c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYzMS9vcmlnaW5hbF9iZjhlMGQ1ZTkxYTc2MzU0NzAzNDlmNTczMjZkNjIzMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bf8e0d5e91a7635470349f57326d6233.png"
+    },
+    {
+      "path": "assets/display-web-original-27e53d71b9f8d0ab7fc53eba-27e53d71b9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "News Interface",
+      "bytes": 76148,
+      "sha256": "3f08347bdda52fa73642ab0e53229184117dce3ffafcb41d19c19774490173a0",
+      "width": 2000,
+      "height": 781,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-27e53d71b9f8d0ab7fc53eba.png",
+        "sourceSha256": "27e53d71b9f8d0ab7fc53ebae6581d0407b010ae95219586e5edecfaf811e28b",
+        "originalBytes": 1115315,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144631",
+    "title": "screenshot-2026-03-04-alle-20.13.56.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144631,
+      "url": "https://www.are.na/block/44144631",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.13.56.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.13.56.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "News Interface",
+    "text": "fluffy69 1 day ago\nSt Follow\n543\n# 13\nOil Prices Normalize as\nEconomic Growth is Called into\nQuestion!\nAPLE Starbucks Company\nbullish Ro\nDIVIDENT\n64\nHEALTH\n34\nVALUE\n92\nPAST\n98\nFUTURE\n88\n2 310.55\nUSD +2.37 - 0.76% NASDAQ • Common S\nInvestment view",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3f08347bdda52fa73642ab0e53229184117dce3ffafcb41d19c19774490173a0"
+  }
+}

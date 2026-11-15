@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889000",
+  "type": "video",
+  "title": "Soft Gradient",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "soft-gradient",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5c75df7ce2bd8157aee578ed.mp4",
+      "mimeType": "video/mp4",
+      "alt": "gradient_animation_generated.mp4",
+      "role": "original",
+      "bytes": 997328,
+      "sha256": "5c75df7ce2bd8157aee578ed35ba6c3f9c776792a451aba3330005f484ec5941",
+      "sourceUrl": "https://attachments.are.na/45889000/48ededede1a97cbe83a27c2fa546c250.mp4",
+      "originalName": "48ededede1a97cbe83a27c2fa546c250.mp4"
+    },
+    {
+      "path": "assets/thumbnail-885467c1922de4d785e8022b.webp",
+      "mimeType": "image/webp",
+      "alt": "Soft Gradient",
+      "role": "thumbnail",
+      "bytes": 1066,
+      "sha256": "885467c1922de4d785e8022b2dcad82b3f23d523788bb8054b7d782c530a3788",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTAwMC9vcmlnaW5hbF9jMWIyZTM4NjJhYzhhMDkxMjAyNjA1MDYtMi03MWx3dTgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c1b2e3862ac8a09120260506-2-71lwu8.png"
+    },
+    {
+      "path": "assets/display-web-original-5c75df7ce2bd8157aee578ed-5c75df7ce2.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "gradient_animation_generated.mp4",
+      "bytes": 645754,
+      "sha256": "bd5acc1b63c2fa238fca77476300e79e63dbb87b21f63484f2d173a31efe6b5c",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5c75df7ce2bd8157aee578ed.mp4",
+        "sourceSha256": "5c75df7ce2bd8157aee578ed35ba6c3f9c776792a451aba3330005f484ec5941",
+        "originalBytes": 997328,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-dceefb9ae9085bbae75cb025.webp",
+      "mimeType": "image/webp",
+      "alt": "gradient_animation_generated.mp4",
+      "role": "preview",
+      "bytes": 15226,
+      "sha256": "dceefb9ae9085bbae75cb02547f6731b4dc6a3b44695dc02511cd5b37427690a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889000/original_c1b2e3862ac8a09120260506-2-71lwu8.png",
+      "originalName": "c1b2e3862ac8a09120260506-2-71lwu8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 270371,
+        "width": 1280,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:38:01.000Z",
+  "updatedAt": "2026-05-06T12:38:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889000",
+    "title": "gradient_animation_generated.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889000,
+      "url": "https://www.are.na/block/45889000",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "gradient_animation_generated.mp4",
+      "createdAt": "2026-05-06T12:38:01Z",
+      "updatedAt": "2026-05-06T12:38:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gradient_animation_generated.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Soft Gradient",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "885467c1922de4d785e8022b2dcad82b3f23d523788bb8054b7d782c530a3788"
+  }
+}

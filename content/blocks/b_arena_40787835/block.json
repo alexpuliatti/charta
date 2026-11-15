@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787835",
+  "type": "image",
+  "title": "Listening Shelf",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "listening-shelf",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c81efb24571054a185e7810c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Listening Shelf",
+      "role": "original",
+      "bytes": 764548,
+      "sha256": "c81efb24571054a185e7810c5e246bd831e760d2a6fa128024142d3066749f91",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787835/original_fc782b3e191ef3385b1b8da4e2777f80.jpg",
+      "originalName": "fc782b3e191ef3385b1b8da4e2777f80.jpg"
+    },
+    {
+      "path": "assets/thumbnail-19b582a4a646abf97e6f0cd6.webp",
+      "mimeType": "image/webp",
+      "alt": "Listening Shelf",
+      "role": "thumbnail",
+      "bytes": 13202,
+      "sha256": "19b582a4a646abf97e6f0cd63a8a12281bb91a44692e0d33e22b714119037c51",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzgzNS9vcmlnaW5hbF9mYzc4MmIzZTE5MWVmMzM4NWIxYjhkYTRlMjc3N2Y4MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fc782b3e191ef3385b1b8da4e2777f80.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c81efb24571054a185e7810c-c81efb2457.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Listening Shelf",
+      "bytes": 369172,
+      "sha256": "416fb7ee1b3fde94970a5cff4c1bec02d038c4ca8aaeee6e94fdc595be320d39",
+      "width": 1440,
+      "height": 1726,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c81efb24571054a185e7810c.jpg",
+        "sourceSha256": "c81efb24571054a185e7810c5e246bd831e760d2a6fa128024142d3066749f91",
+        "originalBytes": 764548,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:00:23.000Z",
+  "updatedAt": "2025-11-02T16:00:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787835",
+    "title": "owarakaii-20241202_131640-2819074415.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787835,
+      "url": "https://www.are.na/block/40787835",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "owarakaii-20241202_131640-2819074415.jpg",
+      "createdAt": "2025-11-02T16:00:23Z",
+      "updatedAt": "2025-11-02T16:00:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "owarakaii-20241202_131640-2819074415.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Listening Shelf",
+    "text": "Openhouse\nOpenhouse\nOpenhoust\nOpenhouse\n•",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "416fb7ee1b3fde94970a5cff4c1bec02d038c4ca8aaeee6e94fdc595be320d39"
+  }
+}

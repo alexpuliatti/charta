@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45893277",
+  "type": "link",
+  "title": "Mercury Vision",
+  "description": "500",
+  "category": "Writing",
+  "tags": [
+    "operating-systems",
+    "modeless-interfaces",
+    "speculative-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-38153d0ee44b87c523399f5f.webp",
+      "mimeType": "image/webp",
+      "alt": "Introducing Mercury OS. A speculative vision of the operating… | by Jason Yuan | UX Collective",
+      "role": "thumbnail",
+      "bytes": 11948,
+      "sha256": "38153d0ee44b87c523399f5f5addd59349e1ae4d11bd2d91da4b3228d768ed1b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MzI3Ny9vcmlnaW5hbF8xZWE3MWE2NmQ0NzExNzJjZjcwOTc5NDFlNmMxMWY3Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1ea71a66d471172cf7097941e6c11f76.png"
+    },
+    {
+      "path": "assets/preview-580d4f30f35716f7a56e4a28.webp",
+      "mimeType": "image/webp",
+      "alt": "Introducing Mercury OS. A speculative vision of the operating… | by Jason Yuan | UX Collective",
+      "role": "preview",
+      "bytes": 135218,
+      "sha256": "580d4f30f35716f7a56e4a28d92464beffdae6970b6a330c7573a4d7bb7db268",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45893277/original_1ea71a66d471172cf7097941e6c11f76.png",
+      "originalName": "1ea71a66d471172cf7097941e6c11f76.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 431726,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T15:05:21.000Z",
+  "updatedAt": "2026-05-06T15:05:51.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://uxdesign.cc/introducing-mercury-os-f4de45a04289",
+    "title": "Introducing Mercury OS. A speculative vision of the operating… | by Jason Yuan | UX Collective",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45893277,
+      "url": "https://www.are.na/block/45893277",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Introducing Mercury OS. A speculative vision of the operating… | by Jason Yuan | UX Collective",
+      "createdAt": "2026-05-06T15:05:21Z",
+      "updatedAt": "2026-05-06T15:05:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Introducing Mercury OS. A speculative vision of the operating… | by Jason Yuan | UX Collective",
+      "category": "Digital design",
+      "tags": [
+        "operating-systems",
+        "interfaces",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45897656",
+      "reason": "Malleable software and intent-driven operating systems are two specific approaches to moving beyond application-centered interfaces.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_46111537",
+      "reason": "Both present visions of future interaction, comparing modeless intent-driven software with embodied interaction.",
+      "method": "curation-v1"
+    }
+  ]
+}

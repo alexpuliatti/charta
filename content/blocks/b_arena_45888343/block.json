@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888343",
+  "type": "image",
+  "title": "Image Sphere",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "image-sphere",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-52670dc8d4e45fcccc21b64c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Image Sphere",
+      "role": "original",
+      "bytes": 84796,
+      "sha256": "52670dc8d4e45fcccc21b64c3fadb58bd080a3185765cacda4bf5f761438d458",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888343/original_fb313466c32ccd97c408e75ae5a3ab9a.jpeg",
+      "originalName": "fb313466c32ccd97c408e75ae5a3ab9a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-3d59e6b41e9c81232217a982.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Sphere",
+      "role": "thumbnail",
+      "bytes": 15328,
+      "sha256": "3d59e6b41e9c81232217a982ebea3cc843b78e56fbb557d07406cffb54e23b44",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM0My9vcmlnaW5hbF9mYjMxMzQ2NmMzMmNjZDk3YzQwOGU3NWFlNWEzYWI5YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "fb313466c32ccd97c408e75ae5a3ab9a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-52670dc8d4e45fcccc21b64c-52670dc8d4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Sphere",
+      "bytes": 69820,
+      "sha256": "5ea2730e83877e0fb37b6ee997a28a2c7906267be4e5def46f6e80b80e0068da",
+      "width": 928,
+      "height": 522,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-52670dc8d4e45fcccc21b64c.jpg",
+        "sourceSha256": "52670dc8d4e45fcccc21b64c3fadb58bd080a3185765cacda4bf5f761438d458",
+        "originalBytes": 84796,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:13:43.000Z",
+  "updatedAt": "2026-06-26T19:57:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888343",
+    "title": "84d9e358780b75b73ae88afaba99eef9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888343,
+      "url": "https://www.are.na/block/45888343",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "84d9e358780b75b73ae88afaba99eef9.jpg",
+      "createdAt": "2026-05-06T12:13:43Z",
+      "updatedAt": "2026-06-26T19:57:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "84d9e358780b75b73ae88afaba99eef9.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Sphere",
+    "text": "Autumn\nSinet Festini",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5ea2730e83877e0fb37b6ee997a28a2c7906267be4e5def46f6e80b80e0068da"
+  }
+}

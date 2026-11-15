@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889841",
+  "type": "file",
+  "title": "Post-Social Media",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "community",
+    "social-media",
+    "digital-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3afd559fa957e072d84a58bf.pdf",
+      "mimeType": "application/pdf",
+      "alt": "post-social-media_2020xpdf-1.pdf",
+      "role": "original",
+      "bytes": 1787465,
+      "sha256": "3afd559fa957e072d84a58bf98c98e0aa8120162c3e9d99ae2475c26a4c70ca1",
+      "sourceUrl": "https://attachments.are.na/45889841/60479e4cd935e075299dcd5665086c30.pdf",
+      "originalName": "60479e4cd935e075299dcd5665086c30.pdf"
+    },
+    {
+      "path": "assets/thumbnail-9c8927fbdaaad44bf5c670d4.webp",
+      "mimeType": "image/webp",
+      "alt": "post-social-media_2020xpdf-1.pdf",
+      "role": "thumbnail",
+      "bytes": 1686,
+      "sha256": "9c8927fbdaaad44bf5c670d465882b6589c3a0db1dab48f1ec74e02c53fff110",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTg0MS9vcmlnaW5hbF81ZWQyOWRiNDhkMDBhMWFhMjAyNjA1MDYtMi1oamswenMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5ed29db48d00a1aa20260506-2-hjk0zs.png"
+    },
+    {
+      "path": "assets/preview-4f3ecc58830c00681e87bfb6.webp",
+      "mimeType": "image/webp",
+      "alt": "post-social-media_2020xpdf-1.pdf",
+      "role": "preview",
+      "bytes": 19110,
+      "sha256": "4f3ecc58830c00681e87bfb6f2d76f3f37c7a4de5904c2a9dcffd7357aed29ae",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889841/original_5ed29db48d00a1aa20260506-2-hjk0zs.png",
+      "originalName": "5ed29db48d00a1aa20260506-2-hjk0zs.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 56717,
+        "width": 1131,
+        "height": 1600,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:13:11.000Z",
+  "updatedAt": "2026-05-06T13:13:16.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 45-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889841",
+    "title": "post-social-media_2020xpdf-1.pdf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889841,
+      "url": "https://www.are.na/block/45889841",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "post-social-media_2020xpdf-1.pdf",
+      "createdAt": "2026-05-06T13:13:11Z",
+      "updatedAt": "2026-05-06T13:13:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "report",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "post-social-media_2020xpdf-1.pdf",
+      "category": "Writing and ideas",
+      "tags": [
+        "social-media",
+        "platform-culture",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "POST-SOCIAL MEDIA\n2020 — X\nThe Future of Community Online \na report by\n\n\n\n\n4 Post-Social Media\nExecutive Summary\n \nQuestions Answered in this Report\n The 2020s didn’t exactly get off to the start we’d hoped for.  \nThe pandemic and its ensuing economic crisis, the ongoing environmental \nemergency, chaotic politics and the intensification of global surveillance \n– among many other factors – have created a climate of extraordinary un-\ncertainty. Yet out of the turmoil, new and hopeful possibilities are emerging, \nfrom the reinvigorated global fight for racial justice to seismic shifts in the \nway we work and communicate.\nAmidst all the noise, our need for safe and productive virtual spaces where \nwe can gather together, communicate, exchange ideas, build new move-\nments, and support each other has never been greater. \n“Post-social media” is about the future of building these digital communities. \nIt’s a term we at co—matter have chosen to describe the shifts in how we’ll \nconnect in the next decade: refocusing our attention, moving from open to \nsemi-private platforms, engaging in hyper-niche communities, synchroniz-\ning our experiences, participating in the value creation of tools and plat-\nforms, and expecting them to take a stand on issues that matter.\nTo create this report, we’ve gathered insights from community leaders \nworldwide; strategists, organizers, researchers, activists, entrepreneurs and \nother like-minded people who use the internet as a tool to bring people to-\ngether. \nThe Post-Social Media Report is the result of our conversations, gatherings \nand annual survey. It describes the shift in mindset and culture that is \nemerging in the wake of the social media era (2001-2020), and offers a \nreflection on social media’s downfalls while pointing to new ways of finding \ncommunity online.\nA. Why are we moving away from  \nsocial media as we know it? \nB. What defines the post-social \nmedia era?\nC. How are we taking control over \nour feeds – and attention – \nagain? \nD. Why are we shifting from  \nhorizontal social networks  \nto vertical, niche micro- \ncommunities?\nE. What will the collective  \nexperiences of the future  \nlook like?\nF. How is the gig economy trans-\nforming into the subscription \neconomy?\nG. What are other potential  \nbusiness models that power  \nfuture communities?\nH. Why can platforms no longer \nafford to be neutral?\nI. What can you do to shape the \npost-social media era?\n\n6\nPost- Social Media\nSome of the gatherings  \nthat contributed  \nto shaping this report:\n1. The Community Leadership Summit, Berlin, January 2019\n2. Welcome to the World Wide Web at SPACE10, Copenhagen, January-June 2019\n3. Retail Futures Forum at The Future Laboratory , London, April 2019\n4. The Future of the Social Web at The Conference, Malmö, August 2019\n5. IAM Weekend, a global URL X IRL conference, The Internet, March 2020\nTo glean insight into what the post-social media \nera might look like, co—matter embarked on a \nresearch journey in early 2019. \nWe first gathered at our summit in Berlin, then \nsurveyed 250 community leaders worldwide and \nhosted expert discussions through our podcast \nand conference partners.\n \nThe insights in this Post-Social Media Report  \nare gathered through:\n1. The co—matter summit , where 80 community \nleaders across industries gathered to discuss the \nfuture of building communities in January 2019 in \nBerlin.\n2. A community survey of our global network of \n250 community organizers, researchers, strate-\ngists and activists. Distributed across 38 coun-\ntries and a wide range of industries – from tech \nto the arts – all survey respondents use the inter -\nnet to bring people together.\n3. Expert discussions with thought leaders  in  \ndiverse fields, through our podcast and collabo-\nrations with conferences and research labs  \nincluding SPACE10, The Conference,  \nIAM Weekend, and The Future Laboratory.\n1\n2\n1 4\n3 1\n5\n1 2\nMethodology\n \n\n8\nPost- Social Media\nWelcome to the Post-Social Media Era p10\n \nMajor Shifts\nFive transitions paving the way \nfor the post-social media era\n1. Growth Agency p18\n2. Open Private p30\n3. Individual Collective p40\n4. Ad-based Community-owned p50\n5. Neutral Responsible p64\nTL;DR: Appendix & further reading p74\nIndex\n\nPost- Social Media10\nWELCOME  \nTO THE  \nPOST-SOCIAL  \nMEDIA ERA\n Community on the internet once seemed like the future.  \nNow it has a past.\nNot all that long ago, the ability to connect with everyone on the planet, \nshare information and find the people and causes we truly care about was \nan exciting promise. For the first time in human history, we were not limited \nby physical location, background or time constraints; anyone with a working \ninternet connection could go online and find their tribe.\nWhen social media emerged in the early 2000s, it soon took over the task of \ncommunity building on the internet. We created profiles, chatted with friends \nand strangers, started groups, and used feeds to stay updated on things we \nwere into. \nBut soon reality caught up. The platforms that promised to connect us start-\ned to capitalize on our desire for connection, belonging and curiosity. Al-\ngorithms started to control what we saw in our feeds, data was collected to \nimprove advertising, and platforms were optimized to keep us attached to \nour screens. \nSocial media became the new television. It gave us a voice.  \nIt gave us reach. But it doesn’t exist to solve our problems.\nOur desire to find community and connection hasn’t changed. Instead, it’s \nadapting to a new phase, the post-social media era: a future that’s emerg-\ning from the learnings of the past 20 years of building communities online. \nThe following report is a close examination of what social media means to us \ntoday, and what the guiding principles of the future might look like. It’s writ-\nten for – and from the perspective of – people who use the internet to bring \npeople together.\nWe hope you’ll join us in creating this next era together.\n\n12\nPost- Social Media\nA Very Sh",
+    "textPath": "extracted.txt",
+    "textSha256": "af42aca4bd09a9a311641454250bc6715bbe795619472d4521dad401cfc26b36",
+    "textCharacters": 44857,
+    "pages": 45,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45889805",
+      "reason": "Both analyze social-platform culture and its consequences for online communities; the latter explicitly proposes alternatives.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_25595195",
+      "reason": "Both reports examine online community formation, belonging and the limits of social-platform organization.",
+      "method": "curation-v1"
+    }
+  ]
+}

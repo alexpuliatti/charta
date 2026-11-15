@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888392",
+  "type": "image",
+  "title": "Tahoe Itinerary",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "tahoe-itinerary",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-50765c44bb805ef94539d8da.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Tahoe Itinerary",
+      "role": "original",
+      "bytes": 102295,
+      "sha256": "50765c44bb805ef94539d8da961e53fc085ceecd55d46823a0ce59ca5299c4ef",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888392/original_c19e37b9b74e8d98f8d7efc50e847a48.jpeg",
+      "originalName": "c19e37b9b74e8d98f8d7efc50e847a48.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d12a960b2453b2cbdf484f59.webp",
+      "mimeType": "image/webp",
+      "alt": "Tahoe Itinerary",
+      "role": "thumbnail",
+      "bytes": 8266,
+      "sha256": "d12a960b2453b2cbdf484f59fb1e0db6db2d08db4d1bee32b19a5bdac808b0ce",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM5Mi9vcmlnaW5hbF9jMTllMzdiOWI3NGU4ZDk4ZjhkN2VmYzUwZTg0N2E0OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c19e37b9b74e8d98f8d7efc50e847a48.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-50765c44bb805ef94539d8da-50765c44bb.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tahoe Itinerary",
+      "bytes": 62972,
+      "sha256": "d987a65a4dc9dbee99366a46b20f5338d8cd0f6eab7eb604bc94c89d83406871",
+      "width": 1536,
+      "height": 1536,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-50765c44bb805ef94539d8da.jpg",
+        "sourceSha256": "50765c44bb805ef94539d8da961e53fc085ceecd55d46823a0ce59ca5299c4ef",
+        "originalBytes": 102295,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:15:35.000Z",
+  "updatedAt": "2026-05-06T12:15:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888392",
+    "title": "hf2dhr7asaaj1qd.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888392,
+      "url": "https://www.are.na/block/45888392",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hf2dhr7asaaj1qd.jpeg",
+      "createdAt": "2026-05-06T12:15:35Z",
+      "updatedAt": "2026-05-06T12:15:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hf2dhr7asaaj1qd.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tahoe Itinerary",
+    "text": "UPDATE 4-12-2026\nEXPLORING\nTaro\n001\nAPR 20\nGATHER & DRIVE\nMISSION\nDINNER\nLOCATION TBD\nARRIVE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d987a65a4dc9dbee99366a46b20f5338d8cd0f6eab7eb604bc94c89d83406871"
+  }
+}

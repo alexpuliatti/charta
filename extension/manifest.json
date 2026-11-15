@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Charta — Save to your library",
+  "version": "0.3.0",
+  "description": "Read articles and threads, then save clean Markdown to your Charta library on GitHub.",
+  "minimum_chrome_version": "127",
+  "permissions": ["activeTab", "scripting", "storage", "contextMenus"],
+  "host_permissions": ["https://api.github.com/*"],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "icons": { "16": "assets/charta-16.png", "32": "assets/charta-32.png", "48": "assets/charta-48.png", "128": "assets/charta-128.png" },
+  "action": { "default_title": "Save to Charta", "default_popup": "popup.html", "default_icon": { "16": "assets/charta-16.png", "32": "assets/charta-32.png" } },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": { "default": "Alt+Shift+J", "mac": "Alt+Shift+J" },
+      "description": "Save to Charta"
+    }
+  },
+  "content_security_policy": { "extension_pages": "script-src 'self'; object-src 'none'" }
+}

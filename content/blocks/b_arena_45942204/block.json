@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942204",
+  "type": "image",
+  "title": "Component Specification",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "component-specification",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3b399f764dabc9a4a955d2e0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Component Specification",
+      "role": "original",
+      "bytes": 179730,
+      "sha256": "3b399f764dabc9a4a955d2e06232496724613de78dde51f7e1394e894a0dc783",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942204/original_1b7030d3dc0b59c6ba925ba5869f871f.jpeg",
+      "originalName": "1b7030d3dc0b59c6ba925ba5869f871f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-4133b21dd697e7a64bc7bb31.webp",
+      "mimeType": "image/webp",
+      "alt": "Component Specification",
+      "role": "thumbnail",
+      "bytes": 6058,
+      "sha256": "4133b21dd697e7a64bc7bb31560f4b3de781030fec9de0a34f6bb1eac4a11cc8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIwNC9vcmlnaW5hbF8xYjcwMzBkM2RjMGI1OWM2YmE5MjViYTU4NjlmODcxZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1b7030d3dc0b59c6ba925ba5869f871f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-3b399f764dabc9a4a955d2e0-3b399f764d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Component Specification",
+      "bytes": 101444,
+      "sha256": "045ba2c57a6edbf210df95d7a8231313948dab062cc714629e78c2f16daa29cb",
+      "width": 1926,
+      "height": 1570,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3b399f764dabc9a4a955d2e0.jpg",
+        "sourceSha256": "3b399f764dabc9a4a955d2e06232496724613de78dde51f7e1394e894a0dc783",
+        "originalBytes": 179730,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:11.000Z",
+  "updatedAt": "2026-05-08T09:25:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942204",
+    "title": "hhrdlmawiaehuza.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942204,
+      "url": "https://www.are.na/block/45942204",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhrdlmawiaehuza.jpeg",
+      "createdAt": "2026-05-08T09:25:11Z",
+      "updatedAt": "2026-05-08T09:25:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhrdlmawiaehuza.jpeg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Component Specification",
+    "text": "DESIGN VARIANT\ncentered\ntop of viewport\ntop-left\nfull-width\n+ Add Variant\ncenter\nQ Search\nRECENT\n• Open File\n• Browse Projects\n• Open Terminal\nSETTINGS\n* Preferences\ng Account\nup/down navigate\nenter select\n400px\nUX CONSIDERATIONS\nDISCOVERABILITY\nFirst-time users may not know cmd+K exists. Consider a subtle hint in the UI\n(toolbar icon, onboarding tooltip) that teaches the shortcut without being\nintrusive.\nEMPTY STATES\nWhen no results match, show helpful message with suggestions: \"No results for\n'xyz'. Try searching for commands, files, or settings. \" Avoid dead-ends.\nFOCUS MANAGEMENT\nOn open, focus moves to search input. On close, focus returns to previously\nfocused element. Trap focus within modal while open (critical for\naccessibility).\nesc\ncmd+0\ncmd+P\ncmd+T\ncmd+,\ncmd+K toggle\nPOSITION\nFixed to viewport. 16px\nfrom top, center.\nVARIANT NOTES\n- Horizontally centered\n- Fixed 400px width\n- 16px from top\nTRIGGER\ncmd+K opens/closes. Click\noutside or ESC to dismiss.\nBEHAVIOR\nFuzzy search filters\nresults. Arrow keys\nnavigate, Enter selects.\nBACKDROP\nSemi-transparent overlay\ndims page content.\n+ Add Note\nSEARCH LATENCY\nResults should appear within 50ms to feel instant. Use debouncing (150-200ms)\nto avoid excessive filtering on rapid typing. Show loading skeleton if async\nsearch exceeds 200ms.\nKEYBOARD NAVIGATION\nArrow keys must wrap (bottom to top, top to bottom). Home/End jump to\nfirst/last. Type-ahead should not steal focus from search input.\nRECENT /FREQUENT\nPrioritize recently used commands at top. Consider a \"frecency\" algorithm\n(frequency + recency) for smarter ordering. Cap recent items to 3-5 to avoid\nclutter.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "045ba2c57a6edbf210df95d7a8231313948dab062cc714629e78c2f16daa29cb"
+  }
+}

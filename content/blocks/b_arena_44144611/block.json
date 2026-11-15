@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144611",
+  "type": "image",
+  "title": "Henry James",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "henry-james",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c6bea1f203b6f3ecca1cef0f.png",
+      "mimeType": "image/png",
+      "alt": "Henry James",
+      "role": "original",
+      "bytes": 1266025,
+      "sha256": "c6bea1f203b6f3ecca1cef0f806cfb2725d86ae2cc1ccc53626165565bc2a722",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144611/original_e1c4887544055c5c0b782c8b27d21d66.png",
+      "originalName": "e1c4887544055c5c0b782c8b27d21d66.png"
+    },
+    {
+      "path": "assets/thumbnail-867a223d59f97ef2b13f1a1f.webp",
+      "mimeType": "image/webp",
+      "alt": "Henry James",
+      "role": "thumbnail",
+      "bytes": 5716,
+      "sha256": "867a223d59f97ef2b13f1a1f052d214ab1a35a9f8760b9f40e18c1305f4cc984",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYxMS9vcmlnaW5hbF9lMWM0ODg3NTQ0MDU1YzVjMGI3ODJjOGIyN2QyMWQ2Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e1c4887544055c5c0b782c8b27d21d66.png"
+    },
+    {
+      "path": "assets/display-web-original-c6bea1f203b6f3ecca1cef0f-c6bea1f203.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Henry James",
+      "bytes": 54642,
+      "sha256": "07b7b006239a425f5402ec90fc126a4a0fb7165d842e4df8d1823c4dae6e727e",
+      "width": 920,
+      "height": 1316,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c6bea1f203b6f3ecca1cef0f.png",
+        "sourceSha256": "c6bea1f203b6f3ecca1cef0f806cfb2725d86ae2cc1ccc53626165565bc2a722",
+        "originalBytes": 1266025,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:15.000Z",
+  "updatedAt": "2026-03-04T19:22:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144611",
+    "title": "screenshot-2026-03-04-alle-16.19.22.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144611,
+      "url": "https://www.are.na/block/44144611",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.19.22.png",
+      "createdAt": "2026-03-04T19:22:15Z",
+      "updatedAt": "2026-03-04T19:22:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.19.22.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Henry James",
+    "text": "Edited, with\nan introduction, by\nLeon Edel\nThe\nAmerican\nEssays\nof\nHenry James\nK 40\nA Vintage Book 95 c",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "07b7b006239a425f5402ec90fc126a4a0fb7165d842e4df8d1823c4dae6e727e"
+  }
+}

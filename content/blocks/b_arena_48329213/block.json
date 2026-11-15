@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_48329213",
+  "type": "image",
+  "title": "Health Dashboard",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "health-dashboard",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8ab7c70a303aa10b53fb1b35.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Health Dashboard",
+      "role": "original",
+      "bytes": 95319,
+      "sha256": "8ab7c70a303aa10b53fb1b35d672fe3945bbb9ac069469700ce42a901389b1d0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/48329213/original_91e8bf1265ac6c743b799a4b4d042bd5.jpeg",
+      "originalName": "91e8bf1265ac6c743b799a4b4d042bd5.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-8271536cbd16607a6f3c55f9.webp",
+      "mimeType": "image/webp",
+      "alt": "Health Dashboard",
+      "role": "thumbnail",
+      "bytes": 4212,
+      "sha256": "8271536cbd16607a6f3c55f9daf0a79aa884a187a376aaa5c3291880cdd4cab4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODMyOTIxMy9vcmlnaW5hbF85MWU4YmYxMjY1YWM2Yzc0M2I3OTlhNGI0ZDA0MmJkNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "91e8bf1265ac6c743b799a4b4d042bd5.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8ab7c70a303aa10b53fb1b35-8ab7c70a30.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Health Dashboard",
+      "bytes": 80440,
+      "sha256": "cfe67c7da5f34f9a2a4155582807285c2d287884a0fa1701388280d6a304c879",
+      "width": 1199,
+      "height": 686,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8ab7c70a303aa10b53fb1b35.jpg",
+        "sourceSha256": "8ab7c70a303aa10b53fb1b35d672fe3945bbb9ac069469700ce42a901389b1d0",
+        "originalBytes": 95319,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-29T17:00:30.000Z",
+  "updatedAt": "2026-08-26T03:51:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/48329213",
+    "title": "d056ad1c8d7721145fef841c9014c301",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 48329213,
+      "url": "https://www.are.na/block/48329213",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "d056ad1c8d7721145fef841c9014c301",
+      "createdAt": "2026-07-29T17:00:30Z",
+      "updatedAt": "2026-08-26T03:51:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "d056ad1c8d7721145fef841c9014c301",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Health Dashboard",
+    "text": "Albur\nBeta-hCG\nBlood glucose\nCreatinine\nThyrok\nHaemoglobin\nKidney filtration\nLymphocytes\nColonoscopy\nAlternaria allergy\nBone density\nRyegrass allergy\n• Full-body MRI\nUric acid\nRSMI\nCancer genetics\nTriglycerides\nPlatelets\nLipoprotein (a)\nSerum mercury\nHS-CRP\n• v02 Max\nTestosterone\nVisceral fat mass\nApolipoprotein F\nGrip strens\nChoose your path to\nbetter health.\nFrom bloodwork to advanced diagnostics, create a tailored plan that\nreveals where your health is heading and outlines how to improve it.\nBuild my plan",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cfe67c7da5f34f9a2a4155582807285c2d287884a0fa1701388280d6a304c879"
+  }
+}

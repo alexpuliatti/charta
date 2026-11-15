@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_36698573",
+  "type": "image",
+  "title": "Horn Speaker",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "horn-speaker",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-134f7ccd457425c02b40af30.png",
+      "mimeType": "image/png",
+      "alt": "Horn Speaker",
+      "role": "original",
+      "bytes": 1645844,
+      "sha256": "134f7ccd457425c02b40af306892535703e97679022bbf7df35e99ae1cd28936",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/36698573/original_9c7861b85022e0e2b651efabf40c0156.png",
+      "originalName": "9c7861b85022e0e2b651efabf40c0156.png"
+    },
+    {
+      "path": "assets/thumbnail-f9fd40b71c52064b546b2113.webp",
+      "mimeType": "image/webp",
+      "alt": "Horn Speaker",
+      "role": "thumbnail",
+      "bytes": 7692,
+      "sha256": "f9fd40b71c52064b546b2113060deb28f5ba28b158c9d0f21f92985bff7c6b77",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzNjY5ODU3My9vcmlnaW5hbF85Yzc4NjFiODUwMjJlMGUyYjY1MWVmYWJmNDBjMDE1Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9c7861b85022e0e2b651efabf40c0156.png"
+    },
+    {
+      "path": "assets/display-web-original-134f7ccd457425c02b40af30-134f7ccd45.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Horn Speaker",
+      "bytes": 99232,
+      "sha256": "c8ee078fe3b44a6c2b6aa8e32500dedced1943d88049ac6d6b5278f8a268494b",
+      "width": 2000,
+      "height": 1600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-134f7ccd457425c02b40af30.png",
+        "sourceSha256": "134f7ccd457425c02b40af306892535703e97679022bbf7df35e99ae1cd28936",
+        "originalBytes": 1645844,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-05-14T11:11:59.000Z",
+  "updatedAt": "2026-10-16T01:35:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/36698573",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 36698573,
+      "url": "https://www.are.na/block/36698573",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2025-05-14T11:11:59Z",
+      "updatedAt": "2026-10-16T01:35:09Z",
+      "addedBy": {
+        "id": 136866,
+        "name": "Mikey Womack",
+        "slug": "mikey-womack"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Horn Speaker",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c8ee078fe3b44a6c2b6aa8e32500dedced1943d88049ac6d6b5278f8a268494b"
+  }
+}

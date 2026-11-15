@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787914",
+  "type": "image",
+  "title": "Concrete Hearth",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-hearth",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-aa3c51d93b73a82d73805b16.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Hearth",
+      "role": "original",
+      "bytes": 405485,
+      "sha256": "aa3c51d93b73a82d73805b16bc4d8b9cf75e0863945f286e7e10606df59d6d0f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787914/original_579d562333faa3033d7cdae54e0f0bb6.jpg",
+      "originalName": "579d562333faa3033d7cdae54e0f0bb6.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c6d6bc442e96f30a5871f01b.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Hearth",
+      "role": "thumbnail",
+      "bytes": 6012,
+      "sha256": "c6d6bc442e96f30a5871f01b7c87b173cd214190273bb93bdc6375fc6e94f3b1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzkxNC9vcmlnaW5hbF81NzlkNTYyMzMzZmFhMzAzM2Q3Y2RhZTU0ZTBmMGJiNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "579d562333faa3033d7cdae54e0f0bb6.jpg"
+    },
+    {
+      "path": "assets/display-web-original-aa3c51d93b73a82d73805b16-aa3c51d93b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Hearth",
+      "bytes": 165728,
+      "sha256": "4f3381e6800b17757ae59c7d8ce71502c6a963378a89a436e2796f9a83621112",
+      "width": 1440,
+      "height": 1777,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-aa3c51d93b73a82d73805b16.jpg",
+        "sourceSha256": "aa3c51d93b73a82d73805b16bc4d8b9cf75e0863945f286e7e10606df59d6d0f",
+        "originalBytes": 405485,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:04:49.000Z",
+  "updatedAt": "2025-11-02T16:04:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787914",
+    "title": "industrialkonzept-20250107_095024-2258604726.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787914,
+      "url": "https://www.are.na/block/40787914",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "industrialkonzept-20250107_095024-2258604726.jpg",
+      "createdAt": "2025-11-02T16:04:49Z",
+      "updatedAt": "2025-11-02T16:04:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "industrialkonzept-20250107_095024-2258604726.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Hearth",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4f3381e6800b17757ae59c7d8ce71502c6a963378a89a436e2796f9a83621112"
+  }
+}

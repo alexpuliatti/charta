@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701047",
+  "type": "image",
+  "title": "Miles Trumpet",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "miles-trumpet",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-72770968678d56049207bd5d.png",
+      "mimeType": "image/png",
+      "alt": "Miles Trumpet",
+      "role": "original",
+      "bytes": 504602,
+      "sha256": "72770968678d56049207bd5d6bd7f3d0b9c32800ef9904f6be1454c85432817d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701047/original_38d8f565af3cb8a5b37413b059eddedc.png",
+      "originalName": "38d8f565af3cb8a5b37413b059eddedc.png"
+    },
+    {
+      "path": "assets/thumbnail-19e8eaaed025b270574ba959.webp",
+      "mimeType": "image/webp",
+      "alt": "Miles Trumpet",
+      "role": "thumbnail",
+      "bytes": 3442,
+      "sha256": "19e8eaaed025b270574ba9594414bfe75425710eeaa5d43e1222ed4acb4b1b27",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0Ny9vcmlnaW5hbF8zOGQ4ZjU2NWFmM2NiOGE1YjM3NDEzYjA1OWVkZGVkYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "38d8f565af3cb8a5b37413b059eddedc.png"
+    },
+    {
+      "path": "assets/display-web-original-72770968678d56049207bd5d-7277096867.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Miles Trumpet",
+      "bytes": 16350,
+      "sha256": "992eb22a2535ea3104f027cade74add1696e1342897f4a1d66ed5e7a93ed289f",
+      "width": 812,
+      "height": 1060,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-72770968678d56049207bd5d.png",
+        "sourceSha256": "72770968678d56049207bd5d6bd7f3d0b9c32800ef9904f6be1454c85432817d",
+        "originalBytes": 504602,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:40.000Z",
+  "updatedAt": "2026-07-08T14:56:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701047",
+    "title": "Screenshot 2023-09-12 alle 17.06.53",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701047,
+      "url": "https://www.are.na/block/47701047",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.06.53",
+      "createdAt": "2026-07-08T14:56:40Z",
+      "updatedAt": "2026-07-08T14:56:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.06.53",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Miles Trumpet",
+    "text": "MILES",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "992eb22a2535ea3104f027cade74add1696e1342897f4a1d66ed5e7a93ed289f"
+  }
+}

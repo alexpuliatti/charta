@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888679",
+  "type": "image",
+  "title": "Question Bubbles",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "question-bubbles",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7780f8e2900d73e68be3e44f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Question Bubbles",
+      "role": "original",
+      "bytes": 559390,
+      "sha256": "7780f8e2900d73e68be3e44f9e4875c280939101ebc01bb6829830231a666480",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888679/original_075ee91f440fa2c611c6a2798c818a44.jpeg",
+      "originalName": "075ee91f440fa2c611c6a2798c818a44.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-b7a6d587765c8ceea17b1465.webp",
+      "mimeType": "image/webp",
+      "alt": "Question Bubbles",
+      "role": "thumbnail",
+      "bytes": 6456,
+      "sha256": "b7a6d587765c8ceea17b146505662fb0815fb00e32840c942899120df4279972",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY3OS9vcmlnaW5hbF8wNzVlZTkxZjQ0MGZhMmM2MTFjNmEyNzk4YzgxOGE0NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "075ee91f440fa2c611c6a2798c818a44.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-7780f8e2900d73e68be3e44f-7780f8e290.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Question Bubbles",
+      "bytes": 345816,
+      "sha256": "1edf9ea8c561b0df2258788ed95f7275e3ad0d90b47b715a9446792430251287",
+      "width": 1600,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7780f8e2900d73e68be3e44f.jpg",
+        "sourceSha256": "7780f8e2900d73e68be3e44f9e4875c280939101ebc01bb6829830231a666480",
+        "originalBytes": 559390,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:52.000Z",
+  "updatedAt": "2026-05-06T12:25:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888679",
+    "title": "rominamalta-3esketch.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888679,
+      "url": "https://www.are.na/block/45888679",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "rominamalta-3esketch.jpg",
+      "createdAt": "2026-05-06T12:25:52Z",
+      "updatedAt": "2026-05-06T12:25:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "rominamalta-3esketch.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Question Bubbles",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1edf9ea8c561b0df2258788ed95f7275e3ad0d90b47b715a9446792430251287"
+  }
+}

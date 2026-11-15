@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701018",
+  "type": "image",
+  "title": "Illustrated Portrait",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "illustrated-portrait",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cc8c7f38a6398bc8d07ab5c4.png",
+      "mimeType": "image/png",
+      "alt": "Illustrated Portrait",
+      "role": "original",
+      "bytes": 2548727,
+      "sha256": "cc8c7f38a6398bc8d07ab5c44e569177c3a90eac6b7c1e13e7bdb552bd7941a0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701018/original_5478364f46c261a21e102e003f03af5d.png",
+      "originalName": "5478364f46c261a21e102e003f03af5d.png"
+    },
+    {
+      "path": "assets/thumbnail-70be9ada9995cdc3e4b5270c.webp",
+      "mimeType": "image/webp",
+      "alt": "Illustrated Portrait",
+      "role": "thumbnail",
+      "bytes": 12652,
+      "sha256": "70be9ada9995cdc3e4b5270cc3675cce8b0e4d94bca91bacb148b73d7014bc20",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAxOC9vcmlnaW5hbF81NDc4MzY0ZjQ2YzI2MWEyMWUxMDJlMDAzZjAzYWY1ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5478364f46c261a21e102e003f03af5d.png"
+    },
+    {
+      "path": "assets/display-web-original-cc8c7f38a6398bc8d07ab5c4-cc8c7f38a6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Illustrated Portrait",
+      "bytes": 163628,
+      "sha256": "8b3ba32806fa5179c3de1a8ed9d2e26a0a4accfdd6b4ac3dd435a4142673f376",
+      "width": 1202,
+      "height": 1412,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cc8c7f38a6398bc8d07ab5c4.png",
+        "sourceSha256": "cc8c7f38a6398bc8d07ab5c44e569177c3a90eac6b7c1e13e7bdb552bd7941a0",
+        "originalBytes": 2548727,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:13.000Z",
+  "updatedAt": "2026-07-08T14:56:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701018",
+    "title": "Screenshot 2023-09-12 alle 16.52.34",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701018,
+      "url": "https://www.are.na/block/47701018",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.52.34",
+      "createdAt": "2026-07-08T14:56:13Z",
+      "updatedAt": "2026-07-08T14:56:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.52.34",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Illustrated Portrait",
+    "text": "A US BASIC NATIONAL SECU\nPolicy SYNTHESIS WITH BASI\nOVERALL ASSUMPIONS AND\nPOLICY JILOCAL\nWAR\nCENTRI\nARMS\nETC.\n5 6 ріки\nPage 35\nPard she Marti\nKAHN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8b3ba32806fa5179c3de1a8ed9d2e26a0a4accfdd6b4ac3dd435a4142673f376"
+  }
+}

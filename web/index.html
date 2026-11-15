@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="theme-color" content="#121212">
+    <meta name="description" content="A little space for your links, notes, and things worth keeping. An open source personal library, stored in your own files.">
+    <title>Charta — a place for things worth keeping</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/charta-icon.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/icons/charta-32.png">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./taxonomy.css">
+    <link rel="stylesheet" href="./vendor/connections-react.css">
+    <link rel="stylesheet" href="./network.css">
+    <link rel="stylesheet" href="./media.css">
+    <link rel="stylesheet" href="./article.css">
+    <link rel="stylesheet" href="./gradient-components.css">
+    <link rel="stylesheet" href="./dark.css">
+    <link rel="stylesheet" href="./workspace.css">
+    <link rel="stylesheet" href="./minimal.css">
+    <link rel="stylesheet" href="./folders.css">
+    <link rel="stylesheet" href="./resources.css">
+    <link rel="stylesheet" href="./discover.css">
+    <link rel="stylesheet" href="./explore.css">
+    <link rel="stylesheet" href="./canvas.css">
+    <link rel="stylesheet" href="./context-menu.css">
+    <link rel="stylesheet" href="./motion.css">
+    <link rel="stylesheet" href="./menus.css">
+    <link rel="stylesheet" href="./artefact.css">
+    <link rel="stylesheet" href="./pdf.css">
+    <link rel="stylesheet" href="./search.css">
+    <link rel="stylesheet" href="./research.css">
+    <link rel="stylesheet" href="./vendor/archive-thinking-react.css">
+    <link rel="stylesheet" href="./micro.css">
+    <script src="./vendor/marked.umd.js" defer></script>
+    <script src="./vendor/purify.min.js" defer></script>
+    <script type="module" src="./app.mjs"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to materials</a>
+    <div class="app-shell">
+      <aside id="sidebar" class="sidebar" aria-label="Library navigation"></aside>
+      <div id="nav-scrim" class="nav-scrim" hidden></div>
+      <main id="main" class="main" tabindex="-1">
+        <header class="topbar">
+          <button id="menu-button" class="icon-button mobile-menu" aria-label="Open navigation" aria-expanded="false"></button>
+          <nav id="breadcrumb" class="breadcrumb" aria-label="Breadcrumb">My library <span>/</span> All materials</nav>
+          <div class="topbar-right">
+            <button id="save-status" class="save-status" data-action="settings" hidden><span role="status" aria-live="polite"></span></button>
+            <div class="library-search-surface header-search"><label id="search-button" class="search-launch" for="header-library-search"><span id="search-icon"></span><input class="search-input" id="header-library-search" data-library-search type="search" role="combobox" aria-autocomplete="list" aria-controls="search-results" aria-expanded="false" aria-label="Search library" placeholder="Search your library" autocomplete="off" spellcheck="false"><kbd>⌘ K</kbd></label></div>
+            <button id="settings-button" class="avatar" aria-label="Library settings"><img src="./assets/charta.svg" alt=""></button>
+          </div>
+        </header>
+        <section id="page-header" class="page-header"></section>
+        <div id="toolbar" class="toolbar"></div>
+        <section id="content" aria-label="Library materials" aria-live="polite">
+          <div class="loading-state"><span class="loading-dot"></span>Opening your library…</div>
+        </section>
+      </main>
+    </div>
+    <div id="search-dropdown" class="search-dropdown" hidden><div class="search-list-heading"><span id="search-results-label">Search results</span><span id="search-results-count" role="status" aria-live="polite"></span></div><div class="search-results" id="search-results" role="listbox" aria-labelledby="search-results-label"></div><div class="search-footer"><span><kbd>↑</kbd><kbd>↓</kbd> to navigate</span><span><kbd>↵</kbd> to open</span><span>Materials &amp; collections</span></div></div>
+    <dialog id="modal" class="modal" aria-label="Library dialog"></dialog>
+    <dialog id="detail" class="detail-dialog artefact-dialog" aria-label="Material preview"></dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <noscript><p>Charta needs JavaScript to browse collections. Your original materials are available in the content folder.</p></noscript>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_startups",
+  "title": "Neurotech startups",
+  "description": "",
+  "order": 0,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_46854933"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

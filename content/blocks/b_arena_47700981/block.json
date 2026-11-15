@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700981",
+  "type": "image",
+  "title": "Vintage Novels",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "vintage-novels",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e27f74aa6361f34f7930487a.png",
+      "mimeType": "image/png",
+      "alt": "Vintage Novels",
+      "role": "original",
+      "bytes": 2662422,
+      "sha256": "e27f74aa6361f34f7930487ab5ea9f38b27368eb60a15f6d54856272702458f9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700981/original_60db0c8ed91e7ca554b7fbaf36736aba.png",
+      "originalName": "60db0c8ed91e7ca554b7fbaf36736aba.png"
+    },
+    {
+      "path": "assets/thumbnail-682e3d94210e016a107c3700.webp",
+      "mimeType": "image/webp",
+      "alt": "Vintage Novels",
+      "role": "thumbnail",
+      "bytes": 20078,
+      "sha256": "682e3d94210e016a107c3700899cae54de1902e91d16e25afa16441eb80898cd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk4MS9vcmlnaW5hbF82MGRiMGM4ZWQ5MWU3Y2E1NTRiN2ZiYWYzNjczNmFiYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "60db0c8ed91e7ca554b7fbaf36736aba.png"
+    },
+    {
+      "path": "assets/display-web-original-e27f74aa6361f34f7930487a-e27f74aa63.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Vintage Novels",
+      "bytes": 173582,
+      "sha256": "f2792a875afda65e8ed34f46aee9bd7573d9f831833b744a89dff73279fd7176",
+      "width": 1386,
+      "height": 1308,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e27f74aa6361f34f7930487a.png",
+        "sourceSha256": "e27f74aa6361f34f7930487ab5ea9f38b27368eb60a15f6d54856272702458f9",
+        "originalBytes": 2662422,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:49.000Z",
+  "updatedAt": "2026-07-08T15:00:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700981",
+    "title": "Screenshot 2023-09-12 alle 16.48.26",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700981,
+      "url": "https://www.are.na/block/47700981",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.48.26",
+      "createdAt": "2026-07-08T14:55:49Z",
+      "updatedAt": "2026-07-08T15:00:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.48.26",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Vintage Novels",
+    "text": "DARK\nHAZARD\nby W.R.BURNETT\nAUTHOR of\n\"LITTLE CAESAR\"\nCOODBYE\nTO THE\nPAST\nIRON\nMAN\nWIR BURNETT\nSAINT\nJOHNION\nTHE\nBY\nW.R.\nASPHALT\nBURMETT\nJUNGLE\nE\nSILVER\nEAGLE\niby.\nW.R\nBURNETT\nNOVEL BY\nW.R.BURNETI\nW. R.\nBURNETT\nHARPERS\nLINCOLN MAC VEAGH\nTHE DIAL PRESS\nBORZOL\nBOOkS\nALFRED •A - KNOPF\nLincoln Mac Veagh\nThe Dial Press\nHARPERS\nLincoln Mac Veagh\nTHE DIAL PRESS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f2792a875afda65e8ed34f46aee9bd7573d9f831833b744a89dff73279fd7176"
+  }
+}

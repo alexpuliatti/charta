@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701029",
+  "type": "image",
+  "title": "High Window",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "high-window",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a9ba9beb0efb78bb25ebe630.png",
+      "mimeType": "image/png",
+      "alt": "High Window",
+      "role": "original",
+      "bytes": 2241350,
+      "sha256": "a9ba9beb0efb78bb25ebe630e7d612be29ef74f1e79923d0d97c258ecf1b75db",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701029/original_74f93360d8ef7c76c411636e17a84899.png",
+      "originalName": "74f93360d8ef7c76c411636e17a84899.png"
+    },
+    {
+      "path": "assets/thumbnail-984f1a935440a1e802656fe2.webp",
+      "mimeType": "image/webp",
+      "alt": "High Window",
+      "role": "thumbnail",
+      "bytes": 13490,
+      "sha256": "984f1a935440a1e802656fe24404778e97dadb809b181e002d324a9cdcc01919",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyOS9vcmlnaW5hbF83NGY5MzM2MGQ4ZWY3Yzc2YzQxMTYzNmUxN2E4NDg5OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "74f93360d8ef7c76c411636e17a84899.png"
+    },
+    {
+      "path": "assets/display-web-original-a9ba9beb0efb78bb25ebe630-a9ba9beb0e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "High Window",
+      "bytes": 118768,
+      "sha256": "00c915125052b677f16242f6e9d87005566e6663c39da852dec659666db29522",
+      "width": 1296,
+      "height": 1126,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a9ba9beb0efb78bb25ebe630.png",
+        "sourceSha256": "a9ba9beb0efb78bb25ebe630e7d612be29ef74f1e79923d0d97c258ecf1b75db",
+        "originalBytes": 2241350,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:23.000Z",
+  "updatedAt": "2026-07-08T14:56:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701029",
+    "title": "Screenshot 2023-09-12 alle 17.04.03",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701029,
+      "url": "https://www.are.na/block/47701029",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.04.03",
+      "createdAt": "2026-07-08T14:56:23Z",
+      "updatedAt": "2026-07-08T14:56:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.04.03",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "High Window",
+    "text": "RAYMOND\nCHANDLER\nthe high\nwindow\nBORZOL\nBOOKS\nALFRED•A•\nKNOPF\nRAYMOND CHANDLER\nAUTHOR OF\"THE BIG SLEEP\"\nthe high window\nIT STArTeD with some business about a\nrare coin. Everybody knew who had\nstolen it, but nobody was anxious to\ndo anything about it.\nMarlowe couldn't understand why\nthe old lady had hired him; she didn't\nseem to like detectives and she didn't\nwant to tell him much. So he started\nto think about her, and then about the\npale, fragile, frightened little girl who\nwas her secretary, and then about her\nson - which led him to the gambler,\nand then to the gambler's luscious and\nlustful wife, and then to the elegant\nblackmailer.\nAnd so this case became a study of\ncharacter, for even when murder was\ndone, even after the second murder,\ncharacter was the root of everything.\nBecause he understood that, Marlowe\nwent step by step to a solution of the\ncase. Sardonic, quietly cynical, cold\nand merciless when he has to be, but\ngruffly compassionate toward the vic-\ntims of evil, Marlowe steps out of these\nscintillating pages as one of the great\ndetectives of modern murder-mystery\nfiction.\nNo part of this book has appeared in any\nmagazine or periodical in the United States.\nJACKET DRAWN BY HANS I. BAUSCHEL",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "00c915125052b677f16242f6e9d87005566e6663c39da852dec659666db29522"
+  }
+}

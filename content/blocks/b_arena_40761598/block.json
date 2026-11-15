@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40761598",
+  "type": "link",
+  "title": "Independent Practice",
+  "description": "Shrawberry Selected Work",
+  "category": "Interface design",
+  "tags": [
+    "portfolio",
+    "product-design",
+    "web-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e3c7a1ed37fa916f41262fc4.webp",
+      "mimeType": "image/webp",
+      "alt": "Independent Practice - Shravani Kasralikar",
+      "role": "thumbnail",
+      "bytes": 11896,
+      "sha256": "e3c7a1ed37fa916f41262fc458a6b32eafe5d8b185550973e7f209ca8fdfc0f7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2MTU5OC9vcmlnaW5hbF9hMzBmZjI1MDc0MjZlMDM5ODk4YzJhOTY2ZGUxM2I0ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a30ff2507426e039898c2a966de13b4e.png"
+    },
+    {
+      "path": "assets/preview-59047f45b2b47947ec64c1ee.webp",
+      "mimeType": "image/webp",
+      "alt": "Independent Practice - Shravani Kasralikar",
+      "role": "preview",
+      "bytes": 337572,
+      "sha256": "59047f45b2b47947ec64c1eea59cdbafceec6c9182413bdb35a0fda968e5c733",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40761598/original_a30ff2507426e039898c2a966de13b4e.png",
+      "originalName": "a30ff2507426e039898c2a966de13b4e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1675425,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-10-31T21:10:47.000Z",
+  "updatedAt": "2026-05-08T23:43:59.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://shravani.design/interspace",
+    "title": "Independent Practice - Shravani Kasralikar",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40761598,
+      "url": "https://www.are.na/block/40761598",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Independent Practice - Shravani Kasralikar",
+      "createdAt": "2025-10-31T21:10:47Z",
+      "updatedAt": "2026-05-08T23:43:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Independent Practice - Shravani Kasralikar",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46111335",
+  "type": "link",
+  "title": "Deep Learning",
+  "description": "Deep Learning with Python is written for anyone who wishes to explore deep learning from scratch. This new edition adds comprehensive coverage of generative AI and modern deep learning frameworks. It is available for free online.",
+  "category": "Writing",
+  "tags": [
+    "deep-learning",
+    "python",
+    "generative-models"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0d991d5603f4dde0ea6637ae.webp",
+      "mimeType": "image/webp",
+      "alt": "Deep Learning with Python, Third Edition",
+      "role": "thumbnail",
+      "bytes": 7486,
+      "sha256": "0d991d5603f4dde0ea6637ae9b0a1c371fc2d9796ed62264de25d91ba6b42a46",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjExMTMzNS9vcmlnaW5hbF9jODU0OTBkM2FlMGU0YmY0NWE2ZWU1NWYxNzFlMTk2My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c85490d3ae0e4bf45a6ee55f171e1963.png"
+    },
+    {
+      "path": "assets/preview-ddca21d560ed0e89ac044e48.webp",
+      "mimeType": "image/webp",
+      "alt": "Deep Learning with Python, Third Edition",
+      "role": "preview",
+      "bytes": 152128,
+      "sha256": "ddca21d560ed0e89ac044e48665193968fbfba05c6e6fddd9faf2f97fb21a671",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46111335/original_c85490d3ae0e4bf45a6ee55f171e1963.png",
+      "originalName": "c85490d3ae0e4bf45a6ee55f171e1963.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 318829,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:37:16.000Z",
+  "updatedAt": "2026-05-13T10:37:20.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://deeplearningwithpython.io/chapters/",
+    "title": "Deep Learning with Python, Third Edition",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46111335,
+      "url": "https://www.are.na/block/46111335",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Deep Learning with Python, Third Edition",
+      "createdAt": "2026-05-13T10:37:16Z",
+      "updatedAt": "2026-05-13T10:37:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "book",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Deep Learning with Python, Third Edition",
+      "category": "Technology",
+      "tags": [
+        "programming",
+        "creative-coding",
+        "artificial-intelligence",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

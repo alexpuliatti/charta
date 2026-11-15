@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44696834",
+  "type": "link",
+  "title": "Vibe Projects",
+  "description": "52 creative projects built throughout 2026",
+  "category": "Technology",
+  "tags": [
+    "creative-coding",
+    "experiments",
+    "projects"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-8e1abb2bcc342f9a0a84ebd9.webp",
+      "mimeType": "image/webp",
+      "alt": "Vibe N Build",
+      "role": "thumbnail",
+      "bytes": 984,
+      "sha256": "8e1abb2bcc342f9a0a84ebd9ad7cc392575a8d293a3b53d99f09d03cbb034b08",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDY5NjgzNC9vcmlnaW5hbF9mOWQ4ODZhMTQ4NTUxNzY5MjM0ODUwZmQwNGRiMzI0NC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f9d886a148551769234850fd04db3244.png"
+    },
+    {
+      "path": "assets/preview-983f440496deb8a557678b53.webp",
+      "mimeType": "image/webp",
+      "alt": "Vibe N Build",
+      "role": "preview",
+      "bytes": 316552,
+      "sha256": "983f440496deb8a557678b53823f1f29e27c078cc0aade13b632cea68a3a9c4a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44696834/original_f9d886a148551769234850fd04db3244.png",
+      "originalName": "f9d886a148551769234850fd04db3244.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1504078,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-24T13:34:07.000Z",
+  "updatedAt": "2026-03-24T13:58:08.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://vibenbuild.vercel.app/",
+    "title": "Vibe N Build",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44696834,
+      "url": "https://www.are.na/block/44696834",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Vibe N Build",
+      "createdAt": "2026-03-24T13:34:07Z",
+      "updatedAt": "2026-03-24T13:58:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Vibe N Build",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

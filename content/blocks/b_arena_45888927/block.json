@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888927",
+  "type": "video",
+  "title": "Cinematic Sequence",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "cinematic-sequence",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9bb041c190cbb731fc88c6b2.mp4",
+      "mimeType": "video/mp4",
+      "alt": "sambafilms-20241228_160953-458853860.mp4",
+      "role": "original",
+      "bytes": 425103,
+      "sha256": "9bb041c190cbb731fc88c6b2d0d6e2d9fb19dbf936f909e7dc4f20ab4155e64e",
+      "sourceUrl": "https://attachments.are.na/45888927/10d60ee9595edd854c3178fc5932ffbd.mp4",
+      "originalName": "10d60ee9595edd854c3178fc5932ffbd.mp4"
+    },
+    {
+      "path": "assets/thumbnail-a81c56b42d313edd5b1be3eb.webp",
+      "mimeType": "image/webp",
+      "alt": "Cinematic Sequence",
+      "role": "thumbnail",
+      "bytes": 5556,
+      "sha256": "a81c56b42d313edd5b1be3eb63e705c43bd77c13d06ad9136d59579d5d5db994",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODkyNy9vcmlnaW5hbF80OTg3NTVlMTdlMDA2YWE0MjAyNjA1MDYtMi1mMHlub28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "498755e17e006aa420260506-2-f0ynoo.png"
+    },
+    {
+      "path": "assets/display-web-original-9bb041c190cbb731fc88c6b2-9bb041c190.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "sambafilms-20241228_160953-458853860.mp4",
+      "bytes": 341275,
+      "sha256": "1f787855794e223089e2c14de3afd2a88bd9ddde3ddab19acc9337d756bff72e",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9bb041c190cbb731fc88c6b2.mp4",
+        "sourceSha256": "9bb041c190cbb731fc88c6b2d0d6e2d9fb19dbf936f909e7dc4f20ab4155e64e",
+        "originalBytes": 425103,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-5ee77064c70ea7dc9f26c10e.webp",
+      "mimeType": "image/webp",
+      "alt": "sambafilms-20241228_160953-458853860.mp4",
+      "role": "preview",
+      "bytes": 75624,
+      "sha256": "5ee77064c70ea7dc9f26c10e944677386cce07d34a55286fa3ceeef7ff4f2218",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888927/original_498755e17e006aa420260506-2-f0ynoo.png",
+      "originalName": "498755e17e006aa420260506-2-f0ynoo.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 596021,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:35:48.000Z",
+  "updatedAt": "2026-05-06T12:35:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888927",
+    "title": "sambafilms-20241228_160953-458853860.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888927,
+      "url": "https://www.are.na/block/45888927",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "sambafilms-20241228_160953-458853860.mp4",
+      "createdAt": "2026-05-06T12:35:48Z",
+      "updatedAt": "2026-05-06T12:35:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sambafilms-20241228_160953-458853860.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cinematic Sequence",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a81c56b42d313edd5b1be3eb63e705c43bd77c13d06ad9136d59579d5d5db994"
+  }
+}

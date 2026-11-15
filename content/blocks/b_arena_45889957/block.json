@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889957",
+  "type": "image",
+  "title": "Concrete Hall",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-hall",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-67d54655d654c27363a26d83.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Hall",
+      "role": "original",
+      "bytes": 231645,
+      "sha256": "67d54655d654c27363a26d83e0ee9294cc1ac2b6efc51f92604ff87bebe22a12",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889957/original_4bcf7af2242e8b6f4e89661d542fa6f3.jpeg",
+      "originalName": "4bcf7af2242e8b6f4e89661d542fa6f3.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-b595c94cece5dd444fca8065.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Hall",
+      "role": "thumbnail",
+      "bytes": 8792,
+      "sha256": "b595c94cece5dd444fca8065d58deca3c21d8234383b56cd0ddf002cf77b429f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTk1Ny9vcmlnaW5hbF80YmNmN2FmMjI0MmU4YjZmNGU4OTY2MWQ1NDJmYTZmMy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4bcf7af2242e8b6f4e89661d542fa6f3.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-67d54655d654c27363a26d83-67d54655d6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Hall",
+      "bytes": 90510,
+      "sha256": "31ff9acaa58decee17fa829b3ac7f3e066b077e28255b5c520903d1b07b36694",
+      "width": 1440,
+      "height": 754,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-67d54655d654c27363a26d83.jpg",
+        "sourceSha256": "67d54655d654c27363a26d83e0ee9294cc1ac2b6efc51f92604ff87bebe22a12",
+        "originalBytes": 231645,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:17:01.000Z",
+  "updatedAt": "2026-05-06T13:17:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889957",
+    "title": "interiorandfilms-20241107_150733-3138780540.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889957,
+      "url": "https://www.are.na/block/45889957",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "interiorandfilms-20241107_150733-3138780540.jpg",
+      "createdAt": "2026-05-06T13:17:01Z",
+      "updatedAt": "2026-05-06T13:17:07Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "interiorandfilms-20241107_150733-3138780540.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Hall",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "31ff9acaa58decee17fa829b3ac7f3e066b077e28255b5c520903d1b07b36694"
+  }
+}

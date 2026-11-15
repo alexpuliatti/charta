@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_studios_production",
+  "title": "Production studios",
+  "description": "",
+  "order": 2,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47277879"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45897747"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

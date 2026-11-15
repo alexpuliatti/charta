@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177625",
+  "type": "link",
+  "title": "Web Transitions",
+  "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project.",
+  "category": "Interface design",
+  "tags": [
+    "transitions",
+    "animation",
+    "web-apps"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2c5ec3e9ba3d19e7d2e79dec.webp",
+      "mimeType": "image/webp",
+      "alt": "Transitions.dev — Essential transitions for web apps",
+      "role": "thumbnail",
+      "bytes": 3932,
+      "sha256": "2c5ec3e9ba3d19e7d2e79dec29e4e953f967f782bec591fd5017e18efd779544",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3NzYyNS9vcmlnaW5hbF9kNjUwZDU3NWY1NTQzYjAwMTljM2Y5NDcyZmE3NTZiNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d650d575f5543b0019c3f9472fa756b6.png"
+    },
+    {
+      "path": "assets/preview-526e717151819f220e53ec66.webp",
+      "mimeType": "image/webp",
+      "alt": "Transitions.dev — Essential transitions for web apps",
+      "role": "preview",
+      "bytes": 86056,
+      "sha256": "526e717151819f220e53ec6640101a02e98cddde6e12de83bd890a3c5e3f74d9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177625/original_d650d575f5543b0019c3f9472fa756b6.png",
+      "originalName": "d650d575f5543b0019c3f9472fa756b6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 232885,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:04:22.000Z",
+  "updatedAt": "2026-05-15T12:04:27.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://transitions.dev/",
+    "title": "Transitions.dev — Essential transitions for web apps",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177625,
+      "url": "https://www.are.na/block/46177625",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Transitions.dev — Essential transitions for web apps",
+      "createdAt": "2026-05-15T12:04:22Z",
+      "updatedAt": "2026-05-15T12:04:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Transitions.dev — Essential transitions for web apps",
+      "category": "Tools and resources",
+      "tags": [
+        "archives",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46710459",
+  "type": "link",
+  "title": "Public APIs",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "apis",
+    "databases",
+    "open-data"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-23e190255e4cdde1975d9841.webp",
+      "mimeType": "image/webp",
+      "alt": "Open/Public APIs & Databases",
+      "role": "thumbnail",
+      "bytes": 11822,
+      "sha256": "23e190255e4cdde1975d984100cb2b4131baef5483f776be21269340a91d6cb7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxMDQ1OS9vcmlnaW5hbF8yODBlY2NiMTMxYWJlMDUwNjQ3MTZiZGVkZTE2ZGRhOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "280eccb131abe05064716bdede16dda9.png"
+    },
+    {
+      "path": "assets/preview-4bcc5a11e3522b0fe0b7b460.webp",
+      "mimeType": "image/webp",
+      "alt": "Open/Public APIs & Databases",
+      "role": "preview",
+      "bytes": 124850,
+      "sha256": "4bcc5a11e3522b0fe0b7b460186ebf4da447c7d7e5d89eb4c4d3960c93043ff1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46710459/original_280eccb131abe05064716bdede16dda9.png",
+      "originalName": "280eccb131abe05064716bdede16dda9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 509037,
+        "width": 1200,
+        "height": 630,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T07:47:53.000Z",
+  "updatedAt": "2026-06-03T07:47:55.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSXwMN9lZdTdZoRsztxq78FyUaoVSntUgcjdvw8vRAVaPRjV_npkxq3ikuMtvWe08szuaPRqJa__umo/pubhtml?gid=791135665&single=true",
+    "title": "Open/Public APIs & Databases",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46710459,
+      "url": "https://www.are.na/block/46710459",
+      "type": "Embed",
+      "visibility": "public",
+      "originalTitle": "Open/Public APIs & Databases",
+      "createdAt": "2026-06-03T07:47:53Z",
+      "updatedAt": "2026-06-03T07:47:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Research tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Open/Public APIs & Databases",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

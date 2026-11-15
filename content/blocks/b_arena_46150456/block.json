@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46150456",
+  "type": "link",
+  "title": "Spatial Shoebox",
+  "description": "A digital shoebox for what you see, think and want to remember. For notes, graphics, motion, animation and webclips.",
+  "category": "Interface design",
+  "tags": [
+    "personal-library",
+    "capture",
+    "web-clipping"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-141aad1401080d656d5ceb3c.webp",
+      "mimeType": "image/webp",
+      "alt": "Spatial.",
+      "role": "thumbnail",
+      "bytes": 2726,
+      "sha256": "141aad1401080d656d5ceb3c22259e150507df6682f6e633657c4fc61a5ef97e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE1MDQ1Ni9vcmlnaW5hbF8xNzM5MGU4NDJmM2NhYTNiYWVlN2U5Y2ZhMGYxYWE3MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "17390e842f3caa3baee7e9cfa0f1aa70.png"
+    },
+    {
+      "path": "assets/preview-54aa7eb4ed61f6b255fd1b1b.webp",
+      "mimeType": "image/webp",
+      "alt": "Spatial.",
+      "role": "preview",
+      "bytes": 31622,
+      "sha256": "54aa7eb4ed61f6b255fd1b1bed6006fd085e727c196b9d42f82069717c9df837",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46150456/original_17390e842f3caa3baee7e9cfa0f1aa70.png",
+      "originalName": "17390e842f3caa3baee7e9cfa0f1aa70.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 106846,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T16:00:24.000Z",
+  "updatedAt": "2026-05-14T16:00:31.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.44xdesign.com/spatial",
+    "title": "Spatial.",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46150456,
+      "url": "https://www.are.na/block/46150456",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Spatial.",
+      "createdAt": "2026-05-14T16:00:24Z",
+      "updatedAt": "2026-05-14T16:00:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Spatial.",
+      "category": "Speculative design",
+      "tags": [
+        "graphic-design",
+        "motion-design",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

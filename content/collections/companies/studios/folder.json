@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "f_curated_companies_studios",
+  "title": "Studios",
+  "order": 2,
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_writing_tweets",
+  "title": "Tweets",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_52320362"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_52320357"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47567580"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45192138"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

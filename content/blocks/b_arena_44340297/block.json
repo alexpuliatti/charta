@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340297",
+  "type": "image",
+  "title": "Bento Finance",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "bento-finance",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b02098e583980939ef2485aa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Bento Finance",
+      "role": "original",
+      "bytes": 110399,
+      "sha256": "b02098e583980939ef2485aa127845264de2b91a416e493a9844fedc592a282f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340297/original_23143bee0e89495f95052a6ef7363044.jpg",
+      "originalName": "23143bee0e89495f95052a6ef7363044.jpg"
+    },
+    {
+      "path": "assets/thumbnail-72879ca819bed67b21559f3d.webp",
+      "mimeType": "image/webp",
+      "alt": "Bento Finance",
+      "role": "thumbnail",
+      "bytes": 10602,
+      "sha256": "72879ca819bed67b21559f3de67388830b22fa22941afbe1bba232de190429ff",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5Ny9vcmlnaW5hbF8yMzE0M2JlZTBlODk0OTVmOTUwNTJhNmVmNzM2MzA0NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "23143bee0e89495f95052a6ef7363044.jpg"
+    },
+    {
+      "path": "assets/display-web-original-b02098e583980939ef2485aa-b02098e583.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Bento Finance",
+      "bytes": 63400,
+      "sha256": "0c8dcbc9ddcf1f72cb9566f496e30bed7e415af46a8509aa25e5f3a82767613a",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b02098e583980939ef2485aa.jpg",
+        "sourceSha256": "b02098e583980939ef2485aa127845264de2b91a416e493a9844fedc592a282f",
+        "originalBytes": 110399,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340297",
+    "title": "5b79ac14267ce94c4c84261a68ab0166.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340297,
+      "url": "https://www.are.na/block/44340297",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "5b79ac14267ce94c4c84261a68ab0166.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "5b79ac14267ce94c4c84261a68ab0166.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Bento Finance",
+    "text": "~78%\n• Winning\nInvestors\n2024 May\nSend\nUSD\nReceive\nBTC\nBest Crypto\nResearch\n134\n0,0018\n1\n24h Trading\nVolume\n$23,485.95\nKey\nBenefits\nAl tools\nPricing\nPlans\nPremium\nTrusted\nInvestors\nTrust\n2\n15\n* 54\nDo not trust\nA Bitcoin\nEthereum\nA Tether\nV Solana\nCardano\nV Toncoin\n$67,258.69\n$2,631.39\n$0.9992\n$167.92\n$0.362\n$5.25\n฿\n€\n·\nYou Shop\nData Insights\nMon\nTue Wed\nAll Time:\nThu\nFri\nSat\nSun\n$637.55\n¼\nW\n0°\n‹ A\n> 6 9",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0c8dcbc9ddcf1f72cb9566f496e30bed7e415af46a8509aa25e5f3a82767613a"
+  }
+}

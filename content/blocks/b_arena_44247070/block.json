@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247070",
+  "type": "image",
+  "title": "Record Console",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "furniture",
+    "record-console",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-005445ffec3509203bf6fef5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Record Console",
+      "role": "original",
+      "bytes": 54539,
+      "sha256": "005445ffec3509203bf6fef5f5ecda99a7778778071d13149decaa7609d18126",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247070/original_f034aeadf78564216b67ba3283a258bb.jpg",
+      "originalName": "f034aeadf78564216b67ba3283a258bb.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5ca77d4193f89078aa44bb0b.webp",
+      "mimeType": "image/webp",
+      "alt": "Record Console",
+      "role": "thumbnail",
+      "bytes": 5004,
+      "sha256": "5ca77d4193f89078aa44bb0ba813683cb0a222a36363af3cb6ba3a238fe1a3a0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA3MC9vcmlnaW5hbF9mMDM0YWVhZGY3ODU2NDIxNmI2N2JhMzI4M2EyNThiYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f034aeadf78564216b67ba3283a258bb.jpg"
+    },
+    {
+      "path": "assets/display-web-original-005445ffec3509203bf6fef5-005445ffec.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Record Console",
+      "bytes": 28810,
+      "sha256": "8a6d4c735d344084d3e5158d122518e5552b517d9e5bd49a2b44cdd1f06c322f",
+      "width": 1199,
+      "height": 973,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-005445ffec3509203bf6fef5.jpg",
+        "sourceSha256": "005445ffec3509203bf6fef5f5ecda99a7778778071d13149decaa7609d18126",
+        "originalBytes": 54539,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:31:17.000Z",
+  "updatedAt": "2026-03-08T22:31:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247070",
+    "title": "a978b9e1313389ed2a040fd97ad767c6.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247070,
+      "url": "https://www.are.na/block/44247070",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a978b9e1313389ed2a040fd97ad767c6.jpg",
+      "createdAt": "2026-03-08T22:31:17Z",
+      "updatedAt": "2026-03-08T22:31:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Furniture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a978b9e1313389ed2a040fd97ad767c6.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Record Console",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8a6d4c735d344084d3e5158d122518e5552b517d9e5bd49a2b44cdd1f06c322f"
+  }
+}

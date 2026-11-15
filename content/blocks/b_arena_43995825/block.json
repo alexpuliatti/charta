@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995825",
+  "type": "image",
+  "title": "Ivy Staircase",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "ivy-staircase",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b25f2c88376004bbcd132237.png",
+      "mimeType": "image/png",
+      "alt": "Ivy Staircase",
+      "role": "original",
+      "bytes": 3227892,
+      "sha256": "b25f2c88376004bbcd1322374204402275f717eb4dbaaad0902c6223409dc020",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995825/original_0fc05303a9f13f312dc985497156d5f2.png",
+      "originalName": "0fc05303a9f13f312dc985497156d5f2.png"
+    },
+    {
+      "path": "assets/thumbnail-dd84e4a1a1662e04de9abe10.webp",
+      "mimeType": "image/webp",
+      "alt": "Ivy Staircase",
+      "role": "thumbnail",
+      "bytes": 25816,
+      "sha256": "dd84e4a1a1662e04de9abe10482cc2528f5691d5bf248b0eafbacf8b9ffb26e8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgyNS9vcmlnaW5hbF8wZmMwNTMwM2E5ZjEzZjMxMmRjOTg1NDk3MTU2ZDVmMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0fc05303a9f13f312dc985497156d5f2.png"
+    },
+    {
+      "path": "assets/display-web-original-b25f2c88376004bbcd132237-b25f2c8837.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Ivy Staircase",
+      "bytes": 419776,
+      "sha256": "2a08385178bab788cc961672ad04d5013fbbd0be839ad04416535620eaed4698",
+      "width": 1200,
+      "height": 1600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b25f2c88376004bbcd132237.png",
+        "sourceSha256": "b25f2c88376004bbcd1322374204402275f717eb4dbaaad0902c6223409dc020",
+        "originalBytes": 3227892,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:01:16.000Z",
+  "updatedAt": "2026-02-28T12:01:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995825",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995825,
+      "url": "https://www.are.na/block/43995825",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:01:16Z",
+      "updatedAt": "2026-02-28T12:01:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Ivy Staircase",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2a08385178bab788cc961672ad04d5013fbbd0be839ad04416535620eaed4698"
+  }
+}

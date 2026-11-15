@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888797",
+  "type": "image",
+  "title": "Red Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "red-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ecbfe04af53798aa14ff9f50.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Red Identity",
+      "role": "original",
+      "bytes": 140731,
+      "sha256": "ecbfe04af53798aa14ff9f504e471bd2f1072fac883fdbe7a5308d5d7d788aff",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888797/original_d732642e89a3cd48d588f8026c40bf10.jpeg",
+      "originalName": "d732642e89a3cd48d588f8026c40bf10.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-431ece73b617b8ce456d5059.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Identity",
+      "role": "thumbnail",
+      "bytes": 9592,
+      "sha256": "431ece73b617b8ce456d5059565d8c20e3c46f55991ee89f4a83a84deae1e62a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODc5Ny9vcmlnaW5hbF9kNzMyNjQyZTg5YTNjZDQ4ZDU4OGY4MDI2YzQwYmYxMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d732642e89a3cd48d588f8026c40bf10.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ecbfe04af53798aa14ff9f50-ecbfe04af5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Red Identity",
+      "bytes": 89924,
+      "sha256": "d23e62959255017cb277712b9b972bbfd52efd24a0f5c1525d710bcb0fc535bc",
+      "width": 1648,
+      "height": 972,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ecbfe04af53798aa14ff9f50.jpg",
+        "sourceSha256": "ecbfe04af53798aa14ff9f504e471bd2f1072fac883fdbe7a5308d5d7d788aff",
+        "originalBytes": 140731,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:30:30.000Z",
+  "updatedAt": "2026-05-06T12:30:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888797",
+    "title": "hhcigfxakaabiuc.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888797,
+      "url": "https://www.are.na/block/45888797",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhcigfxakaabiuc.jpeg",
+      "createdAt": "2026-05-06T12:30:30Z",
+      "updatedAt": "2026-05-06T12:30:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhcigfxakaabiuc.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Identity",
+    "text": "A'\n06\n100\n01\nDESION, GOT\nCoVER - ISSUE 01\nYEARS COVERED\nCHAPTER 03 - LONDON, 1970\nTHE FIRST DEMOGRATIC DESIGN MOVEMENT\nsix MovEMENtS tHAT REFUSED TO bEHAvEl\nE312810\nISSUE 01 OF O1\nDIX MOVEMENTS THAT REFUSEO TO NEMAVE.\nTEST STONE\nSHE ATOE m\nPACE 01/08\nPAGE 04 7 0E\n01 - DADA\n02 - BAUHAUS\n03 - SWISS STYLE\n04 - PUNK ZINES\n05 - MEMPHIS GROUP\n06 - Y2K WEB\nHIST.\nHIST.\nA'\nDESIONIRIOT\nA\nCHAPTER 01 - DADA\nPAGE 02 / 08\nHIST.\nSIX MOVEVENTS THAT REFUSED TO BEHAVE.\nEST TOTA\nISSUE 0E 05 01\nGRID.\nTHADTERAS - SLIMMES CONE CIVIT\nDada wanted chics. The fauhaus and the Swies said enaualtIne)\nbuilt a new religion out of the grid, primany colors, and a font so\nnoutral it pretended to have no opinion at all. Helvolica was the sound\nof a century clearing its throat.\nPAGE 03 / 08\nHIST.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d23e62959255017cb277712b9b972bbfd52efd24a0f5c1525d710bcb0fc535bc"
+  }
+}

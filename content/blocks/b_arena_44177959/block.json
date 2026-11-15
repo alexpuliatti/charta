@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177959",
+  "type": "link",
+  "title": "Creator Letters",
+  "description": "Letters to a Young Creator is a collection of honest perspectives on what it takes to make something great, written by people who have done it before.",
+  "category": "Writing",
+  "tags": [
+    "creativity",
+    "creative-practice",
+    "letters"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-621047797d675c8c5d7c1d60.webp",
+      "mimeType": "image/webp",
+      "alt": "About Letters to a Young Creator - Letters to a Young Creator",
+      "role": "thumbnail",
+      "bytes": 390,
+      "sha256": "621047797d675c8c5d7c1d60ffeb7c617bdfead56b86922e6223a4d740349ab0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3Nzk1OS9vcmlnaW5hbF9jNGZhNTRmNDkyMTdlZGEyNTI2MzFmMTM2OTczZGZjNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c4fa54f49217eda252631f136973dfc6.png"
+    },
+    {
+      "path": "assets/preview-e856d0d5686468a36024f474.webp",
+      "mimeType": "image/webp",
+      "alt": "About Letters to a Young Creator - Letters to a Young Creator",
+      "role": "preview",
+      "bytes": 1006,
+      "sha256": "e856d0d5686468a36024f474c74501f5ec83b1be249c427b8909f094423a79de",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177959/original_c4fa54f49217eda252631f136973dfc6.png",
+      "originalName": "c4fa54f49217eda252631f136973dfc6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2605,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T20:08:43.000Z",
+  "updatedAt": "2026-03-05T20:09:17.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://letters.stevejobsarchive.com/about",
+    "title": "About Letters to a Young Creator - Letters to a Young Creator",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177959,
+      "url": "https://www.are.na/block/44177959",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "About Letters to a Young Creator - Letters to a Young Creator",
+      "createdAt": "2026-03-05T20:08:43Z",
+      "updatedAt": "2026-03-05T20:09:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "book",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "About Letters to a Young Creator - Letters to a Young Creator",
+      "category": "Information design",
+      "tags": [
+        "archives",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

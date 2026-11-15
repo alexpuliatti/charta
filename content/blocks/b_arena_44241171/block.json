@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44241171",
+  "type": "link",
+  "title": "Cognitive Flattening",
+  "description": "Thoughts on AI and cognitive flattening.",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "cognition",
+    "culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f6490886008f2755768372a3.webp",
+      "mimeType": "image/webp",
+      "alt": "Something to Think About | Gentle Systems",
+      "role": "thumbnail",
+      "bytes": 1758,
+      "sha256": "f6490886008f2755768372a37016a29f158a0fb1a82626b9ca8c0ec735472ac4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0MTE3MS9vcmlnaW5hbF81ZDY0YjlmYjYzOTFlYzY1ZGNhMTkxZWVkYmMxMTUyMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5d64b9fb6391ec65dca191eedbc11521.png"
+    },
+    {
+      "path": "assets/preview-f129550da14d12090403bfe2.webp",
+      "mimeType": "image/webp",
+      "alt": "Something to Think About | Gentle Systems",
+      "role": "preview",
+      "bytes": 18008,
+      "sha256": "f129550da14d12090403bfe293afa42d5b1418f20ad98d31db2f795d2b6e7d1a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44241171/original_5d64b9fb6391ec65dca191eedbc11521.png",
+      "originalName": "5d64b9fb6391ec65dca191eedbc11521.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 64266,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T17:27:50.000Z",
+  "updatedAt": "2026-03-08T17:28:01.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.gentle.systems/page/something-to-think-about",
+    "title": "Something to Think About | Gentle Systems",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44241171,
+      "url": "https://www.are.na/block/44241171",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Something to Think About | Gentle Systems",
+      "createdAt": "2026-03-08T17:27:50Z",
+      "updatedAt": "2026-03-08T17:28:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Something to Think About | Gentle Systems",
+      "category": "Information design",
+      "tags": [
+        "neurotechnology",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_40758383",
+      "reason": "Both examine AI-generated culture and cognitive flattening; the saved descriptions explicitly identify synthetic media and cognition.",
+      "method": "curation-v1"
+    },
+    {
+      "id": "b_arena_46473931",
+      "reason": "Both address AI and human judgment: cognitive flattening in the first, taste and the human filter in the second.",
+      "method": "curation-v1"
+    }
+  ]
+}

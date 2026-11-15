@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136544",
+  "type": "image",
+  "title": "Birds Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "birds-typography",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-92585a6f5a3911e06c9d6b74.png",
+      "mimeType": "image/png",
+      "alt": "Birds Typography",
+      "role": "original",
+      "bytes": 2662355,
+      "sha256": "92585a6f5a3911e06c9d6b74a490c8361728f48529f9a7d73b95b4bd413188ed",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136544/original_bf38fc5b124ee7c064fd029fbbaaa0fd.png",
+      "originalName": "bf38fc5b124ee7c064fd029fbbaaa0fd.png"
+    },
+    {
+      "path": "assets/thumbnail-5a4f6b9ad223a1903ebd7e3b.webp",
+      "mimeType": "image/webp",
+      "alt": "Birds Typography",
+      "role": "thumbnail",
+      "bytes": 8358,
+      "sha256": "5a4f6b9ad223a1903ebd7e3b015a017eb593b44322c1ba318fd895e1591b918f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjU0NC9vcmlnaW5hbF9iZjM4ZmM1YjEyNGVlN2MwNjRmZDAyOWZiYmFhYTBmZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bf38fc5b124ee7c064fd029fbbaaa0fd.png"
+    },
+    {
+      "path": "assets/display-web-original-92585a6f5a3911e06c9d6b74-92585a6f5a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Birds Typography",
+      "bytes": 84096,
+      "sha256": "06f16390d40997811fdee22bbb325439ab5b82fe7e154f7b31dbb042f220d6a7",
+      "width": 1378,
+      "height": 1650,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-92585a6f5a3911e06c9d6b74.png",
+        "sourceSha256": "92585a6f5a3911e06c9d6b74a490c8361728f48529f9a7d73b95b4bd413188ed",
+        "originalBytes": 2662355,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:23:37.000Z",
+  "updatedAt": "2026-03-04T15:23:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136544",
+    "title": "screenshot-2026-03-04-alle-16.20.35.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136544,
+      "url": "https://www.are.na/block/44136544",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.20.35.png",
+      "createdAt": "2026-03-04T15:23:37Z",
+      "updatedAt": "2026-03-04T15:23:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.20.35.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Birds Typography",
+    "text": "One\nof\nAmerica's\nGreatest\nSuccess\nStories!\nThere ar ma\nKaiser + Praver Carporation... One of Americans Greatest Sacres Storie!\n* Built, sold and delivered more curs in to years than any nese automobile plant in history\n* Now mohing 4 curs every 3 minutes, oil day, every day !\n* Originators of the most copied cars in history!\n* Largest \"independen:\"... now the old \"Big Three' is The Big 4 !\n* One of the larger Denler-Sernice organizations in the world !",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "06f16390d40997811fdee22bbb325439ab5b82fe7e154f7b31dbb042f220d6a7"
+  }
+}

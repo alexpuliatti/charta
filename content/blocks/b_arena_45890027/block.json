@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890027",
+  "type": "image",
+  "title": "Industrial Loft",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "industrial-loft",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c54725ca1832813d31218531.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Industrial Loft",
+      "role": "original",
+      "bytes": 363035,
+      "sha256": "c54725ca1832813d312185318daa69625699e6d4c120d79e575e700a2ecc8ce5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890027/original_5ae08504ddad8164892bc6211fece5d3.jpeg",
+      "originalName": "5ae08504ddad8164892bc6211fece5d3.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-134dd2ac4deae08c0664fc40.webp",
+      "mimeType": "image/webp",
+      "alt": "Industrial Loft",
+      "role": "thumbnail",
+      "bytes": 12944,
+      "sha256": "134dd2ac4deae08c0664fc40dbf6a96523d92d3384b9e2e230c155e99c803462",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAyNy9vcmlnaW5hbF81YWUwODUwNGRkYWQ4MTY0ODkyYmM2MjExZmVjZTVkMy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5ae08504ddad8164892bc6211fece5d3.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c54725ca1832813d31218531-c54725ca18.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Industrial Loft",
+      "bytes": 320470,
+      "sha256": "223037f0d35350225294c8e1a4e57c49562f0bdb61b775dcd4d8e609e85d86d3",
+      "width": 1199,
+      "height": 1801,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c54725ca1832813d31218531.jpg",
+        "sourceSha256": "c54725ca1832813d312185318daa69625699e6d4c120d79e575e700a2ecc8ce5",
+        "originalBytes": 363035,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:20:51.000Z",
+  "updatedAt": "2026-05-06T13:20:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890027",
+    "title": "161d8c4647356eb64f845720bb147974.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890027,
+      "url": "https://www.are.na/block/45890027",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "161d8c4647356eb64f845720bb147974.jpg",
+      "createdAt": "2026-05-06T13:20:51Z",
+      "updatedAt": "2026-05-06T13:20:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "161d8c4647356eb64f845720bb147974.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Industrial Loft",
+    "text": "ENL",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "223037f0d35350225294c8e1a4e57c49562f0bdb61b775dcd4d8e609e85d86d3"
+  }
+}

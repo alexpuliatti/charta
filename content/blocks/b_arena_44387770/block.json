@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44387770",
+  "type": "link",
+  "title": "Maxime Le Grelle",
+  "description": "Industrial Designer",
+  "category": "Objects",
+  "tags": [
+    "industrial-design",
+    "portfolio"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e445354a200197a4ff6be8df.webp",
+      "mimeType": "image/webp",
+      "alt": "Maxime le Grelle",
+      "role": "thumbnail",
+      "bytes": 2516,
+      "sha256": "e445354a200197a4ff6be8df71340e4b2ffd6b025518f67ae9254bbe428fce59",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM4Nzc3MC9vcmlnaW5hbF8yN2ZkMzIyMTA1YmIzNTRhMjMyYTBmM2MyZDUyZTkwYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "27fd322105bb354a232a0f3c2d52e90c.png"
+    },
+    {
+      "path": "assets/preview-c8f134d54defe29d8df220ad.webp",
+      "mimeType": "image/webp",
+      "alt": "Maxime le Grelle",
+      "role": "preview",
+      "bytes": 145690,
+      "sha256": "c8f134d54defe29d8df220ade74cc3ef5558f8cffb3731921ea6d5f698f1bc39",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44387770/original_27fd322105bb354a232a0f3c2d52e90c.png",
+      "originalName": "27fd322105bb354a232a0f3c2d52e90c.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 985203,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-12T21:29:14.000Z",
+  "updatedAt": "2026-03-12T21:29:23.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.maximelegrelle.com/",
+    "title": "Maxime le Grelle",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44387770,
+      "url": "https://www.are.na/block/44387770",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Maxime le Grelle",
+      "createdAt": "2026-03-12T21:29:14Z",
+      "updatedAt": "2026-03-12T21:29:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Maxime le Grelle",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

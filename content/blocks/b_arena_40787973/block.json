@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787973",
+  "type": "image",
+  "title": "Sculpted Interior",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "sculpted-interior",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-37f14add3d32b6073ed635d2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sculpted Interior",
+      "role": "original",
+      "bytes": 268104,
+      "sha256": "37f14add3d32b6073ed635d2b3e1c1e3d50c0c5ab52b9cecf7d000174ae3b318",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787973/original_94c49d91dc313de81f5ff22f902b8a01.jpg",
+      "originalName": "94c49d91dc313de81f5ff22f902b8a01.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c407e16b14fef3ed4e1709ad.webp",
+      "mimeType": "image/webp",
+      "alt": "Sculpted Interior",
+      "role": "thumbnail",
+      "bytes": 4250,
+      "sha256": "c407e16b14fef3ed4e1709ad04dd4fe194bbcf33a0cb4441c6f0456da9096a93",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk3My9vcmlnaW5hbF85NGM0OWQ5MWRjMzEzZGU4MWY1ZmYyMmY5MDJiOGEwMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "94c49d91dc313de81f5ff22f902b8a01.jpg"
+    },
+    {
+      "path": "assets/display-web-original-37f14add3d32b6073ed635d2-37f14add3d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sculpted Interior",
+      "bytes": 70968,
+      "sha256": "d7d9b3eb6132ec045efdd233cecb0006edb488ba3311393929408925361e55eb",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-37f14add3d32b6073ed635d2.jpg",
+        "sourceSha256": "37f14add3d32b6073ed635d2b3e1c1e3d50c0c5ab52b9cecf7d000174ae3b318",
+        "originalBytes": 268104,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:07:59.000Z",
+  "updatedAt": "2025-11-02T16:08:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787973",
+    "title": "gemellineeee-20250407_093653-160409386.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787973,
+      "url": "https://www.are.na/block/40787973",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gemellineeee-20250407_093653-160409386.jpg",
+      "createdAt": "2025-11-02T16:07:59Z",
+      "updatedAt": "2025-11-02T16:08:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gemellineeee-20250407_093653-160409386.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sculpted Interior",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d7d9b3eb6132ec045efdd233cecb0006edb488ba3311393929408925361e55eb"
+  }
+}

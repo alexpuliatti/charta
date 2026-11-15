@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247927",
+  "type": "image",
+  "title": "Brick Library",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "brick-library",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f04b419d363e3e37bbd3aa58.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Brick Library",
+      "role": "original",
+      "bytes": 531088,
+      "sha256": "f04b419d363e3e37bbd3aa58023fa937454f05aebb3755e750be3ab10205dfa3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247927/original_fef22533e1cb194d235d3be69f70a6a7.jpeg",
+      "originalName": "fef22533e1cb194d235d3be69f70a6a7.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-1d39ac5297189c45ef30fb60.webp",
+      "mimeType": "image/webp",
+      "alt": "Brick Library",
+      "role": "thumbnail",
+      "bytes": 17288,
+      "sha256": "1d39ac5297189c45ef30fb605067266d540d3085898ef74304449f9c44f501a5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkyNy9vcmlnaW5hbF9mZWYyMjUzM2UxY2IxOTRkMjM1ZDNiZTY5ZjcwYTZhNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "fef22533e1cb194d235d3be69f70a6a7.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f04b419d363e3e37bbd3aa58-f04b419d36.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Brick Library",
+      "bytes": 383874,
+      "sha256": "1d8750a31173e6bd605642defc33ded04cfe7e862e02e8a17887dd015c5c65a3",
+      "width": 1335,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f04b419d363e3e37bbd3aa58.jpg",
+        "sourceSha256": "f04b419d363e3e37bbd3aa58023fa937454f05aebb3755e750be3ab10205dfa3",
+        "originalBytes": 531088,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:05.000Z",
+  "updatedAt": "2026-06-23T14:30:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247927",
+    "title": "HGiD5F2W0AAtEUj",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247927,
+      "url": "https://www.are.na/block/47247927",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HGiD5F2W0AAtEUj",
+      "createdAt": "2026-06-23T14:30:05Z",
+      "updatedAt": "2026-06-23T14:30:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HGiD5F2W0AAtEUj",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Brick Library",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1d8750a31173e6bd605642defc33ded04cfe7e862e02e8a17887dd015c5c65a3"
+  }
+}

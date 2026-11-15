@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787094",
+  "type": "image",
+  "title": "Flower Horns",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "flower-horns",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-40e03ee60294a95b95fdbabc.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Flower Horns",
+      "role": "original",
+      "bytes": 193725,
+      "sha256": "40e03ee60294a95b95fdbabce9aa8a3ed1662e4db55fd44702c2bffdc57680a2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787094/original_45f0778fffa8e06808ccdce79fbeb069.jpg",
+      "originalName": "45f0778fffa8e06808ccdce79fbeb069.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8dded09ad998ed55ade333da.webp",
+      "mimeType": "image/webp",
+      "alt": "Flower Horns",
+      "role": "thumbnail",
+      "bytes": 13704,
+      "sha256": "8dded09ad998ed55ade333da1fd01c1d5bf265069c8c9779e41b31b5f330c4e2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzA5NC9vcmlnaW5hbF80NWYwNzc4ZmZmYThlMDY4MDhjY2RjZTc5ZmJlYjA2OS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "45f0778fffa8e06808ccdce79fbeb069.jpg"
+    },
+    {
+      "path": "assets/display-web-original-40e03ee60294a95b95fdbabc-40e03ee602.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Flower Horns",
+      "bytes": 167324,
+      "sha256": "c15d42d6125b0eb8124155dea17c69e4d8f3020f8e21cbd3e795e6cf7313d864",
+      "width": 1249,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-40e03ee60294a95b95fdbabc.jpg",
+        "sourceSha256": "40e03ee60294a95b95fdbabce9aa8a3ed1662e4db55fd44702c2bffdc57680a2",
+        "originalBytes": 193725,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:34.000Z",
+  "updatedAt": "2026-04-23T02:10:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787094",
+    "title": "a.for.ara-20250428_003903-2822550075.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787094,
+      "url": "https://www.are.na/block/40787094",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a.for.ara-20250428_003903-2822550075.jpg",
+      "createdAt": "2025-11-02T15:26:34Z",
+      "updatedAt": "2026-04-23T02:10:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a.for.ara-20250428_003903-2822550075.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Flower Horns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c15d42d6125b0eb8124155dea17c69e4d8f3020f8e21cbd3e795e6cf7313d864"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47277659",
+  "type": "link",
+  "title": "Melt Effect",
+  "description": "A tiny walkthrough on melting any element with a single SVG filter built from feTurbulence and feDisplacementMap.",
+  "category": "Writing",
+  "tags": [
+    "svg",
+    "filters",
+    "distortion"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-b3e07f1ad82294af12716259.webp",
+      "mimeType": "image/webp",
+      "alt": "Melt Effect",
+      "role": "thumbnail",
+      "bytes": 9540,
+      "sha256": "b3e07f1ad82294af12716259c97c12f3c4c80e3d62fd2c22776cd00ddf01b096",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI3NzY1OS9vcmlnaW5hbF9lYmI1M2M2NmEzMGZlMmRjNTQwOTA2MzhlNmQ4ZjQ2MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ebb53c66a30fe2dc54090638e6d8f460.png"
+    },
+    {
+      "path": "assets/preview-e11a2ba620acc0fabe23da93.webp",
+      "mimeType": "image/webp",
+      "alt": "Melt Effect",
+      "role": "preview",
+      "bytes": 203030,
+      "sha256": "e11a2ba620acc0fabe23da93b0acaa85d4e1cdb406d2c9ada25f4d23e84f58f3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47277659/original_ebb53c66a30fe2dc54090638e6d8f460.png",
+      "originalName": "ebb53c66a30fe2dc54090638e6d8f460.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 433619,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T15:43:34.000Z",
+  "updatedAt": "2026-06-24T15:43:40.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://joshpuckett.me/melt-effect",
+    "title": "Melt Effect",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47277659,
+      "url": "https://www.are.na/block/47277659",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Melt Effect",
+      "createdAt": "2026-06-24T15:43:34Z",
+      "updatedAt": "2026-06-24T15:43:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Melt Effect",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_46839649",
+      "reason": "Both explain browser rendering techniques for visual effects, using compositing/material treatments and SVG filter displacement respectively.",
+      "method": "curation-v1"
+    }
+  ]
+}

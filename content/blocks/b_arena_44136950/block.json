@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136950",
+  "type": "image",
+  "title": "Node Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "node-controls",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0e5a8f9ea152c8f00d9dc7ec.png",
+      "mimeType": "image/png",
+      "alt": "Node Controls",
+      "role": "original",
+      "bytes": 127988,
+      "sha256": "0e5a8f9ea152c8f00d9dc7ec66eddd275f3926e497767b106d75ea056aacc244",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136950/original_1b0554442d0da9c486fc9d4c1616c1b7.png",
+      "originalName": "1b0554442d0da9c486fc9d4c1616c1b7.png"
+    },
+    {
+      "path": "assets/thumbnail-c4e189f6aaf3e5201635d63c.webp",
+      "mimeType": "image/webp",
+      "alt": "Node Controls",
+      "role": "thumbnail",
+      "bytes": 3200,
+      "sha256": "c4e189f6aaf3e5201635d63c5795abafe77cc1afb596409f108576dccc2c938b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk1MC9vcmlnaW5hbF8xYjA1NTQ0NDJkMGRhOWM0ODZmYzlkNGMxNjE2YzFiNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1b0554442d0da9c486fc9d4c1616c1b7.png"
+    },
+    {
+      "path": "assets/display-web-original-0e5a8f9ea152c8f00d9dc7ec-0e5a8f9ea1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Node Controls",
+      "bytes": 20606,
+      "sha256": "8e092e70ec98f5488a37bf315edaf0d9aa6602de78fd801f28ea108346c1849a",
+      "width": 1138,
+      "height": 764,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0e5a8f9ea152c8f00d9dc7ec.png",
+        "sourceSha256": "0e5a8f9ea152c8f00d9dc7ec66eddd275f3926e497767b106d75ea056aacc244",
+        "originalBytes": 127988,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:28.000Z",
+  "updatedAt": "2026-03-04T15:35:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136950",
+    "title": "screenshot-2026-03-01-alle-10.35.50.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136950,
+      "url": "https://www.are.na/block/44136950",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-01-alle-10.35.50.png",
+      "createdAt": "2026-03-04T15:35:28Z",
+      "updatedAt": "2026-03-04T15:35:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-01-alle-10.35.50.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Node Controls",
+    "text": "VARIANT // ENGINE V.1\nNODE_GRAPH_EXPLORER\nINPUT_SEQUENCE\ncinematic render of a Brutalist monolith\nfloating above a neon-drenched desert, hyper-\ndetailed, 8k resolution, volumetric lighting.\nPROMPT IN\nSEED: 402911\nPARAMS 01\nCEG: 7.5\nSTYLE\nMOOD\nLIGHTING\nGENERATE_SIGNAL\nDIFFUSION CORE\nISER: S0 82EPS\n1.0x\nIMAGE OUT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8e092e70ec98f5488a37bf315edaf0d9aa6602de78fd801f28ea108346c1849a"
+  }
+}

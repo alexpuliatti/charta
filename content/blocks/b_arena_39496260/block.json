@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_39496260",
+  "type": "image",
+  "title": "Fashion Portfolio",
+  "description": "A monochrome fashion layout pairing portraits with restrained typography and a Spring/Summer 2024 caption.",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "fashion-portfolio",
+    "fashion-editorial",
+    "portraiture",
+    "minimalism",
+    "black-and-white",
+    "editorial-layout"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5acb14daf76b0e65ceda64cd.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Fashion Portfolio",
+      "role": "original",
+      "bytes": 45858,
+      "sha256": "5acb14daf76b0e65ceda64cd9734ea71ee4fc0153236a2d2df84355d2f469f8e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/39496260/original_6b68908832fe1c3fa6b9e86da9072212.jpg",
+      "originalName": "6b68908832fe1c3fa6b9e86da9072212.jpg"
+    },
+    {
+      "path": "assets/thumbnail-eb8329708f9525d6af5a25e4.webp",
+      "mimeType": "image/webp",
+      "alt": "Fashion Portfolio",
+      "role": "thumbnail",
+      "bytes": 4598,
+      "sha256": "eb8329708f9525d6af5a25e475e2bc1ae8dbd04f1408c6deb225fd5f7cb7ca1c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzOTQ5NjI2MC9vcmlnaW5hbF82YjY4OTA4ODMyZmUxYzNmYTZiOWU4NmRhOTA3MjIxMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6b68908832fe1c3fa6b9e86da9072212.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5acb14daf76b0e65ceda64cd-5acb14daf7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Fashion Portfolio",
+      "bytes": 21658,
+      "sha256": "060c381d6173b2fd694b927032f920e47a70d7c15775f054cf0c8fdc1929804e",
+      "width": 735,
+      "height": 923,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5acb14daf76b0e65ceda64cd.jpg",
+        "sourceSha256": "5acb14daf76b0e65ceda64cd9734ea71ee4fc0153236a2d2df84355d2f469f8e",
+        "originalBytes": 45858,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-09-12T10:36:25.000Z",
+  "updatedAt": "2026-11-11T15:29:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/39496260",
+    "title": "926f54b80e895ddea8cd21fa0dc3c517.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 39496260,
+      "url": "https://www.are.na/block/39496260",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "926f54b80e895ddea8cd21fa0dc3c517.jpg",
+      "createdAt": "2025-09-12T10:36:25Z",
+      "updatedAt": "2026-11-11T15:29:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Monochrome fashion editorial — Spring/Summer 2024",
+      "category": "Fashion",
+      "tags": [
+        "fashion-editorial",
+        "portraiture",
+        "minimalism",
+        "black-and-white",
+        "editorial-layout"
+      ],
+      "collectionIds": [
+        "c_inbox"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Fashion Portfolio",
+    "text": "SPRING\nSUMMER\nCAPTURING THE ESSENCE OF '90S MINIMALISM\nWITH SENSUAL FORMS IN RICH HUES\n2024",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "060c381d6173b2fd694b927032f920e47a70d7c15775f054cf0c8fdc1929804e"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_10415359",
+  "type": "image",
+  "title": "Learning Cycle",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "learning-cycle",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-988c107e73cfffe05733ced6.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Learning Cycle",
+      "role": "original",
+      "bytes": 260175,
+      "sha256": "988c107e73cfffe05733ced6977a6454218c511af873de8039ca5ed8d675b040",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/10415359/original_289a75ad59d1be0741c9db80678b556a.jpg",
+      "originalName": "289a75ad59d1be0741c9db80678b556a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-06480605d0b707cc6129425f.webp",
+      "mimeType": "image/webp",
+      "alt": "Learning Cycle",
+      "role": "thumbnail",
+      "bytes": 9934,
+      "sha256": "06480605d0b707cc6129425fa33add95a5a6c8a7ce19ccedfd2aa93cb6c3314c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMDQxNTM1OS9vcmlnaW5hbF8yODlhNzVhZDU5ZDFiZTA3NDFjOWRiODA2NzhiNTU2YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "289a75ad59d1be0741c9db80678b556a.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2021-01-26T14:13:50.000Z",
+  "updatedAt": "2026-11-15T01:24:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://64.media.tumblr.com/69033b05c65dc1184701fdc95230278b/2b8bb183b40fb0cc-61/s1280x1920/e0a65d082d9a3367b013edb48208f290221c9cf8.jpg",
+    "title": "sethlunsford: Image",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 10415359,
+      "url": "https://www.are.na/block/10415359",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "e0a65d082d9a3367b013edb48208f290221c9cf8.jpg",
+      "createdAt": "2021-01-26T14:13:50Z",
+      "updatedAt": "2026-11-15T01:24:20Z",
+      "addedBy": {
+        "id": 151785,
+        "name": "Dylan Johnson",
+        "slug": "dylan-johnson-ytlj7tytbmy"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "e0a65d082d9a3367b013edb48208f290221c9cf8.jpg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Learning Cycle",
+    "text": "Grow\nShare\nQuestion\nFail\nSucceed\nLearn\nV\nTry",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "988c107e73cfffe05733ced6977a6454218c511af873de8039ca5ed8d675b040"
+  }
+}

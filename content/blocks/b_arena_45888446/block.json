@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888446",
+  "type": "image",
+  "title": "Project Index",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "project-index",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cbde92c66602a4f2829e886d.png",
+      "mimeType": "image/png",
+      "alt": "Project Index",
+      "role": "original",
+      "bytes": 163682,
+      "sha256": "cbde92c66602a4f2829e886d63ecbe18bd550d36dd25f0972d85bd1cc94273cd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888446/original_aeda74de263cf6ba589c75d73574b4d9.png",
+      "originalName": "aeda74de263cf6ba589c75d73574b4d9.png"
+    },
+    {
+      "path": "assets/thumbnail-bb891b4e337f361b33261bf0.webp",
+      "mimeType": "image/webp",
+      "alt": "Project Index",
+      "role": "thumbnail",
+      "bytes": 12074,
+      "sha256": "bb891b4e337f361b33261bf0362ac08808dbcdd451d1f80d954513dcbf0f4e40",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0Ni9vcmlnaW5hbF9hZWRhNzRkZTI2M2NmNmJhNTg5Yzc1ZDczNTc0YjRkOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "aeda74de263cf6ba589c75d73574b4d9.png"
+    },
+    {
+      "path": "assets/display-web-original-cbde92c66602a4f2829e886d-cbde92c666.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Project Index",
+      "bytes": 93734,
+      "sha256": "bd6aac5dba048477af4ec1549979d2628e73d3c2af1acf24d2683401650be21b",
+      "width": 1280,
+      "height": 1280,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cbde92c66602a4f2829e886d.png",
+        "sourceSha256": "cbde92c66602a4f2829e886d63ecbe18bd550d36dd25f0972d85bd1cc94273cd",
+        "originalBytes": 163682,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:08.000Z",
+  "updatedAt": "2026-05-06T12:17:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888446",
+    "title": "original_332840f0096c11fce9be4597a0cfbf2d.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888446,
+      "url": "https://www.are.na/block/45888446",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_332840f0096c11fce9be4597a0cfbf2d.png",
+      "createdAt": "2026-05-06T12:17:08Z",
+      "updatedAt": "2026-05-06T12:17:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_332840f0096c11fce9be4597a0cfbf2d.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Project Index",
+    "text": "→ HAHA.SERVICES\n→ FRUITFUL.SCHOOL\n4 GET-LOE.COM\n→ EUROPACONTENT.COM\n4 WEATHERGRADIENT.COM\n→ ARC-PRODUCTION.COM\n→ /PROJECT-MOONSHOT\n→ FOREVERWARE.LIFE\n4 CLINTSOREN.COM\n4 DAZZLE.STUDIO\n4 /ALEXANDER-WANG\n→ SECRET-FRIEND.XYZ\n9:42:45 PM\nWORK.HAHA.SERVICES\nEMAIL\nFOLLOW\nSTUDIO\nOF JOHN PROVENCHER\nWORKSHOP\nIDENTITY, PACKAGING,\nWEBSITE\nIDENTITY, WEBSITE\nFORCAST, WEBSITE\nIDENTITY, WEBSITE\nIDENTITY, TOOL\nPOSTER, WEBSITE\nWEBSITE\nWEBSITE\nWEBSITE, ANIMATION\nPOSTER, WEBSITE\n*\n1/15\n2019\n2/15\n2019\n3/15\n2019\n4/15\n2019\n5/15\n2019\n6/15\n2019\n7/15\n2019\n8/15\n2019\n9/15\n2018\n10/15\n2018\n11/15\n2018\n12/15\n5.\n•\n+",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bd6aac5dba048477af4ec1549979d2628e73d3c2af1acf24d2683401650be21b"
+  }
+}

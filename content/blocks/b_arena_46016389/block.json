@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46016389",
+  "type": "link",
+  "title": "EMOTIV EEG",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "eeg",
+    "brain-computer-interfaces",
+    "neurotechnology"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ad4b3b22fe203061b112ff21.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 12404,
+      "sha256": "ad4b3b22fe203061b112ff214cbb8bb5b640e3ffeaeb44ffdbc27b3ac491119a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxNjM4OS9vcmlnaW5hbF85NmFjNzUzMjU1N2EwZGJiMTc4ZjdjYjNmYjZjNjE0OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "96ac7532557a0dbb178f7cb3fb6c6149.png"
+    },
+    {
+      "path": "assets/preview-9002ca23b40804215e933f8c.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 112998,
+      "sha256": "9002ca23b40804215e933f8c0ae67b77b96ea07262acc09c1fe0bdcbcfd79949",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46016389/original_96ac7532557a0dbb178f7cb3fb6c6149.png",
+      "originalName": "96ac7532557a0dbb178f7cb3fb6c6149.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 653724,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T13:50:24.000Z",
+  "updatedAt": "2026-05-11T13:50:42.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.emotiv.com/",
+    "title": "Link · MH-companies · 46016389",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46016389,
+      "url": "https://www.are.na/block/46016389",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-11T13:50:24Z",
+      "updatedAt": "2026-05-11T13:50:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Link · MH-companies · 46016389",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "wellbeing",
+        "mental-health",
+        "mh-companies"
+      ],
+      "collectionIds": [
+        "c_arena_5164043"
+      ]
+    }
+  }
+}

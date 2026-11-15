@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582925",
+  "type": "video",
+  "title": "Spectral Orb",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "spectral-orb",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-942e453fcd10dca9ab107b43.mp4",
+      "mimeType": "video/mp4",
+      "alt": "lkkl",
+      "role": "original",
+      "bytes": 1087449,
+      "sha256": "942e453fcd10dca9ab107b4320df9b43f9fac61b3fa7cb24fb550b9f1870e092",
+      "sourceUrl": "https://attachments.are.na/46582925/d82240e5b3370ad23dd0a757c5e1a964.mp4",
+      "originalName": "d82240e5b3370ad23dd0a757c5e1a964.mp4"
+    },
+    {
+      "path": "assets/thumbnail-0bcb1b9daba7f9dc5095c5b2.webp",
+      "mimeType": "image/webp",
+      "alt": "Spectral Orb",
+      "role": "thumbnail",
+      "bytes": 7276,
+      "sha256": "0bcb1b9daba7f9dc5095c5b23517ec9dbeff72494162f9bcf977a31772ab3d0e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkyNS9vcmlnaW5hbF9iYmNkMTI4NGM4MzVmMDI1MjAyNjA1MjktMi1vYjEwOTAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "bbcd1284c835f02520260529-2-ob1090.png"
+    },
+    {
+      "path": "assets/display-web-original-942e453fcd10dca9ab107b43-942e453fcd.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "lkkl",
+      "bytes": 885423,
+      "sha256": "4b026b1a634724158b11fb145bff283ad39322717ed9db6abd26c524f8e1eea5",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-942e453fcd10dca9ab107b43.mp4",
+        "sourceSha256": "942e453fcd10dca9ab107b4320df9b43f9fac61b3fa7cb24fb550b9f1870e092",
+        "originalBytes": 1087449,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-c3bb072e724dea81c525d837.webp",
+      "mimeType": "image/webp",
+      "alt": "lkkl",
+      "role": "preview",
+      "bytes": 67712,
+      "sha256": "c3bb072e724dea81c525d837cc6c7b248d7e445546c6edbbcc48c704a94279e2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582925/original_bbcd1284c835f02520260529-2-ob1090.png",
+      "originalName": "bbcd1284c835f02520260529-2-ob1090.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 327805,
+        "width": 720,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:42.000Z",
+  "updatedAt": "2026-10-18T17:01:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582925",
+    "title": "lkkl",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582925,
+      "url": "https://www.are.na/block/46582925",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "lkkl",
+      "createdAt": "2026-05-29T08:53:42Z",
+      "updatedAt": "2026-10-18T17:01:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "lkkl",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Spectral Orb",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0bcb1b9daba7f9dc5095c5b23517ec9dbeff72494162f9bcf977a31772ab3d0e"
+  }
+}

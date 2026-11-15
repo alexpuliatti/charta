@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46981457",
+  "type": "link",
+  "title": "Physical AI",
+  "description": "Capture every rollout, score what happened, and retrain on the parts that matter.",
+  "category": "Writing",
+  "tags": [
+    "physical-ai",
+    "robotics",
+    "reinforcement-learning"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1eb2e0b6eb946a51bd7b0332.webp",
+      "mimeType": "image/webp",
+      "alt": "Interlatent — RL Platform for Physical AI",
+      "role": "thumbnail",
+      "bytes": 9606,
+      "sha256": "1eb2e0b6eb946a51bd7b03321a76f70e2b998c3237aaaa7e88cefb393bb83020",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Njk4MTQ1Ny9vcmlnaW5hbF84MzNkMDU0OTc4NDAxNTNhYjY3NDViOTZhOWMyMGMxZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "833d05497840153ab6745b96a9c20c1e.png"
+    },
+    {
+      "path": "assets/preview-b37851b2c49a5641a2410335.webp",
+      "mimeType": "image/webp",
+      "alt": "Interlatent — RL Platform for Physical AI",
+      "role": "preview",
+      "bytes": 410234,
+      "sha256": "b37851b2c49a5641a241033599fe6d4e86dd1bd1620a17803eccf3be78504407",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46981457/original_833d05497840153ab6745b96a9c20c1e.png",
+      "originalName": "833d05497840153ab6745b96a9c20c1e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 4505200,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-12T14:21:30.000Z",
+  "updatedAt": "2026-06-12T14:21:41.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
+    "title": "Interlatent — RL Platform for Physical AI",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46981457,
+      "url": "https://www.are.na/block/46981457",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Interlatent — RL Platform for Physical AI",
+      "createdAt": "2026-06-12T14:21:30Z",
+      "updatedAt": "2026-06-12T14:21:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Interlatent — RL Platform for Physical AI",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

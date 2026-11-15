@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889985",
+  "type": "image",
+  "title": "Concrete Dining",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-dining",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-67d748d39d460c3f456db93f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Dining",
+      "role": "original",
+      "bytes": 92068,
+      "sha256": "67d748d39d460c3f456db93f0137f6e8c758c9df5175233419449a59ba7801e3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889985/original_7c45463e460f0c962287fe61f4e37eae.jpeg",
+      "originalName": "7c45463e460f0c962287fe61f4e37eae.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-be4a0c81846c74283c270e27.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Dining",
+      "role": "thumbnail",
+      "bytes": 9434,
+      "sha256": "be4a0c81846c74283c270e27dbebb1163d9d317c60e09cd7e1f6c718dbb742dc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTk4NS9vcmlnaW5hbF83YzQ1NDYzZTQ2MGYwYzk2MjI4N2ZlNjFmNGUzN2VhZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7c45463e460f0c962287fe61f4e37eae.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-67d748d39d460c3f456db93f-67d748d39d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Dining",
+      "bytes": 59584,
+      "sha256": "4c4fae9278ef70c0e36397bbc857d9e834584a248042b13f0fe5ff593a87d572",
+      "width": 1200,
+      "height": 596,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-67d748d39d460c3f456db93f.jpg",
+        "sourceSha256": "67d748d39d460c3f456db93f0137f6e8c758c9df5175233419449a59ba7801e3",
+        "originalBytes": 92068,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:18:28.000Z",
+  "updatedAt": "2026-05-06T13:18:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889985",
+    "title": "ae0eb3619d1c52cf15592f71d20367d7.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889985,
+      "url": "https://www.are.na/block/45889985",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ae0eb3619d1c52cf15592f71d20367d7.jpg",
+      "createdAt": "2026-05-06T13:18:28Z",
+      "updatedAt": "2026-05-06T13:18:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ae0eb3619d1c52cf15592f71d20367d7.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Dining",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4c4fae9278ef70c0e36397bbc857d9e834584a248042b13f0fe5ff593a87d572"
+  }
+}

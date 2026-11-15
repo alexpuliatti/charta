@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_technology_ai",
+  "title": "AI",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47277949"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46150466"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46109564"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46109512"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892963"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892486"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892461"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889851"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889134"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44241166"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

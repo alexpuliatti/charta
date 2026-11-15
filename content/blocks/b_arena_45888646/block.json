@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888646",
+  "type": "image",
+  "title": "Mission Console",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "mission-console",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3f878e392623d2d8907eea8c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Mission Console",
+      "role": "original",
+      "bytes": 335520,
+      "sha256": "3f878e392623d2d8907eea8c30ff2322bd47a80a8edbd21dc21c90489a461545",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888646/original_bbcc65418eb6de5d1426aa1f0a3c9854.jpeg",
+      "originalName": "bbcc65418eb6de5d1426aa1f0a3c9854.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-883b28ffe95a9b2dd3b75ac6.webp",
+      "mimeType": "image/webp",
+      "alt": "Mission Console",
+      "role": "thumbnail",
+      "bytes": 9468,
+      "sha256": "883b28ffe95a9b2dd3b75ac632c05da9e04e81c38e07b6206db85a6229e980a8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY0Ni9vcmlnaW5hbF9iYmNjNjU0MThlYjZkZTVkMTQyNmFhMWYwYTNjOTg1NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "bbcc65418eb6de5d1426aa1f0a3c9854.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-3f878e392623d2d8907eea8c-3f878e3926.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mission Console",
+      "bytes": 152530,
+      "sha256": "9b325a4353e91b6daa3b52124377a92acbf64b6f4534c05d9f102c13ce2dbf5c",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3f878e392623d2d8907eea8c.jpg",
+        "sourceSha256": "3f878e392623d2d8907eea8c30ff2322bd47a80a8edbd21dc21c90489a461545",
+        "originalBytes": 335520,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:52.000Z",
+  "updatedAt": "2026-05-06T12:24:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888646",
+    "title": "heyzguobkaailwx.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888646,
+      "url": "https://www.are.na/block/45888646",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "heyzguobkaailwx.jpeg",
+      "createdAt": "2026-05-06T12:24:52Z",
+      "updatedAt": "2026-05-06T12:24:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "heyzguobkaailwx.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mission Console",
+    "text": "COORDINATE MAP\nTIME 02:48:02\nTARGET APPROXIMATE LOCATION\n550M FROM YOUR CURRENT POSITION\n••\n•\nSAFE AREA\nYOUR POSITION\nTARGET DETAILS\nDEAD OR ALIVE\nENV. DETAILS\nTHREATS LEVEL\nLEVEL 3 OF 5\nBRIEF DETAILS\nTYPE OF WEAPON\nBLUNT\nSMALL FIREARMS\nSHOTGUNS\nRIFLES\nGIORI TERCYLUK\n26\nUNITED STATES\nMARTIAL ARTS\nPISTOL EXPERTS\nATHLETIC\nENV. READING\n16 HOSTILES\n8 CIVILIANS\n• TEAMMATES\n0 HOSTAGES\nCAPTURE GIORI TERCYLUK BY ANY MEANS.\nIF POSSIBLE, DO IT COMPLETELY IN THE\nSHADOWS.\nDISPOSE ANY WITNESS OR ANYONE WHO IS\nAWARE OF YOUR PRESENCE IN THE\nPROXIMITY OR IN 2KM RADIUS.\nIF GIORI TERCYLUK ENDS UP FLATLINED,\nBRING HIS BODY AND DON'T LET ANYONE\nSEE YOU UNTIL YOU'RE ABLE TO REGROUP\nAT THE RENDEZVOUS POINT.\nYOU ONLY HAVE 3 HOURS. TARGET WILL\nMOVE OUT FROM THE COUNTRY AFTER THIS\nAND IT WILL BE MUCH HARDER TO CAPTURE.\nMAY WISDOM GUIDE YOU.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9b325a4353e91b6daa3b52124377a92acbf64b6f4534c05d9f102c13ce2dbf5c"
+  }
+}

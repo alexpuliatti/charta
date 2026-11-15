@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700977",
+  "type": "image",
+  "title": "Journey Fear",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "journey-fear",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-883d20245431cc01e7fb11d1.png",
+      "mimeType": "image/png",
+      "alt": "Journey Fear",
+      "role": "original",
+      "bytes": 1156500,
+      "sha256": "883d20245431cc01e7fb11d1553eb1cdf362a1e20cff853df8452af37d647e30",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700977/original_91ea03797b5704774ccec393b80c69bd.png",
+      "originalName": "91ea03797b5704774ccec393b80c69bd.png"
+    },
+    {
+      "path": "assets/thumbnail-ab32f2a778233eda14fde492.webp",
+      "mimeType": "image/webp",
+      "alt": "Journey Fear",
+      "role": "thumbnail",
+      "bytes": 9732,
+      "sha256": "ab32f2a778233eda14fde4922a4075565e2863bad95eedd7b1bb5b6d52f9bbb4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk3Ny9vcmlnaW5hbF85MWVhMDM3OTdiNTcwNDc3NGNjZWMzOTNiODBjNjliZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "91ea03797b5704774ccec393b80c69bd.png"
+    },
+    {
+      "path": "assets/display-web-original-883d20245431cc01e7fb11d1-883d202454.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Journey Fear",
+      "bytes": 67520,
+      "sha256": "224d2535c0d16cd90fae1ed40ce39ae69a7c6d8ea6ab2f9de578614b9b47177e",
+      "width": 1048,
+      "height": 1216,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-883d20245431cc01e7fb11d1.png",
+        "sourceSha256": "883d20245431cc01e7fb11d1553eb1cdf362a1e20cff853df8452af37d647e30",
+        "originalBytes": 1156500,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:42.000Z",
+  "updatedAt": "2026-07-08T14:55:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700977",
+    "title": "Screenshot 2023-09-12 alle 16.46.54",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700977,
+      "url": "https://www.are.na/block/47700977",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.46.54",
+      "createdAt": "2026-07-08T14:55:42Z",
+      "updatedAt": "2026-07-08T14:55:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.46.54",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Journey Fear",
+    "text": "JOURNEY INTO FEAR\nOURNEY\nINTO\nFEAR\nERIC\nAMBLER\nHaS\nCODER STOUGHTON\nERIC AMBLER",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "224d2535c0d16cd90fae1ed40ce39ae69a7c6d8ea6ab2f9de578614b9b47177e"
+  }
+}

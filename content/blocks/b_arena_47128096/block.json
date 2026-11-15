@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47128096",
+  "type": "link",
+  "title": "Kyma Neuro",
+  "description": "The control layer for brain-computer interfaces.",
+  "category": "Companies",
+  "tags": [
+    "brain-computer-interfaces",
+    "neurotechnology"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-867dea54571796e8e809fa3e.webp",
+      "mimeType": "image/webp",
+      "alt": "Kyma Neuro",
+      "role": "thumbnail",
+      "bytes": 8790,
+      "sha256": "867dea54571796e8e809fa3ebf68fade1d7d687dbc110d45919668fadca430c0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzEyODA5Ni9vcmlnaW5hbF9mOWVlMWI4MzkyNTg4MDk0ZDJhNWIzOGYwYTAxN2ZkMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f9ee1b8392588094d2a5b38f0a017fd1.png"
+    },
+    {
+      "path": "assets/preview-26f65499f83c81a87348bc56.webp",
+      "mimeType": "image/webp",
+      "alt": "Kyma Neuro",
+      "role": "preview",
+      "bytes": 251970,
+      "sha256": "26f65499f83c81a87348bc56d6843049d8d94649f6c623e897756acc9950a1a5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47128096/original_f9ee1b8392588094d2a5b38f0a017fd1.png",
+      "originalName": "f9ee1b8392588094d2a5b38f0a017fd1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1233798,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-18T09:51:40.000Z",
+  "updatedAt": "2026-06-18T09:52:03.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://kymaneuro.com/",
+    "title": "Kyma Neuro",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47128096,
+      "url": "https://www.are.na/block/47128096",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Kyma Neuro",
+      "createdAt": "2026-06-18T09:51:40Z",
+      "updatedAt": "2026-06-18T09:52:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Kyma Neuro",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "interfaces",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

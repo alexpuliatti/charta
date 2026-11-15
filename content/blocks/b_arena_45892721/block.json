@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892721",
+  "type": "link",
+  "title": "OB Studio",
+  "description": "Design and technology studio building experiences for leading brands and innovators.",
+  "category": "Companies",
+  "tags": [
+    "design-technology",
+    "digital-experience",
+    "brand-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-206636ee2e83e7b0ac1ffa6f.webp",
+      "mimeType": "image/webp",
+      "alt": "OB Studio",
+      "role": "thumbnail",
+      "bytes": 15700,
+      "sha256": "206636ee2e83e7b0ac1ffa6fa96f77913e1f13e70c1749d65fb46468e406dd5b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjcyMS9vcmlnaW5hbF83ZDk5NTJhYTQxODFjYTEzYjVlM2FjZTFmOWY2ZjBhOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7d9952aa4181ca13b5e3ace1f9f6f0a9.png"
+    },
+    {
+      "path": "assets/preview-c443671d4aefbb2a1f2f0b9a.webp",
+      "mimeType": "image/webp",
+      "alt": "OB Studio",
+      "role": "preview",
+      "bytes": 336754,
+      "sha256": "c443671d4aefbb2a1f2f0b9a23b51ec6ccea822927cc505af9cd0d847b1d55ad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892721/original_7d9952aa4181ca13b5e3ace1f9f6f0a9.png",
+      "originalName": "7d9952aa4181ca13b5e3ace1f9f6f0a9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1537452,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:46:02.000Z",
+  "updatedAt": "2026-05-06T14:46:12.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.ob.services/",
+    "title": "OB Studio",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892721,
+      "url": "https://www.are.na/block/45892721",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "OB Studio",
+      "createdAt": "2026-05-06T14:46:02Z",
+      "updatedAt": "2026-05-06T14:46:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "OB Studio",
+      "category": "Information design",
+      "tags": [
+        "architecture",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

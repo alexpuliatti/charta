@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247900",
+  "type": "image",
+  "title": "Image Platform",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "image-platform",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2db7d511a3a327d8e70f72ca.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Image Platform",
+      "role": "original",
+      "bytes": 175651,
+      "sha256": "2db7d511a3a327d8e70f72ca825473f39e74d41fc5818d10afa3398b283cbb8e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247900/original_f0ceefd2845cef71b10f3e6ae1b72116.jpeg",
+      "originalName": "f0ceefd2845cef71b10f3e6ae1b72116.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-197f27a02de99751cb8c8fdb.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Platform",
+      "role": "thumbnail",
+      "bytes": 2198,
+      "sha256": "197f27a02de99751cb8c8fdb8f707113a011aa9012a18808aa84f27f7de4f0c8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkwMC9vcmlnaW5hbF9mMGNlZWZkMjg0NWNlZjcxYjEwZjNlNmFlMWI3MjExNi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "f0ceefd2845cef71b10f3e6ae1b72116.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-2db7d511a3a327d8e70f72ca-2db7d511a3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Platform",
+      "bytes": 32482,
+      "sha256": "afb79e9eb3b6b687b2f93edf594af30fdd571eeda29ee69b0e1d357b4915e4ce",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2db7d511a3a327d8e70f72ca.jpg",
+        "sourceSha256": "2db7d511a3a327d8e70f72ca825473f39e74d41fc5818d10afa3398b283cbb8e",
+        "originalBytes": 175651,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:29:13.000Z",
+  "updatedAt": "2026-06-23T14:29:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247900",
+    "title": "HDnLYm_bEAsWvG3",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247900,
+      "url": "https://www.are.na/block/47247900",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HDnLYm_bEAsWvG3",
+      "createdAt": "2026-06-23T14:29:13Z",
+      "updatedAt": "2026-06-23T14:29:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HDnLYm_bEAsWvG3",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Platform",
+    "text": "8.883\nThe platform\nwhere taste has\na digital trail\nYour taste is a valuble asset\nUnsigned gives it a place to Live.\nCapture your taste →\n8.004\n8.001\nBOOT AT.\n8.80s",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "afb79e9eb3b6b687b2f93edf594af30fdd571eeda29ee69b0e1d357b4915e4ce"
+  }
+}

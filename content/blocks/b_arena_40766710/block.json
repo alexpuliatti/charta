@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40766710",
+  "type": "link",
+  "title": "Motif Neuro",
+  "description": "For roughly 1 in 3 patients with major depression, multiple medications fail to provide the relief they deserve. These people suffer from what is known as “Treatment Resistant Depression”. Advances in brain science have revealed that rebalancing electrical activity may work when drugs fail.",
+  "category": "Companies",
+  "tags": [
+    "neurotechnology",
+    "depression",
+    "neuromodulation"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f2f94d380bd6c054236756b2.webp",
+      "mimeType": "image/webp",
+      "alt": "Problem — Understanding Treatment Resistant Depression",
+      "role": "thumbnail",
+      "bytes": 10132,
+      "sha256": "f2f94d380bd6c054236756b2a6b7862072e760d2ffe410c879cd44190cdadcbb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2NjcxMC9vcmlnaW5hbF80NjEzNDViNDczMTc1YmI2ZGJmNmM4ZmJmOWYxZDI2Yi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "461345b473175bb6dbf6c8fbf9f1d26b.png"
+    },
+    {
+      "path": "assets/preview-9b913846d1e7368583ffd621.webp",
+      "mimeType": "image/webp",
+      "alt": "Problem — Understanding Treatment Resistant Depression",
+      "role": "preview",
+      "bytes": 348390,
+      "sha256": "9b913846d1e7368583ffd621831bee65d6754c46589e5d2bde83aceb3af9b247",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40766710/original_461345b473175bb6dbf6c8fbf9f1d26b.png",
+      "originalName": "461345b473175bb6dbf6c8fbf9f1d26b.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 5940436,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-01T09:03:35.000Z",
+  "updatedAt": "2025-11-01T09:03:51.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.motifneuro.tech/problem",
+    "title": "Problem — Understanding Treatment Resistant Depression",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40766710,
+      "url": "https://www.are.na/block/40766710",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Problem — Understanding Treatment Resistant Depression",
+      "createdAt": "2025-11-01T09:03:35Z",
+      "updatedAt": "2025-11-01T09:03:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Problem — Understanding Treatment Resistant Depression",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "depression-research",
+        "mental-health",
+        "neurotechnology",
+        "science",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

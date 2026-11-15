@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582929",
+  "type": "image",
+  "title": "Variable Glyphs",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "variable-glyphs",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b4ba93fdd16a42331942a5fa.png",
+      "mimeType": "image/png",
+      "alt": "Variable Glyphs",
+      "role": "original",
+      "bytes": 314774,
+      "sha256": "b4ba93fdd16a42331942a5faf3a200e4154107219767ea10a59e1c0c951b320b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582929/original_3050452668e5905540afcabd1e65ad18.png",
+      "originalName": "3050452668e5905540afcabd1e65ad18.png"
+    },
+    {
+      "path": "assets/thumbnail-df772cee05fbea128d3b4d5f.webp",
+      "mimeType": "image/webp",
+      "alt": "Variable Glyphs",
+      "role": "thumbnail",
+      "bytes": 1878,
+      "sha256": "df772cee05fbea128d3b4d5f9554ca4182090123c095f73ae004a3939d4dc2db",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkyOS9vcmlnaW5hbF8zMDUwNDUyNjY4ZTU5MDU1NDBhZmNhYmQxZTY1YWQxOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3050452668e5905540afcabd1e65ad18.png"
+    },
+    {
+      "path": "assets/display-web-original-b4ba93fdd16a42331942a5fa-b4ba93fdd1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Variable Glyphs",
+      "bytes": 21810,
+      "sha256": "2c7193c40cfe983c4ba45ccdc9740e1b3305a0426ab6c674b6bd760ecca1067e",
+      "width": 1930,
+      "height": 1118,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b4ba93fdd16a42331942a5fa.png",
+        "sourceSha256": "b4ba93fdd16a42331942a5faf3a200e4154107219767ea10a59e1c0c951b320b",
+        "originalBytes": 314774,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:52.000Z",
+  "updatedAt": "2026-05-29T08:53:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582929",
+    "title": "Screenshot 2026-05-28 alle 18.40.56",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582929,
+      "url": "https://www.are.na/block/46582929",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-05-28 alle 18.40.56",
+      "createdAt": "2026-05-29T08:53:52Z",
+      "updatedAt": "2026-05-29T08:53:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-05-28 alle 18.40.56",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Variable Glyphs",
+    "text": "FIG.\n000\nA(R) = EXPC-BANDTIGHT - R2)\nGAUSSIAN FALLOFF\nRTL\nGIF\n* = 130%\nA = 0.70\nA = 10P\nA = 015\n•\nBIT\n+ A-1\n•\nCOLOR(T) = A • B-COS\nIRIDESCENT\nT=0.3\nRIPPLECY\nLO\nT=0.5\nT=07\nT=09",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2c7193c40cfe983c4ba45ccdc9740e1b3305a0426ab6c674b6bd760ecca1067e"
+  }
+}

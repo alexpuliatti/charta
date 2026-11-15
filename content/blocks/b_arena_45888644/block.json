@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888644",
+  "type": "image",
+  "title": "Processing Status",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "processing-status",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1e7601c100755f5ccb9520b4.png",
+      "mimeType": "image/png",
+      "alt": "Processing Status",
+      "role": "original",
+      "bytes": 41242,
+      "sha256": "1e7601c100755f5ccb9520b448217b44dbd273eba8f554a621ec8cf1b89459fc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888644/original_32075ecdd65ce53d489c97b4d25dae18.png",
+      "originalName": "32075ecdd65ce53d489c97b4d25dae18.png"
+    },
+    {
+      "path": "assets/thumbnail-53775a9f47bc4a2f62fa9d26.webp",
+      "mimeType": "image/webp",
+      "alt": "Processing Status",
+      "role": "thumbnail",
+      "bytes": 3526,
+      "sha256": "53775a9f47bc4a2f62fa9d267cbd95ac4d3f4a068920dc34ba3399f808e2e849",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY0NC9vcmlnaW5hbF8zMjA3NWVjZGQ2NWNlNTNkNDg5Yzk3YjRkMjVkYWUxOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "32075ecdd65ce53d489c97b4d25dae18.png"
+    },
+    {
+      "path": "assets/display-web-original-1e7601c100755f5ccb9520b4-1e7601c100.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Processing Status",
+      "bytes": 37996,
+      "sha256": "5bddce710b25c16f203809b0afe5492f9b283eed5c8bc64d2190c0e5d57094e8",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1e7601c100755f5ccb9520b4.png",
+        "sourceSha256": "1e7601c100755f5ccb9520b448217b44dbd273eba8f554a621ec8cf1b89459fc",
+        "originalBytes": 41242,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:52.000Z",
+  "updatedAt": "2026-05-06T12:24:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888644",
+    "title": "heyziduamaa9rxf.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888644,
+      "url": "https://www.are.na/block/45888644",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "heyziduamaa9rxf.png",
+      "createdAt": "2026-05-06T12:24:52Z",
+      "updatedAt": "2026-05-06T12:24:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "heyziduamaa9rxf.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Processing Status",
+    "text": "COPYING ...\nTRANSFER SPEED\n36GB / s\nDATA VOLUME\n280.50\nOF 561TB\nOVERALL PROGRESS 50%\nTRANSFER DETAILS\n12,756, 809, 126, 304 FILES\nFROM\nLOCAL DRIVE\nTO\nDROPBOX ENTERPRISE\nEST. TIME\nOh: 12m: 43s\nLESS THAN 15 MIN.\nACTIONS\nCANCEL\nPAUSE\nCLOSE WINDOW",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5bddce710b25c16f203809b0afe5492f9b283eed5c8bc64d2190c0e5d57094e8"
+  }
+}

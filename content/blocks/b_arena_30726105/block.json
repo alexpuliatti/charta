@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_30726105",
+  "type": "image",
+  "title": "Green Lounge",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "green-lounge",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-92c759aa4ab8bd9a74d242bb.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Green Lounge",
+      "role": "original",
+      "bytes": 187304,
+      "sha256": "92c759aa4ab8bd9a74d242bb48d82af926cc5bca882b5c4fc4b901fe1e671f97",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/30726105/original_179de8b316cac26ab4a123d6b4193227.jpg",
+      "originalName": "179de8b316cac26ab4a123d6b4193227.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0d263e946e29e86a0524cc86.webp",
+      "mimeType": "image/webp",
+      "alt": "Green Lounge",
+      "role": "thumbnail",
+      "bytes": 9946,
+      "sha256": "0d263e946e29e86a0524cc8630530ae0dc7d445fb8fa4e50b80b02cf13357581",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzMDcyNjEwNS9vcmlnaW5hbF8xNzlkZThiMzE2Y2FjMjZhYjRhMTIzZDZiNDE5MzIyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "179de8b316cac26ab4a123d6b4193227.jpg"
+    },
+    {
+      "path": "assets/display-web-original-92c759aa4ab8bd9a74d242bb-92c759aa4a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Green Lounge",
+      "bytes": 180402,
+      "sha256": "f1dabb645b7cf4d59e047c2d5fb16f54ff68c7196f16f3033aea06aa498d4911",
+      "width": 1080,
+      "height": 1351,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-92c759aa4ab8bd9a74d242bb.jpg",
+        "sourceSha256": "92c759aa4ab8bd9a74d242bb48d82af926cc5bca882b5c4fc4b901fe1e671f97",
+        "originalBytes": 187304,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2024-09-16T13:43:29.000Z",
+  "updatedAt": "2026-11-09T07:36:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.cosmos.so/e/699301079",
+    "title": "home club stage design / Cosmos",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 30726105,
+      "url": "https://www.are.na/block/30726105",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "d6807c57-d210-4339-bee3-bc58ac9d38ea?format=jpeg",
+      "createdAt": "2024-09-16T13:43:29Z",
+      "updatedAt": "2026-11-09T07:36:09Z",
+      "addedBy": {
+        "id": 369962,
+        "name": "Tom Staples Castello",
+        "slug": "tom-staples-castello"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "d6807c57-d210-4339-bee3-bc58ac9d38ea?format=jpeg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Green Lounge",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f1dabb645b7cf4d59e047c2d5fb16f54ff68c7196f16f3033aea06aa498d4911"
+  }
+}

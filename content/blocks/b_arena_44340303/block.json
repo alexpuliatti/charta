@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340303",
+  "type": "image",
+  "title": "Bonsai Sunrise",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "bonsai-sunrise",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-99fbfd27251c6dac03b17f5f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Bonsai Sunrise",
+      "role": "original",
+      "bytes": 231197,
+      "sha256": "99fbfd27251c6dac03b17f5f47a5f9f46a26b1b6243aed19361248e26ebff874",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340303/original_e231aa833932972c93f4532c9f9eafdc.jpg",
+      "originalName": "e231aa833932972c93f4532c9f9eafdc.jpg"
+    },
+    {
+      "path": "assets/thumbnail-943b66ae475e4c4f46fb0109.webp",
+      "mimeType": "image/webp",
+      "alt": "Bonsai Sunrise",
+      "role": "thumbnail",
+      "bytes": 2930,
+      "sha256": "943b66ae475e4c4f46fb010927a00bf8884064752fe4906af2289cd0492a0612",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwMy9vcmlnaW5hbF9lMjMxYWE4MzM5MzI5NzJjOTNmNDUzMmM5ZjllYWZkYy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e231aa833932972c93f4532c9f9eafdc.jpg"
+    },
+    {
+      "path": "assets/display-web-original-99fbfd27251c6dac03b17f5f-99fbfd2725.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Bonsai Sunrise",
+      "bytes": 206792,
+      "sha256": "7521e8320e621016ea243d1cc4c3f650b6d4ce9ddf02acd3a2dd7015588947d9",
+      "width": 1199,
+      "height": 1681,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-99fbfd27251c6dac03b17f5f.jpg",
+        "sourceSha256": "99fbfd27251c6dac03b17f5f47a5f9f46a26b1b6243aed19361248e26ebff874",
+        "originalBytes": 231197,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340303",
+    "title": "03b643122a21a6b4cd2ccff6ce9bbd4c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340303,
+      "url": "https://www.are.na/block/44340303",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "03b643122a21a6b4cd2ccff6ce9bbd4c.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "03b643122a21a6b4cd2ccff6ce9bbd4c.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Bonsai Sunrise",
+    "text": "HONDA\nHonda Deutschland GmbH, Sprendlinger Landstralse 166\n6050 Offenbach, Teleton: 06 11/ 8 30 91\nIhr Vertragshändler\nHonda u. Saab\nVertragshändler\nPeter Schmid\nWöhlerstr. 15\nTeleion 50 76 36\n78 Freiburg",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7521e8320e621016ea243d1cc4c3f650b6d4ce9ddf02acd3a2dd7015588947d9"
+  }
+}

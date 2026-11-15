@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44422657",
+  "type": "link",
+  "title": "Matchbook Archive",
+  "description": "Once a mainstay of social life in Britain, the branded matchbook no longer accompanies a restaurant bill or sits on a pub’s bar. This new book presents a vast collection of these miniature windows into the graphic sensibilities of a former era.",
+  "category": "Writing",
+  "tags": [
+    "matchbooks",
+    "graphic-design",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1c078eb9adadf169d4f0cb53.webp",
+      "mimeType": "image/webp",
+      "alt": "Matchbook Book: the archive keeping a lost design legacy alight",
+      "role": "thumbnail",
+      "bytes": 7352,
+      "sha256": "1c078eb9adadf169d4f0cb532094b934965c527d0f25fd8ec0ac49461f577033",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDQyMjY1Ny9vcmlnaW5hbF9kZTU0YTZiODI5ZTEzZmZiNWUzYWZhZTQ5MjEzY2FmZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "de54a6b829e13ffb5e3afae49213caff.png"
+    },
+    {
+      "path": "assets/preview-b8ea46487f71b5b5056634e8.webp",
+      "mimeType": "image/webp",
+      "alt": "Matchbook Book: the archive keeping a lost design legacy alight",
+      "role": "preview",
+      "bytes": 119992,
+      "sha256": "b8ea46487f71b5b5056634e8749e7b5ae8923b9fbbeff8deb99895140585a24b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44422657/original_de54a6b829e13ffb5e3afae49213caff.png",
+      "originalName": "de54a6b829e13ffb5e3afae49213caff.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 253767,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-14T10:10:00.000Z",
+  "updatedAt": "2026-03-14T10:10:06.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.itsnicethat.com/features/billy-woods-centrecentre-matchbook-book-publication-spotlight-110326",
+    "title": "Matchbook Book: the archive keeping a lost design legacy alight",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44422657,
+      "url": "https://www.are.na/block/44422657",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Matchbook Book: the archive keeping a lost design legacy alight",
+      "createdAt": "2026-03-14T10:10:00Z",
+      "updatedAt": "2026-03-14T10:10:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Matchbook Book: the archive keeping a lost design legacy alight",
+      "category": "Books and publishing",
+      "tags": [
+        "books",
+        "archives",
+        "graphic-design",
+        "visual-culture",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

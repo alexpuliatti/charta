@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247877",
+  "type": "image",
+  "title": "Library Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "library-workspace",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5df70f59c720695fb91815c7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Library Workspace",
+      "role": "original",
+      "bytes": 427599,
+      "sha256": "5df70f59c720695fb91815c7b1e87fbcc3a683384141950495cd11cd67c10c65",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247877/original_c86599c9b66c33c481f6faec994f77a9.jpeg",
+      "originalName": "c86599c9b66c33c481f6faec994f77a9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-5eef082a0381a1a906390a05.webp",
+      "mimeType": "image/webp",
+      "alt": "Library Workspace",
+      "role": "thumbnail",
+      "bytes": 6080,
+      "sha256": "5eef082a0381a1a906390a05eec1557d7a9e1c2f3e1759c601d504299714b534",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg3Ny9vcmlnaW5hbF9jODY1OTljOWI2NmMzM2M0ODFmNmZhZWM5OTRmNzdhOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c86599c9b66c33c481f6faec994f77a9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-5df70f59c720695fb91815c7-5df70f59c7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Library Workspace",
+      "bytes": 95386,
+      "sha256": "c0fb1e8abbe072d828c7b9f1023438bf70e9fb3f4c761a12bfa25ea8e173b534",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5df70f59c720695fb91815c7.jpg",
+        "sourceSha256": "5df70f59c720695fb91815c7b1e87fbcc3a683384141950495cd11cd67c10c65",
+        "originalBytes": 427599,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:37.000Z",
+  "updatedAt": "2026-06-23T14:28:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247877",
+    "title": "GjlErDgXEAAgfVs",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247877,
+      "url": "https://www.are.na/block/47247877",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "GjlErDgXEAAgfVs",
+      "createdAt": "2026-06-23T14:28:37Z",
+      "updatedAt": "2026-06-23T14:28:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GjlErDgXEAAgfVs",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Library Workspace",
+    "text": "1- Sanya\nPro\nSearch\n• Projects\n• Chat History\n& Integrations\nFavorites -\n• The Structure of DNA\nE DNA Molecular Docker\n• TE synthesizer usage\n• Pac-Man Game\nRecent Chate -\n• Fork repository Git\n• Query, Form builder\n• DNA Sequence alignment\n• Sanger sequencing\n• FASTA file format\nView all >\nFigma integration\nAttach/ drag and drop figma file\nand turn static ui to interactive\nreal-time project...\nAl\nGeting Started\nSend Beta Feedback\n& Projects\nAll Projects\nStarred\nPublished\nPac-Man Game\nCreated May 16 • Last message 2 minutes ago\nDuthlichol\nDNA Molecular Docker\nCreated Jan 02, 2023 • Last message a year ago\n$1225\n$1,230\ncana.petrova@email.com\nrachel.goldstein@perail.com\n2 Selected t: Add te group\n8 Create new group\n9 Send emad\n$1,230\nInvoice Management System\nCreated Jun 23 • Last message 23 days ago\nGradient Color Generator\nCreated Jan 01, 2023 • Last message a year ago\nAll project type v\n+ New project\n=\n• Published\nAurora Chatbot\nCreated Oct 10 • Last message 24 days ago",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c0fb1e8abbe072d828c7b9f1023438bf70e9fb3f4c761a12bfa25ea8e173b534"
+  }
+}

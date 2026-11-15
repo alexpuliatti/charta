@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46839649",
+  "type": "link",
+  "title": "Web Glass",
+  "description": "How we built a cross-browser glass effect for the web, and how it shapes a family of components.",
+  "category": "Writing",
+  "tags": [
+    "glass",
+    "css",
+    "web-rendering"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9eccacfdc033a15c733ca60f.webp",
+      "mimeType": "image/webp",
+      "alt": "Building Glass for the Web",
+      "role": "thumbnail",
+      "bytes": 6388,
+      "sha256": "9eccacfdc033a15c733ca60f95da609fa321aac8383a965f699a87762a418332",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjgzOTY0OS9vcmlnaW5hbF9kMDRkMGYwNjhiYTE0OWI3MjA3YjRkMjg0NDljMWU5NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d04d0f068ba149b7207b4d28449c1e95.png"
+    },
+    {
+      "path": "assets/preview-f1544a5d5278a35b8e7598a2.webp",
+      "mimeType": "image/webp",
+      "alt": "Building Glass for the Web",
+      "role": "preview",
+      "bytes": 139770,
+      "sha256": "f1544a5d5278a35b8e7598a2229400929f9955b9dfcb10e63e975ec61f2a9f5e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46839649/original_d04d0f068ba149b7207b4d28449c1e95.png",
+      "originalName": "d04d0f068ba149b7207b4d28449c1e95.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 970945,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-08T08:34:19.000Z",
+  "updatedAt": "2026-06-08T08:34:29.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://aave.com/design/building-glass-for-the-web",
+    "title": "Building Glass for the Web",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46839649,
+      "url": "https://www.are.na/block/46839649",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Building Glass for the Web",
+      "createdAt": "2026-06-08T08:34:19Z",
+      "updatedAt": "2026-06-08T08:34:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Building Glass for the Web",
+      "category": "Objects and materials",
+      "tags": [
+        "architecture",
+        "materials",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_47277659",
+      "reason": "Both explain browser rendering techniques for visual effects, using compositing/material treatments and SVG filter displacement respectively.",
+      "method": "curation-v1"
+    }
+  ]
+}

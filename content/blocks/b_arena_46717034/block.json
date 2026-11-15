@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46717034",
+  "type": "image",
+  "title": "Sculptural Metal",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "sculptural-metal",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8889c18d19829f3b2f6d46b0.png",
+      "mimeType": "image/png",
+      "alt": "Sculptural Metal",
+      "role": "original",
+      "bytes": 804857,
+      "sha256": "8889c18d19829f3b2f6d46b0f6a496f648c853cb98d277db0e79401a3c0c9a36",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46717034/original_0a5ac7b0c0854570f621898b72ff4aa7.png",
+      "originalName": "0a5ac7b0c0854570f621898b72ff4aa7.png"
+    },
+    {
+      "path": "assets/thumbnail-1ee35a2a7c4363204ba5ee1e.webp",
+      "mimeType": "image/webp",
+      "alt": "Sculptural Metal",
+      "role": "thumbnail",
+      "bytes": 3436,
+      "sha256": "1ee35a2a7c4363204ba5ee1ed1ef74a01dc4fc540bb979cdd12a35c8dab7fa25",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxNzAzNC9vcmlnaW5hbF8wYTVhYzdiMGMwODU0NTcwZjYyMTg5OGI3MmZmNGFhNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0a5ac7b0c0854570f621898b72ff4aa7.png"
+    },
+    {
+      "path": "assets/display-web-original-8889c18d19829f3b2f6d46b0-8889c18d19.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sculptural Metal",
+      "bytes": 33962,
+      "sha256": "efa07ac69dcdc60e1b41650192edeb8c2fd7bd825e5be5a7e888f3c177ada012",
+      "width": 1060,
+      "height": 740,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8889c18d19829f3b2f6d46b0.png",
+        "sourceSha256": "8889c18d19829f3b2f6d46b0f6a496f648c853cb98d277db0e79401a3c0c9a36",
+        "originalBytes": 804857,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T13:39:00.000Z",
+  "updatedAt": "2026-06-03T13:39:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46717034",
+    "title": "Screenshot 2026-05-14 at 11.56.47",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46717034,
+      "url": "https://www.are.na/block/46717034",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-05-14 at 11.56.47",
+      "createdAt": "2026-06-03T13:39:00Z",
+      "updatedAt": "2026-06-03T13:39:06Z",
+      "addedBy": {
+        "id": 480205,
+        "name": "aisha ahamed",
+        "slug": "aisha-ahamed"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-05-14 at 11.56.47",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sculptural Metal",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "efa07ac69dcdc60e1b41650192edeb8c2fd7bd825e5be5a7e888f3c177ada012"
+  }
+}

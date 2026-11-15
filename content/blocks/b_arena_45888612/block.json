@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888612",
+  "type": "image",
+  "title": "Tarot Gradients",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "tarot-gradients",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9f1d22514b596e2263bae0c5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Tarot Gradients",
+      "role": "original",
+      "bytes": 69410,
+      "sha256": "9f1d22514b596e2263bae0c5754fae6aa04bd024e840dc7aed2bb05d9df0a2f8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888612/original_a380aec3a29b0d04794a6c98ba645cbd.jpeg",
+      "originalName": "a380aec3a29b0d04794a6c98ba645cbd.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-64041ffd83987379f97153b2.webp",
+      "mimeType": "image/webp",
+      "alt": "Tarot Gradients",
+      "role": "thumbnail",
+      "bytes": 4130,
+      "sha256": "64041ffd83987379f97153b28f1e9cb243a988e73aa7e4a8afcbc34edd1f57aa",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYxMi9vcmlnaW5hbF9hMzgwYWVjM2EyOWIwZDA0Nzk0YTZjOThiYTY0NWNiZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a380aec3a29b0d04794a6c98ba645cbd.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-9f1d22514b596e2263bae0c5-9f1d22514b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tarot Gradients",
+      "bytes": 41450,
+      "sha256": "9a815ec37d878d205ba6ac049aabefac73f9ebbb4e35b07e2152f533db99b803",
+      "width": 1200,
+      "height": 598,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9f1d22514b596e2263bae0c5.jpg",
+        "sourceSha256": "9f1d22514b596e2263bae0c5754fae6aa04bd024e840dc7aed2bb05d9df0a2f8",
+        "originalBytes": 69410,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:53.000Z",
+  "updatedAt": "2026-05-06T12:24:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888612",
+    "title": "fdc12bc115e4bd00a7bc3803a062ee7c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888612,
+      "url": "https://www.are.na/block/45888612",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "fdc12bc115e4bd00a7bc3803a062ee7c.jpg",
+      "createdAt": "2026-05-06T12:23:53Z",
+      "updatedAt": "2026-05-06T12:24:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "fdc12bc115e4bd00a7bc3803a062ee7c.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tarot Gradients",
+    "text": "теплос\nГОРШКИ И КАШПО\nМАСКА ДЛЯ СНА\n«ХАЛАТ\nКОРЗИНА ДЛЯ ОДЕЖДЫ\nЗЕРКАЛО\nСУШИЛКА -\nПОКРЫВАЛО\nЧАСЫ.\nБЕРУШИ\nТУлЬ!\nтеплох\n«МЯЧ\nДАРТС\n• НОСКИ\nТЕРМОСІ\nВАРЕЖКИ\nПОЛЯРНЫЕ ОЧКИ\n«ШАПКА\nШАРФИК.\n•ШАХМАТЫ\nТЕННИСНЫЕ РАКЕТКИ\nНЕ ПРОСТО МАГАЗИН, А ПАРТНЕР\nтепло\nСВЕТИЛЬНИКИ!\nТАПОЧКИ-\nКОВЕР\nподушки\nПЛЮШЕВЫЙ ПЛЕДІ\nСВЕЧИ!\nТЕПЛЫЙ СВЕТ\nШТОРЫ!\nФОТОРАМКИ\nРОМА ДИФФУЗОР\nНЕ ПРОСТО МАГАЗИН, А ПАРТНЕР",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9a815ec37d878d205ba6ac049aabefac73f9ebbb4e35b07e2152f533db99b803"
+  }
+}

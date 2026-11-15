@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247919",
+  "type": "image",
+  "title": "Metal Pouches",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "metal-pouches",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8026831ec6ee401f38bfb602.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Metal Pouches",
+      "role": "original",
+      "bytes": 86647,
+      "sha256": "8026831ec6ee401f38bfb60251cf63861df51f5c3c3bbb7b30631e13ca2dfc00",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247919/original_a867f3c1452967f422800cab16433369.jpeg",
+      "originalName": "a867f3c1452967f422800cab16433369.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f5ebf457469bb003da725e8b.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Pouches",
+      "role": "thumbnail",
+      "bytes": 5306,
+      "sha256": "f5ebf457469bb003da725e8b4ceb1c5bb2e54e33d7d1902f087c007ece300caa",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkxOS9vcmlnaW5hbF9hODY3ZjNjMTQ1Mjk2N2Y0MjI4MDBjYWIxNjQzMzM2OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a867f3c1452967f422800cab16433369.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8026831ec6ee401f38bfb602-8026831ec6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Pouches",
+      "bytes": 42062,
+      "sha256": "dca8d00aab3b707a1acf6e91bc90b85180af5feda4de3d7709a186a3e3c28a07",
+      "width": 1200,
+      "height": 800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8026831ec6ee401f38bfb602.jpg",
+        "sourceSha256": "8026831ec6ee401f38bfb60251cf63861df51f5c3c3bbb7b30631e13ca2dfc00",
+        "originalBytes": 86647,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:29:52.000Z",
+  "updatedAt": "2026-06-23T14:29:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247919",
+    "title": "HFXbMRua8AI_oX8",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247919,
+      "url": "https://www.are.na/block/47247919",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HFXbMRua8AI_oX8",
+      "createdAt": "2026-06-23T14:29:52Z",
+      "updatedAt": "2026-06-23T14:29:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HFXbMRua8AI_oX8",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Pouches",
+    "text": "COECH\nROASTING\nThe packaging process is carried out immediately after the end of the technological cycle.\nDATE\n4. AUG: 20.32\n7 A.M\nLEGAT ROAST\nCOOL ARABIOA\nCOFFEE SEAN\nBLEND\n250g\nPROTECT TECHNOLOGY\nCoffee packooina is eode using Protect Technolcav. which provides a protected environment\nwithout oxygen access, ahich quarantees complete preservation of the high quality, aroma\nand taste of freshly roasted coffee.\nTORE\nOUR\nCTS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "dca8d00aab3b707a1acf6e91bc90b85180af5feda4de3d7709a186a3e3c28a07"
+  }
+}

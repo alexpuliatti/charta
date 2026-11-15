@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700992",
+  "type": "image",
+  "title": "Kiss Tomorrow",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "kiss-tomorrow",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5f3359beaafa20c4e8109c4e.png",
+      "mimeType": "image/png",
+      "alt": "Kiss Tomorrow",
+      "role": "original",
+      "bytes": 1122637,
+      "sha256": "5f3359beaafa20c4e8109c4eccae32913cb8b248d64220220ac920c70b4af460",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700992/original_95ec8c2b8873f30825b1cd0f44e98701.png",
+      "originalName": "95ec8c2b8873f30825b1cd0f44e98701.png"
+    },
+    {
+      "path": "assets/thumbnail-46bcd0eecbcaaa43d0abbcfa.webp",
+      "mimeType": "image/webp",
+      "alt": "Kiss Tomorrow",
+      "role": "thumbnail",
+      "bytes": 9876,
+      "sha256": "46bcd0eecbcaaa43d0abbcfabc4d52bc3abd57e46baf5688676570c2226d685f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk5Mi9vcmlnaW5hbF85NWVjOGMyYjg4NzNmMzA4MjViMWNkMGY0NGU5ODcwMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "95ec8c2b8873f30825b1cd0f44e98701.png"
+    },
+    {
+      "path": "assets/display-web-original-5f3359beaafa20c4e8109c4e-5f3359beaa.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Kiss Tomorrow",
+      "bytes": 75370,
+      "sha256": "9540f29fb1e24e3d11f7871fa918ebe8256d5c1acaee6394609f66130fceb5fd",
+      "width": 1018,
+      "height": 1286,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5f3359beaafa20c4e8109c4e.png",
+        "sourceSha256": "5f3359beaafa20c4e8109c4eccae32913cb8b248d64220220ac920c70b4af460",
+        "originalBytes": 1122637,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:59.000Z",
+  "updatedAt": "2026-07-08T14:58:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700992",
+    "title": "Screenshot 2023-09-12 alle 16.50.49",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700992,
+      "url": "https://www.are.na/block/47700992",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.50.49",
+      "createdAt": "2026-07-08T14:55:59Z",
+      "updatedAt": "2026-07-08T14:58:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.50.49",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Kiss Tomorrow",
+    "text": "MeCO\nKiss Tomorrow Good-bye\nRANDOM\nHOUSE\nA new novel by\nKiss\nHorace Me Coy\nTomorrow\nGood-bye",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9540f29fb1e24e3d11f7871fa918ebe8256d5c1acaee6394609f66130fceb5fd"
+  }
+}

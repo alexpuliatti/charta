@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340234",
+  "type": "image",
+  "title": "Folded Book",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "folded-book",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fb79925c9f7d4e4d6d07bca1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Folded Book",
+      "role": "original",
+      "bytes": 84102,
+      "sha256": "fb79925c9f7d4e4d6d07bca169b69829dc2754884eb2ce9a9d7321c5854935dc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340234/original_c3faa47bb6667e408a2531dfab4eb84b.jpg",
+      "originalName": "c3faa47bb6667e408a2531dfab4eb84b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-15b10fa24d16bd817755eba4.webp",
+      "mimeType": "image/webp",
+      "alt": "Folded Book",
+      "role": "thumbnail",
+      "bytes": 7716,
+      "sha256": "15b10fa24d16bd817755eba42178fdd7a62c0263d8ea89767b147c7f01839ab5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIzNC9vcmlnaW5hbF9jM2ZhYTQ3YmI2NjY3ZTQwOGEyNTMxZGZhYjRlYjg0Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c3faa47bb6667e408a2531dfab4eb84b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fb79925c9f7d4e4d6d07bca1-fb79925c9f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Folded Book",
+      "bytes": 25360,
+      "sha256": "d27115f64de10a9f0f1489259c2c38dc17bad5f40ea43dce64fddca9a2c13649",
+      "width": 516,
+      "height": 650,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fb79925c9f7d4e4d6d07bca1.jpg",
+        "sourceSha256": "fb79925c9f7d4e4d6d07bca169b69829dc2754884eb2ce9a9d7321c5854935dc",
+        "originalBytes": 84102,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:19.000Z",
+  "updatedAt": "2026-03-11T17:40:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340234",
+    "title": "149bef015323a949d1caf26be97a3601.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340234,
+      "url": "https://www.are.na/block/44340234",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "149bef015323a949d1caf26be97a3601.jpg",
+      "createdAt": "2026-03-11T17:40:19Z",
+      "updatedAt": "2026-03-11T17:40:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "149bef015323a949d1caf26be97a3601.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Folded Book",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d27115f64de10a9f0f1489259c2c38dc17bad5f40ea43dce64fddca9a2c13649"
+  }
+}

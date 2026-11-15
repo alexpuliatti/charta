@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787972",
+  "type": "image",
+  "title": "Curtained Study",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "curtained-study",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a7f52d2aa45e3df969374b78.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Curtained Study",
+      "role": "original",
+      "bytes": 373332,
+      "sha256": "a7f52d2aa45e3df969374b78399c57e55a59d28e8a0294944fab153f0e449c4d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787972/original_6d236db01e88799cd7ddc163351a64a2.jpg",
+      "originalName": "6d236db01e88799cd7ddc163351a64a2.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8857190e874c2ea2669f2487.webp",
+      "mimeType": "image/webp",
+      "alt": "Curtained Study",
+      "role": "thumbnail",
+      "bytes": 6980,
+      "sha256": "8857190e874c2ea2669f2487cae1a50cdb38bccb3334e9cc72f7f6047c36bcf9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk3Mi9vcmlnaW5hbF82ZDIzNmRiMDFlODg3OTljZDdkZGMxNjMzNTFhNjRhMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6d236db01e88799cd7ddc163351a64a2.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a7f52d2aa45e3df969374b78-a7f52d2aa4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Curtained Study",
+      "bytes": 103326,
+      "sha256": "a232078e172f4b804f49749d9035533742cd8683cc9b1546f82891ccebffa37b",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a7f52d2aa45e3df969374b78.jpg",
+        "sourceSha256": "a7f52d2aa45e3df969374b78399c57e55a59d28e8a0294944fab153f0e449c4d",
+        "originalBytes": 373332,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:07:59.000Z",
+  "updatedAt": "2025-11-02T16:08:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787972",
+    "title": "gemellineeee-20250407_093355-160409384.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787972,
+      "url": "https://www.are.na/block/40787972",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gemellineeee-20250407_093355-160409384.jpg",
+      "createdAt": "2025-11-02T16:07:59Z",
+      "updatedAt": "2025-11-02T16:08:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gemellineeee-20250407_093355-160409384.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Curtained Study",
+    "text": "15:18",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a232078e172f4b804f49749d9035533742cd8683cc9b1546f82891ccebffa37b"
+  }
+}

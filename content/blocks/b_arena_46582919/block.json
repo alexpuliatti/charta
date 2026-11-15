@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582919",
+  "type": "image",
+  "title": "Settings Popovers",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "settings-popovers",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b3af27377b7e15d4c4b17dd9.png",
+      "mimeType": "image/png",
+      "alt": "Settings Popovers",
+      "role": "original",
+      "bytes": 397539,
+      "sha256": "b3af27377b7e15d4c4b17dd9bd00b53551fbe76ffc4e7b3897ac69d2bacde956",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582919/original_1a0c4a7975e017c44e714303a21aec97.png",
+      "originalName": "1a0c4a7975e017c44e714303a21aec97.png"
+    },
+    {
+      "path": "assets/thumbnail-e69f414807cb7b72d8731f78.webp",
+      "mimeType": "image/webp",
+      "alt": "Settings Popovers",
+      "role": "thumbnail",
+      "bytes": 4692,
+      "sha256": "e69f414807cb7b72d8731f78a047b571a7f9fa10a3d1af6eda10b8604833f439",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkxOS9vcmlnaW5hbF8xYTBjNGE3OTc1ZTAxN2M0NGU3MTQzMDNhMjFhZWM5Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1a0c4a7975e017c44e714303a21aec97.png"
+    },
+    {
+      "path": "assets/display-web-original-b3af27377b7e15d4c4b17dd9-b3af27377b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Settings Popovers",
+      "bytes": 49066,
+      "sha256": "176dfcc38693894c7abad2bd4e94bfbef75724fe1e11350f4d35640990495f3a",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b3af27377b7e15d4c4b17dd9.png",
+        "sourceSha256": "b3af27377b7e15d4c4b17dd9bd00b53551fbe76ffc4e7b3897ac69d2bacde956",
+        "originalBytes": 397539,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:31.000Z",
+  "updatedAt": "2026-05-29T08:53:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582919",
+    "title": "frame-2147223916",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582919,
+      "url": "https://www.are.na/block/46582919",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "frame-2147223916",
+      "createdAt": "2026-05-29T08:53:31Z",
+      "updatedAt": "2026-05-29T08:53:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "frame-2147223916",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Settings Popovers",
+    "text": "I Generate Map\nRoutes\n4\nStations per Route\n6\nStyle\n• •\nTrain Style\nTrack Style\n-\nMap Background\n#\nIII Generate\n& Random\nThis will replace the current network.\nStations can be edited after generation.\n• Draw Route\nName\nLine 4\nColor\nLine 4\nDraw Route\nClick on the canvas to place stations.\nPress Enter or double-click to finish.\n~ Export Map\nStation Labels\nPNG Scale\nBackground\n1x\n2x\n3x\nExport PNG\nSVG File\nCopy",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "176dfcc38693894c7abad2bd4e94bfbef75724fe1e11350f4d35640990495f3a"
+  }
+}

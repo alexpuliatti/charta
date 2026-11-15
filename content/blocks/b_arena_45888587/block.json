@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888587",
+  "type": "image",
+  "title": "Trattoria Lettering",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "trattoria-lettering",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4aafa3ccf167b7d5aa4cbdd9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Trattoria Lettering",
+      "role": "original",
+      "bytes": 45111,
+      "sha256": "4aafa3ccf167b7d5aa4cbdd9288c289636f4dd63516dd4fb8a35ed33643c864a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888587/original_5084476177ff8f525a6bf04831e3b5cf.jpeg",
+      "originalName": "5084476177ff8f525a6bf04831e3b5cf.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-af9fcf532a755fc15b07b8b8.webp",
+      "mimeType": "image/webp",
+      "alt": "Trattoria Lettering",
+      "role": "thumbnail",
+      "bytes": 9336,
+      "sha256": "af9fcf532a755fc15b07b8b8b91be7464a72eea6c4b00f804c64f25e22901b54",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU4Ny9vcmlnaW5hbF81MDg0NDc2MTc3ZmY4ZjUyNWE2YmYwNDgzMWUzYjVjZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5084476177ff8f525a6bf04831e3b5cf.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-4aafa3ccf167b7d5aa4cbdd9-4aafa3ccf1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Trattoria Lettering",
+      "bytes": 29272,
+      "sha256": "f146e5994386fc7c56cb7c7a4e7ea1b0bb68d2ab9caabadc846e08f59c98dea1",
+      "width": 731,
+      "height": 488,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4aafa3ccf167b7d5aa4cbdd9.jpg",
+        "sourceSha256": "4aafa3ccf167b7d5aa4cbdd9288c289636f4dd63516dd4fb8a35ed33643c864a",
+        "originalBytes": 45111,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:05.000Z",
+  "updatedAt": "2026-05-06T12:23:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888587",
+    "title": "9635736729eb9cd62b42a4a00f33c3a6.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888587,
+      "url": "https://www.are.na/block/45888587",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "9635736729eb9cd62b42a4a00f33c3a6.jpg",
+      "createdAt": "2026-05-06T12:23:05Z",
+      "updatedAt": "2026-05-06T12:23:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "9635736729eb9cd62b42a4a00f33c3a6.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Trattoria Lettering",
+    "text": "Iralloria sorelle tironi\nCUCINA SCELTA\nTRATTAMENTO FAMIGLIARE\nSALA INTERNA\nGIARDINO ESTIVO\nlilano\nVIA FIORI CHIARI, 20\n80.81.53",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f146e5994386fc7c56cb7c7a4e7ea1b0bb68d2ab9caabadc846e08f59c98dea1"
+  }
+}

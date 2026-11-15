@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247069",
+  "type": "image",
+  "title": "Metal Speaker",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "metal-speaker",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6cd4699822983d0cdcedffd9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Metal Speaker",
+      "role": "original",
+      "bytes": 262696,
+      "sha256": "6cd4699822983d0cdcedffd94797680674a651bba4f914b72fbaf1c9f3d353cc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247069/original_955abebe764927e5663d793693c73350.jpg",
+      "originalName": "955abebe764927e5663d793693c73350.jpg"
+    },
+    {
+      "path": "assets/thumbnail-fdd484a9dda9ffe809f76b2f.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Speaker",
+      "role": "thumbnail",
+      "bytes": 10258,
+      "sha256": "fdd484a9dda9ffe809f76b2ff6f707da5b6bf3ca933b82f0bd2cb0757b744e1b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA2OS9vcmlnaW5hbF85NTVhYmViZTc2NDkyN2U1NjYzZDc5MzY5M2M3MzM1MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "955abebe764927e5663d793693c73350.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6cd4699822983d0cdcedffd9-6cd4699822.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Speaker",
+      "bytes": 231892,
+      "sha256": "e227ad66936867de0898f5ff6146467e144e2eb74d5b98f60ecc59d44425359c",
+      "width": 1200,
+      "height": 1600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6cd4699822983d0cdcedffd9.jpg",
+        "sourceSha256": "6cd4699822983d0cdcedffd94797680674a651bba4f914b72fbaf1c9f3d353cc",
+        "originalBytes": 262696,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:31:17.000Z",
+  "updatedAt": "2026-04-23T09:52:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247069",
+    "title": "8e975f2a169d4874930c04fff0b8baee.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247069,
+      "url": "https://www.are.na/block/44247069",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "8e975f2a169d4874930c04fff0b8baee.jpg",
+      "createdAt": "2026-03-08T22:31:17Z",
+      "updatedAt": "2026-04-23T09:52:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "8e975f2a169d4874930c04fff0b8baee.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Speaker",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e227ad66936867de0898f5ff6146467e144e2eb74d5b98f60ecc59d44425359c"
+  }
+}

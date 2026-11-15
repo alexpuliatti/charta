@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700991",
+  "type": "image",
+  "title": "Body Library",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "body-library",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f17aa96d727f6204ca5f24a9.png",
+      "mimeType": "image/png",
+      "alt": "Body Library",
+      "role": "original",
+      "bytes": 4253822,
+      "sha256": "f17aa96d727f6204ca5f24a98940acb1525024e6c480385fd5e2f8ab0e5e2a92",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700991/original_9192e8000777d9f37bb0fdca16ceb892.png",
+      "originalName": "9192e8000777d9f37bb0fdca16ceb892.png"
+    },
+    {
+      "path": "assets/thumbnail-2a7662faf7086d650849c3bb.webp",
+      "mimeType": "image/webp",
+      "alt": "Body Library",
+      "role": "thumbnail",
+      "bytes": 12842,
+      "sha256": "2a7662faf7086d650849c3bb086ce88f04641b3095b1bd03a05709618daf8fdf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk5MS9vcmlnaW5hbF85MTkyZTgwMDA3NzdkOWYzN2JiMGZkY2ExNmNlYjg5Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9192e8000777d9f37bb0fdca16ceb892.png"
+    },
+    {
+      "path": "assets/display-web-original-f17aa96d727f6204ca5f24a9-f17aa96d72.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Body Library",
+      "bytes": 196870,
+      "sha256": "aa42c2e360527d8c1520c53baa9a1dd1c8bda4327cb5b7dcfebc4300d0ae6297",
+      "width": 2000,
+      "height": 1061,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f17aa96d727f6204ca5f24a9.png",
+        "sourceSha256": "f17aa96d727f6204ca5f24a98940acb1525024e6c480385fd5e2f8ab0e5e2a92",
+        "originalBytes": 4253822,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:58.000Z",
+  "updatedAt": "2026-07-08T14:56:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700991",
+    "title": "Screenshot 2023-09-12 alle 16.50.08",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700991,
+      "url": "https://www.are.na/block/47700991",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.50.08",
+      "createdAt": "2026-07-08T14:55:58Z",
+      "updatedAt": "2026-07-08T14:56:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.50.08",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Body Library",
+    "text": "Also by\nAGATHA\nCHRISTIE\nNor M?\n\"Here is excellent entertain-\nment with a pretty puzzle\nfor any who take their fun\nseriously.\"\nSUNDAY TIMES\nEVIL UNDER THE\nSUN\n\"Mrs. Christie is even more\ningenious than usual in her\ndiscovery of new fool-proof\nmethods of murder.\"\nSPECTATOR\nONE, TWO,\nBUCKLE MY SHOE\n\"Mrs. Christie's skill is that\nof a conjuror: her charac-\nters alone would make a\nbook.\"\nSKETCH\nTHE\nCRIME CLUB\nTHIS trade-mark, in the minds of discriminating readers,\nhas long been identified with the best in detective\nfiction. For many years the Crime Club has been steadily\nsupplying an avid and ever increasing public. Each month\nthe Crime Club publishes one selected book, and two\nothers, under the imprint of the gunman, for the enter-\ntainment of detection enthusiasts. A glance at the partial\nlist of Crime Club authors below will show that not\nonly is the Crime Club unusual for its strong list of\nestablished authors, but that it also, more than any\nother organisation, works steadily to develop new and\nworth-while writers. Crime Club books are not mere\nthrillers, they are restricted to works in which there\nis a definite crime problem, an honest detective process,\nwith a credible and logical solution.\nx\nAGATHA CHRISTIE\nNGAIO MARSH\nRUPERT PENNY\nLESLIE FORD\nG. D. H. & M. COLE\nANTHONY ABBOT\nMILES BURTON\nJOHN RHODE\nM. G. EBERHART\nREX STOUT\nANTHONY GILBERT\nHERBERT ADAMS\nE. C. R. LORAC\nNICHOLAS BLAKE\nTHE\nBODY\nIN THE\nLIBRARY\nAGATHA\nCHRISTIE\nTHE\nCRIME\nCLUB\nДВНАНИ\nby\nAGATHA\nCHRISTIE\nCOLONEL and Mrs. Bantry\nhad always believed that\n\"a body in the library\" only\nhappened in books-until the\nday when a body was found\nin their own library! Whose\nbody was it? Who placed it\nthere?\nWhy should it be\nfound in the library of Gos-\nsington Hall?\nThat gentle\nelderly spinster, Miss Marple\n(whom\nreaders\nof Agatha\nChristie will remember) was\nfaced with all these questions.\nFollowing the trail from the\nquiet village\nof St. Mary\nMead to a fashionable seaside\nhotel, she eventually found\nthe answer.\nHow did she\nmanage it? Well, in her own\nwords: \"It reminded me of\nTommy Bond and our new\nschoolmistress. She went to\nwind up the clock and a frog\njumped out!\"",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "aa42c2e360527d8c1520c53baa9a1dd1c8bda4327cb5b7dcfebc4300d0ae6297"
+  }
+}

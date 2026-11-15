@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47784743",
+  "type": "link",
+  "title": "Dither Kit",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "dithering",
+    "charts",
+    "components"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-16a31ae3f4d806ea24f3168d.webp",
+      "mimeType": "image/webp",
+      "alt": "Tripwire",
+      "role": "thumbnail",
+      "bytes": 352,
+      "sha256": "16a31ae3f4d806ea24f3168dbbdb44496428cad21195529ee59e2a5754c4cff5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Nzc4NDc0My9vcmlnaW5hbF9lNDgxMmU4NmE0ZGZmYzcwZjkzOGE0YTQzOTM2NjFlYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e4812e86a4dffc70f938a4a4393661eb.png"
+    },
+    {
+      "path": "assets/preview-3e4a5fdde22861443687d857.webp",
+      "mimeType": "image/webp",
+      "alt": "Tripwire",
+      "role": "preview",
+      "bytes": 320,
+      "sha256": "3e4a5fdde22861443687d857aa36ef61f8722fe80ce077ae57e0f5eb4590fb99",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47784743/original_e4812e86a4dffc70f938a4a4393661eb.png",
+      "originalName": "e4812e86a4dffc70f938a4a4393661eb.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 24863,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-11T11:26:42.000Z",
+  "updatedAt": "2026-07-11T11:26:48.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title."
+  },
+  "source": {
+    "url": "https://www.tripwire.sh/dither-kit",
+    "title": "Tripwire",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47784743,
+      "url": "https://www.are.na/block/47784743",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Tripwire",
+      "createdAt": "2026-07-11T11:26:42Z",
+      "updatedAt": "2026-07-11T11:26:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.tripwire.sh/dither-kit",
+        "finding": "Official linked page identifies dither-kit charts, avatars, buttons and gradient components."
+      }
+    ],
+    "original": {
+      "title": "Tripwire",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

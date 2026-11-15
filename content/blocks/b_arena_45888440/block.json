@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888440",
+  "type": "image",
+  "title": "Blurred Portrait",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "blurred-portrait",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c4f22394634da8e774cb9814.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blurred Portrait",
+      "role": "original",
+      "bytes": 77754,
+      "sha256": "c4f22394634da8e774cb981414dcec2d65d50ebcab0a584509f798acc75bffac",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888440/original_daa5a6248476692600c2532cb69cee3b.jpeg",
+      "originalName": "daa5a6248476692600c2532cb69cee3b.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d8ffaf41d2d49ab63b5e9998.webp",
+      "mimeType": "image/webp",
+      "alt": "Blurred Portrait",
+      "role": "thumbnail",
+      "bytes": 2904,
+      "sha256": "d8ffaf41d2d49ab63b5e99984f8e5ab6434202ef732d7cb698de79f7f1fd14b5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0MC9vcmlnaW5hbF9kYWE1YTYyNDg0NzY2OTI2MDBjMjUzMmNiNjljZWUzYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "daa5a6248476692600c2532cb69cee3b.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c4f22394634da8e774cb9814-c4f2239463.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blurred Portrait",
+      "bytes": 36586,
+      "sha256": "ed9843ce6f9e6be3a987a2b9ef0cb276fcdd179e325b39429900e41bedf08917",
+      "width": 736,
+      "height": 1104,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c4f22394634da8e774cb9814.jpg",
+        "sourceSha256": "c4f22394634da8e774cb981414dcec2d65d50ebcab0a584509f798acc75bffac",
+        "originalBytes": 77754,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:16:55.000Z",
+  "updatedAt": "2026-05-06T12:17:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888440",
+    "title": "hefwvh4baaa_7wa.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888440,
+      "url": "https://www.are.na/block/45888440",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hefwvh4baaa_7wa.jpeg",
+      "createdAt": "2026-05-06T12:16:55Z",
+      "updatedAt": "2026-05-06T12:17:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hefwvh4baaa_7wa.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blurred Portrait",
+    "text": "ор. 25. по. 5\n\"WELRE MINION'- MIKHALE HANAKE\nVEIT HEIDUSCHKA,\nMARGARET MENEGOZ\nSTEFAN ARNDT,\nCHRISTOPHER GRANTER-DEFERRE, MICHAEL KATZ,\nOLIVIER PERE\nModerne\nPapura,\nFrancoise Clevel, Gloria\nLaurence Vendroux\nAVEC*\nConge i Will am Mans Viviana Base Rudel Meli\nGeorg Friedrich, Cornelle\nCongden,\nRudolt Melihar,\nSuzanne Lothar,\nMichael\nSchottenberg, Dieter\nbere, Dieter Berner, UDO Samel, Anna Sigalevich, Annemarie Schleinzez",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ed9843ce6f9e6be3a987a2b9ef0cb276fcdd179e325b39429900e41bedf08917"
+  }
+}

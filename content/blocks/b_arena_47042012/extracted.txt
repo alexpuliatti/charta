@@ -1,0 +1,461 @@
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+Expanding Neurotechnology to Consumer Products
+David A. Markowitz*1, Juan Benet1, Jacques Carolan2, Eli Dourado3, Thomas Kalil4, Amy
+Kruse5, Adam Marblestone6, Patrick Mineault7, Joanne Zichen Peng7, and Sean Escola*†1
+1Protocol Labs, 2ARIA, 3Astera, 4Renaissance Philanthropy, 5Satori Neuro, 6Convergent Research, 7Amaranth
+Foundation
+Executive Summary
+The neurotechnology field’s immediate focus must remain on developing clinical therapies to restore
+function and alleviate suffering. However, achieving the technology’s full potential to improve lives
+globally requires a deliberate path from this essential clinical foundation into a broader consumer market.
+To successfully bridge this chasm, this roadmap outlines how consumer access can only be unlocked
+through the non-negotiable guardrails of clinical utility, rigorous and transparent regulatory approval, and
+uncompromising patient trust.
+The 5-year vision is to establish a viable consumer neurotechnology ecosystem grounded in clinical
+validation. This requires developing credible "dual-benefit" technologies that serve both therapeutic patient
+needs and future consumer demand. To fund this transition, early-stage consumer demand will act as a
+financial bridge, where a small cohort of privately funded users de-risks new applications and provides
+the vital capital necessary to make clinical platforms widely accessible. Responsibly governed neural data
+can strengthen this bridge by enabling multiple high-value applications, from targeted neuromodulation
+and improved diagnostics to surgical planning, assistive interfaces, and AI. These broader partnerships can
+attract new R&D resources, accelerate clinical maturation, and expand the path to responsible consumer
+impact.
+To implement this strategy, this document offers specific, actionable steps for the neurotechnology community’s key stakeholders:
+For Investors... For Founders... For Policymakers...
+This document provides a framework
+for de-risking the consumer transition
+and evaluating the long-term market po-
+tential of neurotech ventures. It high-
+lights how targeted investments in dual-
+benefit use cases, market mapping, and
+non-reimbursed, high-margin consumer
+business models can expand the total ad-
+dressable market while preserving the
+field’s necessary clinical focus.
+This roadmap offers a guide for navigat-
+ing the strategic tension between near-
+term clinical milestones and a long-term
+consumer vision. It presents a strat-
+egy for building option value through
+funded dual-benefit demonstrations and
+academic add-on studies on approved
+platforms, allowing companies to main-
+tain their clinical critical path while re-
+taining a credible path to the consumer
+market.
+This document defines the evidence,
+workflow, and regulatory innovations re-
+quired to safely and responsibly transi-
+tion breakthrough medical devices into
+tools for public benefit. It provides a
+blueprint for fostering an innovation
+ecosystem that prioritizes safety, draw-
+ing from regulatory precedents, to in-
+form a new, appropriate framework for
+consumer neurotechnology.
+*Corresponding authors: david.markowitz@protocol.ai, sean.escola@protocol.ai
+†We thank the following experts for their insights and feedback in the drafting of these roadmaps:Matt Angle, Edward Chang,
+Milan Cvitkovic, Nita Farahany, Marcus Gerhardt, Vikash Gilja, Ilan Gur, Max Hodak, Michael Mager, Alan Mardinly, Craig Mermel,
+Sumner Norman, Tom Oxley, Jacob Robinson, Benjamin Rapoport, Joshua Rosenow, Philip Sabes, Mikhail Shapiro, Sameer Sheth, Sunil
+Sheth, Florian Solzbacher, Emma Zhou
+1
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+1 Beyond Treatment and Toward Human Flourishing
+The mission of clinical neurotechnology companies is noble: to develop therapies that restore movement,
+communication, and brain health. Deep brain stimulators (DBS), for example, have become an accepted
+therapy for disorders like Parkinson’s, with over 200,000 implants worldwide alleviating symptoms for
+patients.[1, 2] This clinical work is the foundation on which the future of the field will be built. Yet, while
+clinical healing is the necessary first horizon, to confine the ambition of neurotechnology to the clinic would
+leave its greatest potential for human flourishing untapped. The ultimate promise of neurotechnology lies
+not only in healing the sick but also in empowering the healthy.
+One of the most compelling cases for consumer neurotechnology lies in providing precise, effective, and
+safe solutions to deeply human needs that are currently met by crude, systemic, and side-effect-laden tools:
+chemicals. Humans already spend hundreds of billions of dollars annually seeking to modulate their own
+brain states. Examples include:
+• Precision Relaxation and Focus:Consumers use chemical stimulants and relaxants to manage their
+daily lives. The U.S. caffeinated beverage market, a tool for focus, was valued at approximately $80B in
+2025.[3] The U.S. alcoholic beverage market, a tool for relaxation, exceeded $350B in 2025.[4] These are
+systemic interventions, prone to abuse, with myriad undesirable side effects.
+• Precision Sleep:The desire for "sleep on demand" is a massive, unsolved problem. Consumers spend
+vast sums on chemical sleep aids, which act systemically and can create long-term dependency. The
+global sleep aids market is valued at >$80B for 2025.[5]
+Neurotechnology creates the opportunity to mimic the desired effects of these and other chemical
+interventions (focus, calm, restorative sleep, etc.) with precision, on-demand, and without the risks of
+systemic chemical tools. The stakes, therefore, are not about creating new consumer desires. They’re about
+capturing a significant portion of the half-trillion-dollar-plus annual market that consumers already spend
+on imprecise tools for brain state modulation.
+From this foundation, more ambitious applications may eventually become possible, including closed-
+loop tools that support learning, richer affective computing, and higher-bandwidth interaction with consumer
+technologies such as phones, computers, and electronic assistants. These possibilities remain longer-horizon
+applications, outside the core five-year roadmap presented here, and should not move toward consumer
+deployment until they are supported by strong evidence, robust consent, user control, and clear governance.
+Nevertheless, responsibly extending neurotechnology from clinical restoration toward broader human
+flourishing represents the field’s greatest economic and societal opportunity.
+2
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+2 Today’s Landscape: Clinical Proving Ground and Consumer Horizon
+To build a viable path to a consumer market, the neurotechnology field must first undertake a sober assess-
+ment of the current landscape. Today’s environment is defined by two approaches: non-invasive consumer
+devices are achieving market penetration but lack capability, while higher-capability invasive devices are
+confined to clinical trials due to their risk profile.
+On the non-invasive front, the consumer transition is already beginning. Meta’s "Neural Band," for
+example, is bundled with its Ray-Ban smart glasses and uses electromyography (EMG) from the wrist to
+provide subtle, low-bandwidth control for augmented reality interfaces.[6] Similarly, electroencephalography
+(EEG) systems have long been used for non-invasive brain-computer interfaces (BCI), most notably in
+P300 "speller" applications that allow users to communicate by selecting on-screen targets.[7] While these
+applications can feel magical to the user, non-invasive devices have yet to deliver the life-changing capabilities
+that will one day define the consumer market.
+Simultaneously, high-bandwidth invasive BCIs are demonstrating transformative user interactions and
+improvements in mental health and performance, but remain confined to clinical settings. Clinical trials have
+successfully used high-channel-count implants to restore communication and speech in patients with severe
+paralysis, by reading and decoding neural signals in real-time with high accuracy.[8, 9] Likewise, implantable
+devices are being used in clinical trials to modulate brain states to treat mood disorders.[10, 11, 12] While
+it’s not a massive conceptual leap from clinical brain state modulation to on-demand consumer brain state
+modulation (as contemplated in the previous section), there is no established regulatory path linking one to
+the other..
+Box 1: The Hearing Aid Precedent
+The challenge of transitioning a regulated medical device to a consumer category is not without precedent.
+The most important regulatory and market playbook for the neurotech field is the recent history of the
+hearing aid. For decades, hearing aids were Class I and II medical devices, available only through licensed
+professionals. On August 17, 2022, the U.S. FDA issued a final rule that created an entirely new regulatory
+category for over-the-counter (OTC) hearing aids.[13] This rule, which took effect in October 2022, was
+designed to increase access and affordability for adults with perceived mild-to-moderate hearing loss. This
+regulatory shift did two crucial things: it "unbundled" the device from the professional service, and it allowed
+for consumer-led sales in retail stores and online. This coincided with a technological and social convergence:
+mass-market consumer electronics, led by Apple’s AirPods, integrated hearing-assistive functionality (like
+Conversation Boost and Active Noise Cancellation) and, critically, normalized the sight of in-ear compute
+devices in public. This trend culminated in 2024, when the FDA authorized Apple’s AirPods Pro as the first
+software-based OTC hearing aid, perfectly illustrating the med-tech-to-consumer-electronics pipeline.[14]
+This convergence of med-tech, consumer tech, and social change is the blueprint. It demonstrates that the
+FDA is willing to create novel regulatory frameworks to safely expand consumer access. For neurotechnology,
+this precedent provides a clear objective for policymakers: not deregulation, but rather the creation of a
+new, appropriate regulatory category for consumer neurotechnology, grounded in this successful model.
+The challenge will be defining regulations that ensure safe implantation procedures, without impeding the
+consumer neurotechnology ecosystem from scaling to support millions of users.
+3
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+Encouragingly, there are signs of an accelerating convergence of clinical neurotech and consumer tech. A
+2025 demonstration showed a paralyzed person using a Synchron implant with NVIDIA AI hardware and an
+Apple Vision Pro to control home devices by thought.[15] Overall, the trend toward less invasive devices like
+intravascular stents is critical for clinical access but may not currently be ready to deliver the data bandwidth
+required for transformative consumer applications. The ultimate consumer goal is a minimally-invasive,
+high-capacity interface with ear-piercing, tattoo, or, at worst, LASIK levels of risk.
+Consumer adoption will still depend on whether interface installation and removal can be made safe,
+simple, and reversible enough to support responsible scale. The near-term priority is therefore to generate
+transparent evidence that procedures can mature into low-burden clinical workflows. Public reporting
+of installation and removal room time, cost, serious adverse events, and removal outcomes would give
+regulators, clinicians, partners, and future users a concrete basis for assessing risk and progress.
+3 5-Year Vision: A Viable Consumer Neurotechnology Ecosystem
+The principal five-year goal of this roadmap is not mass-market adoption, which will take longer to achieve.
+The goal is to create greater access to neurotechnology by the creation of a viable, functioning consumer
+neurotechnology ecosystem. Success in 2030 is defined by the existence of the critical components, proof
+points, and pathways that make a mass-market future possible. This ideal state will be characterized by the
+following measurable milestones:
+• Clinical and Platform Validation.As a non-negotiable foundation, the field will have achieved at
+least two FDA approvals for high-bandwidth neurotechnology platforms. A critical mass of at least
+10,000 patients will have been implanted, establishing a strong safety baseline and providing the initial
+platform for exploring dual-use applications.
+• The "Roadster" Moment.To actively subsidize the manufacturing cost curve and accelerate innovation
+for future clinical patients, the first viable, self-funded research models will have emerged. Drawing in-
+spiration from the "Tesla Roadster" strategy, a cohort of at least 50 individuals will have paid significant
+sums out-of-pocket for an FDA-approved device, utilized within privately funded, investigator-initiated
+expanded-indication trials to document quality-of-life improvements. To ensure equitable access to
+medical care, this high-end consumer model must be strictly applied to non-therapeutic, exploratory
+quality-of-life and performance studies (e.g. precision focus or high-bandwidth consumer tech interac-
+tivity), rather than core medical interventions intended for severe neurological deficits. The purpose of
+this model is not to create a privileged shortcut around clinical access, but to test whether self-funded,
+tightly governed cohorts can expand capacity, generate public evidence, and produce a measurable
+patient-access dividend.
+• Demonstrated "Dual Benefit" Wedges.The bridge between clinical and consumer applications will no
+longer be hypothetical. At least 2-3 credible patient and consumer “dual benefit” wedges will have been
+demonstrated and publicly disseminated. Crucially, to maintain public trust and ethical integrity, these
+demonstrations must establish the clinical therapeutic value as the primary, undeniable achievement.
+The consumer application must be positioned as a secondary, downstream extension of that success -
+unlocked only after core clinical safety is established - ensuring patients are the primary beneficiaries of
+the technology, not merely a testing ground for consumer features. For example, a speech BCI clinically
+4
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+validated for locked-in syndrome might also be demonstrated as a platform for high-speed, silent
+interaction with an electronic assistant.
+• Mainstream Tech Integration & High-Value Data Applications.At least two strategic partnerships
+with major technology companies, healthcare organizations, or research consortia will be active. These
+partnerships will validate responsibly governed neural data as a high-value asset for multiple applica-
+tions, including targeted neuromodulation protocols, improved diagnostics, surgical planning, assistive
+interfaces, adaptive consumer software, and AI models of human cognition. By broadening the set of
+clinically and commercially valuable uses for neural data, the field can attract new R&D resources, scale
+evidence generation, and accelerate therapeutic platform maturation while preserving patient trust.
+• A Clear Consumer Opportunity Map.The field will have a living ”Neurotech Gap Map” that identifies
+the consumer applications with the strongest unmet need, market potential, and technical requirements.
+This map will help founders, investors, researchers, and funders prioritize dual-benefit R&D rather
+than scatter effort across speculative use cases.
+• Mature, Rapid Workflows.The procedures surrounding interface installation will be mature. Installa-
+tion and, critically, removal will be routine, low-burden, reversible workflows. Clinical centers will
+have established rapid protocols, with procedure room times of less than 60 minutes for installation
+and less than 30 minutes for removal.
+Box 2: Patient Access and Non-Displacement Guardrails
+Patients are the primary constituency for this roadmap. The ethical case for consumer expansion is that it can
+make BCI cheaper, more accessible, faster to deploy, and less invasive by creating commercial incentives to
+improve manufacturing scale, procedural workflows, reversibility, software tooling, and long-term safety
+evidence. This case holds only if consumer demand expands clinical access rather than competing with
+it. Accordingly, "Roadster"-style cohorts should be governed by a non-displacement principle: no non-
+therapeutic or augmentation study should consume devices, clinical slots, surgical/interventional capacity,
+company support, or trial infrastructure needed by clinically indicated patients. Where capacity is scarce,
+clinical patients receive priority and non-therapeutic enrollment pauses or is capped. Privately funded
+cohorts should be permitted only when they create incremental capacity, such as dedicated manufacturing
+runs, new center training, workflow standardization, removal-protocol development, or patient-access
+funds. Programs should publicly report clinical and non-therapeutic implant volumes, wait times, removal
+outcomes, serious adverse events, and the share of consumer-derived funding reinvested into patient access.
+5
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+4 Roadmap: Building A Bridge to the Consumer Market
+Achieving the 2030 ideal state requires a focused, actionable plan that builds consumer-market option value
+without distracting companies from clinical milestones. Because no single company can fully validate the
+consumer frontier alone, the following initiatives emphasize high-leverage evidence generation: validated
+dual-benefit use cases, academic-industry exploration pathways, reversible workflow maturation, and a
+clearer map of the consumer opportunity space. Each initiative should be structured to add evidence, funding,
+or market clarity around the clinical critical path rather than impose new platform-building obligations on
+companies.
+Table 1: Five-Year Action Roadmap. A summary of the key challenges facing the clinical-to-consumer
+transition and the actions required to address them, with measurable metrics to track progress over the next
+five years.
+Challenge Needed Actions & Success Metrics
+Use Case Vacuum
+Lack of a compelling, validated
+consumer application to create
+market pull and justify the transi-
+tion beyond clinical applications.
+Capability Program:Launch and fund prize and grant calls,
+potentially with government partners (e.g. ARPA-H), for 3-5
+targeted R&D projects. These programs will fund the demonstra-
+tion of ”dual-benefit” applications that serve both a patient need
+and a clear consumer desire (e.g. precision focus, sleep modulation).
+Metrics: ≥3 capability briefs are published and the results
+replicated at a second, independent site. At least one demonstration
+captures positive public imagination, satisfying the need for clear
+targets for consumer use cases.
+Innovation Silos
+Valuable R&D on new capa-
+bilities is de-scoped by the in-
+tense pressure of clinical mile-
+stones. Academic creativity
+is disconnected from industrial-
+grade platforms.
+Exploration Bridge:Establish a non-dilutive funding mechanism
+that enables approved academic researchers to run add-on experi-
+ments on consented volunteers already participating in industrial
+clinical trials. This program will provide appropriate platform
+interfaces, operational support, and template IP/data-sharing
+agreements to minimize friction.
+Metrics: ≥5 academic add-on studies are successfully run
+via the Exploration Bridge, with their outputs and data shared.
+The ”Bridge” becomes a routine, trusted pathway for low-cost
+prototyping of new capabilities on existing, approved BCI
+platforms.
+Continued on next page
+6
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+Table 1 – Continued from previous page
+Challenge Needed Actions & Success Metrics
+The Funding Gap For Scale
+Transitioning from clinical plat-
+forms to scaled consumer ecosys-
+tems requires capital that far ex-
+ceeds traditional med-tech ven-
+ture funding.
+High-Value Neural Data Applications:Launch targeted grants,
+prizes, and partnership programs to demonstrate that responsibly
+governed neural data from clinically validated platforms can
+support multiple high-value applications, including improved
+diagnostics, targeted neuromodulation protocols, surgical planning,
+assistive interfaces, adaptive consumer software, and AI models of
+human cognition.
+Metrics:At least 3 published demonstrations show measur-
+able value from neural data across distinct application areas, with
+at least one involving a major technology company, healthcare
+organization, or research consortium. These demonstrations
+establish credible commercial and clinical demand for neural
+data partnerships, creating new incentives to scale clinical data
+collection and accelerate therapeutic R&D.
+Prohibitive Risk Profile
+Consumer adoption is funda-
+mentally gated by the lack of
+safe, simple, and reversible in-
+terface installation procedures.
+Reversible-Workflow Maturation:Fund the development and
+publication of procedure kits, detailed removal protocols, and
+robust safety-rail checklists. This initiative will be explicitly
+designed to mature installation workflows into a rapid standard.
+Metrics:Reversible-workflow metrics (install/removal room time,
+cost, Serious Adverse Events (SAEs), and removal outcomes) are
+publicly and transparently reported by 3 leading clinical centers,
+establishing industry-wide safety and reliability benchmarks.
+Unclear Market Landscape
+Fuzzy understanding of which
+consumer applications and mar-
+kets will emerge, leading to scat-
+tered R&D efforts.
+Map The Neurotech Opportunity Space:Fund and maintain an
+open, living ”Gap Map” that charts potential applications, unmet
+needs, market sizes, and the required technical capabilities for each,
+creating a shared strategic resource for the field.
+Metrics:The ”Neurotech Gap Map” is published and actively
+maintained. It receives ≥10 substantive external contributions in its
+first year and is cited as the genesis for 2 new research programs or
+startups.
+7
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+5 Risks and Mitigations
+A strategic plan of this scope must anticipate and proactively mitigate potential risks to its execution and to
+the field at large.
+Risk: Patient Crowd-Out Mitigation
+Early consumer demand could compete
+with patients for scarce devices, clinical
+slots, technical support, or procedural ca-
+pacity, worsening access for the popula-
+tions this roadmap is intended to help.
+The roadmap should adopt a non-displacement principle.
+Consumer or augmentation cohorts should proceed only
+when they create incremental capacity, and should pause
+or be capped whenever clinically indicated patients face
+scarcity.
+Risk: Mission Drift Mitigation
+High-margin consumer opportunities
+could pull companies, investors, and part-
+ners away from the clinical mission before
+therapeutic platforms are mature, weak-
+ening the legitimacy of the field.
+Consumer programs should be tied to patient-relevant mile-
+stones, such as improved safety, reversibility, reliability, cost
+reduction, reimbursement evidence, or expanded clinical-
+center capacity. Patient-access metrics should be tracked
+alongside consumer-market metrics.
+Risk: Two-Tier Access Mitigation
+The field could create a two-tier system
+in which wealthy early adopters gain ac-
+cess to advanced neural interfaces while
+patients face long waits, limited coverage,
+or restricted clinical availability.
+Roadster-style programs should include an access dividend.
+A portion of self-funded consumer revenue or study fund-
+ing should support patient access through subsidized im-
+plants, clinical infrastructure, reimbursement evidence, or
+manufacturing scale-up.
+Risk: Weak Patient Governance Mitigation
+The roadmap could lose ethical credibil-
+ity if patients, caregivers, disability ad-
+vocates, and BCI ethics experts are not
+visibly involved in shaping the clinical-to-
+consumer transition.
+Patient and disability-community input should be built into
+study design, consent materials, access policies, adverse-
+event reporting, and public communications, especially for
+dual-benefit demonstrations and Roadster-style cohorts.
+8
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+Risk: Data Exploitation & Privacy Loss Mitigation
+The lucrative potential of monetizing
+brain data for AI training could lead to
+predatory data-harvesting practices, com-
+promising user privacy and eroding the
+rigorous patient trust required for the
+field to advance.
+The roadmap must champion strict data governance frame-
+works from day one. Monetization strategies must rely on
+anonymized, aggregate, or user-consented data markets
+where early adopters retain ownership and control over
+their neural data. Clear firewalls must be established to
+ensure clinical therapeutic data is never commercialized
+without explicit, opt-in consent separate from clinical care.
+Risk: Public Backlash from Safety or
+Performance Failures
+Mitigation
+A single high-profile safety failure in a
+healthy consumer, or a product that mas-
+sively under-delivers on its transforma-
+tive promise, could trigger media amplifi-
+cation and restrictive regulation that sets
+the field back a decade.
+This must be countered with a phased, patient-grounded
+strategy and radical transparency. Early consumer models
+must be limited, clinically governed, and strictly evidence-
+generating. Simultaneously, the field must treat trans-
+parency as a core product: publicly reporting all metrics,
+including adverse events and successful removals, to build
+trust through verifiable data rather than promises.
+Risk: Ethical Backlash Mitigation
+There is a reputational risk that the public
+will view early clinical trials as exploita-
+tive stepping stones used solely to de-
+velop non-therapeutic consumer applica-
+tions for wealthy early adopters.
+The narrative and business models must explicitly frame
+consumer applications as the engine that drives down costs
+and accelerates innovation for clinical populations. The
+"Roadster" strategy must be positioned transparently as a
+mechanism to fund further clinical R&D and improve access
+for patients, rather than abandoning the clinical mission for
+consumer profits.
+9
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+References
+[1] Brain and Mental Health | National Institutes of Health (NIH). en. Aug. 2025.URL: https://www.nih.gov/about-
+nih/impact-nih-research/improving-health/brain-mental-health(visited on 02/25/2026).
+[2] Can Sarica, Christopher R. Conner, Kazuaki Yamamoto, Andrew Yang, Jürgen Germann, Melissa M. Lannon,
+Nardin Samuel, Michael Colditz, Brendan Santyr, Clement T. Chow, Christian Iorio-Morin, David H. Aguirre-
+Padilla, Stefan Thomas Lang, Artur Vetkas, Cletus Cheyuo, et al. “Trends and disparities in deep brain stimulation
+utilization in the United States: a Nationwide Inpatient Sample analysis from 1993 to 2017”. In:The Lancet Regional
+Health - Americas26 (Oct. 2023), p. 100599.ISSN: 2667-193X.DOI: 10.1016/j.lana.2023.100599 .URL: https:
+//www.sciencedirect.com/science/article/pii/S2667193X23001734(visited on 02/25/2026).
+[3] Demand for Caffeinated Beverage in USA | Global Market Analysis Report - 2035. en.URL:https://www.futuremarketinsights.
+com/reports/united-states-caffeinated-beverage-market(visited on 02/25/2026).
+[4] marknteladvisors.US Alcoholic Drinks Market Size, Trend, Share & Analysis [2030]. en.URL:https://www.marknteladvisors.
+com/research-library/us-alcoholic-drinks-market.html(visited on 02/25/2026).
+[5] Sleep Aids Market Size to Hit USD 162.61 Billion by 2034. en.URL: https://www.precedenceresearch.com/sleep-
+aids-market(visited on 02/25/2026).
+[6] EMG Wristbands and Technology | Meta. en.URL: https : / / www . meta . com / emerging - tech / emg - wearable -
+technology/(visited on 02/25/2026).
+[7] Jiahui Pan, XueNing Chen, Nianming Ban, JiaShao He, Jiayi Chen, and Haiyun Huang. “Advances in P300
+brain–computer interface spellers: toward paradigm design and performance evaluation”. In:Frontiers in Human
+Neuroscience16 (Dec. 2022), p. 1077717.ISSN: 1662-5161.DOI: 10 . 3389 / fnhum . 2022 . 1077717.URL: https :
+//pmc.ncbi.nlm.nih.gov/articles/PMC9810759/(visited on 02/25/2026).
+[8] Francis R. Willett, Erin M. Kunz, Chaofei Fan, Donald T. Avansino, Guy H. Wilson, Eun Young Choi, Foram
+Kamdar, Matthew F. Glasser, Leigh R. Hochberg, Shaul Druckmann, Krishna V . Shenoy, and Jaimie M. Henderson.
+“A high-performance speech neuroprosthesis”. en. In:Nature620.7976 (Aug. 2023). Publisher: Nature Publishing
+Group, pp. 1031–1036.ISSN: 1476-4687.DOI: 10.1038/s41586- 023- 06377- x.URL: https://www.nature.com/
+articles/s41586-023-06377-x(visited on 02/25/2026).
+[9] David A. Moses, Sean L. Metzger, Jessie R. Liu, Gopala K. Anumanchipalli, Joseph G. Makin, Pengfei F. Sun, Josh
+Chartier, Maximilian E. Dougherty, Patricia M. Liu, Gary M. Abrams, Adelyn Tu-Chan, Karunesh Ganguly, and Ed-
+ward F. Chang. “Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria”. In:New England Jour-
+nal of Medicine385.3 (July 2021). Publisher: Massachusetts Medical Society _eprint: https://www.nejm.org/doi/pdf/10.1056/NEJMoa2027540,
+pp. 217–227.ISSN: 0028-4793.DOI: 10.1056/NEJMoa2027540.URL: https://www.nejm.org/doi/full/10.1056/
+NEJMoa2027540(visited on 02/25/2026).
+[10] UCSF.UCSF Bipolar Disorder Trial: Closed-Loop Deep Brain Stimulation for Treatment-Resistant Bipolar Depression. en.
+July 2025.URL:https://clinicaltrials.ucsf.edu/trial/NCT07127913(visited on 02/25/2026).
+[11] Mount Sinai Is First in the Nation to Perform Deep Brain Stimulation Implant as Part of Clinical Trial for Depression |
+Mount Sinai - New York. EN-US.URL: https://www.mountsinai.org/about/newsroom/2025/mount-sinai-is-
+first-in-the-nation-to-perform-deep-brain-stimulation-implant-as-part-of-clinical-trial-for-
+depression(visited on 02/25/2026).
+[12] Motif Neurotech Launches Patient Registry for Future Research Opportunities. en.URL: https://www.businesswire.
+com/news/home/20251216800381/en/Motif-Neurotech-Launches-Patient-Registry-for-Future-Research-
+Opportunities(visited on 02/25/2026).
+[13] Medical Devices; Ear, Nose, and Throat Devices; Establishing Over-the-Counter Hearing Aids. en. Aug. 2022.URL:
+https://www.federalregister.gov/documents/2022/08/17/2022-17230/medical-devices-ear-nose-and-
+throat-devices-establishing-over-the-counter-hearing-aids(visited on 02/25/2026).
+10
+
+Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2
+[14] Office of the Commissioner.FDA Authorizes First Over-the-Counter Hearing Aid Software. en. Publisher: FDA.
+Sept. 2024.URL: https://www.fda.gov/news- events/press- announcements/fda- authorizes- first- over-
+counter-hearing-aid-software(visited on 02/25/2026).
+[15] Synchron’s Brain-Computer Interface Now Has Nvidia’s AI | WIRED.URL: https : / / www . wired . com / story /
+synchrons-brain-computer-interface-now-has-nvidias-ai/(visited on 02/25/2026).
+11

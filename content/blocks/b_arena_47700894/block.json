@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700894",
+  "type": "image",
+  "title": "Belle Dune",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "belle-dune",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3c2fe4e4511baea6b01b440e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Belle Dune",
+      "role": "original",
+      "bytes": 40409,
+      "sha256": "3c2fe4e4511baea6b01b440e58082cf369c87cd5e393933cd0203271b912fa61",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700894/original_fadbebf6babbc758a0ea3e63f0f2a7b4.jpeg",
+      "originalName": "fadbebf6babbc758a0ea3e63f0f2a7b4.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f208f33be7d986b7e0b2182a.webp",
+      "mimeType": "image/webp",
+      "alt": "Belle Dune",
+      "role": "thumbnail",
+      "bytes": 12916,
+      "sha256": "f208f33be7d986b7e0b2182a6313298b3d7e2855845e380a5591898fa7b26786",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg5NC9vcmlnaW5hbF9mYWRiZWJmNmJhYmJjNzU4YTBlYTNlNjNmMGYyYTdiNC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "fadbebf6babbc758a0ea3e63f0f2a7b4.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-3c2fe4e4511baea6b01b440e-3c2fe4e451.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Belle Dune",
+      "bytes": 39086,
+      "sha256": "2c75cdeaf1910205bd598a6b95ee48cd38bcc7d204bbc66aed9ee9af267840dd",
+      "width": 564,
+      "height": 564,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3c2fe4e4511baea6b01b440e.jpg",
+        "sourceSha256": "3c2fe4e4511baea6b01b440e58082cf369c87cd5e393933cd0203271b912fa61",
+        "originalBytes": 40409,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:29.000Z",
+  "updatedAt": "2026-07-08T14:54:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700894",
+    "title": "2a16ada009f6da6b0cb4b0acfe3f3aa6",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700894,
+      "url": "https://www.are.na/block/47700894",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "2a16ada009f6da6b0cb4b0acfe3f3aa6",
+      "createdAt": "2026-07-08T14:54:29Z",
+      "updatedAt": "2026-07-08T14:54:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2a16ada009f6da6b0cb4b0acfe3f3aa6",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Belle Dune",
+    "text": "l'Ecolc cantonale d'art de Lausanne prévente un lim de\nLEONARD SINCLAIR\nJEROME MONTPIED\nAveC IGOR KOVALSKY\nANGELA JUMCAUCOURT.\nBeMARIE REMOND\n\"SEE YOU LATER, ALLIGATOR...\nBELLE DUNE\nPremiere Partie",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2c75cdeaf1910205bd598a6b95ee48cd38bcc7d204bbc66aed9ee9af267840dd"
+  }
+}

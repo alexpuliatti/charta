@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44255862",
+  "type": "image",
+  "title": "Amore Lettering",
+  "description": "type: image | category: form | tags: album | credit: Iva Zanicchi (1970)",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "amore-lettering",
+    "album",
+    "album-covers",
+    "music-graphics",
+    "music",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f0f92025843283dd825e1397.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Amore Lettering",
+      "role": "original",
+      "bytes": 38788,
+      "sha256": "f0f92025843283dd825e139782e44c283d7fe05ec187d4574e980411b1ea0580",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44255862/original_a500226431aa1fb86e58be8360060237.jpg",
+      "originalName": "a500226431aa1fb86e58be8360060237.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2b377dd73356b1551e8d225d.webp",
+      "mimeType": "image/webp",
+      "alt": "Amore Lettering",
+      "role": "thumbnail",
+      "bytes": 7608,
+      "sha256": "2b377dd73356b1551e8d225dcbc2f01321c5c19c261d65acf2361134c8603ffe",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI1NTg2Mi9vcmlnaW5hbF9hNTAwMjI2NDMxYWExZmI4NmU1OGJlODM2MDA2MDIzNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a500226431aa1fb86e58be8360060237.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f0f92025843283dd825e1397-f0f9202584.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Amore Lettering",
+      "bytes": 29794,
+      "sha256": "c835278c6d2165c880a3b908b9c872083d0c1af7916d43e731de0ed67e8ee05a",
+      "width": 564,
+      "height": 564,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f0f92025843283dd825e1397.jpg",
+        "sourceSha256": "f0f92025843283dd825e139782e44c283d7fe05ec187d4574e980411b1ea0580",
+        "originalBytes": 38788,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-09T06:54:22.000Z",
+  "updatedAt": "2026-08-25T17:14:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44255862",
+    "title": "Caro Theodorakis... Iva by Iva Zanicchi (1970)",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44255862,
+      "url": "https://www.are.na/block/44255862",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Caro Theodorakis... Iva by Iva Zanicchi (1970)",
+      "createdAt": "2026-03-09T06:54:22Z",
+      "updatedAt": "2026-08-25T17:14:56Z",
+      "addedBy": {
+        "id": 269811,
+        "name": "Guul Keem",
+        "slug": "guul-keem"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Caro Theodorakis... Iva by Iva Zanicchi (1970)",
+      "category": "Graphic design",
+      "tags": [
+        "album",
+        "album-covers",
+        "typography",
+        "music-graphics",
+        "music",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Amore Lettering",
+    "text": "moe",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c835278c6d2165c880a3b908b9c872083d0c1af7916d43e731de0ed67e8ee05a"
+  }
+}

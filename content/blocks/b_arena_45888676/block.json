@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888676",
+  "type": "image",
+  "title": "Blurred Question",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "blurred-question",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-baae6127f2eb92e183202905.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blurred Question",
+      "role": "original",
+      "bytes": 397786,
+      "sha256": "baae6127f2eb92e1832029051f0e12ff27ade08fed51ae96c9b0f7e1f8f32972",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888676/original_72f74f4e778f9c78ac575e33607b5971.jpeg",
+      "originalName": "72f74f4e778f9c78ac575e33607b5971.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a9ea5abf7be8acf0ac940541.webp",
+      "mimeType": "image/webp",
+      "alt": "Blurred Question",
+      "role": "thumbnail",
+      "bytes": 2998,
+      "sha256": "a9ea5abf7be8acf0ac940541fc2d4cdb576162f436a46d38c4909e07a76bea69",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY3Ni9vcmlnaW5hbF83MmY3NGY0ZTc3OGY5Yzc4YWM1NzVlMzM2MDdiNTk3MS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "72f74f4e778f9c78ac575e33607b5971.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:52.000Z",
+  "updatedAt": "2026-05-06T12:25:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888676",
+    "title": "rominamalta24.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888676,
+      "url": "https://www.are.na/block/45888676",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "rominamalta24.jpg",
+      "createdAt": "2026-05-06T12:25:52Z",
+      "updatedAt": "2026-05-06T12:25:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "rominamalta24.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blurred Question",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "baae6127f2eb92e1832029051f0e12ff27ade08fed51ae96c9b0f7e1f8f32972"
+  }
+}

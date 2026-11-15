@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787740",
+  "type": "image",
+  "title": "Speaker Templates",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "speaker-templates",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1cbda517befbdbaf99948e4b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Speaker Templates",
+      "role": "original",
+      "bytes": 146430,
+      "sha256": "1cbda517befbdbaf99948e4b5ae16b2ea2f5ccf6e4f412f99922724743d87762",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787740/original_f0026c7202cd1f219a2cbfcacf4464ee.jpg",
+      "originalName": "f0026c7202cd1f219a2cbfcacf4464ee.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6567927ddd52fb0d4572a0f2.webp",
+      "mimeType": "image/webp",
+      "alt": "Speaker Templates",
+      "role": "thumbnail",
+      "bytes": 8952,
+      "sha256": "6567927ddd52fb0d4572a0f2d12182609f01aa708d9b3a0db01a32e654ce4ed0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzc0MC9vcmlnaW5hbF9mMDAyNmM3MjAyY2QxZjIxOWEyY2JmY2FjZjQ0NjRlZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f0026c7202cd1f219a2cbfcacf4464ee.jpg"
+    },
+    {
+      "path": "assets/display-web-original-1cbda517befbdbaf99948e4b-1cbda517be.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Speaker Templates",
+      "bytes": 120572,
+      "sha256": "08a16a0cc8537f17b39d6129c5a53fa771d41203d53966439aee57ab77041f0c",
+      "width": 1440,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1cbda517befbdbaf99948e4b.jpg",
+        "sourceSha256": "1cbda517befbdbaf99948e4b5ae16b2ea2f5ccf6e4f412f99922724743d87762",
+        "originalBytes": 146430,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:56:55.000Z",
+  "updatedAt": "2025-11-02T15:56:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787740",
+    "title": "friendly.pressure-20240710_141657-3602525446.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787740,
+      "url": "https://www.are.na/block/40787740",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "friendly.pressure-20240710_141657-3602525446.jpg",
+      "createdAt": "2025-11-02T15:56:55Z",
+      "updatedAt": "2025-11-02T15:56:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "friendly.pressure-20240710_141657-3602525446.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Speaker Templates",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "08a16a0cc8537f17b39d6129c5a53fa771d41203d53966439aee57ab77041f0c"
+  }
+}

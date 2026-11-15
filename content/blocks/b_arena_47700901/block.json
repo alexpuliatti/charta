@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700901",
+  "type": "image",
+  "title": "Sim Smith",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "sim-smith",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-479bb70b430e3287af80cea8.webp",
+      "mimeType": "image/webp",
+      "alt": "Sim Smith",
+      "role": "original",
+      "bytes": 15042,
+      "sha256": "479bb70b430e3287af80cea848927b3966c44819729d478811f3dfd068018bad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700901/original_b0337b747f1c431846e34a4cfa83051f.webp",
+      "originalName": "b0337b747f1c431846e34a4cfa83051f.webp"
+    },
+    {
+      "path": "assets/thumbnail-4d0050d50a960cf174542aec.webp",
+      "mimeType": "image/webp",
+      "alt": "Sim Smith",
+      "role": "thumbnail",
+      "bytes": 5188,
+      "sha256": "4d0050d50a960cf174542aec1787afacf40b13114279e76ebde33e851098ca34",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDkwMS9vcmlnaW5hbF9iMDMzN2I3NDdmMWM0MzE4NDZlMzRhNGNmYTgzMDUxZi53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b0337b747f1c431846e34a4cfa83051f.webp"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:36.000Z",
+  "updatedAt": "2026-07-08T14:54:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700901",
+    "title": "8b153260e6ac35ef30e520b3897774b291f4eb7b-900x650",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700901,
+      "url": "https://www.are.na/block/47700901",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "8b153260e6ac35ef30e520b3897774b291f4eb7b-900x650",
+      "createdAt": "2026-07-08T14:54:36Z",
+      "updatedAt": "2026-07-08T14:54:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "8b153260e6ac35ef30e520b3897774b291f4eb7b-900x650",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sim Smith",
+    "text": "SIM SMITH GALLERY\nSIM\n-SM\nITH\n+44 (0) 7920 102 284\nMAIL@SIM-SMITH.COM\nSIM-SMITH.COM\nSIM SMITH GALLERY\nS\nIM-SM\nITH\n+44 (0) 7920 102 284\nMAIL@SIM-SMITH.COM\nSIM-SMITH.COM",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "479bb70b430e3287af80cea848927b3966c44819729d478811f3dfd068018bad"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_36194951",
+  "type": "image",
+  "title": "Modern Listening",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "modern-listening",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4d3774e8a73e0763d87e3058.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Modern Listening",
+      "role": "original",
+      "bytes": 321430,
+      "sha256": "4d3774e8a73e0763d87e3058012195f91a7440d9b06afb1ce68a6497bd974944",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/36194951/original_00c0ab0cb5408a8da7208577c36905df.jpg",
+      "originalName": "00c0ab0cb5408a8da7208577c36905df.jpg"
+    },
+    {
+      "path": "assets/thumbnail-7e057631a98693539f0756b1.webp",
+      "mimeType": "image/webp",
+      "alt": "Modern Listening",
+      "role": "thumbnail",
+      "bytes": 11948,
+      "sha256": "7e057631a98693539f0756b1ea2df9d8258038bb838aa92412c2afc1cfb68c12",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzNjE5NDk1MS9vcmlnaW5hbF8wMGMwYWIwY2I1NDA4YThkYTcyMDg1NzdjMzY5MDVkZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "00c0ab0cb5408a8da7208577c36905df.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-04-23T14:22:23.000Z",
+  "updatedAt": "2026-07-29T15:52:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/36194951",
+    "title": "byseanbrown_1721504373_3416548774631801641_252534714.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 36194951,
+      "url": "https://www.are.na/block/36194951",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "byseanbrown_1721504373_3416548774631801641_252534714.jpg",
+      "createdAt": "2025-04-23T14:22:23Z",
+      "updatedAt": "2026-07-29T15:52:47Z",
+      "addedBy": {
+        "id": 136866,
+        "name": "Mikey Womack",
+        "slug": "mikey-womack"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "byseanbrown_1721504373_3416548774631801641_252534714.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Modern Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4d3774e8a73e0763d87e3058012195f91a7440d9b06afb1ce68a6497bd974944"
+  }
+}

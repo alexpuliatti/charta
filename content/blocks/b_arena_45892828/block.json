@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892828",
+  "type": "link",
+  "title": "Nucleo Diagnostics",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "oncology",
+    "medical-imaging",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-314c6f84163ed21610f4d9bd.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 18564,
+      "sha256": "314c6f84163ed21610f4d9bd935a8b0bc5c7611b86cbcef8e60e7bbf6bfa2933",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjgyOC9vcmlnaW5hbF80NWZlNGQ2ZmMwMDMzOTYwMTc2YmQxMzUxN2JjM2VjYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "45fe4d6fc0033960176bd13517bc3ecc.png"
+    },
+    {
+      "path": "assets/preview-a397190f8433543345817c29.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 201932,
+      "sha256": "a397190f8433543345817c2963723fd811b34e4acd91a592079c254d148cdbcc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892828/original_45fe4d6fc0033960176bd13517bc3ecc.png",
+      "originalName": "45fe4d6fc0033960176bd13517bc3ecc.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1658302,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:49:34.000Z",
+  "updatedAt": "2026-05-06T14:49:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://nucleoresearch.com/#section-usecases",
+    "title": "Link · utopia · 45892828",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892828,
+      "url": "https://www.are.na/block/45892828",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-06T14:49:34Z",
+      "updatedAt": "2026-05-06T14:49:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Startups",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://nucleoresearch.com/",
+        "finding": "Official page identifies Nucleo automated cancer diagnostics, includes Y Combinator company link and venture backers."
+      }
+    ],
+    "original": {
+      "title": "Link · utopia · 45892828",
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

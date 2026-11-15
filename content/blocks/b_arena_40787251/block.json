@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787251",
+  "type": "image",
+  "title": "Horn Casting",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "horn-casting",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-36d5b4aafdc9e7b4d046017b.png",
+      "mimeType": "image/png",
+      "alt": "Horn Casting",
+      "role": "original",
+      "bytes": 4263960,
+      "sha256": "36d5b4aafdc9e7b4d046017b6d1aba51dba138235bf664359cfb2879be064a8b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787251/original_676532de50df7ba52d860cfde1fa3f40.png",
+      "originalName": "676532de50df7ba52d860cfde1fa3f40.png"
+    },
+    {
+      "path": "assets/thumbnail-f51ac6f30db13bc9fcff8c04.webp",
+      "mimeType": "image/webp",
+      "alt": "Horn Casting",
+      "role": "thumbnail",
+      "bytes": 10208,
+      "sha256": "f51ac6f30db13bc9fcff8c04bf156cd4a80d7ea66daa4ec9c0c132835e2bbf19",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzI1MS9vcmlnaW5hbF82NzY1MzJkZTUwZGY3YmE1MmQ4NjBjZmRlMWZhM2Y0MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "676532de50df7ba52d860cfde1fa3f40.png"
+    },
+    {
+      "path": "assets/display-web-original-36d5b4aafdc9e7b4d046017b-36d5b4aafd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Horn Casting",
+      "bytes": 303594,
+      "sha256": "a0762b33e0b571975997d2780757df5afadd7c823ddfaa0d8fe8924582afe7c4",
+      "width": 1312,
+      "height": 1860,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-36d5b4aafdc9e7b4d046017b.png",
+        "sourceSha256": "36d5b4aafdc9e7b4d046017b6d1aba51dba138235bf664359cfb2879be064a8b",
+        "originalBytes": 4263960,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:35:05.000Z",
+  "updatedAt": "2025-11-02T15:35:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787251",
+    "title": "screenshot-2025-11-02-alle-15.34.15.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787251,
+      "url": "https://www.are.na/block/40787251",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2025-11-02-alle-15.34.15.png",
+      "createdAt": "2025-11-02T15:35:05Z",
+      "updatedAt": "2025-11-02T15:35:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2025-11-02-alle-15.34.15.png",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Horn Casting",
+    "text": "MOBI",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a0762b33e0b571975997d2780757df5afadd7c823ddfaa0d8fe8924582afe7c4"
+  }
+}

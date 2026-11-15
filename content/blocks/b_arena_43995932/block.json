@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995932",
+  "type": "link",
+  "title": "Web Diagrams",
+  "description": "Interface and brand designer",
+  "category": "Interface design",
+  "tags": [
+    "diagrams",
+    "interaction-design",
+    "information-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-92fc0bb4664f4dddf3043c08.webp",
+      "mimeType": "image/webp",
+      "alt": "Laura Sinisterra | Designer",
+      "role": "thumbnail",
+      "bytes": 6944,
+      "sha256": "92fc0bb4664f4dddf3043c081d45d3058494f0c9d92c2a91a9eb17da83cd8d93",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTkzMi9vcmlnaW5hbF8xNzljMTg1YzI0NDFhYTEwYWMwNzY5YzY2YjU1NDM5Zi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "179c185c2441aa10ac0769c66b55439f.png"
+    },
+    {
+      "path": "assets/preview-ecb7252d756e5df97e66a904.webp",
+      "mimeType": "image/webp",
+      "alt": "Laura Sinisterra | Designer",
+      "role": "preview",
+      "bytes": 195772,
+      "sha256": "ecb7252d756e5df97e66a9042dd180712b556f5dce72bf004ad29ad6a7552d56",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995932/original_179c185c2441aa10ac0769c66b55439f.png",
+      "originalName": "179c185c2441aa10ac0769c66b55439f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 987126,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:14:23.000Z",
+  "updatedAt": "2026-06-07T05:30:51.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://laurasinisterra.com/webdiagrams",
+    "title": "Laura Sinisterra | Designer",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995932,
+      "url": "https://www.are.na/block/43995932",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Laura Sinisterra | Designer",
+      "createdAt": "2026-02-28T12:14:23Z",
+      "updatedAt": "2026-06-07T05:30:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Laura Sinisterra | Designer",
+      "category": "Information design",
+      "tags": [
+        "interfaces",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

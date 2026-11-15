@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340255",
+  "type": "image",
+  "title": "Kieler Woche",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "kieler-woche",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-053210bd47819d1edfb42336.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Kieler Woche",
+      "role": "original",
+      "bytes": 56120,
+      "sha256": "053210bd47819d1edfb4233619e3e9fc4f29b6f076c20b1aea695f691a77aa39",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340255/original_06d7d4150eb2fb91ee52332ed220f20a.jpg",
+      "originalName": "06d7d4150eb2fb91ee52332ed220f20a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f35c3db5a389edba9daa5939.webp",
+      "mimeType": "image/webp",
+      "alt": "Kieler Woche",
+      "role": "thumbnail",
+      "bytes": 9308,
+      "sha256": "f35c3db5a389edba9daa59396d71fd611d7b2f53f8ae1b3dbe50448879c9afc5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1NS9vcmlnaW5hbF8wNmQ3ZDQxNTBlYjJmYjkxZWU1MjMzMmVkMjIwZjIwYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "06d7d4150eb2fb91ee52332ed220f20a.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340255",
+    "title": "aa8e67a51b8e60cd66c665e44d752020.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340255,
+      "url": "https://www.are.na/block/44340255",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "aa8e67a51b8e60cd66c665e44d752020.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "aa8e67a51b8e60cd66c665e44d752020.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Kieler Woche",
+    "text": "Kieler Woche\n21.-28. Juni 1964",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "053210bd47819d1edfb4233619e3e9fc4f29b6f076c20b1aea695f691a77aa39"
+  }
+}

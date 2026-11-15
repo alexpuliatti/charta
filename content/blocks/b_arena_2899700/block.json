@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_2899700",
+  "type": "image",
+  "title": "Digital Portrait",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "digital-portrait",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c3ae7173c2ebf9ad2cd239bd.gif",
+      "mimeType": "image/gif",
+      "alt": "Digital Portrait",
+      "role": "original",
+      "bytes": 1981975,
+      "sha256": "c3ae7173c2ebf9ad2cd239bd3aaefe65e6df3f8d589e51d9e2da2496edf9b408",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/2899700/original_052d255aca7f8c0e91650e86b89409a1.gif",
+      "originalName": "052d255aca7f8c0e91650e86b89409a1.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2018-10-19T16:02:19.000Z",
+  "updatedAt": "2026-11-11T21:55:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://66.media.tumblr.com/be7cc12701a15abdd19b18827252ce6b/tumblr_oew8b6gyYk1v5ijj7o1_500.gif",
+    "title": "tumblr_oew8b6gyyk1v5ijj7o1_500.gif",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 2899700,
+      "url": "https://www.are.na/block/2899700",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "tumblr_oew8b6gyyk1v5ijj7o1_500.gif",
+      "createdAt": "2018-10-19T16:02:19Z",
+      "updatedAt": "2026-11-11T21:55:09Z",
+      "addedBy": {
+        "id": 63430,
+        "name": "ellie 👁",
+        "slug": "ellie-llgma7b7ssu"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "tumblr_oew8b6gyyk1v5ijj7o1_500.gif",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Digital Portrait",
+    "text": "adampisurny.tumbir.c",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c3ae7173c2ebf9ad2cd239bd3aaefe65e6df3f8d589e51d9e2da2496edf9b408"
+  }
+}

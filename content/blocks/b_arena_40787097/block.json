@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787097",
+  "type": "image",
+  "title": "Square Horn",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "square-horn",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c0c665bf5f3a9288dbba877d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Square Horn",
+      "role": "original",
+      "bytes": 288964,
+      "sha256": "c0c665bf5f3a9288dbba877d9e9bc21b2df013ae594cf03bcda012eaeba13100",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787097/original_00204a05bc6f6846da01d2da9ba726f0.jpg",
+      "originalName": "00204a05bc6f6846da01d2da9ba726f0.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d21009324740d0140c9ba3f8.webp",
+      "mimeType": "image/webp",
+      "alt": "Square Horn",
+      "role": "thumbnail",
+      "bytes": 14542,
+      "sha256": "d21009324740d0140c9ba3f8a4a95a7797e699fe0effe12ef77cd3d41a04dbf5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzA5Ny9vcmlnaW5hbF8wMDIwNGEwNWJjNmY2ODQ2ZGEwMWQyZGE5YmE3MjZmMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "00204a05bc6f6846da01d2da9ba726f0.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:34.000Z",
+  "updatedAt": "2025-11-02T15:26:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787097",
+    "title": "a.for.ara-20210305_215244-459429759.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787097,
+      "url": "https://www.are.na/block/40787097",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a.for.ara-20210305_215244-459429759.jpg",
+      "createdAt": "2025-11-02T15:26:34Z",
+      "updatedAt": "2025-11-02T15:26:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a.for.ara-20210305_215244-459429759.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Square Horn",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c0c665bf5f3a9288dbba877d9e9bc21b2df013ae594cf03bcda012eaeba13100"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340296",
+  "type": "image",
+  "title": "Café Scene",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "caf-scene",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8ad2f21f07cc0c2353dc594c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Café Scene",
+      "role": "original",
+      "bytes": 81759,
+      "sha256": "8ad2f21f07cc0c2353dc594c8bf91818a09b2f603ce421f1383377b87c41451c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340296/original_0fb14d794a3469713db8a7e3ca36a044.jpg",
+      "originalName": "0fb14d794a3469713db8a7e3ca36a044.jpg"
+    },
+    {
+      "path": "assets/thumbnail-588a75d554a33e8b45c73de3.webp",
+      "mimeType": "image/webp",
+      "alt": "Café Scene",
+      "role": "thumbnail",
+      "bytes": 8770,
+      "sha256": "588a75d554a33e8b45c73de34aa689953e48579d26d2df25b87379c9b5536c88",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5Ni9vcmlnaW5hbF8wZmIxNGQ3OTRhMzQ2OTcxM2RiOGE3ZTNjYTM2YTA0NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0fb14d794a3469713db8a7e3ca36a044.jpg"
+    },
+    {
+      "path": "assets/display-web-original-8ad2f21f07cc0c2353dc594c-8ad2f21f07.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Café Scene",
+      "bytes": 49896,
+      "sha256": "46cfe008c06436e208dcd48420b866cf0a69246da63845e0002a367a837a1dd9",
+      "width": 1199,
+      "height": 647,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8ad2f21f07cc0c2353dc594c.jpg",
+        "sourceSha256": "8ad2f21f07cc0c2353dc594c8bf91818a09b2f603ce421f1383377b87c41451c",
+        "originalBytes": 81759,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340296",
+    "title": "05f2446451df4fd25f6d2e87b6088e6f.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340296,
+      "url": "https://www.are.na/block/44340296",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "05f2446451df4fd25f6d2e87b6088e6f.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "05f2446451df4fd25f6d2e87b6088e6f.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Café Scene",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "46cfe008c06436e208dcd48420b866cf0a69246da63845e0002a367a837a1dd9"
+  }
+}

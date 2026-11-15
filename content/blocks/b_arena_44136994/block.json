@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136994",
+  "type": "image",
+  "title": "Image Collage",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "image-collage",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-295ae0f67a2ac020ffae73b7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Image Collage",
+      "role": "original",
+      "bytes": 424239,
+      "sha256": "295ae0f67a2ac020ffae73b78eb0cd36fe5135b1c59cb9c5034bd58d0b65c318",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136994/original_491b366c9c534209df46bf53758eb544.jpg",
+      "originalName": "491b366c9c534209df46bf53758eb544.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d49ccb0ace54da597e30f08e.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Collage",
+      "role": "thumbnail",
+      "bytes": 16574,
+      "sha256": "d49ccb0ace54da597e30f08ee679af3a70a9d24641023958f25df325a6c66438",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk5NC9vcmlnaW5hbF80OTFiMzY2YzljNTM0MjA5ZGY0NmJmNTM3NThlYjU0NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "491b366c9c534209df46bf53758eb544.jpg"
+    },
+    {
+      "path": "assets/display-web-original-295ae0f67a2ac020ffae73b7-295ae0f67a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Collage",
+      "bytes": 235468,
+      "sha256": "7f60246fc83c0cd5d939b37132b740048870c525e722599e6b7eab59e7f515b1",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-295ae0f67a2ac020ffae73b7.jpg",
+        "sourceSha256": "295ae0f67a2ac020ffae73b78eb0cd36fe5135b1c59cb9c5034bd58d0b65c318",
+        "originalBytes": 424239,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:47.000Z",
+  "updatedAt": "2026-03-04T15:36:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136994",
+    "title": "haowej2ayaa35uf.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136994,
+      "url": "https://www.are.na/block/44136994",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "haowej2ayaa35uf.jpeg",
+      "createdAt": "2026-03-04T15:36:47Z",
+      "updatedAt": "2026-03-04T15:36:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "haowej2ayaa35uf.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Collage",
+    "text": "MICHIKO\nDaytreamer\nDuster\nTransmission, Flux\nCOLOR\nFILTER\nboaras af canada\natos Ripo ada teca",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7f60246fc83c0cd5d939b37132b740048870c525e722599e6b7eab59e7f515b1"
+  }
+}

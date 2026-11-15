@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700869",
+  "type": "file",
+  "title": "Acconci Public Places",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "vito-acconci",
+    "public-art",
+    "moma"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-38fabb679d4c49dbf4f317a5.pdf",
+      "mimeType": "application/pdf",
+      "alt": "moma_catalogue_2156_300189464",
+      "role": "original",
+      "bytes": 9096515,
+      "sha256": "38fabb679d4c49dbf4f317a56b447d726a9c5083b11f67e24ef155a97830d5d5",
+      "sourceUrl": "https://attachments.are.na/47700869/1ebb9bc374955cf5f185829d3d449279.pdf",
+      "originalName": "1ebb9bc374955cf5f185829d3d449279.pdf"
+    },
+    {
+      "path": "assets/thumbnail-574776ba5bb4c1392601d6ed.webp",
+      "mimeType": "image/webp",
+      "alt": "moma_catalogue_2156_300189464",
+      "role": "thumbnail",
+      "bytes": 2140,
+      "sha256": "574776ba5bb4c1392601d6ed7d6a1eb760d27ebfc8f1e39e65cffed722ed89a7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg2OS9vcmlnaW5hbF80YzcyZDRmOGU2NzMzOWNiMjAyNjA3MDgtMi14YThxMXEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4c72d4f8e67339cb20260708-2-xa8q1q.png"
+    },
+    {
+      "path": "assets/preview-cbee828c9906d4db1dc09b5f.webp",
+      "mimeType": "image/webp",
+      "alt": "moma_catalogue_2156_300189464",
+      "role": "preview",
+      "bytes": 27190,
+      "sha256": "cbee828c9906d4db1dc09b5ff055fc12631c777c4e6d2ea3c43e767dae3cfd39",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700869/original_4c72d4f8e67339cb20260708-2-xa8q1q.png",
+      "originalName": "4c72d4f8e67339cb20260708-2-xa8q1q.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 77499,
+        "width": 1131,
+        "height": 1600,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:11.000Z",
+  "updatedAt": "2026-07-08T14:54:25.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 37-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700869",
+    "title": "moma_catalogue_2156_300189464",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700869,
+      "url": "https://www.are.na/block/47700869",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "moma_catalogue_2156_300189464",
+      "createdAt": "2026-07-08T14:54:11Z",
+      "updatedAt": "2026-07-08T14:54:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "book",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "moma_catalogue_2156_300189464",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "Vito Acconci, public places\nVito Acconci, public places\nLinda Shearer\nLinda Shearer\nAuthor\nShearer, Linda\nDate\n1988\nPublisher\nThe Museum of Modern Art\nISBN\n087070625X\nExhibition URL\nwww.moma.org/calendar/exhibitions/2156\nThe Museum of Modern Art's exhibition\nhistory—from our founding in 1929 to the\npresent—is available online. It includes\nexhibition catalogues, primary documents,\ninstallation views, and an index of\nparticipating artists.\n© 2017 The Museum of Modern Art\nMoMA\n\nEUM OF\nART\nLEL-IARY\n\n\n'\n\n\nHoMA\nlif7k\n' OF\nPublished in conjunction with the exhibition \"Vito Acconci: Public\nPlaces,\" February 11 - May 3, 1988, directed by Linda Shearer,\nCurator, Department of Painting and Sculpture, The Museum of\nModern Art, New York\nThe exhibition is supported in part by a generous grant from the\nNational Endowment for the Arts. Additional funding has been\nprovided by the Coca-Cola Foundation, the General Atlantic Cor\nporation, the Ford Motor Company Fund, and the New York State\nCouncil on the Arts.\nThe publication has been funded by a grant from the\nContemporary Arts Council of The Museum of Modern Art.\nTrustees of Frederick M. Alger III Richard E. Salomon\nThe Museum of Modern Art Lily Auchincloss Mrs. Wolfgang Schoenborn*\nEdward Larrabee Barnes Mrs. Constantine Sidamon-Eristol\nWilliam S. Paley Celeste G. Bartos Mrs. Bertram Smith\nChairman Emeritus Sid Richardson Bass Jerry I. Speyer\nMrs. John D. Rockefeller 3rd H.R.H. Prinz Franz von Bayern** Mrs. Alfred R. Stern\nPresident Emeritus Gordon Bunshaft Mrs. Donald B. Straus\nDavid Rockefeller Shirley C. Burden Walter N. Thayer\nChairman Thomas S. Carroll* R.L.B. Tobin\nMrs. Henry Ives Cobb John B. Carter Monroe Wheeler*\nVice Chairman Marshall S. Cogan Richard S. Zeisler\nDonald B. Marron Gianluigi Gabetti\nPresident Miss Lillian Gish* * *Trustee Emeritus\nMrs. Frank Y. Larkin Paul Gottlieb * *Honorary Trustee\nVice President Agnes Gund\nJohn Parkinson III Mrs. Melville Wakeman Hall Ex Officio Trustees\nVice President and Treasurer George Heard Hamilton*\nBarbara Jakobson Edward 1. Koch\nCopyright © 1988 by The Museum of Modern Art Sidney Janis* * Mayor of the City\nIllustrations and artist's writings © 1988 by Vito Acconci Philip Johnson of New York\nAll rights reserved Ronald S. Lauder Harrison J. Goldin\nLibrary of Congress Catalogue Card Number 87-63134 John L. Loeb* Comptrollerof the\nISBN 0-87070-625-X The Museum of Modern Art Ranald H. Macdonald* City of New York\n11 West 53 Street David H. McAlpin* * Joann K. Phillips\nEdited by James Leggio New York, New York 10019 Dorothy C. Miller** President of The\nDesign and typography by Keith Godard of Works J. Irwin Miller* International Council\nProduction by Daniel Frank Printed in the United States of America S.I. Newhouse, Jr.\nType by Battipaglia, Inc., Long Island City, New York Philip S. Niarchos\nPrinted by Eastern Press, Inc., New Haven, Connecticut Illustration on title page and last page: Proposal for Spanish Richard E. Oldenburg\nBound by Sendor Bindery, New York Landing (details of model). 1987 Peter G. Peterson\nAll photographs by Vito Acconci except: Brian Albert (Landing); Gifford Phillips\nPhilipp Scholz Rittermann (Proposal for Spanish Landing; John Rewald* *\nblack-and-white and color); Chris Felker (portrait of Acconci) David Rockefeller, Jr.\n\n\nThe Museum of Modern Art, New York\n\n\nVito Acconci: Public Places\nLinda Shearer\nwith the collaboration of\nLynn Zelevansky\nFor almost two decades Vito Acconci has shocked,\nentertained, and angered art audiences. He has\nconsistently been among our most astute social critics,\nbut he has remained paradoxical. His message is not\nand never has been straightforward or easily definable.\nInstead, he seeks a pluralizing of meaning whose\nprovocative ambiguity undercuts social and artistic\nconventions.\nAcconci is an interdisciplinary artist. Roland Barthes,\nthe French philosopher, whose influence Acconci\nacknowledges, has suggested that the idea of the inter\ndisciplinary is a subversive one, upsetting \"the calm\nof an easy security.\"1  Modern artworks may often speak\ntheir own, very private language, but most of these\ndifficult works at least fit into established categories —\nsuch as painting, sculpture, drawing, or film — and\nthereby offer a familiar starting point. Deprived of even\nthis frame of reference, viewers may well feel insecure,\neven anxious. By eluding such conventional categories,\nAcconci imposes discomfort.\nBorn in 1940, Acconci began his career as a poet,\nbut in 1969 started using photographs in addition to\nwords to record simple actions like touching his toes\n(Toe-Touch, 1969) and throwing a ball (Throw, 1969). In\nthe early 1970s he used video and film together with\nwords to document more ambitious works in which he\nmanipulated his body. There is rage as well as comedy\nin these pieces, which show Acconci, acting as trans\ngressor, struggling against such ineluctable impera\ntives as gender. For example, in Conversions 1 (1970-71)\nhe burned the hair off his chest and then pulled at\nhimself in \"a futile attempt to develop a woman's\nbreast.\"2\nBy 1971 he was mixing performance with gallery\ninstallations. The notorious Seedbed (1972) was an early\ninstance of this. The ramp under which Acconci lay\n\n\nAcknowledgments\nThis exhibition, focusing on the work of the last five years, includes major pieces of sculpture chosen to emphasize the increasingly public\nnature of Vito Acconci's art. While the actual number of works involved is relatively small, the nature of the exhibition and the accompanying\npublication required an effort that has been truly monumental.\nWithin the Museum, I must first thank William Rubin, Director of the Department of Painting and Sculpture, for his unqualified support of\nthis undertaking from its inception over two years ago. The concern and advice of my good friends and colleagues in the department, Carolyn\nLanchner, who also provided invaluable help with the catalogue text, and Kynaston McShine, have been a constant source of encouragement.\nThe day-",
+    "textPath": "extracted.txt",
+    "textSha256": "8a342c9c93f29974bdbfb6db57b489b1253dbe6aae7e40236551f7db444b5c9d",
+    "textCharacters": 63077,
+    "pages": 37,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

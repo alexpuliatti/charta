@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340315",
+  "type": "image",
+  "title": "Window Gesture",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "window-gesture",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-619743709af9ea97e514d127.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Window Gesture",
+      "role": "original",
+      "bytes": 106326,
+      "sha256": "619743709af9ea97e514d12761fb1ad9bee34cd52f3c7c4451bb9d24ad365aab",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340315/original_3c5c704a28d92be44161385946cab553.jpg",
+      "originalName": "3c5c704a28d92be44161385946cab553.jpg"
+    },
+    {
+      "path": "assets/thumbnail-54c6af54a8c0832c11dc2060.webp",
+      "mimeType": "image/webp",
+      "alt": "Window Gesture",
+      "role": "thumbnail",
+      "bytes": 7262,
+      "sha256": "54c6af54a8c0832c11dc2060c19687929574ebafafe18e564375de9c45253229",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxNS9vcmlnaW5hbF8zYzVjNzA0YTI4ZDkyYmU0NDE2MTM4NTk0NmNhYjU1My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3c5c704a28d92be44161385946cab553.jpg"
+    },
+    {
+      "path": "assets/display-web-original-619743709af9ea97e514d127-619743709a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Window Gesture",
+      "bytes": 71126,
+      "sha256": "f4423698c982164741ec01c75e0d8662a5381dfe384968859994ecf13bd1ffe7",
+      "width": 1200,
+      "height": 826,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-619743709af9ea97e514d127.jpg",
+        "sourceSha256": "619743709af9ea97e514d12761fb1ad9bee34cd52f3c7c4451bb9d24ad365aab",
+        "originalBytes": 106326,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340315",
+    "title": "d4e24b35d2e51219a51f32557f9826e9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340315,
+      "url": "https://www.are.na/block/44340315",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "d4e24b35d2e51219a51f32557f9826e9.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "d4e24b35d2e51219a51f32557f9826e9.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Window Gesture",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f4423698c982164741ec01c75e0d8662a5381dfe384968859994ecf13bd1ffe7"
+  }
+}

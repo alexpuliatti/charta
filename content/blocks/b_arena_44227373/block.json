@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227373",
+  "type": "image",
+  "title": "Japanese Interface",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "japanese-interface",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-df11a8f21e371a74de7fc2b7.png",
+      "mimeType": "image/png",
+      "alt": "Japanese Interface",
+      "role": "original",
+      "bytes": 419964,
+      "sha256": "df11a8f21e371a74de7fc2b74bfb9c624f89379919213143c1b3677848ead29d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227373/original_aee15f5c0b432a07ef726077e9ade167.png",
+      "originalName": "aee15f5c0b432a07ef726077e9ade167.png"
+    },
+    {
+      "path": "assets/thumbnail-63ebdb45d399eeaae9257664.webp",
+      "mimeType": "image/webp",
+      "alt": "Japanese Interface",
+      "role": "thumbnail",
+      "bytes": 9856,
+      "sha256": "63ebdb45d399eeaae92576648307e36dc9bfc4df16a1c967f966b842303f980c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM3My9vcmlnaW5hbF9hZWUxNWY1YzBiNDMyYTA3ZWY3MjYwNzdlOWFkZTE2Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "aee15f5c0b432a07ef726077e9ade167.png"
+    },
+    {
+      "path": "assets/display-web-original-df11a8f21e371a74de7fc2b7-df11a8f21e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Japanese Interface",
+      "bytes": 94952,
+      "sha256": "8b0bb8663ca21b0dabadb2deb7e7fc1df038e0dc8fb6d0948460140641b2806e",
+      "width": 874,
+      "height": 1930,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-df11a8f21e371a74de7fc2b7.png",
+        "sourceSha256": "df11a8f21e371a74de7fc2b74bfb9c624f89379919213143c1b3677848ead29d",
+        "originalBytes": 419964,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-03-07T22:47:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227373",
+    "title": "screenshot-2026-03-07-alle-23.40.06.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227373,
+      "url": "https://www.are.na/block/44227373",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.40.06.png",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-03-07T22:47:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.40.06.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Japanese Interface",
+    "text": "INPUT / 01\nENGLISH\nOUTPUT / 02\nJAPANESE\nThe intersection of computational\nsystems and human linguistics.\nI Keisan shisutemu to ningen gengogaku no\nkösaten.\nSYS. TRANSLATION. v4.2\nLATENCY: 14ms",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8b0bb8663ca21b0dabadb2deb7e7fc1df038e0dc8fb6d0948460140641b2806e"
+  }
+}

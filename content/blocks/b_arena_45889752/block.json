@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889752",
+  "type": "image",
+  "title": "Chicago Map",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "chicago-map",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-479b175ceefc502636fb5b63.png",
+      "mimeType": "image/png",
+      "alt": "Chicago Map",
+      "role": "original",
+      "bytes": 5483890,
+      "sha256": "479b175ceefc502636fb5b63a424c179651b7e60fa97276dae3ddc204347d469",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889752/original_a965f521b30972803aab602dd9bbb0d8.png",
+      "originalName": "a965f521b30972803aab602dd9bbb0d8.png"
+    },
+    {
+      "path": "assets/thumbnail-2a73c469a073e0ecbfcee827.webp",
+      "mimeType": "image/webp",
+      "alt": "Chicago Map",
+      "role": "thumbnail",
+      "bytes": 16926,
+      "sha256": "2a73c469a073e0ecbfcee82744bf5ba21e23816c1fea3df8bf3b4122ccea0c20",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTc1Mi9vcmlnaW5hbF9hOTY1ZjUyMWIzMDk3MjgwM2FhYjYwMmRkOWJiYjBkOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a965f521b30972803aab602dd9bbb0d8.png"
+    },
+    {
+      "path": "assets/display-web-original-479b175ceefc502636fb5b63-479b175cee.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Chicago Map",
+      "bytes": 241848,
+      "sha256": "f0e05bb9811847c2dc7bd1b9ce7df0454735c0ea58070cc5d4bb2ecdfc8808bf",
+      "width": 2000,
+      "height": 1186,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-479b175ceefc502636fb5b63.png",
+        "sourceSha256": "479b175ceefc502636fb5b63a424c179651b7e60fa97276dae3ddc204347d469",
+        "originalBytes": 5483890,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:09:59.000Z",
+  "updatedAt": "2026-05-06T13:10:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889752",
+    "title": "screenshot-2026-04-27-alle-15.23.23.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889752,
+      "url": "https://www.are.na/block/45889752",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-27-alle-15.23.23.png",
+      "createdAt": "2026-05-06T13:09:59Z",
+      "updatedAt": "2026-05-06T13:10:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-27-alle-15.23.23.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Chicago Map",
+    "text": "Address or place name\n: #Chicago\nA Local's Walk Through the Architectural Soul\nof the City\n<\nB\nThe Downtown Skyline Classics\nAny true tour begins in theLoR, where Chirage\npractically invented the skyscraper. Start at the Willis.\nTower, still called the Sears Tower by anyone who grew\nup here, then wander over to the Rookery Building to see\nFrank Lloyd Wright's sun-drenched light court tucked\ninside. A short walk brings you to the Monadnock\nBuilding, the tallest load-bearing brick structure ever\nraised, and the Chicago Board of Trade, crowned by a\nfaceless statue of Ceres watching over Lasalle Street.\nFinish this stretch at the Marquette Building, whose\nmosaic-lined lobby is a quiet love letter to the city'e\nearly history.\nMUSKUM CAMPUS • HAVY PIER\nRiverfront and Modernist\nLandmarks",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f0e05bb9811847c2dc7bd1b9ce7df0454735c0ea58070cc5d4bb2ecdfc8808bf"
+  }
+}

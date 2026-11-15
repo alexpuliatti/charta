@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889915",
+  "type": "image",
+  "title": "Particle Flag",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "particle-flag",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c9e03b5b36474bfb1a6047d9.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Flag",
+      "role": "original",
+      "bytes": 432526,
+      "sha256": "c9e03b5b36474bfb1a6047d99d9c25cb451bac00ad8a7ddb9c0e0e546b777a37",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889915/original_187b80c0229b94b01137b1f18fbe890f.webp",
+      "originalName": "187b80c0229b94b01137b1f18fbe890f.webp"
+    },
+    {
+      "path": "assets/thumbnail-f0ae51d79372439bddea2d3d.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Flag",
+      "role": "thumbnail",
+      "bytes": 12634,
+      "sha256": "f0ae51d79372439bddea2d3d7929ef4bfc9aad4f1d23b1daf65f1eb159c1e492",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTkxNS9vcmlnaW5hbF8xODdiODBjMDIyOWI5NGIwMTEzN2IxZjE4ZmJlODkwZi53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "187b80c0229b94b01137b1f18fbe890f.webp"
+    },
+    {
+      "path": "assets/display-web-original-c9e03b5b36474bfb1a6047d9-c9e03b5b36.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Particle Flag",
+      "bytes": 429104,
+      "sha256": "124b2e98cb6e4b55073e406c9b7518470023e21e8e8da77bcac1786bb9c1d506",
+      "width": 1362,
+      "height": 1323,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c9e03b5b36474bfb1a6047d9.webp",
+        "sourceSha256": "c9e03b5b36474bfb1a6047d99d9c25cb451bac00ad8a7ddb9c0e0e546b777a37",
+        "originalBytes": 432526,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:15:26.000Z",
+  "updatedAt": "2026-05-06T13:15:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889915",
+    "title": "r45211.webp",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889915,
+      "url": "https://www.are.na/block/45889915",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "r45211.webp",
+      "createdAt": "2026-05-06T13:15:26Z",
+      "updatedAt": "2026-05-06T13:15:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "r45211.webp",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Particle Flag",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "124b2e98cb6e4b55073e406c9b7518470023e21e8e8da77bcac1786bb9c1d506"
+  }
+}

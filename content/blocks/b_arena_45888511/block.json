@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888511",
+  "type": "image",
+  "title": "Special Offer",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "special-offer",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-648e2202b61152f5ea9d3711.png",
+      "mimeType": "image/png",
+      "alt": "Special Offer",
+      "role": "original",
+      "bytes": 308642,
+      "sha256": "648e2202b61152f5ea9d3711bc0992a4de86aa1560ae2a4709131c387cc0ed3d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888511/original_93f23a3d51a069542683f2ad386bc6ee.png",
+      "originalName": "93f23a3d51a069542683f2ad386bc6ee.png"
+    },
+    {
+      "path": "assets/thumbnail-a5d56a6979b276bd6e508262.webp",
+      "mimeType": "image/webp",
+      "alt": "Special Offer",
+      "role": "thumbnail",
+      "bytes": 6186,
+      "sha256": "a5d56a6979b276bd6e5082620137a0cb441eec0a2abaa69eb8550df8c24bc09f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUxMS9vcmlnaW5hbF85M2YyM2EzZDUxYTA2OTU0MjY4M2YyYWQzODZiYzZlZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "93f23a3d51a069542683f2ad386bc6ee.png"
+    },
+    {
+      "path": "assets/display-web-original-648e2202b61152f5ea9d3711-648e2202b6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Special Offer",
+      "bytes": 47724,
+      "sha256": "c529ff966323673d2d59e32086e389bf37fe15588d5784cd81f8fbab7cc5bbd6",
+      "width": 2000,
+      "height": 1476,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-648e2202b61152f5ea9d3711.png",
+        "sourceSha256": "648e2202b61152f5ea9d3711bc0992a4de86aa1560ae2a4709131c387cc0ed3d",
+        "originalBytes": 308642,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:19.000Z",
+  "updatedAt": "2026-05-06T12:20:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888511",
+    "title": "screenshot-2026-04-17-alle-14.52.14.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888511,
+      "url": "https://www.are.na/block/45888511",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-17-alle-14.52.14.png",
+      "createdAt": "2026-05-06T12:20:19Z",
+      "updatedAt": "2026-05-06T12:20:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-17-alle-14.52.14.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Special Offer",
+    "text": "AWARD-WINNING\nINFO\nTHESE ARE\nYOUR (THREE)\nOPTIONS\nCONTACT\nREQUEST A PORTFOLIO\nFOLLOW US ON INSTAGRAM !!\nCREATIVE TECH COMPANY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c529ff966323673d2d59e32086e389bf37fe15588d5784cd81f8fbab7cc5bbd6"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787180",
+  "type": "image",
+  "title": "Concrete Listening",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-listening",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a48dd5278b154b2cfba68441.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Listening",
+      "role": "original",
+      "bytes": 202192,
+      "sha256": "a48dd5278b154b2cfba68441385e8e4207609c84107deebf51bcff565bdc451f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787180/original_7abe2be7fc0fa61f27d8d5c039e1f570.jpg",
+      "originalName": "7abe2be7fc0fa61f27d8d5c039e1f570.jpg"
+    },
+    {
+      "path": "assets/thumbnail-37901423547a2cbc9da25d23.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Listening",
+      "role": "thumbnail",
+      "bytes": 7190,
+      "sha256": "37901423547a2cbc9da25d2305820a2bed69761e09c6c5703e710251639d24a7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzE4MC9vcmlnaW5hbF83YWJlMmJlN2ZjMGZhNjFmMjdkOGQ1YzAzOWUxZjU3MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7abe2be7fc0fa61f27d8d5c039e1f570.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a48dd5278b154b2cfba68441-a48dd5278b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Listening",
+      "bytes": 73790,
+      "sha256": "3d8c0cb35d6ec69229d658fbeec856c96be07b6aec4b0d2cac554d64b00f3186",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a48dd5278b154b2cfba68441.jpg",
+        "sourceSha256": "a48dd5278b154b2cfba68441385e8e4207609c84107deebf51bcff565bdc451f",
+        "originalBytes": 202192,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:30:46.000Z",
+  "updatedAt": "2025-11-02T15:30:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787180",
+    "title": "zacbenloulou-20230706_232731-663076837.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787180,
+      "url": "https://www.are.na/block/40787180",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "zacbenloulou-20230706_232731-663076837.jpg",
+      "createdAt": "2025-11-02T15:30:46Z",
+      "updatedAt": "2025-11-02T15:30:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "zacbenloulou-20230706_232731-663076837.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3d8c0cb35d6ec69229d658fbeec856c96be07b6aec4b0d2cac554d64b00f3186"
+  }
+}

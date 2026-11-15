@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995823",
+  "type": "image",
+  "title": "Geometric Door",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "geometric-door",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-58b0db131b8c590795ac9b95.png",
+      "mimeType": "image/png",
+      "alt": "Geometric Door",
+      "role": "original",
+      "bytes": 402161,
+      "sha256": "58b0db131b8c590795ac9b950c218d39c287a032af58826a03d495b52dc5acd8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995823/original_f3e393998bb735cffc8acc19171e2cef.png",
+      "originalName": "f3e393998bb735cffc8acc19171e2cef.png"
+    },
+    {
+      "path": "assets/thumbnail-0aae0935a7ae82163f2f089e.webp",
+      "mimeType": "image/webp",
+      "alt": "Geometric Door",
+      "role": "thumbnail",
+      "bytes": 9042,
+      "sha256": "0aae0935a7ae82163f2f089e5439c5a2f9a8e139d9c6061acfad3146d353730c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgyMy9vcmlnaW5hbF9mM2UzOTM5OThiYjczNWNmZmM4YWNjMTkxNzFlMmNlZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f3e393998bb735cffc8acc19171e2cef.png"
+    },
+    {
+      "path": "assets/display-web-original-58b0db131b8c590795ac9b95-58b0db131b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Geometric Door",
+      "bytes": 37524,
+      "sha256": "4367076b820edcb908d1427a7cfb73c6be5eab32ac081ef1fc138322d0a349f2",
+      "width": 427,
+      "height": 640,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-58b0db131b8c590795ac9b95.png",
+        "sourceSha256": "58b0db131b8c590795ac9b950c218d39c287a032af58826a03d495b52dc5acd8",
+        "originalBytes": 402161,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:01:06.000Z",
+  "updatedAt": "2026-02-28T12:01:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995823",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995823,
+      "url": "https://www.are.na/block/43995823",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:01:06Z",
+      "updatedAt": "2026-02-28T12:01:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Geometric Door",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4367076b820edcb908d1427a7cfb73c6be5eab32ac081ef1fc138322d0a349f2"
+  }
+}

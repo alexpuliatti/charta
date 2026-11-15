@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144627",
+  "type": "image",
+  "title": "Dietary Filters",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "dietary-filters",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4451f45054fcd5602aa1dfcb.png",
+      "mimeType": "image/png",
+      "alt": "Dietary Filters",
+      "role": "original",
+      "bytes": 490366,
+      "sha256": "4451f45054fcd5602aa1dfcb8022b81e6c66ac3f8af839decf15443e8a3aab5e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144627/original_76c906a03cffb0b79fa5a5f7a21a3253.png",
+      "originalName": "76c906a03cffb0b79fa5a5f7a21a3253.png"
+    },
+    {
+      "path": "assets/thumbnail-ba236627755eb5d03b6da5c6.webp",
+      "mimeType": "image/webp",
+      "alt": "Dietary Filters",
+      "role": "thumbnail",
+      "bytes": 10104,
+      "sha256": "ba236627755eb5d03b6da5c6abcd595d88ca2ec5bece99582fbd8349d71223e4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYyNy9vcmlnaW5hbF83NmM5MDZhMDNjZmZiMGI3OWZhNWE1ZjdhMjFhMzI1My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "76c906a03cffb0b79fa5a5f7a21a3253.png"
+    },
+    {
+      "path": "assets/display-web-original-4451f45054fcd5602aa1dfcb-4451f45054.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dietary Filters",
+      "bytes": 60828,
+      "sha256": "b4a7aa9b0f692f504d9433419178db6e70624d39fd9861e329b7bffef6820def",
+      "width": 1408,
+      "height": 1770,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4451f45054fcd5602aa1dfcb.png",
+        "sourceSha256": "4451f45054fcd5602aa1dfcb8022b81e6c66ac3f8af839decf15443e8a3aab5e",
+        "originalBytes": 490366,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-03-04T19:22:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144627",
+    "title": "screenshot-2026-03-04-alle-20.12.03.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144627,
+      "url": "https://www.are.na/block/44144627",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.12.03.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-03-04T19:22:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.12.03.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dietary Filters",
+    "text": "Red Meat (for specific allergies)\nShellfish\nSulfites\nSesame\nMediterranean\nKeto\nMollusks\nSugar-Free\nWhole30\nHigh-Protein\nPaleo\nGluten-Free\nCorn\nPlant-Based\nGluten\nFish\nHalal\nTree Nuts\nLow-Fat\nWheat",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b4a7aa9b0f692f504d9433419178db6e70624d39fd9861e329b7bffef6820def"
+  }
+}

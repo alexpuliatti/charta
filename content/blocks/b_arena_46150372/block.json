@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46150372",
+  "type": "link",
+  "title": "Agent Feedback Loops",
+  "description": "Log in",
+  "category": "Writing",
+  "tags": [
+    "ai-agents",
+    "feedback-loops",
+    "skills"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-77c3f6ae393755737d1ab504.webp",
+      "mimeType": "image/webp",
+      "alt": "Agent Feedback Loops",
+      "role": "thumbnail",
+      "bytes": 476,
+      "sha256": "77c3f6ae393755737d1ab5048051828b24d0bd5f8a82cae6f797a42bb148730d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE1MDM3Mi9vcmlnaW5hbF82Mzc3MzA5OTAzNWJlOWQxODI2MzY1Mzg1NzFmMDdlOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "63773099035be9d182636538571f07e9.png"
+    },
+    {
+      "path": "assets/preview-99379eb1e336fe1c187f6c0f.webp",
+      "mimeType": "image/webp",
+      "alt": "X (@petradonka) on X",
+      "role": "preview",
+      "bytes": 3668,
+      "sha256": "99379eb1e336fe1c187f6c0fe0cf97f0e5e5cca38c165b2da6ff98c8992de14a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46150372/original_63773099035be9d182636538571f07e9.png",
+      "originalName": "63773099035be9d182636538571f07e9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 28228,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-14T15:58:30.000Z",
+  "updatedAt": "2026-05-14T15:58:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+  },
+  "source": {
+    "url": "https://x.com/petradonka/article/2054897826149101588",
+    "title": "X (@petradonka) on X",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46150372,
+      "url": "https://www.are.na/block/46150372",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "X (@petradonka) on X",
+      "createdAt": "2026-05-14T15:58:30Z",
+      "updatedAt": "2026-05-14T15:58:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://gist.github.com/petradonka",
+        "finding": "Author’s own GitHub gist explicitly links the exact saved X article ID 2054897826149101588 and describes it as an article about self-improving agents. The associated reply-learning skill explains learning principles from team feedback. X article full body itself remains unavailable."
+      }
+    ],
+    "original": {
+      "title": "X (@petradonka) on X",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Petra Donka’s linked article concerns self-improving agents. Her associated reply-learning skill turns team feedback into durable principles, tests those principles across situations, and proposes reviewed changes to agent instructions. The linked article itself could not be fetched; this summary is limited to the author’s directly associated public gist.",
+    "text": "",
+    "method": "primary-source-review",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

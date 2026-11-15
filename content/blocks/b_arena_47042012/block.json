@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47042012",
+  "type": "file",
+  "title": "Consumer Neurotechnology",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "neurotechnology",
+    "brain-computer-interfaces",
+    "consumer-products"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eb4bf3b24378be96e93d9ccb.pdf",
+      "mimeType": "application/pdf",
+      "alt": "PL-BCI-Roadmap2-Expanding Neurotechnology to Consumer Products.v1",
+      "role": "original",
+      "bytes": 230949,
+      "sha256": "eb4bf3b24378be96e93d9ccb1b32caa2510929b0c7c0119466af2d6da653b7a2",
+      "sourceUrl": "https://attachments.are.na/47042012/78846d05537c05241a893bdcf8763a6e.pdf",
+      "originalName": "78846d05537c05241a893bdcf8763a6e.pdf"
+    },
+    {
+      "path": "assets/thumbnail-427a0b27c592cf02f9deb85b.webp",
+      "mimeType": "image/webp",
+      "alt": "PL-BCI-Roadmap2-Expanding Neurotechnology to Consumer Products.v1",
+      "role": "thumbnail",
+      "bytes": 16582,
+      "sha256": "427a0b27c592cf02f9deb85b9ac2ee099bb2acd1507f5197fcd4e1c609f6cc6e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzA0MjAxMi9vcmlnaW5hbF9hMGZkYTJkZWQ4ODc4ZDI4MjAyNjA2MTUtMi1lZGlybHUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a0fda2ded8878d2820260615-2-edirlu.png"
+    },
+    {
+      "path": "assets/preview-33f7080c8307ae9b43f4e80c.webp",
+      "mimeType": "image/webp",
+      "alt": "PL-BCI-Roadmap2-Expanding Neurotechnology to Consumer Products.v1",
+      "role": "preview",
+      "bytes": 294296,
+      "sha256": "33f7080c8307ae9b43f4e80c5b58e8349a0f51c0f87efc34f7e4c0497aa41031",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47042012/original_a0fda2ded8878d2820260615-2-edirlu.png",
+      "originalName": "a0fda2ded8878d2820260615-2-edirlu.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 505790,
+        "width": 1236,
+        "height": 1600,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-15T14:08:14.000Z",
+  "updatedAt": "2026-06-15T14:08:17.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 11-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47042012",
+    "title": "PL-BCI-Roadmap2-Expanding Neurotechnology to Consumer Products.v1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47042012,
+      "url": "https://www.are.na/block/47042012",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "PL-BCI-Roadmap2-Expanding Neurotechnology to Consumer Products.v1",
+      "createdAt": "2026-06-15T14:08:14Z",
+      "updatedAt": "2026-06-15T14:08:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "paper",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "PL-BCI-Roadmap2-Expanding Neurotechnology to Consumer Products.v1",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "Protocol Labs Brain–Computer Interface Roadmap Series Roadmap 2\nExpanding Neurotechnology to Consumer Products\nDavid A. Markowitz*1, Juan Benet1, Jacques Carolan2, Eli Dourado3, Thomas Kalil4, Amy\nKruse5, Adam Marblestone6, Patrick Mineault7, Joanne Zichen Peng7, and Sean Escola*†1\n1Protocol Labs, 2ARIA, 3Astera, 4Renaissance Philanthropy, 5Satori Neuro, 6Convergent Research, 7Amaranth\nFoundation\nExecutive Summary\nThe neurotechnology field’s immediate focus must remain on developing clinical therapies to restore\nfunction and alleviate suffering. However, achieving the technology’s full potential to improve lives\nglobally requires a deliberate path from this essential clinical foundation into a broader consumer market.\nTo successfully bridge this chasm, this roadmap outlines how consumer access can only be unlocked\nthrough the non-negotiable guardrails of clinical utility, rigorous and transparent regulatory approval, and\nuncompromising patient trust.\nThe 5-year vision is to establish a viable consumer neurotechnology ecosystem grounded in clinical\nvalidation. This requires developing credible \"dual-benefit\" technologies that serve both therapeutic patient\nneeds and future consumer demand. To fund this transition, early-stage consumer demand will act as a\nfinancial bridge, where a small cohort of privately funded users de-risks new applications and provides\nthe vital capital necessary to make clinical platforms widely accessible. Responsibly governed neural data\ncan strengthen this bridge by enabling multiple high-value applications, from targeted neuromodulation\nand improved diagnostics to surgical planning, assistive interfaces, and AI. These broader partnerships can\nattract new R&D resources, accelerate clinical maturation, and expand the path to responsible consumer\nimpact.\nTo implement this strategy, this document offers specific, actionable steps for the neurotechnology community’s key stakeholders:\nFor Investors... For Founders... For Policymakers...\nThis document provides a framework\nfor de-risking the consumer transition\nand evaluating the long-term market po-\ntential of neurotech ventures. It high-\nlights how targeted investments in dual-\nbenefit use cases, market mapping, and\nnon-reimbursed, high-margin consumer\nbusiness models can expand the total ad-\ndressable market while preserving the\nfield’s necessary clinical focus.\nThis roadmap offers a guide for navigat-\ning the strategic tension between near-\nterm clinical milestones and a long-term\nconsumer vision. It presents a strat-\negy for building option value through\nfunded dual-benefit demonstrations and\nacademic add-on studies on approved\nplatforms, allowing companies to main-\ntain their clinical critical path while re-\ntaining a credible path to the consumer\nmarket.\nThis document defines the evidence,\nworkflow, and regulatory innovations re-\nquired to safely and responsibly transi-\ntion breakthrough medical devices into\ntools for public benefit. It provides a\nblueprint for fostering an innovation\necosystem that prioritizes safety, draw-\ning from regulatory precedents, to in-\nform a new, appropriate framework for\nconsumer neurotechnology.\n*Corresponding authors: david.markowitz@protocol.ai, sean.escola@protocol.ai\n†We thank the following experts for their insights and feedback in the drafting of these roadmaps:Matt Angle, Edward Chang,\nMilan Cvitkovic, Nita Farahany, Marcus Gerhardt, Vikash Gilja, Ilan Gur, Max Hodak, Michael Mager, Alan Mardinly, Craig Mermel,\nSumner Norman, Tom Oxley, Jacob Robinson, Benjamin Rapoport, Joshua Rosenow, Philip Sabes, Mikhail Shapiro, Sameer Sheth, Sunil\nSheth, Florian Solzbacher, Emma Zhou\n1\n\nProtocol Labs Brain–Computer Interface Roadmap Series Roadmap 2\n1 Beyond Treatment and Toward Human Flourishing\nThe mission of clinical neurotechnology companies is noble: to develop therapies that restore movement,\ncommunication, and brain health. Deep brain stimulators (DBS), for example, have become an accepted\ntherapy for disorders like Parkinson’s, with over 200,000 implants worldwide alleviating symptoms for\npatients.[1, 2] This clinical work is the foundation on which the future of the field will be built. Yet, while\nclinical healing is the necessary first horizon, to confine the ambition of neurotechnology to the clinic would\nleave its greatest potential for human flourishing untapped. The ultimate promise of neurotechnology lies\nnot only in healing the sick but also in empowering the healthy.\nOne of the most compelling cases for consumer neurotechnology lies in providing precise, effective, and\nsafe solutions to deeply human needs that are currently met by crude, systemic, and side-effect-laden tools:\nchemicals. Humans already spend hundreds of billions of dollars annually seeking to modulate their own\nbrain states. Examples include:\n• Precision Relaxation and Focus:Consumers use chemical stimulants and relaxants to manage their\ndaily lives. The U.S. caffeinated beverage market, a tool for focus, was valued at approximately $80B in\n2025.[3] The U.S. alcoholic beverage market, a tool for relaxation, exceeded $350B in 2025.[4] These are\nsystemic interventions, prone to abuse, with myriad undesirable side effects.\n• Precision Sleep:The desire for \"sleep on demand\" is a massive, unsolved problem. Consumers spend\nvast sums on chemical sleep aids, which act systemically and can create long-term dependency. The\nglobal sleep aids market is valued at >$80B for 2025.[5]\nNeurotechnology creates the opportunity to mimic the desired effects of these and other chemical\ninterventions (focus, calm, restorative sleep, etc.) with precision, on-demand, and without the risks of\nsystemic chemical tools. The stakes, therefore, are not about creating new consumer desires. They’re about\ncapturing a significant portion of the half-trillion-dollar-plus annual market that consumers already spend\non imprecise tools for brain state modulation.\nFrom this foundation, more ambitious applications may eventually become possible,",
+    "textPath": "extracted.txt",
+    "textSha256": "2af6d952363c7c6e197bb47c5e1876312c3359d6bbdae92b6283370772c52fb7",
+    "textCharacters": 31128,
+    "pages": 11,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_46231053",
+      "reason": "Both discuss the transition toward personalized neurotechnology, including EEG, neuromodulation, and end-user applications.",
+      "method": "curation-v1"
+    }
+  ]
+}

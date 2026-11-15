@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340225",
+  "type": "image",
+  "title": "Artspace Mobile",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "artspace-mobile",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f356538d67d0382c12d34d12.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Artspace Mobile",
+      "role": "original",
+      "bytes": 25713,
+      "sha256": "f356538d67d0382c12d34d126b7dd039de9fd1eb0653df3d2f7835d2fbcb2760",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340225/original_6922fa6bb6455dbe7521150622d4d760.jpg",
+      "originalName": "6922fa6bb6455dbe7521150622d4d760.jpg"
+    },
+    {
+      "path": "assets/thumbnail-98d3da8ca04c166d597d38a7.webp",
+      "mimeType": "image/webp",
+      "alt": "Artspace Mobile",
+      "role": "thumbnail",
+      "bytes": 2928,
+      "sha256": "98d3da8ca04c166d597d38a774bc51a6e4862633813e15bb1fd5610f02270d8a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIyNS9vcmlnaW5hbF82OTIyZmE2YmI2NDU1ZGJlNzUyMTE1MDYyMmQ0ZDc2MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6922fa6bb6455dbe7521150622d4d760.jpg"
+    },
+    {
+      "path": "assets/display-web-original-f356538d67d0382c12d34d12-f356538d67.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Artspace Mobile",
+      "bytes": 12436,
+      "sha256": "fbee721a21bc1b12b624c41553bb694ac31b1ff0baa7bf22ed0040e826145f43",
+      "width": 1000,
+      "height": 750,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f356538d67d0382c12d34d12.jpg",
+        "sourceSha256": "f356538d67d0382c12d34d126b7dd039de9fd1eb0653df3d2f7835d2fbcb2760",
+        "originalBytes": 25713,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340225",
+    "title": "140d754744c1aff39f2c8f006f515cfe.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340225,
+      "url": "https://www.are.na/block/44340225",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "140d754744c1aff39f2c8f006f515cfe.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "140d754744c1aff39f2c8f006f515cfe.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Artspace Mobile",
+    "text": "ART\nSPACE\nCHAPTER-\nUPCOMING\nRELEASES\nDAVID CROW\nHEY\nDESIGN\nBYACCIDENT.\nFOR ANAN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "fbee721a21bc1b12b624c41553bb694ac31b1ff0baa7bf22ed0040e826145f43"
+  }
+}

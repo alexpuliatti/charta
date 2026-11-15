@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787845",
+  "type": "image",
+  "title": "Sunlit Listening",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "sunlit-listening",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ece31ce2c887068c551a785d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sunlit Listening",
+      "role": "original",
+      "bytes": 164741,
+      "sha256": "ece31ce2c887068c551a785d45a35cb1d915f830f9665507f3844b4882ecfe4e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787845/original_f50a95c3f34b4d697ca5e6fd7c10fd65.jpg",
+      "originalName": "f50a95c3f34b4d697ca5e6fd7c10fd65.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6bb160d9ec4223b49e4ae9f8.webp",
+      "mimeType": "image/webp",
+      "alt": "Sunlit Listening",
+      "role": "thumbnail",
+      "bytes": 13530,
+      "sha256": "6bb160d9ec4223b49e4ae9f88039441adb21f8a60ebc59ce6fe5459707d89f51",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg0NS9vcmlnaW5hbF9mNTBhOTVjM2YzNGI0ZDY5N2NhNWU2ZmQ3YzEwZmQ2NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f50a95c3f34b4d697ca5e6fd7c10fd65.jpg"
+    },
+    {
+      "path": "assets/display-web-original-ece31ce2c887068c551a785d-ece31ce2c8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sunlit Listening",
+      "bytes": 124130,
+      "sha256": "900e41b91162d048fbb87f5610df735329eb74b3f237bcc5535f7cc9cd96e9ac",
+      "width": 1434,
+      "height": 1744,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ece31ce2c887068c551a785d.jpg",
+        "sourceSha256": "ece31ce2c887068c551a785d45a35cb1d915f830f9665507f3844b4882ecfe4e",
+        "originalBytes": 164741,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:00:54.000Z",
+  "updatedAt": "2025-11-02T16:00:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787845",
+    "title": "white__sage-20241231_125500-1200490947.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787845,
+      "url": "https://www.are.na/block/40787845",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "white__sage-20241231_125500-1200490947.jpg",
+      "createdAt": "2025-11-02T16:00:54Z",
+      "updatedAt": "2025-11-02T16:00:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "white__sage-20241231_125500-1200490947.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sunlit Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "900e41b91162d048fbb87f5610df735329eb74b3f237bcc5535f7cc9cd96e9ac"
+  }
+}

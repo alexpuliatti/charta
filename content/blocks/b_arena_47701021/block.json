@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701021",
+  "type": "image",
+  "title": "Frontier Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "frontier-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bfdddb0f93bc1e9ace25df34.png",
+      "mimeType": "image/png",
+      "alt": "Frontier Jacket",
+      "role": "original",
+      "bytes": 2572699,
+      "sha256": "bfdddb0f93bc1e9ace25df34cca44135b89213c9e78d8bc1c02856065944d807",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701021/original_cc693860c67468bd8df4d5ca146262b9.png",
+      "originalName": "cc693860c67468bd8df4d5ca146262b9.png"
+    },
+    {
+      "path": "assets/thumbnail-6e768bc670e5b94af9e3047c.webp",
+      "mimeType": "image/webp",
+      "alt": "Frontier Jacket",
+      "role": "thumbnail",
+      "bytes": 9848,
+      "sha256": "6e768bc670e5b94af9e3047c4dd2b012076ed54968dc8a5c9f1917f722a28e94",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyMS9vcmlnaW5hbF9jYzY5Mzg2MGM2NzQ2OGJkOGRmNGQ1Y2ExNDYyNjJiOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cc693860c67468bd8df4d5ca146262b9.png"
+    },
+    {
+      "path": "assets/display-web-original-bfdddb0f93bc1e9ace25df34-bfdddb0f93.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Frontier Jacket",
+      "bytes": 110142,
+      "sha256": "3647ce6e74f33bbe243044937b95315ff8c70e748fda764fe1ca653b7c273f1f",
+      "width": 1700,
+      "height": 1210,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bfdddb0f93bc1e9ace25df34.png",
+        "sourceSha256": "bfdddb0f93bc1e9ace25df34cca44135b89213c9e78d8bc1c02856065944d807",
+        "originalBytes": 2572699,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:17.000Z",
+  "updatedAt": "2026-07-08T14:56:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701021",
+    "title": "Screenshot 2023-09-12 alle 17.03.12",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701021,
+      "url": "https://www.are.na/block/47701021",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.03.12",
+      "createdAt": "2026-07-08T14:56:17Z",
+      "updatedAt": "2026-07-08T14:56:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.03.12",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Frontier Jacket",
+    "text": "ERIC AMBLER\ncomes to stay\nHe arrives with\nThe Dark Frontier-the story\nof what happened when one\nman changed his mind, and\nof the adventures, romance\nand danger that lay in wait\nfor him when he set out to\nsave Europe from war.\nH&s\nThe\nFRONTIER\nThOARK\nFRONTIER\nEric Ambler\nH&S\nHODDER & STOUGHTON\nEric Ambler",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3647ce6e74f33bbe243044937b95315ff8c70e748fda764fe1ca653b7c273f1f"
+  }
+}

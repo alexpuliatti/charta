@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247853",
+  "type": "image",
+  "title": "Albergo Italiano",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "albergo-italiano",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fcc16153f1f61223a2a789b8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Albergo Italiano",
+      "role": "original",
+      "bytes": 150967,
+      "sha256": "fcc16153f1f61223a2a789b8a94b1b5a4dc3229e799fffb882fbe5012bdfa990",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247853/original_67f30b8512ee7ce26835cc0eea35e27a.jpeg",
+      "originalName": "67f30b8512ee7ce26835cc0eea35e27a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-32e0aa3890bd546e052130ec.webp",
+      "mimeType": "image/webp",
+      "alt": "Albergo Italiano",
+      "role": "thumbnail",
+      "bytes": 7426,
+      "sha256": "32e0aa3890bd546e052130ecd9cec33c5cd886403a7d867bb0a0ae2a9ece9072",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg1My9vcmlnaW5hbF82N2YzMGI4NTEyZWU3Y2UyNjgzNWNjMGVlYTM1ZTI3YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "67f30b8512ee7ce26835cc0eea35e27a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-fcc16153f1f61223a2a789b8-fcc16153f1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Albergo Italiano",
+      "bytes": 103702,
+      "sha256": "7fa5c7742b3586c2ac091cb67855f9e4ad0a05be019d793e6054b5ea51ef135f",
+      "width": 1200,
+      "height": 1600,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fcc16153f1f61223a2a789b8.jpg",
+        "sourceSha256": "fcc16153f1f61223a2a789b8a94b1b5a4dc3229e799fffb882fbe5012bdfa990",
+        "originalBytes": 150967,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:27:40.000Z",
+  "updatedAt": "2026-06-23T14:27:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247853",
+    "title": "653b4cc5f7bd4e65cf24c7b3e885a15e",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247853,
+      "url": "https://www.are.na/block/47247853",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "653b4cc5f7bd4e65cf24c7b3e885a15e",
+      "createdAt": "2026-06-23T14:27:40Z",
+      "updatedAt": "2026-06-23T14:27:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "653b4cc5f7bd4e65cf24c7b3e885a15e",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Albergo Italiano",
+    "text": "@STUDIO. AFFECT\nPOSTO A QUIETO\nALBERGO\nITALIANO",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7fa5c7742b3586c2ac091cb67855f9e4ad0a05be019d793e6054b5ea51ef135f"
+  }
+}

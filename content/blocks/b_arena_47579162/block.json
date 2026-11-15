@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579162",
+  "type": "image",
+  "title": "City Listening",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "city-listening",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c156d5904aa87c5b1a42fac5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "City Listening",
+      "role": "original",
+      "bytes": 496076,
+      "sha256": "c156d5904aa87c5b1a42fac59d931e48213be126ee7e54a51d78e196e4c70ff2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579162/original_0420618646b6b380a1ff0112de9d76f8.jpeg",
+      "originalName": "0420618646b6b380a1ff0112de9d76f8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-181cd241de7e31db53b098d0.webp",
+      "mimeType": "image/webp",
+      "alt": "City Listening",
+      "role": "thumbnail",
+      "bytes": 14812,
+      "sha256": "181cd241de7e31db53b098d090e10c96e484c1b741e0eb6612794428fddfba8d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE2Mi9vcmlnaW5hbF8wNDIwNjE4NjQ2YjZiMzgwYTFmZjAxMTJkZTlkNzZmOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0420618646b6b380a1ff0112de9d76f8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c156d5904aa87c5b1a42fac5-c156d5904a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "City Listening",
+      "bytes": 245978,
+      "sha256": "a65a64919b25f9378bb585f3c46787de8400d8929843834edd0d5d2b7cf9268a",
+      "width": 1920,
+      "height": 1311,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c156d5904aa87c5b1a42fac5.jpg",
+        "sourceSha256": "c156d5904aa87c5b1a42fac59d931e48213be126ee7e54a51d78e196e4c70ff2",
+        "originalBytes": 496076,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:35:10.000Z",
+  "updatedAt": "2026-07-04T15:35:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579162",
+    "title": "Central Park Manhattan 1985",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579162,
+      "url": "https://www.are.na/block/47579162",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Central Park Manhattan 1985",
+      "createdAt": "2026-07-04T15:35:10Z",
+      "updatedAt": "2026-07-04T15:35:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Central Park Manhattan 1985",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "City Listening",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a65a64919b25f9378bb585f3c46787de8400d8929843834edd0d5d2b7cf9268a"
+  }
+}

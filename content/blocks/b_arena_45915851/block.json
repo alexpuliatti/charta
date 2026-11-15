@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45915851",
+  "type": "link",
+  "title": "Tracing Art",
+  "description": "How the Getty Provenance Index is transforming research on the social life of art",
+  "category": "Culture",
+  "tags": [
+    "art-history",
+    "provenance",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1d20545d689e723e081799af.webp",
+      "mimeType": "image/webp",
+      "alt": "Tracing Art",
+      "role": "thumbnail",
+      "bytes": 490,
+      "sha256": "1d20545d689e723e081799af36dd9d15c730c811678c527c146cfa8f7a483f11",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTkxNTg1MS9vcmlnaW5hbF80OTAxZTEzMTg4ZmNlMjQyMDBkMmUwYWJiZDE0MjZjYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4901e13188fce24200d2e0abbd1426cb.png"
+    },
+    {
+      "path": "assets/preview-8e45b5a0553b4944fe450b41.webp",
+      "mimeType": "image/webp",
+      "alt": "Tracing Art",
+      "role": "preview",
+      "bytes": 3428,
+      "sha256": "8e45b5a0553b4944fe450b414111281df930d55684e8bbe9693cf21ed31297bb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45915851/original_4901e13188fce24200d2e0abbd1426cb.png",
+      "originalName": "4901e13188fce24200d2e0abbd1426cb.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 29201,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-07T10:02:45.000Z",
+  "updatedAt": "2026-05-07T10:02:57.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.getty.edu/tracingart/",
+    "title": "Tracing Art",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45915851,
+      "url": "https://www.are.na/block/45915851",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Tracing Art",
+      "createdAt": "2026-05-07T10:02:45Z",
+      "updatedAt": "2026-05-07T10:02:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Archives",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Tracing Art",
+      "category": "Information design",
+      "tags": [
+        "research",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888611",
+  "type": "image",
+  "title": "Hermès Exhibition",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "herm-s-exhibition",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-10693a5644a2528988366d16.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Hermès Exhibition",
+      "role": "original",
+      "bytes": 271326,
+      "sha256": "10693a5644a2528988366d1675ff9b6f0f93d80c1b89813724eeb8b1414f67e2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888611/original_6add33f0689b7ff616c9a5e418fbd2d8.jpeg",
+      "originalName": "6add33f0689b7ff616c9a5e418fbd2d8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-6e8bf917cb9a6c7530e29268.webp",
+      "mimeType": "image/webp",
+      "alt": "Hermès Exhibition",
+      "role": "thumbnail",
+      "bytes": 11412,
+      "sha256": "6e8bf917cb9a6c7530e29268c0e8091329137b14e352224031290fbb9408644e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYxMS9vcmlnaW5hbF82YWRkMzNmMDY4OWI3ZmY2MTZjOWE1ZTQxOGZiZDJkOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6add33f0689b7ff616c9a5e418fbd2d8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-10693a5644a2528988366d16-10693a5644.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Hermès Exhibition",
+      "bytes": 215762,
+      "sha256": "9f4d72e565ea6ed845ef277b371f5dd0a3a84f21a8b3b0a5aa9184eb75cebb29",
+      "width": 1200,
+      "height": 1258,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-10693a5644a2528988366d16.jpg",
+        "sourceSha256": "10693a5644a2528988366d1675ff9b6f0f93d80c1b89813724eeb8b1414f67e2",
+        "originalBytes": 271326,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:50.000Z",
+  "updatedAt": "2026-07-05T21:01:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888611",
+    "title": "fcbc835bba8eb3c22a18100c3b9fe54f.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888611,
+      "url": "https://www.are.na/block/45888611",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "fcbc835bba8eb3c22a18100c3b9fe54f.jpg",
+      "createdAt": "2026-05-06T12:23:50Z",
+      "updatedAt": "2026-07-05T21:01:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "fcbc835bba8eb3c22a18100c3b9fe54f.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Hermès Exhibition",
+    "text": "Franklin Gothic by URW Type Foundry\nis the closest i found!\nHermès\nMilan\nDesign Week\n2024\nApril 16 to 21\nd@fusioncreativestudio",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9f4d72e565ea6ed845ef277b371f5dd0a3a84f21a8b3b0a5aa9184eb75cebb29"
+  }
+}

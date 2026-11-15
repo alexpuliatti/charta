@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_health_technology",
+  "title": "Neurotech",
+  "description": "",
+  "order": 0,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47579117"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47128096"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47105790"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46319324"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46231880"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46231295"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46231246"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46231184"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46230977"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016834"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016816"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46016389"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40766710"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

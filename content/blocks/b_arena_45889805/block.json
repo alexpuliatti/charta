@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889805",
+  "type": "file",
+  "title": "Sad by Design",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "platforms",
+    "social-media",
+    "digital-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4d819f4843d733526c91c746.pdf",
+      "mimeType": "application/pdf",
+      "alt": "sad-by-design.pdf",
+      "role": "original",
+      "bytes": 1304211,
+      "sha256": "4d819f4843d733526c91c74643c9a7121c33e89c16d6e2fafc40413f00714046",
+      "sourceUrl": "https://attachments.are.na/45889805/d0294cdc5c3db6679a589480ed53db7b.pdf",
+      "originalName": "d0294cdc5c3db6679a589480ed53db7b.pdf"
+    },
+    {
+      "path": "assets/thumbnail-0b7a3145b0555c0c368ac0a9.webp",
+      "mimeType": "image/webp",
+      "alt": "sad-by-design.pdf",
+      "role": "thumbnail",
+      "bytes": 4484,
+      "sha256": "0b7a3145b0555c0c368ac0a97daa73469f6c7024ffb95b62759a06a87522fdac",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTgwNS9vcmlnaW5hbF9kY2NlOTYyMGEwYjdmOGYxMjAyNjA1MDYtMi1yMmlkZzMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "dcce9620a0b7f8f120260506-2-r2idg3.png"
+    },
+    {
+      "path": "assets/preview-a0199fc2b997ce63d6d9c35b.webp",
+      "mimeType": "image/webp",
+      "alt": "sad-by-design.pdf",
+      "role": "preview",
+      "bytes": 33732,
+      "sha256": "a0199fc2b997ce63d6d9c35b7a5cfb1ab9241620553c7ece171e01324e8763ac",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889805/original_dcce9620a0b7f8f120260506-2-r2idg3.png",
+      "originalName": "dcce9620a0b7f8f120260506-2-r2idg3.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 170404,
+        "width": 1006,
+        "height": 1600,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:11:44.000Z",
+  "updatedAt": "2026-05-06T13:11:50.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 193-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889805",
+    "title": "sad-by-design.pdf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889805,
+      "url": "https://www.are.na/block/45889805",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "sad-by-design.pdf",
+      "createdAt": "2026-05-06T13:11:44Z",
+      "updatedAt": "2026-05-06T13:11:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "book",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sad-by-design.pdf",
+      "category": "Writing and ideas",
+      "tags": [
+        "design-criticism",
+        "platform-culture",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "\n\nSad by Design\n\nDigital Barricades:  \nInterventions in Digital Culture and Politics\nSeries editors:\nProfessor Jodi Dean, Hobart and William Smith Colleges\nDr Joss Hands, Newcastle University\nProfessor Tim Jordan, University of Sussex\nAlso available:\nShooting a Revolution:\nVisual Media and Warfare in Syria\nDonatella Della Ratta\nCyber-Proletariat:\nGlobal Labour in the Digital Vortex\nNick Dyer-Witheford\nThe Digital Party:\nPolitical Organisation and Online Democracy\nPaolo Gerbaudo\nGadget Consciousness:\nCollective Thought, Will and Action in the Age of Social Media\nJoss Hands\nInformation Politics:\nLiberation and Exploitation in the Digital Society\nTim Jordan\nUnreal Objects:\nDigital Materialities, Technoscientific Projects and Political Realities\nKate O’Riordan\n\nSad by Design\nOn Platform Nihilism\nGeert Lovink\n\n\nFirst published 2019 by Pluto Press\n345 Archway Road, London N6 5AA \nwww.plutobooks.com\nCopyright © Geert Lovink 2019\nThe right of Geert Lovink to be identified as the author of this work has \nbeen asserted by him in accordance with the Copyright, Designs and \nPatents Act 1988.\nBritish Library Cataloguing in Publication Data\nA catalogue record for this book is available from the British Library\nISBN 978 0 7453 3935 1 Hardback\nISBN 978 0 7453 3934 4 Paperback\nISBN 978 1 7868 0451 8 PDF eBook\nISBN 978 1 7868 0453 2 Kindle eBook\nISBN 978 1 7868 0452 5 EPUB eBook\nThis book is printed on paper suitable for recycling and made from fully \nmanaged and sustained forest sources. Logging, pulping and manufacturing \nprocesses are expected to conform to the environmental standards of the \ncountry of origin. \nTypeset by Stanford DTP Services, Northampton, England\nSimultaneously printed in the United Kingdom and United States of America\n\nContents\nSeries Preface vi\nAcknowledgements vii\nIntroduction: Society of the Social 1\n 1. Overcoming the Disillusioned Internet 13\n 2. Social Media as Ideology 23\n 3. Distraction and its Discontents 33\n 4. Sad by Design 45\n 5. Media Network Platform: Three Architectures 61\n 6. From Registration to Extermination: On Technological  \nViolence 77\n 7. Narcissus Confirmed: Technologies of the Minimal Selfie 98\n 8. Mask Design: Aesthetics of the Faceless 108\n 9. Memes as Strategy: European Origins and Debates 119\n10. Before Building the Avant-Garde of the Commons 138\nNotes 151\nBibliography 171\n\nSeries Preface\nCrisis and conflict open up opportunities for liberation. In the early \ntwenty-first century, these moments are marked by struggles enacted \nover and across the boundaries of the virtual, the digital, the actual, \nand the real. Digital cultures and politics connect people even as they \nsimultaneously place them under surveillance and allow their lives to be \nmined for advertising. This series aims to intervene in such cultural and \npolitical conjunctures. It features critical explorations of the new terrains \nand practices of resistance, producing critical and informed explorations \nof the possibilities for revolt and liberation.\nEmerging research on digital cultures and politics investigates the \neffects of the widespread digitization of increasing numbers of cultural \nobjects, the new channels of communication swirling around us and \nthe changing means of producing, remixing and distributing digital \nobjects. This research tends to oscillate between agendas of hope, that \nmake remarkable claims for increased participation, and agendas of \nfear, that assume expanded repression and commodification. To avoid \nthe opposites of hope and fear, the books in this series aggregate around \nthe idea of the barricade. As sources of enclosure as well as defenses for \nliberated space, barricades are erected where struggles are fierce and the \nstakes are high. They are necessarily partisan divides, different politici-\nzations and deployments of a common surface. In this sense, new media \nobjects, their networked circuits and settings, as well as their material, \ninformational, and biological carriers all act as digital barricades.\nJodi Dean, Joss Hands and Tim Jordan\n\nAcknowledgements\nThree years have passed since I handed in the manuscript of Social Media \nAbyss. Looking back, this period has been defined by Brexit, Trump, \nCambridge Analytica and related Facebook scandals. Absent were the \nequivalents of Wikileaks, Anonymous and Snowden (perhaps with the \nexception of Cambridge Analytica whistle-blower Chris Wylie). There \nwas a lot of ideological regression and “multi-polar” stagnation, acceler-\nated by a booming stock market, real estate excesses, an ongoing war in \nSyria and real existing climate change. While the “social media debate” \nhit the mainstream, resistance and alternatives were all but absent—with \nthe exception of the alt-right.\nAs the public discourse around “behavior modification” and “per -\nvasive surveillance” intensified, I shifted away from the preferred \npanorama format used in my previous books. Dutch cultural funding for \nnew projects at our Institute of Network Cultures had dried up (mainly \ndue to new Dutch apartheid walls erected between education/research \nand the cultural sector). This forced us to go into survival mode and \nwork for third parties, which is the main reason I’m not reporting about \nthe activities of our networks here (even though MoneyLab stills runs \nand various digital publishing experiments continue, despite the closure \nof the PublishingLab in 2018).\nThanks to David Castle at Pluto Press and the editors of the Digital \nBarricades series for taking this book project on board and for their \nvaluable comments. \nWorking together with copy editor Luke Munn (Auckland) was an \namazingly smooth and most pleasurable experience.\nMy Berlin dialogues over the years with Pit Schultz, Michael Seemann, \nVolker Grassmuck, Andreas Kallfelz, Stefan Heidenreich and Alexander \nKarschnia have proven vital for my intellectual wellbeing. Gratitude goes \nto Steven Shapiro, Ana Peraica, Marc Tuters, Mieke Gerritzen, Franco \nBerardi, Letizia Chiappini, Dani",
+    "textPath": "extracted.txt",
+    "textSha256": "74d545e76f6535c36a70eb041c0acbc1ff8f5ae7819cfd035fa8429ec2eb5b17",
+    "textCharacters": 443702,
+    "pages": 193,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45889841",
+      "reason": "Both analyze social-platform culture and its consequences for online communities; the latter explicitly proposes alternatives.",
+      "method": "curation-v1"
+    }
+  ],
+  "pdfReading": {
+    "assets/original-4d819f4843d733526c91c746.pdf": {
+      "revision": 2,
+      "notes": "",
+      "annotations": []
+    }
+  }
+}

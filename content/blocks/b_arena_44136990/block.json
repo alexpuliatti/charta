@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136990",
+  "type": "image",
+  "title": "Citation Sixteen",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "citation-sixteen",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-833edb09d2526a4733768a31.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Citation Sixteen",
+      "role": "original",
+      "bytes": 374793,
+      "sha256": "833edb09d2526a4733768a314a6b818c31f8d2f04582b77072234a1f0afb6225",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136990/original_1e8422ec4d9447019962699449d4f0e5.jpg",
+      "originalName": "1e8422ec4d9447019962699449d4f0e5.jpg"
+    },
+    {
+      "path": "assets/thumbnail-89b35f3e5bf18b7b68ae2575.webp",
+      "mimeType": "image/webp",
+      "alt": "Citation Sixteen",
+      "role": "thumbnail",
+      "bytes": 11502,
+      "sha256": "89b35f3e5bf18b7b68ae2575563f23c76e4130e403b67f82160ec896ac409864",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk5MC9vcmlnaW5hbF8xZTg0MjJlYzRkOTQ0NzAxOTk2MjY5OTQ0OWQ0ZjBlNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1e8422ec4d9447019962699449d4f0e5.jpg"
+    },
+    {
+      "path": "assets/display-web-original-833edb09d2526a4733768a31-833edb09d2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Citation Sixteen",
+      "bytes": 160028,
+      "sha256": "fa019d871e932f01406838d128b264560cf0b25772d502f03b42bd867a935ed1",
+      "width": 1500,
+      "height": 1946,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-833edb09d2526a4733768a31.jpg",
+        "sourceSha256": "833edb09d2526a4733768a314a6b818c31f8d2f04582b77072234a1f0afb6225",
+        "originalBytes": 374793,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:42.000Z",
+  "updatedAt": "2026-03-04T15:36:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136990",
+    "title": "hakwxvjacaedycz.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136990,
+      "url": "https://www.are.na/block/44136990",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hakwxvjacaedycz.jpeg",
+      "createdAt": "2026-03-04T15:36:42Z",
+      "updatedAt": "2026-03-04T15:36:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hakwxvjacaedycz.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Citation Sixteen",
+    "text": "harman/kardon\nCitation 16\nOwner's Manual",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "fa019d871e932f01406838d128b264560cf0b25772d502f03b42bd867a935ed1"
+  }
+}

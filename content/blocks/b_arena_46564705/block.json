@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46564705",
+  "type": "link",
+  "title": "Glimm Transitions",
+  "description": "A single WebGL band sweeps across the screen while routes swap underneath. Sub-10kb, GPU-composited, drop-in.",
+  "category": "Interface design",
+  "tags": [
+    "webgl",
+    "shaders",
+    "page-transitions"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-4bd1c4b41820045aa4cc4287.webp",
+      "mimeType": "image/webp",
+      "alt": "glimm — shader-driven page transitions",
+      "role": "thumbnail",
+      "bytes": 5012,
+      "sha256": "4bd1c4b41820045aa4cc4287d5e0ecc815feb83e1db746edbd2dda59ecd30c59",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU2NDcwNS9vcmlnaW5hbF8yMDAyZTdkYTZjZTQ5MTIxMjM5YzFmZTYyYzRjZmM5Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2002e7da6ce49121239c1fe62c4cfc96.png"
+    },
+    {
+      "path": "assets/preview-1027f07d7e72fdb158241119.webp",
+      "mimeType": "image/webp",
+      "alt": "glimm — shader-driven page transitions",
+      "role": "preview",
+      "bytes": 135644,
+      "sha256": "1027f07d7e72fdb1582411190d9f4bafc31b047e2ae2e4df97357e4fce91a5d7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46564705/original_2002e7da6ce49121239c1fe62c4cfc96.png",
+      "originalName": "2002e7da6ce49121239c1fe62c4cfc96.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 664814,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-28T17:43:43.000Z",
+  "updatedAt": "2026-05-28T17:43:54.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://glimm.dev/",
+    "title": "glimm — shader-driven page transitions",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46564705,
+      "url": "https://www.are.na/block/46564705",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "glimm — shader-driven page transitions",
+      "createdAt": "2026-05-28T17:43:43Z",
+      "updatedAt": "2026-05-28T17:43:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "glimm — shader-driven page transitions",
+      "category": "Technology",
+      "tags": [
+        "creative-coding",
+        "music",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

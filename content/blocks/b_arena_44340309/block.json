@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340309",
+  "type": "image",
+  "title": "Open Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "open-bedroom",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fa593de1a7f9d457be5fdf5e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Open Bedroom",
+      "role": "original",
+      "bytes": 52477,
+      "sha256": "fa593de1a7f9d457be5fdf5e890aeb62533a441f76acc5ec716c67dbeeb19a4b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340309/original_22776675282d1e6d7980aa51dd237ad4.jpg",
+      "originalName": "22776675282d1e6d7980aa51dd237ad4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6ac2ebf49bb0e88ea6f3e1b9.webp",
+      "mimeType": "image/webp",
+      "alt": "Open Bedroom",
+      "role": "thumbnail",
+      "bytes": 10964,
+      "sha256": "6ac2ebf49bb0e88ea6f3e1b907e3b4ba190c11cb725540a5e107364d6ad38e7f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwOS9vcmlnaW5hbF8yMjc3NjY3NTI4MmQxZTZkNzk4MGFhNTFkZDIzN2FkNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "22776675282d1e6d7980aa51dd237ad4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fa593de1a7f9d457be5fdf5e-fa593de1a7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Open Bedroom",
+      "bytes": 37894,
+      "sha256": "c121b62fe2cf0b3a4871c95a2483911065673fbd6be2fd66261479618f28567c",
+      "width": 735,
+      "height": 532,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fa593de1a7f9d457be5fdf5e.jpg",
+        "sourceSha256": "fa593de1a7f9d457be5fdf5e890aeb62533a441f76acc5ec716c67dbeeb19a4b",
+        "originalBytes": 52477,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340309",
+    "title": "96fa6645a1d40af048147bfbdcc1f737.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340309,
+      "url": "https://www.are.na/block/44340309",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "96fa6645a1d40af048147bfbdcc1f737.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "96fa6645a1d40af048147bfbdcc1f737.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Open Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c121b62fe2cf0b3a4871c95a2483911065673fbd6be2fd66261479618f28567c"
+  }
+}

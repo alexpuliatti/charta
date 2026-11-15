@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340318",
+  "type": "image",
+  "title": "Divided Canvas",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "divided-canvas",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-98f13bf83a95fe6fa7b0a57b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Divided Canvas",
+      "role": "original",
+      "bytes": 93873,
+      "sha256": "98f13bf83a95fe6fa7b0a57b7a657b5340c5f4a0a701f4d3b864e9f0e955ee63",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340318/original_a9aa6241f9da01f214e91fb7e1e6181a.jpg",
+      "originalName": "a9aa6241f9da01f214e91fb7e1e6181a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6662702516d45d52e5cab71b.webp",
+      "mimeType": "image/webp",
+      "alt": "Divided Canvas",
+      "role": "thumbnail",
+      "bytes": 6968,
+      "sha256": "6662702516d45d52e5cab71b43180dace0b583db09932a9dffd13bf1fadde3a3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxOC9vcmlnaW5hbF9hOWFhNjI0MWY5ZGEwMWYyMTRlOTFmYjdlMWU2MTgxYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a9aa6241f9da01f214e91fb7e1e6181a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-98f13bf83a95fe6fa7b0a57b-98f13bf83a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Divided Canvas",
+      "bytes": 65868,
+      "sha256": "1171f217bbe0b9dd0351ba101d00ce14160f92126034032139c3f31ada6fc872",
+      "width": 702,
+      "height": 1195,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-98f13bf83a95fe6fa7b0a57b.jpg",
+        "sourceSha256": "98f13bf83a95fe6fa7b0a57b7a657b5340c5f4a0a701f4d3b864e9f0e955ee63",
+        "originalBytes": 93873,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T18:09:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340318",
+    "title": "e144076d3e1f9dd74b3e5f06b579be67-1-.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340318,
+      "url": "https://www.are.na/block/44340318",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "e144076d3e1f9dd74b3e5f06b579be67-1-.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T18:09:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "e144076d3e1f9dd74b3e5f06b579be67-1-.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Divided Canvas",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1171f217bbe0b9dd0351ba101d00ce14160f92126034032139c3f31ada6fc872"
+  }
+}

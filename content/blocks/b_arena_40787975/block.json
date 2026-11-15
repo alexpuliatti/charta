@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787975",
+  "type": "image",
+  "title": "Cream Lounge",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "cream-lounge",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9bfc63e170c26f7f087c74f8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Cream Lounge",
+      "role": "original",
+      "bytes": 322167,
+      "sha256": "9bfc63e170c26f7f087c74f85f4ea0147ccb92b1110c116b027331866b56ca59",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787975/original_cc553835886b2dd0b495c9cd4bed8463.jpg",
+      "originalName": "cc553835886b2dd0b495c9cd4bed8463.jpg"
+    },
+    {
+      "path": "assets/thumbnail-86d33d95bab63b3103c854e5.webp",
+      "mimeType": "image/webp",
+      "alt": "Cream Lounge",
+      "role": "thumbnail",
+      "bytes": 3930,
+      "sha256": "86d33d95bab63b3103c854e5ea36e82dff93aca1d589f2374e67e6102f381094",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk3NS9vcmlnaW5hbF9jYzU1MzgzNTg4NmIyZGQwYjQ5NWM5Y2Q0YmVkODQ2My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cc553835886b2dd0b495c9cd4bed8463.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9bfc63e170c26f7f087c74f8-9bfc63e170.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Cream Lounge",
+      "bytes": 86822,
+      "sha256": "9a76016c0c005bad86c50d32779a07412947f02d7901037a2ed437b5de012959",
+      "width": 1125,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9bfc63e170c26f7f087c74f8.jpg",
+        "sourceSha256": "9bfc63e170c26f7f087c74f85f4ea0147ccb92b1110c116b027331866b56ca59",
+        "originalBytes": 322167,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:07:59.000Z",
+  "updatedAt": "2025-11-02T16:08:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787975",
+    "title": "gemellineeee-20250407_093400-160409385.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787975,
+      "url": "https://www.are.na/block/40787975",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gemellineeee-20250407_093400-160409385.jpg",
+      "createdAt": "2025-11-02T16:07:59Z",
+      "updatedAt": "2025-11-02T16:08:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gemellineeee-20250407_093400-160409385.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cream Lounge",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9a76016c0c005bad86c50d32779a07412947f02d7901037a2ed437b5de012959"
+  }
+}

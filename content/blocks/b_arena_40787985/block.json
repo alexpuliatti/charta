@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787985",
+  "type": "image",
+  "title": "Concrete Living",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "concrete-living",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fa338aba9f333f2f93d33aa6.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Concrete Living",
+      "role": "original",
+      "bytes": 114244,
+      "sha256": "fa338aba9f333f2f93d33aa626d4d9f033f36749175b3ab4e5156465a3da1e72",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787985/original_f478c895f46b7c5919ad8fdd383d3b8b.jpg",
+      "originalName": "f478c895f46b7c5919ad8fdd383d3b8b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d0be214dccccee91e5f54e12.webp",
+      "mimeType": "image/webp",
+      "alt": "Concrete Living",
+      "role": "thumbnail",
+      "bytes": 14420,
+      "sha256": "d0be214dccccee91e5f54e12dbaa9bc47f7356fb4201305cb50eefcc1fef6db2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk4NS9vcmlnaW5hbF9mNDc4Yzg5NWY0NmI3YzU5MTlhZDhmZGQzODNkM2I4Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f478c895f46b7c5919ad8fdd383d3b8b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fa338aba9f333f2f93d33aa6-fa338aba9f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Concrete Living",
+      "bytes": 70796,
+      "sha256": "296f2f5167a24a42607583527ecba081df603a2093a65fcd1c771ed84acd70e1",
+      "width": 735,
+      "height": 887,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fa338aba9f333f2f93d33aa6.jpg",
+        "sourceSha256": "fa338aba9f333f2f93d33aa626d4d9f033f36749175b3ab4e5156465a3da1e72",
+        "originalBytes": 114244,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:08:34.000Z",
+  "updatedAt": "2025-11-02T16:08:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787985",
+    "title": "gcmu7kuwyaaatmu.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787985,
+      "url": "https://www.are.na/block/40787985",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gcmu7kuwyaaatmu.jpeg",
+      "createdAt": "2025-11-02T16:08:34Z",
+      "updatedAt": "2025-11-02T16:08:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gcmu7kuwyaaatmu.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Concrete Living",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "296f2f5167a24a42607583527ecba081df603a2093a65fcd1c771ed84acd70e1"
+  }
+}

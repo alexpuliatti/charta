@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888720",
+  "type": "image",
+  "title": "Outlined Figures",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "outlined-figures",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-90bb5786e7ad25a54c44e572.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Outlined Figures",
+      "role": "original",
+      "bytes": 1477035,
+      "sha256": "90bb5786e7ad25a54c44e5724a156f8c1aa4c884f2290458bbe560d8b3711912",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888720/original_1b81009f9b3b69d3a690901169fde3f8.jpeg",
+      "originalName": "1b81009f9b3b69d3a690901169fde3f8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-8b8ec577cb86ecf865aee395.webp",
+      "mimeType": "image/webp",
+      "alt": "Outlined Figures",
+      "role": "thumbnail",
+      "bytes": 16372,
+      "sha256": "8b8ec577cb86ecf865aee395be54f390fdb24b74c8dea49900dd6616347e64a0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcyMC9vcmlnaW5hbF8xYjgxMDA5ZjliM2I2OWQzYTY5MDkwMTE2OWZkZTNmOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1b81009f9b3b69d3a690901169fde3f8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-90bb5786e7ad25a54c44e572-90bb5786e7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Outlined Figures",
+      "bytes": 1107324,
+      "sha256": "3d5762f5d54ca2285e3d7d6984278d8be5a06bceb9bce03a7fa03ba703eacaf6",
+      "width": 1546,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-90bb5786e7ad25a54c44e572.jpg",
+        "sourceSha256": "90bb5786e7ad25a54c44e5724a156f8c1aa4c884f2290458bbe560d8b3711912",
+        "originalBytes": 1477035,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:49.000Z",
+  "updatedAt": "2026-05-06T12:27:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888720",
+    "title": "tlon1.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888720,
+      "url": "https://www.are.na/block/45888720",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "tlon1.jpg",
+      "createdAt": "2026-05-06T12:26:49Z",
+      "updatedAt": "2026-05-06T12:27:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "tlon1.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Outlined Figures",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3d5762f5d54ca2285e3d7d6984278d8be5a06bceb9bce03a7fa03ba703eacaf6"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177599",
+  "type": "video",
+  "title": "Forest Website",
+  "description": "Semantically annotating 3D gaussian splats on the fly using gemini 3.1 + sparkjs\n Load any 3D scene and hit scan\nGet 2D detections from VLM\nCluster outputs & project into 3D world space\nSave as a persistent 3D semantic layer\nInspired by @alexanderchen's experiments with gemini visual intelligence. Just had to try to lift it from 2D to 3D!",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "forest-website",
+    "3d-design",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6d2b5f1bba97dcc6b5c51436.mp4",
+      "mimeType": "video/mp4",
+      "alt": "Bilawal Sidhu on X @bilawalsidhu",
+      "role": "original",
+      "bytes": 12594466,
+      "sha256": "6d2b5f1bba97dcc6b5c514365012c743652cd3b1aea4047807e6ee1e4d211738",
+      "sourceUrl": "https://attachments.are.na/46177599/9b7b2b043c4c698864eb5dceb9a327e4.mp4",
+      "originalName": "9b7b2b043c4c698864eb5dceb9a327e4.mp4"
+    },
+    {
+      "path": "assets/thumbnail-8e5cfddc7a820fc049ba0ac6.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Website",
+      "role": "thumbnail",
+      "bytes": 13150,
+      "sha256": "8e5cfddc7a820fc049ba0ac616ac9862c0560655e428e300f775ad58f1e81574",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3NzU5OS9vcmlnaW5hbF8wYjU4MTViNzliNmUwYTVmMjAyNjA1MTUtMi1kajV0ZDQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0b5815b79b6e0a5f20260515-2-dj5td4.png"
+    },
+    {
+      "path": "assets/display-web-original-6d2b5f1bba97dcc6b5c51436-6d2b5f1bba.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "Bilawal Sidhu on X @bilawalsidhu",
+      "bytes": 9259900,
+      "sha256": "3ce0669371789f3d282a7b0674b70c24be95f2fecee6aeedda4586db376c28f8",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6d2b5f1bba97dcc6b5c51436.mp4",
+        "sourceSha256": "6d2b5f1bba97dcc6b5c514365012c743652cd3b1aea4047807e6ee1e4d211738",
+        "originalBytes": 12594466,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-185624647a6e396dd8acd242.webp",
+      "mimeType": "image/webp",
+      "alt": "Bilawal Sidhu on X @bilawalsidhu",
+      "role": "preview",
+      "bytes": 230624,
+      "sha256": "185624647a6e396dd8acd2428f429f397e2c2349de2b00c849f4bd697298a2d7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177599/original_0b5815b79b6e0a5f20260515-2-dj5td4.png",
+      "originalName": "0b5815b79b6e0a5f20260515-2-dj5td4.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2792023,
+        "width": 1920,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:03:30.000Z",
+  "updatedAt": "2026-05-15T12:03:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/bilawalsidhu/status/2055109842474316140?s=20",
+    "title": "Bilawal Sidhu on X @bilawalsidhu",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177599,
+      "url": "https://www.are.na/block/46177599",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Bilawal Sidhu on X @bilawalsidhu",
+      "createdAt": "2026-05-15T12:03:30Z",
+      "updatedAt": "2026-05-15T12:03:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Bilawal Sidhu on X @bilawalsidhu",
+      "category": "Tools and resources",
+      "tags": [
+        "3d-design",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Website",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8e5cfddc7a820fc049ba0ac616ac9862c0560655e428e300f775ad58f1e81574"
+  }
+}

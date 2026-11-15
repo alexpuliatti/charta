@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46252176",
+  "type": "link",
+  "title": "Creative Code",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "creative-coding",
+    "resources"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-8d12535415fcf37cae81ac25.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "thumbnail",
+      "bytes": 376,
+      "sha256": "8d12535415fcf37cae81ac255618cc425b817b689710b62a62ccef7bd7755587",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjI1MjE3Ni9vcmlnaW5hbF9lNThiM2RjNTlmNTdlMDBmYTJiOTMwN2IxMDI3NTE1MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e58b3dc59f57e00fa2b9307b10275150.png"
+    },
+    {
+      "path": "assets/preview-1a32d4efe245b0f1391c543c.webp",
+      "mimeType": "image/webp",
+      "alt": "",
+      "role": "preview",
+      "bytes": 992,
+      "sha256": "1a32d4efe245b0f1391c543cba303e7e6a11605bedb8482858451854b5a1e5b3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46252176/original_e58b3dc59f57e00fa2b9307b10275150.png",
+      "originalName": "e58b3dc59f57e00fa2b9307b10275150.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2640,
+        "width": 1280,
+        "height": 1280,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-17T08:56:17.000Z",
+  "updatedAt": "2026-05-17T08:56:29.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Saved Notion URL identifies That Creative Code Page; body was unavailable in archive. Resource category is grounded in URL title and source collection."
+  },
+  "source": {
+    "url": "https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b",
+    "title": "Link · design-tools · 46252176",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46252176,
+      "url": "https://www.are.na/block/46252176",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-05-17T08:56:17Z",
+      "updatedAt": "2026-05-17T08:56:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "resource",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "Link · design-tools · 46252176",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

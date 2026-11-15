@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892673",
+  "type": "link",
+  "title": "Procedural Computer",
+  "description": "An art and technology studio focused on prototyping and emerging systems. We create digital experiences, tools, and artworks — turning ideas into visual systems.",
+  "category": "Companies",
+  "tags": [
+    "art-technology",
+    "prototyping",
+    "creative-coding"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-6f3ff669fdc1bc0f9f89e2d7.webp",
+      "mimeType": "image/webp",
+      "alt": "procedural computer",
+      "role": "thumbnail",
+      "bytes": 1466,
+      "sha256": "6f3ff669fdc1bc0f9f89e2d7412c83e3ec1353353054ead12aa3740b30f8851b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjY3My9vcmlnaW5hbF80ZGZiMGVmNGRjOTE1ODI2MjYwOWViOWQ1MDVhNDBmNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4dfb0ef4dc9158262609eb9d505a40f5.png"
+    },
+    {
+      "path": "assets/preview-924b23d59d5007a878694d07.webp",
+      "mimeType": "image/webp",
+      "alt": "procedural computer",
+      "role": "preview",
+      "bytes": 17622,
+      "sha256": "924b23d59d5007a878694d07614a42117d7075352e3ace9a0a5a6cbe96869fad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892673/original_4dfb0ef4dc9158262609eb9d505a40f5.png",
+      "originalName": "4dfb0ef4dc9158262609eb9d505a40f5.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 74181,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:44:30.000Z",
+  "updatedAt": "2026-05-06T14:44:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://procedural.computer/",
+    "title": "procedural computer",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892673,
+      "url": "https://www.are.na/block/45892673",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "procedural computer",
+      "createdAt": "2026-05-06T14:44:30Z",
+      "updatedAt": "2026-05-06T14:44:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "procedural computer",
+      "category": "Information design",
+      "tags": [
+        "contemporary-art",
+        "tools",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_1390734",
+  "type": "image",
+  "title": "Element Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "element-typography",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c25bcfcc96f2ddb34bf10fc6.gif",
+      "mimeType": "image/gif",
+      "alt": "Element Typography",
+      "role": "original",
+      "bytes": 6107084,
+      "sha256": "c25bcfcc96f2ddb34bf10fc66c09c537cd3c6103cb7de9df4c482ee54d4d04aa",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/1390734/original_62da685c156e57adbc6617b7fbbb4085",
+      "originalName": "62da685c156e57adbc6617b7fbbb4085"
+    }
+  ],
+  "related": [],
+  "createdAt": "2017-11-02T19:03:47.000Z",
+  "updatedAt": "2026-09-22T16:10:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://static1.squarespace.com/static/5974f6cb15d5db2de137549c/5974ff7f15d5db2de137b74b/5990f1fae6f2e104f70cb226/1509531251684/BJYG17_Spotify_Guides.gif?format=2500w",
+    "title": "BJYG17_Spotify_Guides.gif (2500×1628)",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 1390734,
+      "url": "https://www.are.na/block/1390734",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2017-11-02T19:03:47Z",
+      "updatedAt": "2026-09-22T16:10:26Z",
+      "addedBy": {
+        "id": 11466,
+        "name": "Zachary Allott",
+        "slug": "zachary-allott"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Image · visualizzare il sapere · 1390734",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Element Typography",
+    "text": "Spotify\nIdentity Guidelines\nAdvanced Edition\nAdr -121\nSpotty Haily Guidat\nPart 3-B\nElement 2:\nTypography\nso Pacemen\neng Logo Clarit\nnice our Los wal otten Do interacut Wit\nsome ground rules around its placement within\nstandout and be and recognibon.\nGoner www ike the loos to st owe a faith\nclean and cloar area of a communication We\n•ne hard and fast rulowith Loss olscement\nAor-V21\nWhat is the Burst\n•o the vanesy an overty cathe burice\nBurst Form.\nEach form carros innate emotional\npolly Green on Brar\npolly Green on a\nDuctsoed Image\nCement 3 The Bart\nYone Burst",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c25bcfcc96f2ddb34bf10fc66c09c537cd3c6103cb7de9df4c482ee54d4d04aa"
+  }
+}

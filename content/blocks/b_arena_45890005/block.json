@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890005",
+  "type": "image",
+  "title": "Layered Apartment",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "layered-apartment",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5cc88647f1a3b5302bee4771.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Layered Apartment",
+      "role": "original",
+      "bytes": 73236,
+      "sha256": "5cc88647f1a3b5302bee47710cac44e3b09914a21408362efd93c3a0ff0bdee3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890005/original_33d760019be9c8ea88ee76556130a64d.jpeg",
+      "originalName": "33d760019be9c8ea88ee76556130a64d.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-3f1ad438ed3474b8547eae02.webp",
+      "mimeType": "image/webp",
+      "alt": "Layered Apartment",
+      "role": "thumbnail",
+      "bytes": 13380,
+      "sha256": "3f1ad438ed3474b8547eae02c8447f1da60fe4c9cdf5b33f4ccbd7f644ade7e2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAwNS9vcmlnaW5hbF8zM2Q3NjAwMTliZTljOGVhODhlZTc2NTU2MTMwYTY0ZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "33d760019be9c8ea88ee76556130a64d.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-5cc88647f1a3b5302bee4771-5cc88647f1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Layered Apartment",
+      "bytes": 54488,
+      "sha256": "9acff1199e9cda467127587e91f5c7d70ec22eb74590449c9a5950852b38ca63",
+      "width": 828,
+      "height": 546,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5cc88647f1a3b5302bee4771.jpg",
+        "sourceSha256": "5cc88647f1a3b5302bee47710cac44e3b09914a21408362efd93c3a0ff0bdee3",
+        "originalBytes": 73236,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:20:00.000Z",
+  "updatedAt": "2026-05-06T13:20:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890005",
+    "title": "a15c710249afbf4218655b9be6e3a89c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890005,
+      "url": "https://www.are.na/block/45890005",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a15c710249afbf4218655b9be6e3a89c.jpg",
+      "createdAt": "2026-05-06T13:20:00Z",
+      "updatedAt": "2026-05-06T13:20:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a15c710249afbf4218655b9be6e3a89c.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Layered Apartment",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9acff1199e9cda467127587e91f5c7d70ec22eb74590449c9a5950852b38ca63"
+  }
+}

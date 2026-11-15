@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787103",
+  "type": "image",
+  "title": "Framed Speaker",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "framed-speaker",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c35a5005ae96d27d4d4ade93.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Framed Speaker",
+      "role": "original",
+      "bytes": 280067,
+      "sha256": "c35a5005ae96d27d4d4ade939a9bd9f7958c7bc952e0adf9f6efd36e553beff1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787103/original_e7094ea72d36ba3350d0004178dc1d6e.jpg",
+      "originalName": "e7094ea72d36ba3350d0004178dc1d6e.jpg"
+    },
+    {
+      "path": "assets/thumbnail-43ceb3a4b1b442571b0e2355.webp",
+      "mimeType": "image/webp",
+      "alt": "Framed Speaker",
+      "role": "thumbnail",
+      "bytes": 9842,
+      "sha256": "43ceb3a4b1b442571b0e235537e6a5171e86d92ce7cf6711470fe2dd60f05f3e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzEwMy9vcmlnaW5hbF9lNzA5NGVhNzJkMzZiYTMzNTBkMDAwNDE3OGRjMWQ2ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e7094ea72d36ba3350d0004178dc1d6e.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c35a5005ae96d27d4d4ade93-c35a5005ae.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Framed Speaker",
+      "bytes": 246644,
+      "sha256": "b07fc90300cc38b96b0e45153a46f30dba3135bfee8e33b39efebbeb2448394c",
+      "width": 1440,
+      "height": 1920,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c35a5005ae96d27d4d4ade93.jpg",
+        "sourceSha256": "c35a5005ae96d27d4d4ade939a9bd9f7958c7bc952e0adf9f6efd36e553beff1",
+        "originalBytes": 280067,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:44.000Z",
+  "updatedAt": "2026-07-19T14:27:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787103",
+    "title": "devonojas-20250831_212443-2179950563.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787103,
+      "url": "https://www.are.na/block/40787103",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "devonojas-20250831_212443-2179950563.jpg",
+      "createdAt": "2025-11-02T15:26:44Z",
+      "updatedAt": "2026-07-19T14:27:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "devonojas-20250831_212443-2179950563.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Framed Speaker",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b07fc90300cc38b96b0e45153a46f30dba3135bfee8e33b39efebbeb2448394c"
+  }
+}

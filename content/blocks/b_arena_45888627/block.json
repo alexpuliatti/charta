@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888627",
+  "type": "image",
+  "title": "Creative Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "creative-workspace",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7e73389d386a246e3903c1b3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Creative Workspace",
+      "role": "original",
+      "bytes": 595379,
+      "sha256": "7e73389d386a246e3903c1b3e7db4472fbb690cf451436508a5a20ed60da460c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888627/original_354bf876270b8bcbadefba526b34255e.jpeg",
+      "originalName": "354bf876270b8bcbadefba526b34255e.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-2a836b6e6e12c6a2bad897fd.webp",
+      "mimeType": "image/webp",
+      "alt": "Creative Workspace",
+      "role": "thumbnail",
+      "bytes": 8120,
+      "sha256": "2a836b6e6e12c6a2bad897fde7ae0d3f91e4f0adca4d3ce1d76b0a583e05a041",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYyNy9vcmlnaW5hbF8zNTRiZjg3NjI3MGI4YmNiYWRlZmJhNTI2YjM0MjU1ZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "354bf876270b8bcbadefba526b34255e.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-7e73389d386a246e3903c1b3-7e73389d38.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Creative Workspace",
+      "bytes": 215300,
+      "sha256": "47af7e330eea818afaa7f792d05d6e96866bd9963db24b09af762bcc8ed8ab07",
+      "width": 2000,
+      "height": 1480,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7e73389d386a246e3903c1b3.jpg",
+        "sourceSha256": "7e73389d386a246e3903c1b3e7db4472fbb690cf451436508a5a20ed60da460c",
+        "originalBytes": 595379,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:31.000Z",
+  "updatedAt": "2026-05-06T12:24:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888627",
+    "title": "hdegqfawmaa8m8u.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888627,
+      "url": "https://www.are.na/block/45888627",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hdegqfawmaa8m8u.jpeg",
+      "createdAt": "2026-05-06T12:24:31Z",
+      "updatedAt": "2026-05-06T12:24:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hdegqfawmaa8m8u.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Creative Workspace",
+    "text": "Night Forest\n*2.\nScene Idea\nA quiet forest clearing illuminated by\nmoonlight. Mist floating above the\nground with a glowing creature emerging\nbetween trees.\nVisual style\n0B Style preset\nCinematic Soft Glow v\n@ Color palette\nMidnight Forest v\n* Texture tone\nDreamlike v\nDescribe your idea\nMidourney 4.2\nRita\nRestrictions\nAvoid\n• modern objects\n• artificial lighting\n• buildings\nAdd restrictions\nRender Engine\nSettings\n* Engine\n• Seed\n• Detail level\n4 Lighting model\nSampling steps\na Style intensity\nDescribe your idea\n+\nCover illustration\nCinematic shot\nMidnight...\n48291\nHigh\nDynamic\n35\n7\nRun\nShare\nPreview image\nStephen",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "47af7e330eea818afaa7f792d05d6e96866bd9963db24b09af762bcc8ed8ab07"
+  }
+}

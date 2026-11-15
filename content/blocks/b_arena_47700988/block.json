@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700988",
+  "type": "image",
+  "title": "Little Caesar",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "little-caesar",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9a68620334475ecf030a3567.png",
+      "mimeType": "image/png",
+      "alt": "Little Caesar",
+      "role": "original",
+      "bytes": 1279320,
+      "sha256": "9a68620334475ecf030a3567e26f70c1d2a33d567464212cb27a040a2f584d27",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700988/original_42bf317d3b651660ddb4fd282943f380.png",
+      "originalName": "42bf317d3b651660ddb4fd282943f380.png"
+    },
+    {
+      "path": "assets/thumbnail-03be47e6ecc68020eb979f91.webp",
+      "mimeType": "image/webp",
+      "alt": "Little Caesar",
+      "role": "thumbnail",
+      "bytes": 8840,
+      "sha256": "03be47e6ecc68020eb979f911b4205d7fbaaee36e54c0fd19cf37a7615798e41",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk4OC9vcmlnaW5hbF80MmJmMzE3ZDNiNjUxNjYwZGRiNGZkMjgyOTQzZjM4MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "42bf317d3b651660ddb4fd282943f380.png"
+    },
+    {
+      "path": "assets/display-web-original-9a68620334475ecf030a3567-9a68620334.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Little Caesar",
+      "bytes": 79606,
+      "sha256": "b8078f7f2cdac3e36b801a24b877536cd91ff13d1b8ff6f6a19ad3c61c86a156",
+      "width": 1054,
+      "height": 1234,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9a68620334475ecf030a3567.png",
+        "sourceSha256": "9a68620334475ecf030a3567e26f70c1d2a33d567464212cb27a040a2f584d27",
+        "originalBytes": 1279320,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:53.000Z",
+  "updatedAt": "2026-07-08T14:55:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700988",
+    "title": "Screenshot 2023-09-12 alle 16.49.12",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700988,
+      "url": "https://www.are.na/block/47700988",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.49.12",
+      "createdAt": "2026-07-08T14:55:53Z",
+      "updatedAt": "2026-07-08T14:55:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.49.12",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Little Caesar",
+    "text": "LITTE\nesar\nBurnett\nLittle\nCaesar\nPoliser\nW.R.\nBurnett",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b8078f7f2cdac3e36b801a24b877536cd91ff13d1b8ff6f6a19ad3c61c86a156"
+  }
+}

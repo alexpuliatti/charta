@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247867",
+  "type": "image",
+  "title": "Menu Illustration",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "menu-illustration",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d9a8892ea3f342aba37497e3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Menu Illustration",
+      "role": "original",
+      "bytes": 89552,
+      "sha256": "d9a8892ea3f342aba37497e3b86d49ee200817079ceb05448f9324d5a4caec8c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247867/original_0aaf597c337311f1467a9c49d3770639.jpeg",
+      "originalName": "0aaf597c337311f1467a9c49d3770639.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d2b14310e5d84a4633d8b5de.webp",
+      "mimeType": "image/webp",
+      "alt": "Menu Illustration",
+      "role": "thumbnail",
+      "bytes": 7286,
+      "sha256": "d2b14310e5d84a4633d8b5de54f8a3e0feac2c61f295d4256362e2cc731584a9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg2Ny9vcmlnaW5hbF8wYWFmNTk3YzMzNzMxMWYxNDY3YTljNDlkMzc3MDYzOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0aaf597c337311f1467a9c49d3770639.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-d9a8892ea3f342aba37497e3-d9a8892ea3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Menu Illustration",
+      "bytes": 48606,
+      "sha256": "8309093ae538d7d41ac0b33a33e105b6a8d8cc815bbb53704a7f6f69ff8547e5",
+      "width": 1200,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d9a8892ea3f342aba37497e3.jpg",
+        "sourceSha256": "d9a8892ea3f342aba37497e3b86d49ee200817079ceb05448f9324d5a4caec8c",
+        "originalBytes": 89552,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:10.000Z",
+  "updatedAt": "2026-06-23T14:28:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247867",
+    "title": "eb8b2a155a7bbae8015cf10541f17bab",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247867,
+      "url": "https://www.are.na/block/47247867",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "eb8b2a155a7bbae8015cf10541f17bab",
+      "createdAt": "2026-06-23T14:28:10Z",
+      "updatedAt": "2026-06-23T14:28:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "eb8b2a155a7bbae8015cf10541f17bab",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Menu Illustration",
+    "text": "Menu\n+\n112\nIllustration\n22-42 [x]\n22\nDisorder: Swiss Grit Vol. II:\nD. Chris Ashworth\n233x284mm\nP. 488\nCasebound Book\n68.00 EUR\n43-63 [v]\n# 43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n64-84 [V]\n64\n65\n#l\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\nLost in Tokyo - Second Edition:\nD. NODE Berlin\n160x210mm\nP. 068\nSoftbound Magazine\n20.00 EUR\n54\n55\n56\n57\nRock in Rio\nBrazil\n2024/5",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8309093ae538d7d41ac0b33a33e105b6a8d8cc815bbb53704a7f6f69ff8547e5"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701041",
+  "type": "image",
+  "title": "Streetcar Desire",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "streetcar-desire",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1f6ef6ffc4aa7834e137d42b.png",
+      "mimeType": "image/png",
+      "alt": "Streetcar Desire",
+      "role": "original",
+      "bytes": 1044203,
+      "sha256": "1f6ef6ffc4aa7834e137d42b3b9a9c8d3a293fdc1efcd6efba4d9f9b3a2e4806",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701041/original_d2507a9d6092ccf08647eb1a11a83b47.png",
+      "originalName": "d2507a9d6092ccf08647eb1a11a83b47.png"
+    },
+    {
+      "path": "assets/thumbnail-c0238e682fb25820c0a6dbfb.webp",
+      "mimeType": "image/webp",
+      "alt": "Streetcar Desire",
+      "role": "thumbnail",
+      "bytes": 4924,
+      "sha256": "c0238e682fb25820c0a6dbfb79f35514e8f624c750a6cec6a336216d065b3ba1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0MS9vcmlnaW5hbF9kMjUwN2E5ZDYwOTJjY2YwODY0N2ViMWExMWE4M2I0Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d2507a9d6092ccf08647eb1a11a83b47.png"
+    },
+    {
+      "path": "assets/display-web-original-1f6ef6ffc4aa7834e137d42b-1f6ef6ffc4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Streetcar Desire",
+      "bytes": 44748,
+      "sha256": "9922e4992ff526807248b165e096758ce0f8f0c1a65156cc6229df649da01c1a",
+      "width": 978,
+      "height": 1246,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1f6ef6ffc4aa7834e137d42b.png",
+        "sourceSha256": "1f6ef6ffc4aa7834e137d42b3b9a9c8d3a293fdc1efcd6efba4d9f9b3a2e4806",
+        "originalBytes": 1044203,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:36.000Z",
+  "updatedAt": "2026-07-08T14:56:40.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701041",
+    "title": "Screenshot 2023-09-12 alle 17.06.23",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701041,
+      "url": "https://www.are.na/block/47701041",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.06.23",
+      "createdAt": "2026-07-08T14:56:36Z",
+      "updatedAt": "2026-07-08T14:56:40Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.06.23",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Streetcar Desire",
+    "text": "street car named desire\ntennessee liam",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9922e4992ff526807248b165e096758ce0f8f0c1a65156cc6229df649da01c1a"
+  }
+}

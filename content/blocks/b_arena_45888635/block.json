@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888635",
+  "type": "image",
+  "title": "Handheld Console",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "handheld-console",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-31e12a25b50c75fc2d994ec9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Handheld Console",
+      "role": "original",
+      "bytes": 44849,
+      "sha256": "31e12a25b50c75fc2d994ec9f4722c89e963f66a4ca5b60bcd84c9cce2095756",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888635/original_440245ad0de159196baa597701154b59.jpeg",
+      "originalName": "440245ad0de159196baa597701154b59.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-75338ab92a5f180f1e55a2b8.webp",
+      "mimeType": "image/webp",
+      "alt": "Handheld Console",
+      "role": "thumbnail",
+      "bytes": 2470,
+      "sha256": "75338ab92a5f180f1e55a2b8ba21e71e23929987ac3599f78880b00d553da36c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYzNS9vcmlnaW5hbF80NDAyNDVhZDBkZTE1OTE5NmJhYTU5NzcwMTE1NGI1OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "440245ad0de159196baa597701154b59.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-31e12a25b50c75fc2d994ec9-31e12a25b5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Handheld Console",
+      "bytes": 28934,
+      "sha256": "f1a968153e0b30f8aa560f01fa0888ae306f37a5f8402cbc6a69a2f642b20cbb",
+      "width": 1440,
+      "height": 1798,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-31e12a25b50c75fc2d994ec9.jpg",
+        "sourceSha256": "31e12a25b50c75fc2d994ec9f4722c89e963f66a4ca5b60bcd84c9cce2095756",
+        "originalBytes": 44849,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:37.000Z",
+  "updatedAt": "2026-05-06T12:24:41.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888635",
+    "title": "hde68ocasaaumfw.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888635,
+      "url": "https://www.are.na/block/45888635",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hde68ocasaaumfw.jpeg",
+      "createdAt": "2026-05-06T12:24:37Z",
+      "updatedAt": "2026-05-06T12:24:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hde68ocasaaumfw.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Handheld Console",
+    "text": "GAME BOYOWNCE SP\nThe second best thing to do in the dark.\nGAME BOY ADVANCE SP.™\nfor men",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f1a968153e0b30f8aa560f01fa0888ae306f37a5f8402cbc6a69a2f642b20cbb"
+  }
+}

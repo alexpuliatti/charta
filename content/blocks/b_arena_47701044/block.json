@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701044",
+  "type": "image",
+  "title": "Praed Street",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "praed-street",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1acc2b4cdfc1fa518c83537e.png",
+      "mimeType": "image/png",
+      "alt": "Praed Street",
+      "role": "original",
+      "bytes": 2269532,
+      "sha256": "1acc2b4cdfc1fa518c83537ee951796074b47adb66777c3ec893bd8ed4140653",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701044/original_6eaefdb24a65e14043fbb473d1a780ff.png",
+      "originalName": "6eaefdb24a65e14043fbb473d1a780ff.png"
+    },
+    {
+      "path": "assets/thumbnail-7adfe832a155d8692704469d.webp",
+      "mimeType": "image/webp",
+      "alt": "Praed Street",
+      "role": "thumbnail",
+      "bytes": 12232,
+      "sha256": "7adfe832a155d8692704469d4b4a6d70d0cdceff1066577107deb49c1e0b960c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0NC9vcmlnaW5hbF82ZWFlZmRiMjRhNjVlMTQwNDNmYmI0NzNkMWE3ODBmZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6eaefdb24a65e14043fbb473d1a780ff.png"
+    },
+    {
+      "path": "assets/display-web-original-1acc2b4cdfc1fa518c83537e-1acc2b4cdf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Praed Street",
+      "bytes": 204728,
+      "sha256": "b4bf2efea3fa6dae236d759c627d0d1513b84a27a685df6d68e881eef78d7b01",
+      "width": 960,
+      "height": 1288,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1acc2b4cdfc1fa518c83537e.png",
+        "sourceSha256": "1acc2b4cdfc1fa518c83537ee951796074b47adb66777c3ec893bd8ed4140653",
+        "originalBytes": 2269532,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:36.000Z",
+  "updatedAt": "2026-07-08T14:56:43.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701044",
+    "title": "Screenshot 2023-09-12 alle 17.06.12",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701044,
+      "url": "https://www.are.na/block/47701044",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.06.12",
+      "createdAt": "2026-07-08T14:56:36Z",
+      "updatedAt": "2026-07-08T14:56:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.06.12",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Praed Street",
+    "text": "The\nMURDERS\nIn PRAED\nSTREET\nJOHN\nRHODE\nHOT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b4bf2efea3fa6dae236d759c627d0d1513b84a27a685df6d68e881eef78d7b01"
+  }
+}

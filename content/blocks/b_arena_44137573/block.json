@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137573",
+  "type": "image",
+  "title": "Minimal Product",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "minimal-product",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-407516086e10761825361802.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Minimal Product",
+      "role": "original",
+      "bytes": 26772,
+      "sha256": "407516086e1076182536180255e1de5d459b0ee939286da8bbb70ceeb3502923",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137573/original_c42afea32b2c5e6ce016f901eca4d9e5.jpg",
+      "originalName": "c42afea32b2c5e6ce016f901eca4d9e5.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8987ef06d09023f7a7ffdde8.webp",
+      "mimeType": "image/webp",
+      "alt": "Minimal Product",
+      "role": "thumbnail",
+      "bytes": 2414,
+      "sha256": "8987ef06d09023f7a7ffdde8abbaaf80d52cf6c1b64b6b7ecec748532524ca6b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzU3My9vcmlnaW5hbF9jNDJhZmVhMzJiMmM1ZTZjZTAxNmY5MDFlY2E0ZDllNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c42afea32b2c5e6ce016f901eca4d9e5.jpg"
+    },
+    {
+      "path": "assets/display-web-original-407516086e10761825361802-407516086e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Minimal Product",
+      "bytes": 14464,
+      "sha256": "0ddc9ea618bb9a6632f2b5d2ac8f8de24d52f60f5ad36db8373e06272e75de70",
+      "width": 1200,
+      "height": 675,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-407516086e10761825361802.jpg",
+        "sourceSha256": "407516086e1076182536180255e1de5d459b0ee939286da8bbb70ceeb3502923",
+        "originalBytes": 26772,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:52:14.000Z",
+  "updatedAt": "2026-03-04T15:52:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137573",
+    "title": "39823780443a2f7b9fd233e20e842799.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137573,
+      "url": "https://www.are.na/block/44137573",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "39823780443a2f7b9fd233e20e842799.jpg",
+      "createdAt": "2026-03-04T15:52:14Z",
+      "updatedAt": "2026-03-04T15:52:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "39823780443a2f7b9fd233e20e842799.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Minimal Product",
+    "text": "Peak Output.\nZero Distractions",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0ddc9ea618bb9a6632f2b5d2ac8f8de24d52f60f5ad36db8373e06272e75de70"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_39496263",
+  "type": "image",
+  "title": "Blue Silhouettes",
+  "description": "A blue coat editorial combining a close portrait with a grid of full-length photographs.",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "blue-silhouettes",
+    "fashion-editorial",
+    "outerwear",
+    "blue",
+    "portraiture",
+    "editorial-layout",
+    "image-grid"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3272b6e20b7cc1402c3ad270.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Silhouettes",
+      "role": "original",
+      "bytes": 40017,
+      "sha256": "3272b6e20b7cc1402c3ad270624f4a945c117863be31022f336bbdd9cd6db1d6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/39496263/original_b8c86c04ddb40ce925dc0beb540553ed.jpg",
+      "originalName": "b8c86c04ddb40ce925dc0beb540553ed.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5a8f5f1e7aaa61e4f1737324.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Silhouettes",
+      "role": "thumbnail",
+      "bytes": 8604,
+      "sha256": "5a8f5f1e7aaa61e4f1737324a456bfa5f2e27775eef6e64f5444c7d0f02220b5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzOTQ5NjI2My9vcmlnaW5hbF9iOGM4NmMwNGRkYjQwY2U5MjVkYzBiZWI1NDA1NTNlZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b8c86c04ddb40ce925dc0beb540553ed.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3272b6e20b7cc1402c3ad270-3272b6e20b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Silhouettes",
+      "bytes": 27002,
+      "sha256": "27051d7e6a976cb8236d283095aeabddd15322edcf0b2dcb6b88ba60b2a67eab",
+      "width": 735,
+      "height": 552,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3272b6e20b7cc1402c3ad270.jpg",
+        "sourceSha256": "3272b6e20b7cc1402c3ad270624f4a945c117863be31022f336bbdd9cd6db1d6",
+        "originalBytes": 40017,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-09-12T10:36:29.000Z",
+  "updatedAt": "2025-09-12T14:36:51.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/39496263",
+    "title": "5725f08b094a270e3c12d7aa68ce13e8.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 39496263,
+      "url": "https://www.are.na/block/39496263",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "5725f08b094a270e3c12d7aa68ce13e8.jpg",
+      "createdAt": "2025-09-12T10:36:29Z",
+      "updatedAt": "2025-09-12T14:36:51Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Blue coat fashion editorial",
+      "category": "Fashion",
+      "tags": [
+        "fashion-editorial",
+        "outerwear",
+        "blue",
+        "portraiture",
+        "editorial-layout",
+        "image-grid"
+      ],
+      "collectionIds": [
+        "c_inbox"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Silhouettes",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "27051d7e6a976cb8236d283095aeabddd15322edcf0b2dcb6b88ba60b2a67eab"
+  }
+}

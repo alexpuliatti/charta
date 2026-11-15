@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_vc_firms",
+  "title": "Deep tech funds",
+  "description": "",
+  "order": 0,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_44241164"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44177745"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

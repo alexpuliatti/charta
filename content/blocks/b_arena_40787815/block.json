@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787815",
+  "type": "image",
+  "title": "Pivot Lamp",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "lighting",
+    "pivot-lamp",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-51cd9f14505c2ac61d68e74e.webp",
+      "mimeType": "image/webp",
+      "alt": "Pivot Lamp",
+      "role": "original",
+      "bytes": 23384,
+      "sha256": "51cd9f14505c2ac61d68e74e55a1b1927ec144d11d2509e724d67382e0ad0bfd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787815/original_51307a22c2fc853826e1d45b601d8c2b.webp",
+      "originalName": "51307a22c2fc853826e1d45b601d8c2b.webp"
+    },
+    {
+      "path": "assets/thumbnail-39a09dac969d30ca9e342cad.webp",
+      "mimeType": "image/webp",
+      "alt": "Pivot Lamp",
+      "role": "thumbnail",
+      "bytes": 2424,
+      "sha256": "39a09dac969d30ca9e342cad963d4d74649ac24cbdcafca9ba69c21efa380cdf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzgxNS9vcmlnaW5hbF81MTMwN2EyMmMyZmM4NTM4MjZlMWQ0NWI2MDFkOGMyYi53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "51307a22c2fc853826e1d45b601d8c2b.webp"
+    },
+    {
+      "path": "assets/display-web-original-51cd9f14505c2ac61d68e74e-51cd9f1450.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pivot Lamp",
+      "bytes": 15308,
+      "sha256": "05aef3c7ac809878d0f18e9e64d5b4aaef3c14eb0b090012d8ef986e6214f5ce",
+      "width": 1050,
+      "height": 700,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-51cd9f14505c2ac61d68e74e.webp",
+        "sourceSha256": "51cd9f14505c2ac61d68e74e55a1b1927ec144d11d2509e724d67382e0ad0bfd",
+        "originalBytes": 23384,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:59:20.000Z",
+  "updatedAt": "2026-09-27T05:40:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787815",
+    "title": "obj01_manu-bano_lighting-design_yankodesign_a-design-9.webp",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787815,
+      "url": "https://www.are.na/block/40787815",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "obj01_manu-bano_lighting-design_yankodesign_a-design-9.webp",
+      "createdAt": "2025-11-02T15:59:20Z",
+      "updatedAt": "2026-09-27T05:40:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Lighting",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "obj01_manu-bano_lighting-design_yankodesign_a-design-9.webp",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pivot Lamp",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "05aef3c7ac809878d0f18e9e64d5b4aaef3c14eb0b090012d8ef986e6214f5ce"
+  }
+}

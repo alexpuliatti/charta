@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700896",
+  "type": "image",
+  "title": "MOS Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "mos-website",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b03b362980fd15d65665b6e9.webp",
+      "mimeType": "image/webp",
+      "alt": "MOS Website",
+      "role": "original",
+      "bytes": 24548,
+      "sha256": "b03b362980fd15d65665b6e99c289c32863c7d2b20a7d3488b16fadf900d8fd4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700896/original_780194c78a1c320b8a31196ac2c67737.webp",
+      "originalName": "780194c78a1c320b8a31196ac2c67737.webp"
+    },
+    {
+      "path": "assets/thumbnail-810de963e41bda5dfc34efe6.webp",
+      "mimeType": "image/webp",
+      "alt": "MOS Website",
+      "role": "thumbnail",
+      "bytes": 6886,
+      "sha256": "810de963e41bda5dfc34efe6150f4667e83a13c6705a6c237b89b8131641578e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg5Ni9vcmlnaW5hbF83ODAxOTRjNzhhMWMzMjBiOGEzMTE5NmFjMmM2NzczNy53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "780194c78a1c320b8a31196ac2c67737.webp"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:32.000Z",
+  "updatedAt": "2026-07-08T14:54:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700896",
+    "title": "1f756a4a2ee451681b9dbd4aede1aa7307e926ae-900x600",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700896,
+      "url": "https://www.are.na/block/47700896",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "1f756a4a2ee451681b9dbd4aede1aa7307e926ae-900x600",
+      "createdAt": "2026-07-08T14:54:32Z",
+      "updatedAt": "2026-07-08T14:54:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "1f756a4a2ee451681b9dbd4aede1aa7307e926ae-900x600",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "MOS Website",
+    "text": "On MOS Making\nHoles\nMOS Practices...\nWhat the I@#?\nScreenshot\nAesthetic\nOffice Policy\nAbout\nMOS\nTexts\nMOS. office. no:\nMOS - office. net\nMOS • office. net\nMOS-office.net\nMOS-office.net\nMOS-office.net\nA. Loos, Scented Candle\nR. Venturi, A Stool,\nBench, or End-Table,\nWe're Not Sure\nA. Rossi, Possibly a Vase\nL. Reich, Soap No. 24\nR.Eames, Utilitarian Stool\nw/ No Design Whatsoever\nL. M. Van der Rohe,\nAverage Soap Dish\nJ. Stirling, Coat-hook Thingy\nAbout\nMOS\nObjects\nElement House\nLocation\nStar Axis, New Mexico\nStatus\nBuilt, 2014\nProgram\nVisitor's Center, Residence\nSize\n6,000 sf\nAbout\nMOS\nProject",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b03b362980fd15d65665b6e99c289c32863c7d2b20a7d3488b16fadf900d8fd4"
+  }
+}

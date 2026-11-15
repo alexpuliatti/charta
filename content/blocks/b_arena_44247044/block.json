@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247044",
+  "type": "image",
+  "title": "Sungai Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "sungai-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8b4b50a7ba43b13c31b76f7b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sungai Identity",
+      "role": "original",
+      "bytes": 112742,
+      "sha256": "8b4b50a7ba43b13c31b76f7bcca5dab3982b1b50ac272060226a5a0be879d35d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247044/original_179975fa0feedf8e2cdf728decfe33ba.jpg",
+      "originalName": "179975fa0feedf8e2cdf728decfe33ba.jpg"
+    },
+    {
+      "path": "assets/thumbnail-16247ba7b1caf8d9573d3069.webp",
+      "mimeType": "image/webp",
+      "alt": "Sungai Identity",
+      "role": "thumbnail",
+      "bytes": 7800,
+      "sha256": "16247ba7b1caf8d9573d3069dbd48205e894b09893c796ce0c819d075a36dbec",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0NC9vcmlnaW5hbF8xNzk5NzVmYTBmZWVkZjhlMmNkZjcyOGRlY2ZlMzNiYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "179975fa0feedf8e2cdf728decfe33ba.jpg"
+    },
+    {
+      "path": "assets/display-web-original-8b4b50a7ba43b13c31b76f7b-8b4b50a7ba.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sungai Identity",
+      "bytes": 58956,
+      "sha256": "b2db5d142f73b86da778e3842cf1a596e13ba0012a91e486b8b37f37e89c84fb",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8b4b50a7ba43b13c31b76f7b.jpg",
+        "sourceSha256": "8b4b50a7ba43b13c31b76f7bcca5dab3982b1b50ac272060226a5a0be879d35d",
+        "originalBytes": 112742,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247044",
+    "title": "a6389854772a30d50980d4392faa4b74.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247044,
+      "url": "https://www.are.na/block/44247044",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a6389854772a30d50980d4392faa4b74.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a6389854772a30d50980d4392faa4b74.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sungai Identity",
+    "text": "PURPOSE\nSUNGAT DESTON\nAs a purpose-driven design studio, we are\nradically rethinking our relationship with\nwaste and are committed to increasing\nconsumer awareness through our\nproducts and their stories to further enable\nenvironmental change on a global scale.\n()\nBRAND TOOLKIT\nSEPTEMBER 2023\nGRAPHIC DEVICES\nSYNEOL JET - CONSTRUCTION\nCLEARANCE SPACE\nTo calculate the minimum clearance\nspace around the logotype use the 'S' as\na moasurement. Certain applications may\nrequire unique interpretations of this rule.\nContact Swear Words if you nood advice.\nSUNGAI\nDESIGN\nBRAND TOOLKIT\nGRAPHIC DEVICES\nSYMBOL SET - CONSTRUCTION\n12\nBRAND TOOLKIT\nSUNDAT DESIGN\nSUN\nSEPTEMSER 2023\nSAN DESE\nSUPERBEN e",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b2db5d142f73b86da778e3842cf1a596e13ba0012a91e486b8b37f37e89c84fb"
+  }
+}

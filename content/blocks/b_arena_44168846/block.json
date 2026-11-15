@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168846",
+  "type": "image",
+  "title": "Interconnected Brand",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "interconnected-brand",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1b030def51bd6ad6aa3b1c3e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Interconnected Brand",
+      "role": "original",
+      "bytes": 191722,
+      "sha256": "1b030def51bd6ad6aa3b1c3e7b2308de82de4fa29fbbb4c0e7451774f74cdcc6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168846/original_ef2812ed501f6910f004b22be4d33f01.jpg",
+      "originalName": "ef2812ed501f6910f004b22be4d33f01.jpg"
+    },
+    {
+      "path": "assets/thumbnail-b8e870ad657e9ed1900f3a21.webp",
+      "mimeType": "image/webp",
+      "alt": "Interconnected Brand",
+      "role": "thumbnail",
+      "bytes": 3338,
+      "sha256": "b8e870ad657e9ed1900f3a21eb9d7a75aff47848105e167cc5ad80f52bfb82df",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg0Ni9vcmlnaW5hbF9lZjI4MTJlZDUwMWY2OTEwZjAwNGIyMmJlNGQzM2YwMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ef2812ed501f6910f004b22be4d33f01.jpg"
+    },
+    {
+      "path": "assets/display-web-original-1b030def51bd6ad6aa3b1c3e-1b030def51.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Interconnected Brand",
+      "bytes": 33982,
+      "sha256": "56204fd97bf2754ba9887754ed6553c19c36ea43da3fbad8588b2590fa2d35eb",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1b030def51bd6ad6aa3b1c3e.jpg",
+        "sourceSha256": "1b030def51bd6ad6aa3b1c3e7b2308de82de4fa29fbbb4c0e7451774f74cdcc6",
+        "originalBytes": 191722,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:46.000Z",
+  "updatedAt": "2026-05-26T19:39:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168846",
+    "title": "hcpukbra0aaabt4.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168846,
+      "url": "https://www.are.na/block/44168846",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcpukbra0aaabt4.jpeg",
+      "createdAt": "2026-03-05T15:46:46Z",
+      "updatedAt": "2026-05-26T19:39:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcpukbra0aaabt4.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Interconnected Brand",
+    "text": "Always interconnected\nWe build living brand systems for\nan AI era, re-engineering how\nbrands think, connect and create.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "56204fd97bf2754ba9887754ed6553c19c36ea43da3fbad8588b2590fa2d35eb"
+  }
+}

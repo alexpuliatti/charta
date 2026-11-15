@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177434",
+  "type": "image",
+  "title": "Brian Cover",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "brian-cover",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-92d13fee8d511d96649f82bc.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Brian Cover",
+      "role": "original",
+      "bytes": 1120607,
+      "sha256": "92d13fee8d511d96649f82bc9bacf7a51d8e499258acdb2a68b101cc28793a02",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177434/original_3a6c4a5b7494df41d83707467da9b760.jpg",
+      "originalName": "3a6c4a5b7494df41d83707467da9b760.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c32498c4c271aa10d4561520.webp",
+      "mimeType": "image/webp",
+      "alt": "Brian Cover",
+      "role": "thumbnail",
+      "bytes": 2264,
+      "sha256": "c32498c4c271aa10d45615208c4724ee9b3275f18a2feafab0e59f345b90ffcf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzQzNC9vcmlnaW5hbF8zYTZjNGE1Yjc0OTRkZjQxZDgzNzA3NDY3ZGE5Yjc2MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3a6c4a5b7494df41d83707467da9b760.jpg"
+    },
+    {
+      "path": "assets/display-web-original-92d13fee8d511d96649f82bc-92d13fee8d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Brian Cover",
+      "bytes": 22422,
+      "sha256": "2529a58596fe0c815b0c44c74aefd04b10541e28f0b8c6dba9b8f2ea0071a319",
+      "width": 1310,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-92d13fee8d511d96649f82bc.jpg",
+        "sourceSha256": "92d13fee8d511d96649f82bc9bacf7a51d8e499258acdb2a68b101cc28793a02",
+        "originalBytes": 1120607,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:52:00.000Z",
+  "updatedAt": "2026-03-05T19:52:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44177434",
+    "title": "9781804270363.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177434,
+      "url": "https://www.are.na/block/44177434",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "9781804270363.jpg",
+      "createdAt": "2026-03-05T19:52:00Z",
+      "updatedAt": "2026-03-05T19:52:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "9781804270363.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Brian Cover",
+    "text": "BRIAN\nJEREMY COOPER\nFitzcarraldo Editions",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2529a58596fe0c815b0c44c74aefd04b10541e28f0b8c6dba9b8f2ea0071a319"
+  }
+}

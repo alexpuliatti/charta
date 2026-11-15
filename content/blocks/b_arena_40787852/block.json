@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787852",
+  "type": "image",
+  "title": "Quiet Workspace",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "quiet-workspace",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-582b3fbbcb763ba2b76e2e3e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quiet Workspace",
+      "role": "original",
+      "bytes": 157137,
+      "sha256": "582b3fbbcb763ba2b76e2e3ed4a6b4536115756208e9141b770e4a3353afe128",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787852/original_2f420faef1c686f537d516872f9b3067.jpg",
+      "originalName": "2f420faef1c686f537d516872f9b3067.jpg"
+    },
+    {
+      "path": "assets/thumbnail-52118504f59f3657bc909113.webp",
+      "mimeType": "image/webp",
+      "alt": "Quiet Workspace",
+      "role": "thumbnail",
+      "bytes": 7262,
+      "sha256": "52118504f59f3657bc909113d2836e2981455236f4b65d28085718fcc1a9de47",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg1Mi9vcmlnaW5hbF8yZjQyMGZhZWYxYzY4NmY1MzdkNTE2ODcyZjliMzA2Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2f420faef1c686f537d516872f9b3067.jpg"
+    },
+    {
+      "path": "assets/display-web-original-582b3fbbcb763ba2b76e2e3e-582b3fbbcb.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quiet Workspace",
+      "bytes": 128696,
+      "sha256": "bb9fa53f2f080ec0dcd4aef8094946669e7cc21c0eff2bed122ef2bfa8188181",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-582b3fbbcb763ba2b76e2e3e.jpg",
+        "sourceSha256": "582b3fbbcb763ba2b76e2e3ed4a6b4536115756208e9141b770e4a3353afe128",
+        "originalBytes": 157137,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:07.000Z",
+  "updatedAt": "2025-11-02T16:01:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787852",
+    "title": "whereiwouldliketoread-20240419_124307-2907545886.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787852,
+      "url": "https://www.are.na/block/40787852",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20240419_124307-2907545886.jpg",
+      "createdAt": "2025-11-02T16:01:07Z",
+      "updatedAt": "2025-11-02T16:01:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20240419_124307-2907545886.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quiet Workspace",
+    "text": "NOGUCHI",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bb9fa53f2f080ec0dcd4aef8094946669e7cc21c0eff2bed122ef2bfa8188181"
+  }
+}

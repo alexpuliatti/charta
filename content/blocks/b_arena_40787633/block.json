@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787633",
+  "type": "image",
+  "title": "Suspended Soundsystem",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "suspended-soundsystem",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-879ca6addd726b4798540730.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Suspended Soundsystem",
+      "role": "original",
+      "bytes": 192017,
+      "sha256": "879ca6addd726b479854073001d1e4da2d0835ba5e0a82af763dbc7408f336e6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787633/original_9e9c5eadd51fd50acc2842d6bbdfeda4.jpg",
+      "originalName": "9e9c5eadd51fd50acc2842d6bbdfeda4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-83648b0270017cc4c36f6ae4.webp",
+      "mimeType": "image/webp",
+      "alt": "Suspended Soundsystem",
+      "role": "thumbnail",
+      "bytes": 16222,
+      "sha256": "83648b0270017cc4c36f6ae4eb245680aa46f1ad48c20145f1e4e54602e34047",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzYzMy9vcmlnaW5hbF85ZTljNWVhZGQ1MWZkNTBhY2MyODQyZDZiYmRmZWRhNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9e9c5eadd51fd50acc2842d6bbdfeda4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-879ca6addd726b4798540730-879ca6addd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Suspended Soundsystem",
+      "bytes": 125498,
+      "sha256": "879958792281c5faa93b388a69ef780c55caff4966ed2f5577e84d05def0fb88",
+      "width": 1200,
+      "height": 1400,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-879ca6addd726b4798540730.jpg",
+        "sourceSha256": "879ca6addd726b479854073001d1e4da2d0835ba5e0a82af763dbc7408f336e6",
+        "originalBytes": 192017,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:51:43.000Z",
+  "updatedAt": "2025-11-02T15:51:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787633",
+    "title": "01b6917b4b372a5a65aabe19b51bd864.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787633,
+      "url": "https://www.are.na/block/40787633",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "01b6917b4b372a5a65aabe19b51bd864.jpg",
+      "createdAt": "2025-11-02T15:51:43Z",
+      "updatedAt": "2025-11-02T15:51:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "01b6917b4b372a5a65aabe19b51bd864.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Suspended Soundsystem",
+    "text": "• 9.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "879958792281c5faa93b388a69ef780c55caff4966ed2f5577e84d05def0fb88"
+  }
+}

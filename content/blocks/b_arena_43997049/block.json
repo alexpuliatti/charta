@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43997049",
+  "type": "link",
+  "title": "Counterpoint Studio",
+  "description": "Counterpoint is the collaborative practice of Samuel Diggins and Tero Parviainen.",
+  "category": "Companies",
+  "tags": [
+    "creative-coding",
+    "collaboration",
+    "design-studio"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ee053f1143be9343ca00584f.webp",
+      "mimeType": "image/webp",
+      "alt": "Counterpoint",
+      "role": "thumbnail",
+      "bytes": 3438,
+      "sha256": "ee053f1143be9343ca00584f7ccd85f43c97d6d7f92b9206e0a7248ef5660cbe",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NzA0OS9vcmlnaW5hbF8zYzJjMjlkMmIwNjZmMjE5NDI1MGI2NzIzMmY4MGM4Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3c2c29d2b066f2194250b67232f80c82.png"
+    },
+    {
+      "path": "assets/preview-c065385d0d0546b1887a53eb.webp",
+      "mimeType": "image/webp",
+      "alt": "Counterpoint",
+      "role": "preview",
+      "bytes": 62198,
+      "sha256": "c065385d0d0546b1887a53eb7838dc4319fd018245f043dc340ebee9c63158fc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43997049/original_3c2c29d2b066f2194250b67232f80c82.png",
+      "originalName": "3c2c29d2b066f2194250b67232f80c82.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 264819,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T13:48:25.000Z",
+  "updatedAt": "2026-02-28T13:48:36.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://ctpt.co/",
+    "title": "Counterpoint",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43997049,
+      "url": "https://www.are.na/block/43997049",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Counterpoint",
+      "createdAt": "2026-02-28T13:48:25Z",
+      "updatedAt": "2026-02-28T13:48:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Counterpoint",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

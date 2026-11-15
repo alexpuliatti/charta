@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40761692",
+  "type": "link",
+  "title": "Burning Out",
+  "description": "The international AI industry’s collective risk.",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "burnout",
+    "work"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-3e5f883d300b29663bd226a0.webp",
+      "mimeType": "image/webp",
+      "alt": "Burning out",
+      "role": "thumbnail",
+      "bytes": 15000,
+      "sha256": "3e5f883d300b29663bd226a08c8cb131994532f9745b53958192076e5f226937",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2MTY5Mi9vcmlnaW5hbF85ZWQ2YTA5MmUyNjBmMzBjMGJkMTU3NTUxZTkwNzcwNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9ed6a092e260f30c0bd157551e907704.png"
+    },
+    {
+      "path": "assets/preview-e9e8b9340db2187f7a910593.webp",
+      "mimeType": "image/webp",
+      "alt": "Burning out",
+      "role": "preview",
+      "bytes": 147430,
+      "sha256": "e9e8b9340db2187f7a910593047a43118817d0caf096aa9a8c01727914e40888",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40761692/original_9ed6a092e260f30c0bd157551e907704.png",
+      "originalName": "9ed6a092e260f30c0bd157551e907704.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 502342,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-10-31T21:16:45.000Z",
+  "updatedAt": "2025-10-31T21:32:56.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.interconnects.ai/p/burning-out",
+    "title": "Burning out",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40761692,
+      "url": "https://www.are.na/block/40761692",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Burning out",
+      "createdAt": "2025-10-31T21:16:45Z",
+      "updatedAt": "2025-10-31T21:32:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Burning out",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

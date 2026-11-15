@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892706",
+  "type": "link",
+  "title": "Neuform Templates",
+  "description": "Browse public Neuform templates by featured, pro, trending, upcoming, favorites, tags, and top creators with reusable design-system previews.",
+  "category": "Interface design",
+  "tags": [
+    "templates",
+    "design-systems",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-afdb7e380fa3df603f8841fa.webp",
+      "mimeType": "image/webp",
+      "alt": "AI HTML Templates and Remix Gallery | Neuform",
+      "role": "thumbnail",
+      "bytes": 5722,
+      "sha256": "afdb7e380fa3df603f8841fa4630f79bfb2e7ea0a9d3af2d30d61b7e0e8de6a2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjcwNi9vcmlnaW5hbF80NzFhM2I3ZjhiMjcwMWI2YWY3NTg4MGE4ZjgyN2UxZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "471a3b7f8b2701b6af75880a8f827e1f.png"
+    },
+    {
+      "path": "assets/preview-bebf9bc8bad027279fbb7b77.webp",
+      "mimeType": "image/webp",
+      "alt": "AI HTML Templates and Remix Gallery | Neuform",
+      "role": "preview",
+      "bytes": 92648,
+      "sha256": "bebf9bc8bad027279fbb7b77520029d8891be2be42e33de1f4ad0608bf40b14b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892706/original_471a3b7f8b2701b6af75880a8f827e1f.png",
+      "originalName": "471a3b7f8b2701b6af75880a8f827e1f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 187188,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:45:39.000Z",
+  "updatedAt": "2026-05-06T14:45:46.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://neuform.ai/templates",
+    "title": "AI HTML Templates and Remix Gallery | Neuform",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892706,
+      "url": "https://www.are.na/block/45892706",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "AI HTML Templates and Remix Gallery | Neuform",
+      "createdAt": "2026-05-06T14:45:39Z",
+      "updatedAt": "2026-05-06T14:45:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "AI HTML Templates and Remix Gallery | Neuform",
+      "category": "Art",
+      "tags": [
+        "contemporary-art",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

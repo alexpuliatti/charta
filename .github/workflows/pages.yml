@@ -1,0 +1,74 @@
+name: Publish Charta
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: charta-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.event_name == 'workflow_dispatch' || vars.CHARTA_PUBLISH_PAGES == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the latest publishing branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - name: Install test dependencies
+        run: npm ci --ignore-scripts
+      - name: Verify the draft
+        run: npm run check && npm test
+      - name: Generate optional AI summaries
+        run: node scripts/summarize.mjs
+        env:
+          SUMMARY_API_KEY: ${{ secrets.SUMMARY_API_KEY }}
+          SUMMARY_ENDPOINT: ${{ vars.SUMMARY_ENDPOINT }}
+          SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL }}
+          SUMMARY_MAX_ITEMS: '10'
+      - name: Keep summaries in the content folder
+        shell: bash
+        run: |
+          git add -A -- content/
+          if ! git diff --cached --quiet; then
+            git config user.name 'charta-library[bot]'
+            git config user.email 'charta-library[bot]@users.noreply.github.com'
+            git commit -m 'Update material summaries'
+            # A newer queued run handles the latest branch if this push races.
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - name: Build the exact saved snapshot
+        run: npm run build
+        env:
+          CHARTA_PUBLISH: '1'
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

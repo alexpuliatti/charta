@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46564706",
+  "type": "link",
+  "title": "Noman Ijaz",
+  "description": "AI-native designer building interfaces that feel right today and exploring ideas for tomorrow.",
+  "category": "Interface design",
+  "tags": [
+    "portfolio",
+    "interface-design",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-bad3692839f0e8527444cdc1.webp",
+      "mimeType": "image/webp",
+      "alt": "Noman Ijaz",
+      "role": "thumbnail",
+      "bytes": 2552,
+      "sha256": "bad3692839f0e8527444cdc15965c4ca4e56df3a83195a9a7894aa3c9cf77ca4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU2NDcwNi9vcmlnaW5hbF8zNWMzODRhNzc4YTIzMjRmOWQyNDQyOWEwODgyOGRmZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "35c384a778a2324f9d24429a08828dff.png"
+    },
+    {
+      "path": "assets/preview-73261befde64d0ba4c352c17.webp",
+      "mimeType": "image/webp",
+      "alt": "Noman Ijaz",
+      "role": "preview",
+      "bytes": 29224,
+      "sha256": "73261befde64d0ba4c352c17c49dda3f09844f8d03cbd3a32265f01c9072dc91",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46564706/original_35c384a778a2324f9d24429a08828dff.png",
+      "originalName": "35c384a778a2324f9d24429a08828dff.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 114389,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-28T17:43:55.000Z",
+  "updatedAt": "2026-05-28T17:44:03.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://iamnoman.com/",
+    "title": "Noman Ijaz",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46564706,
+      "url": "https://www.are.na/block/46564706",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Noman Ijaz",
+      "createdAt": "2026-05-28T17:43:55Z",
+      "updatedAt": "2026-05-28T17:44:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Noman Ijaz",
+      "category": "Information design",
+      "tags": [
+        "interfaces",
+        "architecture",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

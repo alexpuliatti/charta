@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "f_curated_interface_design",
+  "title": "Interface design",
+  "order": 2,
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

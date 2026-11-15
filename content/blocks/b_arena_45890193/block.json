@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890193",
+  "type": "image",
+  "title": "Scrolling Decline",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "writing",
+    "technology",
+    "scrolling-decline",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d4c66557359f729cd31db7a6.png",
+      "mimeType": "image/png",
+      "alt": "Scrolling Decline",
+      "role": "original",
+      "bytes": 832865,
+      "sha256": "d4c66557359f729cd31db7a65762496861667a0b4d3afc3bbf743fc6eec883b5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890193/original_316c6f292a4f88670006038880d2e3cb.png",
+      "originalName": "316c6f292a4f88670006038880d2e3cb.png"
+    },
+    {
+      "path": "assets/thumbnail-a532d97e9ad734c22cb3a44b.webp",
+      "mimeType": "image/webp",
+      "alt": "Scrolling Decline",
+      "role": "thumbnail",
+      "bytes": 9914,
+      "sha256": "a532d97e9ad734c22cb3a44b57cef9b997886260376eddcf596af298212ad6c4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDE5My9vcmlnaW5hbF8zMTZjNmYyOTJhNGY4ODY3MDAwNjAzODg4MGQyZTNjYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "316c6f292a4f88670006038880d2e3cb.png"
+    },
+    {
+      "path": "assets/display-web-original-d4c66557359f729cd31db7a6-d4c6655735.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Scrolling Decline",
+      "bytes": 78658,
+      "sha256": "34c3d17b5a89404cbbf4e0dcaa48f035bb2533e7fd51c68aefbe31ef6bc2b21a",
+      "width": 1494,
+      "height": 1702,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d4c66557359f729cd31db7a6.png",
+        "sourceSha256": "d4c66557359f729cd31db7a65762496861667a0b4d3afc3bbf743fc6eec883b5",
+        "originalBytes": 832865,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:27:22.000Z",
+  "updatedAt": "2026-05-06T13:27:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890193",
+    "title": "screenshot-2026-05-06-alle-14.27.16.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890193,
+      "url": "https://www.are.na/block/45890193",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-05-06-alle-14.27.16.png",
+      "createdAt": "2026-05-06T13:27:22Z",
+      "updatedAt": "2026-05-06T13:27:26Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-05-06-alle-14.27.16.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Scrolling Decline",
+    "text": "Obsessed\n@obsessedapp • May 1\nExit the feed by creating your own feed.\n• ••\nAloZ\na16z\n@a16z • May 1\nScrolling is on the decline\nMore charts: a16z.news/p/charts-of-th...\nAll Ages Have Cut Back On Scrolling\nAverage number of hours spent on social media per day\nTotal\n16 to 24\n25 to 34\n35 to 44\n45 to 54\n3.0\n3.0\n3.0\n3.0\n3.0\n2.5\n2.5\n2.5\n2.5\n2.5\n2.0\n2.0\n2.0\n2.0\n2.0\n1.5\n1.5\n1.5\n1.5\n1.5\n1.0\n1.0\n1.0\n1.0\n1.0\n2014\n2024\n2014\n2024\n2014\n2024\n2014\n2024\n2014\nSource: GWI, Financial Times\nMore charts: a16z.news/subscribe\n1\n3\nıhl 479\n55 to 64\n3.0\n2.5\n2.0\n1.5\n1.0\n2024\n2014\n2024\nAl6Z",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "34c3d17b5a89404cbbf4e0dcaa48f035bb2533e7fd51c68aefbe31ef6bc2b21a"
+  }
+}

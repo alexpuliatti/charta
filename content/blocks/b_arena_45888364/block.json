@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888364",
+  "type": "image",
+  "title": "Image Browser",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "image-browser",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b1acdcd684dffb3725a542e0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Image Browser",
+      "role": "original",
+      "bytes": 93695,
+      "sha256": "b1acdcd684dffb3725a542e0a2003fdf9b1838bd8dd2ced13a1e4f0f12e5109f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888364/original_6bead29e835afa446bd4235ce5095be0.jpeg",
+      "originalName": "6bead29e835afa446bd4235ce5095be0.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-74b4109bdc0dcb7bbfd49d34.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Browser",
+      "role": "thumbnail",
+      "bytes": 6072,
+      "sha256": "74b4109bdc0dcb7bbfd49d34978ed4920f8cbfd0d70020de63efa56e38e12442",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM2NC9vcmlnaW5hbF82YmVhZDI5ZTgzNWFmYTQ0NmJkNDIzNWNlNTA5NWJlMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6bead29e835afa446bd4235ce5095be0.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-b1acdcd684dffb3725a542e0-b1acdcd684.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Browser",
+      "bytes": 53506,
+      "sha256": "cc41ed81397a49f23a5dfb64e27c9d13033aea9cb285f05263abf58ec5a8e3f6",
+      "width": 1200,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b1acdcd684dffb3725a542e0.jpg",
+        "sourceSha256": "b1acdcd684dffb3725a542e0a2003fdf9b1838bd8dd2ced13a1e4f0f12e5109f",
+        "originalBytes": 93695,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:14:42.000Z",
+  "updatedAt": "2026-05-06T12:14:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888364",
+    "title": "hebjcgeaeaasrl_.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888364,
+      "url": "https://www.are.na/block/45888364",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hebjcgeaeaasrl_.jpeg",
+      "createdAt": "2026-05-06T12:14:42Z",
+      "updatedAt": "2026-05-06T12:14:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hebjcgeaeaasrl_.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Browser",
+    "text": "* Model Picker: Auto\nAd Creative",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cc41ed81397a49f23a5dfb64e27c9d13033aea9cb285f05263abf58ec5a8e3f6"
+  }
+}

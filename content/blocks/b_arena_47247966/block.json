@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247966",
+  "type": "image",
+  "title": "Glass Article",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glass-article",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6f08adde8e6836b7ca384438.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glass Article",
+      "role": "original",
+      "bytes": 1087342,
+      "sha256": "6f08adde8e6836b7ca3844381c483f57cf1d2842082f579cb369d50d6de6832c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247966/original_0c604d68fbdf25a99562b79dd0ab9ebf.jpeg",
+      "originalName": "0c604d68fbdf25a99562b79dd0ab9ebf.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c3dbbc516a4613501b38474e.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Article",
+      "role": "thumbnail",
+      "bytes": 6452,
+      "sha256": "c3dbbc516a4613501b38474eee8f3a6420eb88e5c76de8bfb9819ff0841ea08c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzk2Ni9vcmlnaW5hbF8wYzYwNGQ2OGZiZGYyNWE5OTU2MmI3OWRkMGFiOWViZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0c604d68fbdf25a99562b79dd0ab9ebf.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6f08adde8e6836b7ca384438-6f08adde8e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glass Article",
+      "bytes": 122786,
+      "sha256": "b4eea73757854ef428d88abd7d72b29934ca433592baed3c69eb701fb6175534",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6f08adde8e6836b7ca384438.jpg",
+        "sourceSha256": "6f08adde8e6836b7ca3844381c483f57cf1d2842082f579cb369d50d6de6832c",
+        "originalBytes": 1087342,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:30.000Z",
+  "updatedAt": "2026-06-23T14:30:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247966",
+    "title": "HHEvTasakAAR0b2",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247966,
+      "url": "https://www.are.na/block/47247966",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HHEvTasakAAR0b2",
+      "createdAt": "2026-06-23T14:30:30Z",
+      "updatedAt": "2026-06-23T14:30:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HHEvTasakAAR0b2",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Article",
+    "text": "modern. thatched_frontview.png\nBeta\nWelcome to Ophelia Al\nWe're truly excited to have you here and\ngrateful that you're part of this journey with\nus. Our mission is to empower creators, not\nreplace them, and to give you the tools to\nbring your ideas to life.\nWe believe that creativity should feel\neffortless, inspiring, and accessible. With\nthis platform, you have everything you need\nto explore, experiment, and create without\nlimits.\nA New Age for\nCreatives.\nA Start you journey\n(natched nouse Trontview.pne\n* What do you wanna create today?",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b4eea73757854ef428d88abd7d72b29934ca433592baed3c69eb701fb6175534"
+  }
+}

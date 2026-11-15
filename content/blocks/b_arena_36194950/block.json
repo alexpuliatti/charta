@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_36194950",
+  "type": "image",
+  "title": "Window Speakers",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "window-speakers",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-970c70c2d690c0c4da2aa0fd.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Window Speakers",
+      "role": "original",
+      "bytes": 280507,
+      "sha256": "970c70c2d690c0c4da2aa0fdb93be49e01b9ef4cf650743f3ce7c0d9b4e502de",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/36194950/original_39514bd6e8ab555012823f7876e57195.jpg",
+      "originalName": "39514bd6e8ab555012823f7876e57195.jpg"
+    },
+    {
+      "path": "assets/thumbnail-40c9a7dc8f18fa3ccd269abc.webp",
+      "mimeType": "image/webp",
+      "alt": "Window Speakers",
+      "role": "thumbnail",
+      "bytes": 12796,
+      "sha256": "40c9a7dc8f18fa3ccd269abce6b6cd3a06cc5d1d6667d10cebc66d31d4ea0ba7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzNjE5NDk1MC9vcmlnaW5hbF8zOTUxNGJkNmU4YWI1NTUwMTI4MjNmNzg3NmU1NzE5NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "39514bd6e8ab555012823f7876e57195.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-04-23T14:22:23.000Z",
+  "updatedAt": "2026-04-29T04:52:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/36194950",
+    "title": "byseanbrown_1721504373_3416548774631717439_252534714.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 36194950,
+      "url": "https://www.are.na/block/36194950",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "byseanbrown_1721504373_3416548774631717439_252534714.jpg",
+      "createdAt": "2025-04-23T14:22:23Z",
+      "updatedAt": "2026-04-29T04:52:33Z",
+      "addedBy": {
+        "id": 136866,
+        "name": "Mikey Womack",
+        "slug": "mikey-womack"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "byseanbrown_1721504373_3416548774631717439_252534714.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Window Speakers",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "970c70c2d690c0c4da2aa0fdb93be49e01b9ef4cf650743f3ce7c0d9b4e502de"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177863",
+  "type": "video",
+  "title": "Phone Layers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "phone-layers",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ffe8a334ed24c488519ab7d3.mov",
+      "mimeType": "video/quicktime",
+      "alt": "Registrazione schermo 2026-05-15 alle 13.11.01",
+      "role": "original",
+      "bytes": 50158277,
+      "sha256": "ffe8a334ed24c488519ab7d3afd1645e28ceb53608b23243ee4de5a88085e436",
+      "sourceUrl": "https://attachments.are.na/46177863/1d41a548ac91fc04ee0a1526a319dd16.mov",
+      "originalName": "1d41a548ac91fc04ee0a1526a319dd16.mov"
+    },
+    {
+      "path": "assets/thumbnail-ba35f2b92f590a1b76273652.webp",
+      "mimeType": "image/webp",
+      "alt": "Phone Layers",
+      "role": "thumbnail",
+      "bytes": 11490,
+      "sha256": "ba35f2b92f590a1b7627365283f4fa544f5d177273617612f562e87e4efc0eaf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3Nzg2My9vcmlnaW5hbF80MTk3NTMxOTdhYzYxZDVkMjAyNjA1MTUtMi0xeHdmNmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "419753197ac61d5d20260515-2-1xwf6d.png"
+    },
+    {
+      "path": "assets/display-web-original-ffe8a334ed24c488519ab7d3-ffe8a334ed.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "Registrazione schermo 2026-05-15 alle 13.11.01",
+      "bytes": 1714895,
+      "sha256": "5ef30e88cfc32022875345d56a247dcc4cd145269c2808953d8afd6478e2e824",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ffe8a334ed24c488519ab7d3.mov",
+        "sourceSha256": "ffe8a334ed24c488519ab7d3afd1645e28ceb53608b23243ee4de5a88085e436",
+        "originalBytes": 50158277,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-687efc735355b4067fbcca0c.webp",
+      "mimeType": "image/webp",
+      "alt": "Registrazione schermo 2026-05-15 alle 13.11.01",
+      "role": "preview",
+      "bytes": 144660,
+      "sha256": "687efc735355b4067fbcca0c1d83c17015dc5387473c394dcc702ff584d46b40",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177863/original_419753197ac61d5d20260515-2-1xwf6d.png",
+      "originalName": "419753197ac61d5d20260515-2-1xwf6d.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2380982,
+        "width": 2170,
+        "height": 1994,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:12:53.000Z",
+  "updatedAt": "2026-05-25T10:59:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46177863",
+    "title": "Registrazione schermo 2026-05-15 alle 13.11.01",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177863,
+      "url": "https://www.are.na/block/46177863",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Registrazione schermo 2026-05-15 alle 13.11.01",
+      "createdAt": "2026-05-15T12:12:53Z",
+      "updatedAt": "2026-05-25T10:59:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Registrazione schermo 2026-05-15 alle 13.11.01",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Phone Layers",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ba35f2b92f590a1b7627365283f4fa544f5d177273617612f562e87e4efc0eaf"
+  }
+}

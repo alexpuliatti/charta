@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_6722076",
+  "type": "image",
+  "title": "Community Guidelines",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "writing",
+    "culture",
+    "community-guidelines",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b1123c159c47f44e2d4ac75e.png",
+      "mimeType": "image/png",
+      "alt": "Community Guidelines",
+      "role": "original",
+      "bytes": 962393,
+      "sha256": "b1123c159c47f44e2d4ac75e96a56a6da040fee884c95a270ee992765b7ec619",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/6722076/original_ffaffec198bd2ba1b512aa0d61f8f840.png",
+      "originalName": "ffaffec198bd2ba1b512aa0d61f8f840.png"
+    },
+    {
+      "path": "assets/thumbnail-41eb597bc72c36ec0df31f31.webp",
+      "mimeType": "image/webp",
+      "alt": "Community Guidelines",
+      "role": "thumbnail",
+      "bytes": 13416,
+      "sha256": "41eb597bc72c36ec0df31f311c24c7d653711371f191ff3e5d2957776b6a6a39",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI2NzIyMDc2L29yaWdpbmFsX2ZmYWZmZWMxOThiZDJiYTFiNTEyYWEwZDYxZjhmODQwLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOjQwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==",
+      "originalName": "ffaffec198bd2ba1b512aa0d61f8f840.png"
+    },
+    {
+      "path": "assets/display-web-original-b1123c159c47f44e2d4ac75e-b1123c159c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Community Guidelines",
+      "bytes": 200514,
+      "sha256": "6ff0054868b7ec2f839eedbf0436ddf2e4e779aeacfc13debc4b4a20ce1fd03f",
+      "width": 1647,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b1123c159c47f44e2d4ac75e.png",
+        "sourceSha256": "b1123c159c47f44e2d4ac75e96a56a6da040fee884c95a270ee992765b7ec619",
+        "originalBytes": 962393,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2020-04-04T22:48:56.000Z",
+  "updatedAt": "2026-11-08T02:34:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://freight.cargo.site/w/2000/q/75/i/8d2dd6a28d6fa23ecb13ccd585fa9ee2001070fa719fe9eebf0a0b1405c649cc/ui-web-2.png",
+    "title": "ui-web-2.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 6722076,
+      "url": "https://www.are.na/block/6722076",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ui-web-2.png",
+      "createdAt": "2020-04-04T22:48:56Z",
+      "updatedAt": "2026-11-08T02:34:07Z",
+      "addedBy": {
+        "id": 11038,
+        "name": "Jordan Egstad",
+        "slug": "jordan-egstad"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ui-web-2.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Community Guidelines",
+    "text": "Openness. Kindness. Consent.\nFollow Our Community Guidelines.\nNo discrimination: Feeld is about inclusivity, acceptance, and respect. Attitudes that\nviolate these principles towards anyone in our community - members and the Feeld\nteam alike - will not be tolerated. Respect people's information: Misuse of information\nwill not be tolerated. You should only use photos and information you have permission\nto use. Profiles: As much as we believe in honesty and openness, nudity and explicit\ncontent will be removed from your profile when found - society is simply not ready yet!\nWe want to provide a comfortable and easily navigable space for our members to\nexplore. You can always reveal everything to your Connections in private. No one owes\nyou anything: Being on Feeld doesn't mean someone will fulfil your wishes, sleep with\nyou or give you what you want. Everyone can always say no. This applies across the\nboard, from desires to information - if someone doesn't want to share, it's their right\nnot to. Consent is key: Consent is a fundamental principle of Feeld. Trusting that\nsomeone understands what you are comfortable with, what your limits are and that\nthey won't violate those limits without your agreement - and vice-versa - is essential\nto all interactions. Take the time to talk about what you and your partners) expect\nfrom each other. Take the time to lay out safety rules. Take the time to understand what\nrisk-aware consensual kink (RACK), Personal Responsibility, Informed Consensual Kink\n(PRICK), and Safe, Sane, and Consensual\" (SSC) mean. Openness to others and their\nminds: No one likes, is interested in or gets turned on by precisely the same things.\nSome might overlap with your own desires, others may be entirely new to you. Just\nbecause someone is into something you're not into doesn't mean it's any less valid.\nThis is exactly why Feeld was created in the first place - to be a space where people\ncan test the boundaries of their own understanding of sexuality and desire with\nrespect and openness. As such, bullying, mobbing, harassment and stalking have no\nplace in our community. Only real humans accepted: We are a real community of real\npeople, looking for real connection and experiences. Fake profiles, catfishing and other\nforms of falsified personas and identities will not be tolerated. If you have used a fake\nidentity, you will not be allowed on the platform anymore. We are humans too: Please\nremember that on the other side of the screen there are real humans, who work\ndevotedly day and night to make Feeld a safe space for your connections and\nexplorations. If you treat us disrespectfully, that won't be tolerated. We reserve the\nright to exclude from our community anyone who displays rudeness and verbal\naggression towards our team.\nHome About Status Join Feeld\nSafety & Manifesto\nLabs Slack Bot Signal\nEllo Twitter\nFacebook\nTumbir\nSlack Community\nContact Support\nTerms of Use\nPrivacy Policy",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6ff0054868b7ec2f839eedbf0436ddf2e4e779aeacfc13debc4b4a20ce1fd03f"
+  }
+}

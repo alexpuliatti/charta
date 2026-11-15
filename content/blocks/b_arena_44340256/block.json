@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340256",
+  "type": "image",
+  "title": "Dearest Heart",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "dearest-heart",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7f43d85caf9caa9e005bbc3d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Dearest Heart",
+      "role": "original",
+      "bytes": 143033,
+      "sha256": "7f43d85caf9caa9e005bbc3df21efe97a08fce043457b1e616cefcbc31293a3e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340256/original_f28375ab2237178d6351c1667b8ccca6.jpg",
+      "originalName": "f28375ab2237178d6351c1667b8ccca6.jpg"
+    },
+    {
+      "path": "assets/thumbnail-a3dd935a98a8e1c5cb5a261d.webp",
+      "mimeType": "image/webp",
+      "alt": "Dearest Heart",
+      "role": "thumbnail",
+      "bytes": 8382,
+      "sha256": "a3dd935a98a8e1c5cb5a261d81189c71640b71aabf53bc79c344ecad7cce89f6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1Ni9vcmlnaW5hbF9mMjgzNzVhYjIyMzcxNzhkNjM1MWMxNjY3YjhjY2NhNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f28375ab2237178d6351c1667b8ccca6.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7f43d85caf9caa9e005bbc3d-7f43d85caf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dearest Heart",
+      "bytes": 113140,
+      "sha256": "be151e6aca7b9d739c2fad944ec98b1832d680fe6c86ef934069d3138d2babfb",
+      "width": 1200,
+      "height": 1574,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7f43d85caf9caa9e005bbc3d.jpg",
+        "sourceSha256": "7f43d85caf9caa9e005bbc3df21efe97a08fce043457b1e616cefcbc31293a3e",
+        "originalBytes": 143033,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340256",
+    "title": "aed1307b998d1e8c5fadd91c1ce2fd15.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340256,
+      "url": "https://www.are.na/block/44340256",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "aed1307b998d1e8c5fadd91c1ce2fd15.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "aed1307b998d1e8c5fadd91c1ce2fd15.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dearest Heart",
+    "text": "VIVIEN LEIGH\nMs deaSweet heect.\nMy love is kili\nThe Crey secand- and\nms to nth bik\nbe a peak guat\ntimmpa for yt\nиз лами, !\nTor prond antador\nVmen",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "be151e6aca7b9d739c2fad944ec98b1832d680fe6c86ef934069d3138d2babfb"
+  }
+}

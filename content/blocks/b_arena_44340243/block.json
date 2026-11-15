@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340243",
+  "type": "image",
+  "title": "Poetry Flowchart",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "poetry-flowchart",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5e8f17a32c32ba67d179fdb5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Poetry Flowchart",
+      "role": "original",
+      "bytes": 49222,
+      "sha256": "5e8f17a32c32ba67d179fdb5d1756c24b1f3f2d5ef3df13d69d07645de572d87",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340243/original_7047e6bc22f673ee9a8f57b48c7d4fc8.jpg",
+      "originalName": "7047e6bc22f673ee9a8f57b48c7d4fc8.jpg"
+    },
+    {
+      "path": "assets/thumbnail-1cf91a2fa7318aa19b1f6829.webp",
+      "mimeType": "image/webp",
+      "alt": "Poetry Flowchart",
+      "role": "thumbnail",
+      "bytes": 3370,
+      "sha256": "1cf91a2fa7318aa19b1f68290ea3681b98ff696a3e95236b1480495be91b5b58",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI0My9vcmlnaW5hbF83MDQ3ZTZiYzIyZjY3M2VlOWE4ZjU3YjQ4YzdkNGZjOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7047e6bc22f673ee9a8f57b48c7d4fc8.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5e8f17a32c32ba67d179fdb5-5e8f17a32c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Poetry Flowchart",
+      "bytes": 28212,
+      "sha256": "404a60184747b6ec569c87714ef7a0bd64b233a83c788258897941924138eb6a",
+      "width": 807,
+      "height": 1068,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5e8f17a32c32ba67d179fdb5.jpg",
+        "sourceSha256": "5e8f17a32c32ba67d179fdb5d1756c24b1f3f2d5ef3df13d69d07645de572d87",
+        "originalBytes": 49222,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:31.000Z",
+  "updatedAt": "2026-03-11T17:40:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340243",
+    "title": "aa4d9613439b5a51f18b2bb06925eda9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340243,
+      "url": "https://www.are.na/block/44340243",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "aa4d9613439b5a51f18b2bb06925eda9.jpg",
+      "createdAt": "2026-03-11T17:40:31Z",
+      "updatedAt": "2026-03-11T17:40:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "aa4d9613439b5a51f18b2bb06925eda9.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Poetry Flowchart",
+    "text": "No parking please\nNo parking\nNo parking\nin constant use\nGarage in use\nday and night\nplease\ndo not park\nDo not obstruct",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "404a60184747b6ec569c87714ef7a0bd64b233a83c788258897941924138eb6a"
+  }
+}

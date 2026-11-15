@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40763136",
+  "type": "link",
+  "title": "Biotron Kit",
+  "description": "Unlock endless creative possibilities with the Biotron MIDI Controller! This starter kit includes everything you need to begin your experiments and explore the world of bio-interactive music. Here’s what’s inside: MIDI CONTROLLER BIOTRON CABLE USB-C TO C (1M) 4 PATCHES FOR SKIN AND PLANTS 10 EXTRA ALLIGATOR CLIPS",
+  "category": "Sound",
+  "tags": [
+    "midi",
+    "bio-interaction",
+    "music"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1c899bf39b387b6d5cafa9e2.webp",
+      "mimeType": "image/webp",
+      "alt": "BIOTRON STARTER KIT",
+      "role": "thumbnail",
+      "bytes": 12446,
+      "sha256": "1c899bf39b387b6d5cafa9e247bf6e027a7258f4d3feea3fa6d414b1155f8405",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2MzEzNi9vcmlnaW5hbF83YzYwYmJkOWU0N2I2ODAwNzdlZWRhMTFhYWM0NmFhOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7c60bbd9e47b680077eeda11aac46aa8.png"
+    },
+    {
+      "path": "assets/preview-498ec730d5f6f4c09aa60efe.webp",
+      "mimeType": "image/webp",
+      "alt": "BIOTRON STARTER KIT",
+      "role": "preview",
+      "bytes": 245322,
+      "sha256": "498ec730d5f6f4c09aa60efe365c1374aab6da11781c33ad35e64c36335561b0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40763136/original_7c60bbd9e47b680077eeda11aac46aa8.png",
+      "originalName": "7c60bbd9e47b680077eeda11aac46aa8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1299683,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-10-31T23:09:54.000Z",
+  "updatedAt": "2026-05-06T14:48:42.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://shop.playtronica.com/collections/for-playtron/products/biotron-starter-kit",
+    "title": "BIOTRON STARTER KIT",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40763136,
+      "url": "https://www.are.na/block/40763136",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "BIOTRON STARTER KIT",
+      "createdAt": "2025-10-31T23:09:54Z",
+      "updatedAt": "2026-05-06T14:48:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Instruments",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "BIOTRON STARTER KIT",
+      "category": "Digital design",
+      "tags": [
+        "interaction-design",
+        "music",
+        "nature",
+        "interfaces"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

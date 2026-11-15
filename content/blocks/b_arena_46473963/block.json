@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473963",
+  "type": "link",
+  "title": "UNCUT Typefaces",
+  "description": "UNCUT.wtf is a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured.",
+  "category": "Graphic design",
+  "tags": [
+    "typefaces",
+    "typography",
+    "free-fonts"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9871add4238dcf1c1993480d.webp",
+      "mimeType": "image/webp",
+      "alt": "Welcome to UNCUT.wtf",
+      "role": "thumbnail",
+      "bytes": 7612,
+      "sha256": "9871add4238dcf1c1993480dcad769e847f98641edaa41eeb63393c412a30d67",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk2My9vcmlnaW5hbF8xYzQyZTAwMDE4YTQ0ZTdjOWMxNzhiYzdkOGIyM2ZjZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1c42e00018a44e7c9c178bc7d8b23fcd.png"
+    },
+    {
+      "path": "assets/preview-2737d6ae22a0ccca332820c4.webp",
+      "mimeType": "image/webp",
+      "alt": "Welcome to UNCUT.wtf",
+      "role": "preview",
+      "bytes": 65174,
+      "sha256": "2737d6ae22a0ccca332820c4ad20e554d7c7e00cf8af85c7188a0412358f43be",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473963/original_1c42e00018a44e7c9c178bc7d8b23fcd.png",
+      "originalName": "1c42e00018a44e7c9c178bc7d8b23fcd.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 199124,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:29.000Z",
+  "updatedAt": "2026-06-24T17:15:11.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://uncut.wtf/",
+    "title": "Welcome to UNCUT.wtf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473963,
+      "url": "https://www.are.na/block/46473963",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Welcome to UNCUT.wtf",
+      "createdAt": "2026-05-25T10:58:29Z",
+      "updatedAt": "2026-06-24T17:15:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Welcome to UNCUT.wtf",
+      "category": "Tools and resources",
+      "tags": [
+        "typography",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

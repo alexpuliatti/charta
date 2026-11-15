@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46109540",
+  "type": "link",
+  "title": "Rendering Atmospheres",
+  "description": "This article explores how to render realistic skies and atmospheres in real time in the browser with shaders, from simple sky domes, to entire planets using shaders, raymarching, Rayleigh and Mie scattering, and ozone absorption.",
+  "category": "Writing",
+  "tags": [
+    "shaders",
+    "raymarching",
+    "atmospheric-scattering"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-316a3a1596e4f53a242474b1.webp",
+      "mimeType": "image/webp",
+      "alt": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
+      "role": "thumbnail",
+      "bytes": 6710,
+      "sha256": "316a3a1596e4f53a242474b1db8ad0b39e7dab1ed33717d65b19d59b65217b00",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjEwOTU0MC9vcmlnaW5hbF9mNzg3OTQ5MWQ4ZWE5YzhhODA4ZmRmOTBhYWI0NTcwMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f7879491d8ea9c8a808fdf90aab45703.png"
+    },
+    {
+      "path": "assets/preview-1843dcc59707da8e3d2d6e30.webp",
+      "mimeType": "image/webp",
+      "alt": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
+      "role": "preview",
+      "bytes": 169404,
+      "sha256": "1843dcc59707da8e3d2d6e301ac00b5e1ea837ef538283578970a0d17e735f54",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46109540/original_f7879491d8ea9c8a808fdf90aab45703.png",
+      "originalName": "f7879491d8ea9c8a808fdf90aab45703.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 796927,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:09:09.000Z",
+  "updatedAt": "2026-05-13T10:09:15.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "title": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46109540,
+      "url": "https://www.are.na/block/46109540",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
+      "createdAt": "2026-05-13T10:09:09Z",
+      "updatedAt": "2026-05-13T10:09:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
+      "category": "Tools and resources",
+      "tags": [
+        "3d-design",
+        "writing",
+        "creative-coding",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_46109493",
+      "reason": "Both are shader implementation tutorials: converting GLSL from Shadertoy to Three.js and rendering atmospheric scenes in the browser.",
+      "method": "curation-v1"
+    }
+  ]
+}

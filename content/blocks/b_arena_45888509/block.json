@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888509",
+  "type": "image",
+  "title": "Beings Wordmark",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "beings-wordmark",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-949e90f8a3d0e82a42b6c8c5.png",
+      "mimeType": "image/png",
+      "alt": "Beings Wordmark",
+      "role": "original",
+      "bytes": 722820,
+      "sha256": "949e90f8a3d0e82a42b6c8c56e340f1d9fa300a47fa3c871f8365e472e80261c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888509/original_9834ac96a134a36213635f8c1d9c92bf.png",
+      "originalName": "9834ac96a134a36213635f8c1d9c92bf.png"
+    },
+    {
+      "path": "assets/thumbnail-b118014b97707b95a65454ed.webp",
+      "mimeType": "image/webp",
+      "alt": "Beings Wordmark",
+      "role": "thumbnail",
+      "bytes": 2696,
+      "sha256": "b118014b97707b95a65454ed4400f2db5bac5e0c554405e30eea41f4a28df95b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUwOS9vcmlnaW5hbF85ODM0YWM5NmExMzRhMzYyMTM2MzVmOGMxZDljOTJiZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9834ac96a134a36213635f8c1d9c92bf.png"
+    },
+    {
+      "path": "assets/display-web-original-949e90f8a3d0e82a42b6c8c5-949e90f8a3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Beings Wordmark",
+      "bytes": 15808,
+      "sha256": "4dc7a2e267d4d2c25bc457978722b469b32583cc42d54f0e98689517bf94946a",
+      "width": 2000,
+      "height": 947,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-949e90f8a3d0e82a42b6c8c5.png",
+        "sourceSha256": "949e90f8a3d0e82a42b6c8c56e340f1d9fa300a47fa3c871f8365e472e80261c",
+        "originalBytes": 722820,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:19.000Z",
+  "updatedAt": "2026-05-06T12:20:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888509",
+    "title": "screenshot-2026-04-17-alle-14.31.16.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888509,
+      "url": "https://www.are.na/block/45888509",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-17-alle-14.31.16.png",
+      "createdAt": "2026-05-06T12:20:19Z",
+      "updatedAt": "2026-05-06T12:20:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-17-alle-14.31.16.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Beings Wordmark",
+    "text": "BEINGS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4dc7a2e267d4d2c25bc457978722b469b32583cc42d54f0e98689517bf94946a"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888359",
+  "type": "image",
+  "title": "Event Lineup",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "event-lineup",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ad9fdc8c92129c9e8e500e48.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Event Lineup",
+      "role": "original",
+      "bytes": 39973,
+      "sha256": "ad9fdc8c92129c9e8e500e4822763c0280bfad926be19343e58b50e83f61962a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888359/original_63de3343c5269e21d769af42329b65a6.jpeg",
+      "originalName": "63de3343c5269e21d769af42329b65a6.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-4c9a5d56dbb2903d68a0a049.webp",
+      "mimeType": "image/webp",
+      "alt": "Event Lineup",
+      "role": "thumbnail",
+      "bytes": 12088,
+      "sha256": "4c9a5d56dbb2903d68a0a049e176606e94fd893aae25e520f3ed22b6d90aec8b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM1OS9vcmlnaW5hbF82M2RlMzM0M2M1MjY5ZTIxZDc2OWFmNDIzMjliNjVhNi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "63de3343c5269e21d769af42329b65a6.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ad9fdc8c92129c9e8e500e48-ad9fdc8c92.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Event Lineup",
+      "bytes": 29110,
+      "sha256": "4c7ffadaad76974453be2f990add3d1a8725be9bf4eab3e0c6ddddeabff41717",
+      "width": 736,
+      "height": 712,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ad9fdc8c92129c9e8e500e48.jpg",
+        "sourceSha256": "ad9fdc8c92129c9e8e500e4822763c0280bfad926be19343e58b50e83f61962a",
+        "originalBytes": 39973,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:14:26.000Z",
+  "updatedAt": "2026-05-06T12:14:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888359",
+    "title": "d79e430f7268602b1b8ad5dc53837d87.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888359,
+      "url": "https://www.are.na/block/45888359",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "d79e430f7268602b1b8ad5dc53837d87.jpg",
+      "createdAt": "2026-05-06T12:14:26Z",
+      "updatedAt": "2026-05-06T12:14:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "d79e430f7268602b1b8ad5dc53837d87.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Event Lineup",
+    "text": "Alfred Anders\nBarker (Live)\nBest Serve 1 Cold\nCalibre\nDJ Gigola\nDJ Rino\nDVS1\nDana Kuchr, GL\nDana Montana\nDance D vine\nDi Plant Texture\nFBQ\nFlapy\n«Islas\nBungalow\nGarage Box\nPastorij\nBungalow\nHooghuic\nHaven\nBungalow\nPastorij\nHaven\nHaven\nMaven\nHaven\nPastoril\nGarage Box\n19:00\n16:30\n20:00\n15:30\n16:45\n20:30\n14:00\n23:00\n12:30\n17:30\n22:30\n19:30\n15:00\n19:00",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4c7ffadaad76974453be2f990add3d1a8725be9bf4eab3e0c6ddddeabff41717"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888610",
+  "type": "image",
+  "title": "Terra Cotta",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "terra-cotta",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c93bbca431e122a254598e95.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Terra Cotta",
+      "role": "original",
+      "bytes": 54998,
+      "sha256": "c93bbca431e122a254598e95f8990e875f9fc1244f16c71d7be11f19aa6b73e6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888610/original_0c2099b4b6f25285b3c0617a17bc77b4.jpeg",
+      "originalName": "0c2099b4b6f25285b3c0617a17bc77b4.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-ba9bd123d86335a6b55eb6e8.webp",
+      "mimeType": "image/webp",
+      "alt": "Terra Cotta",
+      "role": "thumbnail",
+      "bytes": 4680,
+      "sha256": "ba9bd123d86335a6b55eb6e8c981b51a4cf12a80104657551d360d7de258ba91",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYxMC9vcmlnaW5hbF8wYzIwOTliNGI2ZjI1Mjg1YjNjMDYxN2ExN2JjNzdiNC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0c2099b4b6f25285b3c0617a17bc77b4.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c93bbca431e122a254598e95-c93bbca431.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Terra Cotta",
+      "bytes": 26478,
+      "sha256": "a586cf36bbf8e6be60c2c7f7a554ee02b180f32df46b88cc04e1a664a0e57c77",
+      "width": 1200,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c93bbca431e122a254598e95.jpg",
+        "sourceSha256": "c93bbca431e122a254598e95f8990e875f9fc1244f16c71d7be11f19aa6b73e6",
+        "originalBytes": 54998,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:50.000Z",
+  "updatedAt": "2026-05-06T12:24:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888610",
+    "title": "fc4ad8f9d82fe02e4e515c50e03ca82e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888610,
+      "url": "https://www.are.na/block/45888610",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "fc4ad8f9d82fe02e4e515c50e03ca82e.jpg",
+      "createdAt": "2026-05-06T12:23:50Z",
+      "updatedAt": "2026-05-06T12:24:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "fc4ad8f9d82fe02e4e515c50e03ca82e.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Terra Cotta",
+    "text": "TERRA\nAime Light\n330PT\nCOTTA\nAime Light\n330PT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a586cf36bbf8e6be60c2c7f7a554ee02b180f32df46b88cc04e1a664a0e57c77"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888613",
+  "type": "image",
+  "title": "Annotated Eyes",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "annotated-eyes",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-389ee58b52f1ff0bf3e4b626.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Annotated Eyes",
+      "role": "original",
+      "bytes": 77550,
+      "sha256": "389ee58b52f1ff0bf3e4b62603b1c605993c619c0edfcfae48f60562675f2e83",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888613/original_ddb8721563abdf407ac09f5ac0042e8c.jpeg",
+      "originalName": "ddb8721563abdf407ac09f5ac0042e8c.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-3e13bac1cdead399e26b9d39.webp",
+      "mimeType": "image/webp",
+      "alt": "Annotated Eyes",
+      "role": "thumbnail",
+      "bytes": 11600,
+      "sha256": "3e13bac1cdead399e26b9d397dcb0b84e781cc6267006ba1ef9ec4203ceb46e6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYxMy9vcmlnaW5hbF9kZGI4NzIxNTYzYWJkZjQwN2FjMDlmNWFjMDA0MmU4Yy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ddb8721563abdf407ac09f5ac0042e8c.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-389ee58b52f1ff0bf3e4b626-389ee58b52.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Annotated Eyes",
+      "bytes": 60566,
+      "sha256": "5dd5bf7abb87e37f9654f0885e2bcd6df685b9859fb0c7624503ccd8143044f8",
+      "width": 736,
+      "height": 731,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-389ee58b52f1ff0bf3e4b626.jpg",
+        "sourceSha256": "389ee58b52f1ff0bf3e4b62603b1c605993c619c0edfcfae48f60562675f2e83",
+        "originalBytes": 77550,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:53.000Z",
+  "updatedAt": "2026-05-27T06:54:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888613",
+    "title": "fe17612ecd576986bd031ed3e6b7ae11.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888613,
+      "url": "https://www.are.na/block/45888613",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "fe17612ecd576986bd031ed3e6b7ae11.jpg",
+      "createdAt": "2026-05-06T12:23:53Z",
+      "updatedAt": "2026-05-27T06:54:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "fe17612ecd576986bd031ed3e6b7ae11.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Annotated Eyes",
+    "text": "• not\n• the\n• final product\nthere is never\ntruly a\n• final product\n• only\nlonglasting\nrelationships\nwith\nyour art\nwith\n•\nyourself\n• and with\nthe\nwith\npeople you create",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5dd5bf7abb87e37f9654f0885e2bcd6df685b9859fb0c7624503ccd8143044f8"
+  }
+}

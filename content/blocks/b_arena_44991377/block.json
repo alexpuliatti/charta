@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44991377",
+  "type": "video",
+  "title": "Particle Code",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "particle-code",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2edf390113dbd3862d108935.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1775205646558.mp4",
+      "role": "original",
+      "bytes": 19797325,
+      "sha256": "2edf390113dbd3862d108935f9a71fe41fd0342147c54fcf1cf9e3ec5713c084",
+      "sourceUrl": "https://attachments.are.na/44991377/f0c97b781685fbdfeba6d62538a98888.mp4",
+      "originalName": "f0c97b781685fbdfeba6d62538a98888.mp4"
+    },
+    {
+      "path": "assets/thumbnail-df2cbbfc7768734ae494a4e8.webp",
+      "mimeType": "image/webp",
+      "alt": "Particle Code",
+      "role": "thumbnail",
+      "bytes": 4654,
+      "sha256": "df2cbbfc7768734ae494a4e8b59d0e7ad298d6a9a8a5d476004023c084db249a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDk5MTM3Ny9vcmlnaW5hbF9lMTE5OGE0NzAzN2NiMzIwMjAyNjA0MDMtMi1yYnBkaTUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e1198a47037cb32020260403-2-rbpdi5.png"
+    },
+    {
+      "path": "assets/display-web-original-2edf390113dbd3862d108935-2edf390113.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1775205646558.mp4",
+      "bytes": 10162703,
+      "sha256": "8f7b29b5c1d32c447ca6623051e2ddd4bfa87f3d794284ab1cc334dfac209212",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2edf390113dbd3862d108935.mp4",
+        "sourceSha256": "2edf390113dbd3862d108935f9a71fe41fd0342147c54fcf1cf9e3ec5713c084",
+        "originalBytes": 19797325,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-cbd4b243124d4c9bf26ed39c.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1775205646558.mp4",
+      "role": "preview",
+      "bytes": 129780,
+      "sha256": "cbd4b243124d4c9bf26ed39cb3a3449dc8d6a20f5eb200e74826ae7bc0183c60",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44991377/original_e1198a47037cb32020260403-2-rbpdi5.png",
+      "originalName": "e1198a47037cb32020260403-2-rbpdi5.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 797122,
+        "width": 1920,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-03T08:41:09.000Z",
+  "updatedAt": "2026-04-03T08:41:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44991377",
+    "title": "ssstwitter.com_1775205646558.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44991377,
+      "url": "https://www.are.na/block/44991377",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1775205646558.mp4",
+      "createdAt": "2026-04-03T08:41:09Z",
+      "updatedAt": "2026-04-03T08:41:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1775205646558.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Particle Code",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "df2cbbfc7768734ae494a4e8b59d0e7ad298d6a9a8a5d476004023c084db249a"
+  }
+}

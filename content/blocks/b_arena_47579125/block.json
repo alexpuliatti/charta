@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579125",
+  "type": "image",
+  "title": "Neuroscience Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "neuroscience-website",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0a984d81a6ac51ad448277aa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Neuroscience Website",
+      "role": "original",
+      "bytes": 506048,
+      "sha256": "0a984d81a6ac51ad448277aa748096065d125140443035832b7f62c0f418f5a4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579125/original_5953cbd9e132dff67ad8742c54011eab.jpeg",
+      "originalName": "5953cbd9e132dff67ad8742c54011eab.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-bfe40ce950a75b41a216d599.webp",
+      "mimeType": "image/webp",
+      "alt": "Neuroscience Website",
+      "role": "thumbnail",
+      "bytes": 8896,
+      "sha256": "bfe40ce950a75b41a216d5999b63f687f6e10a40920855586f8cc7d998629764",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTEyNS9vcmlnaW5hbF81OTUzY2JkOWUxMzJkZmY2N2FkODc0MmM1NDAxMWVhYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "5953cbd9e132dff67ad8742c54011eab.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0a984d81a6ac51ad448277aa-0a984d81a6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Neuroscience Website",
+      "bytes": 119698,
+      "sha256": "73c5b1cb91cacd0cc7bdca28633d85a188b408709365098a6faa874ebbb344d3",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0a984d81a6ac51ad448277aa.jpg",
+        "sourceSha256": "0a984d81a6ac51ad448277aa748096065d125140443035832b7f62c0f418f5a4",
+        "originalBytes": 506048,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:31:19.000Z",
+  "updatedAt": "2026-07-04T15:31:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579125",
+    "title": "HC9tdktbQAApqX1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579125,
+      "url": "https://www.are.na/block/47579125",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HC9tdktbQAApqX1",
+      "createdAt": "2026-07-04T15:31:19Z",
+      "updatedAt": "2026-07-04T15:31:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HC9tdktbQAApqX1",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Neuroscience Website",
+    "text": "We are the future of\nneuroscience. We're\nshattering reality as\nyou know it\nLet's go →",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "73c5b1cb91cacd0cc7bdca28633d85a188b408709365098a6faa874ebbb344d3"
+  }
+}

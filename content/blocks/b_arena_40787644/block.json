@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787644",
+  "type": "image",
+  "title": "Folded Horns",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "folded-horns",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8bea0c4c9e2091bc24243cc5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Folded Horns",
+      "role": "original",
+      "bytes": 53444,
+      "sha256": "8bea0c4c9e2091bc24243cc53edc2d6ad2ed8b4b3863904d058a40bec4072986",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787644/original_8bed8e66eb45c23a9c5128c97bb2e4f4.jpg",
+      "originalName": "8bed8e66eb45c23a9c5128c97bb2e4f4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-490cf830d18f404afa607df6.webp",
+      "mimeType": "image/webp",
+      "alt": "Folded Horns",
+      "role": "thumbnail",
+      "bytes": 3652,
+      "sha256": "490cf830d18f404afa607df6f0eed07b5424d111fbc8c64c4019550b80852c82",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzY0NC9vcmlnaW5hbF84YmVkOGU2NmViNDVjMjNhOWM1MTI4Yzk3YmIyZTRmNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8bed8e66eb45c23a9c5128c97bb2e4f4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-8bea0c4c9e2091bc24243cc5-8bea0c4c9e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Folded Horns",
+      "bytes": 28528,
+      "sha256": "8a550bb0e8ab8bac4917a0cd4e7fbc17d27446f86d05f6f76e6703adf0a99f65",
+      "width": 735,
+      "height": 919,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8bea0c4c9e2091bc24243cc5.jpg",
+        "sourceSha256": "8bea0c4c9e2091bc24243cc53edc2d6ad2ed8b4b3863904d058a40bec4072986",
+        "originalBytes": 53444,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:52:21.000Z",
+  "updatedAt": "2025-11-02T15:52:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787644",
+    "title": "14f15e6e61b82e1fb0ed11dc24ddce70.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787644,
+      "url": "https://www.are.na/block/40787644",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "14f15e6e61b82e1fb0ed11dc24ddce70.jpg",
+      "createdAt": "2025-11-02T15:52:21Z",
+      "updatedAt": "2025-11-02T15:52:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "14f15e6e61b82e1fb0ed11dc24ddce70.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Folded Horns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8a550bb0e8ab8bac4917a0cd4e7fbc17d27446f86d05f6f76e6703adf0a99f65"
+  }
+}

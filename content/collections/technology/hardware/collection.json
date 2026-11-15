@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_technology_hardware",
+  "title": "Hardware",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_45995850"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45995849"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995822",
+  "type": "image",
+  "title": "Stone Doorway",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "stone-doorway",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6c1acf17ec3d806ae7463c4d.png",
+      "mimeType": "image/png",
+      "alt": "Stone Doorway",
+      "role": "original",
+      "bytes": 397947,
+      "sha256": "6c1acf17ec3d806ae7463c4d999e1b9679cf27c7f2ea7cb7a064ad5388b3c7d0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995822/original_3a494fff6c4f4c804c027f779c3272d7.png",
+      "originalName": "3a494fff6c4f4c804c027f779c3272d7.png"
+    },
+    {
+      "path": "assets/thumbnail-c4124952427057b1c610cc35.webp",
+      "mimeType": "image/webp",
+      "alt": "Stone Doorway",
+      "role": "thumbnail",
+      "bytes": 11066,
+      "sha256": "c4124952427057b1c610cc35621722bd4927689c94d58149303a4fcc6efb74c1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgyMi9vcmlnaW5hbF8zYTQ5NGZmZjZjNGY0YzgwNGMwMjdmNzc5YzMyNzJkNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3a494fff6c4f4c804c027f779c3272d7.png"
+    },
+    {
+      "path": "assets/display-web-original-6c1acf17ec3d806ae7463c4d-6c1acf17ec.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Stone Doorway",
+      "bytes": 36750,
+      "sha256": "55161abbc311c4cd8da028f85eeb5c20b6dd6e5f3465a65456b93de0c134d1c3",
+      "width": 486,
+      "height": 613,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6c1acf17ec3d806ae7463c4d.png",
+        "sourceSha256": "6c1acf17ec3d806ae7463c4d999e1b9679cf27c7f2ea7cb7a064ad5388b3c7d0",
+        "originalBytes": 397947,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:01:03.000Z",
+  "updatedAt": "2026-02-28T12:01:05.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995822",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995822,
+      "url": "https://www.are.na/block/43995822",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:01:03Z",
+      "updatedAt": "2026-02-28T12:01:05Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Stone Doorway",
+    "text": "8",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "55161abbc311c4cd8da028f85eeb5c20b6dd6e5f3465a65456b93de0c134d1c3"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45897506",
+  "type": "link",
+  "title": "Dreamspan Vision",
+  "description": "Introducing Dreamspan.",
+  "category": "Companies",
+  "tags": [
+    "healthspan",
+    "biology",
+    "product-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-c6c33920f1c5e2c764a94b58.webp",
+      "mimeType": "image/webp",
+      "alt": "Vision",
+      "role": "thumbnail",
+      "bytes": 6578,
+      "sha256": "c6c33920f1c5e2c764a94b58875be71bfc25fde1e1ee34ca79af05a6fa454602",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5NzUwNi9vcmlnaW5hbF82YjExY2QyMDJjNjdjOWI2Yjk1MzA2YjdhMzVhZDJjYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6b11cd202c67c9b6b95306b7a35ad2cb.png"
+    },
+    {
+      "path": "assets/preview-393095cd6f1996a19a97651c.webp",
+      "mimeType": "image/webp",
+      "alt": "Vision",
+      "role": "preview",
+      "bytes": 91852,
+      "sha256": "393095cd6f1996a19a97651c75f8b0d41655782be751ea80f50f27aca39e03d4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45897506/original_6b11cd202c67c9b6b95306b7a35ad2cb.png",
+      "originalName": "6b11cd202c67c9b6b95306b7a35ad2cb.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 233095,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T17:34:29.000Z",
+  "updatedAt": "2026-05-06T17:34:34.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://dreamspan.co/vision",
+    "title": "Vision",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45897506,
+      "url": "https://www.are.na/block/45897506",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Vision",
+      "createdAt": "2026-05-06T17:34:29Z",
+      "updatedAt": "2026-05-06T17:34:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.dreamspan.co/vision",
+        "finding": "Official Vision page identifies Dreamspan as an evolution research and product company."
+      }
+    ],
+    "original": {
+      "title": "Vision",
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

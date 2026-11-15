@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340292",
+  "type": "image",
+  "title": "Car Interior",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "car-interior",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6ec52f0dc8b6ab203e327189.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Car Interior",
+      "role": "original",
+      "bytes": 64389,
+      "sha256": "6ec52f0dc8b6ab203e327189137a4a3c9c812623e1c08bc519e9acf5eac00024",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340292/original_5a5ab93edd4650ccbbeeb5652acb5a09.jpg",
+      "originalName": "5a5ab93edd4650ccbbeeb5652acb5a09.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c6842e9f929a36a1afbd2cc6.webp",
+      "mimeType": "image/webp",
+      "alt": "Car Interior",
+      "role": "thumbnail",
+      "bytes": 5038,
+      "sha256": "c6842e9f929a36a1afbd2cc62f5b6493d94eed059df661ca1490107a74945b5f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5Mi9vcmlnaW5hbF81YTVhYjkzZWRkNDY1MGNjYmJlZWI1NjUyYWNiNWEwOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5a5ab93edd4650ccbbeeb5652acb5a09.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6ec52f0dc8b6ab203e327189-6ec52f0dc8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Car Interior",
+      "bytes": 38462,
+      "sha256": "d3e1d290a1d87bda552639144247013968b6f44863b03a54483b829eb01b38aa",
+      "width": 1080,
+      "height": 710,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6ec52f0dc8b6ab203e327189.jpg",
+        "sourceSha256": "6ec52f0dc8b6ab203e327189137a4a3c9c812623e1c08bc519e9acf5eac00024",
+        "originalBytes": 64389,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340292",
+    "title": "2b1f6149799d4a71796ba3d94f046bb9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340292,
+      "url": "https://www.are.na/block/44340292",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "2b1f6149799d4a71796ba3d94f046bb9.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2b1f6149799d4a71796ba3d94f046bb9.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Car Interior",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d3e1d290a1d87bda552639144247013968b6f44863b03a54483b829eb01b38aa"
+  }
+}

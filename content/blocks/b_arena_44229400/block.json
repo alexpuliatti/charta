@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44229400",
+  "type": "link",
+  "title": "Easing Graphs",
+  "description": "A curated collection of easing graphs",
+  "category": "Interface design",
+  "tags": [
+    "animation",
+    "easing",
+    "motion-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9ad91d6da55016ad9077fb3d.webp",
+      "mimeType": "image/webp",
+      "alt": "Easing Graphs",
+      "role": "thumbnail",
+      "bytes": 954,
+      "sha256": "9ad91d6da55016ad9077fb3db0738d4513961f7a420c694001901eb0c2fffcbf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyOTQwMC9vcmlnaW5hbF80MGQ2ODYyZDM2ZDBjZDA1Zjk4NDQxYTMwZGRlNmE0YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "40d6862d36d0cd05f98441a30dde6a4a.png"
+    },
+    {
+      "path": "assets/preview-43d50dfad547ae69351a75c0.webp",
+      "mimeType": "image/webp",
+      "alt": "Easing Graphs",
+      "role": "preview",
+      "bytes": 22116,
+      "sha256": "43d50dfad547ae69351a75c06feff32a6ff020c96fa54d68f4254e1476fd2306",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44229400/original_40d6862d36d0cd05f98441a30dde6a4a.png",
+      "originalName": "40d6862d36d0cd05f98441a30dde6a4a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 67771,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T00:38:36.000Z",
+  "updatedAt": "2026-03-08T11:26:06.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.easing.dev/",
+    "title": "Easing Graphs",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44229400,
+      "url": "https://www.are.na/block/44229400",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Easing Graphs",
+      "createdAt": "2026-03-08T00:38:36Z",
+      "updatedAt": "2026-03-08T11:26:06Z",
+      "addedBy": {
+        "id": 10179,
+        "name": "Rodrigo Tello",
+        "slug": "rodrigo-tello"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Easing Graphs",
+      "category": "Information design",
+      "tags": [
+        "archives",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

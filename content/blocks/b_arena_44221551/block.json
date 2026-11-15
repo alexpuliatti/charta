@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44221551",
+  "type": "link",
+  "title": "Trehan Experiments",
+  "description": "Story Arc Engine A narrative building experiment on Gemini 2.5 Flash Lite. Deconstruct stories through the lens of the 5-part narrative arc,…",
+  "category": "Technology",
+  "tags": [
+    "generative-design",
+    "narrative",
+    "artificial-intelligence"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ef53fd98b6901f44d4b7712e.webp",
+      "mimeType": "image/webp",
+      "alt": "EXPERIMENTS — Khyati Trehan",
+      "role": "thumbnail",
+      "bytes": 9678,
+      "sha256": "ef53fd98b6901f44d4b7712eaebe10cc9fe1aa12a37d17c44946015c8c6c8523",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyMTU1MS9vcmlnaW5hbF82YmRkNDMwYTc5MzAwYTczYjM3NWZkNWIxNWYyMmIwZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6bdd430a79300a73b375fd5b15f22b0d.png"
+    },
+    {
+      "path": "assets/preview-4a562c3ff15b96e30aa7dafc.webp",
+      "mimeType": "image/webp",
+      "alt": "EXPERIMENTS — Khyati Trehan",
+      "role": "preview",
+      "bytes": 82578,
+      "sha256": "4a562c3ff15b96e30aa7dafcfd4a37b59fabd133faaaa037726643d7cf6250e5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44221551/original_6bdd430a79300a73b375fd5b15f22b0d.png",
+      "originalName": "6bdd430a79300a73b375fd5b15f22b0d.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 303721,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T17:09:45.000Z",
+  "updatedAt": "2026-03-07T17:09:58.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://khyatitrehan.com/EXPERIMENTS",
+    "title": "EXPERIMENTS — Khyati Trehan",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44221551,
+      "url": "https://www.are.na/block/44221551",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "EXPERIMENTS — Khyati Trehan",
+      "createdAt": "2026-03-07T17:09:45Z",
+      "updatedAt": "2026-03-07T17:09:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "EXPERIMENTS — Khyati Trehan",
+      "category": "Information design",
+      "tags": [
+        "architecture",
+        "photography",
+        "writing",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

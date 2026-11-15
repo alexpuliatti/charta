@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47277879",
+  "type": "link",
+  "title": "Backhouse Production",
+  "description": "We partner with in-house agencies at studios, businesses, and brands to implement custom media production operating systems and produce the content that flows through them.",
+  "category": "Companies",
+  "tags": [
+    "media-production",
+    "brand-content",
+    "operations"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-8060e49dabed0a4d7f5a7149.webp",
+      "mimeType": "image/webp",
+      "alt": "Backhouse — Scalable production engine for brands and businesses",
+      "role": "thumbnail",
+      "bytes": 1832,
+      "sha256": "8060e49dabed0a4d7f5a71497b4534e8d530a6f331ae91d257255d7a97441c06",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI3Nzg3OS9vcmlnaW5hbF84MDM3NzAwNDM5YzU0NjZkZGU3OWU0YTA5MmU3ZDRjOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8037700439c5466dde79e4a092e7d4c8.png"
+    },
+    {
+      "path": "assets/preview-b4af425e57d657a344da5b78.webp",
+      "mimeType": "image/webp",
+      "alt": "Backhouse — Scalable production engine for brands and businesses",
+      "role": "preview",
+      "bytes": 398076,
+      "sha256": "b4af425e57d657a344da5b78c24276691fa08ee62d4daffcdcfd057f6f47f327",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47277879/original_8037700439c5466dde79e4a092e7d4c8.png",
+      "originalName": "8037700439c5466dde79e4a092e7d4c8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1384733,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T15:48:58.000Z",
+  "updatedAt": "2026-06-24T15:49:10.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.backhouse.com/",
+    "title": "Backhouse — Scalable production engine for brands and businesses",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47277879,
+      "url": "https://www.are.na/block/47277879",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Backhouse — Scalable production engine for brands and businesses",
+      "createdAt": "2026-06-24T15:48:58Z",
+      "updatedAt": "2026-06-24T15:49:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Backhouse — Scalable production engine for brands and businesses",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

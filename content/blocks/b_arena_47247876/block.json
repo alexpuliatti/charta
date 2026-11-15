@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247876",
+  "type": "image",
+  "title": "Project Menu",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "project-menu",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c938ed7a8ded7ffc910b042e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Project Menu",
+      "role": "original",
+      "bytes": 367995,
+      "sha256": "c938ed7a8ded7ffc910b042e6b30588aa7c44e14ebdabc4b38419b842002ff69",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247876/original_ab2d5813368f8cf56af427a870a1fb10.jpeg",
+      "originalName": "ab2d5813368f8cf56af427a870a1fb10.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c745f7e6c842e60820fa836e.webp",
+      "mimeType": "image/webp",
+      "alt": "Project Menu",
+      "role": "thumbnail",
+      "bytes": 7524,
+      "sha256": "c745f7e6c842e60820fa836e992d8e810b63eb6b74cd7904248930737acb375c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg3Ni9vcmlnaW5hbF9hYjJkNTgxMzM2OGY4Y2Y1NmFmNDI3YTg3MGExZmIxMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ab2d5813368f8cf56af427a870a1fb10.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c938ed7a8ded7ffc910b042e-c938ed7a8d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Project Menu",
+      "bytes": 116682,
+      "sha256": "ab9b5fc91c713de84b909273930937eb0d3a84d6b05e03fdc44d7ff743b43dec",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c938ed7a8ded7ffc910b042e.jpg",
+        "sourceSha256": "c938ed7a8ded7ffc910b042e6b30588aa7c44e14ebdabc4b38419b842002ff69",
+        "originalBytes": 367995,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:37.000Z",
+  "updatedAt": "2026-06-23T14:28:43.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247876",
+    "title": "GowKbjQXQAEkyC-",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247876,
+      "url": "https://www.are.na/block/47247876",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "GowKbjQXQAEkyC-",
+      "createdAt": "2026-06-23T14:28:37Z",
+      "updatedAt": "2026-06-23T14:28:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GowKbjQXQAEkyC-",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Project Menu",
+    "text": "• Untitled Project 1\nUntitled Project 2\nThink Diff\nFile\nAssets\nCopy Link\nRename\nReload Tab\nPin Tab\nOpen In Split Tab\nO 0.08\nO 0.07\nO 0.11",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ab9b5fc91c713de84b909273930937eb0d3a84d6b05e03fdc44d7ff743b43dec"
+  }
+}

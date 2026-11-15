@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247842",
+  "type": "image",
+  "title": "Allies Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "allies-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8d43da37cbc8097b19c99e87.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Allies Identity",
+      "role": "original",
+      "bytes": 27352,
+      "sha256": "8d43da37cbc8097b19c99e875c08a06696bf16a5b77064b7cee1499dd6ea59f6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247842/original_50c5439417eae600f7a7ef435efe33c4.jpeg",
+      "originalName": "50c5439417eae600f7a7ef435efe33c4.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-371d54949998568c6ae0f416.webp",
+      "mimeType": "image/webp",
+      "alt": "Allies Identity",
+      "role": "thumbnail",
+      "bytes": 3308,
+      "sha256": "371d54949998568c6ae0f416362e30c27180bdea500e771fdfb5ac1022a91c6f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg0Mi9vcmlnaW5hbF81MGM1NDM5NDE3ZWFlNjAwZjdhN2VmNDM1ZWZlMzNjNC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "50c5439417eae600f7a7ef435efe33c4.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8d43da37cbc8097b19c99e87-8d43da37cb.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Allies Identity",
+      "bytes": 13692,
+      "sha256": "26a7dc3b622368e95deb16834a38c8997c68b9f5b1402a8b8837a674d4526c72",
+      "width": 1200,
+      "height": 662,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8d43da37cbc8097b19c99e87.jpg",
+        "sourceSha256": "8d43da37cbc8097b19c99e875c08a06696bf16a5b77064b7cee1499dd6ea59f6",
+        "originalBytes": 27352,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:27:39.000Z",
+  "updatedAt": "2026-06-23T14:27:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247842",
+    "title": "7c0b1b1e68b0a475e47362e4525dbaf7",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247842,
+      "url": "https://www.are.na/block/47247842",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "7c0b1b1e68b0a475e47362e4525dbaf7",
+      "createdAt": "2026-06-23T14:27:39Z",
+      "updatedAt": "2026-06-23T14:27:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "7c0b1b1e68b0a475e47362e4525dbaf7",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Allies Identity",
+    "text": "UNITED BY COFFEE\nALLIES.CO.NZ\nALLIES",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "26a7dc3b622368e95deb16834a38c8997c68b9f5b1402a8b8837a674d4526c72"
+  }
+}

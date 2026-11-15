@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40758582",
+  "type": "image",
+  "title": "Digital Runway",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "digital-runway",
+    "books",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-19802c58b3e4618f53dbceaa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Digital Runway",
+      "role": "original",
+      "bytes": 51122,
+      "sha256": "19802c58b3e4618f53dbceaadb104b3d5657b1813fe01c082631d38c116334d9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40758582/original_f13dbb911649a43dd08c295e5bd8916a.jpg",
+      "originalName": "f13dbb911649a43dd08c295e5bd8916a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-420511c4491f8011d82baa38.webp",
+      "mimeType": "image/webp",
+      "alt": "Digital Runway",
+      "role": "thumbnail",
+      "bytes": 10090,
+      "sha256": "420511c4491f8011d82baa38e0c247322c3f19b25270331f98e761a589d5ed56",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc1ODU4Mi9vcmlnaW5hbF9mMTNkYmI5MTE2NDlhNDNkZDA4YzI5NWU1YmQ4OTE2YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f13dbb911649a43dd08c295e5bd8916a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-19802c58b3e4618f53dbceaa-19802c58b3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Digital Runway",
+      "bytes": 31750,
+      "sha256": "343ab84ce1a3272d94fdbcc67120c579e94e8457d7c9100266bc1507a17f8e41",
+      "width": 768,
+      "height": 506,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-19802c58b3e4618f53dbceaa.jpg",
+        "sourceSha256": "19802c58b3e4618f53dbceaadb104b3d5657b1813fe01c082631d38c116334d9",
+        "originalBytes": 51122,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-10-31T18:48:28.000Z",
+  "updatedAt": "2025-10-31T18:48:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.scenographytoday.com/wp-content/uploads/robert-wilson-the-jungle-book-%C2%A9-lucie-jansch-768x506.jpg",
+    "title": "robert-wilson-the-jungle-book-lucie-jansch-768x506.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40758582,
+      "url": "https://www.are.na/block/40758582",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "robert-wilson-the-jungle-book-lucie-jansch-768x506.jpg",
+      "createdAt": "2025-10-31T18:48:28Z",
+      "updatedAt": "2025-10-31T18:48:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "robert-wilson-the-jungle-book-lucie-jansch-768x506.jpg",
+      "category": "Books and publishing",
+      "tags": [
+        "books",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Digital Runway",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "343ab84ce1a3272d94fdbcc67120c579e94e8457d7c9100266bc1507a17f8e41"
+  }
+}

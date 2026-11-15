@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177856",
+  "type": "video",
+  "title": "Identity Tiles",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "identity-tiles",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1b8549c79d33b8a3b3c303a4.webm",
+      "mimeType": "video/webm",
+      "alt": "1-web",
+      "role": "original",
+      "bytes": 2082683,
+      "sha256": "1b8549c79d33b8a3b3c303a4564d484b973aa7a1cdfbfba6e33111cc24ce1a8f",
+      "sourceUrl": "https://attachments.are.na/46177856/2f64f922a72dc84510ea0f3da4a415cd.webm",
+      "originalName": "2f64f922a72dc84510ea0f3da4a415cd.webm"
+    },
+    {
+      "path": "assets/thumbnail-e55cb24d8293764764f84c73.webp",
+      "mimeType": "image/webp",
+      "alt": "Identity Tiles",
+      "role": "thumbnail",
+      "bytes": 7146,
+      "sha256": "e55cb24d8293764764f84c73c9f262105dacd77c593a4cf1f10f0ea4a1ac3a83",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3Nzg1Ni9vcmlnaW5hbF8wMzIxMjlhMDJkMDk2YTYwMjAyNjA1MTUtMi15c2JleW8ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "032129a02d096a6020260515-2-ysbeyo.png"
+    },
+    {
+      "path": "assets/display-web-original-1b8549c79d33b8a3b3c303a4-1b8549c79d.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "1-web",
+      "bytes": 1964810,
+      "sha256": "66ac0582d9641d952ef05e987fa00c5b3d5c4df92273869c92d7fad9b9bbb3b3",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1b8549c79d33b8a3b3c303a4.webm",
+        "sourceSha256": "1b8549c79d33b8a3b3c303a4564d484b973aa7a1cdfbfba6e33111cc24ce1a8f",
+        "originalBytes": 2082683,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-b4ce14808124d3f7448c21a6.webp",
+      "mimeType": "image/webp",
+      "alt": "1-web",
+      "role": "preview",
+      "bytes": 41206,
+      "sha256": "b4ce14808124d3f7448c21a6b4c885647c8be5811715c55605fc30a19ca168c7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177856/original_032129a02d096a6020260515-2-ysbeyo.png",
+      "originalName": "032129a02d096a6020260515-2-ysbeyo.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 314435,
+        "width": 1080,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:12:26.000Z",
+  "updatedAt": "2026-05-15T12:12:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46177856",
+    "title": "1-web",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177856,
+      "url": "https://www.are.na/block/46177856",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "1-web",
+      "createdAt": "2026-05-15T12:12:26Z",
+      "updatedAt": "2026-05-15T12:12:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "1-web",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Identity Tiles",
+    "text": "OpenPurpose\nStart",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e55cb24d8293764764f84c73c9f262105dacd77c593a4cf1f10f0ea4a1ac3a83"
+  }
+}

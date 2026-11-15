@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892947",
+  "type": "video",
+  "title": "Cosmic Network",
+  "description": "New viz mode drops. \nGenuinely the coolest visualization I have seen. \nWe visualize UNI-1's latent embedding space as a 4D hypersphere using SO(4) rotation.\nYou can see how nearest neighbors move together (second half of the video). \nImplemented by @sane_codes \nEmbedding is using siglip2 by @mtschannen @XiaohuaZhai @giffmana\nMost image models are good at one thing. \nUni-1 has been good at everything we've thrown at it.\nOur team generated thousands of images leading up to Uni-1 launch. We embedded them all into a single map where visual similarity determines proximity. The result speaks for itself. https://t.co/siMNGj4Nml\n@shenbokui - https://x.com/shenbokui/status/2036997718024085768 (https://x.com/shenbokui/status/2036997718024085768)",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "cosmic-network",
+    "information-design",
+    "video",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e0b1b3057046e3703777026a.mp4",
+      "mimeType": "video/mp4",
+      "alt": "William Shen on X @shenbokui",
+      "role": "original",
+      "bytes": 9858806,
+      "sha256": "e0b1b3057046e3703777026a0cd896392c9607c33f9524af2c80e2e7ec3b13ed",
+      "sourceUrl": "https://attachments.are.na/45892947/027a13bc23bd883ab6140a568f8b9a0e.mp4",
+      "originalName": "027a13bc23bd883ab6140a568f8b9a0e.mp4"
+    },
+    {
+      "path": "assets/thumbnail-cb8fb347715d3107e889d5d6.webp",
+      "mimeType": "image/webp",
+      "alt": "Cosmic Network",
+      "role": "thumbnail",
+      "bytes": 2196,
+      "sha256": "cb8fb347715d3107e889d5d69512ade373ff0fd418fb6e81c389a23f4e902df3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjk0Ny9vcmlnaW5hbF80MTc0OWNmNzFjYjVhYTAwMjAyNjA1MDYtMi0yenEwcHQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "41749cf71cb5aa0020260506-2-2zq0pt.png"
+    },
+    {
+      "path": "assets/display-web-original-e0b1b3057046e3703777026a-e0b1b30570.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "William Shen on X @shenbokui",
+      "bytes": 1822913,
+      "sha256": "e01d77dc97c03e2c32fcda6d3980e8065772cb52c90cb61b697de829f6e62fe5",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e0b1b3057046e3703777026a.mp4",
+        "sourceSha256": "e0b1b3057046e3703777026a0cd896392c9607c33f9524af2c80e2e7ec3b13ed",
+        "originalBytes": 9858806,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-cbea66448aef037b093241d1.webp",
+      "mimeType": "image/webp",
+      "alt": "William Shen on X @shenbokui",
+      "role": "preview",
+      "bytes": 49326,
+      "sha256": "cbea66448aef037b093241d1087d8327ae4f508e698e97c86e287ee3b49c136c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892947/original_41749cf71cb5aa0020260506-2-2zq0pt.png",
+      "originalName": "41749cf71cb5aa0020260506-2-2zq0pt.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 428973,
+        "width": 2560,
+        "height": 1825,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:52:50.000Z",
+  "updatedAt": "2026-05-06T14:52:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://x.com/shenbokui/status/2038687514828079135",
+    "title": "William Shen on X @shenbokui",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892947,
+      "url": "https://www.are.na/block/45892947",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "William Shen on X @shenbokui",
+      "createdAt": "2026-05-06T14:52:50Z",
+      "updatedAt": "2026-05-06T14:52:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "William Shen on X @shenbokui",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "video",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cosmic Network",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cb8fb347715d3107e889d5d69512ade373ff0fd418fb6e81c389a23f4e902df3"
+  }
+}

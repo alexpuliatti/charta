@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787596",
+  "type": "link",
+  "title": "CAST Speakers",
+  "description": "CAST a loudspeaker concept designed with collaboration with Tom Fereday launched for the Melbourne Design Week. The Cast features an industrial looking aluminium cast cabinet that houses four 4″ mid-range Drivers and a 10″ Subwoofer. Solid individually the CAST can be linked up with other",
+  "category": "Sound",
+  "tags": [
+    "loudspeakers",
+    "cast-aluminium",
+    "industrial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1278391b51d9145637493903.webp",
+      "mimeType": "image/webp",
+      "alt": "CAST | A collaboration with Tom Fereday — Pitt & Giblin",
+      "role": "thumbnail",
+      "bytes": 15344,
+      "sha256": "1278391b51d9145637493903b9ea8f307304f877645fe3a3a7f7d2517a0dd32b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzU5Ni9vcmlnaW5hbF82ODRkZmQ1ZTczMTQwMzVjNWNiZWZjZmU0YjcyN2U4ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "684dfd5e7314035c5cbefcfe4b727e8d.png"
+    },
+    {
+      "path": "assets/preview-52d18475b45bd42144ea9f36.webp",
+      "mimeType": "image/webp",
+      "alt": "CAST | A collaboration with Tom Fereday — Pitt & Giblin",
+      "role": "preview",
+      "bytes": 716254,
+      "sha256": "52d18475b45bd42144ea9f363a89d63e00f7740f1e1dc67055b57afa9d4d95ac",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787596/original_684dfd5e7314035c5cbefcfe4b727e8d.png",
+      "originalName": "684dfd5e7314035c5cbefcfe4b727e8d.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 6845872,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:50:06.000Z",
+  "updatedAt": "2025-11-02T15:50:19.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.pittandgiblin.com.au/cast",
+    "title": "CAST | A collaboration with Tom Fereday — Pitt & Giblin",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787596,
+      "url": "https://www.are.na/block/40787596",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "CAST | A collaboration with Tom Fereday — Pitt & Giblin",
+      "createdAt": "2025-11-02T15:50:06Z",
+      "updatedAt": "2025-11-02T15:50:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "CAST | A collaboration with Tom Fereday — Pitt & Giblin",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  }
+}

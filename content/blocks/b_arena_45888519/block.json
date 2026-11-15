@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888519",
+  "type": "image",
+  "title": "Cy Twombly",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "cy-twombly",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f391ceaafb51f23b38860f36.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Cy Twombly",
+      "role": "original",
+      "bytes": 373744,
+      "sha256": "f391ceaafb51f23b38860f36fd116778dc0d55f5557e46dd08a64cb2fd14444f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888519/original_7c4a7f90e634ead194e4a1cc6b45f954.jpeg",
+      "originalName": "7c4a7f90e634ead194e4a1cc6b45f954.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-455b2fc4bdd9afc7bb5aa46e.webp",
+      "mimeType": "image/webp",
+      "alt": "Cy Twombly",
+      "role": "thumbnail",
+      "bytes": 24160,
+      "sha256": "455b2fc4bdd9afc7bb5aa46e8d96d1f947b43fe1cf3a56985ed966f35fff072e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUxOS9vcmlnaW5hbF83YzRhN2Y5MGU2MzRlYWQxOTRlNGExY2M2YjQ1Zjk1NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7c4a7f90e634ead194e4a1cc6b45f954.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f391ceaafb51f23b38860f36-f391ceaafb.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Cy Twombly",
+      "bytes": 360694,
+      "sha256": "9431fd9973c1f2ce67fa6d829e21ce9a108957eea5ec93007e855aea0646d495",
+      "width": 1200,
+      "height": 1387,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f391ceaafb51f23b38860f36.jpg",
+        "sourceSha256": "f391ceaafb51f23b38860f36fd116778dc0d55f5557e46dd08a64cb2fd14444f",
+        "originalBytes": 373744,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:49.000Z",
+  "updatedAt": "2026-05-06T12:20:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888519",
+    "title": "74adc253622eb078dd67c5020fd24d18.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888519,
+      "url": "https://www.are.na/block/45888519",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "74adc253622eb078dd67c5020fd24d18.jpg",
+      "createdAt": "2026-05-06T12:20:49Z",
+      "updatedAt": "2026-05-06T12:20:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "74adc253622eb078dd67c5020fd24d18.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cy Twombly",
+    "text": "Cy Twombly\nWorks on Paper 1954-1976\nNEWPORT HARBOR ART MUSEUM",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9431fd9973c1f2ce67fa6d829e21ce9a108957eea5ec93007e855aea0646d495"
+  }
+}

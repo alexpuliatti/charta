@@ -1,0 +1,1370 @@
+February 2025
+CHORAL DA T A 
+’TRUST’ EXPERIMENT 
+WHITE PAPER
+Prototyping a GLAM Trusted Data Intermediary  
+for Public Interest AI
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+2
+Table of Contents
+Acknowledgements 
+Executive Summary 
+Introduction
+0. Motivation: Expanding Participatory Approaches  
+to AI Data Governance
+1. Background: What role can GLAM institutions  
+play in the AI Ecosystem?
+1.1  GLAMs and Data After Generative AI
+1.2  Serpentine and the Initiation of the Choral Data ‘Trust’ Experiment
+2. Case Study: The Choral Data ‘Trust’ Experiment
+2.1   The choral AI dataset
+2.2  Legal Considerations
+2.3  Building Capacity for Collective Data Governance
+2.4  Setting up a Trusted Data Intermediary at Serpentine
+3. Call to Action: Building Data Intermediaries  
+for a Public Interest AI Ecosystem
+3.1  Reflections
+3.2 Recommendations
+Appendix
+A.  Glossary of Key Terms
+B.  Choir Participation in Engagement Activities
+About Future Art Ecosystems
+3
+4
+5
+7
+9
+9
+10
+11
+14
+20
+22
+30
+31
+32
+33
+11
+30
+32
+35
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+3
+Acknowledgements
+This report was authored by Victoria Ivanova* (Serpentine Arts 
+Technologies) and Jennifer Ding* (Boundary Object Studio),  
+with contributions from Eva Jäger and Ruth Waters (Serpentine 
+Arts Technologies), Mercedes Bunz (Digital Humanities,  
+King’s College London) and the artists Holly Herndon and  
+Mat Dryhurst. * Equal contributing authors
+The Choral Data ‘Trust’ Experiment  
+would not be possible without  
+the following UK choirs:
+Blackburn People’s Choir, Blackburn
+Carnoustie Choir, Carnoustie
+Cunninghame Choir, Beith
+The Fitzhardinge Consort, Bristol
+The Fourth Choir, London
+HIVE Choir, Belfast
+Leeds Vocal Movement, Leeds
+London Contemporary Voices, London
+Musarc, London
+New London Chamber Choir, London
+Open Arts Community Choir, Belfast
+Ordsall Acappella Singers, Salford
+The Ravenswood Singers, Newcastle
+South Lakes A Cappella, Windermere
+Spectrum Singers, Penarth
+We thank our research advisors Sylvie 
+Delacroix (Centre for Data Futures, 
+King’s College London) and Matt Prewitt 
+(RadicalxChange), as well as our legal 
+advisors Alex Lawrence-Archer and  
+Ravi Naik (AWO) and Alasdair Taylor 
+(Keystone Law).
+We also thank the following colleagues 
+sharing their feedback and insight on  
+this paper:
+Aleksandra Berditchevskaia,  
+Centre for Collective Intelligence  
+Design, Nesta
+Tim Davies, Connected by Data
+Flynn Devine, Boundary Object Studio
+Tommie Introna, Serpentine Arts    
+Technologies
+Brandon Jackson, Public AI Network
+Joe Massey, Open Data Institute
+Kasia Odrozek, Mozilla Foundation
+Reema Patel, Elgon Social Research  
+& ESRC Digital Good Network
+Aidan Peppin, Cohere
+Emily Rempel, Civic Data Cooperative  
+& University of Liverpool
+Reema Selhi, DACS
+Alek Tarkowski, Open Future Foundation
+Janis Wong, The Law Society  
+of England and Wales
+Ivanova, V . and Ding, J. (2025). “Choral Data ‘Trust’ Experiment White Paper”. 
+https://futureartecosystems.org/project/choral-data-trust-experiment/whitepaper
+DOI: 10.5281/zenodo.14859320
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+4
+Executive Summary
+The rapid advancement of generative artificial intelligence (AI) has intensified debates 
+around who controls and benefits from the data used to build AI systems and how it is 
+obtained. In response, visions for building public interest AI ecosystems are emerging, 
+which aim to promote data and AI as public goods and enable diverse voices to shape AI 
+development. This paper presents findings from the Choral Data ‘Trust’ Experiment,  
+a pioneering initiative by Serpentine, a UK public art institution, to test new approaches  
+to governing AI training data through a real-world case study with 15 UK choirs.
+The experiment centered on choral recordings contributed by over 300 choristers for an AI 
+art exhibition titled The Call ↗. Through the appointment of a data steward, months of choir 
+engagement, and exploration of  governance frameworks with a team of legal advisors, 
+the project developed and tested concrete mechanisms for more participatory approaches 
+to dataset governance. This work is particularly timely as the UK government conducts 
+consultations on AI and copyright policy.
+Three key insights have emerged from the experiment. First, it demonstrated the need 
+for data governance approaches that go beyond individual opt-in/opt-out, highlighting the 
+impact of building capacity for meaningful participation through relationship-building and 
+structured preference-gathering towards outcomes such as trust and transparency. Second,  
+it established legal frameworks that enable creative communities to collectively exercise  
+and negotiate their rights, while also revealing limitations in current individual rights-based  
+approaches. Third, it validated the potential for cultural institutions to serve as trusted 
+intermediaries in AI development, though this role requires dedicated resources  
+and expertise.
+The findings suggest several important implications for policy and practice. There is a clear 
+need for investment in data stewardship infrastructure and public digital literacy resources to 
+enable meaningful public participation in AI governance. Legal frameworks must be clarified 
+and strengthened to better support collective data rights. Cultural institutions require support 
+to play new roles in AI development, alongside policies that enable public interest AI to 
+flourish in the cultural sector.
+This paper details the experiment’s methodology, findings, and recommendations, offering  
+a roadmap for others seeking to implement similar approaches to responsible AI development 
+that centre public benefit and creative communities’ interests. We hope that our work can 
+serve as a practical model for more participatory approaches to AI dataset governance. As AI 
+systems increasingly impact creative communities and cultural production, the frameworks 
+and lessons developed through this work offer valuable guidance for policymakers, cultural  
+institutions, and practitioners working to ensure AI development better serves public interests.  
+The success of this approach demonstrates that alternative models for AI development are 
+not only possible but practical, though they will require further interest and investment in 
+new institutional roles and practices.
+
+Introduction
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies5
+Visions for public interest AI have been articulated, as a way to cultivate spaces that 
+“promote[s] public goods, public orientation, and public use throughout every step of AI 
+development and deployment.” 1 Such visions can “entitle a plurality of voices to steer AI not 
+simply as a new category of tech products, but as a public resource and infrastructure”. 2   
+This paper presents findings from an experiment to design and operationalise new protocols 
+for the public interest AI ecosystem through the process of running the Choral Data ‘Trust’ 
+Experiment, a data governance and AI development project hosted by Serpentine, a UK 
+public art institution.3
+15 UK choirs were invited by artists Holly Herndon and Mat Dryhurst in collaboration 
+with Serpentine to record performances of a songbook composed by the artists. The 
+compositions and recordings of the choir performances were optimised for the collection  
+of a choral AI dataset, purpose-built for training choral AI models for the artists’ exhibition, 
+The Call ↗, presented at Serpentine between October 2024 and February 2025. The key 
+objective of the Choral Data ‘Trust’ Experiment, the first of its kind at a GLAM (Galleries, 
+Libraries, Archives, and Museums) institution, was to develop an operational framework,  
+co-created with the choirs for the governance of the choral AI dataset for AI development  
+as part of The Call and beyond. 
+1 Public AI ↗, Mozilla 2024.
+2 Art x Public AI ↗, Future Art Ecosystems Volume 4.
+3 The project’s name was inspired by Sylvie Delacroix’s and Neil D. Lawrence’s ‘Bottom-up 
+data Trusts: disturbing the ‘one size fits all’ approach to data governance’ paper. While  
+we initially hypothesised that a legal trust structure would be the right fit for this project, 
+our findings led us to select a different legal mechanism. To reflect this evolution in the 
+experiment, we use quotation marks around the word ‘trust’. 
+The experiment revealed the critical importance of creating and formalising roles for 
+trustworthy individuals and organisations in the data ecosystem, particularly in supporting 
+foundational activities that are often overlooked in AI development and that address 
+unbalanced or unfair dynamics in current practices of AI, such as co-production and 
+stewardship of datasets. Furthermore, key insights emerged around the following areas:
+1. Collective Data Governance: the experiment led to the operationalisation of  
+new mechanisms for data stewardship extending beyond opt-in and opt-out  
+from AI datasets.
+2. Legal Rights Collectivisation: innovative approaches to legal frameworks are 
+required to protect, manage and strengthen the intellectual property rights  
+of data creators.
+3. GLAM Institutions as Data Intermediaries: the experiment demonstrated 
+cultural institutions’ potential to act as trusted intermediaries in public interest 
+AI development, balancing stakeholder interests across the data and model 
+development ecosystem.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies6
+At the time of writing (February 2025), the UK is in the midst of a government consultation 
+on AI and copyright, with parallel efforts in the EU to develop a Code of Conduct that  
+will clarify and operationalise the EU AI Act, set to come into action later this summer. 
+This evolving regulatory landscape presents an opportunity to move towards incentivising 
+practices in the AI ecosystem that serve broader public interests. This paper aims to 
+contribute towards the formation of such practices at policy and organisational levels.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+7
+0. 
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies7
+The rapid advancement of AI has intensified debates around data governance, particularly 
+around who controls and benefits from data used to develop AI systems. Independent research 
+organisations including the Open Data Institute (ODI), Ada Lovelace Institute, Aapti Institute, 
+Mozilla Foundation, and the Open Future Foundation have contributed important perspectives 
+on how to ensure more equitable and participatory approaches to data governance through 
+the practice of data stewardship. These practices have emerged in response to the widespread 
+harms that have arisen through the current data economy, such as privacy infringements on 
+personal data, the spread of misinformation and bias on online platforms, and the scraping of 
+online content, including copyrighted works, for AI training datasets.
+While definitions of data stewardship show slight variations in emphasis, from ODI’s 
+focus on responsible data stewardship as “an iterative, systemic process of ensuring that 
+data is collected, used and shared for public benefit” ↗ to Ada Lovelace’s emphasis on 
+“rights-preserving and participatory” approaches ↗, they converge around core principles: 
+responsible management of data resources, protection of individual and collective rights, 
+and formal recognition of public value with mechanisms to ensure it is realised and fairly 
+distributed across the entire life cycle of data.
+The ODI has also developed the concept of “data institutions” ↗– organisations that steward 
+data on behalf of others toward public, educational or charitable aims. These institutions 
+play vital roles in protecting sensitive data, combining data from multiple sources, creating 
+open datasets, and enabling communities to take active roles in data governance. A related 
+concept to data institutions are data intermediaries ↗– organisations that facilitate data 
+sharing between multiple stakeholders while protecting rights and interests, with seven 
+different forms articulated in a UK Centre for Data Ethics and Innovation report ↗, including 
+“data trusts; data exchanges; personal information management systems (PIMS); industrial 
+data platforms; data custodians; data cooperatives; and trusted third parties.”
+Motivation: Expanding  
+Participatory Approaches to AI 
+Data Governance
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies8
+The EU’s Data Governance Act ↗ formally recognises data intermediaries as crucial infra- 
+structure for the digital economy, requiring them to function as neutral third parties that  
+facilitate data sharing while being structurally separated from any other services they provide 
+to maintain independence and avoid conflicts of interest. However, this regulatory approach 
+focused on neutrality does not address the fundamental power asymmetry between data 
+subjects and those developing AI models. The Ada Lovelace Institute’s analysis ↗ delves further 
+into the operationalisation of legal mechanisms that could help address these imbalances:
+1. Data trusts: Legal structures where trustees manage data  
+or data rights on behalf of beneficiaries
+2. Data cooperatives: Member-owned entities that collectively  
+govern data resources
+3. Corporate/contractual models: Frameworks enabling  
+controlled data sharing between organisations
+Experimentation with these models is already underway in various sectors. In healthcare, 
+initiatives like UK Biobank ↗ demonstrate how sensitive personal data can be stewarded for 
+research while maintaining public trust. The humanitarian sector has seen the emergence 
+of data collaboratives like the Humanitarian Data Exchange ↗ to enable data sharing for 
+social benefit. Indigenous data sovereignty movements have established new paradigms 
+for community control over cultural heritage data, such as the Te Mana Raraunga Charter ↗ 
+for Māori Data Sovereignty. Other community-driven governance models have been 
+established, such as the Posmo (Positive Mobility) data cooperative for sustainable mobility, 
+where proceeds from the data are returned back to its members.
+Within the field of AI, new models of community-led data collection and governance have been  
+explored through data donation initiatives like Mozilla’s Common Voice ↗ and Cohere for AI’s  
+Aya Initiative ↗. There has also been experimentation on new governance models in open 
+source AI collaborations such as the BigScience BLOOM LLM and BigCode StarCoder LLM,  
+through mechanisms such as ethical charters and new licenses.4 However, at present, 
+participatory data governance activities are not considered for the majority of AI initiatives.  
+As a result, data contributors often remain an unrepresented and disempowered group in the  
+AI pipeline. This problem compounds at the intersection of arts and AI, as the work of artists and  
+creators have been used to build generative AI models that reproduce their work often without 
+their knowledge or benefit, without paths for recourse for consent, credit and compensation ↗.
+Building upon these prior efforts in the arts & humanities, science and AI fields, we observe 
+that the GLAM (Galleries, Libraries, Archives and Museums) sector offers a unique space to 
+explore and further extend these data governance models in real world application. While 
+traditionally not seen as active players in the development of digital technology ecosystems, 
+GLAM institutions are holders of and stewards for multifarious cultural data with critical 
+societal significance. To challenge this conception and explore new opportunities, the aim 
+of the Choral Data ‘Trust’ Experiment was to test concrete pathways for responsible data 
+intermediation by the GLAM sector in the context of AI development.
+4 As part of the BigScience Workshop ↗ spearheaded by Hugging Face, several data  
+governance mechanisms were explored with the volunteer researchers who joined the 
+initiative. This included the BigScience ethical charter ↗, the use of an Open-RAIL license ↗ 
+from Responsible AI licenses, following collaborations with several libraries and archives 
+for data acquisition. These efforts also led to the BigCode Project ↗, which extended the 
+data governance efforts by creating protocols for utilising only permissively licensed data 
+(proxy for “opt-in”) and “Am I in The Stack?”↗ tool to enable further “opt-out.” 
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+9
+1. 
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies9
+Background: What role  
+can GLAM institutions play  
+in the AI Ecosystem?
+1.1  GLAMs and Data After Generative AI
+As the prevailing stewards of historical and cultural artifacts, GLAM (Galleries, Libraries, 
+Archives, and Museums) institutions “are expected to assume a central role in society, 
+promote participation and inclusion, [following] digitisation trends and ‘[justifying]’ their public 
+character through wide access and representation across diverse audiences” ↗. Historically, 
+European GLAMs have prioritised digitisation and public domain access in order to expand 
+access to the culture and knowledge they steward. In 2010, Europeana Foundation, a body 
+set up by the European Commission, published a charter for policy makers, funders and 
+GLAMs, with the core message that “the public domain should not be limited by technological 
+protection measures or industrial property rights” ↗. This was further augmented by the  
+release of OpenGLAM Principles ↗ in 2011 by Open Knowledge Foundation, and in 2020-21 
+Creative Commons’ Declaration on Open Access for Cultural Heritage ↗.
+However, following the rise of generative AI, principles of openness and the associated 
+practices of permissive licensing have encountered a strategic double-bind within the 
+OpenGLAM movement, as well as other value-aligned movements such as open science, 
+open data and Open Source Software.5 On the one hand, the capabilities of such models 
+create new methods for access to and use of knowledge, exponentially augmenting the 
+value that open licences and public domain more generally created in terms of allowing  
+for auditability and access to innovation to all sectors of society. On the other hand, with  
+the concentration of the AI model training market within a few US technology companies 
+that have enough resources to access and process large quantities of data, the training on 
+public domain data (as well as data protected by copyright) underwrite a value transfer  
+that further consolidates the power of the strongest players.6
+5 Open Science refers to practices that make scientific research, data, and dissemination 
+accessible to all levels of society. It encompasses transparent and collaborative processes, 
+including open access publishing, open data sharing, and open source software devel-
+opment. Open Data describes data that can be freely used, reused, and redistributed by 
+anyone, subject only to requirements to attribute and share-alike. Open Source Software 
+(OSS) refers to software whose source code is publicly available for use, modification, and 
+distribution under licenses that maintain openness. These three concepts are foundational 
+to modern collaborative research and development practices, supporting reproducibility, 
+innovation, and democratic access to knowledge. See “UNESCO Recommendation on Open 
+Science” ↗; European Commission’s “Open Science” policy ↗; Open Knowledge Founda-
+tion’s “The Open Definition 2.1.” ↗; Open Source Initiative’s “The Open Source Definition” ↗. 
+6 See for example, Open (For Business): Big Tech, Concentrated Power, and the Political 
+Economy of Open AI ↗. Along similar lines, the European Parliament leveraged Anthropic’s 
+Claude to develop Archibot ↗, an AI system trained on the archives of the EU Parliament 
+designed to offer better access to its documents to general users.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies10
+Among GLAM institutions, collections held by natural history museums are different from 
+17th century Flemish art, and these are also different to library catalogues and archival 
+metadata on a specific period in an institution’s history. All of this data may seem worlds away 
+from genomic data sequenced from plant and animal DNA, multivariate climate data across 
+decades of sensor readings, or terabytes of Internet data from websites like Wikipedia or 
+Reddit. However, within the context of training generative AI models, these all fall under the 
+category of viable and valuable ‘training data’. This predicament calls both for a new strategic 
+vision for how societal knowledge – in the form of data – is managed legally and fairly, as well 
+as practical, context-specific implementations that make sense for different domains.
+1.2  Serpentine and the Initiation of the 
+Choral Data ‘Trust’ Experiment
+Simultaneously, recent legal challenges 7 and open letters 8 from creators reflect growing 
+concerns about AI systems being trained on creative works without meaningful consent or 
+compensation, threatening both livelihoods and how we value human creativity. The path 
+forward requires finding symbiotic models that can harness AI’s potential while protecting 
+and rewarding human creative labour. As a public gallery and cultural institution with a 
+mission to create new connections between artists and society, Serpentine is actively 
+grappling with these challenges both in terms of its internal organisational strategy and its 
+leadership role in the broader cultural sector.
+In the course of working with contemporary artists on the production and exhibition of art 
+projects ↗, Serpentine frequently generates a variety of data related to the final artworks and 
+exhibitions. The data can also relate to the participatory elements of art productions (e.g. 
+in community-based projects), newly generated research materials, and audience-facing 
+or -related data. Thus, Serpentine, like many other GLAM institutions, often acts as the 
+producer, keeper and online distributor of data related to the gallery’s activities and network. 
+When producing The Call exhibition, which features AI models that generate choral music, 
+the artists and the Serpentine team 9 wanted to approach the creation, use, and management 
+of the choral AI dataset with intentionality. In parallel to the art production, Serpentine 
+elevated the data governance aspect of the project, formalising the initiative as the Choral 
+Data ‘Trust’ Experiment in hope that it may provide a valuable example for how GLAM 
+organisations and other institutions stewarding data can approach governance of their 
+datasets in the age of AI in alignment with their organisational missions.
+7 Notable cases include: Getty Images v. Stability AI (filed January 2023 alleging copyright 
+infringement of Getty’s images for training Stable Diffusion); Sarah Silverman et al. v. Meta 
+and OpenAI (filed July 2023 regarding unauthorized use of books for training); and Thomson 
+Reuters v. Ross Intelligence (ongoing case about AI training on legal documents). 
+8 Open letters include: The Writers Guild of America open letter on AI use in film/TV (March 
+2023); “An Open Letter to Leaders in AI and Technology” signed by over 1000 AI researchers 
+and tech leaders calling for a pause on AI development (March 2023); and The Authors Guild 
+open letter signed by over 10,000 authors including Margaret Atwood and James Patterson 
+protesting AI use of copyrighted works (September 2023).
+9 Tamar Clarke-Brown (Curator); Tommie Introna (Producer); Victoria Ivanova (R&D Strategic 
+Lead); Eva Jäger (Curator & Creative AI Lead); Vi Trinh (Assistant Curator); Ruth Waters  
+(Producer); Kay Watson (Head of Arts Technologies).
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+11
+2. Choral Data ‘Trust’ Experiment Serpentine Arts Technologies11
+2.1  The choral AI dataset
+15 choirs from communities across the UK were invited to record performances of a song-
+book composed by artists Holly Herndon and Mat Dryhurst. The compositions and recording 
+methods were optimised for the collection of a choral AI dataset, purpose-built for training 
+choral AI models. Herndon and Dryhurst worked alongside researchers from IRCAM ↗,  
+a French music research institute, and engineers at Stability AI to train state-of-the-art models 
+for the exhibition The Call ↗, which was open at Serpentine from October 2024 to February 
+2025. This model building process is inspired by previous work by Herndon and Dryhurst on 
+Holly+↗, a voice AI model trained using recordings of Herndon’s own voice.
+Figure 1: Snapshots from the songbook used for recording the choral AI dataset. © Leon Chew, The Call, Holly Herndon and Mat Dryhurst with sub, Serpentine, 2024
+Case Study: The Choral Data 
+‘Trust’ Experiment
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies12
+To collect the choral AI dataset, the Serpentine team and the artists traveled to each choir  
+for the recording session. The resulting choral AI dataset contains 483 high-quality 
+recordings capturing performances of vocal exercises and compositions performed by 15 
+UK choirs. Each recording was made using an identical technical setup: a multi-microphone 
+array that included eight close-range microphones for soloists, four room microphones, and 
+a first-order ambisonic microphone to capture spatial audio. The dataset includes multiple 
+audio formats for each performance: isolated recordings from individual microphones, 
+stereo mixes from different microphone combinations, and a main mix blending all sources. 
+In total, over 300 choristers contributed to the dataset, including 120 featured soloists.  
+The number of participants in the recording session differed from choir to choir, though 
+there were typically around 12-20 choristers. However, a few of the larger sessions featured 
+50 or more choristers. More information about the choral AI dataset can be found in the  
+Data Card ↗ on Hugging Face.
+ 
+ 
+833 
+ 
+Mix Pre 10 II 
+MCR54  
+ST mix return 
+from HP out 
+MKH50 - 2 
+MKH50 - 3 
+MKH50 - 1 
+MTB40 - 1 MKH50 - 4 MTB40 - 2 
+G4 
+Tx 
+ME2 
+Radio Ch 1 Radio Ch 2 Radio Ch 3 
+Radio Ch 1 Radio Ch 2 
+Radio Ch 3 
+SL2  
+ST450 
+ST450 
+Ctrl 12 Ch 
+Multi-core 
+Ins 
+HS 1 
+ 
+HS 2 
+ 
+HS 3 
+ 
+HS 4 
+ HS 5 
+ 
+HS 6 
+ 
+HS 8 
+ 
+HS 7 
+ 
+13a 
+out 
+Multi 12 ch 
+ST450 4 ch 
+HS 8 ch 
+TC 
+TC from Mix 
+Pre to 833 
+HP 
+Figures 2 and 3: Image of HIVE Choir during recording of the choral AI dataset, with a multi-microphone array capturing 8 close-range microphones for soloists,  
+4 room microphones and a first-order ambisonic microphone. Below: Schematic of recording setup used for each recording session.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies13
+The UK choirs who contributed to the choral AI dataset are:
+Blackburn People’s Choir, Blackburn
+Carnoustie Choir, Carnoustie
+Cunninghame Choir, Beith
+The Fitzhardinge Consort, Bristol
+The Fourth Choir, London
+HIVE Choir, Belfast
+Leeds Vocal Movement, Leeds
+London Contemporary Voices, London
+Musarc, London
+New London Chamber Choir, London
+Open Arts Community Choir, Belfast
+Ordsall Acappella Singers, Salford
+The Ravenswood Singers, Newcastle
+South Lakes A Cappella, Windermere
+Spectrum Singers, Penarth
+The Choral Data ‘Trust’ Experiment focused on UK choirs with primarily amateur musicians  
+or professionals with limited platforms. Like other creative communities, many choirs 
+currently lack access to the legal, technical and governance resources needed to shape how  
+their creative work is used in AI training datasets. While some organisations, such as 
+Spawning AI ↗, are developing technical tools that allow visual artists to opt out of AI model 
+training through an online application or browser extension, there are few established 
+pathways for different types of creative communities to proactively define and exercise 
+control over if and how their work can be used in AI development. This is particularly true  
+for performing artists like choirs, whose creative output may be captured and circulated 
+online in various forms.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies14
+2.2  Legal Considerations
+For different forms of data used in training AI models, particularly those produced by 
+creatives, it is not immediately clear which areas of the law can be leveraged to challenge 
+current AI development practices and to increase creative communities’ agency. While 
+individual legal rights might be limited in the context of AI development, identification of 
+available legal mechanisms nonetheless constitutes an important starting point for better 
+understanding the scope of action and strategies that are possible within a given scenario.
+For the choral AI dataset, produced by creatives in the UK, we focus on UK performers’ 
+rights and General Data Protection Regulation (GDPR) 10 rights to explore opportunities for 
+the choristers to exercise their rights as one collective voice, with more discussion in 2.4 
+below on our findings of the limits and opportunities when configuring these rights into  
+a trusted data intermediary framework.
+Under UK law (specifically Part II of the Copyright, Designs and Patents Act 1988), 
+performers automatically receive certain intellectual property (IP) rights when their 
+performances are recorded. These performers’ rights include:
+ ● The right to consent to or prohibit the recording  
+of a live performance
+ ● The right to control how recordings of their  
+performance are used, copied, or distributed
+ ● The right to equitable remuneration when recordings are  
+played in public or communicated to the public
+ ● Moral rights, including the right to be identified  
+as the performer
+ ● The right to object to derogatory treatment  
+of their performance
+These rights include both economic rights - relating to the creation and use of recordings - 
+and moral rights, such as the right to be identified as the performer. 
+Rather than having performers assign away their rights (a common industry practice, although 
+performers can also get remunerated through copyright societies like PRS for Music), we 
+developed an alternative approach: performers licensed their IP rights to a trusted intermediary 
+who could then manage downstream uses of the recordings in both the dataset and AI model 
+training. While there is ongoing legal debate about whether AI training constitutes copying of 
+protected material, we established a standardised licensing framework between choir members 
+and the intermediary, including templates for sub-licensing to potential AI developers.
+Performers’ Rights 11
+10 The General Data Protection Regulation (GDPR) is the European Union’s comprehensive 
+data protection and privacy regulation that came into force in 2018. It gives individuals rights 
+over their personal data and places obligations on organizations that collect and process 
+such data. The UK adopted the same regulation into national law as the UK GDPR after 
+exiting the European Union, maintaining alignment with EU data protection standards.
+11 The information provided in this section reflects the legal advice provided by Alasdair Taylor 
+of Keystone Law, and does not constitute general advice. 
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies15
+This model offers a practical pathway that balances two key interests: it allows performers 
+to maintain control over their economic and moral rights while giving AI developers clear 
+terms for responsible innovation with high-quality training data. The approach reduces legal 
+uncertainty for all parties while preserving performers’ agency over how their creative  
+work is used.
+GDPR rights arise in circumstances where processing – even if this only amounts to storage  
+– of personal data is taking place.13 Under GDPR, such processing requires a lawful basis. 
+In this project, the joint controllers (Serpentine Arts Technologies, Holly Herndon and Mat 
+Dryhurst, and IRCAM) relied on Article 6(1)(f) UK GDPR (legitimate interests) as the legal 
+basis for data processing at different stages. While processing under legitimate interests does 
+not require explicit consent from data subjects, it does require transparency about data use 
+and provides data subjects with several key rights:
+ ● Right to be informed about the processing of their personal data
+ ● Right to access their personal data
+ ● Right to object to processing under certain circumstances
+ ● Right to request erasure of their personal data (with specific conditions)
+ ● Right to request rectification of inaccurate personal data
+The table below outlines three key stages of data processing in the choral recording project 
+and where GDPR rights apply:
+1. Recording Stage: When recording the choirs, all singers were considered data 
+subjects since they were identifiable. While singers technically had rights to 
+erasure and objection, in practice these couldn’t be exercised after the fact since 
+recording was a one-time event. Singers could only opt-out beforehand.
+2. Storage and Cleaning Stage: Only solo singers remained identifiable since their 
+tracks were individually labelled. Group recordings were not considered personal 
+data since individual voices were blended together. Solo singers had rights to 
+transparency, objection, erasure, and access to their recordings.
+3. AI Model Training Stage: Similar to the storage stage, only solo singers maintained 
+GDPR rights. While they could exercise rights like objection and erasure for 
+future uses, they couldn’t “unwind” the training of AI models once completed. 
+Transparency and access rights remained.
+Data Rights 12
+12 The information provided in this section reflects the legal advice provided to the project 
+by Alex Lawrence-Archer of AWO, and does not constitute legal advice on which any other 
+person should rely.
+13 Personal data is defined in UK GDPR as any information relating to an identified or identifi-
+able living individual (‘data subject’). An identifiable individual is one who can be identified, 
+directly or indirectly, in particular by reference to an identifier such as a name, identification 
+number, location data, online identifier or to one or more factors specific to their physical, 
+physiological, genetic, mental, economic, cultural or social identity.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies16
+1. Recording Choirs: Serpentine Arts Technologies (SAT), and Holly Herndon and Mat 
+Dryhurst (Artists), carrying out recording sessions with the UK choirs, using music 
+written by Holly Herndon and Mat Dryhurst. At each recording, multiple tracks are 
+recorded, including (i) recordings of the choir ensemble, and (ii) individually labelled 
+tracks for solo singers in each choir (the ‘Solo Singers’)
+(Joint) Data
+Controller(s)
+SAT and Artists have worked closely together to design the project 
+and the approach to the recordings. They are joint controllers for  
+this processing.
+When June - July 2024
+Processing of
+personal data?
+Ye s: making the recordings is an act of processing and all singers  
+are identifiable to the controllers. The purpose of processing is to 
+facilitate the overall project (i.e. to run the exhibition and create  
+the AI models for exploitation).
+Data subjects All singers
+Legal Basis Article 6(1)(f) Legitimate interest. Data subjects were informed  through a Privacy Notice.
+Relevant UK
+GDPR rights 14
+In theory, data subjects have the right to erasure and to object. 
+However, this stage only covers the making of the recordings (as 
+distinct from their storage or use).
+In practice therefore, the data subjects for this stage of processing 
+cannot object to it or seek erasure, since the processing is a one-off 
+event. They can, however, opt-out.
+14 We cover only data rights which are relevant in the sense of having a role in empowering 
+data subjects or constraining the actions of data controllers.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies17
+2. Storage and cleaning of data: In the first instance, SAT stored the recordings and 
+cleaned the data.
+(Joint) Data
+Controller(s)
+SAT. 
+NB: IRCAM and any freelancers engaged by the Artists but contracted by SAT  
+are likely processors rather than controllers, since they are not determining  
+why and how to exploit the recordings, merely assisting in that process.
+When July - August 2024
+Processing of
+personal data?
+Ye s, in respect of the recordings of the Solo Singers, since these 
+are individually labelled and hence identifiable. Exploitation of Solo 
+Singers’ recordings permits them to be identified.
+No, in respect of the group recordings. The nature of these recordings 
+and the blending of voices means that no one individual can be 
+identified from them (and therefore from exploitation of them).
+Data subjects Solo Singers only. 
+Legal Basis Article 6(1)(f) Legitimate interest. Solo Singers Data subjects  were informed through a Privacy Notice.
+Relevant UK
+GDPR rights
+Transparency: Participants expressed a wish to be kept informed 
+about how the raw recordings were being stored, shared and 
+exploited. The Solo Singers are entitled to this transparency from SAT, 
+Artists, IRCAM and any other parties using the recordings.
+Objection and Erasure: Exploitation of the raw recordings which has 
+not been agreed at the outset of the project is said to be prohibited or 
+to require agreement. Whilst data rights cannot reflect this precisely, 
+the Solo Singers could object to any future processing exploitation or 
+seek erasure of the recordings. This gives the Solo Singers a degree of 
+control/bargaining power over future exploitation of the raw recordings, 
+provided they are kept aware of SAT’s and others’ plans for them.
+Access: The Solo Singers would be entitled to receive copies of the 
+recordings of their respective voices 15 from SAT.
+15 But not of the overall choir.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies18
+3. Training of AI Models: SAT, IRCAM and Artists used raw and processed data for the 
+purposes of training various AI models. 16
+(Joint) Data
+Controller(s) SAT, Artists and IRCAM.
+When July - August 2024
+Processing of
+personal data?
+Ye s, in respect of the recordings of the Solo Singers, since these 
+are individually labelled and hence identifiable. Exploitation of Solo 
+Singers’ recordings permits them to be identified.
+No, in respect of the group recordings. The nature of these recordings 
+and the blending of voices means that no one individual can be 
+identified from them (and therefore from exploitation of them).
+Data subjects Solo Singers only. 
+Legal Basis Article 6(1)(f) Legitimate interest. Solo Singers Data subjects  were informed through a Privacy Notice.
+Relevant UK
+GDPR rights 17
+Transparency: Participants expressed a wish to be kept informed 
+about how the raw recordings were being stored, shared and 
+exploited. The Solo Singers are entitled to this transparency from SAT, 
+Artists, IRCAM and any other parties using the recordings.
+Objection and Erasure: Exploitation of the raw recordings which has 
+not been agreed at the outset of the Project is said to be prohibited or 
+to require agreement. Whilst data rights cannot reflect this precisely, 
+the Solo Singers could object to any future processing exploitation or 
+seek erasure of the recordings. This gives the Solo Singers a degree of 
+control/bargaining power over future exploitation of the raw recordings, 
+provided they are kept aware of SAT’s and others’ plans for them.
+Note key limitations here, however. Solo Singers will have bargaining 
+power where they can exercise these rights prospectively, which 
+assumes they are informed in advance. Some uses of the raw recordings 
+– notably the training of new AI models – cannot be ‘unwound’ using 
+these rights, since no UK GDPR rights subsist in the trained AI model.
+Access: The Solo Singers would be entitled to receive copies of  
+the recordings of their respective voices 18 from SAT.
+16 As the situation is unclear, we assume that the training of the Artists Model, though it is 
+further removed from the recordings, involves some use of the raw voice recordings.
+17 We cover only data rights which are relevant in the sense of having a role in empowering 
+data subjects or constraining the actions of data controllers in a way which touches on  
+the ‘Uses and Permissions’ explainer provided by Serpentine Arts Technologies.
+18 But not of the overall choir.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies19
+The use of trained models and their outputs did not constitute personal data processing,  
+as the AI models developed in The Call generate synthetic voices that are amalgamations 
+rather than replications of individual voices. While it is technically possible to develop models 
+that do replicate identifiable voices, as demonstrated by various voice cloning technologies, 
+such models would fall under GDPR regulation and grant rights to the individuals whose 
+voices are replicated. However, for the current project, desired constraints on model use and 
+output (like profit sharing arrangements) must be established through other legal frameworks 
+since data protection law does not apply. This represents a significant limitation of current 
+GDPR legislation in addressing AI-generated audio content, though the situation differs for 
+other AI models that do enable individual identification, such as text generators that can 
+output people’s names and personal information.
+The distinction created by the GDPR between the choristers who were part of the chorus 
+and those who were solo singers in terms of drawing a boundary between those who are 
+data subject and who are not further emphasises the need for additional participatory and 
+governance mechanisms that allow all choristers to come together as a group. For example, 
+many participants expressed a wish to be kept informed about how the recordings were 
+being stored, shared and exploited, however only the solo singers are legally entitled to this 
+transparency from the joint controllers or any other party using the recordings. Could the 
+rights of the few be leveraged in order to bargain for general terms that the law is unable to 
+grant to all choir members? What type of organisational vehicle would be required to increase 
+the bargaining power of the choristers as a creative community? 
+It is critical to underline that such questions go beyond the necessary legal requirements, yet 
+they are central to developing appropriate mechanisms to balance the relationship between 
+contributors to/stakeholders in datasets and AI developers. While legislation such as the GDPR 
+provides important baseline protections for personal data, it is insufficient alone to address 
+the governance challenges posed by AI training data since the value of data is cumulative 
+and relational. 19 The GDPR’s technologically neutral approach and focus on individual 
+rights creates gaps when dealing with collective data resources and fails to address power 
+imbalances between data subjects and the organisations collecting and processing data at 
+scale. 20 The framework’s emphasis on individual consent and control is particularly ill-suited 
+for managing institutional collections and cultural heritage data being used as AI training 
+data, where the “data subjects” may be diffuse or historical, and where collective interests in 
+preservation and access need to be balanced against commercial exploitation.
+19 See Salome Viljoen’ ‘A relational theory for data governance,’  
+Y ale Law Journal, 131(2), 573–645 ↗. 20 See Janis Wong’s ‘Co-creating Data Protection Solutions Through a Commons’ ↗. 
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies20
+21 See for example, Public attitudes to data and AI: Tracker survey (Wave 4) report,  
+UK Department of Science, Innovation, & Technology ↗, and 2024 Edelman Trust Barometer ↗.
+2.3  Building Capacity for Collective Data Governance
+Alongside the challenges of exploring the current rights landscape for data contributors, the 
+Choral Data ‘Trust’ Experiment also presented the challenge of scaling up data governance 
+with over 300 choristers with different backgrounds, sentiments towards generative AI and 
+preferences for governance practices. 
+Technical approaches to data governance are emerging, such as tools that provide data subjects  
+transparency into whether their data is present in AI training datasets ↗ or preference 
+signalling ↗ for data creators for how their data is used for AI training. However, governance 
+solutions that focus solely on individual opt-in or opt-out put the burden on individual 
+creators to act and limit engagement possibilities to simply providing or withdrawing 
+consent, with few affordances to shape the overall AI building process and outcomes. 
+There are also open questions for how to provide other foundational components of data 
+governance, such as building trust with and accounting for diverse preferences for datasets with  
+many contributors. 21 These are often not achievable through exclusively technical and 
+automated methods.
+Thus, one of the first steps in the Choral Data ‘Trust’ Experiment was the hiring of an 
+independent data steward (Jennifer Ding), in order to adapt and integrate data stewardship 
+practices to the project-specific context. Because the project was set up to explore 
+community-driven data governance, instead of prescribing an established governance 
+method and vehicle, the data steward focused on enabling organic emergence of 
+governance practices and priorities through engagement with the choirs. Therefore, the  
+data steward’s primary role was to surface, synthesise and translate preferences from  
+across the choirs and choristers into forms that could be used to directly shape technical 
+practices and legal documents.
+In order to enable joint governance of the choral AI dataset by large groups of data subjects, 
+the data steward built up capacity for collective governance through the following activities:
+ ● Activity 1: Building relationships: organising conversations with choir 
+representatives over email or video calls to get to know each choir and create 
+opportunities for targeted questions and discussion (Section 2.3.1 ↗)
+ ● Activity 2: Building understanding: hosting online Choral Data Conversations and 
+Data Governance meetings open to every choir member who was part of the 
+project to share information and discuss the project (Section 2.3.1 ↗)
+ ● Activity 3: Surfacing data preferences: running a Data Preferences survey which 
+received 100+ responses to gather preferences towards how the dataset would be 
+used and governed (Section 2.3.2 ↗) 
+ ● Activity 4: Surfacing licence preferences: running a Licence Preferences Polis 
+which received 700+ anonymous votes to identify distinct preference groups 
+towards potential data/model licensing terms (Section 2.3.3 ↗)
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies21
+Participation in all activities was voluntary and for the non-anonymous activities, we encouraged  
+representation from each choir. For a detailed breakdown of cross-choir participation 
+across the different activities, see B. Choir Participation in Engagement Activities ↗ in the 
+Appendix. Findings and outcomes from the engagement were documented in a public Google 
+Drive folder ↗ for easy access for the choir members and to enable reusability by other data 
+governance practitioners.
+In the following sections, we share findings and outcomes from these participatory activities 
+and in Section 2.3.4 ↗ map our translation process to shape technical practices, governance 
+interventions and legal mechanisms from the preferences shared by the choir contributors.
+With ‘trust’ as a foundational component of the experiment, the project began with the 
+building of relationships across different groups involved. This included the initial outreach 
+to the choirs by Serpentine Arts Technologies’ production team, in particular Ruth Waters 
+and Eva Jäger, as well as the in person recording sessions in each choir’s hometown with 
+the artists. Through this process of creating and sharing art and building understanding of the 
+project through in person conversations, this laid the foundation for further conversations 
+about the dataset.
+Once the data steward joined the team, they were introduced to each choir for a 1:1 chat 
+with choir representatives (Activity 1: Building Relationships) to learn more about each 
+choir’s interests and concerns and to share more about the opportunity to get involved in the 
+governance of the jointly created dataset. The data steward then hosted three Choral Data 
+Conversations (May 2024) and two Data Governance Meetings (August, September 2024), 
+which together constituted Activity 2: Building Understanding. Each call took place on Zoom. 
+The presentations, agenda and minutes from each meeting were made publicly available ↗ so 
+that choir members who were not able to attend were able to catch up and learn more.
+Each session started with a presentation about the project and key data questions, and then 
+transitioned to an interactive discussion facilitated by Slido followed by an open conversation to 
+close the meeting. The sessions introduced key themes for group discussion including the role 
+of data (especially voice data) in building AI, current capabilities of voice AI, data rights for voice 
+data subjects, the transformation of art and performance into data and decision making methods 
+for datasets. A public template ↗ for these conversations about voice AI is available for reuse.
+2.3.1  Building Relationships & Understanding
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies22
+Through these conversations, a key early discovery was the recognition of the discomfort 
+around using the term ‘data’ when referring to choral performance. Choristers described 
+this as ‘dehumanising’, ‘disembodied’, ‘disempowering’ and ‘robotic’ while also ‘exciting’ and 
+an opportunity for the project to create a ‘best in example’. Feedback following the sessions 
+included the following quotes from participants:
+ ● ‘Thank you for an interesting and informative session, raising questions I’ve never 
+really considered before… we hadn’t really understood the purpose [of the data 
+governance project] until now’;
+ ● ‘Thank you for the time and care to do this work; it feels very new; as an artist,  
+this kind of intentionality is really striking me; feels respectful and much needed  
+in the time of change’;
+ ● ‘Love what you’re doing with prioritising respectful collaboration from the start. 
+Informed consent mechanisms in accessible formats [very important]’;
+ ● ‘It was interesting also that folks in the poll were less keen in having [the data steward 
+represent] us - I think that in an ideal world where our attention is not scattered  
+in a thousand different directions it would be great if we could advocate for ourselves 
+- but the reality is that we would not have even known to ask before we had 
+this meeting…’;
+ ● ‘The fact that you, as an informed person, who has our best interests at heart,  
+are paying proper attention to this is such a luxury. Isn’t it mad though, that we as 
+a society put so little value upon ourselves and this information? I hope this is the 
+beginning of a turn towards a better way’;
+ ● ‘Important for us to remember that the artists [Holly and Mat] have agency as well… 
+I hope as a group we don’t get so excited about control that we restrict what is 
+possible’;
+ ● ‘Some choirs will have that data and legal expertise in house, but not all will,  
+so I worry that there’s the potential for there to be inequality of access to key 
+background knowledge that will inform decision-making’.
+Inspired by the initial Choral Data Conversations in May, the data steward created a 28 question 
+survey ↗ (22 required, 6 optional), which covered topics such as background information on 
+the respondent, sentiment towards the project, preferences for data/model building practices, 
+credit and compensation preferences, data governance preferences, and intervention priorities 
+in the model building pipeline. Outcomes from the surveys were published in a public report ↗ 
+to share with the choirs, which included results as well as an FAQ section to answer some of 
+the questions raised in responses around project-specific practices for the art production, data 
+cleaning and data practices.
+2.3.2  Data Preferences Survey Findings
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies23
+Our aim was to have at least one respondent from each of the participating choirs, and the 
+survey received 103 responses from 14 of the 15 choirs (London Contemporary Voices joined the 
+project after the survey was completed). While Carnoustie Choir only had one respondent, the 
+other choirs on the lower end of participation had at least 4 respondents and on the higher end 
+of participation, Ravenswood Singers and The Fourth Choir had 12-14 respondents. Reflecting 
+the demographics of the UK choirs, the respondents came from wide ranging age groups from 
+20s to 70s and the median time respondents have been in the choir was 5 years. 
+An interesting finding was that the large majority of the respondents both wanted to know who 
+has access to the recording data and also how the data is stored, accessed, and used (74.5%), 
+but were also comfortable with the recordings being posted online (e.g. YouTube, social media) 
+(74.5%), an action which could directly compromise the ability to track who has access to 
+the data. This discrepancy may reflect the often disjointed motivations between technology 
+platforms and artists (especially live performers), where the former are focused on leveraging 
+digital traces of the art as raw material and the latter are often focused on the ephemeral process 
+of creating or sharing the art with others. Through the process of widely sharing art on platforms 
+like YouTube or Instagram, creators may not have fully considered the consequences of 
+widening access to their content to a range of actors for many possible different use cases.
+Concern of misalignment between data creators and data users was reflected in survey 
+outcomes, as over 25% of participants responded that they were not comfortable with use of 
+their data by users beyond the project to train an AI model. This stood in contrast to only 4% of 
+participants responding that they were not comfortable with Herndon and Dryhurst creating 
+the choral AI model for the exhibition. This indicates that transparency about data practices 
+may mitigate unease and distrust surrounding datafication and model building processes. 
+This also indicates that blanket opt-in and opt-out do not capture critical nuances of consent 
+preferences, as context of use and user intentions may matter more than the act itself of sharing 
+data for generative AI. The survey also highlights that participants were more interested in 
+group recognition, with over 92% of participants indicating interest in choir level credit, while 
+only 34% indicating interest in individual credit. This is further evidence that governance 
+mechanisms should be able to interface with groups rather than solely individuals.
+Figure 4: Results from the Data Preferences Survey showing change in comfort towards different users of the dataset (above) and contribution credit preferences (below)
+I feel comfortable with my choir’s recording data being used by other  
+interested users to train an Al choral voice.
+103 responses
+I feel comfortable with my choir’s recording data being used by 
+the artists Holly Herndon and Mat Dryhurst to train an Al choral voice.
+103 responses
+I would like my individual data contribution to be credited.
+103 responses
+I would like my choir’s data contribution to be credited.
+103 responses
+43.7%
+59.2%
+25.2%
+Strongly Disagree
+Disagree
+Neutral
+Agree
+Strongly Agree
+13.6%
+17.5%
+49.5%
+11.7%
+47.6%
+18.4%
+11.7%
+7.8%
+28.2%
+44.7%
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies24
+Survey findings on data governance preferences revealed interesting insights. For decisions 
+about data access (39.2%) and future uses of the data (34.3%), the most popular choice 
+among the four governance options (e.g. vote by all choristers, vote by choir representative 
+or committee of choir representatives, Serpentine team decides) was the vote by choir 
+representatives. However, the most popular choice for decisions about data representation 
+in the exhibit was for the Serpentine team to decide (38.2%). At the same time, over 80% of 
+respondents shared that they were not interested in participating in governance decisions 
+more than two times a year. This indicates that while individuals believe choir representation 
+in governance is important, there is limited capacity for many individuals to serve as the choir 
+representatives. A representative body of different stakeholders in the project could serve as a 
+vehicle to enable representation in decisions while reducing the burden on individuals.
+In light of these survey findings, the data steward set up the Data Governance working group 
+which invited choir members to join in discussions around the project use and future use of 
+the dataset during two Data Governance meetings. In response to feedback on the need for 
+more information on the legal aspects of the project (e.g. data and IP rights), the second meeting 
+featured a discussion with the project’s legal advisors from AWO Agency and Keystone Law.
+Across the choirs and individuals, there were differences in risk tolerance and openness to data 
+sharing, important considerations for setting licence terms for the choral AI dataset and models. 
+Informed by the Data Preference Survey findings, Data Governance meetings and guidance 
+from legal advisors, the data steward set up another survey to further clarify group preferences 
+around future use of the choral AI dataset to inform licensing terms and selection. 
+This survey was run through Pol.is ↗, a platform for gathering and clustering preferences across 
+groups to inform decision making. The Polis was seeded with 20 statements ↗ for participants 
+to vote on (Agree, Disagree, Pass/Unsure). These statements described different scenarios for 
+potential dataset users and use cases, such as ‘I think the choral AI dataset should be shared 
+publicly for use by other users’. Participants were also able to anonymously submit new 
+statements for the group to vote on. The steward synthesised the Pol.is data ↗ into a summary 
+report ↗, which was shared with the choirs and other project stakeholders.
+37 people cast 705 votes, which resulted in 3 opinion groups: A, B and C (see: Figure 5). While 
+Group C was more permissive in their views towards sharing and wider reuse of the choral AI 
+dataset and models, Groups A and B were more cautious, against public sharing and commercial 
+and profit-generating use cases. Consensus was reached for the majority of statements, which 
+helped highlight the most divisive statements such as “I think the choral AI dataset/model 
+should be available for commercial and profit-generating use cases.” Statements with broad 
+agreement also proved a useful directive, with 90% of voters agreeing that the choral AI dataset 
+should be shared with users who comply with the licence terms and around 80% interested 
+in sharing for non-commercial use cases that re-licence under the same terms and credit the 
+choirs for their contribution. On the governance side, 75% respondents also agreed (and 3% 
+disagreed) with the statement: ‘I think access to the choral AI dataset should be gated by a 
+trusted intermediary who can vet requests by other users’, reflecting interest in a governance 
+body that is responsible for managing data access requests.
+2.3.3  Licence Preferences Polis Findings
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies25
+These findings indicate that if the choral AI dataset is released, a licence like the Creative 
+Commons Attribution Non-Commercial Share Alike (CC-BY-NC-SA) ↗ would be a good fit  
+for the model to meet group preferences. The Pol.is findings serve as a snapshot of group 
+preferences for licensing, but can be used as an incomplete but indicative representation of 
+choir preferences in future negotiations with AI developers when selecting licences and  
+release strategies for the choral AI dataset and models.
+Figure 5: Polis statements with the highest levels of disagreement among preference groups and agreement among preference groups
+STATEMENT OVERALL 34 A18 B8 C8
+8
+I think the Choral Al Dataset/
+Model should be available for 
+public use for any use case.
+10
+I think the Choral Al Dataset/
+Model should be available 
+for commercial and profit-
+generating use cases.
+16
+I think the Choral Al Dataset 
+should be shared publicly for use 
+by other users.
+18
+I think access to the Choral Al 
+Dataset should be shared with 
+users who agree to comply with 
+our model/dataset license terms.
+3
+I think the Choral Al Dataset/
+Model should be available  
+for teachers to use for 
+educational purposes.
+15
+I think new models created from 
+the Choral Al Dataset/Model 
+should keep the same license 
+terms (e.g. „for non-commercial 
+uses only“ if that is selected for 
+the Choral Al Dataset/Model).
+12
+I think it’s important that any  
+user of the Choral Al Dataset/
+Model credits my choir in an 
+attribution statement.
+25
+Terms for use of Choral Al 
+Dataset & Model to be reviewed 
+periodically to ensure they're  
+still fit for purpose and any 
+misuse to be noted.
+19
+I think access to the Choral Al 
+Dataset should be gated by a 
+trusted intermediary who can  
+vet requests by other users.
+9% 66% 24% (33)
+90% 0% 9% (33)
+21% 60% 18% (33)
+87% 0% 12% (33)
+30% 42% 27% (33)
+81% 0% 18% (32)
+89% 0% 10% (19)
+0% 76% 23% (17)
+94% 0% 5% (17)
+94% 0% 5% (17)
+76% 5% 17% (17)
+70% 5% 23% (17)
+0% 88% 11% (17)
+23% 41% 35% (17)
+0% 75% 25% (8)
+75% 0% 25% (8)
+12% 50% 37% (8)
+62% 0% 37% (8)
+62% 12% 25% (8)
+75% 0% 25% (8)
+0% 75% 25% (8)
+71% 0% 28% (8)
+50% 0% 50% (4)
+37% 37% 25% (8)
+100% 0% 0% (8)
+100% 0% 0% (8)
+100% 0% 0% (8)
+87% 0% 12% (8)
+100% 0% 0% (8)
+75% 12% 12% (8)
+75% 12% 12% (8)
+87% 0% 12% (8)
+100% 0% 0% (5)
+82% 0% 17% (17)
+100% 0% 0% (10)
+78% 6% 15% (33)
+75% 3% 21% (33)
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies26
+Figure 6: Priority interventions across the choral AI model building pipeline
+The purpose of the choir engagement activities was to build capacity for governance among 
+the choirs and surface preferences to guide technical practice during the project and shape 
+legal mechanisms that can enable operationalising their preferences, via IP rights and to some 
+extent, data rights. Following the steward’s work gathering and synthesising data and licensing 
+preferences into findings and recommendations, the team turned their attention to translating 
+these into concrete actions and viable governance mechanisms. To visualise these priorities, 
+the steward created a map to share with choirs on the priority interventions across the choral 
+AI model building process (see: Figure 6) around data transparency and co-creation that were 
+surfaced through the Data Preferences survey. This included the sharing of data privacy notices, 
+more detailed documentation (in the Data Preferences Report FAQ ↗) on data practices, and the 
+creation of the Pol.is to set relevant terms for the license.
+2.3.4  Translating Data Contributor Preferences 
+to Governance Mechanisms
+
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies27
+Individual data subjects often struggle to exercise their data and IP rights effectively within 
+the AI ecosystem. Data collection, dataset creation and AI model training frequently occur 
+without individuals’ knowledge or consent, and without providing them meaningful benefits. 
+Moreover, since data’s value increases through combination and aggregation, individual-level 
+interventions in AI development are less effective than collective approaches.
+‘Collectivising’ rights, – for example through consumer class actions or unions, – has proven 
+to be an effective strategy for increasing individuals’ agency within legal frameworks where 
+individual rights alone provide insufficient leverage. Additionally, aggregating rights through 
+dedicated organisational structures can reduce the burden on individuals of monitoring, 
+auditing and taking action regarding their data rights.
+While establishing an organisational entity was a core objective of the experiment from the 
+outset, its precise form and mandate were initially undefined. The direction for this entity 
+emerged through iterative engagement between the data steward and the choirs, incorporating 
+additional input from the Serpentine team, wider Serpentine management, and the artists.
+2.4  Setting up a Trusted Data Intermediary 
+at Serpentine
+However, the team recognised that to move this activity from the space of good intentions 
+towards a governance process with legal backing, further legal design was required. With the 
+guidance of legal advisors, the team proposed creating the following legal mechanisms:
+ ● Performance Rights Agreement, buoyed by the choristers’ IP rights to concretise 
+the preferences choristers shared in the Data Preferences Survey, particularly 
+around permissions related to downstream uses in AI development, crediting and 
+compensation;
+ ● Data Rights Mandate, for soloists whose voices, and thus Personally Identifiable 
+Information (PII) are identifiable in the dataset, to create an intermediary that can 
+support exercising their rights as a group, based on outcomes from the Choral  
+Data Conversations for the need for support to keep up with progress in the AI 
+field, as well as the Licence Preferences Pol.is and to support vetting data access  
+to new users
+ ● Trusted Data Intermediary, a body with representation from the choirs, artists 
+and Serpentine that can create and formalise these agreements and serve as an 
+ongoing decision making and stewardship body for future data governance, based 
+on outcomes from the License Preferences Polis 
+For further information on the mapping of choir engagement activity and the surfaced 
+preferences to the final legal mechanisms, as well as the purpose of each mechanism and the 
+relevant rights under UK law, see Table 1 ↗.
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+28
+Central to the experiment was the goal of enabling collective bargaining power and 
+coordinated action through establishing a dedicated legal entity that could ‘own’ or control 
+data and intellectual property rights on behalf of individual choristers. We explored several 
+possible legal vehicles, drawing on the Ada Lovelace Institute’s report on legal mechanisms 
+for data stewardship ↗ and Delacroix and Lawrence’s work on data trusts ↗. With support 
+from legal counsel, we evaluated three potential structures: an individual trustee, a legal trust, 
+and a company limited by guarantee.
+Given the project’s initial framing as a data trust experiment, we first explored establishing 
+a Data Trustee. While in England and Wales legal trusts can be relatively simple to establish, 
+they are not a legal entity per se, but rather a relationship between stakeholders where the  
+trustee acts as a representative legal person. Although this structure benefits from the 
+trustee’s fiduciary duty to beneficiaries, it presents challenges when engaging with down-
+stream dataset users, primarily due to the trustee’s exposure to unlimited personal liability. 
+While a corporate entity could act as trustee and address the liability issue, this would require 
+£100,000 in paid-up shares. Additional barriers included extensive HMRC compliance 
+requirements, and uncertainty about whether GDPR rights – while delegatable for exercise  
+– could be considered ‘property’ held in trust.
+We ultimately selected Serpentine LLC, an existing trading entity that supports Serpentine’s 
+commercial activities, to implement the company limited by guarantee structure. This decision, 
+reached jointly by the Serpentine team and data steward, was based on several factors:
+ ● Straightforward setup with minimal costs
+ ● Limited liability protection
+ ● Operational efficiency through integration with the entity that  
+oversaw dataset production
+ ● Deep understanding of the cultural and technological context  
+that would inform the dataset’s potential value
+Furthermore, Serpentine LLC, acting as a trusted data intermediary, enables:
+1. Individual Rights Management: Soloists can mandate Serpentine LLC to exercise 
+their GDPR rights collectively while retaining their individual right to exercise 
+these rights independently;
+2. Collective Governance: Choirs can shape how future users access and use the 
+choral AI dataset through sub-licensing terms incorporated into the general 
+licensing agreement between individual choristers and Serpentine LLC.
+Exploring Different Legal Routes for the Set Up of a Data ‘Trust’ 
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+29
+Figure 6: Trusted Data Intermediary framework for the Choral Data ‘Trust’ Experiment
+Table 1: Mapping from choir engagement activities to governance mechanisms created
+Governance
+Mechanism Relevant Rights
+Source Activity
+for Contributor
+Preferences
+Purpose
+Performance  
+Rights Agreement
+UK Performers’  
+(IP) Rights
+Data Preferences 
+Survey
+Set terms between TDI  
+and choristers that  
+collectivises individual  
+performers’ rights for downs-
+tream usage of the dataset, 
+including permissible uses 
+and types of users, as well  
+as data security, crediting,  
+and compensation practices
+Data Rights  
+Mandate
+Data Rights, under 
+UK GDPR
+Choral Data 
+Conversations.
+Licence  
+Preferences Polis
+Enable solo singers whose 
+voices (PII) are captured in 
+the dataset to mandate TDI to 
+support the group by moni-
+toring ongoing use, sharing 
+information and exercising 
+data rights
+Trusted Data 
+Intermediary (TDI) UK Contract Law Licence  Preferences Polis
+Formalises Serpentine LLC 
+as legal entity for TDI for 
+contracts (sub-licensing) and 
+as admin hub responsible for 
+enforcing the Performance 
+Rights Agreement and Data 
+Rights Mandate
+
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+30
+3. 
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies30
+3.1  Reflections
+3.1.1  Data Steward’s Reflections
+3.1.2  Serpentine’s Reflections
+‘My guiding vision ↗ for stewardship of the choral AI dataset has centred on the question: how 
+can we create AI datasets with intention, meaning with respect, recognition and responsibility 
+to data contributors? This means treating a digital connection established through co-creating 
+a dataset as a relationship and facing the personal, legal and artistic implications that come 
+with. Through further investment in the human infrastructure that surrounds data governance, 
+such as the individuals and organisations that can serve as data intermediaries, this will 
+bring necessary flexibility to the process of data governance and a human touch to what can 
+otherwise be a confusing and alienating process of transforming art and identity into raw 
+material for building AI models. Technical tools can support the aggregating and actioning 
+of group decisions, but humans in the governance loop are needed to build relationships and 
+understanding that enable trust in and legitimacy of any governance decision’. 
+– Jennifer Ding
+‘Serpentine’s guiding vision for initiating and facilitating the Data ‘Trust’ Experiment was formu- 
+lated in a strategic briefing published by the organisation’s R&D wing, Future Art Ecosystems  
+in March 2024, Art x Public AI ↗. At that stage, the discourse on public interest AI was still very 
+nascent, particularly in the GLAM sector. Nevertheless, it was clear to us that the experimental 
+end of art and technology productions could serve as a sandbox for new organisational practices 
+and forms. We were particularly interested in ‘speedrunning and developing early operational 
+frameworks for data stewardship, data bargaining, data valuation, and stakeholder coordination 
+of data’ ↗, which a collaboration with artists Holly Herndon and Mat Dryhurst for their Serpentine 
+commission enabled us to do. While the trusted data intermediary framework that emerged was 
+particular to the facts of this specific AI project, we believe that it offers a primitive for application 
+specific AI model development that relies on high quality data, which will often require the pro- 
+duction of curated datasets. However, as the extensive investment in data stewardship and legal 
+support has shown, this is not a capability that organisations, particularly public GLAM organisa- 
+tions can achieve without considerable financial, technical and training support’.
+– Victoria Ivanova
+Call to Action: Building Data  
+Intermediaries for a  
+Public Interest AI Ecosystem
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+31
+The experiment demonstrated that meaningful participation in AI development requires 
+approaches beyond individual opt-in/opt-out. To enable data contributors like creatives to 
+have a genuine voice in the process, two elements are essential:
+ ● Enhanced public digital literacy, particularly regarding AI systems  
+and what constitutes acceptable use of data
+ ● Further investment in data stewardship experiments and infrastructure  
+to address challenges that arise from in practice and real world contexts 
+The effectiveness of innovative legal frameworks depends on their enforceability.  
+Several key areas need attention:
+ ● Clarification of data rights mandates under GDPR
+ ● Clear guidance on IP rights in AI model development  
+and downstream uses
+ ● New legislative approaches to protect public interests in AI systems,  
+given the limitations of individual rights and without additional  
+undue burden to individuals
+ ● Improved access to legal support as an enabler of collective  
+data governance rather than just a tool for contestation
+The experiment highlighted GLAM institutions’ potential to balance stakeholder interests 
+across the AI development ecosystem. This suggests the need for:
+ ● An industrial policy for the creative sector that supports  
+further experimentation
+ ● Development of cultural heritage and artistic data policies
+ ● Enhanced capacity for cultural institutions to meaningfully engage  
+with AI technologies
+ ● We hope to collaborate with more organisations in the future to further clarify, 
+standardise and advance both the theoretical foundations and operational praxis 
+of trusted data intermediaries, so that this kind of data institution can be more 
+configurable and usable by more organisations in service of building towards  
+a flourishing public AI ecosystem.
+1. Collective Data Governance
+2. Legal Rights Collectivisation 
+3. GLAM Institutions as Trusted Intermediaries
+The Choral Data ‘Trust’ Experiment revealed insights in three key areas, all of which would 
+benefit from further research, experimentation and support:
+3.2  Recommendations
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+32
+Appendix
+ ● Artists: Holly Herndon and Mat Dryhurst
+ ● Choral AI dataset: choir performance recording data, recording data,  
+performance data, of which Data Subjects will have access to or governance over 
+ ● Choral AI model: model trained using the dataset by the Artists or other Data Users
+ ● Data Contributors/Creators: Choirs and their members who agreed to participate 
+in The Call, exhibition project by artists Holly Herndon and Mat Dryhurst, in the 
+context of which choral AI models were developed using the choral recordings  
+for training
+ ● Data Intermediary: individual or organisation that facilitates engagement, 
+negotiation, and decision making amongst the data stakeholders in the data 
+ecosystem
+ ● Data User(s): the individuals or organisations who have the ability to access and 
+repurpose the recorded data under the data sub-licensing terms
+ ● Serpentine Trust: the gallery and the team who convene and organise the project
+ ● Serpentine Arts Technologies (SAT): A department at a public art institution, 
+Serpentine, located in London, UK. SAT is focused on supporting artists who 
+work with advanced technologies, as well as on developing an art and advanced 
+technologies ecosystem for the public good through its R&D programme, Future 
+Art Ecosystems.
+ ● Trusted Data Intermediary (TDI): a data intermediary whose role has been 
+established through good faith legal and governance processes
+A.  Glossary of Key Terms
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+33
+The following tables describe engagement from each choir for different activities. Because 
+the Licence Preferences Polis was fully anonymous, no choir affiliation information was 
+collected. For the online calls from Activity 1 and 2, there was at least one representative 
+from each choir who attended one of the five calls. For the Data Preferences survey in 
+Activity 3, there was representation from 14 out of the 15 choirs. The only choir (London 
+Contemporary Voices) not represented in the survey joined the project after the survey  
+had been released.
+B.  Choir Participation in Engagement Activities
+Table A.1: 
+Number of attendees from each choir across the 5 online calls
+Number of Attendees Choirs
+0-1 Participants
+Cunninghame Choir 
+South Lakes Acapella 
+Ordsall Acappella Singers 
+Ravenswood Singers 
+Blackburn Peoples Choir 
+London Contemporary Voices
+2-3 Participants
+New London Chamber Choir 
+Spectrum Singers 
+Carnoustie Choir 
+Leeds Vocal Movement 
+Fourth Choir 
+Fitzhardinge Consort
+4-10 Participants
+HIVE Choir 
+Musarc 
+Open Arts Community Choir
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+34
+Table A.2:  
+Responses and representation rate across choirs in the Data Preference Survey
+Response Rates Choirs, by Percentage of Representation
+1-5 Responses
+Carnoustie Choir (1%) 
+Blackburn People’s Choir (3.9%) 
+HIVE Choir (3.9%) 
+Ordsall Acappella Singers (3.9%) 
+Cunninghame Choir (4.9%)
+6-10 Response
+New London Chamber Choir (5.8%) 
+South Lakes Acapella (6.8%) 
+Spectrum Singers (6.8%) 
+Fitzhardinge Consort (7.8%) 
+Leeds Vocal Movement (9.7%) 
+Open Arts Community Choir (9.7%)
+11-15 Responses
+Musarc (10.7%) 
+Ravenswood Singers (11.7%) 
+The Fourth Choir (13.6%)
+
+Choral Data ‘Trust’ Experiment Serpentine Arts Technologies
+35
+About Future Art Ecosystems
+Future Art Ecosystems (FAE) is a project for building 21st century cultural infrastructure  
+to support art and advanced technologies for the public good.
+Serpentine established the Arts Technologies department in 2014 to lead on commissioning 
+and production of artworks that engage with advanced technologies. What followed was 
+an exciting series of collaborations with artists James Bridle, Ian Cheng, Jenna Sutela, Hito 
+Steyerl and Jakob Kudsk Steensen leading to the development of new experimental artworks 
+that deployed a variety of technologies from AI to VR and game engines. Each piece relied 
+on the development of bespoke hybrid teams, technological systems and legal agreements 
+– all of which offered unique insights into these technologies, and equally made evident the 
+operational limitations of undertaking this type of cultural production in the context of a 
+‘legacy’ art institution.
+It was the coupling of the opportunity to shine light on the R&D potential of artistic 
+production processes, and the challenge of imagining new infrastructures to better support 
+the evolving art and advanced technologies ecosystem, that led to the emergence of Future 
+Art Ecosystems. In close collaboration with Rival Strategy, we (the Arts Technologies team) 
+launched the annual FAE strategic briefings with our first publication, Future Art Ecosystems 
+1: Art x Advanced Technologies in 2020. Rooted in conversations with a diverse network of 
+participants, the briefings have become widely shared resources that inform the practices 
+and long-term strategies of artists, institutions and the wider cultural ecosystem, highlighting 
+the role of FAE as an ecosystem-oriented project.
+Today, FAE builds on the insights gained through the strategic briefings to develop 
+partnerships and facilitate projects that are focused on what we consider to be the key 
+priority areas for art x advanced technologies infrastructural development. Together with  
+a wide range of collaborators – ranging from cultural institutions, artists, producers, 
+curators, researchers and technologists to businesses, policy makers and mission-oriented 
+organisations – we’re committed to researching, prototyping and building 21st century 
+cultural infrastructure to support art and advanced technologies for the public good.
+FAE Contact:  
+fae@serpentinegalleries.org 
+Trusted Data Intermediary Contact:  
+trusteddata@serpentinegalleries.org 
+Website:  
+https://futureartecosystems.org/ 
+Art x Public AI briefing:  
+https://reader.futureartecosystems.org/briefing/fae4 

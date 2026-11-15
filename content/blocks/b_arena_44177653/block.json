@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177653",
+  "type": "link",
+  "title": "Gentle Systems",
+  "description": "Gentle Systems is a creative engineering studio based in Berlin. From vision to exploratory technology and experiences, our place between disciplines helps us serve clients looking not only for unique ideas but also the means to build and test them.",
+  "category": "Companies",
+  "tags": [
+    "creative-engineering",
+    "prototyping",
+    "experiences"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-c6fc2dc886498f19b7013a8f.webp",
+      "mimeType": "image/webp",
+      "alt": "Home | Gentle Systems",
+      "role": "thumbnail",
+      "bytes": 2476,
+      "sha256": "c6fc2dc886498f19b7013a8fb2b846c2ca55979c3d24c5008cdcb8ba4a16a90b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzY1My9vcmlnaW5hbF9kMzNhZDlkMjRlZjNhMDNiZGMyMGRjNzhkNjcxMzA5MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d33ad9d24ef3a03bdc20dc78d6713090.png"
+    },
+    {
+      "path": "assets/preview-56194f0e783130ce96442f6d.webp",
+      "mimeType": "image/webp",
+      "alt": "Home | Gentle Systems",
+      "role": "preview",
+      "bytes": 26066,
+      "sha256": "56194f0e783130ce96442f6d3b062833cde1d6993eb780270f23a326cac86f64",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177653/original_d33ad9d24ef3a03bdc20dc78d6713090.png",
+      "originalName": "d33ad9d24ef3a03bdc20dc78d6713090.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 85009,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:58:35.000Z",
+  "updatedAt": "2026-03-05T19:59:17.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.gentle.systems/",
+    "title": "Home | Gentle Systems",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177653,
+      "url": "https://www.are.na/block/44177653",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Home | Gentle Systems",
+      "createdAt": "2026-03-05T19:58:35Z",
+      "updatedAt": "2026-03-05T19:59:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Home | Gentle Systems",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

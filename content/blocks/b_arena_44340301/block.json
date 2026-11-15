@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340301",
+  "type": "image",
+  "title": "Black Geometry",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "black-geometry",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5f82df9092f5b8038defa9ce.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Black Geometry",
+      "role": "original",
+      "bytes": 63205,
+      "sha256": "5f82df9092f5b8038defa9cedd31efd1dbf2462b5f655b731e8a723ae4535ec9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340301/original_53ffb26cb4d1745a5bd7c059790534ec.jpg",
+      "originalName": "53ffb26cb4d1745a5bd7c059790534ec.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8a2a3a7cfc66ad61e07c0a52.webp",
+      "mimeType": "image/webp",
+      "alt": "Black Geometry",
+      "role": "thumbnail",
+      "bytes": 6860,
+      "sha256": "8a2a3a7cfc66ad61e07c0a527b41a361abed806568ac9074e9d0fd008c2460a6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwMS9vcmlnaW5hbF81M2ZmYjI2Y2I0ZDE3NDVhNWJkN2MwNTk3OTA1MzRlYy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "53ffb26cb4d1745a5bd7c059790534ec.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5f82df9092f5b8038defa9ce-5f82df9092.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Black Geometry",
+      "bytes": 55650,
+      "sha256": "badeabaa97d39fff0a5f51629ee7d4fd968c3e603a4d1713b260d5ebd6af8d21",
+      "width": 736,
+      "height": 736,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5f82df9092f5b8038defa9ce.jpg",
+        "sourceSha256": "5f82df9092f5b8038defa9cedd31efd1dbf2462b5f655b731e8a723ae4535ec9",
+        "originalBytes": 63205,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340301",
+    "title": "8be34daf8b7138625f1ba3a0e4d27290.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340301,
+      "url": "https://www.are.na/block/44340301",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "8be34daf8b7138625f1ba3a0e4d27290.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "8be34daf8b7138625f1ba3a0e4d27290.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Black Geometry",
+    "text": "36\nCHAR\nDAYSOFTYPE\n2022\nMARCH 31\nDAY 25\nU+0059",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "badeabaa97d39fff0a5f51629ee7d4fd968c3e603a4d1713b260d5ebd6af8d21"
+  }
+}

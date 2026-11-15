@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889851",
+  "type": "file",
+  "title": "Gemini Pretraining",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "language-models",
+    "pretraining",
+    "scaling"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-719b849cd7b345e7c8050215.pdf",
+      "mimeType": "application/pdf",
+      "alt": "2025-04-24-princeton-talk.pdf",
+      "role": "original",
+      "bytes": 4846855,
+      "sha256": "719b849cd7b345e7c80502156abb4d55f93e7101a922276c4dfb693cb715556a",
+      "sourceUrl": "https://attachments.are.na/45889851/9b1a3b6b013d8961f19630205e4fd95a.pdf",
+      "originalName": "9b1a3b6b013d8961f19630205e4fd95a.pdf"
+    },
+    {
+      "path": "assets/thumbnail-e1c2277957ad666ae14e24f5.webp",
+      "mimeType": "image/webp",
+      "alt": "2025-04-24-princeton-talk.pdf",
+      "role": "thumbnail",
+      "bytes": 3144,
+      "sha256": "e1c2277957ad666ae14e24f5d589a4abc19361a5285697b8f9d786191cf27eae",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTg1MS9vcmlnaW5hbF9kMThhYzM2YTA5NzdlNGRjMjAyNjA1MDYtMi01NXRiczYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d18ac36a0977e4dc20260506-2-55tbs6.png"
+    },
+    {
+      "path": "assets/preview-86f65687c5d089ddc93fd505.webp",
+      "mimeType": "image/webp",
+      "alt": "2025-04-24-princeton-talk.pdf",
+      "role": "preview",
+      "bytes": 22862,
+      "sha256": "86f65687c5d089ddc93fd50562d947d69c96284cbb5cfe495fba3d9f1c91d272",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889851/original_d18ac36a0977e4dc20260506-2-55tbs6.png",
+      "originalName": "d18ac36a0977e4dc20260506-2-55tbs6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 70355,
+        "width": 1600,
+        "height": 900,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:13:31.000Z",
+  "updatedAt": "2026-05-06T13:13:35.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 52-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889851",
+    "title": "2025-04-24-princeton-talk.pdf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889851,
+      "url": "https://www.are.na/block/45889851",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "2025-04-24-princeton-talk.pdf",
+      "createdAt": "2026-05-06T13:13:31Z",
+      "updatedAt": "2026-05-06T13:13:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "report",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2025-04-24-princeton-talk.pdf",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "Apr 2025Vlad Feinberg, vladf@google.com, vladfeinberg.com\nGemini Pretraining\n\nIntroduction\nClassical Scaling\nSmall Model Customers\nInference-optimized Scaling\nClosing Thoughts\n01\n02\n03\n04\n05\nAgenda\n\nIntroduction\n01\n\nAbout Me\n2017 2018 20212019 2022\nDropped out for startup!\nSisu Data w/ Peter Bailis\nEfficient DB cubing w/ FDR \ncontrol via custom \ndistributed lasso engine\nGoogle Cerebra\nQuantizing Ads DNN \nfor pCTR serving \nefficiency\nP’17 COS + SML\nw/ Kai: 3D CNN for \nMRI segmentation \nfor connectome \nreconstruction\nML Sys PhD\nBerkeley RISE Lab\nw/ Ion, Joey, Mike\nModel-based Deep RL\nMuJoCo (w/ Sergey)\nGoogle Brain → GDM\nOptimizer work w/ Elad\nInference-efficient LLMs\nFlash Pretraining Lead\n\n\n● Classic Scaling\n○ Basic methodologies for pre-training large language \nmodels (LLMs)\n○ Foundational lessons learned in the field\n● Inference-Optimized Scaling\n○ How the above methodologies interact with practical \nserving needs.\n○ Basic roofline methodology, but without sharding\nWhat This Talk Will Be About\n\n● Specialized capabilities research\n○ image/audio/video in/out\n○ long context\n● Thinking or post-training\n● Evals\nWhat This Talk Won’t Be About\n\n● Language modelling concepts, decoder-only transformers\n● Distributed computing\nE.g., from level from previous papers read:\nDeepSeek-V3 Technical Report, DeepSeek-AI et al., 2024 https://arxiv.org/abs/2412.19437 \nGSPMD: General and Scalable Parallelization for ML Computation Graphs, Yuanzhong Xu et al., 2021, \nhttps://arxiv.org/abs/2105.04663\nDisclaimer: borrowing some amazing slides from fantastic co-workers, \nJean-Baptiste Alayrac, Sebastian Borgeaud, and Jacob Austin\nPresumed Background Knowledge\n\nClassical Scaling\n02\n\nIf I give you a certain amount of compute C (e.g. 1000 \nH100 for 30 days), what is the best LLM you can train?   \nWhat should be its size (=N)?\nHow many tokens (=D) should it be trained on?\n\n\nIf I give you a certain amount of compute C (e.g. 1000 \nH100 for 30 days), what is the best LLM you can train?   \nWhat should be its size (=N)?\nHow many tokens (=D) should it be trained on?\nNote: for a transformer C = 6 * N * D  is a very good  approximation \nof FLOPs.* \n*Excluding self-attention, an N-parameter decoder-only model requires 6N matmul FLOPs per token seen (2N for forward and 4N for \nbackward), because each matmul performs one multiplication and one addition per pair of input values, and the backward pass \nincludes two matmuls for each one in the forward pass.\n\n\nHow many FLOPs in each training step?\nAdding these up, we get 18BTDF + 24BTDNH = 6 * BT * (3DF+4DNH) = \n6 * num tokens * parameter count (or 2 * … for forward pass)\nAudience Q: What About MoEs? Why not Attn?\n\n\nWhy do we ask ourselves this question?\nML training before\n● Maybe 2 stages; toy problem for iteration (CIFAR10) then you apply to Imagenet\n● LR searches by doing multiple “final runs”.\n○ The last data point is our test set!\nNow every next run requires extrapolation.\nAnalysis made in the context of a parameterized LLM training \nrecipe!\nMust already have architecture scaling, schedule defined for N,D.\nLoss forecast implies model/recipe selection capability!\n\nScaling Laws\nKaplan et al (2020)[a]  showed that for autoregressive transformers, the performance of \nmuch larger models is accurately predicted by a series of smaller models.\n\nScaling Laws\nGiven a fixed compute budget C, what is the optimal combination of (N, D) ?\n“Maximally compute-efficient training would therefore be far more sample efficient than one \nmight expect based on training small models to convergence, with data requirements \ngrowing very slowly as D ∼ C0.27 with training compute.”\nTheir findings: With a 10x compute budget, parameters should increase by \n5.37x and the amount of data by 1.86x.\n\n\nScaling Laws\nTheir findings: With a 10x compute budget, parameters should increase by 5.37x and the \namount of data by 1.86x.\nConsequences for the industry: We should heavily invest in scaling the model size \nrather than the data size!\n \nThe catch:  \n- These “laws” are only empirical,\n- The fitting of these laws depends a lot on the experimental setup as well as the \nimplicit assumptions being made there.\n\nChinchilla paper from GDM [b] (March 2022)\nChallenges one assumption from the Kaplan paper: Kaplan et al. run a single training run \nper model size and uses intermediate losses  to estimate the loss at different token horizon.\nChinchilla paper: This is a bad approximation as you can get much better losses through \nproper learning rate decay. Only the final loss value is optimal.\nLet’s look together the consequences!\n\n\nThe IsoFlops approach \nOne of the 3 approaches in the paper\nIsoFlops: Fix flops and vary model size and training tokens   -   Nopt(C) and Dopt(C)\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n3. Fit a parabola and find the minimum\n\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n3. Fit a parabola and find the minimum\n4. Repeat 1-3 for various FLOPs budgets\n\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n3. Fit a parabola and find the minimum\n4. Repeat 1-3 for various FLOPs budgets\n\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n3. Fit a parabola and find the minimum\n4. Repeat 1-3 for various FLOPs budgets\n5. Fit a power law between FLOPs \nbudget and optimal model size\n\n\nThe IsoFlops approach \n1. Fix a target FLOPs budget\n2. Train a few models, vary model size\n3. Fit a parabola and find the minimum\n4. Repeat 1-3 for various FLOPs budgets\n5. Fit a power law between FLOPs \nbudget and optimal model size\n6. Fit a power law between FLOPs \nbudget and optimal dataset size\n\n\nChinchilla Scaling Laws\nChinchilla findings: the exponent in the power law ",
+    "textPath": "extracted.txt",
+    "textSha256": "ce4efe971b1eca7f54df9b9240965d9e6b22ef4a41a19d72c08b87a11501cfd0",
+    "textCharacters": 13298,
+    "pages": 52,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

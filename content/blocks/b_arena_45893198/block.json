@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45893198",
+  "type": "image",
+  "title": "Calendar Cards",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "calendar-cards",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-798cdaafad2cd8d1c27cf332.png",
+      "mimeType": "image/png",
+      "alt": "Calendar Cards",
+      "role": "original",
+      "bytes": 1020232,
+      "sha256": "798cdaafad2cd8d1c27cf332314e255cad5313bb3b2a87ca4e0e07428a66d22e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45893198/original_88d4640a77e27d1b526f032a3b388942.png",
+      "originalName": "88d4640a77e27d1b526f032a3b388942.png"
+    },
+    {
+      "path": "assets/thumbnail-2db87a1b03c21950c2be7798.webp",
+      "mimeType": "image/webp",
+      "alt": "Calendar Cards",
+      "role": "thumbnail",
+      "bytes": 4382,
+      "sha256": "2db87a1b03c21950c2be7798b294a18b03caec97491ed03b7e948b099e61309e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MzE5OC9vcmlnaW5hbF84OGQ0NjQwYTc3ZTI3ZDFiNTI2ZjAzMmEzYjM4ODk0Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "88d4640a77e27d1b526f032a3b388942.png"
+    },
+    {
+      "path": "assets/display-web-original-798cdaafad2cd8d1c27cf332-798cdaafad.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Calendar Cards",
+      "bytes": 41126,
+      "sha256": "11424c066c2ee1dd2c1f0681fac40f658315136f48b1d90fbb502dd7bde6b55a",
+      "width": 1080,
+      "height": 825,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-798cdaafad2cd8d1c27cf332.png",
+        "sourceSha256": "798cdaafad2cd8d1c27cf332314e255cad5313bb3b2a87ca4e0e07428a66d22e",
+        "originalBytes": 1020232,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T15:02:24.000Z",
+  "updatedAt": "2026-05-06T15:02:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45893198",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45893198,
+      "url": "https://www.are.na/block/45893198",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-05-06T15:02:24Z",
+      "updatedAt": "2026-05-06T15:02:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Calendar Cards",
+    "text": "• Coffee? - Mail from Marisa Lu\nMarisa Lu\nCoffee?\nJust Now\nHey Jason,\nWas wondering if you'd be interested in meeting my team at\nPhilz Coffee at 11 AM today. No pressure if you can't make it,\nalthough I think you guys would really get along!\nMarisa\nReply\nForward\nDelete\n* More actions.\nSee my availability: today\nAvailable until 1PM\nWould you like to create an event for\nCoffee with Marisa at 11 AM?\n9:41 AM\n1AM\nCoffee with Marisa Philz Coffee\n1PM\nMeeting with Danny Trinh Mars Landing\n3 PM\nCreate Event\nEdit Event\nFull Calendar\n3 More actions\n9:41\nDismiss",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "11424c066c2ee1dd2c1f0681fac40f658315136f48b1d90fbb502dd7bde6b55a"
+  }
+}

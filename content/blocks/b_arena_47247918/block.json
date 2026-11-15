@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247918",
+  "type": "image",
+  "title": "Metal Cartons",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "product-design",
+    "metal-cartons",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-de5cae1522370bce39519b92.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Metal Cartons",
+      "role": "original",
+      "bytes": 70420,
+      "sha256": "de5cae1522370bce39519b927e7e784eaf8aa8d4ec829ad03aeec1bc6467eccc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247918/original_4579df47c17ae633db65fdb1ebf7e5e9.jpeg",
+      "originalName": "4579df47c17ae633db65fdb1ebf7e5e9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-413ba65790c8b5445fca603a.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Cartons",
+      "role": "thumbnail",
+      "bytes": 5282,
+      "sha256": "413ba65790c8b5445fca603a16a523a24cb0b177344267eaa591b687ad52af9a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkxOC9vcmlnaW5hbF80NTc5ZGY0N2MxN2FlNjMzZGI2NWZkYjFlYmY3ZTVlOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4579df47c17ae633db65fdb1ebf7e5e9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-de5cae1522370bce39519b92-de5cae1522.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Cartons",
+      "bytes": 35216,
+      "sha256": "d5faae4a0cc8b377703a0fe8af65cb6376f45fbee6ba4f1ed0449c37757d0458",
+      "width": 1200,
+      "height": 905,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-de5cae1522370bce39519b92.jpg",
+        "sourceSha256": "de5cae1522370bce39519b927e7e784eaf8aa8d4ec829ad03aeec1bc6467eccc",
+        "originalBytes": 70420,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:29:52.000Z",
+  "updatedAt": "2026-07-29T18:15:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247918",
+    "title": "HFXbMRoa8AIQ-_1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247918,
+      "url": "https://www.are.na/block/47247918",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HFXbMRoa8AIQ-_1",
+      "createdAt": "2026-06-23T14:29:52Z",
+      "updatedAt": "2026-07-29T18:15:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HFXbMRoa8AIQ-_1",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Cartons",
+    "text": "7\nA.M\nZONT ROAST\nT A.M\nKEOZUX RCASE\nT00S ARABICA\nCOFFEE eF4)\nELEND\n1 A",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d5faae4a0cc8b377703a0fe8af65cb6376f45fbee6ba4f1ed0449c37757d0458"
+  }
+}

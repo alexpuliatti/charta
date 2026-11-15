@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892963",
+  "type": "image",
+  "title": "Autocritic Diagram",
+  "description": "Releasing autocritic — an open-source system that uses classic art theory to evaluate images and steer generative systems. It distills historical works  by Wölfflin, Kandinsky, Arnheim, Klee, and others into structured \"critic cards\" that teach an LLM how to see through each theorist's lens.  \n/1",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "ai",
+    "autocritic-diagram",
+    "photography",
+    "research",
+    "creative-coding",
+    "artificial-intelligence",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-271c11a88309b60448c69e01.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Autocritic Diagram",
+      "role": "original",
+      "bytes": 94464,
+      "sha256": "271c11a88309b60448c69e0164d9c611e3fc710529c5e6c20f60fc6b04b6b49f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892963/original_b0ca6e6c74fd1a8e8edad5f269bfac4f.jpeg",
+      "originalName": "b0ca6e6c74fd1a8e8edad5f269bfac4f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-62660a494e80fa6dbd2823cf.webp",
+      "mimeType": "image/webp",
+      "alt": "Autocritic Diagram",
+      "role": "thumbnail",
+      "bytes": 9158,
+      "sha256": "62660a494e80fa6dbd2823cffe2c9d67f19cb6264546bb67fbd13003c308a92c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjk2My9vcmlnaW5hbF9iMGNhNmU2Yzc0ZmQxYThlOGVkYWQ1ZjI2OWJmYWM0Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b0ca6e6c74fd1a8e8edad5f269bfac4f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-271c11a88309b60448c69e01-271c11a883.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Autocritic Diagram",
+      "bytes": 58482,
+      "sha256": "c89c608d18b214bae44e24dfe5f7ed3f4aecd0f7b5133a431bf2a9e137d7c44b",
+      "width": 1200,
+      "height": 991,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-271c11a88309b60448c69e01.jpg",
+        "sourceSha256": "271c11a88309b60448c69e0164d9c611e3fc710529c5e6c20f60fc6b04b6b49f",
+        "originalBytes": 94464,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:53:10.000Z",
+  "updatedAt": "2026-05-12T13:07:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://x.com/mccoyspace/status/2038835924059271354",
+    "title": "Kevin McCoy on X @mccoyspace",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892963,
+      "url": "https://www.are.na/block/45892963",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Kevin McCoy on X @mccoyspace",
+      "createdAt": "2026-05-06T14:53:10Z",
+      "updatedAt": "2026-05-12T13:07:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Kevin McCoy on X @mccoyspace",
+      "category": "Tools and resources",
+      "tags": [
+        "photography",
+        "research",
+        "creative-coding",
+        "artificial-intelligence",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Autocritic Diagram",
+    "text": "autocritic\nCritic-card-driven image evaluation using art theory and multimodal LLMs.\nLoad a critic card distilled from an art theory book. The critic evaluates images through that theorist's lens,\nproducing structured qualitative feedback with numeric scores. An optional improvement loop feeds critiques\nback into a generative system, steering parameter changes through LLM-driven translation — no hardcoded\nmapping tables.\nHow it works\nCritic Card\n- thesis\n- criteria\n- indicators\n(JSON: Wölfflin, Kandinsky, Arnheim, ...)\nImage\n→\nLLM Vision\n(critique)\nScoredCritique\n- axis scores\n- directives\nLLM Translator\ncritique → parameter deltas\n(no hardcoded mapping - LLM reasons\nabout which params to change\nGenerator\n(rewriteDrawer,\nmorphogenesis,\nyour system",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c89c608d18b214bae44e24dfe5f7ed3f4aecd0f7b5133a431bf2a9e137d7c44b"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700798",
+  "type": "image",
+  "title": "Edinburgh Square",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "edinburgh-square",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0e6fd4e75c7758233a6ae218.png",
+      "mimeType": "image/png",
+      "alt": "Edinburgh Square",
+      "role": "original",
+      "bytes": 642265,
+      "sha256": "0e6fd4e75c7758233a6ae21887ca5c037694a593fe50a1cc5c99b5f93dd2eae9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700798/original_2ce7c3ae620318589661d3c6a441ddf4.png",
+      "originalName": "2ce7c3ae620318589661d3c6a441ddf4.png"
+    },
+    {
+      "path": "assets/thumbnail-20079e93da9ba8cd95f2deff.webp",
+      "mimeType": "image/webp",
+      "alt": "Edinburgh Square",
+      "role": "thumbnail",
+      "bytes": 4182,
+      "sha256": "20079e93da9ba8cd95f2deffc1a83182eeb5cc4b6ae4fc96a348af8871763cda",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDc5OC9vcmlnaW5hbF8yY2U3YzNhZTYyMDMxODU4OTY2MWQzYzZhNDQxZGRmNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2ce7c3ae620318589661d3c6a441ddf4.png"
+    },
+    {
+      "path": "assets/display-web-original-0e6fd4e75c7758233a6ae218-0e6fd4e75c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Edinburgh Square",
+      "bytes": 31812,
+      "sha256": "a78533f8d089bc117ff673bf0ba20b781d2e2880bc9a40943e6bb44b2626c2da",
+      "width": 990,
+      "height": 606,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0e6fd4e75c7758233a6ae218.png",
+        "sourceSha256": "0e6fd4e75c7758233a6ae21887ca5c037694a593fe50a1cc5c99b5f93dd2eae9",
+        "originalBytes": 642265,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:53:41.000Z",
+  "updatedAt": "2026-07-08T14:53:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700798",
+    "title": "Screenshot 2024-02-02 alle 18.01.46",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700798,
+      "url": "https://www.are.na/block/47700798",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2024-02-02 alle 18.01.46",
+      "createdAt": "2026-07-08T14:53:41Z",
+      "updatedAt": "2026-07-08T14:53:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2024-02-02 alle 18.01.46",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Edinburgh Square",
+    "text": "HOW TO SURVNE A PANDEMIC\nANDELA FREYIN\nHOW TO\nSURVIVEA\nPANDEMIC\nSELF CARE\nTIPS FROM\n2020",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a78533f8d089bc117ff673bf0ba20b781d2e2880bc9a40943e6bb44b2626c2da"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_23438012",
+  "type": "image",
+  "title": "Flame Figure",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "flame-figure",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-00ac1bd88a3bfa41c233c602.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Flame Figure",
+      "role": "original",
+      "bytes": 443234,
+      "sha256": "00ac1bd88a3bfa41c233c60254b80f0bf0b0422fdd6988a2fce978a8733084fd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/23438012/original_f6696da1ab5e3779cccfb60907edbf46.jpg",
+      "originalName": "f6696da1ab5e3779cccfb60907edbf46.jpg"
+    },
+    {
+      "path": "assets/thumbnail-448d27d0a1ec03d08bb34767.webp",
+      "mimeType": "image/webp",
+      "alt": "Flame Figure",
+      "role": "thumbnail",
+      "bytes": 19852,
+      "sha256": "448d27d0a1ec03d08bb3476730e3b04d829c93eadfe2d8c054e585fc7902e611",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMzQzODAxMi9vcmlnaW5hbF9mNjY5NmRhMWFiNWUzNzc5Y2NjZmI2MDkwN2VkYmY0Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f6696da1ab5e3779cccfb60907edbf46.jpg"
+    },
+    {
+      "path": "assets/display-web-original-00ac1bd88a3bfa41c233c602-00ac1bd88a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Flame Figure",
+      "bytes": 170812,
+      "sha256": "a283bb051ec09ea8f1505d1a8b6e9380e183bb6633062fec1150f677219e7ce3",
+      "width": 1080,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-00ac1bd88a3bfa41c233c602.jpg",
+        "sourceSha256": "00ac1bd88a3bfa41c233c60254b80f0bf0b0422fdd6988a2fce978a8733084fd",
+        "originalBytes": 443234,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-09-02T23:46:06.000Z",
+  "updatedAt": "2026-03-11T14:33:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/23438012",
+    "title": "373587588_791671072703310_2855515531855970584_n.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 23438012,
+      "url": "https://www.are.na/block/23438012",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "373587588_791671072703310_2855515531855970584_n.jpg",
+      "createdAt": "2023-09-02T23:46:06Z",
+      "updatedAt": "2026-03-11T14:33:01Z",
+      "addedBy": {
+        "id": 487003,
+        "name": "Abdulrahman A",
+        "slug": "abdulrahman-a"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "373587588_791671072703310_2855515531855970584_n.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Flame Figure",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a283bb051ec09ea8f1505d1a8b6e9380e183bb6633062fec1150f677219e7ce3"
+  }
+}

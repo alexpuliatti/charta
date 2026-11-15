@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46231184",
+  "type": "link",
+  "title": "Coherence Neuro",
+  "description": "Learn about Coherence’s mission, vision, and the values driving our innovation—committed to changing how the world understands and treats cancer.",
+  "category": "Companies",
+  "tags": [
+    "neurotechnology",
+    "oncology",
+    "machine-learning"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a043ab243a841205c523b3e1.webp",
+      "mimeType": "image/webp",
+      "alt": "Company",
+      "role": "thumbnail",
+      "bytes": 1042,
+      "sha256": "a043ab243a841205c523b3e189fb04ec2fb196a41b00a6a1f6df647455ad2d3e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjIzMTE4NC9vcmlnaW5hbF9kYmJmODIxZTYxOWQyOWFhYjNiMWJhMDZlOGIzOGY3YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "dbbf821e619d29aab3b1ba06e8b38f7a.png"
+    },
+    {
+      "path": "assets/preview-064d70d60ed489b44299c646.webp",
+      "mimeType": "image/webp",
+      "alt": "Company",
+      "role": "preview",
+      "bytes": 6222,
+      "sha256": "064d70d60ed489b44299c646067d94a1c38bd638b25cc6d912e73c4f5d2d72c6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46231184/original_dbbf821e619d29aab3b1ba06e8b38f7a.png",
+      "originalName": "dbbf821e619d29aab3b1ba06e8b38f7a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 36723,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-16T08:18:29.000Z",
+  "updatedAt": "2026-05-16T08:18:34.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.coherenceneuro.com/company#explore",
+    "title": "Company",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46231184,
+      "url": "https://www.are.na/block/46231184",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Company",
+      "createdAt": "2026-05-16T08:18:29Z",
+      "updatedAt": "2026-05-16T08:18:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.coherenceneuro.com/company",
+        "finding": "Official company page identifies Coherence work in neurotechnology, neurobiology, machine learning and cancer management."
+      }
+    ],
+    "original": {
+      "title": "Company",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

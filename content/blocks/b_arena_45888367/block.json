@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888367",
+  "type": "image",
+  "title": "Image Cards",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "image-cards",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b584de9134fb58ed4df047d3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Image Cards",
+      "role": "original",
+      "bytes": 660467,
+      "sha256": "b584de9134fb58ed4df047d3b8b9d9df6bb7bae73b33ff6cebc197404bd02713",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888367/original_b7a437c0c06df2657dec70bb3be60fe1.jpeg",
+      "originalName": "b7a437c0c06df2657dec70bb3be60fe1.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e26d7298535a0792a8f9cd02.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Cards",
+      "role": "thumbnail",
+      "bytes": 7682,
+      "sha256": "e26d7298535a0792a8f9cd0247c7eaeecf11d0cec7cf528cd35ecb21ad453e59",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM2Ny9vcmlnaW5hbF9iN2E0MzdjMGMwNmRmMjY1N2RlYzcwYmIzYmU2MGZlMS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b7a437c0c06df2657dec70bb3be60fe1.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-b584de9134fb58ed4df047d3-b584de9134.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Cards",
+      "bytes": 252652,
+      "sha256": "47be4393607b33e765494545c501aead0c1feba844d093e1f13dd730c07dfa1d",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b584de9134fb58ed4df047d3.jpg",
+        "sourceSha256": "b584de9134fb58ed4df047d3b8b9d9df6bb7bae73b33ff6cebc197404bd02713",
+        "originalBytes": 660467,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:14:42.000Z",
+  "updatedAt": "2026-05-06T12:14:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888367",
+    "title": "hbdfsfyxuaaatl5.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888367,
+      "url": "https://www.are.na/block/45888367",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hbdfsfyxuaaatl5.jpeg",
+      "createdAt": "2026-05-06T12:14:42Z",
+      "updatedAt": "2026-05-06T12:14:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hbdfsfyxuaaatl5.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Cards",
+    "text": "Build me an app to generate images\nor videos from text prompts for...\nBuild me an Al powered app to\nanalyze and summarize a research...\nBuild me an app to create Art works,\nlogos, or SVGs. Choose template...\nBuild me an Al app to generate\nmusic elaborate prompts to...\n130\nBuild me an Al powered app to create\nsciencefiction stories with option...\nCreate a memory match pairs game\n(emoji/cards). Add timer, etc.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "47be4393607b33e765494545c501aead0c1feba844d093e1f13dd730c07dfa1d"
+  }
+}

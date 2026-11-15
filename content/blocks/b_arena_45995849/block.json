@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45995849",
+  "type": "image",
+  "title": "Orange Circuit",
+  "description": "",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "hardware",
+    "orange-circuit",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-180a2be01ca98cb95b5ef6d2.png",
+      "mimeType": "image/png",
+      "alt": "Orange Circuit",
+      "role": "original",
+      "bytes": 399525,
+      "sha256": "180a2be01ca98cb95b5ef6d20232c4545f5262f4783c4b29df5ca313e4f18116",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45995849/original_e8ce44db40d7aa088bcff7c1a45dedb0.png",
+      "originalName": "e8ce44db40d7aa088bcff7c1a45dedb0.png"
+    },
+    {
+      "path": "assets/thumbnail-7ad823d7357547b9b3d8c00c.webp",
+      "mimeType": "image/webp",
+      "alt": "Orange Circuit",
+      "role": "thumbnail",
+      "bytes": 9770,
+      "sha256": "7ad823d7357547b9b3d8c00c59284cb184761474243e7360056ac384f7beaa86",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk5NTg0OS9vcmlnaW5hbF9lOGNlNDRkYjQwZDdhYTA4OGJjZmY3YzFhNDVkZWRiMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e8ce44db40d7aa088bcff7c1a45dedb0.png"
+    },
+    {
+      "path": "assets/display-web-original-180a2be01ca98cb95b5ef6d2-180a2be01c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orange Circuit",
+      "bytes": 36586,
+      "sha256": "5848a747db40312d796f0acbbf5e2fac127e3f3a9d359e4654839003f548a15d",
+      "width": 800,
+      "height": 800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-180a2be01ca98cb95b5ef6d2.png",
+        "sourceSha256": "180a2be01ca98cb95b5ef6d20232c4545f5262f4783c4b29df5ca313e4f18116",
+        "originalBytes": 399525,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-10T19:38:28.000Z",
+  "updatedAt": "2026-05-10T19:38:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45995849",
+    "title": "original_75908c5dfdc4105845046c4c37734f9c",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45995849,
+      "url": "https://www.are.na/block/45995849",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_75908c5dfdc4105845046c4c37734f9c",
+      "createdAt": "2026-05-10T19:38:28Z",
+      "updatedAt": "2026-05-10T19:38:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Hardware",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_75908c5dfdc4105845046c4c37734f9c",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orange Circuit",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5848a747db40312d796f0acbbf5e2fac127e3f3a9d359e4654839003f548a15d"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_graphic_design_motion",
+  "title": "Motion",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_46582926"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46582925"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892839"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892835"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892454"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889915"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889044"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889000"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888856"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888855"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44227375"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44168853"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44168837"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137584"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44137293"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_23847145"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_13660086"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_1209982"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

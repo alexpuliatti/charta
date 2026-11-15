@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247054",
+  "type": "image",
+  "title": "Daily Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "daily-workspace",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ca122c12f969deafa3e485c7.png",
+      "mimeType": "image/png",
+      "alt": "Daily Workspace",
+      "role": "original",
+      "bytes": 5130220,
+      "sha256": "ca122c12f969deafa3e485c750771424b4407459fe2af1a45bad1d6f231997cd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247054/original_395407c91cc2d4078c0610f1bd4efb6d.png",
+      "originalName": "395407c91cc2d4078c0610f1bd4efb6d.png"
+    },
+    {
+      "path": "assets/thumbnail-84c67605ba80474b18fd7a6c.webp",
+      "mimeType": "image/webp",
+      "alt": "Daily Workspace",
+      "role": "thumbnail",
+      "bytes": 3534,
+      "sha256": "84c67605ba80474b18fd7a6c1b46ed331c61f1abb9bcd36d1edcdd56eedf3efe",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA1NC9vcmlnaW5hbF8zOTU0MDdjOTFjYzJkNDA3OGMwNjEwZjFiZDRlZmI2ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "395407c91cc2d4078c0610f1bd4efb6d.png"
+    },
+    {
+      "path": "assets/display-web-original-ca122c12f969deafa3e485c7-ca122c12f9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Daily Workspace",
+      "bytes": 45544,
+      "sha256": "99ce30624a4138842d4fffcd8f4f44043bc5c8e063f058a11568f5a98453c808",
+      "width": 2000,
+      "height": 1091,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ca122c12f969deafa3e485c7.png",
+        "sourceSha256": "ca122c12f969deafa3e485c750771424b4407459fe2af1a45bad1d6f231997cd",
+        "originalBytes": 5130220,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:16.000Z",
+  "updatedAt": "2026-03-08T22:30:24.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247054",
+    "title": "gemini_generated_image_ic13ijic13ijic13.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247054,
+      "url": "https://www.are.na/block/44247054",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gemini_generated_image_ic13ijic13ijic13.png",
+      "createdAt": "2026-03-08T22:30:16Z",
+      "updatedAt": "2026-03-08T22:30:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gemini_generated_image_ic13ijic13ijic13.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Daily Workspace",
+    "text": "What would you like to do? $\nToday\nReview Inbox\nUpdated just now\nMaste to f\nCoffee?\n7 iteme from Mail. Meevin\nWatcher..\nYesterday, 11:4 P\nPlan Move to SF\nYesterday, 9:48 PM\nVideo feed from HBO\nShared space with Maries.\nVictoria, and Devin.\n9:41\nSen Eripcoisco",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "99ce30624a4138842d4fffcd8f4f44043bc5c8e063f058a11568f5a98453c808"
+  }
+}

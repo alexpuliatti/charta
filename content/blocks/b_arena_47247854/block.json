@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247854",
+  "type": "image",
+  "title": "Look Closer",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "look-closer",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e8ce484aed450ef5e2a96898.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Look Closer",
+      "role": "original",
+      "bytes": 54643,
+      "sha256": "e8ce484aed450ef5e2a96898b0bf476f02347cadae4dbb105c397f69ae891ab7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247854/original_9f4911a034b75af26f32bb4b9ed3834c.jpeg",
+      "originalName": "9f4911a034b75af26f32bb4b9ed3834c.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-494aee8909e66f33e07d47bb.webp",
+      "mimeType": "image/webp",
+      "alt": "Look Closer",
+      "role": "thumbnail",
+      "bytes": 6644,
+      "sha256": "494aee8909e66f33e07d47bbaeda2c4beadb08a74f6ae644359d04b83aba1a87",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg1NC9vcmlnaW5hbF85ZjQ5MTFhMDM0Yjc1YWYyNmYzMmJiNGI5ZWQzODM0Yy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "9f4911a034b75af26f32bb4b9ed3834c.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-e8ce484aed450ef5e2a96898-e8ce484aed.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Look Closer",
+      "bytes": 33802,
+      "sha256": "3a656671a2f7ec42937d8319b5257461b677c3184b59f2b92a72fe2d48cf546d",
+      "width": 1200,
+      "height": 675,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e8ce484aed450ef5e2a96898.jpg",
+        "sourceSha256": "e8ce484aed450ef5e2a96898b0bf476f02347cadae4dbb105c397f69ae891ab7",
+        "originalBytes": 54643,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:27:43.000Z",
+  "updatedAt": "2026-06-23T14:28:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247854",
+    "title": "92ca7f61dbb719013102a45a8c0f6b16",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247854,
+      "url": "https://www.are.na/block/47247854",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "92ca7f61dbb719013102a45a8c0f6b16",
+      "createdAt": "2026-06-23T14:27:43Z",
+      "updatedAt": "2026-06-23T14:28:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "92ca7f61dbb719013102a45a8c0f6b16",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Look Closer",
+    "text": "The latest threat intelligence\nsolutions in action\nLook closer",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3a656671a2f7ec42937d8319b5257461b677c3184b59f2b92a72fe2d48cf546d"
+  }
+}

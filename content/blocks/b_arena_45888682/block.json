@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888682",
+  "type": "image",
+  "title": "Crowd Outline",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "crowd-outline",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-18cfa1ece0a7e5f1f5f9f983.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Crowd Outline",
+      "role": "original",
+      "bytes": 84147,
+      "sha256": "18cfa1ece0a7e5f1f5f9f9837d047dcf7175432ce5a687f43772b9dbb6e3f10d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888682/original_9dbcc5067fe495962169cf7f0b1e86f2.jpeg",
+      "originalName": "9dbcc5067fe495962169cf7f0b1e86f2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-8ee77ed43d235db46cf4ebc2.webp",
+      "mimeType": "image/webp",
+      "alt": "Crowd Outline",
+      "role": "thumbnail",
+      "bytes": 3186,
+      "sha256": "8ee77ed43d235db46cf4ebc292c62e83613562c1bb548b7952671abb04fa45d3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY4Mi9vcmlnaW5hbF85ZGJjYzUwNjdmZTQ5NTk2MjE2OWNmN2YwYjFlODZmMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "9dbcc5067fe495962169cf7f0b1e86f2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-18cfa1ece0a7e5f1f5f9f983-18cfa1ece0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Crowd Outline",
+      "bytes": 38338,
+      "sha256": "f13a851bccf565d7a60e36a4999e11b357f0aaef27b922be6f2f11a67a17ca00",
+      "width": 1785,
+      "height": 1405,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-18cfa1ece0a7e5f1f5f9f983.jpg",
+        "sourceSha256": "18cfa1ece0a7e5f1f5f9f9837d047dcf7175432ce5a687f43772b9dbb6e3f10d",
+        "originalBytes": 84147,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:56.000Z",
+  "updatedAt": "2026-05-06T12:26:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888682",
+    "title": "people.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888682,
+      "url": "https://www.are.na/block/45888682",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "people.jpg",
+      "createdAt": "2026-05-06T12:25:56Z",
+      "updatedAt": "2026-05-06T12:26:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "people.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Crowd Outline",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f13a851bccf565d7a60e36a4999e11b357f0aaef27b922be6f2f11a67a17ca00"
+  }
+}

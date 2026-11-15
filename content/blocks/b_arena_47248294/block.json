@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47248294",
+  "type": "image",
+  "title": "Sole Menu",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "sole-menu",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-99fad638bdecd726f15f121e.png",
+      "mimeType": "image/png",
+      "alt": "Sole Menu",
+      "role": "original",
+      "bytes": 417313,
+      "sha256": "99fad638bdecd726f15f121eb139d3a039018197a804d4f51d2f4750f8340866",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47248294/original_6bb9a604405b818d771cfab48f1d40eb.png",
+      "originalName": "6bb9a604405b818d771cfab48f1d40eb.png"
+    },
+    {
+      "path": "assets/thumbnail-53aa587258cae12cb0e174fb.webp",
+      "mimeType": "image/webp",
+      "alt": "Sole Menu",
+      "role": "thumbnail",
+      "bytes": 7260,
+      "sha256": "53aa587258cae12cb0e174fb98d632ed670e5873adbd43bf0e0eb0ddf862a4ca",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0ODI5NC9vcmlnaW5hbF82YmI5YTYwNDQwNWI4MThkNzcxY2ZhYjQ4ZjFkNDBlYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6bb9a604405b818d771cfab48f1d40eb.png"
+    },
+    {
+      "path": "assets/display-web-original-99fad638bdecd726f15f121e-99fad638bd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sole Menu",
+      "bytes": 44004,
+      "sha256": "4867239a39b707664bbe6c6d55883d711fbaa0e326e33fe6b9e2efd59c1b8616",
+      "width": 1426,
+      "height": 1094,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-99fad638bdecd726f15f121e.png",
+        "sourceSha256": "99fad638bdecd726f15f121eb139d3a039018197a804d4f51d2f4750f8340866",
+        "originalBytes": 417313,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:38:01.000Z",
+  "updatedAt": "2026-06-23T14:38:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47248294",
+    "title": "Screenshot 2026-04-29 alle 08.17.14",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47248294,
+      "url": "https://www.are.na/block/47248294",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-04-29 alle 08.17.14",
+      "createdAt": "2026-06-23T14:38:01Z",
+      "updatedAt": "2026-06-23T14:38:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-04-29 alle 08.17.14",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sole Menu",
+    "text": "CLICK A ROW\n88\nWelcome to Solo\n+\nClick here first\n4 Dev server\n+ Auto-restart\n+ researcher\n+ writer\nrestwer\n+ Notifications\n+ Agents and terminals\norchestrator\nfetcher\nsummarizer\n+ claude-test-2-c\nDemo 1\n0:20\nCURVE SHARPNESS\nLoose\n(16)\nMedium\n(8)\nSharp (4)\nCorner\n(1)\nTransition zone\n8\nThe \"transition zone\" is how many pixels above and\nbelow the corner point the bezier control points are\nplaced. Smaller = sharper bend. At 1px the curve is\nessentially a rounded corner; at 16px it's the loose S-\ncurve from before.\nIn code: each curve C x1 y1, x2 y2, x y uses\ncontrol points where y1 = cornery - zone and y2 =\ncornery + zone , with both x's set to the entry/exit\ncolumns respectively.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4867239a39b707664bbe6c6d55883d711fbaa0e326e33fe6b9e2efd59c1b8616"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888508",
+  "type": "image",
+  "title": "Studio Contact",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "studio-contact",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c43ae5b80d43b6fc32ac9b63.png",
+      "mimeType": "image/png",
+      "alt": "Studio Contact",
+      "role": "original",
+      "bytes": 273107,
+      "sha256": "c43ae5b80d43b6fc32ac9b63a7bd6def9d1cd31f381439c450b9b48363afa2c2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888508/original_2e54210028a15ca12940363a83339491.png",
+      "originalName": "2e54210028a15ca12940363a83339491.png"
+    },
+    {
+      "path": "assets/thumbnail-1e8d351c352d1cd5916fc458.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Contact",
+      "role": "thumbnail",
+      "bytes": 4556,
+      "sha256": "1e8d351c352d1cd5916fc4584e110745cf9625bf50ccdfcca8a50c9b43bcdc90",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUwOC9vcmlnaW5hbF8yZTU0MjEwMDI4YTE1Y2ExMjk0MDM2M2E4MzMzOTQ5MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2e54210028a15ca12940363a83339491.png"
+    },
+    {
+      "path": "assets/display-web-original-c43ae5b80d43b6fc32ac9b63-c43ae5b80d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Contact",
+      "bytes": 43888,
+      "sha256": "d9d902847e4d66585500459dd709bbc0a91517245064c044e8fa71777b2eb246",
+      "width": 2000,
+      "height": 1445,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c43ae5b80d43b6fc32ac9b63.png",
+        "sourceSha256": "c43ae5b80d43b6fc32ac9b63a7bd6def9d1cd31f381439c450b9b48363afa2c2",
+        "originalBytes": 273107,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:19.000Z",
+  "updatedAt": "2026-05-06T12:20:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888508",
+    "title": "screenshot-2026-04-17-alle-14.52.22.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888508,
+      "url": "https://www.are.na/block/45888508",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-17-alle-14.52.22.png",
+      "createdAt": "2026-05-06T12:20:19Z",
+      "updatedAt": "2026-05-06T12:20:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-17-alle-14.52.22.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Contact",
+    "text": "CONTACT\nFOR OPPORTUNITIES TO WORK WITH SO, Inc.\nAS A CLIENT, PLEASE CLICK HERE.\nFOR PRESS INQUIRIES\nPLEASE CLICK HERE\nFOR JOB INQUIRIES\nPLEASE CLICK HERE\nFOR ALL OTHER INQUIRIES\nPLEASE CLICK HERE\nOR JUST EMAIL OFFICE@SPECIALOFFER.INC\nSPECIAL OFFER, Inc.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d9d902847e4d66585500459dd709bbc0a91517245064c044e8fa71777b2eb246"
+  }
+}

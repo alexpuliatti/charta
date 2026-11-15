@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168850",
+  "type": "image",
+  "title": "Japanese Covers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "japanese-covers",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-83f815384c505101dfddc7d7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Japanese Covers",
+      "role": "original",
+      "bytes": 762207,
+      "sha256": "83f815384c505101dfddc7d73b455bfb090333d8f985675481532bce8f5d34f1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168850/original_b60df5d734d790ffe78bd148f02c6b63.jpg",
+      "originalName": "b60df5d734d790ffe78bd148f02c6b63.jpg"
+    },
+    {
+      "path": "assets/thumbnail-4dad0431eefd4d9fde9ae35f.webp",
+      "mimeType": "image/webp",
+      "alt": "Japanese Covers",
+      "role": "thumbnail",
+      "bytes": 15564,
+      "sha256": "4dad0431eefd4d9fde9ae35f4f031c75fdf93c22d9e25ed1cb4bc102ee6e67aa",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg1MC9vcmlnaW5hbF9iNjBkZjVkNzM0ZDc5MGZmZTc4YmQxNDhmMDJjNmI2My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b60df5d734d790ffe78bd148f02c6b63.jpg"
+    },
+    {
+      "path": "assets/display-web-original-83f815384c505101dfddc7d7-83f815384c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Japanese Covers",
+      "bytes": 313106,
+      "sha256": "cf123831e93c56573643b28fb7c087aaaba6ac94c2389c5d714dbe5f735ce087",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-83f815384c505101dfddc7d7.jpg",
+        "sourceSha256": "83f815384c505101dfddc7d73b455bfb090333d8f985675481532bce8f5d34f1",
+        "originalBytes": 762207,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-03-05T15:46:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168850",
+    "title": "hcka8bxaoaadzcg.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168850,
+      "url": "https://www.are.na/block/44168850",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcka8bxaoaadzcg.jpeg",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-03-05T15:46:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcka8bxaoaadzcg.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Japanese Covers",
+    "text": "28103-102318\nCLUTCH\n1324/428/5.26/6.23\nOF ABSENCE.\nFOr\n3:30\nby O\nh\n****R\niRit\n# 101",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cf123831e93c56573643b28fb7c087aaaba6ac94c2389c5d714dbe5f735ce087"
+  }
+}

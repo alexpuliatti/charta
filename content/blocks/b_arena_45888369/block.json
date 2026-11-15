@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888369",
+  "type": "image",
+  "title": "Knowledge Folders",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "knowledge-folders",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d69ee5ee30556f6379538f50.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Knowledge Folders",
+      "role": "original",
+      "bytes": 180152,
+      "sha256": "d69ee5ee30556f6379538f50e0004b203d2912db92958dd806e2aae902303a93",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888369/original_ae930eeba25d536f7427d0b817a1fe6a.jpeg",
+      "originalName": "ae930eeba25d536f7427d0b817a1fe6a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e03716dc8e47418fc89e33aa.webp",
+      "mimeType": "image/webp",
+      "alt": "Knowledge Folders",
+      "role": "thumbnail",
+      "bytes": 6614,
+      "sha256": "e03716dc8e47418fc89e33aa6e3412991a04fc15755c624db2dd5c31987da5a2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM2OS9vcmlnaW5hbF9hZTkzMGVlYmEyNWQ1MzZmNzQyN2QwYjgxN2ExZmU2YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ae930eeba25d536f7427d0b817a1fe6a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-d69ee5ee30556f6379538f50-d69ee5ee30.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Knowledge Folders",
+      "bytes": 64340,
+      "sha256": "8a0abfb8eb5ddb82669004a96e9c25f5a5bc1cc83562ca750b03007006d17168",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d69ee5ee30556f6379538f50.jpg",
+        "sourceSha256": "d69ee5ee30556f6379538f50e0004b203d2912db92958dd806e2aae902303a93",
+        "originalBytes": 180152,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:14:46.000Z",
+  "updatedAt": "2026-05-06T12:14:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888369",
+    "title": "hejapi0amaaob8g.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888369,
+      "url": "https://www.are.na/block/45888369",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hejapi0amaaob8g.jpeg",
+      "createdAt": "2026-05-06T12:14:46Z",
+      "updatedAt": "2026-05-06T12:14:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hejapi0amaaob8g.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Knowledge Folders",
+    "text": "=\nKnowledge Base\nQ\nSearch...\n+\nFolders\n• General Knowledge\nOnboarding\nSubfolder 1\nSubfolder 2\nIntegrations\nDocuments\n• Onboarding Design\n• Team Interviews\nTags\n10\n3\n5\n10\nGeneral Knowledge v\nFolders\nOnboarding\n15 Files\nIntegrations\n5 Files\nDocu\n10 l\nFiles\nName\nAdded By\n• Onboarding-Guide.pdf\nkevin@mail.com\n• Product-Roadmap.docx\nA\nantonwe@gmail.com",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8a0abfb8eb5ddb82669004a96e9c25f5a5bc1cc83562ca750b03007006d17168"
+  }
+}

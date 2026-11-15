@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942215",
+  "type": "image",
+  "title": "Blue Geometry",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "blue-geometry",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6f8145ec312d538b2883fd05.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Blue Geometry",
+      "role": "original",
+      "bytes": 436394,
+      "sha256": "6f8145ec312d538b2883fd0500b1cb8ec3e63674e210d5aee4ce716102843920",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942215/original_cdd02a0a11925f189b787f32da3832f2.jpeg",
+      "originalName": "cdd02a0a11925f189b787f32da3832f2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a622a6ee8126c4c188a63d73.webp",
+      "mimeType": "image/webp",
+      "alt": "Blue Geometry",
+      "role": "thumbnail",
+      "bytes": 2138,
+      "sha256": "a622a6ee8126c4c188a63d73076303e2bb50b6ea8cb68ef65334e46fca5fc862",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIxNS9vcmlnaW5hbF9jZGQwMmEwYTExOTI1ZjE4OWI3ODdmMzJkYTM4MzJmMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "cdd02a0a11925f189b787f32da3832f2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6f8145ec312d538b2883fd05-6f8145ec31.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Blue Geometry",
+      "bytes": 78436,
+      "sha256": "6a2d99c27b246fc53cc79baf318f98862a465fc4174552d6c2f835a0311c8c8f",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6f8145ec312d538b2883fd05.jpg",
+        "sourceSha256": "6f8145ec312d538b2883fd0500b1cb8ec3e63674e210d5aee4ce716102843920",
+        "originalBytes": 436394,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:32.000Z",
+  "updatedAt": "2026-05-08T09:25:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942215",
+    "title": "hhngaembkaa2d2e.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942215,
+      "url": "https://www.are.na/block/45942215",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhngaembkaa2d2e.jpeg",
+      "createdAt": "2026-05-08T09:25:32Z",
+      "updatedAt": "2026-05-08T09:25:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhngaembkaa2d2e.jpeg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Blue Geometry",
+    "text": "THE WORK BEGINS.\nCOMPUTATIONAL MATERIALS\nINFRASTRUCTURE; SIMULATION-\nBASED DISCOVERY\nATOMIC TESSELLATOR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6a2d99c27b246fc53cc79baf318f98862a465fc4174552d6c2f835a0311c8c8f"
+  }
+}

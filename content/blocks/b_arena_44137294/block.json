@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137294",
+  "type": "image",
+  "title": "Cavern Theatre",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "cavern-theatre",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-82734f7fd9cf49f5d473b7ac.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Cavern Theatre",
+      "role": "original",
+      "bytes": 300230,
+      "sha256": "82734f7fd9cf49f5d473b7acb53085966cf0636c36a0a54d85cfbf3b25b3f1ad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137294/original_525fd492ca2695f8ff596dea732cce0a.jpg",
+      "originalName": "525fd492ca2695f8ff596dea732cce0a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-817aec908a156ad21d2456b7.webp",
+      "mimeType": "image/webp",
+      "alt": "Cavern Theatre",
+      "role": "thumbnail",
+      "bytes": 26284,
+      "sha256": "817aec908a156ad21d2456b78807cc5453909e40d314daf7f388f33247316247",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI5NC9vcmlnaW5hbF81MjVmZDQ5MmNhMjY5NWY4ZmY1OTZkZWE3MzJjY2UwYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "525fd492ca2695f8ff596dea732cce0a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-82734f7fd9cf49f5d473b7ac-82734f7fd9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Cavern Theatre",
+      "bytes": 274536,
+      "sha256": "61a1915825a69c7fa883d0eddf8727be31da9bdfd377ac77a1c82c78356f5e38",
+      "width": 1179,
+      "height": 1465,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-82734f7fd9cf49f5d473b7ac.jpg",
+        "sourceSha256": "82734f7fd9cf49f5d473b7acb53085966cf0636c36a0a54d85cfbf3b25b3f1ad",
+        "originalBytes": 300230,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:16.000Z",
+  "updatedAt": "2026-03-04T15:46:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137294",
+    "title": "_numeroventi_-20251019_180834-2061877236.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137294,
+      "url": "https://www.are.na/block/44137294",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_numeroventi_-20251019_180834-2061877236.jpg",
+      "createdAt": "2026-03-04T15:46:16Z",
+      "updatedAt": "2026-03-04T15:46:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_numeroventi_-20251019_180834-2061877236.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cavern Theatre",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "61a1915825a69c7fa883d0eddf8727be31da9bdfd377ac77a1c82c78356f5e38"
+  }
+}

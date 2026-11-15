@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136989",
+  "type": "image",
+  "title": "Citation Eighteen",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "citation-eighteen",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-582174b2c45ca5cd4b2a5087.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Citation Eighteen",
+      "role": "original",
+      "bytes": 503620,
+      "sha256": "582174b2c45ca5cd4b2a5087d75166d6f5e8fdb1cd646d9257c61dbd0f8d4342",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136989/original_355e75ae452c06cde5bdb451d3c9638f.jpg",
+      "originalName": "355e75ae452c06cde5bdb451d3c9638f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-78777ab859296593b7e3a88c.webp",
+      "mimeType": "image/webp",
+      "alt": "Citation Eighteen",
+      "role": "thumbnail",
+      "bytes": 3632,
+      "sha256": "78777ab859296593b7e3a88c23a7e867ea193fd6a7a2a356626c0e1b6d68ea60",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk4OS9vcmlnaW5hbF8zNTVlNzVhZTQ1MmMwNmNkZTViZGI0NTFkM2M5NjM4Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "355e75ae452c06cde5bdb451d3c9638f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-582174b2c45ca5cd4b2a5087-582174b2c4.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Citation Eighteen",
+      "bytes": 444758,
+      "sha256": "ce643933c5c8322f8d126200b3c37d79da1d620cec06e1af3cc09203fd930093",
+      "width": 1500,
+      "height": 1949,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-582174b2c45ca5cd4b2a5087.jpg",
+        "sourceSha256": "582174b2c45ca5cd4b2a5087d75166d6f5e8fdb1cd646d9257c61dbd0f8d4342",
+        "originalBytes": 503620,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:42.000Z",
+  "updatedAt": "2026-03-04T15:36:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136989",
+    "title": "hakwuzraoaa8dl2.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136989,
+      "url": "https://www.are.na/block/44136989",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hakwuzraoaa8dl2.jpeg",
+      "createdAt": "2026-03-04T15:36:42Z",
+      "updatedAt": "2026-03-04T15:36:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hakwuzraoaa8dl2.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Citation Eighteen",
+    "text": "harman/kardon\n25 MICROSECOND:\nMOTORLEO\nMONITOR OUTPUT\nCitation Eighteen\nCitation 18\nFM tuner\nMUTE\nharman/kardon",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ce643933c5c8322f8d126200b3c37d79da1d620cec06e1af3cc09203fd930093"
+  }
+}

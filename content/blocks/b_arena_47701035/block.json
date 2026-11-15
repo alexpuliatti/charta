@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701035",
+  "type": "image",
+  "title": "Lake Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "lake-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8e768658659e76325fb36795.png",
+      "mimeType": "image/png",
+      "alt": "Lake Jacket",
+      "role": "original",
+      "bytes": 1209423,
+      "sha256": "8e768658659e76325fb36795907ac761f29bee0e066294dec09f4eb8e59578bb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701035/original_04b8ccf500dc3c60bf0d9edad792e75d.png",
+      "originalName": "04b8ccf500dc3c60bf0d9edad792e75d.png"
+    },
+    {
+      "path": "assets/thumbnail-ce1706e6753a16ccf996d587.webp",
+      "mimeType": "image/webp",
+      "alt": "Lake Jacket",
+      "role": "thumbnail",
+      "bytes": 8790,
+      "sha256": "ce1706e6753a16ccf996d58780a92e4bc5b653a8b1ab3c3d6d5b0ffe92658bec",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAzNS9vcmlnaW5hbF8wNGI4Y2NmNTAwZGMzYzYwYmYwZDllZGFkNzkyZTc1ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "04b8ccf500dc3c60bf0d9edad792e75d.png"
+    },
+    {
+      "path": "assets/display-web-original-8e768658659e76325fb36795-8e76865865.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Lake Jacket",
+      "bytes": 62752,
+      "sha256": "36319cf9fb42a0466b0dfc65a1872bee27f08949a5f5dca830b7feab0a1df367",
+      "width": 874,
+      "height": 1252,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8e768658659e76325fb36795.png",
+        "sourceSha256": "8e768658659e76325fb36795907ac761f29bee0e066294dec09f4eb8e59578bb",
+        "originalBytes": 1209423,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:28.000Z",
+  "updatedAt": "2026-07-08T14:56:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701035",
+    "title": "Screenshot 2023-09-12 alle 17.04.11",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701035,
+      "url": "https://www.are.na/block/47701035",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.04.11",
+      "createdAt": "2026-07-08T14:56:28Z",
+      "updatedAt": "2026-07-08T14:56:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.04.11",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Lake Jacket",
+    "text": "The\nLady\nin the\nuake\nThe Lady\nN THR: LaKe\nRAYMOND\nCHANDLER\nBORZOL\nBOOKS\nALFRED •A*\nKNOPF\nRAYMOND CHANDLER\nA PHILIP MARLOWE MYSTERY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "36319cf9fb42a0466b0dfc65a1872bee27f08949a5f5dca830b7feab0a1df367"
+  }
+}

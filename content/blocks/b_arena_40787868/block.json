@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787868",
+  "type": "image",
+  "title": "Artful Living",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "artful-living",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-89b82b0eb69d6f1dd4029590.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Artful Living",
+      "role": "original",
+      "bytes": 803880,
+      "sha256": "89b82b0eb69d6f1dd4029590d0cec3078e4fd5d287d61114485e4b6d1e46f724",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787868/original_f74a889939c59e4985a52c625faee042.jpg",
+      "originalName": "f74a889939c59e4985a52c625faee042.jpg"
+    },
+    {
+      "path": "assets/thumbnail-1cc414f90a4bef45aedaba85.webp",
+      "mimeType": "image/webp",
+      "alt": "Artful Living",
+      "role": "thumbnail",
+      "bytes": 20882,
+      "sha256": "1cc414f90a4bef45aedaba854600a19e1fbdab28cdc0f93215b2666b77e744f3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg2OC9vcmlnaW5hbF9mNzRhODg5OTM5YzU5ZTQ5ODVhNTJjNjI1ZmFlZTA0Mi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f74a889939c59e4985a52c625faee042.jpg"
+    },
+    {
+      "path": "assets/display-web-original-89b82b0eb69d6f1dd4029590-89b82b0eb6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Artful Living",
+      "bytes": 459638,
+      "sha256": "612f10aff764d6c0c2780eb2842e1322bf835fdbd6edd7251643b211b453e5b2",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-89b82b0eb69d6f1dd4029590.jpg",
+        "sourceSha256": "89b82b0eb69d6f1dd4029590d0cec3078e4fd5d287d61114485e4b6d1e46f724",
+        "originalBytes": 803880,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:02:29.000Z",
+  "updatedAt": "2025-11-02T16:02:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787868",
+    "title": "topclosings-20250407_014837-2780442908.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787868,
+      "url": "https://www.are.na/block/40787868",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "topclosings-20250407_014837-2780442908.jpg",
+      "createdAt": "2025-11-02T16:02:29Z",
+      "updatedAt": "2025-11-02T16:02:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "topclosings-20250407_014837-2780442908.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Artful Living",
+    "text": "10560",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "612f10aff764d6c0c2780eb2842e1322bf835fdbd6edd7251643b211b453e5b2"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473955",
+  "type": "link",
+  "title": "Locale Fonts",
+  "description": "Preview sentences across locally available font families using the browser’s Local Font Access API.",
+  "category": "Graphic design",
+  "tags": [
+    "fonts",
+    "local-font-access",
+    "typography"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-13e22cd6d4289b991b67a2de.webp",
+      "mimeType": "image/webp",
+      "alt": "Locale | Josh Puckett",
+      "role": "thumbnail",
+      "bytes": 1626,
+      "sha256": "13e22cd6d4289b991b67a2de391a2a2e00f0b2a55f459c6f39eed204de7205a5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk1NS9vcmlnaW5hbF8wNTJlMzEwMzQxYjk3ZDEzOGZkNDAwZmM0ZGI5ZjU1MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "052e310341b97d138fd400fc4db9f550.png"
+    },
+    {
+      "path": "assets/preview-108fc4b47ca7a4ac522d06ac.webp",
+      "mimeType": "image/webp",
+      "alt": "Locale | Josh Puckett",
+      "role": "preview",
+      "bytes": 31094,
+      "sha256": "108fc4b47ca7a4ac522d06ac4e5a75465481532f17f8a9b6eca7f5a3a1439b80",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473955/original_052e310341b97d138fd400fc4db9f550.png",
+      "originalName": "052e310341b97d138fd400fc4db9f550.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 79621,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:03.000Z",
+  "updatedAt": "2026-05-25T10:58:09.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://joshpuckett.me/locale",
+    "title": "Locale | Josh Puckett",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473955,
+      "url": "https://www.are.na/block/46473955",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Locale | Josh Puckett",
+      "createdAt": "2026-05-25T10:58:03Z",
+      "updatedAt": "2026-05-25T10:58:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Locale | Josh Puckett",
+      "category": "Tools and resources",
+      "tags": [
+        "typography",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137286",
+  "type": "image",
+  "title": "Quarry Performance",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "quarry-performance",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-84319d92624b68b41218851c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quarry Performance",
+      "role": "original",
+      "bytes": 117543,
+      "sha256": "84319d92624b68b41218851c08bbbfd47433df30dd7d09d41a998ced459d7b76",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137286/original_7a893d7c3f43a9f392e5d16be4d3e88c.jpg",
+      "originalName": "7a893d7c3f43a9f392e5d16be4d3e88c.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3f504b6a2002609fc0f3e14a.webp",
+      "mimeType": "image/webp",
+      "alt": "Quarry Performance",
+      "role": "thumbnail",
+      "bytes": 9134,
+      "sha256": "3f504b6a2002609fc0f3e14a5a1fbd11627a063007f5e358ac84c3c868fb25e3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI4Ni9vcmlnaW5hbF83YTg5M2Q3YzNmNDNhOWYzOTJlNWQxNmJlNGQzZTg4Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7a893d7c3f43a9f392e5d16be4d3e88c.jpg"
+    },
+    {
+      "path": "assets/display-web-original-84319d92624b68b41218851c-84319d9262.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quarry Performance",
+      "bytes": 73434,
+      "sha256": "59e24ec33ea5189aeccc46aab5d8ef4e6d2c43b034f96bdb48c1e68c8d07c887",
+      "width": 1179,
+      "height": 1465,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-84319d92624b68b41218851c.jpg",
+        "sourceSha256": "84319d92624b68b41218851c08bbbfd47433df30dd7d09d41a998ced459d7b76",
+        "originalBytes": 117543,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:15.000Z",
+  "updatedAt": "2026-03-04T15:46:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137286",
+    "title": "_numeroventi_-20251019_180834-2061877232.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137286,
+      "url": "https://www.are.na/block/44137286",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_numeroventi_-20251019_180834-2061877232.jpg",
+      "createdAt": "2026-03-04T15:46:15Z",
+      "updatedAt": "2026-03-04T15:46:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_numeroventi_-20251019_180834-2061877232.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quarry Performance",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "59e24ec33ea5189aeccc46aab5d8ef4e6d2c43b034f96bdb48c1e68c8d07c887"
+  }
+}

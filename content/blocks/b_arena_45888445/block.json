@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888445",
+  "type": "image",
+  "title": "Green Directory",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "green-directory",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1c2c9e0f92f363fd54856fed.png",
+      "mimeType": "image/png",
+      "alt": "Green Directory",
+      "role": "original",
+      "bytes": 71253,
+      "sha256": "1c2c9e0f92f363fd54856fed3c6086c7d4b79176d2f1b85c8459950c609138aa",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888445/original_ff746a716ae249ae8960c54adce958e5.png",
+      "originalName": "ff746a716ae249ae8960c54adce958e5.png"
+    },
+    {
+      "path": "assets/thumbnail-d07c29e9650bda6191b3ecb7.webp",
+      "mimeType": "image/webp",
+      "alt": "Green Directory",
+      "role": "thumbnail",
+      "bytes": 7834,
+      "sha256": "d07c29e9650bda6191b3ecb77e6df3e4d87fef34d430a987b534f7c5ee3911b1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0NS9vcmlnaW5hbF9mZjc0NmE3MTZhZTI0OWFlODk2MGM1NGFkY2U5NThlNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ff746a716ae249ae8960c54adce958e5.png"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:08.000Z",
+  "updatedAt": "2026-05-06T12:17:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888445",
+    "title": "original_5d66dd54211557d171cbd0c1870d52fe.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888445,
+      "url": "https://www.are.na/block/45888445",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_5d66dd54211557d171cbd0c1870d52fe.png",
+      "createdAt": "2026-05-06T12:17:08Z",
+      "updatedAt": "2026-05-06T12:17:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_5d66dd54211557d171cbd0c1870d52fe.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Green Directory",
+    "text": "Gossip's Web\nThe Sleeper\nHobby Group\nMarwan\nSpecies\nWreath\nFranklin Street\nMetropolitan Structures\nRope\n63rd-77th STEPS\nLISZT\nCave 3000\nDuck\nOracle\nThe Orchards\nHouse\nBeautiful\nBorn Nude\nEgg\nObst\nPrairie\nSQ\nBebi\nDrawing Homework\nLeft\nLock Up International\nNew Scenario\nNo Body Likes Being\nPretty Days\nPublishing House\nRoberta\nPied-à-terre\nHoly Motors\n3236RLS\ndsdsdsds\nJupiter Woods\nMontague\nChin's Push\nReserve Ames\nCentre for Style\nPunk Cafe\nMelbourne Offsite Index\nLodos\nAlameda\nAllen Park\nAmsterdam\nAtlanta\nAtlanta\nBaltimore\nBaltimore\nBaltimore\nBari\nBerlin\nBerlin\nBerlin\nBerlin\nBoring, Oregon\nCarrollton\nChicago\nChicago\nChicago\nChicago\nChicago\nEarth\nEarth\nEarth\nEarth\nEarth\nEarth\nEarth\nEarth\nEarth\nFrankfurt\nHalf Moon Bay\nHong Kong\nLondon\nLondon\nLondon\nLondon\nLos Angeles\nLos Angeles\nMelbourne\nMelbourne\nMelbourne\nMexico City\nrip punkcafe.net\nthesleeper.info\nhobbygroup.info\nmarwanmarwan.com\ninter-species.us\nwreath-atl.us\nfranklinstreet.info\nmetropolitanstructures.org\n508rope.net\n63rd77thsteps.com\nlisztliszt.de\nnatasjaloutchko.se\ntheduck.cc\ntheoracle.works\ntheorchards.us\nhouse-gallery.tumblr.com\nbeautifulgallery.us\nbornnu.de\neggg-co\nobst.cloud\nprairie. website\nsquashclub.biz\nbebispace.com\ndrawinghomework.net\nleft. gallery\nlockupinternational.com\nnewscenario.net\nnobodylikesbeing.com\nprettydays.life\npublishing-house.me\nroberta-projects.tumblr.com\npied-terre.com\nholymotorsproject.com\n3236rls.com\nesdsdsds.co.uk\njupiterwoods.com\nmontague space\nchinspush.com\nreserveames.com\ncentreforstyle.org\npunkcafe.net\nmelbourneoffsiteindex.org\nlodosgallerv.info",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1c2c9e0f92f363fd54856fed3c6086c7d4b79176d2f1b85c8459950c609138aa"
+  }
+}

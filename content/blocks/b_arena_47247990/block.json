@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247990",
+  "type": "image",
+  "title": "Architectural Dataset",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "architectural-dataset",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6d8cf40b7a920af409c25045.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Architectural Dataset",
+      "role": "original",
+      "bytes": 1000200,
+      "sha256": "6d8cf40b7a920af409c250456f24a4a34d0675d620080bac17b279e02d42e1a6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247990/original_16c7a11dd801a5cfdf7e2074a5b56e4b.jpeg",
+      "originalName": "16c7a11dd801a5cfdf7e2074a5b56e4b.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e8b6d764e3945f9c0188b9f2.webp",
+      "mimeType": "image/webp",
+      "alt": "Architectural Dataset",
+      "role": "thumbnail",
+      "bytes": 5168,
+      "sha256": "e8b6d764e3945f9c0188b9f2fe179a7f4e42a94cd30066e0adeb5e019746c68d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzk5MC9vcmlnaW5hbF8xNmM3YTExZGQ4MDFhNWNmZGY3ZTIwNzRhNWI1NmU0Yi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "16c7a11dd801a5cfdf7e2074a5b56e4b.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6d8cf40b7a920af409c25045-6d8cf40b7a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Architectural Dataset",
+      "bytes": 143822,
+      "sha256": "905f4e30870d435c0c363f2c4fcacacc6b8e03b22f1a49a9a914e6d99039aa58",
+      "width": 1920,
+      "height": 1230,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6d8cf40b7a920af409c25045.jpg",
+        "sourceSha256": "6d8cf40b7a920af409c250456f24a4a34d0675d620080bac17b279e02d42e1a6",
+        "originalBytes": 1000200,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:39.000Z",
+  "updatedAt": "2026-06-23T14:30:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247990",
+    "title": "HHH0tUnWQAAf_lg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247990,
+      "url": "https://www.are.na/block/47247990",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HHH0tUnWQAAf_lg",
+      "createdAt": "2026-06-23T14:30:39Z",
+      "updatedAt": "2026-06-23T14:30:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HHH0tUnWQAAf_lg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Architectural Dataset",
+    "text": "LANDFALL. NOR 81\nPLATE • 8• EXPLODED SOMETRIC SCHEMAI\nFIELD. 1280×828 • STRATA 8 0 27 1 067 EXPLOr\nSe SOURCE PLATE\nSTATE A READY\nFLN • 121\nSO PRESETS\ncoastat taveri\nSeafloor Study\nTerrain Renory\nData Landscaon\ncoronasas stack\nnaratase Arcosy\nMidden Sustend\n9S\"EXPORTI\nPNG \" TRANSPARENT\nJS9N PRESET\nHidden systems beneath the surface\nSEALE • 8 4* 39 VEI\nFLOATING GIAL • TOP-RIGNT\n* MADE VISEELE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "905f4e30870d435c0c363f2c4fcacacc6b8e03b22f1a49a9a914e6d99039aa58"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136543",
+  "type": "image",
+  "title": "Spiral Monogram",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "spiral-monogram",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9a3aa49270a770323ebf5b0f.png",
+      "mimeType": "image/png",
+      "alt": "Spiral Monogram",
+      "role": "original",
+      "bytes": 2685328,
+      "sha256": "9a3aa49270a770323ebf5b0f9dc36b1f2f764f4a5cfe3d78a6ad4fe135d3f37b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136543/original_9bd58e0e2d933ed5c9f5698cd852f6ce.png",
+      "originalName": "9bd58e0e2d933ed5c9f5698cd852f6ce.png"
+    },
+    {
+      "path": "assets/thumbnail-a429a02110d775c113ebafbb.webp",
+      "mimeType": "image/webp",
+      "alt": "Spiral Monogram",
+      "role": "thumbnail",
+      "bytes": 3150,
+      "sha256": "a429a02110d775c113ebafbb7ff7b17a584f52d5e5c2f2f95d428d4cd2be77a7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjU0My9vcmlnaW5hbF85YmQ1OGUwZTJkOTMzZWQ1YzlmNTY5OGNkODUyZjZjZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9bd58e0e2d933ed5c9f5698cd852f6ce.png"
+    },
+    {
+      "path": "assets/display-web-original-9a3aa49270a770323ebf5b0f-9a3aa49270.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Spiral Monogram",
+      "bytes": 37520,
+      "sha256": "8f993002455932eb28f9cc3a27f636afa45f9a3d7e51b634dfb84b5bc6287c9e",
+      "width": 1408,
+      "height": 1888,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9a3aa49270a770323ebf5b0f.png",
+        "sourceSha256": "9a3aa49270a770323ebf5b0f9dc36b1f2f764f4a5cfe3d78a6ad4fe135d3f37b",
+        "originalBytes": 2685328,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:23:37.000Z",
+  "updatedAt": "2026-03-04T15:23:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136543",
+    "title": "screenshot-2026-03-04-alle-16.18.42.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136543,
+      "url": "https://www.are.na/block/44136543",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.18.42.png",
+      "createdAt": "2026-03-04T15:23:37Z",
+      "updatedAt": "2026-03-04T15:23:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.18.42.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Spiral Monogram",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8f993002455932eb28f9cc3a27f636afa45f9a3d7e51b634dfb84b5bc6287c9e"
+  }
+}

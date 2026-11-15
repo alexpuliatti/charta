@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247859",
+  "type": "image",
+  "title": "Knowledge Graph",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "knowledge-graph",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ec8c59d759b803364703db15.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Knowledge Graph",
+      "role": "original",
+      "bytes": 20609,
+      "sha256": "ec8c59d759b803364703db153ce9789d1e7ea908e025da9002492a14efb51910",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247859/original_ad2e20b3019a7ad2e56299ec081e8fd9.jpeg",
+      "originalName": "ad2e20b3019a7ad2e56299ec081e8fd9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-87c0fa7dca27be731159048e.webp",
+      "mimeType": "image/webp",
+      "alt": "Knowledge Graph",
+      "role": "thumbnail",
+      "bytes": 4420,
+      "sha256": "87c0fa7dca27be731159048ef2173e89f737fbb0e8fbd5a85bc146462f00741e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg1OS9vcmlnaW5hbF9hZDJlMjBiMzAxOWE3YWQyZTU2Mjk5ZWMwODFlOGZkOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ad2e20b3019a7ad2e56299ec081e8fd9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ec8c59d759b803364703db15-ec8c59d759.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Knowledge Graph",
+      "bytes": 15122,
+      "sha256": "f4a9da47e2052a6d89702ac6735e4ff67c356ec07e797120d9b2b9916db3571a",
+      "width": 736,
+      "height": 394,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ec8c59d759b803364703db15.jpg",
+        "sourceSha256": "ec8c59d759b803364703db153ce9789d1e7ea908e025da9002492a14efb51910",
+        "originalBytes": 20609,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:27:53.000Z",
+  "updatedAt": "2026-06-23T14:27:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247859",
+    "title": "038b4677c77bd350d130929ea82018ce",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247859,
+      "url": "https://www.are.na/block/47247859",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "038b4677c77bd350d130929ea82018ce",
+      "createdAt": "2026-06-23T14:27:53Z",
+      "updatedAt": "2026-06-23T14:27:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "038b4677c77bd350d130929ea82018ce",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Knowledge Graph",
+    "text": "I TECHNOLOOY\nSUZIE Q\nID: 216\nID: 216\n04.30.2011V\n22:21:48 PST",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f4a9da47e2052a6d89702ac6735e4ff67c356ec07e797120d9b2b9916db3571a"
+  }
+}

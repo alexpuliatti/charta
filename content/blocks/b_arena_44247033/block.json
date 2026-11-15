@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247033",
+  "type": "image",
+  "title": "Reflective Poster",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "reflective-poster",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-98bf642a6df3189f76ffc7fd.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Reflective Poster",
+      "role": "original",
+      "bytes": 137438,
+      "sha256": "98bf642a6df3189f76ffc7fd1403e2fa067eb98ba5ea999df8bba737e6ea5e1b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247033/original_17f790d17284d6a4e6fe562b0eb6d197.jpg",
+      "originalName": "17f790d17284d6a4e6fe562b0eb6d197.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f6f9bfbb000443a87195833f.webp",
+      "mimeType": "image/webp",
+      "alt": "Reflective Poster",
+      "role": "thumbnail",
+      "bytes": 4150,
+      "sha256": "f6f9bfbb000443a87195833faeb3fc78ab9d992adc0dfe27640cb1b51d06c18e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzAzMy9vcmlnaW5hbF8xN2Y3OTBkMTcyODRkNmE0ZTZmZTU2MmIwZWI2ZDE5Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "17f790d17284d6a4e6fe562b0eb6d197.jpg"
+    },
+    {
+      "path": "assets/display-web-original-98bf642a6df3189f76ffc7fd-98bf642a6d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Reflective Poster",
+      "bytes": 120202,
+      "sha256": "c82fa7a1f2250aac60014207cedb7da62a918eb44c4e3e5277b4394da7df75c6",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-98bf642a6df3189f76ffc7fd.jpg",
+        "sourceSha256": "98bf642a6df3189f76ffc7fd1403e2fa067eb98ba5ea999df8bba737e6ea5e1b",
+        "originalBytes": 137438,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:29:59.000Z",
+  "updatedAt": "2026-03-08T22:30:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247033",
+    "title": "4fc6a4cbe56ac872e5ba4d67d05d42f0.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247033,
+      "url": "https://www.are.na/block/44247033",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "4fc6a4cbe56ac872e5ba4d67d05d42f0.jpg",
+      "createdAt": "2026-03-08T22:29:59Z",
+      "updatedAt": "2026-03-08T22:30:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "4fc6a4cbe56ac872e5ba4d67d05d42f0.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Reflective Poster",
+    "text": "OAMC ®\nFALL / WINTER 2020\n15.01.20, 6:38 PM\nLYCÉE CAMILLE SÉE\n36 RUE MADEMOISELLE\n75015 PARIS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c82fa7a1f2250aac60014207cedb7da62a918eb44c4e3e5277b4394da7df75c6"
+  }
+}

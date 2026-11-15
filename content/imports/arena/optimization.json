@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "processor": "jelly-media-1",
+  "startedAt": "2026-11-15T11:34:58.921Z",
+  "tools": {
+    "pillow": "11.3.0",
+    "ffmpegVersion": "7.1"
+  },
+  "settings": {
+    "image": {
+      "format": "webp",
+      "maxLongEdge": 2000,
+      "quality": 84,
+      "method": 6,
+      "alpha": "preserved",
+      "exifOrientation": "applied",
+      "animated": "preserve-original"
+    },
+    "video": {
+      "format": "mp4",
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "maxLongEdge": 1280,
+      "maxFps": 30,
+      "crf": 25,
+      "preset": "medium",
+      "threads": 2,
+      "fastStart": true
+    }
+  },
+  "images": {
+    "candidates": 663,
+    "optimized": 624,
+    "cached": 0,
+    "animatedOriginal": 11,
+    "smallerOriginal": 28,
+    "failed": 0
+  },
+  "videos": {
+    "candidates": 93,
+    "optimized": 73,
+    "cached": 0,
+    "smallerOriginal": 20,
+    "failed": 0
+  },
+  "originalBytes": 1179370939,
+  "browserBytes": 398406071,
+  "bytesSavedForBrowser": 780964868,
+  "issues": [],
+  "completedAt": "2026-11-15T11:41:24.811Z"
+}

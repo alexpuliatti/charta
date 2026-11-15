@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40767701",
+  "type": "text",
+  "title": "Gesture Instrument",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "gesture-control",
+    "touchdesigner",
+    "music"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2025-11-01T11:53:04.000Z",
+  "updatedAt": "2025-11-01T11:53:04.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read saved note or tweet body; title names its actual subject."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40767701",
+    "title": "Text · utopia · 40767701",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40767701,
+      "url": "https://www.are.na/block/40767701",
+      "type": "Text",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2025-11-01T11:53:04Z",
+      "updatedAt": "2025-11-01T11:53:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "bodyPath": "body.md",
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Instruments",
+    "genre": "note",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Text · utopia · 40767701",
+      "category": "Speculative design",
+      "tags": [
+        "interaction-design",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

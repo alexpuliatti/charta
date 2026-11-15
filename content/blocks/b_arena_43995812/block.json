@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995812",
+  "type": "link",
+  "title": "Howqua Lodge",
+  "description": "“Howqua River Lodge has been a passion project for many years - a luxury and self-sufficient retreat immersed in the wilds of the Victorian Alps. This place, deeply connected to my family for generations, holds great personal significance. It has been an honour to introduce this extraordinary landscape to my practice and collaborators. Together, we designed and built Howqua River Lodge as a place to gather and enjoy life’s most precious moments. Living here is a rewarding, nurturing, and transformative experience.”",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "retreat",
+    "nature"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-cb4fc9e5949c75b79c2a1db0.webp",
+      "mimeType": "image/webp",
+      "alt": "Howqua River Lodge | Portfolio | Rob Mills Architects",
+      "role": "thumbnail",
+      "bytes": 9542,
+      "sha256": "cb4fc9e5949c75b79c2a1db08081d877f69ab6e2cb841d16903d54a0117f4956",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgxMi9vcmlnaW5hbF8yMDIyMzNhYTQ1ZjQ3YWY2NmRlMjZhZDVhMTlhY2UzOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "202233aa45f47af66de26ad5a19ace38.png"
+    },
+    {
+      "path": "assets/preview-d2742c13edbcab94297a1cb1.webp",
+      "mimeType": "image/webp",
+      "alt": "Howqua River Lodge | Portfolio | Rob Mills Architects",
+      "role": "preview",
+      "bytes": 330416,
+      "sha256": "d2742c13edbcab94297a1cb1780b305ddcada626e429440aab5ee6f8ca859624",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995812/original_202233aa45f47af66de26ad5a19ace38.png",
+      "originalName": "202233aa45f47af66de26ad5a19ace38.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1147984,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:00:23.000Z",
+  "updatedAt": "2026-02-28T12:00:35.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.robmills.com.au/architecture/howqua-river-lodge",
+    "title": "Howqua River Lodge | Portfolio | Rob Mills Architects",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995812,
+      "url": "https://www.are.na/block/43995812",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Howqua River Lodge | Portfolio | Rob Mills Architects",
+      "createdAt": "2026-02-28T12:00:23Z",
+      "updatedAt": "2026-02-28T12:00:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Howqua River Lodge | Portfolio | Rob Mills Architects",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "nature",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44333957",
+  "type": "link",
+  "title": "Maxime Prananto",
+  "description": "Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world.",
+  "category": "Interface design",
+  "tags": [
+    "instagram",
+    "profile",
+    "visual-reference"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-5be9b5938e9307433a9479d3.webp",
+      "mimeType": "image/webp",
+      "alt": "Maxime Prananto",
+      "role": "thumbnail",
+      "bytes": 1898,
+      "sha256": "5be9b5938e9307433a9479d3289d3c3d33ff8bc05ee405dd6530e067a16806f2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDMzMzk1Ny9vcmlnaW5hbF9jNmY0YzVlODRjYTU3OGE0ZjhlNGQwMTRlYmFlYmM0OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c6f4c5e84ca578a4f8e4d014ebaebc49.png"
+    },
+    {
+      "path": "assets/preview-0732778f44778b80d38084d7.webp",
+      "mimeType": "image/webp",
+      "alt": "Login • Instagram",
+      "role": "preview",
+      "bytes": 24768,
+      "sha256": "0732778f44778b80d38084d772b5d33447124793b02ca514d06aa19cbc03266d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44333957/original_c6f4c5e84ca578a4f8e4d014ebaebc49.png",
+      "originalName": "c6f4c5e84ca578a4f8e4d014ebaebc49.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 81877,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T15:47:16.000Z",
+  "updatedAt": "2026-03-11T15:47:22.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and saved source description identify the artifact and its subject. Visually reviewed thumbnail is an Instagram login page. Only the profile handle is available; entity title is grounded in the URL, not post content. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+  },
+  "source": {
+    "url": "https://www.instagram.com/maximeprananto/?g=5",
+    "title": "Login • Instagram",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44333957,
+      "url": "https://www.are.na/block/44333957",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Login • Instagram",
+      "createdAt": "2026-03-11T15:47:16Z",
+      "updatedAt": "2026-03-11T15:47:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "portfolio",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "Login • Instagram",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

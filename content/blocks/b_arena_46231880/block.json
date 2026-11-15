@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46231880",
+  "type": "link",
+  "title": "MindMaze Careers",
+  "description": "MindMaze Therapeutics is redefining treatments, driving better outcomes, and improving lives. Join us on our exciting journey.",
+  "category": "Companies",
+  "tags": [
+    "neurotechnology",
+    "therapeutics",
+    "careers"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-4a8a23366148c245f3851aca.webp",
+      "mimeType": "image/webp",
+      "alt": "Careers - MindMaze Therapeutics",
+      "role": "thumbnail",
+      "bytes": 10616,
+      "sha256": "4a8a23366148c245f3851acafc59e47f5868408eddef9e9da622b6700dfa4ad4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjIzMTg4MC9vcmlnaW5hbF9mNDdmYTg0N2ZlYjhhMGVkYWNhOGQxYjM3OTRiN2QyMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f47fa847feb8a0edaca8d1b3794b7d20.png"
+    },
+    {
+      "path": "assets/preview-b7fe939ca671db778a0c6a98.webp",
+      "mimeType": "image/webp",
+      "alt": "Careers - MindMaze Therapeutics",
+      "role": "preview",
+      "bytes": 196462,
+      "sha256": "b7fe939ca671db778a0c6a98754941489b4299ab7682c73d87916eb357cb8a71",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46231880/original_f47fa847feb8a0edaca8d1b3794b7d20.png",
+      "originalName": "f47fa847feb8a0edaca8d1b3794b7d20.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2012387,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-16T08:39:16.000Z",
+  "updatedAt": "2026-05-16T08:39:45.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://mindmazetherapeutics.com/about/careers/",
+    "title": "Careers - MindMaze Therapeutics",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46231880,
+      "url": "https://www.are.na/block/46231880",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Careers - MindMaze Therapeutics",
+      "createdAt": "2026-05-16T08:39:16Z",
+      "updatedAt": "2026-05-16T08:39:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Careers - MindMaze Therapeutics",
+      "category": "Speculative design",
+      "tags": [
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

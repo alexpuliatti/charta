@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_interface_design_products",
+  "title": "Products",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_48329212"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_48329213"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247914"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247882"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247883"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247884"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247875"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247877"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46839879"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46839644"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46582913"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473935"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46150456"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46111325"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46111314"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46009108"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45897547"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45895046"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45895042"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45893277"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45893223"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892498"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890389"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890380"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890244"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889884"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889791"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888851"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888723"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888645"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888627"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888605"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888545"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888369"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888364"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888366"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340254"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340258"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340225"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44262701"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44247049"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44247054"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44241023"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44227376"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44177413"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44168847"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44168848"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44168851"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44168852"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144630"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144632"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144634"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144643"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44136542"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

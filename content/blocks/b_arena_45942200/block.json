@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45942200",
+  "type": "video",
+  "title": "Orbital Clock",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "orbital-clock",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-eb8e3b94583c2a69aa6309dc.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778232132639.mp4",
+      "role": "original",
+      "bytes": 6487660,
+      "sha256": "eb8e3b94583c2a69aa6309dcaa269ffcc4fa164a09805a2c6eaf3a3be1084796",
+      "sourceUrl": "https://attachments.are.na/45942200/0440ab45c87bef48b960c35feb820228.mp4",
+      "originalName": "0440ab45c87bef48b960c35feb820228.mp4"
+    },
+    {
+      "path": "assets/thumbnail-7710aec2ebe9430ff4e70462.webp",
+      "mimeType": "image/webp",
+      "alt": "Orbital Clock",
+      "role": "thumbnail",
+      "bytes": 2354,
+      "sha256": "7710aec2ebe9430ff4e70462438e6582146ac59b88420bd217f6f1bb7a259f6c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTk0MjIwMC9vcmlnaW5hbF84OWQxM2JiZDk2YzIxMTJmMjAyNjA1MDgtMi15NXN0Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "89d13bbd96c2112f20260508-2-y5st7.png"
+    },
+    {
+      "path": "assets/display-web-original-eb8e3b94583c2a69aa6309dc-eb8e3b9458.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778232132639.mp4",
+      "bytes": 1668391,
+      "sha256": "17275e3e29dae70986000633c80b1be970ed6f88023ed7640e0ce85cdc6db552",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-eb8e3b94583c2a69aa6309dc.mp4",
+        "sourceSha256": "eb8e3b94583c2a69aa6309dcaa269ffcc4fa164a09805a2c6eaf3a3be1084796",
+        "originalBytes": 6487660,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-5272869e3800a3ccd568456b.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778232132639.mp4",
+      "role": "preview",
+      "bytes": 92328,
+      "sha256": "5272869e3800a3ccd568456b717f24fe483a3fda844eea85ca183ca713b0002e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45942200/original_89d13bbd96c2112f20260508-2-y5st7.png",
+      "originalName": "89d13bbd96c2112f20260508-2-y5st7.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 447151,
+        "width": 2134,
+        "height": 1364,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-08T09:25:06.000Z",
+  "updatedAt": "2026-05-23T10:51:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45942200",
+    "title": "ssstwitter.com_1778232132639.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45942200,
+      "url": "https://www.are.na/block/45942200",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778232132639.mp4",
+      "createdAt": "2026-05-08T09:25:06Z",
+      "updatedAt": "2026-05-23T10:51:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778232132639.mp4",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orbital Clock",
+    "text": "Alabior the thines inal treatne",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7710aec2ebe9430ff4e70462438e6582146ac59b88420bd217f6f1bb7a259f6c"
+  }
+}

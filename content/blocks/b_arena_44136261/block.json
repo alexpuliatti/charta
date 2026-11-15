@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136261",
+  "type": "link",
+  "title": "Etoso Identity",
+  "description": "Etoso is an AI-powered research tool that navigates Sustainability data. It helps experts uncover hidden insights in complex reports - bringing clarity and empowering smarter decisions.The Design Foundation we've built for Etoso, draws inspiration from ...",
+  "category": "Graphic design",
+  "tags": [
+    "visual-identity",
+    "sustainability",
+    "research"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-70fb1b29652525c2e928bca5.webp",
+      "mimeType": "image/webp",
+      "alt": "Etoso",
+      "role": "thumbnail",
+      "bytes": 4830,
+      "sha256": "70fb1b29652525c2e928bca52db06fd52668a71a74730b4e2d441cd22af29186",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjI2MS9vcmlnaW5hbF9iMTg0OTBmMTUyM2M0NmM2ZWI0NDU3ODk3Njc2OWQxMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b18490f1523c46c6eb44578976769d10.jpg"
+    },
+    {
+      "path": "assets/preview-ecab884ced52e51f2dcf0f94.webp",
+      "mimeType": "image/webp",
+      "alt": "Etoso",
+      "role": "preview",
+      "bytes": 64038,
+      "sha256": "ecab884ced52e51f2dcf0f94136d2d9dc2c800f431706540c2436bb48f13607f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136261/original_b18490f1523c46c6eb44578976769d10.jpg",
+      "originalName": "b18490f1523c46c6eb44578976769d10.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 101541,
+        "width": 1400,
+        "height": 788,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:16:17.000Z",
+  "updatedAt": "2026-03-04T15:16:22.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.behance.net/gallery/234665423/Etoso",
+    "title": "Etoso",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136261,
+      "url": "https://www.are.na/block/44136261",
+      "type": "Embed",
+      "visibility": "public",
+      "originalTitle": "Etoso",
+      "createdAt": "2026-03-04T15:16:17Z",
+      "updatedAt": "2026-03-04T15:16:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Etoso",
+      "category": "Information design",
+      "tags": [
+        "research",
+        "artificial-intelligence",
+        "tools",
+        "inspiration",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

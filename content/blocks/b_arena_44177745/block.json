@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177745",
+  "type": "link",
+  "title": "Inflection Writings",
+  "description": "Writings of Inflection, a first check venture firm enabling sovereign computation. We back non-consensus engineering moonshots at the idea stage.",
+  "category": "Companies",
+  "tags": [
+    "venture-capital",
+    "deep-tech",
+    "essays"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-60daaf7c6af6a1e4696e6c66.webp",
+      "mimeType": "image/webp",
+      "alt": "Inflection",
+      "role": "thumbnail",
+      "bytes": 12954,
+      "sha256": "60daaf7c6af6a1e4696e6c667ab75cef974a7bfb9a7373b1282971b01047f63e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3Nzc0NS9vcmlnaW5hbF8xMzBiZDc4MmM3ZmQxYmZlYmI2OTJmODBjY2NmNzM4Yi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "130bd782c7fd1bfebb692f80cccf738b.png"
+    },
+    {
+      "path": "assets/preview-882bbecb5e5221c395b9a648.webp",
+      "mimeType": "image/webp",
+      "alt": "Inflection",
+      "role": "preview",
+      "bytes": 122206,
+      "sha256": "882bbecb5e5221c395b9a648a3459ae24b259af49648e98790fe178f58fd10e7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177745/original_130bd782c7fd1bfebb692f80cccf738b.png",
+      "originalName": "130bd782c7fd1bfebb692f80cccf738b.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 834903,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T20:01:48.000Z",
+  "updatedAt": "2026-03-05T20:02:24.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://inflection.fund/writings",
+    "title": "Inflection",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177745,
+      "url": "https://www.are.na/block/44177745",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Inflection",
+      "createdAt": "2026-03-05T20:01:48Z",
+      "updatedAt": "2026-03-05T20:02:24Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "VC firms",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://inflection.fund/",
+        "finding": "Official firm site describes first checks, limited partners, a venture investment portfolio and fund general partners."
+      }
+    ],
+    "original": {
+      "title": "Inflection",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227374",
+  "type": "video",
+  "title": "Dark Landing",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "dark-landing",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cd00df5a6c16aa58a456ed21.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1772889771700.mp4",
+      "role": "original",
+      "bytes": 1001023,
+      "sha256": "cd00df5a6c16aa58a456ed21b60c1659c8411670f8b0da5194a9e8ad58af09f0",
+      "sourceUrl": "https://attachments.are.na/44227374/60cf009a650654df8e5c98f0d822bc7d.mp4",
+      "originalName": "60cf009a650654df8e5c98f0d822bc7d.mp4"
+    },
+    {
+      "path": "assets/thumbnail-1e48c45e4e5d0856d4a2c057.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Landing",
+      "role": "thumbnail",
+      "bytes": 3064,
+      "sha256": "1e48c45e4e5d0856d4a2c0579087841677cadbc83768a6598d865f00ffe0fa23",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM3NC9vcmlnaW5hbF8yZWQ0YmIzYjEyZDJmODZmMjAyNjAzMDctMi00bWhhZWQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2ed4bb3b12d2f86f20260307-2-4mhaed.png"
+    },
+    {
+      "path": "assets/display-web-original-cd00df5a6c16aa58a456ed21-cd00df5a6c.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1772889771700.mp4",
+      "bytes": 578881,
+      "sha256": "1c2be24812ffe809e1cbb9fb880318080dedb5eec612cf496623e1857fd42a46",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cd00df5a6c16aa58a456ed21.mp4",
+        "sourceSha256": "cd00df5a6c16aa58a456ed21b60c1659c8411670f8b0da5194a9e8ad58af09f0",
+        "originalBytes": 1001023,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-65fe2320712a12d4029ca654.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1772889771700.mp4",
+      "role": "preview",
+      "bytes": 25986,
+      "sha256": "65fe2320712a12d4029ca65463606664a6dcd3ff2702e386ae5c038d15372e17",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227374/original_2ed4bb3b12d2f86f20260307-2-4mhaed.png",
+      "originalName": "2ed4bb3b12d2f86f20260307-2-4mhaed.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 248446,
+        "width": 1296,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-03-07T22:47:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227374",
+    "title": "ssstwitter.com_1772889771700.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227374,
+      "url": "https://www.are.na/block/44227374",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1772889771700.mp4",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-03-07T22:47:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1772889771700.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Landing",
+    "text": "Get notified of new drops",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1e48c45e4e5d0856d4a2c0579087841677cadbc83768a6598d865f00ffe0fa23"
+  }
+}

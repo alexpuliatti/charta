@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46717171",
+  "type": "image",
+  "title": "Studio Monitor",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "studio-monitor",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ca4b29672a8bdb128624f4c1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Studio Monitor",
+      "role": "original",
+      "bytes": 40716,
+      "sha256": "ca4b29672a8bdb128624f4c1e62fc3931d248485dcb3130e42e01155980d5406",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46717171/original_c2a7f7235da08c312a099798dd8c97ff.jpeg",
+      "originalName": "c2a7f7235da08c312a099798dd8c97ff.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c8ac5c6a94fb9a1027c184c5.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Monitor",
+      "role": "thumbnail",
+      "bytes": 5582,
+      "sha256": "c8ac5c6a94fb9a1027c184c5a01a571fe1beb4f3f356c2569c18b8f1e4b0698b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxNzE3MS9vcmlnaW5hbF9jMmE3ZjcyMzVkYTA4YzMxMmEwOTk3OThkZDhjOTdmZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c2a7f7235da08c312a099798dd8c97ff.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ca4b29672a8bdb128624f4c1-ca4b29672a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Monitor",
+      "bytes": 26804,
+      "sha256": "e0aa330fd2442654c37bd6d1a0c4026ee581ec32578a3d70e3b66f8bb6068db3",
+      "width": 736,
+      "height": 920,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ca4b29672a8bdb128624f4c1.jpg",
+        "sourceSha256": "ca4b29672a8bdb128624f4c1e62fc3931d248485dcb3130e42e01155980d5406",
+        "originalBytes": 40716,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T13:46:32.000Z",
+  "updatedAt": "2026-06-03T13:46:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46717171",
+    "title": "_",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46717171,
+      "url": "https://www.are.na/block/46717171",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_",
+      "createdAt": "2026-06-03T13:46:32Z",
+      "updatedAt": "2026-06-03T13:46:38Z",
+      "addedBy": {
+        "id": 480205,
+        "name": "aisha ahamed",
+        "slug": "aisha-ahamed"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Monitor",
+    "text": "KAND - MOGO",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e0aa330fd2442654c37bd6d1a0c4026ee581ec32578a3d70e3b66f8bb6068db3"
+  }
+}

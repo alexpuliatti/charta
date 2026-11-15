@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44509548",
+  "type": "link",
+  "title": "Dial Kit",
+  "description": "Personal site for Josh Puckett",
+  "category": "Interface design",
+  "tags": [
+    "design-engineering",
+    "controls",
+    "interface-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-aaf90865c8e6c5b8bdb68954.webp",
+      "mimeType": "image/webp",
+      "alt": "Josh Puckett",
+      "role": "thumbnail",
+      "bytes": 5546,
+      "sha256": "aaf90865c8e6c5b8bdb6895409d3cd9eaf99eb9190f51486f84a8519705c6928",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDUwOTU0OC9vcmlnaW5hbF8yYTlkNzAyMjA3ZDQ5MDYxYmMyNDRhMzA2ZTZiZWJiMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2a9d702207d49061bc244a306e6bebb1.png"
+    },
+    {
+      "path": "assets/preview-486a20d8625f5ee2346ca97d.webp",
+      "mimeType": "image/webp",
+      "alt": "Josh Puckett",
+      "role": "preview",
+      "bytes": 157878,
+      "sha256": "486a20d8625f5ee2346ca97d3a665ba69e16de158aefd61ce46d6ca3497cf570",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44509548/original_2a9d702207d49061bc244a306e6bebb1.png",
+      "originalName": "2a9d702207d49061bc244a306e6bebb1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 756998,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-17T17:47:14.000Z",
+  "updatedAt": "2026-05-06T12:10:22.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://joshpuckett.me/dialkit",
+    "title": "Josh Puckett",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44509548,
+      "url": "https://www.are.na/block/44509548",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Josh Puckett",
+      "createdAt": "2026-03-17T17:47:14Z",
+      "updatedAt": "2026-05-06T12:10:22Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Josh Puckett",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

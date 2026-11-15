@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45022384",
+  "type": "image",
+  "title": "Audio Studio",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "audio-studio",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e46474d4242dbd60ee21b256.png",
+      "mimeType": "image/png",
+      "alt": "Audio Studio",
+      "role": "original",
+      "bytes": 3889003,
+      "sha256": "e46474d4242dbd60ee21b2561d2e8aa9d1b01b6699f868b12a4564c1385b6110",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45022384/original_cf9910cc11389bf9ef640a9cd5ca6d1d.png",
+      "originalName": "cf9910cc11389bf9ef640a9cd5ca6d1d.png"
+    },
+    {
+      "path": "assets/thumbnail-4ec5a4640168d4b6b90d128e.webp",
+      "mimeType": "image/webp",
+      "alt": "Audio Studio",
+      "role": "thumbnail",
+      "bytes": 12102,
+      "sha256": "4ec5a4640168d4b6b90d128eb6061fdf21ac9685ad57c1006bb11cf21cd581f2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTAyMjM4NC9vcmlnaW5hbF9jZjk5MTBjYzExMzg5YmY5ZWY2NDBhOWNkNWNhNmQxZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cf9910cc11389bf9ef640a9cd5ca6d1d.png"
+    },
+    {
+      "path": "assets/display-web-original-e46474d4242dbd60ee21b256-e46474d424.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Audio Studio",
+      "bytes": 187762,
+      "sha256": "dc966b5c9e341235fd755a2eb2c19e75f7204ff2fe9af42d8cfbbac53032480b",
+      "width": 2000,
+      "height": 1407,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e46474d4242dbd60ee21b256.png",
+        "sourceSha256": "e46474d4242dbd60ee21b2561d2e8aa9d1b01b6699f868b12a4564c1385b6110",
+        "originalBytes": 3889003,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-04T22:28:53.000Z",
+  "updatedAt": "2026-04-04T22:28:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45022384",
+    "title": "screenshot-2026-04-04-alle-23.28.48.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45022384,
+      "url": "https://www.are.na/block/45022384",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-04-alle-23.28.48.png",
+      "createdAt": "2026-04-04T22:28:53Z",
+      "updatedAt": "2026-04-04T22:28:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-04-alle-23.28.48.png",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Audio Studio",
+    "text": "mycoaudio\nMYCOAUDIO\n52 post\n9632 follower\n2 seguiti\nAudio research through innovative materials.\nBespoke mycelium insulated speakers & handcrafted sound systems.\n© linktr.ee/mycoaudio\nAccount seguito da theblackhibiscus, zacbenloulou + altri\n3\nSegui già v\nMessaggio\n+8\nD",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "dc966b5c9e341235fd755a2eb2c19e75f7204ff2fe9af42d8cfbbac53032480b"
+  }
+}

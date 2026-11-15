@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247881",
+  "type": "image",
+  "title": "Documentation Navigation",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "documentation-navigation",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-50ac1f367a42b2962b5bcb7e.png",
+      "mimeType": "image/png",
+      "alt": "Documentation Navigation",
+      "role": "original",
+      "bytes": 291241,
+      "sha256": "50ac1f367a42b2962b5bcb7e4fe9ba9443a1c84c3ba4bb85c6459e33d1a02373",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247881/original_2b5d57d3bd5eec872bd2d1b4b50b7dcc.png",
+      "originalName": "2b5d57d3bd5eec872bd2d1b4b50b7dcc.png"
+    },
+    {
+      "path": "assets/thumbnail-8ad883d26b618bda5e001cba.webp",
+      "mimeType": "image/webp",
+      "alt": "Documentation Navigation",
+      "role": "thumbnail",
+      "bytes": 10228,
+      "sha256": "8ad883d26b618bda5e001cbab280651dd9fb7a3d31489eadec1ec27e1bbc205c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg4MS9vcmlnaW5hbF8yYjVkNTdkM2JkNWVlYzg3MmJkMmQxYjRiNTBiN2RjYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2b5d57d3bd5eec872bd2d1b4b50b7dcc.png"
+    },
+    {
+      "path": "assets/display-web-original-50ac1f367a42b2962b5bcb7e-50ac1f367a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Documentation Navigation",
+      "bytes": 114390,
+      "sha256": "25d3e3f0a09377d94a01318ae6ab855c41c9de0ce4890cb8a8882afe2997683e",
+      "width": 2000,
+      "height": 1334,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-50ac1f367a42b2962b5bcb7e.png",
+        "sourceSha256": "50ac1f367a42b2962b5bcb7e4fe9ba9443a1c84c3ba4bb85c6459e33d1a02373",
+        "originalBytes": 291241,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:49.000Z",
+  "updatedAt": "2026-06-23T14:28:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247881",
+    "title": "Gp3Kqe7XoAAdFrh",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247881,
+      "url": "https://www.are.na/block/47247881",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Gp3Kqe7XoAAdFrh",
+      "createdAt": "2026-06-23T14:28:49Z",
+      "updatedAt": "2026-06-23T14:28:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Gp3Kqe7XoAAdFrh",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Documentation Navigation",
+    "text": "Sanya\nQ\nHome\nInbox\nAssigned to me\nStarred\nProteomics\nSequence Alignment\nAuthentication Documentation\nProjects\nHome Automation control\nCluster App\nTeams\n+\n| Authentication Documentation •••\nOverview\nSubtasks\n47\nView 2 +\n9\nAuthentication Documentation\nDocumentation for Authentication's Access token and ID Tokens.\ni: Overview\nAs your workspace in Dock grows and teams transition, documentation safe\nproject structures, implementation strategies, and workflow patterns. This c\nbecomes essential for maintaining project momentum and guiding future te\nAuthentication methods\nSecret key authentication in Dock relies on generating Secure Access Toker\npassed to your workspace. Users can choose between two authentication t\ndetermine which best suits your needs before configuring your workspace\nThis document should begin with completion of the first documentation\ncompleted by\nSolomon\nthis will contain a brief summary of what we are\nNeed for a complex permissions\nIf users need to establish permissions that span across workspaces, teams,",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "25d3e3f0a09377d94a01318ae6ab855c41c9de0ce4890cb8a8882afe2997683e"
+  }
+}

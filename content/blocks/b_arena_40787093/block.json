@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787093",
+  "type": "image",
+  "title": "Wooden Monitor",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "wooden-monitor",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-859a9afb5afda09f5abc6e6d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Wooden Monitor",
+      "role": "original",
+      "bytes": 84363,
+      "sha256": "859a9afb5afda09f5abc6e6df2224c92feb67b5f7f0608116c14bc6d03aa0a08",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787093/original_250d0de2570c694368a817a140db6015.jpg",
+      "originalName": "250d0de2570c694368a817a140db6015.jpg"
+    },
+    {
+      "path": "assets/thumbnail-14909c5f8a77e81f82f6fa2f.webp",
+      "mimeType": "image/webp",
+      "alt": "Wooden Monitor",
+      "role": "thumbnail",
+      "bytes": 9526,
+      "sha256": "14909c5f8a77e81f82f6fa2f2ba7e9abcf4eb339021b60121d47f4af70494bf3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzA5My9vcmlnaW5hbF8yNTBkMGRlMjU3MGM2OTQzNjhhODE3YTE0MGRiNjAxNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "250d0de2570c694368a817a140db6015.jpg"
+    },
+    {
+      "path": "assets/display-web-original-859a9afb5afda09f5abc6e6d-859a9afb5a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Wooden Monitor",
+      "bytes": 74668,
+      "sha256": "314359d7802057622ec416d15238912f56d6c15e6424431bcd87e8fd74f113cd",
+      "width": 1080,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-859a9afb5afda09f5abc6e6d.jpg",
+        "sourceSha256": "859a9afb5afda09f5abc6e6df2224c92feb67b5f7f0608116c14bc6d03aa0a08",
+        "originalBytes": 84363,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:34.000Z",
+  "updatedAt": "2025-11-02T15:26:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787093",
+    "title": "a.for.ara-20181009_030349-4034664114.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787093,
+      "url": "https://www.are.na/block/40787093",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a.for.ara-20181009_030349-4034664114.jpg",
+      "createdAt": "2025-11-02T15:26:34Z",
+      "updatedAt": "2025-11-02T15:26:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a.for.ara-20181009_030349-4034664114.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wooden Monitor",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "314359d7802057622ec416d15238912f56d6c15e6424431bcd87e8fd74f113cd"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44498052",
+  "type": "image",
+  "title": "Geometric Grids",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "geometric-grids",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2be691b1237b1686eddcc215.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Geometric Grids",
+      "role": "original",
+      "bytes": 48019,
+      "sha256": "2be691b1237b1686eddcc215193a66df3fb37ecaa8efe42be7e504ce70869094",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44498052/original_f531e60d82073ce742a88f5b1cf0a324.jpg",
+      "originalName": "f531e60d82073ce742a88f5b1cf0a324.jpg"
+    },
+    {
+      "path": "assets/thumbnail-157a3acceeecd7c64147c3e5.webp",
+      "mimeType": "image/webp",
+      "alt": "Geometric Grids",
+      "role": "thumbnail",
+      "bytes": 19996,
+      "sha256": "157a3acceeecd7c64147c3e58c1f9a8171445aca24fa02353bf067cf967a9b4f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDQ5ODA1Mi9vcmlnaW5hbF9mNTMxZTYwZDgyMDczY2U3NDJhODhmNWIxY2YwYTMyNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f531e60d82073ce742a88f5b1cf0a324.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2be691b1237b1686eddcc215-2be691b123.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Geometric Grids",
+      "bytes": 41596,
+      "sha256": "41505682193b1eaeaf78bce11748d92272faefd366d97562fe5273e9a162bde8",
+      "width": 455,
+      "height": 480,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2be691b1237b1686eddcc215.jpg",
+        "sourceSha256": "2be691b1237b1686eddcc215193a66df3fb37ecaa8efe42be7e504ce70869094",
+        "originalBytes": 48019,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-17T11:15:14.000Z",
+  "updatedAt": "2026-03-17T11:16:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44498052",
+    "title": "original_d29320998ce4cd63af9c466e6f894bee.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44498052,
+      "url": "https://www.are.na/block/44498052",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_d29320998ce4cd63af9c466e6f894bee.jpg",
+      "createdAt": "2026-03-17T11:15:14Z",
+      "updatedAt": "2026-03-17T11:16:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_d29320998ce4cd63af9c466e6f894bee.jpg",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Geometric Grids",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "41505682193b1eaeaf78bce11748d92272faefd366d97562fe5273e9a162bde8"
+  }
+}

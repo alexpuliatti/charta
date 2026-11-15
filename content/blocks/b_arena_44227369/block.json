@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227369",
+  "type": "image",
+  "title": "Generative Controls",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "generative-controls",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bf7db0b462b4eba9d8230ab8.png",
+      "mimeType": "image/png",
+      "alt": "Generative Controls",
+      "role": "original",
+      "bytes": 364640,
+      "sha256": "bf7db0b462b4eba9d8230ab841c45af05f82a8f4031a5cc2267e38cea0f7f266",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227369/original_9b269ff3082c2405888621f2602ea528.png",
+      "originalName": "9b269ff3082c2405888621f2602ea528.png"
+    },
+    {
+      "path": "assets/thumbnail-a9168eea22a55e1b5021b6b3.webp",
+      "mimeType": "image/webp",
+      "alt": "Generative Controls",
+      "role": "thumbnail",
+      "bytes": 6048,
+      "sha256": "a9168eea22a55e1b5021b6b37ed7f8fa4dcfe18b0ef7d1297ea9f1e12357c5be",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM2OS9vcmlnaW5hbF85YjI2OWZmMzA4MmMyNDA1ODg4NjIxZjI2MDJlYTUyOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9b269ff3082c2405888621f2602ea528.png"
+    },
+    {
+      "path": "assets/display-web-original-bf7db0b462b4eba9d8230ab8-bf7db0b462.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Generative Controls",
+      "bytes": 51444,
+      "sha256": "183d1a71952a88f2f1a6a93794779d951918a264cd9a54cbf6ee29fdbff37c70",
+      "width": 704,
+      "height": 1542,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bf7db0b462b4eba9d8230ab8.png",
+        "sourceSha256": "bf7db0b462b4eba9d8230ab841c45af05f82a8f4031a5cc2267e38cea0f7f266",
+        "originalBytes": 364640,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-03-07T22:47:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227369",
+    "title": "screenshot-2026-03-07-alle-23.38.27.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227369,
+      "url": "https://www.are.na/block/44227369",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.38.27.png",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-03-07T22:47:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.38.27.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Generative Controls",
+    "text": "GEN_ALGO\nBROWSER BASED PLAYGROUND\nLIVE\nDEC: -45° 32* 16.8\"\nRA: 16h 47m 10.2s\nMAG: 18.5\nPARAMETERS\nSHAPE\nDENSITY\n45\nVELOCITY\n2.4\nRADIUS\n80\nDECAY\n0.85\nEDIT\n< >\nCODE\nVIEW\nSHARE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "183d1a71952a88f2f1a6a93794779d951918a264cd9a54cbf6ee29fdbff37c70"
+  }
+}

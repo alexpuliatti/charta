@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888674",
+  "type": "image",
+  "title": "Voice Waveform",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "voice-waveform",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7fc16c35f0518e78dae8e43b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Voice Waveform",
+      "role": "original",
+      "bytes": 171001,
+      "sha256": "7fc16c35f0518e78dae8e43b486ae5bf9ab02fb4a38895da2b7ba2059e7e0ef0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888674/original_35810981748383fa25494db91c1002c8.jpeg",
+      "originalName": "35810981748383fa25494db91c1002c8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-17bd875d9c12ef09bd4f41e4.webp",
+      "mimeType": "image/webp",
+      "alt": "Voice Waveform",
+      "role": "thumbnail",
+      "bytes": 6158,
+      "sha256": "17bd875d9c12ef09bd4f41e4afd8fb05201f2d75da7639c0f7b12058fe71c4ba",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY3NC9vcmlnaW5hbF8zNTgxMDk4MTc0ODM4M2ZhMjU0OTRkYjkxYzEwMDJjOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "35810981748383fa25494db91c1002c8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-7fc16c35f0518e78dae8e43b-7fc16c35f0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Voice Waveform",
+      "bytes": 156752,
+      "sha256": "5b021b73db0af70a8e9c295c99eeb9d6bd3d28039488aec6525d5d1c5fde0005",
+      "width": 900,
+      "height": 1289,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7fc16c35f0518e78dae8e43b.jpg",
+        "sourceSha256": "7fc16c35f0518e78dae8e43b486ae5bf9ab02fb4a38895da2b7ba2059e7e0ef0",
+        "originalBytes": 171001,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:25:51.000Z",
+  "updatedAt": "2026-05-06T12:25:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888674",
+    "title": "rominamaltaeralgoouttake.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888674,
+      "url": "https://www.are.na/block/45888674",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "rominamaltaeralgoouttake.jpg",
+      "createdAt": "2026-05-06T12:25:51Z",
+      "updatedAt": "2026-05-06T12:25:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "rominamaltaeralgoouttake.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Voice Waveform",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5b021b73db0af70a8e9c295c99eeb9d6bd3d28039488aec6525d5d1c5fde0005"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144609",
+  "type": "image",
+  "title": "Silk Road",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "silk-road",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1d375f879311ce0c33f1a662.png",
+      "mimeType": "image/png",
+      "alt": "Silk Road",
+      "role": "original",
+      "bytes": 440075,
+      "sha256": "1d375f879311ce0c33f1a662e3b9c1f926dd7f29b707571f541cbca0b666f098",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144609/original_5b686cbc189ad41ed3a4c8b0ad305d37.png",
+      "originalName": "5b686cbc189ad41ed3a4c8b0ad305d37.png"
+    },
+    {
+      "path": "assets/thumbnail-0adb3e619ee039e0b856a8fa.webp",
+      "mimeType": "image/webp",
+      "alt": "Silk Road",
+      "role": "thumbnail",
+      "bytes": 5550,
+      "sha256": "0adb3e619ee039e0b856a8faebbf46e7f7cc55783cbce3460ce45ca75cc7927a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYwOS9vcmlnaW5hbF81YjY4NmNiYzE4OWFkNDFlZDNhNGM4YjBhZDMwNWQzNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5b686cbc189ad41ed3a4c8b0ad305d37.png"
+    },
+    {
+      "path": "assets/display-web-original-1d375f879311ce0c33f1a662-1d375f8793.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Silk Road",
+      "bytes": 36652,
+      "sha256": "cd4065874516073f235468a62bb5a604d5a903c191c21fd6950ac526bb14a897",
+      "width": 1100,
+      "height": 1590,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1d375f879311ce0c33f1a662.png",
+        "sourceSha256": "1d375f879311ce0c33f1a662e3b9c1f926dd7f29b707571f541cbca0b666f098",
+        "originalBytes": 440075,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:15.000Z",
+  "updatedAt": "2026-03-04T19:22:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144609",
+    "title": "screenshot-2026-03-04-alle-16.02.55.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144609,
+      "url": "https://www.are.na/block/44144609",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.02.55.png",
+      "createdAt": "2026-03-04T19:22:15Z",
+      "updatedAt": "2026-03-04T19:22:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.02.55.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Silk Road",
+    "text": "The\nemergence\nof Al Art\nSee upcoming\nevents below\nSilk Road\nDay 01\nKEKE /\nGenesis Drop\nExhibition\nAttendees\nAlejandro Cartagena\nSimon Hudson\nPepe\nMicol\nLinda Dounia\nNiceaunties\nElman Mansimov\nOrkhan Mammadov\nGeorg Bak\nDelta Sauce\nRoope Rain\nNoper\nAndrea Ciu\nVikki Bardo\nSheldrick\nAlkan AvcIo\nToday 13-\nLondon\n20 Feb, 2!\nVenue\nFellowship Notting Hill\nGallery + Private Dinner\nEvent.\nFormat\nTalks, ex\nlaunch,\nsession:",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cd4065874516073f235468a62bb5a604d5a903c191c21fd6950ac526bb14a897"
+  }
+}

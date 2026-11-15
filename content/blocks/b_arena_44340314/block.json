@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340314",
+  "type": "image",
+  "title": "Pool Table",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "pool-table",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-afedc8c01dd669c756876e65.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Pool Table",
+      "role": "original",
+      "bytes": 11173,
+      "sha256": "afedc8c01dd669c756876e650c3189205842e2301af3c0251826a810adb6432f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340314/original_da31129c507e37e85903fc53c1c2a3de.jpg",
+      "originalName": "da31129c507e37e85903fc53c1c2a3de.jpg"
+    },
+    {
+      "path": "assets/thumbnail-07d55a7e866da65243a21a65.webp",
+      "mimeType": "image/webp",
+      "alt": "Pool Table",
+      "role": "thumbnail",
+      "bytes": 2390,
+      "sha256": "07d55a7e866da65243a21a65f7c691bb370d4d4ed9dec58b6af7093a95d58287",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxNC9vcmlnaW5hbF9kYTMxMTI5YzUwN2UzN2U4NTkwM2ZjNTNjMWMyYTNkZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "da31129c507e37e85903fc53c1c2a3de.jpg"
+    },
+    {
+      "path": "assets/display-web-original-afedc8c01dd669c756876e65-afedc8c01d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Pool Table",
+      "bytes": 4796,
+      "sha256": "a6528dab46c6cb307f727e2ab6c42406376593eafd027ba1a1e3265de7866ff2",
+      "width": 500,
+      "height": 313,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-afedc8c01dd669c756876e65.jpg",
+        "sourceSha256": "afedc8c01dd669c756876e650c3189205842e2301af3c0251826a810adb6432f",
+        "originalBytes": 11173,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340314",
+    "title": "ccce09db76c7cee40421af3fbd014cd9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340314,
+      "url": "https://www.are.na/block/44340314",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ccce09db76c7cee40421af3fbd014cd9.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ccce09db76c7cee40421af3fbd014cd9.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Pool Table",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a6528dab46c6cb307f727e2ab6c42406376593eafd027ba1a1e3265de7866ff2"
+  }
+}

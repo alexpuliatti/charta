@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247886",
+  "type": "image",
+  "title": "Glass Document",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "glass-document",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2ec04562a7e128fdb9a88199.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glass Document",
+      "role": "original",
+      "bytes": 301874,
+      "sha256": "2ec04562a7e128fdb9a88199adb2dc1ff2495a900b0e3c414de2589a73b02a35",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247886/original_406cd3f44dbbd06dd062fcbeb6736c1c.jpeg",
+      "originalName": "406cd3f44dbbd06dd062fcbeb6736c1c.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-9f75c936372e26787cbf220c.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Document",
+      "role": "thumbnail",
+      "bytes": 5968,
+      "sha256": "9f75c936372e26787cbf220c27516f09a08d30a0e10a2d2f4ec28584d6bee05b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg4Ni9vcmlnaW5hbF80MDZjZDNmNDRkYmJkMDZkZDA2MmZjYmViNjczNmMxYy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "406cd3f44dbbd06dd062fcbeb6736c1c.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-2ec04562a7e128fdb9a88199-2ec04562a7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glass Document",
+      "bytes": 81874,
+      "sha256": "8edac9258387f159b5d5c52658f9bc541f5cc6d30c887db6ac64b77a5eaf3db7",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2ec04562a7e128fdb9a88199.jpg",
+        "sourceSha256": "2ec04562a7e128fdb9a88199adb2dc1ff2495a900b0e3c414de2589a73b02a35",
+        "originalBytes": 301874,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:54.000Z",
+  "updatedAt": "2026-06-23T14:28:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247886",
+    "title": "HFD5sSdbUAAdl0a",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247886,
+      "url": "https://www.are.na/block/47247886",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HFD5sSdbUAAdl0a",
+      "createdAt": "2026-06-23T14:28:54Z",
+      "updatedAt": "2026-06-23T14:28:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HFD5sSdbUAAdl0a",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Document",
+    "text": "88\nMblack_sand_green_hills.png\nI want to change the aspect ratio to 3:4l\nD 1 Generation\n5 Nano Banana 2\nRefine Your Result\nHover over the edit icon and describe your\nchanges to the image. Simply tell what you want\nto adjust, and the system will update your result\nLeave intro\nNext >\nA modern_thatched_house_frontviewpro",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8edac9258387f159b5d5c52658f9bc541f5cc6d30c887db6ac64b77a5eaf3db7"
+  }
+}

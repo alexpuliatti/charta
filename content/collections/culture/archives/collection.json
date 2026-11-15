@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_culture_archives",
+  "title": "Archives",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47277679"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473959"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45915851"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892987"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44241473"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44241461"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247038",
+  "type": "image",
+  "title": "Orange Editorial",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "orange-editorial",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d68a215eee19d35b36a61d6f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Orange Editorial",
+      "role": "original",
+      "bytes": 57000,
+      "sha256": "d68a215eee19d35b36a61d6f0e02e0d3473be026cb69e11f7aa21d82a513d039",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247038/original_79727880b2cbb6b68c202f759f2a9053.jpg",
+      "originalName": "79727880b2cbb6b68c202f759f2a9053.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8b1d81fd760995e4f220defa.webp",
+      "mimeType": "image/webp",
+      "alt": "Orange Editorial",
+      "role": "thumbnail",
+      "bytes": 12196,
+      "sha256": "8b1d81fd760995e4f220defac2597d70065b1db0fe793afb3e5841d5127fbe0d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzAzOC9vcmlnaW5hbF83OTcyNzg4MGIyY2JiNmI2OGMyMDJmNzU5ZjJhOTA1My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "79727880b2cbb6b68c202f759f2a9053.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d68a215eee19d35b36a61d6f-d68a215eee.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orange Editorial",
+      "bytes": 50616,
+      "sha256": "66a43582138889776ba48cdfc615588301530674ce2d580039d546219115d567",
+      "width": 640,
+      "height": 512,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d68a215eee19d35b36a61d6f.jpg",
+        "sourceSha256": "d68a215eee19d35b36a61d6f0e02e0d3473be026cb69e11f7aa21d82a513d039",
+        "originalBytes": 57000,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-08T22:30:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247038",
+    "title": "91488baf1d7db2a220ecddc266689e44.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247038,
+      "url": "https://www.are.na/block/44247038",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "91488baf1d7db2a220ecddc266689e44.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-08T22:30:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "91488baf1d7db2a220ecddc266689e44.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orange Editorial",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "66a43582138889776ba48cdfc615588301530674ce2d580039d546219115d567"
+  }
+}

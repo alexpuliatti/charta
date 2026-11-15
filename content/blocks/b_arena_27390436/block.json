@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_27390436",
+  "type": "image",
+  "title": "Speaker Cabinet",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "speaker-cabinet",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0957cf3f5a4efa8631681b0e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Speaker Cabinet",
+      "role": "original",
+      "bytes": 169865,
+      "sha256": "0957cf3f5a4efa8631681b0e119662323bf082c7d9fbcc5d52b8037fc21547a3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/27390436/original_dd4859efda0d65105359589270095239.jpg",
+      "originalName": "dd4859efda0d65105359589270095239.jpg"
+    },
+    {
+      "path": "assets/thumbnail-ee3ef72e34765666c197d113.webp",
+      "mimeType": "image/webp",
+      "alt": "Speaker Cabinet",
+      "role": "thumbnail",
+      "bytes": 10640,
+      "sha256": "ee3ef72e34765666c197d1134af08207cadf338eea42faaf29c9c793615c434c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNzM5MDQzNi9vcmlnaW5hbF9kZDQ4NTllZmRhMGQ2NTEwNTM1OTU4OTI3MDA5NTIzOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "dd4859efda0d65105359589270095239.jpg"
+    },
+    {
+      "path": "assets/display-web-original-0957cf3f5a4efa8631681b0e-0957cf3f5a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Speaker Cabinet",
+      "bytes": 123622,
+      "sha256": "188fc2ee54eb9b9c40e7a9c60367b62a17b8096cf4c5f57375a5498233a290b7",
+      "width": 1080,
+      "height": 1198,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0957cf3f5a4efa8631681b0e.jpg",
+        "sourceSha256": "0957cf3f5a4efa8631681b0e119662323bf082c7d9fbcc5d52b8037fc21547a3",
+        "originalBytes": 169865,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2024-04-05T03:16:36.000Z",
+  "updatedAt": "2026-07-01T12:53:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://instagram.fcxh2-1.fna.fbcdn.net/v/t51.29350-15/435022094_1571460263632805_5771739634420427256_n.jpg?stp=dst-jpg_e35_p1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE1OTcuc2RyIn0&_nc_ht=instagram.fcxh2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=NDqlk2_NYIIAb7tjndh&edm=ACOOH6wBAAAA&ccb=7-5&ig_cache_key=MzMzODcwNjMzNDcwOTkyNTIzOA%3D%3D.2-ccb7-5&oh=00_AfDY9FUdvUUTqvaC08NkKYmo9eOwx4GM3d2aEyx7p4a7uQ&oe=66153DF9&_nc_sid=aa4e97",
+    "title": "435022094_1571460263632805_5771739634420427256_n.jpg 1,080×1,198 pixels",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 27390436,
+      "url": "https://www.are.na/block/27390436",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "435022094_1571460263632805_5771739634420427256_n.jpg?stp=dst-jpg_e35_p1080x1080-efg=eyj2zw5jb2rlx3rhzyi6imltywdlx3vybgdlbi4x...",
+      "createdAt": "2024-04-05T03:16:36Z",
+      "updatedAt": "2026-07-01T12:53:11Z",
+      "addedBy": {
+        "id": 62001,
+        "name": "Matija Gabrilo",
+        "slug": "matija-gabrilo"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "435022094_1571460263632805_5771739634420427256_n.jpg?stp=dst-jpg_e35_p1080x1080-efg=eyj2zw5jb2rlx3rhzyi6imltywdlx3vybgdlbi4x...",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Speaker Cabinet",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "188fc2ee54eb9b9c40e7a9c60367b62a17b8096cf4c5f57375a5498233a290b7"
+  }
+}

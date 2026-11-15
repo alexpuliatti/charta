@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46680745",
+  "type": "video",
+  "title": "Transparent Portfolio",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "transparent-portfolio",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-32ba52ed895c00548be2aa27.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1780392186261",
+      "role": "original",
+      "bytes": 100992,
+      "sha256": "32ba52ed895c00548be2aa2787f69e20d98a837ccf1ffb43e5b68733a785fe3f",
+      "sourceUrl": "https://attachments.are.na/46680745/47f71e48741321b4a86ece8ca2266727.mp4",
+      "originalName": "47f71e48741321b4a86ece8ca2266727.mp4"
+    },
+    {
+      "path": "assets/display-web-original-32ba52ed895c00548be2aa27-32ba52ed89.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1780392186261",
+      "bytes": 96079,
+      "sha256": "7eafe27b5635f9ff041a3754b7a69f6a7e233b159388a0fea1e4e17df3e6bcce",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-32ba52ed895c00548be2aa27.mp4",
+        "sourceSha256": "32ba52ed895c00548be2aa2787f69e20d98a837ccf1ffb43e5b68733a785fe3f",
+        "originalBytes": 100992,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/representative-frame.jpg",
+      "mimeType": "image/jpeg",
+      "role": "thumbnail",
+      "alt": "Transparent Portfolio",
+      "bytes": 46340,
+      "sha256": "7f734ea77bad761e48ced99996c2da24eb02a9403b6ff585faa5d3db1c6fc837",
+      "derivation": {
+        "method": "ffmpeg-representative-frame",
+        "timeSeconds": 1
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-02T09:23:21.000Z",
+  "updatedAt": "2026-06-02T09:23:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46680745",
+    "title": "ssstwitter.com_1780392186261",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46680745,
+      "url": "https://www.are.na/block/46680745",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1780392186261",
+      "createdAt": "2026-06-02T09:23:21Z",
+      "updatedAt": "2026-06-02T09:23:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1780392186261",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Transparent Portfolio",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7f734ea77bad761e48ced99996c2da24eb02a9403b6ff585faa5d3db1c6fc837"
+  }
+}

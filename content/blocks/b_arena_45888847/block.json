@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888847",
+  "type": "video",
+  "title": "Cassette Player",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "cassette-player",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-61764fc056659cf39b464420.mov",
+      "mimeType": "video/quicktime",
+      "alt": "registrazione-schermo-2026-04-13-alle-20.08.04.mov",
+      "role": "original",
+      "bytes": 12235935,
+      "sha256": "61764fc056659cf39b464420ddb30c424e423b159aa5b7fe11b489ef56f0b339",
+      "sourceUrl": "https://attachments.are.na/45888847/2005326fc4dab853148d56a0792395ac.mov",
+      "originalName": "2005326fc4dab853148d56a0792395ac.mov"
+    },
+    {
+      "path": "assets/thumbnail-b2a82cf21d094005db934eb1.webp",
+      "mimeType": "image/webp",
+      "alt": "Cassette Player",
+      "role": "thumbnail",
+      "bytes": 3400,
+      "sha256": "b2a82cf21d094005db934eb1afac95d5176bcf604b084f8eded3b52a11933580",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg0Ny9vcmlnaW5hbF84MGVkYmVkOWExYzhhOTNkMjAyNjA1MDYtMi1kdjRjY24ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "80edbed9a1c8a93d20260506-2-dv4ccn.png"
+    },
+    {
+      "path": "assets/display-web-original-61764fc056659cf39b464420-61764fc056.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "registrazione-schermo-2026-04-13-alle-20.08.04.mov",
+      "bytes": 588742,
+      "sha256": "081692e32636b08bbf882374fd96677d9ced051a4ac1ea1413f7158843cdd384",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-61764fc056659cf39b464420.mov",
+        "sourceSha256": "61764fc056659cf39b464420ddb30c424e423b159aa5b7fe11b489ef56f0b339",
+        "originalBytes": 12235935,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-5e0488735b38945aacb470d5.webp",
+      "mimeType": "image/webp",
+      "alt": "registrazione-schermo-2026-04-13-alle-20.08.04.mov",
+      "role": "preview",
+      "bytes": 44076,
+      "sha256": "5e0488735b38945aacb470d543a8b44790386d9fa271592ac8b3748584c76e68",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888847/original_80edbed9a1c8a93d20260506-2-dv4ccn.png",
+      "originalName": "80edbed9a1c8a93d20260506-2-dv4ccn.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 311218,
+        "width": 1308,
+        "height": 1162,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:32:34.000Z",
+  "updatedAt": "2026-05-06T12:32:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888847",
+    "title": "registrazione-schermo-2026-04-13-alle-20.08.04.mov",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888847,
+      "url": "https://www.are.na/block/45888847",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "registrazione-schermo-2026-04-13-alle-20.08.04.mov",
+      "createdAt": "2026-05-06T12:32:34Z",
+      "updatedAt": "2026-05-06T12:32:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "registrazione-schermo-2026-04-13-alle-20.08.04.mov",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Cassette Player",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b2a82cf21d094005db934eb1afac95d5176bcf604b084f8eded3b52a11933580"
+  }
+}

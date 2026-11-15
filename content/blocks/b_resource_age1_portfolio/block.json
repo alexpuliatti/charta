@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "b_resource_age1_portfolio",
+  "type": "link",
+  "title": "age1 — Portfolio",
+  "source": {
+    "url": "https://age1.com/portfolio",
+    "title": "age1 — Portfolio",
+    "capturedAt": "2026-11-15T15:35:30.558Z"
+  },
+  "description": "we fund healthy lifespan extension",
+  "category": "Companies",
+  "tags": [
+    "biotech",
+    "link",
+    "vc-funds",
+    "biotech-funds"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-11-15T15:35:31.685Z",
+  "updatedAt": "2026-11-15T15:35:31.685Z",
+  "bodyPath": "body.md",
+  "ingest": {
+    "operationId": "b_resource_age1_portfolio"
+  },
+  "organization": {
+    "method": "content-rules-v1",
+    "reason": "The saved page describes an investor focused on biotech.",
+    "confidence": 0.88,
+    "destinationPath": [
+      "Companies",
+      "VC funds",
+      "Biotech funds"
+    ]
+  }
+}

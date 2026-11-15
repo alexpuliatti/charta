@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46454668",
+  "type": "video",
+  "title": "Red Phone",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "red-phone",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3cd52fe98cde5375d487b499.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1779631421127",
+      "role": "original",
+      "bytes": 3072765,
+      "sha256": "3cd52fe98cde5375d487b499910a9ac8912c4a6232f6c4d4870c46284c0b8cfa",
+      "sourceUrl": "https://attachments.are.na/46454668/30bdf90f10eb2698e58e0caeb73ca243.mp4",
+      "originalName": "30bdf90f10eb2698e58e0caeb73ca243.mp4"
+    },
+    {
+      "path": "assets/thumbnail-2e68acecb225394509fb13d9.webp",
+      "mimeType": "image/webp",
+      "alt": "Red Phone",
+      "role": "thumbnail",
+      "bytes": 2156,
+      "sha256": "2e68acecb225394509fb13d966e235f78aa08ea044512254de3ab5d8e8e2a7ed",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ1NDY2OC9vcmlnaW5hbF8yOWJjODhhN2E5M2JiNjk5MjAyNjA1MjQtMi01dWxqMG8ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "29bc88a7a93bb69920260524-2-5ulj0o.png"
+    },
+    {
+      "path": "assets/display-web-original-3cd52fe98cde5375d487b499-3cd52fe98c.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1779631421127",
+      "bytes": 279223,
+      "sha256": "db7d147fec4a780b1a420d36f17bc961606b651b8b52420aae8a4f1c4c7d7949",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3cd52fe98cde5375d487b499.mp4",
+        "sourceSha256": "3cd52fe98cde5375d487b499910a9ac8912c4a6232f6c4d4870c46284c0b8cfa",
+        "originalBytes": 3072765,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-a8e483a2fa56ab921ed389a0.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1779631421127",
+      "role": "preview",
+      "bytes": 97988,
+      "sha256": "a8e483a2fa56ab921ed389a077520d019dfc4e67235c886085a894a074e4f03b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46454668/original_29bc88a7a93bb69920260524-2-5ulj0o.png",
+      "originalName": "29bc88a7a93bb69920260524-2-5ulj0o.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1876132,
+        "width": 2560,
+        "height": 1440,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-24T14:04:01.000Z",
+  "updatedAt": "2026-05-24T14:04:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46454668",
+    "title": "ssstwitter.com_1779631421127",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46454668,
+      "url": "https://www.are.na/block/46454668",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1779631421127",
+      "createdAt": "2026-05-24T14:04:01Z",
+      "updatedAt": "2026-05-24T14:04:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1779631421127",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Red Phone",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2e68acecb225394509fb13d966e235f78aa08ea044512254de3ab5d8e8e2a7ed"
+  }
+}

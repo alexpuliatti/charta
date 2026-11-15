@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47268434",
+  "type": "link",
+  "title": "Sentient Foundation",
+  "description": "The Sentient Foundation is uniting builders, researchers, and communities to empower the development of open-source AGI.",
+  "category": "Companies",
+  "tags": [
+    "open-source",
+    "artificial-intelligence",
+    "research"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-4d023dc1412a61143bfee5ee.webp",
+      "mimeType": "image/webp",
+      "alt": "Sentient Foundation | Open-Source AGI",
+      "role": "thumbnail",
+      "bytes": 656,
+      "sha256": "4d023dc1412a61143bfee5ee072f1be2c38df91910a5676492d96e472535d3b0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI2ODQzNC9vcmlnaW5hbF84MDYyOGU4NWQ0YTE2ZDc5NzAzYzRjZjExMGNmZTUzMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "80628e85d4a16d79703c4cf110cfe530.png"
+    },
+    {
+      "path": "assets/preview-1ccfd6ec28a74198a775a4d4.webp",
+      "mimeType": "image/webp",
+      "alt": "Sentient Foundation | Open-Source AGI",
+      "role": "preview",
+      "bytes": 4904,
+      "sha256": "1ccfd6ec28a74198a775a4d4bdf82ac17da424e3c601c5dddb4c945c41894e31",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47268434/original_80628e85d4a16d79703c4cf110cfe530.png",
+      "originalName": "80628e85d4a16d79703c4cf110cfe530.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 32967,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T09:15:55.000Z",
+  "updatedAt": "2026-06-24T09:16:04.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://sentient.foundation/",
+    "title": "Sentient Foundation | Open-Source AGI",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47268434,
+      "url": "https://www.are.na/block/47268434",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Sentient Foundation | Open-Source AGI",
+      "createdAt": "2026-06-24T09:15:55Z",
+      "updatedAt": "2026-06-24T09:16:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Nonprofits",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://sentient.foundation/about",
+        "finding": "Official About page explicitly identifies Sentient Foundation as a non-profit organization."
+      }
+    ],
+    "original": {
+      "title": "Sentient Foundation | Open-Source AGI",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

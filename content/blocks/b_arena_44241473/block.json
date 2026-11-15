@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44241473",
+  "type": "link",
+  "title": "Poster House",
+  "description": "18 px 20 px 24 px 28 px 32 px 36 px 40 px",
+  "category": "Culture",
+  "tags": [
+    "posters",
+    "museum",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-553f864dba8d5808828fc314.webp",
+      "mimeType": "image/webp",
+      "alt": "Home - Poster House Access",
+      "role": "thumbnail",
+      "bytes": 4264,
+      "sha256": "553f864dba8d5808828fc314e8240df55668f7964023015208c5479793ef5c58",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0MTQ3My9vcmlnaW5hbF9lNzZkYWM5ZDMwMmYzNDE0NmZjNDdhZDgzY2ZiZmFmNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e76dac9d302f34146fc47ad83cfbfaf4.png"
+    },
+    {
+      "path": "assets/preview-a21c8a7c2aebf3a78901f602.webp",
+      "mimeType": "image/webp",
+      "alt": "Home - Poster House Access",
+      "role": "preview",
+      "bytes": 32278,
+      "sha256": "a21c8a7c2aebf3a78901f602bfb381e0caa88f8a0536f88df83eefb7193e3177",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44241473/original_e76dac9d302f34146fc47ad83cfbfaf4.png",
+      "originalName": "e76dac9d302f34146fc47ad83cfbfaf4.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 122715,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T17:52:28.000Z",
+  "updatedAt": "2026-03-08T17:52:35.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://access.posterhouse.org/",
+    "title": "Home - Poster House Access",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44241473,
+      "url": "https://www.are.na/block/44241473",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Home - Poster House Access",
+      "createdAt": "2026-03-08T17:52:28Z",
+      "updatedAt": "2026-03-08T17:52:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Archives",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Home - Poster House Access",
+      "category": "Graphic design",
+      "tags": [
+        "posters",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

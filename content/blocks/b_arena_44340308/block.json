@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340308",
+  "type": "image",
+  "title": "Book Spines",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "book-spines",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-71fb3465b5ae193682f3de88.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Book Spines",
+      "role": "original",
+      "bytes": 154427,
+      "sha256": "71fb3465b5ae193682f3de88958d09fb2e5fe3b4ed27f6bbd9d886fbd6f8e2f1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340308/original_503c6f6595a5a10b5da1e735cecfbc20.jpg",
+      "originalName": "503c6f6595a5a10b5da1e735cecfbc20.jpg"
+    },
+    {
+      "path": "assets/thumbnail-046478117840604ac564aebc.webp",
+      "mimeType": "image/webp",
+      "alt": "Book Spines",
+      "role": "thumbnail",
+      "bytes": 5758,
+      "sha256": "046478117840604ac564aebc21d1a6c9cfa15f639cbe644a1b1e4c16c7130a64",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwOC9vcmlnaW5hbF81MDNjNmY2NTk1YTVhMTBiNWRhMWU3MzVjZWNmYmMyMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "503c6f6595a5a10b5da1e735cecfbc20.jpg"
+    },
+    {
+      "path": "assets/display-web-original-71fb3465b5ae193682f3de88-71fb3465b5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Book Spines",
+      "bytes": 90938,
+      "sha256": "0a6004cc0034b37bc2134613b4670b6f5e1dc885900f65f1bface826850cdebe",
+      "width": 1200,
+      "height": 1697,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-71fb3465b5ae193682f3de88.jpg",
+        "sourceSha256": "71fb3465b5ae193682f3de88958d09fb2e5fe3b4ed27f6bbd9d886fbd6f8e2f1",
+        "originalBytes": 154427,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340308",
+    "title": "9a841fb83f50bb4d768ab7e136c74e65.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340308,
+      "url": "https://www.are.na/block/44340308",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "9a841fb83f50bb4d768ab7e136c74e65.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "9a841fb83f50bb4d768ab7e136c74e65.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Book Spines",
+    "text": "BART DE BAETS & PIETER VERBEKE\n*ON\nTHE SHELF*\nUNIVERSITY OF\nSEOUL\nWORKSHOP\n2019.9.2. MON-9.6. FRI\nLECTURE\n2019.9.5.THU.5PM\nve\nER\nS •\nArt\nDe",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0a6004cc0034b37bc2134613b4670b6f5e1dc885900f65f1bface826850cdebe"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473958",
+  "type": "link",
+  "title": "Tooooools Effects",
+  "description": "Application error: a client-side exception has occurred (see the browser console for more information).",
+  "category": "Graphic design",
+  "tags": [
+    "image-effects",
+    "dithering",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-d399eca60ae965735251214d.webp",
+      "mimeType": "image/webp",
+      "alt": "www.tooooools.app",
+      "role": "thumbnail",
+      "bytes": 3780,
+      "sha256": "d399eca60ae965735251214d0e9c357f98a281d610828ba5ecd164e558f931fb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk1OC9vcmlnaW5hbF9iY2U3YmFmZmU4Y2E3M2FiZTgxOGQ4MzU2NDBiMTAzNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bce7baffe8ca73abe818d835640b1035.png"
+    },
+    {
+      "path": "assets/preview-1535307d632954e808cae37f.webp",
+      "mimeType": "image/webp",
+      "alt": "www.tooooools.app",
+      "role": "preview",
+      "bytes": 26850,
+      "sha256": "1535307d632954e808cae37f6a79dfdae54888f6a53826c9ed8de19fa8e4380e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473958/original_bce7baffe8ca73abe818d835640b1035.png",
+      "originalName": "bce7baffe8ca73abe818d835640b1035.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 118814,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:13.000Z",
+  "updatedAt": "2026-06-24T17:15:19.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.tooooools.app/",
+    "title": "www.tooooools.app",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473958,
+      "url": "https://www.are.na/block/46473958",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "www.tooooools.app",
+      "createdAt": "2026-05-25T10:58:13Z",
+      "updatedAt": "2026-06-24T17:15:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.tooooools.app/",
+        "finding": "Official Tooooools app identifies image-effect and animation tools, including dithering."
+      }
+    ],
+    "original": {
+      "title": "www.tooooools.app",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

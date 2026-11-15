@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888648",
+  "type": "image",
+  "title": "Agent Profile",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "agent-profile",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-27585f74ec5c9abdd1542020.png",
+      "mimeType": "image/png",
+      "alt": "Agent Profile",
+      "role": "original",
+      "bytes": 390983,
+      "sha256": "27585f74ec5c9abdd154202052a1908bb6a19e4d3eeeaba8e42774ad365a7250",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888648/original_c16c169f8b00932d4394b6e059136a93.png",
+      "originalName": "c16c169f8b00932d4394b6e059136a93.png"
+    },
+    {
+      "path": "assets/thumbnail-084dcd4480b419cae7ece058.webp",
+      "mimeType": "image/webp",
+      "alt": "Agent Profile",
+      "role": "thumbnail",
+      "bytes": 8162,
+      "sha256": "084dcd4480b419cae7ece058d9ab53d02b949543258045a22b242d72db0a2139",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODY0OC9vcmlnaW5hbF9jMTZjMTY5ZjhiMDA5MzJkNDM5NGI2ZTA1OTEzNmE5My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c16c169f8b00932d4394b6e059136a93.png"
+    },
+    {
+      "path": "assets/display-web-original-27585f74ec5c9abdd1542020-27585f74ec.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Agent Profile",
+      "bytes": 101124,
+      "sha256": "c7f621e3d5c554b3efb2a0a77c3fabf0930aa6069bb00bbb990041c5e134a1a5",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-27585f74ec5c9abdd1542020.png",
+        "sourceSha256": "27585f74ec5c9abdd154202052a1908bb6a19e4d3eeeaba8e42774ad365a7250",
+        "originalBytes": 390983,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:55.000Z",
+  "updatedAt": "2026-05-06T12:24:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888648",
+    "title": "heyzofsayaegca8.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888648,
+      "url": "https://www.are.na/block/45888648",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "heyzofsayaegca8.png",
+      "createdAt": "2026-05-06T12:24:55Z",
+      "updatedAt": "2026-05-06T12:24:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "heyzofsayaegca8.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Agent Profile",
+    "text": "AGENT-008\nAGENT ID\n016-000-878-910F-008\nORIGIN\nUNITED STATES\nSTATUS\nALIVE\nCURRENT MISSION\nN/ A\nHEIGHT\n188CM\nWEIGHT\n74KG\nBLOOD TYPE\nB+\nAGE\n38Y 3M 27D\nLOCATION\nCLASSIFIED\nTRACKER\nACTIVE\nCOMM. CHANNEL\nACTIVE\nDIRECT MANAGER\nCLASSIFIED\nAGENT-008 IS AUTHORIZED TO IMMEDIATELY TAKE ON A NEW\nMISSION WITHOUT APPROVAL FROM THE CHAIRMAN.\nHE IS PERMITTED TO DETAIN, IDENTIFY, AND/OR RETIRE\nANY INDIVIDUAL RELATED TO HIS MISSION AND\nIS ALLOWED TO CARRY ANY KIND OF WEAPON TO COMPLETE\nHIS MISSION IN ACCORDANCE WITH PROTOCOLS C-288 AND D-789.\nPLEASE PROCEED ANY NEW MISSION WITH WISDOM.\nCONTACT\nMESSAGE\nMORE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c7f621e3d5c554b3efb2a0a77c3fabf0930aa6069bb00bbb990041c5e134a1a5"
+  }
+}

@@ -1,0 +1,114 @@
+:root {
+  --menu-paper: linear-gradient(145deg, #323232f2, #242424f5 66%);
+  --menu-edge: #ffffff24;
+  --menu-shadow: 0 24px 64px -16px #0009, 0 8px 24px -8px #0008, inset 0 1px 0 #ffffff0c;
+  --menu-ease: cubic-bezier(.16, 1, .3, 1);
+}
+
+/* One material and one motion language for menus, pickers, and disclosures. */
+.view-options-panel {
+  width: 276px; padding: 16px; gap: 16px;
+  border: 1px solid var(--menu-edge); border-radius: 16px;
+  background: var(--menu-paper); box-shadow: var(--menu-shadow);
+  backdrop-filter: blur(24px) saturate(135%); -webkit-backdrop-filter: blur(24px) saturate(135%);
+}
+.menu-panel-heading { display: flex; align-items: center; justify-content: space-between; padding: 0 0 12px; border-bottom: 1px solid #ffffff0d; }
+.menu-panel-heading strong { color: #e2e2e2; font: 500 12px var(--sans); letter-spacing: -.1px; }
+.menu-panel-heading > svg { width: 14px; height: 14px; color: #929292; }
+.view-options-panel label, .view-options-layout { gap: 8px; color: #a3a3a3; font-size: 10px; }
+.view-options-panel .filter-select { border: 1px solid #ffffff13; border-radius: 9px; background: #ffffff06; padding: 9px 10px; font-size: 12px; }
+.view-options-panel .view-toggle { background: #0002; border: 1px solid #ffffff09; border-radius: 10px; padding: 3px; gap: 3px; }
+.view-options-panel .view-toggle .icon-button { height: 31px; border-radius: 7px; color: #a6a6a6; }
+.view-options-panel .view-toggle .icon-button.selected { background: #ffffff10; color: #eeeeee; box-shadow: 0 1px 3px #0002, inset 0 1px 0 #ffffff08; }
+.view-options-filters { border-color: #ffffff0c; gap: 13px; }
+.view-options-actions { margin: 0 -5px -5px; padding: 9px 0 0; border-color: #ffffff0c; }
+.view-options-actions button { min-height: 36px; padding: 9px 10px; border-radius: 8px; transition: background-color 110ms ease, color 110ms ease, transform 140ms var(--menu-ease); }
+.view-options > summary { transition: background-color 120ms ease, color 120ms ease, transform 160ms var(--menu-ease); }
+.view-options[open] > summary { color: #dcdcdc; background: #cbcbcb10; }
+.view-options:not([open]) .view-options-panel { pointer-events: none; }
+
+/* Keep native details semantics while letting closed content finish its exit. */
+@supports selector(details::details-content) {
+  .view-options:not([open]) .view-options-panel { display: grid; }
+  .view-options::details-content {
+    transition: content-visibility 160ms allow-discrete;
+  }
+  .view-options[open]::details-content { transition-duration: 220ms; }
+  .view-options-panel {
+    opacity: 0; transform: translateY(var(--menu-shift, -4px)) scale(.98); transform-origin: top right;
+    transition: opacity 120ms ease, transform 160ms var(--menu-ease);
+  }
+  .view-options-panel[data-side=above] { transform-origin: bottom right; --menu-shift: 4px; }
+  .view-options[open] .view-options-panel { opacity: 1; transform: none; transition-duration: 180ms, 220ms; }
+  @starting-style {
+    .view-options[open]:not([data-continuing]) .view-options-panel { opacity: 0; transform: translateY(var(--menu-shift, -4px)) scale(.98); }
+  }
+  :where(.settings-section details, .relationship-picker, #text-details)::details-content {
+    opacity: 0; transform: translateY(-3px);
+    transition: opacity 120ms ease, transform 160ms var(--menu-ease), content-visibility 160ms allow-discrete;
+  }
+  :where(.settings-section details, .relationship-picker, #text-details)[open]::details-content { opacity: 1; transform: none; }
+}
+
+/* Progressive enhancement: real selects keep their forms and keyboard behavior. */
+@supports (appearance: base-select) {
+  select:not([multiple]):not([size]), select:not([multiple]):not([size])::picker(select) { appearance: base-select; }
+  select:not([multiple]):not([size]) { align-items: center; gap: 14px; border-radius: 9px; }
+  select:not([multiple]):not([size])::picker-icon {
+    color: #9d9d9d; font-size: 10px;
+    transition: transform 200ms var(--menu-ease), color 120ms ease;
+  }
+  select:not([multiple]):not([size]):open::picker-icon { transform: rotate(180deg); color: #cacaca; }
+  select:not([multiple]):not([size]):open { border-color: #cbcbcb55; background: #cbcbcb09; }
+  select:not([multiple]):not([size])::picker(select) {
+    padding: 6px; margin-block: 6px; min-width: anchor-size(width); max-width: calc(100vw - 24px);
+    max-height: min(360px, 65dvh); overflow: auto; overscroll-behavior: contain;
+    border: 1px solid var(--menu-edge); border-radius: 13px; color: #e2e2e2;
+    background: var(--menu-paper); box-shadow: var(--menu-shadow);
+    backdrop-filter: blur(24px) saturate(135%); -webkit-backdrop-filter: blur(24px) saturate(135%);
+    scrollbar-width: thin; scrollbar-color: #ffffff26 transparent;
+    opacity: 0; transform: translateY(-4px) scale(.98); transform-origin: top center;
+    transition: opacity 120ms ease, transform 160ms var(--menu-ease), display 160ms allow-discrete, overlay 160ms allow-discrete;
+  }
+  select:not([multiple]):not([size]):open::picker(select) {
+    opacity: 1; transform: none;
+    transition-duration: 180ms, 220ms, 220ms, 220ms;
+  }
+  select:not([multiple]):not([size]) option {
+    display: flex; align-items: center; gap: 16px; min-height: 35px;
+    padding: 8px 10px; border: 0; border-radius: 7px; background: transparent;
+    color: #d3d3d3; font: 400 12px/1.5 var(--sans); cursor: pointer;
+  }
+  select:not([multiple]):not([size]) option:checked { color: #ededed; background: #cbcbcb0c; }
+  select:not([multiple]):not([size]) option:hover, select:not([multiple]):not([size]) option:focus { outline: none; background: #ffffff11; color: #fff; }
+  select:not([multiple]):not([size]) option::checkmark { order: 1; margin-inline-start: auto; color: #c1c1c1; font-size: 11px; }
+  select:not([multiple]):not([size]) option:disabled { color: #828282; cursor: default; }
+  @starting-style {
+    select:not([multiple]):not([size]):open::picker(select) { opacity: 0; transform: translateY(-4px) scale(.98); }
+  }
+}
+@media (hover: hover) and (pointer: fine) {
+  .view-options-actions button:hover { color: #eeeeee; background: #ffffff0b; }
+  .view-options-panel .filter-select:hover { border-color: #ffffff28; }
+}
+:root[data-motion-input=keyboard] details::details-content { transition: none !important; }
+:root[data-motion-input=keyboard] select::picker(select) { transition: none !important; }
+:root[data-motion-input=keyboard] select::picker-icon { transition: none !important; }
+@media (prefers-reduced-motion: reduce) {
+  details::details-content { transition: none !important; }
+  select::picker(select) { transition: none !important; }
+  select::picker-icon { transition: none !important; }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .view-options-panel { background: #292929; backdrop-filter: none; -webkit-backdrop-filter: none; }
+  select::picker(select) { background: #292929; backdrop-filter: none; -webkit-backdrop-filter: none; }
+}
+
+select[size] { border-radius: 12px; padding: 5px; }
+select[size] option { border-radius: 7px; padding: 9px 10px; }
+select[size] option:checked { background: #cbcbcb18; color: #e3e3e3; }
+
+@media (pointer: coarse) {
+  .menu-surface .menu-row { min-height: 44px; padding-block: 12px; }
+  select:not([multiple]):not([size]) option { min-height: 44px; }
+}

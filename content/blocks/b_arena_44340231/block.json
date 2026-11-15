@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340231",
+  "type": "image",
+  "title": "Aloners Poster",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "aloners-poster",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6cdb6ae7939ebc55260d76d0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Aloners Poster",
+      "role": "original",
+      "bytes": 33415,
+      "sha256": "6cdb6ae7939ebc55260d76d0700a0410420879f69014b5e0c61ec5a070221f32",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340231/original_7b28d0598b5e58d9bd1249e0d3dc2431.jpg",
+      "originalName": "7b28d0598b5e58d9bd1249e0d3dc2431.jpg"
+    },
+    {
+      "path": "assets/thumbnail-07bf945696441e952abde125.webp",
+      "mimeType": "image/webp",
+      "alt": "Aloners Poster",
+      "role": "thumbnail",
+      "bytes": 3054,
+      "sha256": "07bf945696441e952abde12526a23344f0b9caf1fe148e62b770c05cc0b9b2d2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIzMS9vcmlnaW5hbF83YjI4ZDA1OThiNWU1OGQ5YmQxMjQ5ZTBkM2RjMjQzMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7b28d0598b5e58d9bd1249e0d3dc2431.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6cdb6ae7939ebc55260d76d0-6cdb6ae793.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Aloners Poster",
+      "bytes": 23686,
+      "sha256": "84ea42fc5a621d1f541620ab9b807878ce23e2b8b84fa4fb426f2cc265e43349",
+      "width": 842,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6cdb6ae7939ebc55260d76d0.jpg",
+        "sourceSha256": "6cdb6ae7939ebc55260d76d0700a0410420879f69014b5e0c61ec5a070221f32",
+        "originalBytes": 33415,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340231",
+    "title": "64c6eafcc6d8406a9fbf578d961e44ef.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340231,
+      "url": "https://www.are.na/block/44340231",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "64c6eafcc6d8406a9fbf578d961e44ef.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "64c6eafcc6d8406a9fbf578d961e44ef.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Aloners Poster",
+    "text": "WE'RE CONNECTED THROUGH LONELINESS\nALONERS\nKOREAN FILM COUNCIL PRESENTS\nA KAFAIKOREAN ACADEMY OF FILM ARTS) PRODUCTION PRODUCTION SUPRORT KAFA FUND\nGUNGSEUNG YEON. JUNG DA EUN, SEO HYUN WOO, T'ARK IEONG HAK, KIM HANNAH, KIM MU BEOM\nPRODUCER LEE SEUNG-WON CINENINTOGRAPHER CHOI YOUNG KI\nINTERNATIONAL SALES M-LINE DISTRIBUTION",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "84ea42fc5a621d1f541620ab9b807878ce23e2b8b84fa4fb426f2cc265e43349"
+  }
+}

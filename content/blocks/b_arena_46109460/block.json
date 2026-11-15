@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46109460",
+  "type": "link",
+  "title": "Gemini Android",
+  "description": "At the Android Show 2026, we introduced Gemini Intelligence, proactive new AI features on Android.",
+  "category": "Writing",
+  "tags": [
+    "artificial-intelligence",
+    "android",
+    "agents"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-59ae69363142237719b5683a.webp",
+      "mimeType": "image/webp",
+      "alt": "A smarter, more proactive Android with Gemini Intelligence",
+      "role": "thumbnail",
+      "bytes": 14800,
+      "sha256": "59ae69363142237719b5683a51b69f60c0745a0576b15739299136e9a44ac32c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjEwOTQ2MC9vcmlnaW5hbF83YzA5YTY5NmY2ZjcxNzZhNDNmMjEwM2Y2Njc1M2ZmZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7c09a696f6f7176a43f2103f66753ffe.png"
+    },
+    {
+      "path": "assets/preview-febab9b3ec8a06088ea00738.webp",
+      "mimeType": "image/webp",
+      "alt": "A smarter, more proactive Android with Gemini Intelligence",
+      "role": "preview",
+      "bytes": 284046,
+      "sha256": "febab9b3ec8a06088ea007388332dde546fe1c21e5d695382e6d2198252e6eb0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46109460/original_7c09a696f6f7176a43f2103f66753ffe.png",
+      "originalName": "7c09a696f6f7176a43f2103f66753ffe.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1281560,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:06:07.000Z",
+  "updatedAt": "2026-05-13T10:06:23.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+    "title": "A smarter, more proactive Android with Gemini Intelligence",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46109460,
+      "url": "https://www.are.na/block/46109460",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "A smarter, more proactive Android with Gemini Intelligence",
+      "createdAt": "2026-05-13T10:06:07Z",
+      "updatedAt": "2026-05-13T10:06:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "A smarter, more proactive Android with Gemini Intelligence",
+      "category": "Digital design",
+      "tags": [
+        "artificial-intelligence",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

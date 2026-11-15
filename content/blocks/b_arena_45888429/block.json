@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888429",
+  "type": "image",
+  "title": "Brick Workspace",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "brick-workspace",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c3e14ef5c1b47f7d610391e3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Brick Workspace",
+      "role": "original",
+      "bytes": 437238,
+      "sha256": "c3e14ef5c1b47f7d610391e3989698ba1d516e47ef0da313b696b473e7b60937",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888429/original_879a11d75112b935f1c18e15e0ee56a0.jpeg",
+      "originalName": "879a11d75112b935f1c18e15e0ee56a0.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-3c9ca9a1d780163ea13e3ea4.webp",
+      "mimeType": "image/webp",
+      "alt": "Brick Workspace",
+      "role": "thumbnail",
+      "bytes": 13976,
+      "sha256": "3c9ca9a1d780163ea13e3ea47fe65f9ab4c2b4fafcbaf48a02d0a4a4e82c7e2c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQyOS9vcmlnaW5hbF84NzlhMTFkNzUxMTJiOTM1ZjFjMThlMTVlMGVlNTZhMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "879a11d75112b935f1c18e15e0ee56a0.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c3e14ef5c1b47f7d610391e3-c3e14ef5c1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Brick Workspace",
+      "bytes": 295538,
+      "sha256": "52d91f51981eb5c11bb4ed17322c0f22004da9c59434610f9d7e468a82413789",
+      "width": 1500,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c3e14ef5c1b47f7d610391e3.jpg",
+        "sourceSha256": "c3e14ef5c1b47f7d610391e3989698ba1d516e47ef0da313b696b473e7b60937",
+        "originalBytes": 437238,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:16:40.000Z",
+  "updatedAt": "2026-05-06T12:16:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888429",
+    "title": "hg3fbugbgaad8ml.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888429,
+      "url": "https://www.are.na/block/45888429",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hg3fbugbgaad8ml.jpeg",
+      "createdAt": "2026-05-06T12:16:40Z",
+      "updatedAt": "2026-05-06T12:16:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hg3fbugbgaad8ml.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Brick Workspace",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "52d91f51981eb5c11bb4ed17322c0f22004da9c59434610f9d7e468a82413789"
+  }
+}

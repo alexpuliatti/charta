@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340305",
+  "type": "image",
+  "title": "Green Table",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "green-table",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-effa0884b97160097a262ffe.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Green Table",
+      "role": "original",
+      "bytes": 68270,
+      "sha256": "effa0884b97160097a262ffeb875bbc59df587e2c400114354a9cf45091e5ad0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340305/original_f33ecf81dd3623dbb3776d41ed92789c.jpg",
+      "originalName": "f33ecf81dd3623dbb3776d41ed92789c.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0840cdaef4f65a1c049c201c.webp",
+      "mimeType": "image/webp",
+      "alt": "Green Table",
+      "role": "thumbnail",
+      "bytes": 9764,
+      "sha256": "0840cdaef4f65a1c049c201cb49bf21f5e63cbab91183c6e94649408a9e3b60b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwNS9vcmlnaW5hbF9mMzNlY2Y4MWRkMzYyM2RiYjM3NzZkNDFlZDkyNzg5Yy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f33ecf81dd3623dbb3776d41ed92789c.jpg"
+    },
+    {
+      "path": "assets/display-web-original-effa0884b97160097a262ffe-effa0884b9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Green Table",
+      "bytes": 47702,
+      "sha256": "55559e18f2804283e756513b761c0b859b7c5eb160d3f092fbe90d6e99fc647b",
+      "width": 1200,
+      "height": 724,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-effa0884b97160097a262ffe.jpg",
+        "sourceSha256": "effa0884b97160097a262ffeb875bbc59df587e2c400114354a9cf45091e5ad0",
+        "originalBytes": 68270,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340305",
+    "title": "8a04e56ec039a59205e3cffc157f0a69.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340305,
+      "url": "https://www.are.na/block/44340305",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "8a04e56ec039a59205e3cffc157f0a69.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "8a04e56ec039a59205e3cffc157f0a69.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Green Table",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "55559e18f2804283e756513b761c0b859b7c5eb160d3f092fbe90d6e99fc647b"
+  }
+}

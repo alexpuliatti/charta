@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888867",
+  "type": "video",
+  "title": "Train Portrait",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "train-portrait",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f46e62ab1fa1c504321bc8e7.mp4",
+      "mimeType": "video/mp4",
+      "alt": "blonde___inc-20251014_191330-3960685442.mp4",
+      "role": "original",
+      "bytes": 7367874,
+      "sha256": "f46e62ab1fa1c504321bc8e7b8a8c63133eec63c20635efc0d25100e080000a2",
+      "sourceUrl": "https://attachments.are.na/45888867/98581d73a55889a49e50a71c834725f9.mp4",
+      "originalName": "98581d73a55889a49e50a71c834725f9.mp4"
+    },
+    {
+      "path": "assets/thumbnail-baac9e8e90e62c3ecb8621cb.webp",
+      "mimeType": "image/webp",
+      "alt": "Train Portrait",
+      "role": "thumbnail",
+      "bytes": 8096,
+      "sha256": "baac9e8e90e62c3ecb8621cbe3e23d96b8a4dbcded850eebff4fffb8304fbc24",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg2Ny9vcmlnaW5hbF8yYTgwNzg3ZjMzMmNjMTJkMjAyNjA1MDYtMi1iZWYyb2EucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2a80787f332cc12d20260506-2-bef2oa.png"
+    },
+    {
+      "path": "assets/preview-efead3d5a85b4972d7c01bb6.webp",
+      "mimeType": "image/webp",
+      "alt": "blonde___inc-20251014_191330-3960685442.mp4",
+      "role": "preview",
+      "bytes": 43228,
+      "sha256": "efead3d5a85b4972d7c01bb6e1a02c93d0b67a481c6dcc2f562735ea339428d5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888867/original_2a80787f332cc12d20260506-2-bef2oa.png",
+      "originalName": "2a80787f332cc12d20260506-2-bef2oa.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 631272,
+        "width": 960,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:33:35.000Z",
+  "updatedAt": "2026-05-06T12:33:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888867",
+    "title": "blonde___inc-20251014_191330-3960685442.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888867,
+      "url": "https://www.are.na/block/45888867",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "blonde___inc-20251014_191330-3960685442.mp4",
+      "createdAt": "2026-05-06T12:33:35Z",
+      "updatedAt": "2026-05-06T12:33:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "blonde___inc-20251014_191330-3960685442.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Train Portrait",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "baac9e8e90e62c3ecb8621cbe3e23d96b8a4dbcded850eebff4fffb8304fbc24"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888945",
+  "type": "video",
+  "title": "Technical Product",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "technical-product",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4ff2656c1fcede76ee88aa71.mp4",
+      "mimeType": "video/mp4",
+      "alt": "solflare_illustration_explainer_reducedsize_v2.mp4",
+      "role": "original",
+      "bytes": 4386829,
+      "sha256": "4ff2656c1fcede76ee88aa712ef13426fe55b57c984e4dcfdd77b3ad8853746a",
+      "sourceUrl": "https://attachments.are.na/45888945/d2c1871b21084b487ac8cbfca5ecd108.mp4",
+      "originalName": "d2c1871b21084b487ac8cbfca5ecd108.mp4"
+    },
+    {
+      "path": "assets/thumbnail-7e28e893296995b83c11c9d1.webp",
+      "mimeType": "image/webp",
+      "alt": "Technical Product",
+      "role": "thumbnail",
+      "bytes": 11902,
+      "sha256": "7e28e893296995b83c11c9d18ba78d19cb1638909cdfd6ebe37969b807a66082",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODk0NS9vcmlnaW5hbF84NGQ4YzM2ZDNjZGE0MTc0MjAyNjA1MDYtMi12bDZkOTAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "84d8c36d3cda417420260506-2-vl6d90.png"
+    },
+    {
+      "path": "assets/preview-0707a63231382617fb6c5884.webp",
+      "mimeType": "image/webp",
+      "alt": "solflare_illustration_explainer_reducedsize_v2.mp4",
+      "role": "preview",
+      "bytes": 263222,
+      "sha256": "0707a63231382617fb6c588478fd889cea8db19328bcc6ae604f22e987d2b0bd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888945/original_84d8c36d3cda417420260506-2-vl6d90.png",
+      "originalName": "84d8c36d3cda417420260506-2-vl6d90.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1711065,
+        "width": 2560,
+        "height": 1440,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:36:24.000Z",
+  "updatedAt": "2026-05-06T12:36:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888945",
+    "title": "solflare_illustration_explainer_reducedsize_v2.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888945,
+      "url": "https://www.are.na/block/45888945",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "solflare_illustration_explainer_reducedsize_v2.mp4",
+      "createdAt": "2026-05-06T12:36:24Z",
+      "updatedAt": "2026-05-06T12:36:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "solflare_illustration_explainer_reducedsize_v2.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Technical Product",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7e28e893296995b83c11c9d18ba78d19cb1638909cdfd6ebe37969b807a66082"
+  }
+}

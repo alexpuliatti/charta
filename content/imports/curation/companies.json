@@ -1,0 +1,537 @@
+{
+  "version": "company-sectors-v1",
+  "organizedAt": "2026-11-15T14:58:51.297Z",
+  "basis": "Saved descriptions, tags, and captured text. Existing company types and material records are preserved; sector folders are populated only when matching saved material exists.",
+  "materialCount": 51,
+  "originalCollections": [
+    {
+      "path": "content/collections/companies/health-technology/collection.json",
+      "record": {
+        "schemaVersion": 1,
+        "id": "c_curated_companies_health_technology",
+        "title": "Health technology",
+        "description": "",
+        "items": [
+          {
+            "kind": "block",
+            "id": "b_arena_47579117"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_47128096"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_47105790"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46319324"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46231880"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46231295"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46231246"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46231184"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46230977"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016834"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016816"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016389"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016387"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016341"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016313"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016213"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016208"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45897506"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_40767682"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_40766712"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_40766710"
+          }
+        ],
+        "source": {
+          "type": "artifact-curation",
+          "version": "artifact-curation-v1"
+        }
+      }
+    },
+    {
+      "path": "content/collections/companies/nonprofits/collection.json",
+      "record": {
+        "schemaVersion": 1,
+        "id": "c_curated_companies_nonprofits",
+        "title": "Nonprofits",
+        "description": "",
+        "items": [
+          {
+            "kind": "block",
+            "id": "b_arena_50113679"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_47276645"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_47268434"
+          }
+        ],
+        "source": {
+          "type": "artifact-curation",
+          "version": "artifact-curation-v1"
+        }
+      }
+    },
+    {
+      "path": "content/collections/companies/organizations/collection.json",
+      "record": {
+        "schemaVersion": 1,
+        "id": "c_curated_companies_organizations",
+        "title": "Organizations",
+        "description": "",
+        "items": [
+          {
+            "kind": "block",
+            "id": "b_arena_46563143"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46557258"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46557251"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46016182"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_44241153"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_44177661"
+          }
+        ],
+        "source": {
+          "type": "artifact-curation",
+          "version": "artifact-curation-v1"
+        }
+      }
+    },
+    {
+      "path": "content/collections/companies/startups/collection.json",
+      "record": {
+        "schemaVersion": 1,
+        "id": "c_curated_companies_startups",
+        "title": "Startups",
+        "description": "",
+        "items": [
+          {
+            "kind": "block",
+            "id": "b_arena_47127463"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46854933"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45892828"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45889125"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_41338767"
+          }
+        ],
+        "source": {
+          "type": "artifact-curation",
+          "version": "artifact-curation-v1"
+        }
+      }
+    },
+    {
+      "path": "content/collections/companies/studios/collection.json",
+      "record": {
+        "schemaVersion": 1,
+        "id": "c_curated_companies_studios",
+        "title": "Studios",
+        "description": "",
+        "items": [
+          {
+            "kind": "block",
+            "id": "b_arena_47277879"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46316119"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_46111293"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45932662"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45897747"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45892721"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45892673"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_45382687"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_44177653"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_43997049"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_41201192"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_41199663"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_38863662"
+          }
+        ],
+        "source": {
+          "type": "artifact-curation",
+          "version": "artifact-curation-v1"
+        }
+      }
+    },
+    {
+      "path": "content/collections/companies/vc-firms/collection.json",
+      "record": {
+        "schemaVersion": 1,
+        "id": "c_curated_companies_vc_firms",
+        "title": "VC firms",
+        "description": "",
+        "items": [
+          {
+            "kind": "block",
+            "id": "b_arena_45915847"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_44241164"
+          },
+          {
+            "kind": "block",
+            "id": "b_arena_44177745"
+          }
+        ],
+        "source": {
+          "type": "artifact-curation",
+          "version": "artifact-curation-v1"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "id": "f_curated_companies_startups",
+      "title": "Startups",
+      "materialCount": 5,
+      "children": [
+        {
+          "id": "c_curated_companies_startups",
+          "title": "Neurotech startups",
+          "path": "content/collections/companies/startups/neurotech/collection.json",
+          "materialIds": [
+            "b_arena_46854933"
+          ]
+        },
+        {
+          "id": "c_curated_companies_startups_biotech",
+          "title": "Biotech startups",
+          "path": "content/collections/companies/startups/biotech/collection.json",
+          "materialIds": [
+            "b_arena_41338767"
+          ]
+        },
+        {
+          "id": "c_curated_companies_startups_medtech",
+          "title": "Medtech startups",
+          "path": "content/collections/companies/startups/medtech/collection.json",
+          "materialIds": [
+            "b_arena_47127463",
+            "b_arena_45892828"
+          ]
+        },
+        {
+          "id": "c_curated_companies_startups_space_tech",
+          "title": "Space tech startups",
+          "path": "content/collections/companies/startups/space-tech/collection.json",
+          "materialIds": [
+            "b_arena_45889125"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_curated_companies_vc_funds",
+      "title": "VC funds",
+      "materialCount": 3,
+      "children": [
+        {
+          "id": "c_curated_companies_vc_firms",
+          "title": "Deep tech funds",
+          "path": "content/collections/companies/vc-funds/deep-tech/collection.json",
+          "materialIds": [
+            "b_arena_44241164",
+            "b_arena_44177745"
+          ]
+        },
+        {
+          "id": "c_curated_companies_vc_funds_generalist",
+          "title": "Generalist funds",
+          "path": "content/collections/companies/vc-funds/generalist/collection.json",
+          "materialIds": [
+            "b_arena_45915847"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_curated_companies_studios",
+      "title": "Studios",
+      "materialCount": 13,
+      "children": [
+        {
+          "id": "c_curated_companies_studios",
+          "title": "Creative tech studios",
+          "path": "content/collections/companies/studios/creative-tech/collection.json",
+          "materialIds": [
+            "b_arena_46111293",
+            "b_arena_45892673",
+            "b_arena_45382687",
+            "b_arena_44177653",
+            "b_arena_43997049",
+            "b_arena_41201192"
+          ]
+        },
+        {
+          "id": "c_curated_companies_studios_brand_web",
+          "title": "Brand & web studios",
+          "path": "content/collections/companies/studios/brand-web/collection.json",
+          "materialIds": [
+            "b_arena_46316119",
+            "b_arena_45932662",
+            "b_arena_45892721",
+            "b_arena_38863662"
+          ]
+        },
+        {
+          "id": "c_curated_companies_studios_production",
+          "title": "Production studios",
+          "path": "content/collections/companies/studios/production/collection.json",
+          "materialIds": [
+            "b_arena_47277879",
+            "b_arena_45897747"
+          ]
+        },
+        {
+          "id": "c_curated_companies_studios_strategy_foresight",
+          "title": "Strategy & foresight",
+          "path": "content/collections/companies/studios/strategy-foresight/collection.json",
+          "materialIds": [
+            "b_arena_41199663"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_curated_companies_nonprofits",
+      "title": "Nonprofits",
+      "materialCount": 3,
+      "children": [
+        {
+          "id": "c_curated_companies_nonprofits",
+          "title": "Neurotech nonprofits",
+          "path": "content/collections/companies/nonprofits/neurotech/collection.json",
+          "materialIds": [
+            "b_arena_50113679"
+          ]
+        },
+        {
+          "id": "c_curated_companies_nonprofits_ai",
+          "title": "AI nonprofits",
+          "path": "content/collections/companies/nonprofits/ai/collection.json",
+          "materialIds": [
+            "b_arena_47268434"
+          ]
+        },
+        {
+          "id": "c_curated_companies_nonprofits_science",
+          "title": "Science nonprofits",
+          "path": "content/collections/companies/nonprofits/science/collection.json",
+          "materialIds": [
+            "b_arena_47276645"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_curated_companies_health_technology",
+      "title": "Health technology",
+      "materialCount": 21,
+      "children": [
+        {
+          "id": "c_curated_companies_health_technology",
+          "title": "Neurotech",
+          "path": "content/collections/companies/health-technology/neurotech/collection.json",
+          "materialIds": [
+            "b_arena_47579117",
+            "b_arena_47128096",
+            "b_arena_47105790",
+            "b_arena_46319324",
+            "b_arena_46231880",
+            "b_arena_46231295",
+            "b_arena_46231246",
+            "b_arena_46231184",
+            "b_arena_46230977",
+            "b_arena_46016834",
+            "b_arena_46016816",
+            "b_arena_46016389",
+            "b_arena_40766710"
+          ]
+        },
+        {
+          "id": "c_curated_companies_health_technology_mental_health",
+          "title": "Mental health & wellbeing",
+          "path": "content/collections/companies/health-technology/mental-health/collection.json",
+          "materialIds": [
+            "b_arena_46016387",
+            "b_arena_46016341",
+            "b_arena_46016313",
+            "b_arena_46016213",
+            "b_arena_46016208",
+            "b_arena_40767682",
+            "b_arena_40766712"
+          ]
+        },
+        {
+          "id": "c_curated_companies_health_technology_biotech",
+          "title": "Biotech",
+          "path": "content/collections/companies/health-technology/biotech/collection.json",
+          "materialIds": [
+            "b_arena_45897506"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_curated_companies_organizations",
+      "title": "Organizations",
+      "materialCount": 6,
+      "children": [
+        {
+          "id": "c_curated_companies_organizations",
+          "title": "AI models & data",
+          "path": "content/collections/companies/organizations/ai-models-data/collection.json",
+          "materialIds": [
+            "b_arena_46557258",
+            "b_arena_46557251"
+          ]
+        },
+        {
+          "id": "c_curated_companies_organizations_agents_automation",
+          "title": "Agents & automation",
+          "path": "content/collections/companies/organizations/agents-automation/collection.json",
+          "materialIds": [
+            "b_arena_46563143",
+            "b_arena_44177661"
+          ]
+        },
+        {
+          "id": "c_curated_companies_organizations_security_intelligence",
+          "title": "Security & intelligence",
+          "path": "content/collections/companies/organizations/security-intelligence/collection.json",
+          "materialIds": [
+            "b_arena_44241153"
+          ]
+        },
+        {
+          "id": "c_curated_companies_organizations_mental_health_directories",
+          "title": "Mental health directories",
+          "path": "content/collections/companies/organizations/mental-health-directories/collection.json",
+          "materialIds": [
+            "b_arena_46016182"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+:root {
+  --motion-ease: cubic-bezier(.22, 1, .36, 1);
+  --motion-in-out: cubic-bezier(.65, 0, .35, 1);
+}
+.brand { width: fit-content; gap: 0; font-size: 0; line-height: 0; text-decoration: none; }
+.brand:hover { text-decoration: none; }
+.brand img { width: 30px; height: 30px; }
+.avatar img { display: block; width: 20px; height: 20px; }
+
+/* A quiet paper-like drift, reserved for the home logo. */
+.dashboard-logo .charta-mark {
+  transform-origin: 24px 24px;
+  animation: charta-drift 6s cubic-bezier(.45, 0, .55, 1) infinite;
+}
+.dashboard-logo .charta-fold {
+  transform-origin: 28px 8px;
+  animation: charta-fold 6s cubic-bezier(.45, 0, .55, 1) infinite;
+}
+@keyframes charta-drift {
+  0%, 100% { transform: translateY(0) rotate(-1.5deg); }
+  50% { transform: translateY(-2px) rotate(1.5deg); }
+}
+@keyframes charta-fold {
+  0%, 100% { transform: rotate(0); opacity: .85; }
+  50% { transform: rotate(-8deg); opacity: 1; }
+}
+
+/* Native discrete transitions retain the top layer throughout dialog exits. */
+.modal, .detail-dialog {
+  opacity: 0;
+  transform: translateY(8px) scale(.985);
+  transition: opacity 160ms var(--motion-ease), transform 200ms var(--motion-ease),
+    display 200ms allow-discrete, overlay 200ms allow-discrete;
+}
+.detail-dialog { transform: translateX(28px); }
+.modal[open], .detail-dialog[open] { opacity: 1; transform: none; }
+.modal[open] { transition-duration: 200ms, 240ms, 240ms, 240ms; }
+.detail-dialog[open] { transition-duration: 220ms, 280ms, 280ms, 280ms; }
+.modal::backdrop, .detail-dialog::backdrop {
+  opacity: 0;
+  transition: opacity 180ms ease, display 240ms allow-discrete, overlay 240ms allow-discrete;
+}
+.modal[open]::backdrop, .detail-dialog[open]::backdrop { opacity: 1; }
+@starting-style {
+  .modal[open] { opacity: 0; transform: translateY(8px) scale(.985); }
+  .detail-dialog[open] { opacity: 0; transform: translateX(28px); }
+  .modal[open]::backdrop, .detail-dialog[open]::backdrop { opacity: 0; }
+}
+.toast { transition: opacity 180ms ease, transform 240ms var(--motion-ease); }
+.nav-item, .folder-toggle, .connection-pill, .card-menu, .collection-menu, .view-options > summary {
+  transition: background-color 140ms ease, color 140ms ease, opacity 140ms ease, transform 160ms var(--motion-ease);
+}
+.form-field input, .form-field textarea, .form-field select {
+  transition: border-color 140ms ease, background-color 140ms ease;
+}
+@media (hover: hover) and (pointer: fine) {
+  .card-preview img { transition: transform 260ms var(--motion-ease); }
+  .card-open:hover .card-preview img { transform: scale(1.018); }
+}
+
+/* The browser animates snapshots, avoiding repeated grid layout on collapse. */
+body[data-layout-transition=sidebar] .sidebar { view-transition-name: charta-sidebar; }
+body[data-layout-transition=sidebar] .main { view-transition-name: charta-workspace; }
+::view-transition { pointer-events: none; }
+::view-transition-group(charta-sidebar), ::view-transition-group(charta-workspace) {
+  animation-duration: 260ms; animation-timing-function: var(--motion-in-out);
+}
+::view-transition-old(charta-sidebar), ::view-transition-new(charta-sidebar),
+::view-transition-old(charta-workspace), ::view-transition-new(charta-workspace) {
+  object-fit: none; object-position: left top; animation-duration: 180ms;
+}
+::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
+@media (max-width: 800px) {
+  .sidebar { transition: transform 280ms var(--motion-ease); }
+  .nav-scrim {
+    opacity: 0;
+    transition: opacity 180ms ease, display 180ms allow-discrete;
+  }
+  .nav-scrim:not([hidden]) { opacity: 1; }
+  .nav-scrim[hidden] { pointer-events: none; }
+  @starting-style { .nav-scrim:not([hidden]) { opacity: 0; } }
+}
+
+/* Input modality is set before controls react, including native dialog Escape. */
+:root[data-motion-input=keyboard] *, :root[data-motion-input=keyboard] *::before,
+:root[data-motion-input=keyboard] *::after, :root[data-motion-input=keyboard] dialog::backdrop,
+.modal[data-instant=true], .modal[data-instant=true]::backdrop, .context-menu[data-instant=true] {
+  transition: none !important;
+}
+:root[data-motion-input=keyboard] .card-preview img { transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after, dialog::backdrop { transition: none !important; animation: none !important; }
+  .card-preview img { transform: none !important; }
+  ::view-transition-group(*), ::view-transition-old(*), ::view-transition-new(*) { animation: none !important; }
+}

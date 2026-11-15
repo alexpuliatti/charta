@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579158",
+  "type": "image",
+  "title": "Breakfast Logo",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "breakfast-logo",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-133b193cc633183bcf01d6a1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Breakfast Logo",
+      "role": "original",
+      "bytes": 311809,
+      "sha256": "133b193cc633183bcf01d6a195d7b7d63ea6f5413c76b9e125a141199f91f13b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579158/original_442842736fa8606b5eb9a5b797526e0f.jpeg",
+      "originalName": "442842736fa8606b5eb9a5b797526e0f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d5ad367953ca05cc72ddc6e2.webp",
+      "mimeType": "image/webp",
+      "alt": "Breakfast Logo",
+      "role": "thumbnail",
+      "bytes": 3160,
+      "sha256": "d5ad367953ca05cc72ddc6e2fbfde580ce0a0dc051d0aaec7ff3a1550eaee37d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE1OC9vcmlnaW5hbF80NDI4NDI3MzZmYTg2MDZiNWViOWE1Yjc5NzUyNmUwZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "442842736fa8606b5eb9a5b797526e0f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-133b193cc633183bcf01d6a1-133b193cc6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Breakfast Logo",
+      "bytes": 77734,
+      "sha256": "cdc5261b7fda3fc601f0dd84bc2d5b25fd31a80cd8c2025012fe7e149cb36824",
+      "width": 2000,
+      "height": 1454,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-133b193cc633183bcf01d6a1.jpg",
+        "sourceSha256": "133b193cc633183bcf01d6a195d7b7d63ea6f5413c76b9e125a141199f91f13b",
+        "originalBytes": 311809,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:34:44.000Z",
+  "updatedAt": "2026-07-04T15:34:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579158",
+    "title": "patch scan",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579158,
+      "url": "https://www.are.na/block/47579158",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "patch scan",
+      "createdAt": "2026-07-04T15:34:44Z",
+      "updatedAt": "2026-07-04T15:34:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "patch scan",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Breakfast Logo",
+    "text": "SE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cdc5261b7fda3fc601f0dd84bc2d5b25fd31a80cd8c2025012fe7e149cb36824"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579167",
+  "type": "image",
+  "title": "Quiet Portrait",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "quiet-portrait",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2342e0c9c7e84752855c199f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quiet Portrait",
+      "role": "original",
+      "bytes": 173814,
+      "sha256": "2342e0c9c7e84752855c199fe2436d9a0665b54c364fb1da7b763e76f16ab944",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579167/original_4fcd1fa29dd91053bc4106ef22a31811.jpeg",
+      "originalName": "4fcd1fa29dd91053bc4106ef22a31811.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-830f916edb21b98b19ebc6a2.webp",
+      "mimeType": "image/webp",
+      "alt": "Quiet Portrait",
+      "role": "thumbnail",
+      "bytes": 11226,
+      "sha256": "830f916edb21b98b19ebc6a2edd3ad8c33baa3e6e1f69b1715170936b2710d1d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE2Ny9vcmlnaW5hbF80ZmNkMWZhMjlkZDkxMDUzYmM0MTA2ZWYyMmEzMTgxMS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4fcd1fa29dd91053bc4106ef22a31811.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-2342e0c9c7e84752855c199f-2342e0c9c7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quiet Portrait",
+      "bytes": 28982,
+      "sha256": "a791eafe576adbdd0500c263f43281125a7c96efc09f108096d1473dab63ce11",
+      "width": 600,
+      "height": 421,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2342e0c9c7e84752855c199f.jpg",
+        "sourceSha256": "2342e0c9c7e84752855c199fe2436d9a0665b54c364fb1da7b763e76f16ab944",
+        "originalBytes": 173814,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:35:28.000Z",
+  "updatedAt": "2026-08-29T06:05:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579167",
+    "title": "IMG_3F7317EB0270-1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579167,
+      "url": "https://www.are.na/block/47579167",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "IMG_3F7317EB0270-1",
+      "createdAt": "2026-07-04T15:35:28Z",
+      "updatedAt": "2026-08-29T06:05:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "IMG_3F7317EB0270-1",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quiet Portrait",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a791eafe576adbdd0500c263f43281125a7c96efc09f108096d1473dab63ce11"
+  }
+}

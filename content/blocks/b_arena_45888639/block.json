@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888639",
+  "type": "image",
+  "title": "Studio Stationery",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "studio-stationery",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-35144d11b5642772b4ef11f6.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Studio Stationery",
+      "role": "original",
+      "bytes": 598932,
+      "sha256": "35144d11b5642772b4ef11f6d872bf88cb27f69b2a48e6540ef456af8a8e7049",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888639/original_bf8937b1f60a715cdbe0676a2c9829fe.jpeg",
+      "originalName": "bf8937b1f60a715cdbe0676a2c9829fe.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e8538d12ab4e81f6f3df383a.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Stationery",
+      "role": "thumbnail",
+      "bytes": 3076,
+      "sha256": "e8538d12ab4e81f6f3df383a874c2bd31d043e07cf16094e9bc37727556bc52d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYzOS9vcmlnaW5hbF9iZjg5MzdiMWY2MGE3MTVjZGJlMDY3NmEyYzk4MjlmZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "bf8937b1f60a715cdbe0676a2c9829fe.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-35144d11b5642772b4ef11f6-35144d11b5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Stationery",
+      "bytes": 126350,
+      "sha256": "da27537ab41d331cacef29197416304ee6f86e82217b738212f4378f7250b232",
+      "width": 1920,
+      "height": 1280,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-35144d11b5642772b4ef11f6.jpg",
+        "sourceSha256": "35144d11b5642772b4ef11f6d872bf88cb27f69b2a48e6540ef456af8a8e7049",
+        "originalBytes": 598932,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:24:44.000Z",
+  "updatedAt": "2026-05-06T12:24:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888639",
+    "title": "heuzlnabyaipv2h.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888639,
+      "url": "https://www.are.na/block/45888639",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "heuzlnabyaipv2h.jpeg",
+      "createdAt": "2026-05-06T12:24:44Z",
+      "updatedAt": "2026-05-06T12:24:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "heuzlnabyaipv2h.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Stationery",
+    "text": "TR•STUDIO\nTR• STUDIO\nTR• STUDIO\nTOM RUTT\nARCHITECT\n+44 (0) 712 345 6789\n+44 (0) 20 1234 5678\nTOM@TRSTUDIO.CO.UK\nTRSTUDIO.CO.UK",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "da27537ab41d331cacef29197416304ee6f86e82217b738212f4378f7250b232"
+  }
+}

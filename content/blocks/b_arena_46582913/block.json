@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582913",
+  "type": "video",
+  "title": "Focus Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "focus-website",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e958b19204edbd976c6932f6.mp4",
+      "mimeType": "video/mp4",
+      "alt": "keynote",
+      "role": "original",
+      "bytes": 4855918,
+      "sha256": "e958b19204edbd976c6932f6c5a4df5cac0b53e2c7eceb55d861c46e948c10f5",
+      "sourceUrl": "https://attachments.are.na/46582913/4fa529cc4dfa197902b563d6c7affc5c.mp4",
+      "originalName": "4fa529cc4dfa197902b563d6c7affc5c.mp4"
+    },
+    {
+      "path": "assets/thumbnail-2be37b525dc259007ab9d7b4.webp",
+      "mimeType": "image/webp",
+      "alt": "Focus Website",
+      "role": "thumbnail",
+      "bytes": 2124,
+      "sha256": "2be37b525dc259007ab9d7b494d823aad3e36f2a1a3d8906067ca5fc18cccab1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkxMy9vcmlnaW5hbF9jNWNiMmE3NzI1MmZjZmZiMjAyNjA1MjktMi1jazZyemYucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c5cb2a77252fcffb20260529-2-ck6rzf.png"
+    },
+    {
+      "path": "assets/display-web-original-e958b19204edbd976c6932f6-e958b19204.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "keynote",
+      "bytes": 2395463,
+      "sha256": "1c9ca933948779a7d4b16e3232582a433172568dd6d7498e1fd209e687326b28",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e958b19204edbd976c6932f6.mp4",
+        "sourceSha256": "e958b19204edbd976c6932f6c5a4df5cac0b53e2c7eceb55d861c46e948c10f5",
+        "originalBytes": 4855918,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-0d9aa1414c5b6a4747942338.webp",
+      "mimeType": "image/webp",
+      "alt": "keynote",
+      "role": "preview",
+      "bytes": 14730,
+      "sha256": "0d9aa1414c5b6a4747942338eb6ad48586b8469a86a96255d0828d1861bee52f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582913/original_c5cb2a77252fcffb20260529-2-ck6rzf.png",
+      "originalName": "c5cb2a77252fcffb20260529-2-ck6rzf.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 60083,
+        "width": 1280,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:25.000Z",
+  "updatedAt": "2026-05-29T08:53:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582913",
+    "title": "keynote",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582913,
+      "url": "https://www.are.na/block/46582913",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "keynote",
+      "createdAt": "2026-05-29T08:53:25Z",
+      "updatedAt": "2026-05-29T08:53:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "keynote",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Focus Website",
+    "text": "A new environment\nbuilt for focus",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2be37b525dc259007ab9d7b494d823aad3e36f2a1a3d8906067ca5fc18cccab1"
+  }
+}

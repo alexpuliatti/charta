@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700994",
+  "type": "image",
+  "title": "Shoot Horses",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "shoot-horses",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dd3904e75a25af229a7aed34.png",
+      "mimeType": "image/png",
+      "alt": "Shoot Horses",
+      "role": "original",
+      "bytes": 1231922,
+      "sha256": "dd3904e75a25af229a7aed3456b595a921df63cdc337ce292ca111f6b4e4b45f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700994/original_46a514fc8df3dd744d2821e3180a3c2a.png",
+      "originalName": "46a514fc8df3dd744d2821e3180a3c2a.png"
+    },
+    {
+      "path": "assets/thumbnail-6b83dce01fddb54e4decbfdd.webp",
+      "mimeType": "image/webp",
+      "alt": "Shoot Horses",
+      "role": "thumbnail",
+      "bytes": 10734,
+      "sha256": "6b83dce01fddb54e4decbfdd587e9f03082f2e981cfb8ec84d916d88860a5f1e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk5NC9vcmlnaW5hbF80NmE1MTRmYzhkZjNkZDc0NGQyODIxZTMxODBhM2MyYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "46a514fc8df3dd744d2821e3180a3c2a.png"
+    },
+    {
+      "path": "assets/display-web-original-dd3904e75a25af229a7aed34-dd3904e75a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Shoot Horses",
+      "bytes": 90968,
+      "sha256": "b53f11cb065152d8ed76231ede8cefd55080f06b82b82d097a0fac75bf866e05",
+      "width": 924,
+      "height": 1226,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dd3904e75a25af229a7aed34.png",
+        "sourceSha256": "dd3904e75a25af229a7aed3456b595a921df63cdc337ce292ca111f6b4e4b45f",
+        "originalBytes": 1231922,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:59.000Z",
+  "updatedAt": "2026-07-08T14:56:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700994",
+    "title": "Screenshot 2023-09-12 alle 16.50.55",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700994,
+      "url": "https://www.are.na/block/47700994",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.50.55",
+      "createdAt": "2026-07-08T14:55:59Z",
+      "updatedAt": "2026-07-08T14:56:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.50.55",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Shoot Horses",
+    "text": "THEY\nSHOOT\nHORSES.\nDON'T\nTHEY?\nA NOVEL\nHORACE\nMeCOY\nSIMON\nAND\nCHUSTER\nTHEY\nSHOOT\nHORSES,\nDON'T\nTHEY?\nA NOVEL BY\nHORACE McCOY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b53f11cb065152d8ed76231ede8cefd55080f06b82b82d097a0fac75bf866e05"
+  }
+}

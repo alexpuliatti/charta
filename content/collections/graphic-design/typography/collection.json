@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_graphic_design_typography",
+  "title": "Typography",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47579184"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46680750"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46582933"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46582931"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46582929"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473964"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473963"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473955"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46009107"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889013"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888610"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888590"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888587"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888569"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888535"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888525"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888353"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888290"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44498462"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44449939"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340293"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340242"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44255862"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144617"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44144622"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44136551"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44136533"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44136538"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_39534949"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_18672138"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_2672386"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_1390734"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

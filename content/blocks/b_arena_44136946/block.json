@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136946",
+  "type": "image",
+  "title": "Orange Ethos",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "orange-ethos",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9a88f2ee46bfb111eb9e83d0.png",
+      "mimeType": "image/png",
+      "alt": "Orange Ethos",
+      "role": "original",
+      "bytes": 480685,
+      "sha256": "9a88f2ee46bfb111eb9e83d099c06d6c30ad16c307ca9d681af3e4e884835418",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136946/original_ce114ba299320d977a440be4b666a14a.png",
+      "originalName": "ce114ba299320d977a440be4b666a14a.png"
+    },
+    {
+      "path": "assets/thumbnail-61569b5f8970c8071c182057.webp",
+      "mimeType": "image/webp",
+      "alt": "Orange Ethos",
+      "role": "thumbnail",
+      "bytes": 2874,
+      "sha256": "61569b5f8970c8071c182057de7956b899cf16163978cd60294f9f4d25a785cf",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk0Ni9vcmlnaW5hbF9jZTExNGJhMjk5MzIwZDk3N2E0NDBiZTRiNjY2YTE0YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ce114ba299320d977a440be4b666a14a.png"
+    },
+    {
+      "path": "assets/display-web-original-9a88f2ee46bfb111eb9e83d0-9a88f2ee46.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orange Ethos",
+      "bytes": 66222,
+      "sha256": "c1b3b83adba7977b37c94db92d4638ea5258a35cfae074d2c662252be311d291",
+      "width": 2000,
+      "height": 1242,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9a88f2ee46bfb111eb9e83d0.png",
+        "sourceSha256": "9a88f2ee46bfb111eb9e83d099c06d6c30ad16c307ca9d681af3e4e884835418",
+        "originalBytes": 480685,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:24.000Z",
+  "updatedAt": "2026-03-04T15:35:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136946",
+    "title": "screenshot-2026-02-28-alle-13.33.49.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136946,
+      "url": "https://www.are.na/block/44136946",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-02-28-alle-13.33.49.png",
+      "createdAt": "2026-03-04T15:35:24Z",
+      "updatedAt": "2026-03-04T15:35:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-02-28-alle-13.33.49.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orange Ethos",
+    "text": "Our\nWATCHMAKING\nWRK\nOUR CORE ETHOS IS INNOVATION.\nOUR INSPIRATION FLOWS FROM THE REALMS OF ENGINEERING.\nMOTORSPORT, AND THE ICONS OF CONTEMPORARY DESIGN.\nWE HAVE METICULOUSLY HONED THE CRITICAL FACETS OF DESIGN AND\nFUNCTIONALITY. EXACTING PRECISION IN OUR LINES, SHAPES,\nCURVES, AND DIMENSIONS. WITH HIGH-TECH MATERIALS AND WEIGHT\nOPTIMIZATION FOR PERFECT COMFORT AND WEARABILITY.\nUNCEASING COMMITMENT TO CONTINUOUS DEVELOPMENT, INNOVATION,\nAND TECHNICAL ADVANCEMENTS THAT PUSH THE HOROLOGICAL\nBOUNDARIES.\nADVANCED\nHOROLOGY\nENGINEERING\nRESEARCH\nKINEMATICS\nEthos",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c1b3b83adba7977b37c94db92d4638ea5258a35cfae074d2c662252be311d291"
+  }
+}

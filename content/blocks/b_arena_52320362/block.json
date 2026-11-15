@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_52320362",
+  "type": "link",
+  "title": "Thomson Video",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "x-post",
+    "video-reference"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-daf34aae6351d909c1d7b598.webp",
+      "mimeType": "image/webp",
+      "alt": "Thomson Video",
+      "role": "thumbnail",
+      "bytes": 5360,
+      "sha256": "daf34aae6351d909c1d7b5984c6b61da4e94dd7417e80d29fa359756ec40f8a7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MjMyMDM2Mi9vcmlnaW5hbF9kNzI4YjZkYzQ1YWUwZTA0NDlmNTcxMWRjYjgzY2JlYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d728b6dc45ae0e0449f5711dcb83cbea.png"
+    },
+    {
+      "path": "assets/preview-6645e9aac4e9260f1d386134.webp",
+      "mimeType": "image/webp",
+      "alt": "@willthomson on X",
+      "role": "preview",
+      "bytes": 64096,
+      "sha256": "6645e9aac4e9260f1d386134700bd79c49f45abed8a65f414d2177cad7f94dab",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/52320362/original_d728b6dc45ae0e0449f5711dcb83cbea.png",
+      "originalName": "d728b6dc45ae0e0449f5711dcb83cbea.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 191364,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "bodyPath": "body.md",
+  "createdAt": "2026-11-04T09:14:00.000Z",
+  "updatedAt": "2026-11-04T09:14:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Visually reviewed thumbnail shows the X login page. Duplicate saved video post has author and URL only; actual video subject is unavailable. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+  },
+  "source": {
+    "url": "https://x.com/willthomson__/status/2117673434066923965/video/1",
+    "textCapture": {
+      "url": "https://cdn.syndication.twimg.com/tweet-result?id=2117673434066923965&lang=en&token=0",
+      "method": "x-syndication"
+    },
+    "title": "@willthomson on X",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 52320362,
+      "url": "https://www.are.na/block/52320362",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "@willthomson on X",
+      "createdAt": "2026-11-04T09:14:00Z",
+      "updatedAt": "2026-11-04T09:14:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Tweets",
+    "genre": "tweet",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "@willthomson on X",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

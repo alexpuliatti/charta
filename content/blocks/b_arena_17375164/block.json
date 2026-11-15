@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_17375164",
+  "type": "image",
+  "title": "Reading Figure",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "reading-figure",
+    "painting",
+    "figurative-art",
+    "visual-culture",
+    "books",
+    "graphic-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8fea464ae749a2bc065112f9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Reading Figure",
+      "role": "original",
+      "bytes": 139351,
+      "sha256": "8fea464ae749a2bc065112f92cfc47131b05b3ad7eb5f7c55d90773b9087d177",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/17375164/original_412bf7c518154a75d651be79794eece4.jpg",
+      "originalName": "412bf7c518154a75d651be79794eece4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-b1220f8412d18d3d56cf2a77.webp",
+      "mimeType": "image/webp",
+      "alt": "Reading Figure",
+      "role": "thumbnail",
+      "bytes": 15250,
+      "sha256": "b1220f8412d18d3d56cf2a778d5268ffa9a1c16f02bdf9afeb8070f82c3d355b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNzM3NTE2NC9vcmlnaW5hbF80MTJiZjdjNTE4MTU0YTc1ZDY1MWJlNzk3OTRlZWNlNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "412bf7c518154a75d651be79794eece4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-8fea464ae749a2bc065112f9-8fea464ae7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Reading Figure",
+      "bytes": 105024,
+      "sha256": "a02e3b208424cfeb44afc3a9f6fd96c842d6107bb9cb7a0085d5598fd7c98a7f",
+      "width": 828,
+      "height": 632,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8fea464ae749a2bc065112f9.jpg",
+        "sourceSha256": "8fea464ae749a2bc065112f92cfc47131b05b3ad7eb5f7c55d90773b9087d177",
+        "originalBytes": 139351,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2022-07-27T16:26:30.000Z",
+  "updatedAt": "2026-10-06T21:11:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://scontent.cdninstagram.com/v/t1.15752-9/294019109_1428838234294132_6912306887121302051_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5a057b&_nc_ohc=FN3D0MHpGfMAX9jwS6n&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVIBewH9x0hvRN9L2N6uGoI_MkiiYq6SXjkkm8dFefhhfQ&oe=6307330D",
+    "title": "294019109_1428838234294132_6912306887121302051_n.jpg?_nc_cat=106-ccb=1-7-_nc_sid=5a057b-_nc_ohc=fn3d0mhpgfmax9jws6n-_nc_ad=z...",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 17375164,
+      "url": "https://www.are.na/block/17375164",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Mykhaylo Turovsky, Nude with a book, 1979",
+      "createdAt": "2022-07-27T16:26:30Z",
+      "updatedAt": "2026-10-06T21:11:06Z",
+      "addedBy": {
+        "id": 174442,
+        "name": "Jevgen 𓆏 Zymbalevśkyj",
+        "slug": "jevgen-zymbalevskyj"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Mykhaylo Turovsky, Nude with a book, 1979",
+      "category": "Art",
+      "tags": [
+        "painting",
+        "figurative-art",
+        "visual-culture",
+        "books",
+        "graphic-design",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Reading Figure",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a02e3b208424cfeb44afc3a9f6fd96c842d6107bb9cb7a0085d5598fd7c98a7f"
+  }
+}

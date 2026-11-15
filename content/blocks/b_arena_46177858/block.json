@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46177858",
+  "type": "video",
+  "title": "Draggable Circles",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "draggable-circles",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7979bfd2994c41749add3bda.mov",
+      "mimeType": "video/quicktime",
+      "alt": "Registrazione schermo 2026-05-15 alle 13.11.26",
+      "role": "original",
+      "bytes": 1876199,
+      "sha256": "7979bfd2994c41749add3bda97b6110ffa567d9b8315aa474dc37ec285ab514e",
+      "sourceUrl": "https://attachments.are.na/46177858/47aa24c013ab10dd6fea29f675d8ba1c.mov",
+      "originalName": "47aa24c013ab10dd6fea29f675d8ba1c.mov"
+    },
+    {
+      "path": "assets/thumbnail-0b2db41812d1f6c661478e1a.webp",
+      "mimeType": "image/webp",
+      "alt": "Draggable Circles",
+      "role": "thumbnail",
+      "bytes": 954,
+      "sha256": "0b2db41812d1f6c661478e1a6323011e5013f353a568c2ff2bba309ab358d2c4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjE3Nzg1OC9vcmlnaW5hbF9lM2QxMjNiNzYzOWM2MzljMjAyNjA1MTUtMi15a2VnbmoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e3d123b7639c639c20260515-2-ykegnj.png"
+    },
+    {
+      "path": "assets/display-web-original-7979bfd2994c41749add3bda-7979bfd299.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "Registrazione schermo 2026-05-15 alle 13.11.26",
+      "bytes": 309403,
+      "sha256": "ad22362f9b71cc3b6ef0773c27a21cbde1f66c23a4b9e25466851b39c4caabc0",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7979bfd2994c41749add3bda.mov",
+        "sourceSha256": "7979bfd2994c41749add3bda97b6110ffa567d9b8315aa474dc37ec285ab514e",
+        "originalBytes": 1876199,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-831e4a449e44ceb18ab176a5.webp",
+      "mimeType": "image/webp",
+      "alt": "Registrazione schermo 2026-05-15 alle 13.11.26",
+      "role": "preview",
+      "bytes": 4714,
+      "sha256": "831e4a449e44ceb18ab176a50fa3ed68cd53b4bab724ad454ae45fcae8ccc82d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46177858/original_e3d123b7639c639c20260515-2-ykegnj.png",
+      "originalName": "e3d123b7639c639c20260515-2-ykegnj.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 29352,
+        "width": 996,
+        "height": 992,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-15T12:12:37.000Z",
+  "updatedAt": "2026-05-15T12:12:39.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46177858",
+    "title": "Registrazione schermo 2026-05-15 alle 13.11.26",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46177858,
+      "url": "https://www.are.na/block/46177858",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Registrazione schermo 2026-05-15 alle 13.11.26",
+      "createdAt": "2026-05-15T12:12:37Z",
+      "updatedAt": "2026-05-15T12:12:39Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Registrazione schermo 2026-05-15 alle 13.11.26",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Draggable Circles",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0b2db41812d1f6c661478e1a6323011e5013f353a568c2ff2bba309ab358d2c4"
+  }
+}

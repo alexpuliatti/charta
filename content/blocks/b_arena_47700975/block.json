@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700975",
+  "type": "image",
+  "title": "Endgame Cover",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "endgame-cover",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2ef8a5ff99f99c93a58acbb5.png",
+      "mimeType": "image/png",
+      "alt": "Endgame Cover",
+      "role": "original",
+      "bytes": 1025765,
+      "sha256": "2ef8a5ff99f99c93a58acbb52ac0dcded1d1586538b9fd83bf1d7fcafcd3857b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700975/original_b71b09bcb81748cbc2aad334521a060d.png",
+      "originalName": "b71b09bcb81748cbc2aad334521a060d.png"
+    },
+    {
+      "path": "assets/thumbnail-9266683f418b020b10e9ddb8.webp",
+      "mimeType": "image/webp",
+      "alt": "Endgame Cover",
+      "role": "thumbnail",
+      "bytes": 8128,
+      "sha256": "9266683f418b020b10e9ddb8e989ab69f6d6fab2b20d71e7c9d19f7f1e4521d0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk3NS9vcmlnaW5hbF9iNzFiMDliY2I4MTc0OGNiYzJhYWQzMzQ1MjFhMDYwZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b71b09bcb81748cbc2aad334521a060d.png"
+    },
+    {
+      "path": "assets/display-web-original-2ef8a5ff99f99c93a58acbb5-2ef8a5ff99.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Endgame Cover",
+      "bytes": 91004,
+      "sha256": "fa8fe923238984957bb4677ae655f2ff1fc16db2422b0f23a8559ffb56c55749",
+      "width": 1086,
+      "height": 1258,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2ef8a5ff99f99c93a58acbb5.png",
+        "sourceSha256": "2ef8a5ff99f99c93a58acbb52ac0dcded1d1586538b9fd83bf1d7fcafcd3857b",
+        "originalBytes": 1025765,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:42.000Z",
+  "updatedAt": "2026-07-08T14:55:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700975",
+    "title": "Screenshot 2023-09-12 alle 16.48.14",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700975,
+      "url": "https://www.are.na/block/47700975",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.48.14",
+      "createdAt": "2026-07-08T14:55:42Z",
+      "updatedAt": "2026-07-08T14:55:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.48.14",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Endgame Cover",
+    "text": "becke\nendgame\nsamuel\nbeckett\nSendaar\nfaber",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "fa8fe923238984957bb4677ae655f2ff1fc16db2422b0f23a8559ffb56c55749"
+  }
+}

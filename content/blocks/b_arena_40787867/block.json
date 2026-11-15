@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787867",
+  "type": "image",
+  "title": "Timber Lounge",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "timber-lounge",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-06bfde9d2f507fb298c37710.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Timber Lounge",
+      "role": "original",
+      "bytes": 891486,
+      "sha256": "06bfde9d2f507fb298c37710390814c98560ab6c9457f6d41affb78ca7573577",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787867/original_8adb12b62bb851cdd7f23d2153026700.jpg",
+      "originalName": "8adb12b62bb851cdd7f23d2153026700.jpg"
+    },
+    {
+      "path": "assets/thumbnail-55a61fab7dbf99399cf24870.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Lounge",
+      "role": "thumbnail",
+      "bytes": 20646,
+      "sha256": "55a61fab7dbf99399cf248704ff5d749eb5c8bfcfe199aa00dc9708e5310e584",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg2Ny9vcmlnaW5hbF84YWRiMTJiNjJiYjg1MWNkZDdmMjNkMjE1MzAyNjcwMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8adb12b62bb851cdd7f23d2153026700.jpg"
+    },
+    {
+      "path": "assets/display-web-original-06bfde9d2f507fb298c37710-06bfde9d2f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Lounge",
+      "bytes": 486310,
+      "sha256": "507987ba813aba506557b2141417bade77ecb84c785e4dda29208819b1b14cea",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-06bfde9d2f507fb298c37710.jpg",
+        "sourceSha256": "06bfde9d2f507fb298c37710390814c98560ab6c9457f6d41affb78ca7573577",
+        "originalBytes": 891486,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:02:29.000Z",
+  "updatedAt": "2025-11-02T16:02:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787867",
+    "title": "topclosings-20250407_014837-2780442907.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787867,
+      "url": "https://www.are.na/block/40787867",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "topclosings-20250407_014837-2780442907.jpg",
+      "createdAt": "2025-11-02T16:02:29Z",
+      "updatedAt": "2025-11-02T16:02:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "topclosings-20250407_014837-2780442907.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Lounge",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "507987ba813aba506557b2141417bade77ecb84c785e4dda29208819b1b14cea"
+  }
+}

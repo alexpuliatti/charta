@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#121212">
+  <link rel="icon" type="image/png" href="assets/charta-32.png">
+  <title>Save to Charta</title>
+  <link rel="stylesheet" href="popup.css">
+  <link rel="stylesheet" href="menus.css">
+  <script src="menu-input.js" defer></script>
+</head>
+<body>
+  <header><span class="wordmark"><img class="brand-mark" src="assets/charta.svg" alt="Charta"></span><button id="settings-toggle" class="quiet" aria-expanded="false" aria-controls="settings">Settings</button></header>
+  <main>
+    <form id="settings" hidden>
+      <h1>GitHub repository</h1>
+      <p class="muted">Use the repository containing your Charta content folder.</p>
+      <div class="two-columns"><label>Owner<input id="owner" required autocomplete="off" placeholder="your-username" pattern="[A-Za-z0-9-]+"></label><label>Repository<input id="repo" required autocomplete="off" placeholder="Charta" pattern="[A-Za-z0-9_.-]+"></label></div>
+      <label>Branch<input id="branch" required autocomplete="off" value="main"></label>
+      <label>GitHub token<input id="token" type="password" autocomplete="off" placeholder="Fine-grained personal access token"></label>
+      <p class="hint">Choose this repository only, with Contents read and write. Your token stays in this extension for the current browser session.</p>
+      <button id="connect" class="primary" type="submit">Connect repository</button>
+      <button id="disconnect" class="quiet" type="button" hidden>Disconnect this session</button>
+    </form>
+    <section id="capture-section">
+      <h1>Save material</h1>
+      <p id="source" class="source">Reading the current page…</p>
+      <button id="reader-mode" type="button" class="reader-button">Reader mode <span aria-hidden="true">↗</span></button>
+      <form id="save-form">
+        <label>Title<input id="title" maxlength="500" required></label>
+        <label>Category<input id="category" maxlength="80" required placeholder="e.g. Design"></label>
+        <label>Tags<input id="tags" required placeholder="e.g. interfaces, typography" autocomplete="off" aria-describedby="tags-hint"></label>
+        <p class="hint tags-hint" id="tags-hint">Separate tags with commas.</p>
+        <label>Note (optional)<textarea id="note" maxlength="10000" rows="2"></textarea></label>
+        <details id="text-details"><summary id="text-label">Captured text</summary><textarea id="body" rows="4" maxlength="500000" aria-label="Captured text"></textarea></details>
+        <label class="collection-label" for="search">Save in<button class="text-button" id="refresh" type="button" aria-label="Refresh collections">Refresh</button></label>
+        <input id="search" type="search" placeholder="Find a collection…" autocomplete="off" aria-label="Search collections">
+        <select id="collections" size="4" aria-label="Save in"></select>
+        <button id="save" type="submit" class="primary" disabled>Save material <span aria-hidden="true">↗</span></button>
+      </form>
+      <button id="new-capture" class="quiet full-width" type="button">Recapture page</button>
+      <div id="pending" hidden><h2>Waiting to be saved</h2><div id="pending-list"></div></div>
+    </section>
+    <p id="status" role="status" aria-live="polite"></p>
+    <a id="commit-link" class="commit-link" target="_blank" rel="noreferrer" hidden>View commit on GitHub ↗</a>
+  </main>
+  <script src="popup.js" type="module"></script>
+</body>
+</html>

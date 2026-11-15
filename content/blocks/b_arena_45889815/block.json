@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889815",
+  "type": "file",
+  "title": "Brain Emulation",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "neuroscience",
+    "brain-emulation",
+    "machine-learning"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1c24fd248941baef174117d7.pdf",
+      "mimeType": "application/pdf",
+      "alt": "scaling-emulations.pdf",
+      "role": "original",
+      "bytes": 10405864,
+      "sha256": "1c24fd248941baef174117d7ba1099a892d87d69e088cb595b52517a6de81093",
+      "sourceUrl": "https://attachments.are.na/45889815/b36889ed74910e6dc32a68c53f4978f3.pdf",
+      "originalName": "b36889ed74910e6dc32a68c53f4978f3.pdf"
+    },
+    {
+      "path": "assets/thumbnail-63bf1bc5121edc3e1900a772.webp",
+      "mimeType": "image/webp",
+      "alt": "scaling-emulations.pdf",
+      "role": "thumbnail",
+      "bytes": 12898,
+      "sha256": "63bf1bc5121edc3e1900a772adddbe051fb500b76bc985d3720b32c71f53d9c9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTgxNS9vcmlnaW5hbF83ZmUzZjJiNzQyYjViYzM1MjAyNjA1MDYtMi1wOTByYnUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7fe3f2b742b5bc3520260506-2-p90rbu.png"
+    },
+    {
+      "path": "assets/preview-35e1beec54bbdbffcfef498f.webp",
+      "mimeType": "image/webp",
+      "alt": "scaling-emulations.pdf",
+      "role": "preview",
+      "bytes": 170582,
+      "sha256": "35e1beec54bbdbffcfef498f2f9e33b68607120b0822b6bf8bb3233ae39cd1f6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889815/original_7fe3f2b742b5bc3520260506-2-p90rbu.png",
+      "originalName": "7fe3f2b742b5bc3520260506-2-p90rbu.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 443874,
+        "width": 1236,
+        "height": 1600,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:12:04.000Z",
+  "updatedAt": "2026-05-06T13:12:08.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 103-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889815",
+    "title": "scaling-emulations.pdf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889815,
+      "url": "https://www.are.na/block/45889815",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "scaling-emulations.pdf",
+      "createdAt": "2026-05-06T13:12:04Z",
+      "updatedAt": "2026-05-06T13:12:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "paper",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "scaling-emulations.pdf",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "text": " \n \nD.  Navarro,  “ascii-brain.R”  (2024)   \nFrom\n \nWorm\n \nto\n \nHuman:\n \nScaling\n \nBrain\n \nEmulation\n \nISAAK  FREEMAN  \nAXON\n@\nMIT\n.\nEDU\n B.A.  in  Applied  Mathematics  (Neuroscience)   University  of  California,  Berkeley  (2024)  \nSubmitted  to  the  Program  in  Media  Arts  and  Sciences,  School  of  Architecture  and  Planning,  in  partial  fulfillment  of  the  \nrequirements\n \nfor\n \nthe\n \ndegree\n \nof\n \nMaster  of  Science  \nat\n \nthe\n \nMASSACHUSETTS\n \nINSTITUTE\n \nOF\n \nTECHNOLOGY\n March  2026 \n©  2026  Isaak  Freeman.  All  rights  reserved.  The  author  hereby  grants  to  MIT  a  nonexclusive,  worldwide,  irrevocable,  \nroyalty-free\n \nlicense\n \nto\n \nexercise\n \nany\n \nand\n \nall\n \nrights\n \nunder\n \ncopyright,\n \nincluding\n \nto\n \nreproduce,\n \npreserve,\n \ndistribute\n \nand\n \npublicly\n \ndisplay\n \ncopies\n \nof\n \nthe\n \nthesis,\n \nor\n \nrelease\n \nthe\n \nthesis\n \nunder\n \nan\n \nopen-access\n \nlicense.\n \n \nAuthored  by:  Isaak  Freeman  Program  in  Media  Arts  and  Sciences,  March  2026 Certified  by:  Edward  S.  Boyden  Y.  Eva  Tan  Professor  in  Neurotechnology,  Thesis  Supervisor Accepted  by:  Joseph  A.  Paradiso  Alexander  W.  Dreyfoos  Professor  of  Media  Arts  and  Sciences  Academic  Head,  Program  in  Media  Arts  and  Sciences  \n1  \n\n\nFrom  Worm  to  Human:  Scaling  Brain  Emulation  //  Isaak  Freeman  \nSubmitted\n \nto\n \nthe\n \nProgram\n \nin\n \nMedia\n \nArts\n \nand\n \nSciences,\n \nSchool\n \nof\n \nArchitecture\n \nand\n \nPlanning,\n \non\n \nJanuary\n \n23,\n \n2026,\n \nin\n \npartial\n \nfulfillment\n \nof\n \nthe\n \nrequirements\n \nfor\n \nthe\n \ndegree\n \nof\n \nMaster\n \nof\n \nScience\n \nAbstract\n \nMachine  learning  models  are  rapidly  approaching  or  surpassing  human  performance  on  \nmany\n \nmetrics.\n \nIn\n \ncomparison,\n \nneuroscience\n \nis\n \nprogressing\n \nat\n \na\n \nslow\n \npace.\n \nTo\n \nreach\n \nthe\n \nresearch\n \nvelocity\n \npossible\n \nin\n \nsoftware\n \nparadigms,\n \nwe\n \nhighlight\n \na\n \npotential\n \npath\n \nto\n \nhigh-quality\n \nemulations\n \nof\n \nthe\n \nbrains\n \nof\n \nkey\n \nmodel\n \norganisms\n \nsuch\n \nas\n \nthe\n \nroundworm\n \nCaenorhabditis\n \nelegans\n,\n \nthe\n \nzebrafish\n \nDanio\n \nrerio\n \nand\n \nthe\n \nmouse\n \nMus\n \nmusculus\n.\n \n  Notably,  multiple  required  technologies  are  rapidly  improving.  Firstly,  \nhigh-resolution\n \nimaging\n \nof\n \nneuronal\n \nstructure\n \nand\n \nconnectivity\n \nin\n \nlight\n \nmicroscopy\n \nor\n \nelectron\n \nmicroscopy.\n \nConnectomics\n \nhas\n \nprogressed\n \nfrom\n \nmapping\n \nthe\n \nbrain\n \nof\n \na\n \n302-neuron\n \nnematode\n \nC.\n \nelegans\n \nto\n \na\n \ncomplete\n \nadult\n \nfruit\n \nfly\n \nbrain\n \nreconstruction\n \ncontaining\n \napproximately\n \n140,000\n \nneurons.\n \nRequired\n \nreconstruction\n \nand\n \nproofreading\n \ncost\n \nper\n \nreconstructed\n \nneuron\n \nhas\n \nfallen\n \nfrom\n \nroughly\n \n$16,500\n \nto\n \napproximately\n \n$100\n \nfor\n \nzebrafish\n \nlarvae.\n \n  Secondly,  functional  imaging  has  improved  drastically,  approaching  high-resolution  \nimaging\n \nof\n \nentire\n \nbrains\n \nin\n \nthe\n \nyoung\n \nzebrafish\n \nand\n \ncortical\n \nsections\n \nin\n \nmice\n \ncontaining\n \nup\n \nto\n \n1\n \nmillion\n \nneurons.\n \n  Thirdly,  simulation  capabilities  have  progressed  far.  Detailed  emulated  models  of  \nneurons\n \nand\n \nsynapses\n \nare\n \navailable,\n \nranging\n \nfrom\n \nsimple\n \nproxies\n \nto\n \nbiologically\n \naccurate\n \nneurons.\n \nUnder\n \npessimistic\n \nassumptions\n \nwe\n \nestimate\n \nthat\n \nreal-time\n \nhuman\n \nbrain\n \nemulations\n \nrequire\n \nroughly\n \n6e20\n \nFLOP/s\n \nof\n \ncompute,\n \n700\n \nGB\n \nmemory\n \nstorage\n \nper\n \nGPU,\n \nand\n \n24\n \nGB/s\n \ninterconnect\n \nbandwidth.\n \nMid-2020s\n \nAI\n \nclusters\n \nreach\n \n4e20\n \nFLOP/s,\n \n180\n \nGB\n \nmemory\n \nper\n \nGPU,\n \nand\n \n1.8\n \nTB/s\n \ninterconnect,\n \nwith\n \nlarge\n \ninvestments\n \ninto\n \nlarger\n \nclusters\n \nongoing.\n  Early  emulation  attempts  are  already  running.  Recent  progress  includes  \nbenchmarking-focused\n \nemulations\n \nof\n \nzebrafish\n \nbrains,\n \nan\n \nentire\n \nmouse\n \ncortex,\n \nand\n \nincomplete\n \nsimulations\n \nas\n \nlarge\n \nas\n \n80\n \nbillion\n \nneurons,\n \nbeginning\n \nto\n \nreach\n \nhuman-scale\n \nrequirements.\n  Rigorous,  detailed,  and  biologically  accurate  emulations  of  multiple  model  organisms  \nare\n \nsurprisingly\n \ntractable.\n \nC.\n \nelegans,\n \nlarval\n \nzebrafish,\n \nand\n \nDrosophila\n \npresent\n \ncompelling\n \nnear-term\n \ntargets\n \nwhere\n \nstructural,\n \nfunctional,\n \nand\n \nmolecular\n \ndatasets\n \nare\n \nattainable.\n \nProgress\n \nin\n \nthese\n \norganisms\n \ncan\n \ndrive\n \nthe\n \ndevelopment\n \nof\n \ntechnologies\n \nand\n \nstructure-to-function\n \nmapping\n \nmethods\n \nrequired\n \nto\n \nscale\n \nup\n \nbrain\n \nemulation\n \nwork\n \nto\n \nlarger\n \norganisms,\n \nincluding\n \neventually\n \nhuman-scale\n \nemulations.\n \n \n Thesis  Supervisor:  Edward  S.  Boyden  Title:  Y.  Eva  Tan  Professor  in  Neurotechnology;  Professor  of  \nBiological\n \nEngineering,\n \nBrain\n \nand\n \nCognitive\n \nSciences,\n \nand\n \nMedia\n \nArts\n \nand\n \nSciences \n2  \n\nThesis  Committee   Supervisor  \nEdward  S.  Boyden  Y.  Eva  Tan  Professor  in  Neurotechnology  Massachusetts  Institute  of  Technology  \n Reader  \nKevin  M.  Esvelt  Associate  Professor  of  Media  Arts  and  Sciences  Massachusetts  Institute  of  Technology  \n Reader  \nGeorge  M.  Church  Robert  Winthrop  Professor  of  Genetics  Harvard  Medical  School \n3  \n\nPreface  \n This  thesis  is  my  solo-authored  monograph  developed  during  my  \ntime\n \nin\n \nthe\n \nBoyden\n \nLab\n \nat\n \nMIT\n \nfrom\n \n2024\n \nto\n \n2026.\n \n  This  is  a  peculiar  thesis:  In  order  to  argue  that  brain  \nemulations\n \nare\n \nsurprisingly\n \nfeasible,\n \nthe\n \nwork\n \nunderlying\n \nthis\n \npiece\n \nincluded\n \nconducting\n \nroughly\n \n50\n \nin-depth\n \ninterviews\n \nwith\n \nresearchers\n \nin\n \nconnectomics,\n \nfunctional\n \nimaging,\n \nand\n \nneural\n \nsimulation;\n \nsynthesizing\n \nhundreds\n \nof\n \npapers;\n \nand\n \ndrafting\n \nearly\n \nmaterial\n \nthat\n \ndeveloped\n \nthe\n \nstructure,\n \nestimates,\n \nand\n \narguments\n \npresented\n \nhere.\n  A  central  contribution  of  this  thesis  is  the  attempt  to  bridge  \nfields\n \nthat\n \nrarely\n \nspeak\n \nto\n \none\n \nanother.\n \nConnectomics,\n \nfunctional\n \nimaging,\n \nneural\n \nsimulation,\n \nand\n \nAI\n \nhardware\n ",
+    "textPath": "extracted.txt",
+    "textSha256": "5b74c2285638aabe168e1af1c3778e3f88160addc0d479d1b021adfb974ef666",
+    "textCharacters": 223800,
+    "pages": 103,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

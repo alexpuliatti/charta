@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888605",
+  "type": "image",
+  "title": "Music Library",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "music-library",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-17d327a33fa2e2662a80f023.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Music Library",
+      "role": "original",
+      "bytes": 54800,
+      "sha256": "17d327a33fa2e2662a80f023ae2335b1d0fc93e441278dbc5aa629fc18e8aa2d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888605/original_7988d300e4009a0a5786b30b2e4e743b.jpeg",
+      "originalName": "7988d300e4009a0a5786b30b2e4e743b.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-287a31f94a8920b1e0ea5204.webp",
+      "mimeType": "image/webp",
+      "alt": "Music Library",
+      "role": "thumbnail",
+      "bytes": 4830,
+      "sha256": "287a31f94a8920b1e0ea52040daa717d72787850aab6d76ea61270b02c338bd6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYwNS9vcmlnaW5hbF83OTg4ZDMwMGU0MDA5YTBhNTc4NmIzMGIyZTRlNzQzYi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7988d300e4009a0a5786b30b2e4e743b.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-17d327a33fa2e2662a80f023-17d327a33f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Music Library",
+      "bytes": 25376,
+      "sha256": "9c1a4f2e452bf58fedc0321358398eb1cdb51c69ed21d6a154b22cba3ae8d86a",
+      "width": 1179,
+      "height": 1171,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-17d327a33fa2e2662a80f023.jpg",
+        "sourceSha256": "17d327a33fa2e2662a80f023ae2335b1d0fc93e441278dbc5aa629fc18e8aa2d",
+        "originalBytes": 54800,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:42.000Z",
+  "updatedAt": "2026-05-06T12:23:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888605",
+    "title": "e7313f8799de8e74b225ca53df9fb2cf.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888605,
+      "url": "https://www.are.na/block/45888605",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "e7313f8799de8e74b225ca53df9fb2cf.jpg",
+      "createdAt": "2026-05-06T12:23:42Z",
+      "updatedAt": "2026-05-06T12:23:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "e7313f8799de8e74b225ca53df9fb2cf.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Music Library",
+    "text": "9:41\nDolo\nDumbling.FM\nBuilt on Lens\nTO\n8/10\n/I|\n12 Minutes to The Moon\nBBC World Service\nRadioLab\nNPR\nTwenty Thousand Hertz\nDetacto Sound\nHeavy Thursdays\nNY Time",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9c1a4f2e452bf58fedc0321358398eb1cdb51c69ed21d6a154b22cba3ae8d86a"
+  }
+}

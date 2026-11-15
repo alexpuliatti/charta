@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473959",
+  "type": "link",
+  "title": "DigitaltMuseum Archive",
+  "description": "DigitaltMuseum is a common database for Norwegian and Swedish museums and collections. It provides access to more than four million photographs, objects, works of art and buildings.",
+  "category": "Culture",
+  "tags": [
+    "museums",
+    "photography",
+    "objects"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-87c9e86018b28dce0734ed0e.webp",
+      "mimeType": "image/webp",
+      "alt": "DigitaltMuseum",
+      "role": "thumbnail",
+      "bytes": 6290,
+      "sha256": "87c9e86018b28dce0734ed0e5a9095da31b854dd8d5f978dd1196b3980f52bed",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk1OS9vcmlnaW5hbF80Mzg3MDU4NDk4OTg5YTk3ZjFhYTM4MDJkNTlmZTBjMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4387058498989a97f1aa3802d59fe0c1.png"
+    },
+    {
+      "path": "assets/preview-75542ad0039edce819e96dcf.webp",
+      "mimeType": "image/webp",
+      "alt": "DigitaltMuseum",
+      "role": "preview",
+      "bytes": 145820,
+      "sha256": "75542ad0039edce819e96dcfda674d32daf70bd35678093dde323bf5b9278b2c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473959/original_4387058498989a97f1aa3802d59fe0c1.png",
+      "originalName": "4387058498989a97f1aa3802d59fe0c1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 956552,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:15.000Z",
+  "updatedAt": "2026-05-25T10:58:30.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://digitaltmuseum.org/",
+    "title": "DigitaltMuseum",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473959,
+      "url": "https://www.are.na/block/46473959",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "DigitaltMuseum",
+      "createdAt": "2026-05-25T10:58:15Z",
+      "updatedAt": "2026-05-25T10:58:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Archives",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "DigitaltMuseum",
+      "category": "Tools and resources",
+      "tags": [
+        "architecture",
+        "product-design",
+        "photography",
+        "archives",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

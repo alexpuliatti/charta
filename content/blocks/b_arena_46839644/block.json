@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46839644",
+  "type": "image",
+  "title": "Brand Tools",
+  "description": "I've been building brand tools with AI lately and it's the most fun i've had with design in years. not generating finished assets, but building the generator that makes on-brand textures / patterns / key visuals on demand.\nturns out, many designers are vibecoding tools like this! \nso i'm starting a running thread to collect the good ones. \nbuilt something like this? drop it below. 👇",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "brand-tools",
+    "architecture",
+    "artificial-intelligence",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-127db07ea2f15e4daaf84b35.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Brand Tools",
+      "role": "original",
+      "bytes": 90528,
+      "sha256": "127db07ea2f15e4daaf84b35f2f90c00496930621b64f3e8d45779c6a93cf02e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46839644/original_1e97f1ae0057f7bc49521286c6510735.jpeg",
+      "originalName": "1e97f1ae0057f7bc49521286c6510735.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-dee6a9a1797a21132e402b8b.webp",
+      "mimeType": "image/webp",
+      "alt": "Brand Tools",
+      "role": "thumbnail",
+      "bytes": 9764,
+      "sha256": "dee6a9a1797a21132e402b8b0dfc87be484f2735903c5fa6d239b9d3b6cec343",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjgzOTY0NC9vcmlnaW5hbF8xZTk3ZjFhZTAwNTdmN2JjNDk1MjEyODZjNjUxMDczNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1e97f1ae0057f7bc49521286c6510735.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-127db07ea2f15e4daaf84b35-127db07ea2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Brand Tools",
+      "bytes": 47070,
+      "sha256": "08b3f8f247a8b804fc5380e63525f2152b0955d4ef2b3deb3d9b795b75f35e45",
+      "width": 1200,
+      "height": 878,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-127db07ea2f15e4daaf84b35.jpg",
+        "sourceSha256": "127db07ea2f15e4daaf84b35f2f90c00496930621b64f3e8d45779c6a93cf02e",
+        "originalBytes": 90528,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-08T08:34:07.000Z",
+  "updatedAt": "2026-06-08T08:34:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://x.com/0xCharlota/status/2063658167230165059?s=20",
+    "title": "charlota on X @0xCharlota",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46839644,
+      "url": "https://www.are.na/block/46839644",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "charlota on X @0xCharlota",
+      "createdAt": "2026-06-08T08:34:07Z",
+      "updatedAt": "2026-06-08T08:34:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "charlota on X @0xCharlota",
+      "category": "Tools and resources",
+      "tags": [
+        "architecture",
+        "artificial-intelligence",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Brand Tools",
+    "text": "Designers building\nBrand tools with Al\nSAYAZANS\nThread",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "08b3f8f247a8b804fc5380e63525f2152b0955d4ef2b3deb3d9b795b75f35e45"
+  }
+}

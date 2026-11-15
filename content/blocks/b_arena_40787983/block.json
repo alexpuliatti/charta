@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787983",
+  "type": "image",
+  "title": "Mountain Study",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "mountain-study",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4752e471a2eb3f42055dd97d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Mountain Study",
+      "role": "original",
+      "bytes": 113134,
+      "sha256": "4752e471a2eb3f42055dd97dc9a6db89bbe94ab5dda0bfd5e055576093743815",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787983/original_3353635f877686cd144a55accb0b5a0f.jpg",
+      "originalName": "3353635f877686cd144a55accb0b5a0f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0285afa7043a096345cb0798.webp",
+      "mimeType": "image/webp",
+      "alt": "Mountain Study",
+      "role": "thumbnail",
+      "bytes": 11144,
+      "sha256": "0285afa7043a096345cb07984394bc03a25ba945c52c2ebc197aff6ac92aefcd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk4My9vcmlnaW5hbF8zMzUzNjM1Zjg3NzY4NmNkMTQ0YTU1YWNjYjBiNWEwZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3353635f877686cd144a55accb0b5a0f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-4752e471a2eb3f42055dd97d-4752e471a2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mountain Study",
+      "bytes": 79162,
+      "sha256": "53f081d1744cbc0ccdb0921bf7039665eb66a8167b8d37db2bb979406dcbcea2",
+      "width": 826,
+      "height": 1024,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4752e471a2eb3f42055dd97d.jpg",
+        "sourceSha256": "4752e471a2eb3f42055dd97dc9a6db89bbe94ab5dda0bfd5e055576093743815",
+        "originalBytes": 113134,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:08:29.000Z",
+  "updatedAt": "2025-11-02T16:08:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787983",
+    "title": "gcsk3inxuaanaay.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787983,
+      "url": "https://www.are.na/block/40787983",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "gcsk3inxuaanaay.jpeg",
+      "createdAt": "2025-11-02T16:08:29Z",
+      "updatedAt": "2025-11-02T16:08:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "gcsk3inxuaanaay.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mountain Study",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "53f081d1744cbc0ccdb0921bf7039665eb66a8167b8d37db2bb979406dcbcea2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_sound_instruments",
+  "title": "Instruments",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47784750"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44365423"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44365398"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40767701"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40763136"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

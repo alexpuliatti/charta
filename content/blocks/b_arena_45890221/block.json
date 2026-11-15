@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890221",
+  "type": "link",
+  "title": "UI Skills",
+  "description": "Browse the complete UI Skills directory: curated local and community skills with install commands for accessibility, motion, frontend craft, and design engineering workflows.",
+  "category": "Interface design",
+  "tags": [
+    "design-engineering",
+    "skills",
+    "accessibility"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a6cfb30866c9400aae3acf07.webp",
+      "mimeType": "image/webp",
+      "alt": "UI Skills Directory for Design Engineers | UI Skills",
+      "role": "thumbnail",
+      "bytes": 7114,
+      "sha256": "a6cfb30866c9400aae3acf07173b900f0da704c9b9b12368709fdbaeed27e1df",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDIyMS9vcmlnaW5hbF8zN2Q5OTVhNTEyMWI3OWNmMmJjZGQyM2ZiZDQ5OTNlZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "37d995a5121b79cf2bcdd23fbd4993ee.png"
+    },
+    {
+      "path": "assets/preview-e9415d0a600121ac729e4f46.webp",
+      "mimeType": "image/webp",
+      "alt": "UI Skills Directory for Design Engineers | UI Skills",
+      "role": "preview",
+      "bytes": 101698,
+      "sha256": "e9415d0a600121ac729e4f46f068f7b7aa54ee63e1054239ba418c97673d5757",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890221/original_37d995a5121b79cf2bcdd23fbd4993ee.png",
+      "originalName": "37d995a5121b79cf2bcdd23fbd4993ee.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 395963,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:28:47.000Z",
+  "updatedAt": "2026-05-06T13:28:54.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.ui-skills.com/skills/",
+    "title": "UI Skills Directory for Design Engineers | UI Skills",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890221,
+      "url": "https://www.are.na/block/45890221",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "UI Skills Directory for Design Engineers | UI Skills",
+      "createdAt": "2026-05-06T13:28:47Z",
+      "updatedAt": "2026-05-06T13:28:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "UI Skills Directory for Design Engineers | UI Skills",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "motion-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

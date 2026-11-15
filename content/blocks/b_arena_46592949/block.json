@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46592949",
+  "type": "link",
+  "title": "Portal Gallery",
+  "description": "6 people viewing",
+  "category": "Interface design",
+  "tags": [
+    "gallery",
+    "inspiration",
+    "web-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-935a212c1a091c4513937ee6.webp",
+      "mimeType": "image/webp",
+      "alt": "Portal Gallery",
+      "role": "thumbnail",
+      "bytes": 1092,
+      "sha256": "935a212c1a091c4513937ee6ecc309b51a22f9227658e61245bbe6c1d8e762ba",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU5Mjk0OS9vcmlnaW5hbF81ZTczNWNkNjQ1NWE2MzcwZjNjODU2YjEwZWM3OGQ5Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5e735cd6455a6370f3c856b10ec78d97.png"
+    },
+    {
+      "path": "assets/preview-05c9ac6686e1d2ea3c23384b.webp",
+      "mimeType": "image/webp",
+      "alt": "gallery",
+      "role": "preview",
+      "bytes": 13118,
+      "sha256": "05c9ac6686e1d2ea3c23384ba45cdaea63c494bb9f6a0037877a2aff0fff14c7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46592949/original_5e735cd6455a6370f3c856b10ec78d97.png",
+      "originalName": "5e735cd6455a6370f3c856b10ec78d97.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 51203,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T16:53:18.000Z",
+  "updatedAt": "2026-05-29T16:53:29.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and saved source description identify the artifact and its subject. Visually reviewed thumbnail identifies a gallery with the line “Come for a stroll through the garden of human creativity...” but its contents are loading. Gallery entity is provisional; source is not readable publicly. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+  },
+  "source": {
+    "url": "https://www.enterportal.xyz/",
+    "title": "gallery",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46592949,
+      "url": "https://www.are.na/block/46592949",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "gallery",
+      "createdAt": "2026-05-29T16:53:18Z",
+      "updatedAt": "2026-05-29T16:53:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "gallery",
+      "category": "Art",
+      "tags": [
+        "contemporary-art",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

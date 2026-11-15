@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473939",
+  "type": "image",
+  "title": "Night Lineup",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "night-lineup",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-034f288770804d3710f9587e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Night Lineup",
+      "role": "original",
+      "bytes": 826905,
+      "sha256": "034f288770804d3710f9587e2864e15a09aff06822ca95b58ba40250b6804db6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473939/original_86f84db18651ff411af335d18bba60f4.jpeg",
+      "originalName": "86f84db18651ff411af335d18bba60f4.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-bd7ceefb31d215047f787d45.webp",
+      "mimeType": "image/webp",
+      "alt": "Night Lineup",
+      "role": "thumbnail",
+      "bytes": 32556,
+      "sha256": "bd7ceefb31d215047f787d4522e0a82de2189b35f5dff7f73c5a2fe721625db8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3MzkzOS9vcmlnaW5hbF84NmY4NGRiMTg2NTFmZjQxMWFmMzM1ZDE4YmJhNjBmNC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "86f84db18651ff411af335d18bba60f4.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-034f288770804d3710f9587e-034f288770.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Night Lineup",
+      "bytes": 479772,
+      "sha256": "2519026555e7d96e4757c28fdf8794497bbe03b25730d87ccdc516df5bcdc0f6",
+      "width": 1350,
+      "height": 1687,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-034f288770804d3710f9587e.jpg",
+        "sourceSha256": "034f288770804d3710f9587e2864e15a09aff06822ca95b58ba40250b6804db6",
+        "originalBytes": 826905,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:56:51.000Z",
+  "updatedAt": "2026-05-25T10:57:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46473939",
+    "title": "yuki.moscou-2432278114-20260502_083959",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473939,
+      "url": "https://www.are.na/block/46473939",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "yuki.moscou-2432278114-20260502_083959",
+      "createdAt": "2026-05-25T10:56:51Z",
+      "updatedAt": "2026-05-25T10:57:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "yuki.moscou-2432278114-20260502_083959",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Night Lineup",
+    "text": "YUKI\n02.05.2026\nnight series\nChapter IT: May\nZAMARAEV\nEITBIT\nBUWALDA\nKRISKOMISS\nDIME CHU\n20:00\n22:00\n23:30\n01:00\n02:30\nTHE\nLASTBAR\nfree\nentrance\nYUKI\ndoors\n20: - 05:\nTHE\nLASTBAR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2519026555e7d96e4757c28fdf8794497bbe03b25730d87ccdc516df5bcdc0f6"
+  }
+}

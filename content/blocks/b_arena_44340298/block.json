@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340298",
+  "type": "image",
+  "title": "Muted Covers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "muted-covers",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d042eeba5ff607f922197a88.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Muted Covers",
+      "role": "original",
+      "bytes": 60343,
+      "sha256": "d042eeba5ff607f922197a888a91c98077572fff04a601709e8f81d1303c05c3",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340298/original_acc0afcbffa40a344712b67bb34140bb.jpg",
+      "originalName": "acc0afcbffa40a344712b67bb34140bb.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0d5110cd3687e99518d0e839.webp",
+      "mimeType": "image/webp",
+      "alt": "Muted Covers",
+      "role": "thumbnail",
+      "bytes": 3418,
+      "sha256": "0d5110cd3687e99518d0e83922d2b90ee3f47be48a8af686acc39592c52d3e1e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5OC9vcmlnaW5hbF9hY2MwYWZjYmZmYTQwYTM0NDcxMmI2N2JiMzQxNDBiYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "acc0afcbffa40a344712b67bb34140bb.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d042eeba5ff607f922197a88-d042eeba5f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Muted Covers",
+      "bytes": 36624,
+      "sha256": "2eef6ef513a2dbbea6ed67faa0fb2993e8e607b6a24e39c619a3c3cda231e20e",
+      "width": 1199,
+      "height": 814,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d042eeba5ff607f922197a88.jpg",
+        "sourceSha256": "d042eeba5ff607f922197a888a91c98077572fff04a601709e8f81d1303c05c3",
+        "originalBytes": 60343,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340298",
+    "title": "6e5a340590b6d0315dcf79807c65cec9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340298,
+      "url": "https://www.are.na/block/44340298",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "6e5a340590b6d0315dcf79807c65cec9.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "6e5a340590b6d0315dcf79807c65cec9.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Muted Covers",
+    "text": "CARLOS VIDAI\nCOLEOAO LICOES DE ARTE L'DESON\nVoiE\nJOAO CASTRO SILVA\nCOLICAD LICORE DARTE E DESSION\nVOL 3\nANTONIO ORIOL TRINDADE\nOS ESPIROS E O DELENHC\nVol. 4\nJOSE CARLOS PEREIRA\nM. HEIDEGGER,HAG. GADAMES",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2eef6ef513a2dbbea6ed67faa0fb2993e8e607b6a24e39c619a3c3cda231e20e"
+  }
+}

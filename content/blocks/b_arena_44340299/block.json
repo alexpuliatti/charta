@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340299",
+  "type": "image",
+  "title": "Geometric Pattern",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "geometric-pattern",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fd48f2a9ff019c9fc6188314.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Geometric Pattern",
+      "role": "original",
+      "bytes": 35932,
+      "sha256": "fd48f2a9ff019c9fc61883147ba4a8770f1d135aea0ed6050ea2f2eb8f8b6e56",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340299/original_45af2ae58cb4dd3145ada1ec90599fa3.jpg",
+      "originalName": "45af2ae58cb4dd3145ada1ec90599fa3.jpg"
+    },
+    {
+      "path": "assets/thumbnail-4e06d4c146525fa37881bc35.webp",
+      "mimeType": "image/webp",
+      "alt": "Geometric Pattern",
+      "role": "thumbnail",
+      "bytes": 10504,
+      "sha256": "4e06d4c146525fa37881bc35622a7169b27b7fc834070fd808c6f97e3b47092a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI5OS9vcmlnaW5hbF80NWFmMmFlNThjYjRkZDMxNDVhZGExZWM5MDU5OWZhMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "45af2ae58cb4dd3145ada1ec90599fa3.jpg"
+    },
+    {
+      "path": "assets/display-web-original-fd48f2a9ff019c9fc6188314-fd48f2a9ff.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Geometric Pattern",
+      "bytes": 26674,
+      "sha256": "0f96e49cd20cb36a565a420f26d78882426ec0f7d1e76dc97783242617c80d32",
+      "width": 394,
+      "height": 593,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fd48f2a9ff019c9fc6188314.jpg",
+        "sourceSha256": "fd48f2a9ff019c9fc61883147ba4a8770f1d135aea0ed6050ea2f2eb8f8b6e56",
+        "originalBytes": 35932,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:08.000Z",
+  "updatedAt": "2026-03-11T17:42:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340299",
+    "title": "7ff3a73dff65ba36a9296aabb73fa220.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340299,
+      "url": "https://www.are.na/block/44340299",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "7ff3a73dff65ba36a9296aabb73fa220.jpg",
+      "createdAt": "2026-03-11T17:42:08Z",
+      "updatedAt": "2026-03-11T17:42:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "7ff3a73dff65ba36a9296aabb73fa220.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Geometric Pattern",
+    "text": "HEINLEIN\nDUBBELSTER\nSF",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0f96e49cd20cb36a565a420f26d78882426ec0f7d1e76dc97783242617c80d32"
+  }
+}

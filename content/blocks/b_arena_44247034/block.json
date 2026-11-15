@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247034",
+  "type": "image",
+  "title": "Gradient Cards",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "gradient-cards",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7adb2fa08d5846f518f831d3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Gradient Cards",
+      "role": "original",
+      "bytes": 134044,
+      "sha256": "7adb2fa08d5846f518f831d3a91f4e467b2242d1eb196888be016ef6385b824c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247034/original_bee16ff117a60b16ebae9dd1900bdf4b.jpg",
+      "originalName": "bee16ff117a60b16ebae9dd1900bdf4b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-9b2cadfb3d37fcf42e637f75.webp",
+      "mimeType": "image/webp",
+      "alt": "Gradient Cards",
+      "role": "thumbnail",
+      "bytes": 9706,
+      "sha256": "9b2cadfb3d37fcf42e637f75092877e22b8a3fe60eaa9ac7536d52a6b787a72a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzAzNC9vcmlnaW5hbF9iZWUxNmZmMTE3YTYwYjE2ZWJhZTlkZDE5MDBiZGY0Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bee16ff117a60b16ebae9dd1900bdf4b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7adb2fa08d5846f518f831d3-7adb2fa08d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Gradient Cards",
+      "bytes": 107268,
+      "sha256": "17f7d7138189f34a6df4ddc14586e37b31f4f933712171d52ce208e54abd287e",
+      "width": 1199,
+      "height": 911,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7adb2fa08d5846f518f831d3.jpg",
+        "sourceSha256": "7adb2fa08d5846f518f831d3a91f4e467b2242d1eb196888be016ef6385b824c",
+        "originalBytes": 134044,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:29:59.000Z",
+  "updatedAt": "2026-03-08T22:30:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247034",
+    "title": "6d9f270784275d7d1cd22572744eef5d.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247034,
+      "url": "https://www.are.na/block/44247034",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "6d9f270784275d7d1cd22572744eef5d.jpg",
+      "createdAt": "2026-03-08T22:29:59Z",
+      "updatedAt": "2026-03-08T22:30:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "6d9f270784275d7d1cd22572744eef5d.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Gradient Cards",
+    "text": "Lorenzo Gerbi Co-Director\nlorenzo(at)baltanlaboratories.org\n+31(0)627519643\nMarlou van der Cruijsen Co-Director\nmarlou(at)baltanlaboratories.org\n+31(0)614280320\nVisit us at: Natlab\nKastanjelaan 500, 5616 LZ Eindhoven (NL)\nhaitanlaboratories.org\n+\nBALTAN\nLABORATORIES\nVisit us at: Natlab\nKastanjelaan 500, 5616 LZ Eindhoven (NL)\nbaltanlaboratories.org\nBALTAN\nLABORATORIES",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "17f7d7138189f34a6df4ddc14586e37b31f4f933712171d52ce208e54abd287e"
+  }
+}

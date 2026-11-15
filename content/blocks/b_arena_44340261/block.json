@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340261",
+  "type": "image",
+  "title": "Birdsong Notation",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "birdsong-notation",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9a129a139a1e9346e9120315.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Birdsong Notation",
+      "role": "original",
+      "bytes": 102367,
+      "sha256": "9a129a139a1e9346e9120315a43aa4a18ab889ba8b6b4a0684712d32f020f558",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340261/original_33add4d6f29d85ca0370b5257aca2781.jpg",
+      "originalName": "33add4d6f29d85ca0370b5257aca2781.jpg"
+    },
+    {
+      "path": "assets/thumbnail-09321292ad0c2fd51878ce31.webp",
+      "mimeType": "image/webp",
+      "alt": "Birdsong Notation",
+      "role": "thumbnail",
+      "bytes": 7508,
+      "sha256": "09321292ad0c2fd51878ce3179def129b313c250ec72d9055532f545defce167",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI2MS9vcmlnaW5hbF8zM2FkZDRkNmYyOWQ4NWNhMDM3MGI1MjU3YWNhMjc4MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "33add4d6f29d85ca0370b5257aca2781.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9a129a139a1e9346e9120315-9a129a139a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Birdsong Notation",
+      "bytes": 93066,
+      "sha256": "9d009b83638e422115bf4b66f5859742649e93d464b9e5fa1995a0cee9336e33",
+      "width": 1440,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9a129a139a1e9346e9120315.jpg",
+        "sourceSha256": "9a129a139a1e9346e9120315a43aa4a18ab889ba8b6b4a0684712d32f020f558",
+        "originalBytes": 102367,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340261",
+    "title": "original_c8cd197a2cbd8daef517752164ca7b0f.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340261,
+      "url": "https://www.are.na/block/44340261",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_c8cd197a2cbd8daef517752164ca7b0f.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_c8cd197a2cbd8daef517752164ca7b0f.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Birdsong Notation",
+    "text": "Cara A\nNM\n6.\nIntro\n(02:40)\nMoncayo (03:18)\nVillano\n(03:27)\nVirgen\nde Magallón\nGolondrinas\n(02:30)\nMe Sabe Mal (02:57)\n(02:31)\nCara B\n7. Mis Tías (02:29)\n8. La Plaza y el Río (02:59)\nNuestra Forma de Hablar\n(03:12)\n10. La Magallonera\n(02:10)\n11. Ultimamente (04:12)\n® y © 2025 Universal Music Spain, S.L.U. Quedan reservados todos los\nderechos del productor\ngrabada.\nSalvo\nastautorización\nquedan prohibidos la dup\nde\nobra\npréstamo,\nde este\nduplicación,\nalquiler\ncomo la utilización\nLP para\nla ejecución\nbública\nradiodifusión.\nEditado y distribuido en España\npor\nUNIVERSAL\n(España) una\ncompañia\nMUSIC SPAIN/ 0202475751922. Depósito Legal: M=1217-2025\nMusic Group. Made\nin the E.U.\nwww.universalmusic.es\nGTS\nGLOBAL\nTALENT\nSERVICES\nUNIVERSAL\nUNIVERSAL MUSIC SPAIN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9d009b83638e422115bf4b66f5859742649e93d464b9e5fa1995a0cee9336e33"
+  }
+}

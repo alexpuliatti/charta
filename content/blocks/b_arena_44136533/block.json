@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136533",
+  "type": "image",
+  "title": "Exhibition Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "exhibition-typography",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-bb1e574f01d7cbd6d9cde2d5.png",
+      "mimeType": "image/png",
+      "alt": "Exhibition Typography",
+      "role": "original",
+      "bytes": 632599,
+      "sha256": "bb1e574f01d7cbd6d9cde2d515b34651100db2f306e8e220abf6da0821dea90f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136533/original_f5512c743709f1b416af2a2a61b2dc5c.png",
+      "originalName": "f5512c743709f1b416af2a2a61b2dc5c.png"
+    },
+    {
+      "path": "assets/thumbnail-358a1541506273d8f797d130.webp",
+      "mimeType": "image/webp",
+      "alt": "Exhibition Typography",
+      "role": "thumbnail",
+      "bytes": 5742,
+      "sha256": "358a1541506273d8f797d130a5067f99443a57c7ff240220954b8401fe166735",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjUzMy9vcmlnaW5hbF9mNTUxMmM3NDM3MDlmMWI0MTZhZjJhMmE2MWIyZGM1Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f5512c743709f1b416af2a2a61b2dc5c.png"
+    },
+    {
+      "path": "assets/display-web-original-bb1e574f01d7cbd6d9cde2d5-bb1e574f01.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Exhibition Typography",
+      "bytes": 40458,
+      "sha256": "942d3599aef339e85fa681fd21c2540e07d0be0e8f05526e469b84a3ff981cfb",
+      "width": 2000,
+      "height": 1123,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-bb1e574f01d7cbd6d9cde2d5.png",
+        "sourceSha256": "bb1e574f01d7cbd6d9cde2d515b34651100db2f306e8e220abf6da0821dea90f",
+        "originalBytes": 632599,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:23:36.000Z",
+  "updatedAt": "2026-03-04T15:23:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136533",
+    "title": "screenshot-2026-03-04-alle-16.01.50.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136533,
+      "url": "https://www.are.na/block/44136533",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.01.50.png",
+      "createdAt": "2026-03-04T15:23:36Z",
+      "updatedAt": "2026-03-04T15:23:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.01.50.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Exhibition Typography",
+    "text": "London\nKEKE\nGenesis\nDrop\nExhibition\nROAD\n20 Feb\n2025",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "942d3599aef339e85fa681fd21c2540e07d0be0e8f05526e469b84a3ff981cfb"
+  }
+}

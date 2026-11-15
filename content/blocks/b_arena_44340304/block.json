@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340304",
+  "type": "image",
+  "title": "Forest Stage",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "forest-stage",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9742d0bf219f79170645897a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Forest Stage",
+      "role": "original",
+      "bytes": 113018,
+      "sha256": "9742d0bf219f79170645897a69c9261fe6246e572812f23bf1bcc2bfe530a00d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340304/original_17573b0f1500e92a609296bc8be28580.jpg",
+      "originalName": "17573b0f1500e92a609296bc8be28580.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3d8fa6f5df11f502c203bb71.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Stage",
+      "role": "thumbnail",
+      "bytes": 14976,
+      "sha256": "3d8fa6f5df11f502c203bb71955dc20ae6d8d2984254552f5a7637c2e0735d27",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwNC9vcmlnaW5hbF8xNzU3M2IwZjE1MDBlOTJhNjA5Mjk2YmM4YmUyODU4MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "17573b0f1500e92a609296bc8be28580.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9742d0bf219f79170645897a-9742d0bf21.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Forest Stage",
+      "bytes": 85272,
+      "sha256": "f56518fea91693f810ed0c576175d395314cc23275682e494eb22930810260dd",
+      "width": 997,
+      "height": 674,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9742d0bf219f79170645897a.jpg",
+        "sourceSha256": "9742d0bf219f79170645897a69c9261fe6246e572812f23bf1bcc2bfe530a00d",
+        "originalBytes": 113018,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340304",
+    "title": "6ea05cc1341891a1389c929a229bbf0b.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340304,
+      "url": "https://www.are.na/block/44340304",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "6ea05cc1341891a1389c929a229bbf0b.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "6ea05cc1341891a1389c929a229bbf0b.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Stage",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f56518fea91693f810ed0c576175d395314cc23275682e494eb22930810260dd"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701004",
+  "type": "image",
+  "title": "Illustrated Covers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "illustrated-covers",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-72f6abc08be0fe8d8192ceb5.png",
+      "mimeType": "image/png",
+      "alt": "Illustrated Covers",
+      "role": "original",
+      "bytes": 2580456,
+      "sha256": "72f6abc08be0fe8d8192ceb5493ffa5cc3b3c25a2ac7de005d2e7554766d6f17",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701004/original_32be6299a8a0c91b60971f1567061ef4.png",
+      "originalName": "32be6299a8a0c91b60971f1567061ef4.png"
+    },
+    {
+      "path": "assets/thumbnail-a01ec036fc10c29251055f79.webp",
+      "mimeType": "image/webp",
+      "alt": "Illustrated Covers",
+      "role": "thumbnail",
+      "bytes": 18186,
+      "sha256": "a01ec036fc10c29251055f79c71737a74ce3e0c4112919b80acd06f7256fb702",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAwNC9vcmlnaW5hbF8zMmJlNjI5OWE4YTBjOTFiNjA5NzFmMTU2NzA2MWVmNC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "32be6299a8a0c91b60971f1567061ef4.png"
+    },
+    {
+      "path": "assets/display-web-original-72f6abc08be0fe8d8192ceb5-72f6abc08b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Illustrated Covers",
+      "bytes": 171398,
+      "sha256": "e930ecf2cf9a823ddc3783f9f086fd3dda14a24e8d757ca8338c80c486e8447b",
+      "width": 1304,
+      "height": 1432,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-72f6abc08be0fe8d8192ceb5.png",
+        "sourceSha256": "72f6abc08be0fe8d8192ceb5493ffa5cc3b3c25a2ac7de005d2e7554766d6f17",
+        "originalBytes": 2580456,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:07.000Z",
+  "updatedAt": "2026-07-08T14:56:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701004",
+    "title": "Screenshot 2023-09-12 alle 16.52.16",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701004,
+      "url": "https://www.are.na/block/47701004",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.52.16",
+      "createdAt": "2026-07-08T14:56:07Z",
+      "updatedAt": "2026-07-08T14:56:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.52.16",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Illustrated Covers",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e930ecf2cf9a823ddc3783f9f086fd3dda14a24e8d757ca8338c80c486e8447b"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701027",
+  "type": "image",
+  "title": "Lady Lake",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "lady-lake",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-70e48a56b016304c13e7df49.png",
+      "mimeType": "image/png",
+      "alt": "Lady Lake",
+      "role": "original",
+      "bytes": 2207553,
+      "sha256": "70e48a56b016304c13e7df49ef9813864bd627c6c2135c56632f981e8eccc772",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701027/original_65ce0f3da969fbfef180b152e5655f89.png",
+      "originalName": "65ce0f3da969fbfef180b152e5655f89.png"
+    },
+    {
+      "path": "assets/thumbnail-a99ff55945c537ae684e0315.webp",
+      "mimeType": "image/webp",
+      "alt": "Lady Lake",
+      "role": "thumbnail",
+      "bytes": 12826,
+      "sha256": "a99ff55945c537ae684e03159f4f63aef14c6d50b74ff5d1ad83a3171508b025",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyNy9vcmlnaW5hbF82NWNlMGYzZGE5NjlmYmZlZjE4MGIxNTJlNTY1NWY4OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "65ce0f3da969fbfef180b152e5655f89.png"
+    },
+    {
+      "path": "assets/display-web-original-70e48a56b016304c13e7df49-70e48a56b0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Lady Lake",
+      "bytes": 107890,
+      "sha256": "6153830afd5bc2894c61595ac9eae30d343afc4318d87ae7a494dc355b767dec",
+      "width": 1304,
+      "height": 1062,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-70e48a56b016304c13e7df49.png",
+        "sourceSha256": "70e48a56b016304c13e7df49ef9813864bd627c6c2135c56632f981e8eccc772",
+        "originalBytes": 2207553,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:23.000Z",
+  "updatedAt": "2026-07-08T14:56:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701027",
+    "title": "Screenshot 2023-09-12 alle 17.04.21",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701027,
+      "url": "https://www.are.na/block/47701027",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.04.21",
+      "createdAt": "2026-07-08T14:56:23Z",
+      "updatedAt": "2026-07-08T14:56:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.04.21",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Lady Lake",
+    "text": "The\nLady\nin the\nLake\nRAYMOND\nCHANDLER\nBORZOI\nBOOKS\nALFRED•A•\nKNOPF\nThe Lady\nIN THE Lake\nRAYMOND CHANDLER\nA PHILIP MARLOWE MYSTERY\n$2.00 net\nTHE LADY\nIN THE LAKE\nA woman disappears and her husband,\nwho admits that he hates her, hires a de-\ntective to find her. It could be ordinary\nbut it isn't. It is the beginning of a most\nextraordinary case, because the detec-\ntive, Philip Marlowe, understands that\nwhat is important is not a clue-not the\nneatly stacked dishes, not the strange\ntelegram, not even the too beautiful girl\nwho is the husband's secretary-but rather\nthe character of the woman who had van-\nished. When he began to find out what\nshe was like, he took his initial steps into\na world of evil, and only then did the\nidea of what she might have done and\nwhat might have been done to her take\nshape. So it was that not one crime but\nseveral were revealed, and a whole series\nof doors that hid cruel things were sud-\ndenly opened.\nAgain Chandler proves that he is one\nof the most brilliant craftsmen in his field,\nand that his Marlowe is one of the great\ndetectives in fiction.\nNo part of this book has appeared in any\nmagazine or periodical in the United States.\nJACKET DRAWN BY NORMAN REEVES",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6153830afd5bc2894c61595ac9eae30d343afc4318d87ae7a494dc355b767dec"
+  }
+}

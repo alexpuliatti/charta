@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137289",
+  "type": "image",
+  "title": "Construction Figures",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "theory",
+    "construction-figures",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-46ff91d3bbcb5f1306d6343f.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Construction Figures",
+      "role": "original",
+      "bytes": 374653,
+      "sha256": "46ff91d3bbcb5f1306d6343f2682ea508a9cae8fc60e5bd8d0d27888791ae189",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137289/original_993094938fe2ea9829861bd938131fff.jpg",
+      "originalName": "993094938fe2ea9829861bd938131fff.jpg"
+    },
+    {
+      "path": "assets/thumbnail-eb59306729c559249e80a337.webp",
+      "mimeType": "image/webp",
+      "alt": "Construction Figures",
+      "role": "thumbnail",
+      "bytes": 20388,
+      "sha256": "eb59306729c559249e80a337b81f0ea9f06ae0a1596e4c614da674fbccab3593",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI4OS9vcmlnaW5hbF85OTMwOTQ5MzhmZTJlYTk4Mjk4NjFiZDkzODEzMWZmZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "993094938fe2ea9829861bd938131fff.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:16.000Z",
+  "updatedAt": "2026-03-04T15:46:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137289",
+    "title": "_mimmodidio_-20251016_104805-2149025024.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137289,
+      "url": "https://www.are.na/block/44137289",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "_mimmodidio_-20251016_104805-2149025024.jpg",
+      "createdAt": "2026-03-04T15:46:16Z",
+      "updatedAt": "2026-03-04T15:46:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Theory",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "_mimmodidio_-20251016_104805-2149025024.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Construction Figures",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "46ff91d3bbcb5f1306d6343f2682ea508a9cae8fc60e5bd8d0d27888791ae189"
+  }
+}

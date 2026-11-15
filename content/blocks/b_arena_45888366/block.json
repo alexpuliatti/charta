@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888366",
+  "type": "image",
+  "title": "Visual Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "visual-workspace",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-01d5351a9dc3ced38f3778ac.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Visual Workspace",
+      "role": "original",
+      "bytes": 613489,
+      "sha256": "01d5351a9dc3ced38f3778ac79f91579ccb44fef5107b57e65bd69eb5a771515",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888366/original_a64bcca22f93b38a9ef5dd0ac4d68787.jpeg",
+      "originalName": "a64bcca22f93b38a9ef5dd0ac4d68787.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e40142ccb13edf09d27a7530.webp",
+      "mimeType": "image/webp",
+      "alt": "Visual Workspace",
+      "role": "thumbnail",
+      "bytes": 3424,
+      "sha256": "e40142ccb13edf09d27a753089f0cadba0806e25d56379e8985395e3546adba7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM2Ni9vcmlnaW5hbF9hNjRiY2NhMjJmOTNiMzhhOWVmNWRkMGFjNGQ2ODc4Ny5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a64bcca22f93b38a9ef5dd0ac4d68787.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-01d5351a9dc3ced38f3778ac-01d5351a9d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Visual Workspace",
+      "bytes": 67340,
+      "sha256": "f9bbbd543c0064153c17416e38203d1c3e56035e1e3ce795581bac77c55ef3b5",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-01d5351a9dc3ced38f3778ac.jpg",
+        "sourceSha256": "01d5351a9dc3ced38f3778ac79f91579ccb44fef5107b57e65bd69eb5a771515",
+        "originalBytes": 613489,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:14:42.000Z",
+  "updatedAt": "2026-05-06T12:14:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888366",
+    "title": "he02abpwwaa2qgx.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888366,
+      "url": "https://www.are.na/block/45888366",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "he02abpwwaa2qgx.jpeg",
+      "createdAt": "2026-05-06T12:14:42Z",
+      "updatedAt": "2026-05-06T12:14:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "he02abpwwaa2qgx.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Visual Workspace",
+    "text": "* - | Lets charge the\ngame of Al together\nAl Artboard\nCommunity\n$ Projects\n@ Helo # Settings\nQ Search\nObjects\nPromts\nMinimalist sustainable modern arch.\nFoundation & Surroundings\nGlazing System\nRoof & Top Layer\n- 00:12\n00:20\nCancel\nApply Edits #",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f9bbbd543c0064153c17416e38203d1c3e56035e1e3ce795581bac77c55ef3b5"
+  }
+}

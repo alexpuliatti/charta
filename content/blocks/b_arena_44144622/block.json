@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144622",
+  "type": "image",
+  "title": "Abstract Letter",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "abstract-letter",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e028a5c0b6572c80ef96c605.png",
+      "mimeType": "image/png",
+      "alt": "Abstract Letter",
+      "role": "original",
+      "bytes": 1514779,
+      "sha256": "e028a5c0b6572c80ef96c605f50edb3536cb155647d566cef53077830c803c15",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144622/original_8abf43b0b5f9105074f3ee0f36311338.png",
+      "originalName": "8abf43b0b5f9105074f3ee0f36311338.png"
+    },
+    {
+      "path": "assets/thumbnail-5030c47a16b204f2089b638b.webp",
+      "mimeType": "image/webp",
+      "alt": "Abstract Letter",
+      "role": "thumbnail",
+      "bytes": 4950,
+      "sha256": "5030c47a16b204f2089b638b46901423c464c0c005cced95a065f1eb10986a97",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYyMi9vcmlnaW5hbF84YWJmNDNiMGI1ZjkxMDUwNzRmM2VlMGYzNjMxMTMzOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8abf43b0b5f9105074f3ee0f36311338.png"
+    },
+    {
+      "path": "assets/display-web-original-e028a5c0b6572c80ef96c605-e028a5c0b6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Abstract Letter",
+      "bytes": 27192,
+      "sha256": "eaa982ab5f051e9e4b435604f1d4f7b743cf1f662b3d38921934fac10db1b029",
+      "width": 1084,
+      "height": 1380,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e028a5c0b6572c80ef96c605.png",
+        "sourceSha256": "e028a5c0b6572c80ef96c605f50edb3536cb155647d566cef53077830c803c15",
+        "originalBytes": 1514779,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:16.000Z",
+  "updatedAt": "2026-03-04T19:22:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144622",
+    "title": "screenshot-2026-03-04-alle-16.21.32.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144622,
+      "url": "https://www.are.na/block/44144622",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.21.32.png",
+      "createdAt": "2026-03-04T19:22:16Z",
+      "updatedAt": "2026-03-04T19:22:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.21.32.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Abstract Letter",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "eaa982ab5f051e9e4b435604f1d4f7b743cf1f662b3d38921934fac10db1b029"
+  }
+}

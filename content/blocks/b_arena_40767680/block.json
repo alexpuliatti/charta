@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40767680",
+  "type": "link",
+  "title": "MW75 Neuro",
+  "description": "Harness the power of your mind with Neurable’s cutting-edge Brain Computer Interface wearable. Gain unprecedented insights into your cognitive health, understand your focus patterns, and take control of your mental performance like never before.",
+  "category": "Objects",
+  "tags": [
+    "brain-computer-interfaces",
+    "wearables",
+    "headphones"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-5e6e05aeea940b18e6a49fc4.webp",
+      "mimeType": "image/webp",
+      "alt": "MW75 Neuro LT",
+      "role": "thumbnail",
+      "bytes": 16542,
+      "sha256": "5e6e05aeea940b18e6a49fc49a8dd4b5f498cabfc53e01b9b2e47836abe44d85",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2NzY4MC9vcmlnaW5hbF82NWVmZDZkZjk2ZTgxZWVlNzA1YWY5MDQ3MmY3NzBlMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "65efd6df96e81eee705af90472f770e1.png"
+    },
+    {
+      "path": "assets/preview-58300defd977bd911272553c.webp",
+      "mimeType": "image/webp",
+      "alt": "MW75 Neuro LT",
+      "role": "preview",
+      "bytes": 384758,
+      "sha256": "58300defd977bd911272553c4a91c788984191a6a7b2f431449808695d32f5dd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40767680/original_65efd6df96e81eee705af90472f770e1.png",
+      "originalName": "65efd6df96e81eee705af90472f770e1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 3063937,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-01T11:49:03.000Z",
+  "updatedAt": "2025-11-01T11:49:31.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.neurable.com/products/mw75neurolt?variant=48878808236278",
+    "title": "MW75 Neuro LT",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40767680,
+      "url": "https://www.are.na/block/40767680",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "MW75 Neuro LT",
+      "createdAt": "2025-11-01T11:49:03Z",
+      "updatedAt": "2025-11-01T11:49:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Product design",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "MW75 Neuro LT",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "brain-computer-interfaces",
+        "wearables",
+        "cognitive-health",
+        "neurotechnology",
+        "interfaces",
+        "wellbeing",
+        "speculative-design",
+        "emerging-technology"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

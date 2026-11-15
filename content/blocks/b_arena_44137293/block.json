@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137293",
+  "type": "image",
+  "title": "Gradient Study",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "gradient-study",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f89df53bccfb5fb812cb02b1.webp",
+      "mimeType": "image/webp",
+      "alt": "Gradient Study",
+      "role": "original",
+      "bytes": 66200,
+      "sha256": "f89df53bccfb5fb812cb02b1ae27fded6399d5bf363fc2dec7f706dc49434a19",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137293/original_ed00c3aa1649e2cae2b0546b8d3cdbe3.webp",
+      "originalName": "ed00c3aa1649e2cae2b0546b8d3cdbe3.webp"
+    },
+    {
+      "path": "assets/thumbnail-dac4406f4c9883e4ce53f77c.webp",
+      "mimeType": "image/webp",
+      "alt": "Gradient Study",
+      "role": "thumbnail",
+      "bytes": 1418,
+      "sha256": "dac4406f4c9883e4ce53f77cf22527765a7be298f10c5602d2c4a8bae8dcc904",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzI5My9vcmlnaW5hbF9lZDAwYzNhYTE2NDllMmNhZTJiMDU0NmI4ZDNjZGJlMy53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ed00c3aa1649e2cae2b0546b8d3cdbe3.webp"
+    },
+    {
+      "path": "assets/display-web-original-f89df53bccfb5fb812cb02b1-f89df53bcc.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Gradient Study",
+      "bytes": 36166,
+      "sha256": "885db62227decec3b79d2846fcfad09c05cc45094a8b281d4a5b34d9b4c2283e",
+      "width": 2000,
+      "height": 1333,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f89df53bccfb5fb812cb02b1.webp",
+        "sourceSha256": "f89df53bccfb5fb812cb02b1ae27fded6399d5bf363fc2dec7f706dc49434a19",
+        "originalBytes": 66200,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:46:16.000Z",
+  "updatedAt": "2026-03-04T15:46:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137293",
+    "title": "00-bc9e4.webp",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137293,
+      "url": "https://www.are.na/block/44137293",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "00-bc9e4.webp",
+      "createdAt": "2026-03-04T15:46:16Z",
+      "updatedAt": "2026-03-04T15:46:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "00-bc9e4.webp",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Gradient Study",
+    "text": "JAPANESE COLOURS [ FOR UI ]™ 04 /\nGRADIENTS NUEVO.TOKYO™ [2021~24]\n45 / GRADIENTS\n09 / VERSIONS\n01 / NOIZE™ TEXTURE\n496 / FILES\n8000X8000PX / JPG [PNG FOR LINEAR GRADIENTS]\n+ / SVGS [EXCEPT ANGULAR GRADIENTS]",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "885db62227decec3b79d2846fcfad09c05cc45094a8b281d4a5b34d9b4c2283e"
+  }
+}

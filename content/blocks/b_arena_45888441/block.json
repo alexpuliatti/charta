@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888441",
+  "type": "image",
+  "title": "Crossed Light",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "crossed-light",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c2d407b5d57c4d92ee766d22.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Crossed Light",
+      "role": "original",
+      "bytes": 96263,
+      "sha256": "c2d407b5d57c4d92ee766d22f9171c4ee00926d54117067004d9bad52496fb9d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888441/original_4f51f9a8669f345d8968260aff6ae3b0.jpeg",
+      "originalName": "4f51f9a8669f345d8968260aff6ae3b0.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-74b02eaeca8002b3e05b3b55.webp",
+      "mimeType": "image/webp",
+      "alt": "Crossed Light",
+      "role": "thumbnail",
+      "bytes": 3288,
+      "sha256": "74b02eaeca8002b3e05b3b554c3c6212005cad80ba31b2024a0df4dc3bc65fe5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0MS9vcmlnaW5hbF80ZjUxZjlhODY2OWYzNDVkODk2ODI2MGFmZjZhZTNiMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4f51f9a8669f345d8968260aff6ae3b0.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c2d407b5d57c4d92ee766d22-c2d407b5d5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Crossed Light",
+      "bytes": 63212,
+      "sha256": "abaced962fb0062dadd09e7e049f632c4b0c3f1cc33f9934760901dd6be960c9",
+      "width": 1080,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c2d407b5d57c4d92ee766d22.jpg",
+        "sourceSha256": "c2d407b5d57c4d92ee766d22f9171c4ee00926d54117067004d9bad52496fb9d",
+        "originalBytes": 96263,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:16:55.000Z",
+  "updatedAt": "2026-05-06T12:16:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888441",
+    "title": "hdgmeabbcaam3pn.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888441,
+      "url": "https://www.are.na/block/45888441",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hdgmeabbcaam3pn.jpeg",
+      "createdAt": "2026-05-06T12:16:55Z",
+      "updatedAt": "2026-05-06T12:16:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hdgmeabbcaam3pn.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Crossed Light",
+    "text": "COMO SHIROL)\nDesign Dary\nPOSTCARD\nDaisuke OBANA\nINSTAGRAM @obana d\nSTARTING IN\nDECEMBER PRAL BE CREATING\nA SQUARE SHA\nONCE A WEEK HO\nILLUSTRATED DIARY\nEAR\nIT'S A WAY NO REMEMBER\nEACH LITTLE DETAIL OF EVERYDAY HEATER HOW TRIVIAL\n(DATE )\nAPRIL 30th\n- Light ahead\nMARCH 20tn\nsomelimes\nMARCH 9h\n- Blue Giant\nJANUARY 12th\n•- Shandygall\nDECEMBER 3rd\n40",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "abaced962fb0062dadd09e7e049f632c4b0c3f1cc33f9934760901dd6be960c9"
+  }
+}

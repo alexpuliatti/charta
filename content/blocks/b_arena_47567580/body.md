@@ -1,0 +1,1 @@
+I think reading 21st century history has made me insane because I can't stop attaching things to the commodity supercycle of 2004-2014. Every, *every* major issue, debate, fucking whatever, traces back to that.

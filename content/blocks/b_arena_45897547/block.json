@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45897547",
+  "type": "link",
+  "title": "Sana Agents",
+  "description": "One platform for creating expert AI agents grounded in your company’s knowledge. No coding required. Connect all your data quickly and securely.",
+  "category": "Interface design",
+  "tags": [
+    "artificial-intelligence",
+    "knowledge-management",
+    "ai-agents"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e57a52c8cfacac65373be09e.webp",
+      "mimeType": "image/webp",
+      "alt": "Build expert AI agents in minutes | Sana",
+      "role": "thumbnail",
+      "bytes": 7648,
+      "sha256": "e57a52c8cfacac65373be09ec8ed19fe21897de164f2156d29cd8d055f528c17",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5NzU0Ny9vcmlnaW5hbF8wNzMwNzU3YTY4NzcyZDE0MWJmODZmNmE1YzZmZGYyNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0730757a68772d141bf86f6a5c6fdf27.png"
+    },
+    {
+      "path": "assets/preview-8ee77987e3416594a4b62047.webp",
+      "mimeType": "image/webp",
+      "alt": "Build expert AI agents in minutes | Sana",
+      "role": "preview",
+      "bytes": 154916,
+      "sha256": "8ee77987e3416594a4b62047df081531dafb76c141e9873329804992c4f74a6a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45897547/original_0730757a68772d141bf86f6a5c6fdf27.png",
+      "originalName": "0730757a68772d141bf86f6a5c6fdf27.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1195183,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T17:36:48.000Z",
+  "updatedAt": "2026-05-06T17:37:01.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://sanalabs.com/products/sana/",
+    "title": "Build expert AI agents in minutes | Sana",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45897547,
+      "url": "https://www.are.na/block/45897547",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Build expert AI agents in minutes | Sana",
+      "createdAt": "2026-05-06T17:36:48Z",
+      "updatedAt": "2026-05-06T17:37:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "product",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Build expert AI agents in minutes | Sana",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "programming",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

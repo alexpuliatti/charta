@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177707",
+  "type": "link",
+  "title": "Visual Journal",
+  "description": "The best in Branding, Editorial and Graphic Design",
+  "category": "Graphic design",
+  "tags": [
+    "branding",
+    "editorial-design",
+    "graphic-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-ce97a476a280949e23bb1b9b.webp",
+      "mimeType": "image/webp",
+      "alt": "Visual Journal - Branding, Editorial and Graphic Design",
+      "role": "thumbnail",
+      "bytes": 12206,
+      "sha256": "ce97a476a280949e23bb1b9b5699e93431a19e4f73804e832dd3cd377eb03599",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzcwNy9vcmlnaW5hbF9hZjYxMTU5ZDdjNGJiMWIzODE0OTdmZTFlZGEzNjdjMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "af61159d7c4bb1b381497fe1eda367c1.png"
+    },
+    {
+      "path": "assets/preview-d2f1684d80eb8aec2c9efd7c.webp",
+      "mimeType": "image/webp",
+      "alt": "Visual Journal - Branding, Editorial and Graphic Design",
+      "role": "preview",
+      "bytes": 110730,
+      "sha256": "d2f1684d80eb8aec2c9efd7c67fd22d6dba26dee57c81c9eca7543ce400535fe",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177707/original_af61159d7c4bb1b381497fe1eda367c1.png",
+      "originalName": "af61159d7c4bb1b381497fe1eda367c1.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1390993,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T20:00:15.000Z",
+  "updatedAt": "2026-03-05T20:00:55.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://visualjournal.it/page:12",
+    "title": "Visual Journal - Branding, Editorial and Graphic Design",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177707,
+      "url": "https://www.are.na/block/44177707",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Visual Journal - Branding, Editorial and Graphic Design",
+      "createdAt": "2026-03-05T20:00:15Z",
+      "updatedAt": "2026-03-05T20:00:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Visual Journal - Branding, Editorial and Graphic Design",
+      "category": "Graphic design",
+      "tags": [
+        "visual-identity",
+        "graphic-design",
+        "editorial-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

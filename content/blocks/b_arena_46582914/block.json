@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582914",
+  "type": "video",
+  "title": "Minimal Assistant",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "minimal-assistant",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6d5a7311c9ac0d8d6453a2a7.mp4",
+      "mimeType": "video/mp4",
+      "alt": "profile-switch",
+      "role": "original",
+      "bytes": 3670557,
+      "sha256": "6d5a7311c9ac0d8d6453a2a7d586ae9c9514da2aded510369c48619731cad7c9",
+      "sourceUrl": "https://attachments.are.na/46582914/bc69c1caa6b6f38dcfe81edb749b9725.mp4",
+      "originalName": "bc69c1caa6b6f38dcfe81edb749b9725.mp4"
+    },
+    {
+      "path": "assets/thumbnail-d1d033aabd596325afb0f298.webp",
+      "mimeType": "image/webp",
+      "alt": "Minimal Assistant",
+      "role": "thumbnail",
+      "bytes": 1190,
+      "sha256": "d1d033aabd596325afb0f29818ff83f264301733a89b6165d4f73fb2cb06e352",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkxNC9vcmlnaW5hbF9lMjU4M2UyNGUwMGY0M2Y3MjAyNjA1MjktMi1kdWo0OWcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e2583e24e00f43f720260529-2-duj49g.png"
+    },
+    {
+      "path": "assets/display-web-original-6d5a7311c9ac0d8d6453a2a7-6d5a7311c9.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "profile-switch",
+      "bytes": 110005,
+      "sha256": "187c4834569d1ed006d6e2b4246e3c18064af8bfb45d34cbc1fadfdf42ebcc81",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6d5a7311c9ac0d8d6453a2a7.mp4",
+        "sourceSha256": "6d5a7311c9ac0d8d6453a2a7d586ae9c9514da2aded510369c48619731cad7c9",
+        "originalBytes": 3670557,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-2bcca64b5036e75dd1bcbbc9.webp",
+      "mimeType": "image/webp",
+      "alt": "profile-switch",
+      "role": "preview",
+      "bytes": 30872,
+      "sha256": "2bcca64b5036e75dd1bcbbc90102c14aea6a52ac07838c60c91a036a9a3745fd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582914/original_e2583e24e00f43f720260529-2-duj49g.png",
+      "originalName": "e2583e24e00f43f720260529-2-duj49g.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 329946,
+        "width": 2560,
+        "height": 1582,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:26.000Z",
+  "updatedAt": "2026-05-29T08:53:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582914",
+    "title": "profile-switch",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582914,
+      "url": "https://www.are.na/block/46582914",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "profile-switch",
+      "createdAt": "2026-05-29T08:53:26Z",
+      "updatedAt": "2026-05-29T08:53:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "profile-switch",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Minimal Assistant",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d1d033aabd596325afb0f29818ff83f264301733a89b6165d4f73fb2cb06e352"
+  }
+}

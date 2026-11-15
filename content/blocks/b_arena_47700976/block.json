@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700976",
+  "type": "image",
+  "title": "Beasts Sundown",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "beasts-sundown",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a96341264eb8062505c9e19c.png",
+      "mimeType": "image/png",
+      "alt": "Beasts Sundown",
+      "role": "original",
+      "bytes": 1246545,
+      "sha256": "a96341264eb8062505c9e19cdd284a44b01d5103bc628003382430e3719ae13f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700976/original_716103f914b7645457f6cbc886d2dcdb.png",
+      "originalName": "716103f914b7645457f6cbc886d2dcdb.png"
+    },
+    {
+      "path": "assets/thumbnail-450970f8d89190bdae518290.webp",
+      "mimeType": "image/webp",
+      "alt": "Beasts Sundown",
+      "role": "thumbnail",
+      "bytes": 15766,
+      "sha256": "450970f8d89190bdae518290e186c8c7da12d9ec0bd3fc7bea6b21fbc83e2518",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk3Ni9vcmlnaW5hbF83MTYxMDNmOTE0Yjc2NDU0NTdmNmNiYzg4NmQyZGNkYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "716103f914b7645457f6cbc886d2dcdb.png"
+    },
+    {
+      "path": "assets/display-web-original-a96341264eb8062505c9e19c-a96341264e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Beasts Sundown",
+      "bytes": 110314,
+      "sha256": "53580fa811b25a38e2c1815b9ab1e9a8f04d5aee742d603854dd419ee4130180",
+      "width": 858,
+      "height": 1178,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a96341264eb8062505c9e19c.png",
+        "sourceSha256": "a96341264eb8062505c9e19cdd284a44b01d5103bc628003382430e3719ae13f",
+        "originalBytes": 1246545,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:42.000Z",
+  "updatedAt": "2026-07-08T14:55:46.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700976",
+    "title": "Screenshot 2023-09-12 alle 16.47.28",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700976,
+      "url": "https://www.are.na/block/47700976",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.47.28",
+      "createdAt": "2026-07-08T14:55:42Z",
+      "updatedAt": "2026-07-08T14:55:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.47.28",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Beasts Sundown",
+    "text": "SEALE ST.\nTUNDOWN\nGEORGE\nW.\nLEE\nBEALE ST LA\nSUNDOWN\nSergeilee\nAuthor of\n\"BEALE STREET, Where the Blues Began\"\nand\n\"RIVER GEORGE\"",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "53580fa811b25a38e2c1815b9ab1e9a8f04d5aee742d603854dd419ee4130180"
+  }
+}

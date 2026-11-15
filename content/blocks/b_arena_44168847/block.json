@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168847",
+  "type": "image",
+  "title": "Waveform Editor",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "waveform-editor",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c0db895244d9e687c66cb832.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Waveform Editor",
+      "role": "original",
+      "bytes": 278658,
+      "sha256": "c0db895244d9e687c66cb832efee1f2e9b2ac38b031638676dc410f47318604d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168847/original_7ba67e246d5f50fc42419a1ba8ca7a46.jpg",
+      "originalName": "7ba67e246d5f50fc42419a1ba8ca7a46.jpg"
+    },
+    {
+      "path": "assets/thumbnail-64ced8c131b6e0d1fe3ec72a.webp",
+      "mimeType": "image/webp",
+      "alt": "Waveform Editor",
+      "role": "thumbnail",
+      "bytes": 5862,
+      "sha256": "64ced8c131b6e0d1fe3ec72a59c0d4246556480ef10fa1a46c7b5916eb05f5d7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg0Ny9vcmlnaW5hbF83YmE2N2UyNDZkNWY1MGZjNDI0MTlhMWJhOGNhN2E0Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7ba67e246d5f50fc42419a1ba8ca7a46.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c0db895244d9e687c66cb832-c0db895244.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Waveform Editor",
+      "bytes": 56518,
+      "sha256": "6e4d183dcb8100263776783a8d6da221b2690bd9be4fcf15f6edf804224d24e6",
+      "width": 2000,
+      "height": 1124,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c0db895244d9e687c66cb832.jpg",
+        "sourceSha256": "c0db895244d9e687c66cb832efee1f2e9b2ac38b031638676dc410f47318604d",
+        "originalBytes": 278658,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-03-05T15:46:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168847",
+    "title": "hcpxgwaacaav46m.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168847,
+      "url": "https://www.are.na/block/44168847",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcpxgwaacaav46m.jpeg",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-03-05T15:46:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcpxgwaacaav46m.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Waveform Editor",
+    "text": "INSERTION\nn=\n5000\nA RAND\n• RUN\nSHELL\nSTD: : SORT\nSHAVE\n<\n<STD: : SORT />\n• RST\n• REC\nSPD\nSND\nINV PHASE: INTRO",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6e4d183dcb8100263776783a8d6da221b2690bd9be4fcf15f6edf804224d24e6"
+  }
+}

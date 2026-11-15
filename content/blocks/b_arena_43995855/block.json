@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995855",
+  "type": "image",
+  "title": "Timber Door",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "timber-door",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-703c00ed294413d77b77c110.png",
+      "mimeType": "image/png",
+      "alt": "Timber Door",
+      "role": "original",
+      "bytes": 599812,
+      "sha256": "703c00ed294413d77b77c110abaebee22693149abf02ad915a361f16761c2bce",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995855/original_d7393160d3f91a4c9349a489ce2d6566.png",
+      "originalName": "d7393160d3f91a4c9349a489ce2d6566.png"
+    },
+    {
+      "path": "assets/thumbnail-45e89fe6059bc7cf57616ce9.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Door",
+      "role": "thumbnail",
+      "bytes": 11974,
+      "sha256": "45e89fe6059bc7cf57616ce9b1771e1a8eabf2c52095f98fac455a4f0f044b09",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTg1NS9vcmlnaW5hbF9kNzM5MzE2MGQzZjkxYTRjOTM0OWE0ODljZTJkNjU2Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d7393160d3f91a4c9349a489ce2d6566.png"
+    },
+    {
+      "path": "assets/display-web-original-703c00ed294413d77b77c110-703c00ed29.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Door",
+      "bytes": 66098,
+      "sha256": "bc7aa685a02098a0a4aa03f8085e2c6ee35c111762aed10dcf2c9b94077d1076",
+      "width": 640,
+      "height": 852,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-703c00ed294413d77b77c110.png",
+        "sourceSha256": "703c00ed294413d77b77c110abaebee22693149abf02ad915a361f16761c2bce",
+        "originalBytes": 599812,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:04:08.000Z",
+  "updatedAt": "2026-02-28T12:04:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995855",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995855,
+      "url": "https://www.are.na/block/43995855",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:04:08Z",
+      "updatedAt": "2026-02-28T12:04:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Door",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bc7aa685a02098a0a4aa03f8085e2c6ee35c111762aed10dcf2c9b94077d1076"
+  }
+}

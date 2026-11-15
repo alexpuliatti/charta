@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_objects_product_design",
+  "title": "Product design",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47247917"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247918"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47247919"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46717031"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46149829"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45893188"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892775"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889983"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45888864"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44387770"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44340278"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40787696"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40767680"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_37657607"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_7571448"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_5263152"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

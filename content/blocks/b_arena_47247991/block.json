@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247991",
+  "type": "image",
+  "title": "Diagram Collection",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "diagram-collection",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-173ea05750e8072dc6bf0224.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Diagram Collection",
+      "role": "original",
+      "bytes": 985488,
+      "sha256": "173ea05750e8072dc6bf0224a24b4efc1989185a00f5267c3023366a589feef2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247991/original_087f55384cbda44128560720ddf1fa53.jpeg",
+      "originalName": "087f55384cbda44128560720ddf1fa53.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e6be7afe04646f4601685067.webp",
+      "mimeType": "image/webp",
+      "alt": "Diagram Collection",
+      "role": "thumbnail",
+      "bytes": 9984,
+      "sha256": "e6be7afe04646f46016850679658fa2e9bddbe72c6f43204becf7ff7c23a5f25",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzk5MS9vcmlnaW5hbF8wODdmNTUzODRjYmRhNDQxMjg1NjA3MjBkZGYxZmE1My5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "087f55384cbda44128560720ddf1fa53.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-173ea05750e8072dc6bf0224-173ea05750.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Diagram Collection",
+      "bytes": 193702,
+      "sha256": "40ed459a61cc0efcfa892f06862a51e178bc2aee348639264c84644c49288be6",
+      "width": 2000,
+      "height": 1749,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-173ea05750e8072dc6bf0224.jpg",
+        "sourceSha256": "173ea05750e8072dc6bf0224a24b4efc1989185a00f5267c3023366a589feef2",
+        "originalBytes": 985488,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:39.000Z",
+  "updatedAt": "2026-06-23T14:30:48.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247991",
+    "title": "HHEwscKa8AADmr1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247991,
+      "url": "https://www.are.na/block/47247991",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HHEwscKa8AADmr1",
+      "createdAt": "2026-06-23T14:30:39Z",
+      "updatedAt": "2026-06-23T14:30:48Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HHEwscKa8AADmr1",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Diagram Collection",
+    "text": "|\n• 0 • • O\n9",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "40ed459a61cc0efcfa892f06862a51e178bc2aee348639264c84644c49288be6"
+  }
+}

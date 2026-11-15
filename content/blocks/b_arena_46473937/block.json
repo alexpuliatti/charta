@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473937",
+  "type": "image",
+  "title": "Inaugural Dinner",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "inaugural-dinner",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-83bdfb98b5042b4330525731.png",
+      "mimeType": "image/png",
+      "alt": "Inaugural Dinner",
+      "role": "original",
+      "bytes": 603538,
+      "sha256": "83bdfb98b5042b4330525731dea24e452d5221b6b3b791d9325b1d873d069ec9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473937/original_ba9aaffb40031649b1817d0337ee399a.png",
+      "originalName": "ba9aaffb40031649b1817d0337ee399a.png"
+    },
+    {
+      "path": "assets/thumbnail-bef97d2da78c5f52b3d75ef6.webp",
+      "mimeType": "image/webp",
+      "alt": "Inaugural Dinner",
+      "role": "thumbnail",
+      "bytes": 17790,
+      "sha256": "bef97d2da78c5f52b3d75ef6d06475fba092d1b0de18847a9ef9ee07699d2cba",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3MzkzNy9vcmlnaW5hbF9iYTlhYWZmYjQwMDMxNjQ5YjE4MTdkMDMzN2VlMzk5YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ba9aaffb40031649b1817d0337ee399a.png"
+    },
+    {
+      "path": "assets/display-web-original-83bdfb98b5042b4330525731-83bdfb98b5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Inaugural Dinner",
+      "bytes": 53256,
+      "sha256": "f7e544c410bc97b00cff423e717f0f6ca23bd1ac69845f9c60361d83279cd106",
+      "width": 612,
+      "height": 622,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-83bdfb98b5042b4330525731.png",
+        "sourceSha256": "83bdfb98b5042b4330525731dea24e452d5221b6b3b791d9325b1d873d069ec9",
+        "originalBytes": 603538,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:56:48.000Z",
+  "updatedAt": "2026-07-29T18:15:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46473937",
+    "title": "HIzssmUbEAA2yVY",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473937,
+      "url": "https://www.are.na/block/46473937",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HIzssmUbEAA2yVY",
+      "createdAt": "2026-05-25T10:56:48Z",
+      "updatedAt": "2026-07-29T18:15:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HIzssmUbEAA2yVY",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Inaugural Dinner",
+    "text": "Inaugural Dinner\nMetis x CRV\nDecember 15th 7 PM\nMetis",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f7e544c410bc97b00cff423e717f0f6ca23bd1ac69845f9c60361d83279cd106"
+  }
+}

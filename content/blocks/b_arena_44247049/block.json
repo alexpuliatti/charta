@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247049",
+  "type": "image",
+  "title": "Product Photography",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "product-photography",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-94ac69c87500602f2dfac826.png",
+      "mimeType": "image/png",
+      "alt": "Product Photography",
+      "role": "original",
+      "bytes": 948975,
+      "sha256": "94ac69c87500602f2dfac826c735bce073ad7014bb616f4621fe711f892a719f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247049/original_22b1e618d9c8e9599acc786d417e8955.png",
+      "originalName": "22b1e618d9c8e9599acc786d417e8955.png"
+    },
+    {
+      "path": "assets/thumbnail-aab94fee6976add9f1f7b943.webp",
+      "mimeType": "image/webp",
+      "alt": "Product Photography",
+      "role": "thumbnail",
+      "bytes": 5314,
+      "sha256": "aab94fee6976add9f1f7b94331a6a469677fbe30eacdf897ba7b9def948dae87",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0OS9vcmlnaW5hbF8yMmIxZTYxOGQ5YzhlOTU5OWFjYzc4NmQ0MTdlODk1NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "22b1e618d9c8e9599acc786d417e8955.png"
+    },
+    {
+      "path": "assets/display-web-original-94ac69c87500602f2dfac826-94ac69c875.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Product Photography",
+      "bytes": 52758,
+      "sha256": "e8d81a209354340a7ba26cf6ce807dc4158ba5f28c7bd9669ddb9e2e68ecf288",
+      "width": 2000,
+      "height": 1428,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-94ac69c87500602f2dfac826.png",
+        "sourceSha256": "94ac69c87500602f2dfac826c735bce073ad7014bb616f4621fe711f892a719f",
+        "originalBytes": 948975,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:16.000Z",
+  "updatedAt": "2026-03-08T22:30:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247049",
+    "title": "screenshot-2026-03-08-alle-00.45.15.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247049,
+      "url": "https://www.are.na/block/44247049",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-08-alle-00.45.15.png",
+      "createdAt": "2026-03-08T22:30:16Z",
+      "updatedAt": "2026-03-08T22:30:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-08-alle-00.45.15.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Product Photography",
+    "text": "— Menu\n0%\nUpload or drop your assets\nYour catalog,\ninstantly re-shot.\nGet started\nAds\nStories\nStreet style\nPDPs\nUGC\nLifestyle shots\nSCROLL DOWN",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e8d81a209354340a7ba26cf6ce807dc4158ba5f28c7bd9669ddb9e2e68ecf288"
+  }
+}

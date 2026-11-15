@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247863",
+  "type": "image",
+  "title": "Black Publication",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "black-publication",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9385509a608d9f1fc57e55b8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Black Publication",
+      "role": "original",
+      "bytes": 71021,
+      "sha256": "9385509a608d9f1fc57e55b85c761d03d8c8d48192040337d8eae085b70b5bf5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247863/original_c6558eead95aeafc1f8048d9e1d6fe70.jpeg",
+      "originalName": "c6558eead95aeafc1f8048d9e1d6fe70.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-5c3f803af0cb66f271752337.webp",
+      "mimeType": "image/webp",
+      "alt": "Black Publication",
+      "role": "thumbnail",
+      "bytes": 4880,
+      "sha256": "5c3f803af0cb66f27175233720586c40e9a35dd3f5acad3af94dca9db7ba698c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg2My9vcmlnaW5hbF9jNjU1OGVlYWQ5NWFlYWZjMWY4MDQ4ZDllMWQ2ZmU3MC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c6558eead95aeafc1f8048d9e1d6fe70.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-9385509a608d9f1fc57e55b8-9385509a60.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Black Publication",
+      "bytes": 44980,
+      "sha256": "600ba4ba829079137148f9351377070de7d3193774cd815e09667143f2f79775",
+      "width": 1154,
+      "height": 770,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9385509a608d9f1fc57e55b8.jpg",
+        "sourceSha256": "9385509a608d9f1fc57e55b85c761d03d8c8d48192040337d8eae085b70b5bf5",
+        "originalBytes": 71021,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:06.000Z",
+  "updatedAt": "2026-06-23T14:28:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247863",
+    "title": "a2b0db1bd1dab6235d662b4ae3104c11",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247863,
+      "url": "https://www.are.na/block/47247863",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a2b0db1bd1dab6235d662b4ae3104c11",
+      "createdAt": "2026-06-23T14:28:06Z",
+      "updatedAt": "2026-06-23T14:28:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a2b0db1bd1dab6235d662b4ae3104c11",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Black Publication",
+    "text": "KEY\n1\nMESSAGE\nNUMBER TO DIAL\nCALL\nSCALE\n1\n20\n60\nNUMBER\nOF\nWORDS IN MESSAGE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "600ba4ba829079137148f9351377070de7d3193774cd815e09667143f2f79775"
+  }
+}

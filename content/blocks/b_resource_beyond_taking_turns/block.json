@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "b_resource_beyond_taking_turns",
+  "type": "link",
+  "title": "Beyond Taking Turns",
+  "source": {
+    "url": "https://demos.liubruce.me/intra-turn/",
+    "title": "Beyond Taking Turns",
+    "capturedAt": "2026-11-15T17:10:11.518Z"
+  },
+  "description": "Two experiments by Bruce Liu in talking with AI mid-turn: revealing its plan while you type, and leaving gaps you can fill during a response.",
+  "category": "Interface design",
+  "tags": [
+    "ai",
+    "interaction-design",
+    "human-ai-interaction",
+    "prototypes",
+    "link"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-11-15T17:10:13.089Z",
+  "updatedAt": "2026-11-15T17:10:13.089Z",
+  "bodyPath": "body.md",
+  "ingest": {
+    "operationId": "b_resource_beyond_taking_turns"
+  },
+  "organization": {
+    "method": "source-review-v1",
+    "reason": "Interactive experiments in AI conversation interface design: feedforward while composing and filling gaps during generation.",
+    "confidence": 0.96,
+    "destinationPath": [
+      "Interface design",
+      "Experiments"
+    ]
+  }
+}

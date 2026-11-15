@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579184",
+  "type": "image",
+  "title": "Bauhaus Letter",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "bauhaus-letter",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fd95b586370b2bfb46d4beaa.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Bauhaus Letter",
+      "role": "original",
+      "bytes": 359441,
+      "sha256": "fd95b586370b2bfb46d4beaaaa8963735d470283c15b095f4ff183ada4e9888f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579184/original_c0fa20bc65189c745954bc94b6f66e67.jpeg",
+      "originalName": "c0fa20bc65189c745954bc94b6f66e67.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-43753616acd1ca8fface1568.webp",
+      "mimeType": "image/webp",
+      "alt": "Bauhaus Letter",
+      "role": "thumbnail",
+      "bytes": 5658,
+      "sha256": "43753616acd1ca8fface1568d86c41592fdf3bae47aff905e560e350f3021140",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE4NC9vcmlnaW5hbF9jMGZhMjBiYzY1MTg5Yzc0NTk1NGJjOTRiNmY2NmU2Ny5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c0fa20bc65189c745954bc94b6f66e67.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-fd95b586370b2bfb46d4beaa-fd95b58637.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Bauhaus Letter",
+      "bytes": 117298,
+      "sha256": "42c1a1769d7334631b6e807f6213f4bef0397c18f4ac839322bb99f49b9f5cf1",
+      "width": 1396,
+      "height": 1744,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fd95b586370b2bfb46d4beaa.jpg",
+        "sourceSha256": "fd95b586370b2bfb46d4beaaaa8963735d470283c15b095f4ff183ada4e9888f",
+        "originalBytes": 359441,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:17.000Z",
+  "updatedAt": "2026-07-04T15:38:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579184",
+    "title": "dasswerke-20250108_130000-599868503",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579184,
+      "url": "https://www.are.na/block/47579184",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-599868503",
+      "createdAt": "2026-07-04T15:36:17Z",
+      "updatedAt": "2026-07-04T15:38:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-599868503",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Bauhaus Letter",
+    "text": "bauhaus\nzeitschrift für bau und gestaltung\nverlag und anzeigenverwaltung: dessau, zerbster Straße 16\nredaktion: bauhaus dessau, friedrichsallee 12\npostscheckkonto magdeburg 16662 • telefon 3136\npostanschrift: dessau, friedrichsallee 12\nherrn\nn. gabo\nberlin-lichterfelde-ost\nkaiserstrasse 25.\nihre zeichen\nihre nachricht vom\nunsere zeichen\ntag\n29.21.28,-\nlieber gabo,\nanbei die äusserung von frau marianne brandt, der leiterin der\nmetallwerkstatt, zu ihrem artikel in der vorigen nummer. bitte.\nsetzen sie sich sofort hin und antworten sie darauf, möglichst\nkurz, aber nett.\nwas machen sie? nächstens schicke ich ihnen einen klischeeabzug\nvon ihrer arbeit, der lichtraumplastik.\nach,\nich bin jetzt eben so müde und schläfrig, es ist erst vier-\ntel\n2 nachts, aber ich muss aufhören.\nherzlichst\nihr\nGleai\nbitte tatsächlich sofortige erledigung, weil sehr dringend!!!!\nwir schreiben alles klein • wir sparen damit zeit •\ndin a 4",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "42c1a1769d7334631b6e807f6213f4bef0397c18f4ac839322bb99f49b9f5cf1"
+  }
+}

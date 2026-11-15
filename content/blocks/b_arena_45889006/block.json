@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889006",
+  "type": "video",
+  "title": "Car Portrait",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "car-portrait",
+    "motion-design",
+    "animation"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b5aa467a18d645515fdabcf1.mp4",
+      "mimeType": "video/mp4",
+      "alt": "h.lls.h.lls-20260121_020000-2967668948.mp4",
+      "role": "original",
+      "bytes": 10695847,
+      "sha256": "b5aa467a18d645515fdabcf1a73f303adc4973b427b35c42f3f9e71fedb1ebdc",
+      "sourceUrl": "https://attachments.are.na/45889006/2e4df488976872cc7daaf3e2309cea6c.mp4",
+      "originalName": "2e4df488976872cc7daaf3e2309cea6c.mp4"
+    },
+    {
+      "path": "assets/thumbnail-57066827a5fadea787e82c31.webp",
+      "mimeType": "image/webp",
+      "alt": "Car Portrait",
+      "role": "thumbnail",
+      "bytes": 8442,
+      "sha256": "57066827a5fadea787e82c3165815466451d74b4e6726240a9aad761ca9be677",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTAwNi9vcmlnaW5hbF85OWY4YTJiYzUyNjViYTgyMjAyNjA1MDYtMi00ZTBkejQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "99f8a2bc5265ba8220260506-2-4e0dz4.png"
+    },
+    {
+      "path": "assets/preview-55bca770558dfa428e1ae9d8.webp",
+      "mimeType": "image/webp",
+      "alt": "h.lls.h.lls-20260121_020000-2967668948.mp4",
+      "role": "preview",
+      "bytes": 47082,
+      "sha256": "55bca770558dfa428e1ae9d810f1df3e7aac9a2181b1b5fcd8284a83cbc0dedb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889006/original_99f8a2bc5265ba8220260506-2-4e0dz4.png",
+      "originalName": "99f8a2bc5265ba8220260506-2-4e0dz4.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 578527,
+        "width": 960,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:38:12.000Z",
+  "updatedAt": "2026-05-06T12:38:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889006",
+    "title": "h.lls.h.lls-20260121_020000-2967668948.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889006,
+      "url": "https://www.are.na/block/45889006",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "h.lls.h.lls-20260121_020000-2967668948.mp4",
+      "createdAt": "2026-05-06T12:38:12Z",
+      "updatedAt": "2026-05-06T12:38:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "h.lls.h.lls-20260121_020000-2967668948.mp4",
+      "category": "Motion design",
+      "tags": [
+        "motion-design",
+        "animation",
+        "motion"
+      ],
+      "collectionIds": [
+        "c_arena_5144967"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Car Portrait",
+    "text": "i gotta get it baby",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "57066827a5fadea787e82c3165815466451d74b4e6726240a9aad761ca9be677"
+  }
+}

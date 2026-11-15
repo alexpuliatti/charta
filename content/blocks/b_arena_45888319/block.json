@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888319",
+  "type": "video",
+  "title": "Action Cards",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "action-cards",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-863f1bc59fb18e58801e56fa.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1777969019423.mp4",
+      "role": "original",
+      "bytes": 793589,
+      "sha256": "863f1bc59fb18e58801e56fa6ae8ddf063845e57d91111717f468d83f4f9c400",
+      "sourceUrl": "https://attachments.are.na/45888319/ed91a8629cc596cf398bbb8674d313ea.mp4",
+      "originalName": "ed91a8629cc596cf398bbb8674d313ea.mp4"
+    },
+    {
+      "path": "assets/thumbnail-4a3095185675c6b78cac4088.webp",
+      "mimeType": "image/webp",
+      "alt": "Action Cards",
+      "role": "thumbnail",
+      "bytes": 4658,
+      "sha256": "4a3095185675c6b78cac4088e62bab5269b36bd86ca744ad5c629c05b3b14b2c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMxOS9vcmlnaW5hbF9jMjA5ZGVkNGZiNzI4ZDU5MjAyNjA1MDYtMi0zNTdieG4ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c209ded4fb728d5920260506-2-357bxn.png"
+    },
+    {
+      "path": "assets/display-web-original-863f1bc59fb18e58801e56fa-863f1bc59f.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1777969019423.mp4",
+      "bytes": 555757,
+      "sha256": "3709144fb1899cb88a1b8c837b5d8b7ffec291f6b4b5486e141c96a1fcaa65c6",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-863f1bc59fb18e58801e56fa.mp4",
+        "sourceSha256": "863f1bc59fb18e58801e56fa6ae8ddf063845e57d91111717f468d83f4f9c400",
+        "originalBytes": 793589,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-746e194d0f3cd9c520658797.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1777969019423.mp4",
+      "role": "preview",
+      "bytes": 64508,
+      "sha256": "746e194d0f3cd9c52065879720abf5e895e23280aedfbf58e64ca53ab96e9043",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888319/original_c209ded4fb728d5920260506-2-357bxn.png",
+      "originalName": "c209ded4fb728d5920260506-2-357bxn.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 436893,
+        "width": 1600,
+        "height": 900,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:41.000Z",
+  "updatedAt": "2026-05-06T12:12:50.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888319",
+    "title": "ssstwitter.com_1777969019423.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888319,
+      "url": "https://www.are.na/block/45888319",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1777969019423.mp4",
+      "createdAt": "2026-05-06T12:12:41Z",
+      "updatedAt": "2026-05-06T12:12:50Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1777969019423.mp4",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Action Cards",
+    "text": "RESOLVE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4a3095185675c6b78cac4088e62bab5269b36bd86ca744ad5c629c05b3b14b2c"
+  }
+}

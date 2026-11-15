@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44241153",
+  "type": "text",
+  "title": "Seithar Services",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "information-environments",
+    "narratives",
+    "intelligence"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-03-08T17:26:28.000Z",
+  "updatedAt": "2026-03-08T17:26:28.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read saved note or tweet body; title names its actual subject."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44241153",
+    "title": "Text · visualizzare il sapere · 44241153",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44241153,
+      "url": "https://www.are.na/block/44241153",
+      "type": "Text",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2026-03-08T17:26:28Z",
+      "updatedAt": "2026-03-08T17:26:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "bodyPath": "body.md",
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Organizations",
+    "genre": "note",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Text · visualizzare il sapere · 44241153",
+      "category": "Information design",
+      "tags": [
+        "visual-identity",
+        "information-design",
+        "neurotechnology",
+        "data-visualization",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

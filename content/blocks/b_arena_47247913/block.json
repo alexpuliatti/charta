@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247913",
+  "type": "image",
+  "title": "Colourful Widgets",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "colourful-widgets",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-869a4782d741ab4505764346.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Colourful Widgets",
+      "role": "original",
+      "bytes": 454607,
+      "sha256": "869a4782d741ab4505764346dcabe2eddd5d8f1562482eb1e7820775ef7d72a7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247913/original_bd4fe5cc3bee2147a37ff789af570441.jpeg",
+      "originalName": "bd4fe5cc3bee2147a37ff789af570441.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-2bdf6c31c6b7e823174a473c.webp",
+      "mimeType": "image/webp",
+      "alt": "Colourful Widgets",
+      "role": "thumbnail",
+      "bytes": 9788,
+      "sha256": "2bdf6c31c6b7e823174a473cb5d0c3b9f848e524bd04bf503cd03e638c3a8cf2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkxMy9vcmlnaW5hbF9iZDRmZTVjYzNiZWUyMTQ3YTM3ZmY3ODlhZjU3MDQ0MS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "bd4fe5cc3bee2147a37ff789af570441.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-869a4782d741ab4505764346-869a4782d7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Colourful Widgets",
+      "bytes": 107532,
+      "sha256": "63999042121d4b4611a646b0250d614faf1bc97ddfcf1342f86279d37f208cc4",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-869a4782d741ab4505764346.jpg",
+        "sourceSha256": "869a4782d741ab4505764346dcabe2eddd5d8f1562482eb1e7820775ef7d72a7",
+        "originalBytes": 454607,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:29:39.000Z",
+  "updatedAt": "2026-06-24T04:39:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247913",
+    "title": "HGeGdH9XMAAxC36",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247913,
+      "url": "https://www.are.na/block/47247913",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HGeGdH9XMAAxC36",
+      "createdAt": "2026-06-23T14:29:39Z",
+      "updatedAt": "2026-06-24T04:39:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HGeGdH9XMAAxC36",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colourful Widgets",
+    "text": "Capabilities\nConceptual Art\nComponent Systems\nDesign-to-Code\nIndustry\nDesign &\nLocation\nSan Franc\nUnfolding the Unbu\nGestures of Silence\nSpace\nTHE LINCOLN SCHOO\nThe Lincoln School is\ndedicated to nurturing\nyoung minds through\nacademic excellence,\ncreative exploration\nand community\nengagement across\nNew York City.\nHerman Melville 635 pages\n1851\nDon Quixote\nMiguel de Cervantes\n1072 pages 1005\nWar and Peace\nLeo Tolstoy 1225 pages 1869\nThe Odyssey\nHomer 541 pages 800 BC\nUlysses\nJames Joyce 730 pages 1922\nDune\n412 pages\nBeloved\nToni Morrison 324 pages 1987\n21:39\nSee all -\nWed\n30\n24°\n10.24\nseoul\nshanghai\nchengdu\nbangkok\nsaigon\nIs this what moon looks\nlike?\nROE\nPerpetual BTCUSDT\nENIKT PRICE\n$32,258\n169.55%\nMARK PR\n$29,",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "63999042121d4b4611a646b0250d614faf1bc97ddfcf1342f86279d37f208cc4"
+  }
+}

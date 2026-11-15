@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177661",
+  "type": "link",
+  "title": "Parallel Systems",
+  "description": "Parallel develops a suite of agents and tool APIs for building AI with powerful access to the open web. SOC-2 Type II certified. ZDR Available for enterprises.",
+  "category": "Companies",
+  "tags": [
+    "artificial-intelligence",
+    "web-agents",
+    "web-infrastructure"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-70b06bc066eb6204911b6fa6.webp",
+      "mimeType": "image/webp",
+      "alt": "Parallel Web Systems | Infrastructure for intelligence on the web",
+      "role": "thumbnail",
+      "bytes": 4818,
+      "sha256": "70b06bc066eb6204911b6fa6deda3d5d0dc92e915329a56b14b549f321279f9d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzY2MS9vcmlnaW5hbF9hZDJiMWYxNTY1ZTJhMDcxMDc1OTU4ZDlkOWE1ODkxNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ad2b1f1565e2a071075958d9d9a58915.png"
+    },
+    {
+      "path": "assets/preview-b450366b3da9e6f34949e28d.webp",
+      "mimeType": "image/webp",
+      "alt": "Parallel Web Systems | Infrastructure for intelligence on the web",
+      "role": "preview",
+      "bytes": 40868,
+      "sha256": "b450366b3da9e6f34949e28d1ac9b1bb04832be77bae4404bfaca526c3d93b9a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177661/original_ad2b1f1565e2a071075958d9d9a58915.png",
+      "originalName": "ad2b1f1565e2a071075958d9d9a58915.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 481130,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:58:55.000Z",
+  "updatedAt": "2026-03-05T19:59:54.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://parallel.ai/",
+    "title": "Parallel Web Systems | Infrastructure for intelligence on the web",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177661,
+      "url": "https://www.are.na/block/44177661",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Parallel Web Systems | Infrastructure for intelligence on the web",
+      "createdAt": "2026-03-05T19:58:55Z",
+      "updatedAt": "2026-03-05T19:59:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Organizations",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Parallel Web Systems | Infrastructure for intelligence on the web",
+      "category": "Information design",
+      "tags": [
+        "architecture",
+        "artificial-intelligence",
+        "tools",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

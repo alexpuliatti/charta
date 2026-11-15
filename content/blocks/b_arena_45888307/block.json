@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888307",
+  "type": "image",
+  "title": "Layered Doorway",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "layered-doorway",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4636a9e7dd7b61dec8740069.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Layered Doorway",
+      "role": "original",
+      "bytes": 154795,
+      "sha256": "4636a9e7dd7b61dec874006919aa0627ff0e78ea77aafd0aa72b369b3b609521",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888307/original_652f9e29df146aa0270b58e488abdaf6.jpeg",
+      "originalName": "652f9e29df146aa0270b58e488abdaf6.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-258a531f4308068bb66c24a8.webp",
+      "mimeType": "image/webp",
+      "alt": "Layered Doorway",
+      "role": "thumbnail",
+      "bytes": 5450,
+      "sha256": "258a531f4308068bb66c24a8aba2324ab65f366ffa2c48b7c6b01036a7f8d1a8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMwNy9vcmlnaW5hbF82NTJmOWUyOWRmMTQ2YWEwMjcwYjU4ZTQ4OGFiZGFmNi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "652f9e29df146aa0270b58e488abdaf6.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-4636a9e7dd7b61dec8740069-4636a9e7dd.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Layered Doorway",
+      "bytes": 127804,
+      "sha256": "2c91203f7fe0c0255fb6b2da0d1b1e2634658980c152c715d857a21034c5bce5",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4636a9e7dd7b61dec8740069.jpg",
+        "sourceSha256": "4636a9e7dd7b61dec874006919aa0627ff0e78ea77aafd0aa72b369b3b609521",
+        "originalBytes": 154795,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:22.000Z",
+  "updatedAt": "2026-05-06T12:12:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888307",
+    "title": "02-studio.arme-876557282-20260426_074723.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888307,
+      "url": "https://www.are.na/block/45888307",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "02-studio.arme-876557282-20260426_074723.jpg",
+      "createdAt": "2026-05-06T12:12:22Z",
+      "updatedAt": "2026-05-06T12:12:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "02-studio.arme-876557282-20260426_074723.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Layered Doorway",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2c91203f7fe0c0255fb6b2da0d1b1e2634658980c152c715d857a21034c5bce5"
+  }
+}

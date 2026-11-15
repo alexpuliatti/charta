@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46710449",
+  "type": "link",
+  "title": "Process Pamphlets",
+  "description": "Each issue of Process Pamphlets presents a single project from start to finish. Through emails, sketches, screenshots, drafts, and a first-person running narration, each issue aims to transparently show how things are made in the world; how people find work, initiate projects, organize, communicate, collaborate, negotiate, experiment, make, iterate, edit, distribute, document, and share.\nDesigned and edited by Ben Denzer. Published as open editions\nat Parsons CD.",
+  "category": "Writing",
+  "tags": [
+    "creative-process",
+    "publishing",
+    "design-practice"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-8e888fad9e26be8e1040631e.webp",
+      "mimeType": "image/webp",
+      "alt": "Process Pamphlets",
+      "role": "thumbnail",
+      "bytes": 12292,
+      "sha256": "8e888fad9e26be8e1040631ea198a50e79a588bf508a302095d5d2dfd93d1b26",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxMDQ0OS9vcmlnaW5hbF83MGJmM2I5OGE2NmVlNGRmMzQ0YjJkMTVkZDY1OWI2My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "70bf3b98a66ee4df344b2d15dd659b63.png"
+    },
+    {
+      "path": "assets/preview-a72ab08db04974bdc3381103.webp",
+      "mimeType": "image/webp",
+      "alt": "Process Pamphlets",
+      "role": "preview",
+      "bytes": 81084,
+      "sha256": "a72ab08db04974bdc3381103dfd2452a75bfc64213b836d45321145e95415582",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46710449/original_70bf3b98a66ee4df344b2d15dd659b63.png",
+      "originalName": "70bf3b98a66ee4df344b2d15dd659b63.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 305308,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T07:47:11.000Z",
+  "updatedAt": "2026-06-03T07:47:17.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://processpamphlets.com/",
+    "title": "Process Pamphlets",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46710449,
+      "url": "https://www.are.na/block/46710449",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Process Pamphlets",
+      "createdAt": "2026-06-03T07:47:11Z",
+      "updatedAt": "2026-06-03T07:47:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Process Pamphlets",
+      "category": "Tools and resources",
+      "tags": [
+        "illustration",
+        "books",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44498249",
+  "type": "link",
+  "title": "Soulful Sites",
+  "description": "Something went wrong!",
+  "category": "Interface design",
+  "tags": [
+    "web-experiments",
+    "portfolios",
+    "creative-tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7f214350835d8a7b7415f49a.webp",
+      "mimeType": "image/webp",
+      "alt": "Soulful Sites",
+      "role": "thumbnail",
+      "bytes": 17038,
+      "sha256": "7f214350835d8a7b7415f49a4171f79b71ed15ad3ae5243927d002427c55cc62",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDQ5ODI0OS9vcmlnaW5hbF80OTgwMDIzNGEyMGQ0OTJmNjIyYTExYWM4MzVkMjczOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "49800234a20d492f622a11ac835d2738.png"
+    },
+    {
+      "path": "assets/preview-710e72d053988b57e7cda894.webp",
+      "mimeType": "image/webp",
+      "alt": "Paradigm",
+      "role": "preview",
+      "bytes": 135540,
+      "sha256": "710e72d053988b57e7cda89486996884fe76fe0f85812feacd3a1a952b2d99c9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44498249/original_49800234a20d492f622a11ac835d2738.png",
+      "originalName": "49800234a20d492f622a11ac835d2738.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 649902,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-17T11:25:23.000Z",
+  "updatedAt": "2026-03-17T11:25:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and saved source description identify the artifact and its subject. Inspected the saved local thumbnail visually (actual-artifact-thumbnail)."
+  },
+  "source": {
+    "url": "https://app.paradigmai.com/sheets/76210606-6ce4-4ccc-a005-fb1cf6984a45",
+    "title": "Paradigm",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44498249,
+      "url": "https://www.are.na/block/44498249",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Paradigm",
+      "createdAt": "2026-03-17T11:25:23Z",
+      "updatedAt": "2026-03-17T11:25:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Paradigm",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "A curated spreadsheet titled Soulful Sites that collects creative web experiments, designer portfolios and tools, with creator names, links, descriptions and profile references.",
+    "text": "Soulful Sites. A spreadsheet of creative web experiments, designer portfolios and tools. Visible columns: Project Name, Type, URL, Creator, Description, Creator X Profile. Visible type labels include AI Experiment, Portfolio Website, Tool, Blog / Writing and Personal Project.",
+    "method": "primary-source-review",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

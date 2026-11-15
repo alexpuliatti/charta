@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889999",
+  "type": "image",
+  "title": "Symbol Grid",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "symbol-grid",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fe07683b200775f4265bcba8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Symbol Grid",
+      "role": "original",
+      "bytes": 68684,
+      "sha256": "fe07683b200775f4265bcba8c8f5df78794e2af4292a77628343fa96f145087e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889999/original_e7a7cf5a475c5dad704c065712a04ddd.jpeg",
+      "originalName": "e7a7cf5a475c5dad704c065712a04ddd.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-5216ebd4e546ba1885fe898c.webp",
+      "mimeType": "image/webp",
+      "alt": "Symbol Grid",
+      "role": "thumbnail",
+      "bytes": 18638,
+      "sha256": "5216ebd4e546ba1885fe898c709ed30acb3244976e84bc83bcc254e386d363db",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTk5OS9vcmlnaW5hbF9lN2E3Y2Y1YTQ3NWM1ZGFkNzA0YzA2NTcxMmEwNGRkZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e7a7cf5a475c5dad704c065712a04ddd.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-fe07683b200775f4265bcba8-fe07683b20.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Symbol Grid",
+      "bytes": 44522,
+      "sha256": "59ac739d67c6e2a0234475ef6bfd4c731e9dcb5b896a805274d4b7e8df40cb6b",
+      "width": 560,
+      "height": 358,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fe07683b200775f4265bcba8.jpg",
+        "sourceSha256": "fe07683b200775f4265bcba8c8f5df78794e2af4292a77628343fa96f145087e",
+        "originalBytes": 68684,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:19:14.000Z",
+  "updatedAt": "2026-05-06T13:19:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889999",
+    "title": "alien_semiotic_02.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889999,
+      "url": "https://www.are.na/block/45889999",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "alien_semiotic_02.jpg",
+      "createdAt": "2026-05-06T13:19:14Z",
+      "updatedAt": "2026-05-06T13:19:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "alien_semiotic_02.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Symbol Grid",
+    "text": "NOTE!\nX",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "59ac739d67c6e2a0234475ef6bfd4c731e9dcb5b896a805274d4b7e8df40cb6b"
+  }
+}

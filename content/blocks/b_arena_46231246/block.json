@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46231246",
+  "type": "link",
+  "title": "Starlab Careers",
+  "description": "Open position for a Neuroscience Data Analysis specialist at Starlab Barcelona.",
+  "category": "Companies",
+  "tags": [
+    "neuroscience",
+    "data-analysis",
+    "careers"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-1eadd795b3ea70f950bacd10.webp",
+      "mimeType": "image/webp",
+      "alt": "Open position AI PhD | Starlab",
+      "role": "thumbnail",
+      "bytes": 12764,
+      "sha256": "1eadd795b3ea70f950bacd10f0adbe2e618bf5fb07e8ef0f574253da276bc227",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjIzMTI0Ni9vcmlnaW5hbF80YzZhZjA5ZjMwZjE2ZDg3OTAxNDRjZmYxY2RjYzE5Zi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4c6af09f30f16d8790144cff1cdcc19f.png"
+    },
+    {
+      "path": "assets/preview-a4e81525fad2f10a3e3046f3.webp",
+      "mimeType": "image/webp",
+      "alt": "Open position AI PhD | Starlab",
+      "role": "preview",
+      "bytes": 140622,
+      "sha256": "a4e81525fad2f10a3e3046f37be117bb222d5df7f476a764c1b7b38bfb049047",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46231246/original_4c6af09f30f16d8790144cff1cdcc19f.png",
+      "originalName": "4c6af09f30f16d8790144cff1cdcc19f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 555501,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-16T08:20:12.000Z",
+  "updatedAt": "2026-05-16T08:20:37.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.starlab.es/open-position-ai",
+    "title": "Open position AI PhD | Starlab",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46231246,
+      "url": "https://www.are.na/block/46231246",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Open position AI PhD | Starlab",
+      "createdAt": "2026-05-16T08:20:12Z",
+      "updatedAt": "2026-05-16T08:20:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Open position AI PhD | Starlab",
+      "category": "Technology",
+      "tags": [
+        "artificial-intelligence",
+        "neurotechnology",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

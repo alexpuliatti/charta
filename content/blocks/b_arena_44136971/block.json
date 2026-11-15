@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136971",
+  "type": "image",
+  "title": "Simulation Dashboard",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "simulation-dashboard",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c4c691728d850fdb4f675163.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Simulation Dashboard",
+      "role": "original",
+      "bytes": 166257,
+      "sha256": "c4c691728d850fdb4f675163ff5ae186f3b55ed94c75a0455cb44d28518dd4b5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136971/original_bc1c46265fb0fb37830ad81d71c54a95.jpg",
+      "originalName": "bc1c46265fb0fb37830ad81d71c54a95.jpg"
+    },
+    {
+      "path": "assets/thumbnail-08efeecbd0ffd790addabf57.webp",
+      "mimeType": "image/webp",
+      "alt": "Simulation Dashboard",
+      "role": "thumbnail",
+      "bytes": 5374,
+      "sha256": "08efeecbd0ffd790addabf57fa5ac91bc6e9803321a7f55b31561a459b9647e0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk3MS9vcmlnaW5hbF9iYzFjNDYyNjVmYjBmYjM3ODMwYWQ4MWQ3MWM1NGE5NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bc1c46265fb0fb37830ad81d71c54a95.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c4c691728d850fdb4f675163-c4c691728d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Simulation Dashboard",
+      "bytes": 95046,
+      "sha256": "17deb1fbb8721070488bee95af82683e332643b85579f37832a16d915bfbe381",
+      "width": 2000,
+      "height": 1003,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c4c691728d850fdb4f675163.jpg",
+        "sourceSha256": "c4c691728d850fdb4f675163ff5ae186f3b55ed94c75a0455cb44d28518dd4b5",
+        "originalBytes": 166257,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:13.000Z",
+  "updatedAt": "2026-03-04T15:36:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136971",
+    "title": "g_x6ewkbsaasbfq.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136971,
+      "url": "https://www.are.na/block/44136971",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "g_x6ewkbsaasbfq.jpeg",
+      "createdAt": "2026-03-04T15:36:13Z",
+      "updatedAt": "2026-03-04T15:36:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "g_x6ewkbsaasbfq.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Simulation Dashboard",
+    "text": "UMY D ARCHERYCTURY\nENC\nBOTTLENECK\nDEC\nLoss\nSTEP\n000019\n0.0000\nLEARNING KATY\n1.35e-5\nGRADIENT MAGNITUDE\n0.00e+0\nMEAM REKART\n-1.9297\n• CONVERGED\nTRAINING TIME ELAPSED\n00:00:21.30",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "17deb1fbb8721070488bee95af82683e332643b85579f37832a16d915bfbe381"
+  }
+}

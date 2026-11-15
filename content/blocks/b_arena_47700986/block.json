@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700986",
+  "type": "image",
+  "title": "Little Caesar",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "little-caesar",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d0bbe30d6e9c2571c7ea3042.png",
+      "mimeType": "image/png",
+      "alt": "Little Caesar",
+      "role": "original",
+      "bytes": 4304511,
+      "sha256": "d0bbe30d6e9c2571c7ea30426cd91e7dc00642db4b9edd20f22a112e5ac22ac1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700986/original_90f6d0ef0960f423003aefe0c151e26e.png",
+      "originalName": "90f6d0ef0960f423003aefe0c151e26e.png"
+    },
+    {
+      "path": "assets/thumbnail-8415f0f67f284fed3e3a3712.webp",
+      "mimeType": "image/webp",
+      "alt": "Little Caesar",
+      "role": "thumbnail",
+      "bytes": 9880,
+      "sha256": "8415f0f67f284fed3e3a3712a1d6285a466cac26f63325f0995fbf4ecb9c9aff",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk4Ni9vcmlnaW5hbF85MGY2ZDBlZjA5NjBmNDIzMDAzYWVmZTBjMTUxZTI2ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "90f6d0ef0960f423003aefe0c151e26e.png"
+    },
+    {
+      "path": "assets/display-web-original-d0bbe30d6e9c2571c7ea3042-d0bbe30d6e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Little Caesar",
+      "bytes": 216414,
+      "sha256": "6c0e97056f6dce7f25804dd266088239edc06c7c546f25fe0cb313422fcdde7b",
+      "width": 2000,
+      "height": 1009,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d0bbe30d6e9c2571c7ea3042.png",
+        "sourceSha256": "d0bbe30d6e9c2571c7ea30426cd91e7dc00642db4b9edd20f22a112e5ac22ac1",
+        "originalBytes": 4304511,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:53.000Z",
+  "updatedAt": "2026-07-08T14:55:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700986",
+    "title": "Screenshot 2023-09-12 alle 16.49.23",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700986,
+      "url": "https://www.are.na/block/47700986",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.49.23",
+      "createdAt": "2026-07-08T14:55:53Z",
+      "updatedAt": "2026-07-08T14:55:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.49.23",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Little Caesar",
+    "text": "$2.50\nManhattan Cocktail\nBy EDWARD HOPE\nAuthor of \"Alice in the Delighted States\"\nColumnist of the New York Herald-\nTribune\nIllustrations and Picture Jacket in colors\nby Truing Politzer\nEdward Hope, whose \" Alice in the De-\nlighted States\nsuccess, knows\nManhattan well.\nMand stan well. tre is\nan expert at holding.\nthe\nnature and getting a laugh.\nBut he sees\ndeeper than the surface.\nHere he gives\nus a perspective of the New York scene\nhe surveys\neach day from his column,\nmixing in the grave with the gay.\nbitter\nwith\nThat he cals a socktail for the lick\nBetween the stories of\nously\n, humorous\nMurder\n\"Tabloid\nReader's\nCasychopathic Notes (Bellevue);\netc.,\nThere is no book quite like this,\nand no humorist at large who is quite\nlike Hope.\nLINCOLN MAC VEAGH\nTHE DIAL PRESS\nNEW YORK\nLONGMANS, GREEN & CO., TORONTO\nsar\nBurnett\nLittle\nCaesar\nFIVE MEN\nof\nFRANKFORT\nBy M. E. RAVAGE\nThe story of the Rothschilds in\nIllastrated\nEVANGELIZED\nAMERICA\nBy GROVER C. LOUD\nThe complete atory\nEvan-\nrelim in this county\nstirring reading.\nIllustrated\n$4.00\nThe\nLAST\nSEPTEMBER\nElizabeth Bowen\nofel\n$2.50\nEVERYWHERE\nThe IM-\nJOHN\nPURITANS WESLEY\nBy HARVEY WICKHAM\nBy ARNOLD LUNN\nAuthor of The Misbehariorists.\nThe religious Book Club's selec-\nIllustrated, $3.50\n• February. $4.00\nLINCOLN MACVEAGH\nTHE DIAL PRESS ~\nNEW YORK\n• LONGMANS, GREEN & CO., TORONTO\nPolitiser\nW.R.\nBurnett\n$2.00\nLittle Caesar\nBy W. R. BURNETT\nPicture Jacket in colors by Politzer\nIt is a satisfaction to find a manuscript\nabout which one may become enthusiastic\nMr.\nBurnett's\nnovel\nassuredly\ndeserves\nenthusiasm.\nIt is the story, obiectively and\ngraphically told, of the gradual passing of\nam Vettori, a\ngang-boss in Little Italy.\non the north side of Chicago: of his in-\nevitably yielding the headship to\nhis young\nlieutenant, Cesare Bandello (called Rico) :\nand of Rico's brief-lived days of power, his\nforced flight from Chicago because of the\nmurder of a police captain, and of Rico's\nviolent end, while hiding in Toledo.\n\"A synopsis gives an inadequate idea of\nthe swift realism and dramatic excitement\nof the novel.\nIt is told so concisely, so im-\npersonally that one has the sensation of\nreading a newspaper account, yet the tale\nhas much more body than a mere jour-\nnalistic account, and gives a more complete\nDanoraina\n\"It is not a novel of literary pretensions;\nstill the compression of material is admir.\nable.\nIt will win the\napproval of the\nreader who seeks\nmelodramatic\nfiction, and at the same time it has a more\nthan adequate claim to recognition as an\nable piece of writing\n\"The title Little Caesar is an attractive\none, and definitely characterizes the central\nficure\nof the book!\nThe\nnovel has the\npotentialities of a best seller.\"_ (Quoted\nfrom the report of a manuscript reader.)\nLINCOLN MAC VEAGH\nTHE DIAL PRESS\nNEW YORK\nLONGMANS, GREEN & CO.. TORONTO\nCanadian tante",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6c0e97056f6dce7f25804dd266088239edc06c7c546f25fe0cb313422fcdde7b"
+  }
+}

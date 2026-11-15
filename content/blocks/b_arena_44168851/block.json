@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44168851",
+  "type": "image",
+  "title": "Network Editor",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "network-editor",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-be8df54ea35bb72b060c0782.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Network Editor",
+      "role": "original",
+      "bytes": 311336,
+      "sha256": "be8df54ea35bb72b060c078204be82de14e9b18ec6046ee3fe6f40e3a0ccbee0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44168851/original_2248341728e969ca7bec2dc6554801b9.jpg",
+      "originalName": "2248341728e969ca7bec2dc6554801b9.jpg"
+    },
+    {
+      "path": "assets/thumbnail-1aca2c102bb33dd4b131ff6b.webp",
+      "mimeType": "image/webp",
+      "alt": "Network Editor",
+      "role": "thumbnail",
+      "bytes": 3504,
+      "sha256": "1aca2c102bb33dd4b131ff6b890904e0bd4b399d4561e0036d7eabe81c7e295b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE2ODg1MS9vcmlnaW5hbF8yMjQ4MzQxNzI4ZTk2OWNhN2JlYzJkYzY1NTQ4MDFiOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2248341728e969ca7bec2dc6554801b9.jpg"
+    },
+    {
+      "path": "assets/display-web-original-be8df54ea35bb72b060c0782-be8df54ea3.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Network Editor",
+      "bytes": 100710,
+      "sha256": "2adafdc98ec33c8793edde44c0d6bf36bdac4d956ba5da897f05610f08b20db9",
+      "width": 2000,
+      "height": 1124,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-be8df54ea35bb72b060c0782.jpg",
+        "sourceSha256": "be8df54ea35bb72b060c078204be82de14e9b18ec6046ee3fe6f40e3a0ccbee0",
+        "originalBytes": 311336,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T15:46:47.000Z",
+  "updatedAt": "2026-03-05T15:47:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44168851",
+    "title": "hcpypfpbmaajpaw.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44168851,
+      "url": "https://www.are.na/block/44168851",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hcpypfpbmaajpaw.jpeg",
+      "createdAt": "2026-03-05T15:46:47Z",
+      "updatedAt": "2026-03-05T15:47:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hcpypfpbmaajpaw.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Network Editor",
+    "text": "PATTERN\nSYSTEM\nTOPOLOGY\nRadial\nNODE\nCOUNT -\n120\nCONNECTION\nDENSITY\nCOMPLEXITY - 1.0\nPULSE\nSPEED\nCURVATURE - 0\nREGENERATE\nMOTTON ON\nEXPORT PNG\nEXPORT SVG\n60 FPS\n129 NODES\n844 EDGES",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2adafdc98ec33c8793edde44c0d6bf36bdac4d956ba5da897f05610f08b20db9"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701028",
+  "type": "image",
+  "title": "Danger Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "danger-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b8ee804888f7488e7693c804.png",
+      "mimeType": "image/png",
+      "alt": "Danger Jacket",
+      "role": "original",
+      "bytes": 3856574,
+      "sha256": "b8ee804888f7488e7693c8043c33e6af795983f19f649703ddb98e2dddec52d9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701028/original_1fd4b932eefa0ecedcda3910169cc910.png",
+      "originalName": "1fd4b932eefa0ecedcda3910169cc910.png"
+    },
+    {
+      "path": "assets/thumbnail-eeb8934def35deb790d7fc34.webp",
+      "mimeType": "image/webp",
+      "alt": "Danger Jacket",
+      "role": "thumbnail",
+      "bytes": 12252,
+      "sha256": "eeb8934def35deb790d7fc349e4b8e899cfda487909a3969c3b9c5d7c28183ac",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyOC9vcmlnaW5hbF8xZmQ0YjkzMmVlZmEwZWNlZGNkYTM5MTAxNjljYzkxMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1fd4b932eefa0ecedcda3910169cc910.png"
+    },
+    {
+      "path": "assets/display-web-original-b8ee804888f7488e7693c804-b8ee804888.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Danger Jacket",
+      "bytes": 208666,
+      "sha256": "55aafa2653361f49cb62fef0a80dedcab67742bf4af0c9f63ddcda6a484b8cf8",
+      "width": 2000,
+      "height": 1198,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b8ee804888f7488e7693c804.png",
+        "sourceSha256": "b8ee804888f7488e7693c8043c33e6af795983f19f649703ddb98e2dddec52d9",
+        "originalBytes": 3856574,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:23.000Z",
+  "updatedAt": "2026-07-08T14:56:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701028",
+    "title": "Screenshot 2023-09-12 alle 17.03.29",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701028,
+      "url": "https://www.are.na/block/47701028",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.03.29",
+      "createdAt": "2026-07-08T14:56:23Z",
+      "updatedAt": "2026-07-08T14:56:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.03.29",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Danger Jacket",
+    "text": "\" Mr. Eric Ambler is a man to watch.\"\nBirmingham Post.\n\"Mr. Ambler brings so much in-\ntelligence to bear on his work that\nreaders will follow him eagerly...\nThis is an idea right outside the\nJekyll-Hyde\ntradition,\nand it\nis\nexceedingly well worked out.\"\nMorning Post.\n\"The author writes so subtly that\nhis story never becomes mere farce;\nit can be read as a genuine thriller.\nIt is\nan\namusing\nand\nexciting\nproduction.\"\nScotsman.\nUNCOMMON\nDANGER\nERIC\nAMBLER\nUNCOMMON\nDANGER\n\"Anthony Hope up-to-date with a\nvengeance.\"-Nottingham Journal.\nDOSSIER\n$8439\nCopy 31\nZürich\n\" A front-ranker.\nThe technique\nof the story-telling is so good.\"\nPETER BELLoc in Daily Sketch.\n\" Dark\nand\nsinister conspirators,\nfascinating\nstiffly\nfeminine\nimpassive\nintriguers,\nmilitary leaders,\nviolence in broad davlisht, murder\nin the dark-they are all here.\nA\ngood first effort, Mr. Ambler!\"\nHAROLD M. DowlING in the Western\nMail.\nEric Ambler's\nFirst Novel-\nThe Dark Frontier\nHODDER AND STOUGHTON\n\" The maze of intrigue grows more\ncomplex at every turn.\"\nBirmingham Gazette.\nH&S\nHODDER&STOUGHTON\nERIC AMBLER\ngibbs.\n*I for one am eager to read\nMr. Eric Ambler's second\nbook. He has knowledge and\nhe has speed.\"\nTOrQuEMADA in the\nObserver.\nAbout this book\n\" Uncommon Danger\" is an \" Inside\nEurope \" thriller of\ntremendous\ntopical interest.\nIt tells the story\nof how a British journalist defeated\nthe attempt of a group of financiers\nto secure an oil concession by engi-\nneering a war scare in\nEastern\nEurope.\nThe murder of a spy starts\nhim on a dangerous trail of adven-\nture leading from Nazi Germany to\nthe oil fields of Rumania.\nThe\npolitical \" gangster \" employed by\nthe financiers is an enemy who kills\nfirst and talks afterwards; a Russian\nagent and his lovely sister are allies\nas charming as they are effectual.\nRarely, if ever,\nhas the Central\nEuropean scene been painted so\nrealistically as in\nUNCOMMON DANGER\nthe second book by\nEric Ambler\nH&S",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "55aafa2653361f49cb62fef0a80dedcab67742bf4af0c9f63ddcda6a484b8cf8"
+  }
+}

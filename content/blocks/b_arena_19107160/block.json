@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_19107160",
+  "type": "image",
+  "title": "Collage Sketchbook",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "collage-sketchbook",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-13ef0b3966959f4cbb7c1731.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Collage Sketchbook",
+      "role": "original",
+      "bytes": 150008,
+      "sha256": "13ef0b3966959f4cbb7c1731115830574269e97f74b3ff6f4ee0e156918f375b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/19107160/original_90836de62f531b9218e8e395d15a0cd4.jpg",
+      "originalName": "90836de62f531b9218e8e395d15a0cd4.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f07d5a2fb25b19eeb70da251.webp",
+      "mimeType": "image/webp",
+      "alt": "Collage Sketchbook",
+      "role": "thumbnail",
+      "bytes": 4752,
+      "sha256": "f07d5a2fb25b19eeb70da251fa8ce607f205e0fb7a71f221b617b638d0301f58",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTEwNzE2MC9vcmlnaW5hbF85MDgzNmRlNjJmNTMxYjkyMThlOGUzOTVkMTVhMGNkNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "90836de62f531b9218e8e395d15a0cd4.jpg"
+    },
+    {
+      "path": "assets/display-web-original-13ef0b3966959f4cbb7c1731-13ef0b3966.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Collage Sketchbook",
+      "bytes": 26440,
+      "sha256": "afe654e6ddcc38e10524e26ce547a59cef9011a9ecabd54dbf0506e0fdf45787",
+      "width": 1080,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-13ef0b3966959f4cbb7c1731.jpg",
+        "sourceSha256": "13ef0b3966959f4cbb7c1731115830574269e97f74b3ff6f4ee0e156918f375b",
+        "originalBytes": 150008,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2022-11-22T17:37:21.000Z",
+  "updatedAt": "2026-03-11T13:18:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/19107160",
+    "title": "klu0nuhduznygm.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 19107160,
+      "url": "https://www.are.na/block/19107160",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "klu0nuhduznygm.jpeg",
+      "createdAt": "2022-11-22T17:37:21Z",
+      "updatedAt": "2026-03-11T13:18:34Z",
+      "addedBy": {
+        "id": 199830,
+        "name": "Ev K",
+        "slug": "ev-k"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "klu0nuhduznygm.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Collage Sketchbook",
+    "text": "SUNDAY\nJune\n24\nMONDAY\n25",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "afe654e6ddcc38e10524e26ce547a59cef9011a9ecabd54dbf0506e0fdf45787"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892506",
+  "type": "image",
+  "title": "Thumb Reach",
+  "description": "an idea for a highly-iterative mobile-first AI workspace \nversions at the top \nmain canvas / preview \nselect between options (thumb reachable) \nlock in your favorite option, view next 3 options \ncreates a branching decision tree, asymptotically reaching the Best Thing™️",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "thumb-reach",
+    "artificial-intelligence",
+    "interaction-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-561616265e260bd6ab4b525b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Thumb Reach",
+      "role": "original",
+      "bytes": 58838,
+      "sha256": "561616265e260bd6ab4b525ba9d5d299cb5affe9f7aff2b228a8473ddb35a6ae",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892506/original_454117e9f03a6ad730adca96d3f55183.jpeg",
+      "originalName": "454117e9f03a6ad730adca96d3f55183.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-64b574b13d51d423d2a1ea16.webp",
+      "mimeType": "image/webp",
+      "alt": "Thumb Reach",
+      "role": "thumbnail",
+      "bytes": 6632,
+      "sha256": "64b574b13d51d423d2a1ea16effb2803c365a725e2ea68e96a3f01fecf1e36f2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjUwNi9vcmlnaW5hbF80NTQxMTdlOWYwM2E2YWQ3MzBhZGNhOTZkM2Y1NTE4My5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "454117e9f03a6ad730adca96d3f55183.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-561616265e260bd6ab4b525b-561616265e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Thumb Reach",
+      "bytes": 36472,
+      "sha256": "24ae7584a614f9667c80e5114e7475c7906b5d52b9dc1723a06c5cb93730cff8",
+      "width": 1200,
+      "height": 800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-561616265e260bd6ab4b525b.jpg",
+        "sourceSha256": "561616265e260bd6ab4b525ba9d5d299cb5affe9f7aff2b228a8473ddb35a6ae",
+        "originalBytes": 58838,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:39:28.000Z",
+  "updatedAt": "2026-05-06T14:39:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://x.com/jamiegraytech/status/1815400599904452799",
+    "title": "Jamie Gray on X @jamiegraytech",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892506,
+      "url": "https://www.are.na/block/45892506",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Jamie Gray on X @jamiegraytech",
+      "createdAt": "2026-05-06T14:39:28Z",
+      "updatedAt": "2026-05-06T14:39:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Jamie Gray on X @jamiegraytech",
+      "category": "Digital design",
+      "tags": [
+        "artificial-intelligence",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Thumb Reach",
+    "text": "I Previous verdoes\nMain canvas\n3 options\noption 3 description\nnere w\n1\n2\nClick \"Next\" to lock\nthis version in\nNext\nselected option\n(option 3) text\ndescription\nThumb-reachable\ncontrols",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "24ae7584a614f9667c80e5114e7475c7906b5d52b9dc1723a06c5cb93730cff8"
+  }
+}

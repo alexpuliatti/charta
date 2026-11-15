@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_graphic_design_tools",
+  "title": "Tools",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47575919"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47127523"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473965"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473961"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473958"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473957"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473956"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46473954"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46177781"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46177754"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46149616"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45895094"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892318"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890450"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890435"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44447119"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

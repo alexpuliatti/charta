@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227372",
+  "type": "video",
+  "title": "Landscape Lines",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "landscape-lines",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a2479d66e4de39e7fbefcec0.mp4",
+      "mimeType": "video/mp4",
+      "alt": "khyatitrehan-20241127_115901-3955025630.mp4",
+      "role": "original",
+      "bytes": 1416471,
+      "sha256": "a2479d66e4de39e7fbefcec0d0417bcb1c92373cf000e5a9329998445a348571",
+      "sourceUrl": "https://attachments.are.na/44227372/e79571f5e41ba11650a90511c7b8fa2d.mp4",
+      "originalName": "e79571f5e41ba11650a90511c7b8fa2d.mp4"
+    },
+    {
+      "path": "assets/thumbnail-a656071bd267b28f6ca6af09.webp",
+      "mimeType": "image/webp",
+      "alt": "Landscape Lines",
+      "role": "thumbnail",
+      "bytes": 13242,
+      "sha256": "a656071bd267b28f6ca6af099b90ed471e18f8dbd51b3fdde701d0311a86e03f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM3Mi9vcmlnaW5hbF80NTkxYTIyYjU1Y2RmY2M4MjAyNjAzMDctMi1tM3kyOWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4591a22b55cdfcc820260307-2-m3y29b.png"
+    },
+    {
+      "path": "assets/display-web-original-a2479d66e4de39e7fbefcec0-a2479d66e4.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "khyatitrehan-20241127_115901-3955025630.mp4",
+      "bytes": 1256937,
+      "sha256": "908e92378eda01ff3edc10c2dad4cda4d62fd4c209c54a9de74972d000c72ced",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a2479d66e4de39e7fbefcec0.mp4",
+        "sourceSha256": "a2479d66e4de39e7fbefcec0d0417bcb1c92373cf000e5a9329998445a348571",
+        "originalBytes": 1416471,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-9b6984dc6753023cf71b3079.webp",
+      "mimeType": "image/webp",
+      "alt": "khyatitrehan-20241127_115901-3955025630.mp4",
+      "role": "preview",
+      "bytes": 76866,
+      "sha256": "9b6984dc6753023cf71b3079f7e603ad6a4f140766509be75924f9b567768f94",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227372/original_4591a22b55cdfcc820260307-2-m3y29b.png",
+      "originalName": "4591a22b55cdfcc820260307-2-m3y29b.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1041273,
+        "width": 896,
+        "height": 718,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:33.000Z",
+  "updatedAt": "2026-03-07T22:47:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227372",
+    "title": "khyatitrehan-20241127_115901-3955025630.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227372,
+      "url": "https://www.are.na/block/44227372",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "khyatitrehan-20241127_115901-3955025630.mp4",
+      "createdAt": "2026-03-07T22:47:33Z",
+      "updatedAt": "2026-03-07T22:47:38Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "khyatitrehan-20241127_115901-3955025630.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Landscape Lines",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a656071bd267b28f6ca6af099b90ed471e18f8dbd51b3fdde701d0311a86e03f"
+  }
+}

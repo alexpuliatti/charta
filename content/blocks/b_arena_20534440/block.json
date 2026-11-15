@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_20534440",
+  "type": "image",
+  "title": "Knowledge Timeline",
+  "description": "https://www.sanalabs.com/resources/the-role-of-delight-product-development?utm_source=linkedin&utm_medium=social&utm_campaign=kano-week&utm_content=sana&utm_term=",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "knowledge-timeline",
+    "interaction-design",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c4a7274c534746fdd1c41111.webp",
+      "mimeType": "image/webp",
+      "alt": "Knowledge Timeline",
+      "role": "original",
+      "bytes": 399118,
+      "sha256": "c4a7274c534746fdd1c41111ffe33327df5d00c0db239d0e9597f56bbb12f627",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/20534440/original_afa75351393b94be0265aede4150d587.webp",
+      "originalName": "afa75351393b94be0265aede4150d587.webp"
+    },
+    {
+      "path": "assets/thumbnail-40bdf1813651ac2378d00ba8.webp",
+      "mimeType": "image/webp",
+      "alt": "Knowledge Timeline",
+      "role": "thumbnail",
+      "bytes": 4328,
+      "sha256": "40bdf1813651ac2378d00ba81f2c51a0369935f8c20d5b359c1255c96700b9c0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDUzNDQ0MC9vcmlnaW5hbF9hZmE3NTM1MTM5M2I5NGJlMDI2NWFlZGU0MTUwZDU4Ny53ZWJwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "afa75351393b94be0265aede4150d587.webp"
+    },
+    {
+      "path": "assets/display-web-original-c4a7274c534746fdd1c41111-c4a7274c53.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Knowledge Timeline",
+      "bytes": 50976,
+      "sha256": "4f0ee379755cc207c9235b8c0ca19c19fb6958f71909beeeefa8affeaa535738",
+      "width": 2000,
+      "height": 1335,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c4a7274c534746fdd1c41111.webp",
+        "sourceSha256": "c4a7274c534746fdd1c41111ffe33327df5d00c0db239d0e9597f56bbb12f627",
+        "originalBytes": 399118,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2023-02-23T18:06:51.000Z",
+  "updatedAt": "2026-10-09T09:41:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/20534440",
+    "title": "sana kano 2",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 20534440,
+      "url": "https://www.are.na/block/20534440",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "sana kano 2",
+      "createdAt": "2023-02-23T18:06:51Z",
+      "updatedAt": "2026-10-09T09:41:27Z",
+      "addedBy": {
+        "id": 130286,
+        "name": "Kirill Snegur",
+        "slug": "kirill-snegur"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "sana kano 2",
+      "category": "Digital design",
+      "tags": [
+        "tools",
+        "interfaces",
+        "interaction-design",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594",
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Knowledge Timeline",
+    "text": "• •• ..\nInformation security basics\nO→ 6 people\nI'm know nothing\nabout this\nJonathan\n•\n24 people\n•o sana.ai A\n4 people\n5 people\n6 people\nI could do\nthis in my sleep\n+\n14\n€ Share\nSamuel\n8 others",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4f0ee379755cc207c9235b8c0ca19c19fb6958f71909beeeefa8affeaa535738"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46009108",
+  "type": "video",
+  "title": "Phone Assistant",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "phone-assistant",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-b33c37b89e8918ce099a051b.mp4",
+      "mimeType": "video/mp4",
+      "alt": "lore",
+      "role": "original",
+      "bytes": 5709098,
+      "sha256": "b33c37b89e8918ce099a051b189c5c557decc99da7ee6dad612484939801ff51",
+      "sourceUrl": "https://attachments.are.na/46009108/9826b657eba75420688f9117989e3ef5.mp4",
+      "originalName": "9826b657eba75420688f9117989e3ef5.mp4"
+    },
+    {
+      "path": "assets/thumbnail-d66bf98937a9438848e9195a.webp",
+      "mimeType": "image/webp",
+      "alt": "Phone Assistant",
+      "role": "thumbnail",
+      "bytes": 4962,
+      "sha256": "d66bf98937a9438848e9195a93099430ddf1f04dd37c02866458db6abd16193e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAwOTEwOC9vcmlnaW5hbF81M2M1YzA2NGY5NjljY2E2MjAyNjA1MTEtMi11NjNieTIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "53c5c064f969cca620260511-2-u63by2.png"
+    },
+    {
+      "path": "assets/display-web-original-b33c37b89e8918ce099a051b-b33c37b89e.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "lore",
+      "bytes": 3397234,
+      "sha256": "c7ddedee5d44ef33150e4856bd9215b1435b6262a77d46358961575743b803e7",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-b33c37b89e8918ce099a051b.mp4",
+        "sourceSha256": "b33c37b89e8918ce099a051b189c5c557decc99da7ee6dad612484939801ff51",
+        "originalBytes": 5709098,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-e56a546c81e88e304ef8ea18.webp",
+      "mimeType": "image/webp",
+      "alt": "lore",
+      "role": "preview",
+      "bytes": 72202,
+      "sha256": "e56a546c81e88e304ef8ea18b7b5dbdfcf8b760b80f2debcfca2f854a172a3c1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46009108/original_53c5c064f969cca620260511-2-u63by2.png",
+      "originalName": "53c5c064f969cca620260511-2-u63by2.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 560526,
+        "width": 1920,
+        "height": 1080,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T08:55:05.000Z",
+  "updatedAt": "2026-05-11T08:55:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46009108",
+    "title": "lore",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46009108,
+      "url": "https://www.are.na/block/46009108",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "lore",
+      "createdAt": "2026-05-11T08:55:05Z",
+      "updatedAt": "2026-05-11T08:55:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "lore",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Phone Assistant",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d66bf98937a9438848e9195a93099430ddf1f04dd37c02866458db6abd16193e"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247864",
+  "type": "image",
+  "title": "Origin Life",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "origin-life",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3a85fdb0c6242990e94feca0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Origin Life",
+      "role": "original",
+      "bytes": 48137,
+      "sha256": "3a85fdb0c6242990e94feca0a80381c8e42a1c4152de50bb6bc216687cdc4619",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247864/original_267579528cedde6f9b3d3fa7903c89f9.jpeg",
+      "originalName": "267579528cedde6f9b3d3fa7903c89f9.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-1050591ae3be8145f6c60e52.webp",
+      "mimeType": "image/webp",
+      "alt": "Origin Life",
+      "role": "thumbnail",
+      "bytes": 4370,
+      "sha256": "1050591ae3be8145f6c60e52d8a30d1e5240523c2577b989ed8c5adbc29bef4f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg2NC9vcmlnaW5hbF8yNjc1Nzk1MjhjZWRkZTZmOWIzZDNmYTc5MDNjODlmOS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "267579528cedde6f9b3d3fa7903c89f9.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-3a85fdb0c6242990e94feca0-3a85fdb0c6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Origin Life",
+      "bytes": 25916,
+      "sha256": "58115e613ff2e092b3a1019c44886357cacf7ff44e319b53e480ef4648f75d77",
+      "width": 1200,
+      "height": 675,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3a85fdb0c6242990e94feca0.jpg",
+        "sourceSha256": "3a85fdb0c6242990e94feca0a80381c8e42a1c4152de50bb6bc216687cdc4619",
+        "originalBytes": 48137,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:06.000Z",
+  "updatedAt": "2026-06-23T14:28:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247864",
+    "title": "a2dc1d7ef2653af33cf8ad35815a5f34",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247864,
+      "url": "https://www.are.na/block/47247864",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a2dc1d7ef2653af33cf8ad35815a5f34",
+      "createdAt": "2026-06-23T14:28:06Z",
+      "updatedAt": "2026-06-23T14:28:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a2dc1d7ef2653af33cf8ad35815a5f34",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Origin Life",
+    "text": "01\nOrigin of Life\nSPACE\nODDITY\nPanspermia is the principle\nthat life originated cutside of\nEarth and traveled to here.\nThe chemistry leading to life\nmay have begun shortly after\nBigBang, 13 billion years ago.\nA series\nof\nAnimator\nStickers\nInspired\nby the\nUniverse\nA series\nof\nAnimated\nStickers\nby the\nUniverso\nSPACE\nODDITY\nNASA have found that some building\nwere likely croated in sosco. Tho\nblocks of DNA, the molecule that\nbarliest forms of life on Earth wore\ncarries genetio instructions for life.\nacuany macove away trom no\n02",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "58115e613ff2e092b3a1019c44886357cacf7ff44e319b53e480ef4648f75d77"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473954",
+  "type": "link",
+  "title": "Brik Tools",
+  "description": "Build your tailor-made stack of AI-powered design tools for animations, 2D & 3D visuals, text effects, and images. Remix, share, export, and scale.",
+  "category": "Graphic design",
+  "tags": [
+    "artificial-intelligence",
+    "generative-design",
+    "visual-assets"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-9f12d7496e07c265eb432c98.webp",
+      "mimeType": "image/webp",
+      "alt": "Turn Creative Vision into Living Design Tools | Brik AI",
+      "role": "thumbnail",
+      "bytes": 4740,
+      "sha256": "9f12d7496e07c265eb432c98ab3a55788e9eee4c419c43672d22d4766b1c4831",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk1NC9vcmlnaW5hbF82ZDUzMGYyZDdlNTAxNTg5MGZiNjlmN2I4ZWNjZDIxMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6d530f2d7e5015890fb69f7b8eccd211.png"
+    },
+    {
+      "path": "assets/preview-946e04cbaff9c357f23d5ef6.webp",
+      "mimeType": "image/webp",
+      "alt": "Turn Creative Vision into Living Design Tools | Brik AI",
+      "role": "preview",
+      "bytes": 97738,
+      "sha256": "946e04cbaff9c357f23d5ef6f369e7ba8325fb471eb789f4807252a0392c106a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473954/original_6d530f2d7e5015890fb69f7b8eccd211.png",
+      "originalName": "6d530f2d7e5015890fb69f7b8eccd211.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 378158,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:57:59.000Z",
+  "updatedAt": "2026-05-25T10:58:10.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://brik.space/",
+    "title": "Turn Creative Vision into Living Design Tools | Brik AI",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473954,
+      "url": "https://www.are.na/block/46473954",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Turn Creative Vision into Living Design Tools | Brik AI",
+      "createdAt": "2026-05-25T10:57:59Z",
+      "updatedAt": "2026-05-25T10:58:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Turn Creative Vision into Living Design Tools | Brik AI",
+      "category": "Tools and resources",
+      "tags": [
+        "artificial-intelligence",
+        "tools",
+        "3d-design",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

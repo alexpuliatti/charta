@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46231901",
+  "type": "video",
+  "title": "Desktop Glow",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "desktop-glow",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-578af256545bd342df26019c.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778920778344",
+      "role": "original",
+      "bytes": 13886595,
+      "sha256": "578af256545bd342df26019caa64004b97580d6de6aecb7313045c12b061c0c6",
+      "sourceUrl": "https://attachments.are.na/46231901/22cd375a1dfe75c4548ddc9b4f1720f5.mp4",
+      "originalName": "22cd375a1dfe75c4548ddc9b4f1720f5.mp4"
+    },
+    {
+      "path": "assets/thumbnail-69404c86a8b8ffc364bd9daf.webp",
+      "mimeType": "image/webp",
+      "alt": "Desktop Glow",
+      "role": "thumbnail",
+      "bytes": 9978,
+      "sha256": "69404c86a8b8ffc364bd9dafc054411da14b534972e214d86fe6a0d9d9b078a1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjIzMTkwMS9vcmlnaW5hbF8yNmRlYjc0NWVkODA1YTIwMjAyNjA1MTYtMi1xa3o0MzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "26deb745ed805a2020260516-2-qkz431.png"
+    },
+    {
+      "path": "assets/display-web-original-578af256545bd342df26019c-578af25654.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778920778344",
+      "bytes": 2804800,
+      "sha256": "1e24c1e562c8fe5aad445b6e7699fea609ea63c867640fffafc5f6ad788aac64",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-578af256545bd342df26019c.mp4",
+        "sourceSha256": "578af256545bd342df26019caa64004b97580d6de6aecb7313045c12b061c0c6",
+        "originalBytes": 13886595,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-c4c7e6aa88ce3149a1f7a391.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778920778344",
+      "role": "preview",
+      "bytes": 227206,
+      "sha256": "c4c7e6aa88ce3149a1f7a391860fd0af1692e1b048b7b6724d730a2928397b85",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46231901/original_26deb745ed805a2020260516-2-qkz431.png",
+      "originalName": "26deb745ed805a2020260516-2-qkz431.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 4038097,
+        "width": 2560,
+        "height": 1706,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-16T08:39:54.000Z",
+  "updatedAt": "2026-05-16T08:39:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46231901",
+    "title": "ssstwitter.com_1778920778344",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46231901,
+      "url": "https://www.are.na/block/46231901",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778920778344",
+      "createdAt": "2026-05-16T08:39:54Z",
+      "updatedAt": "2026-05-16T08:39:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778920778344",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Desktop Glow",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "69404c86a8b8ffc364bd9dafc054411da14b534972e214d86fe6a0d9d9b078a1"
+  }
+}

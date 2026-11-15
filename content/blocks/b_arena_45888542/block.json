@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888542",
+  "type": "image",
+  "title": "Minimal Timer",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "minimal-timer",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1f23715194fe99fa28bcd4c9.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Minimal Timer",
+      "role": "original",
+      "bytes": 4849,
+      "sha256": "1f23715194fe99fa28bcd4c9f30f647f058279e74e6fce57e3deb0dc4f82605b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888542/original_48878ec64a2ca6a00032daeda2108fa5.jpeg",
+      "originalName": "48878ec64a2ca6a00032daeda2108fa5.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-92c332837d7e8a06c2e1223f.webp",
+      "mimeType": "image/webp",
+      "alt": "Minimal Timer",
+      "role": "thumbnail",
+      "bytes": 1800,
+      "sha256": "92c332837d7e8a06c2e1223f423bcdb9374add9479badc8e5849553f7ee04b14",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU0Mi9vcmlnaW5hbF80ODg3OGVjNjRhMmNhNmEwMDAzMmRhZWRhMjEwOGZhNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "48878ec64a2ca6a00032daeda2108fa5.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-1f23715194fe99fa28bcd4c9-1f23715194.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Minimal Timer",
+      "bytes": 2508,
+      "sha256": "d13f088c32edf333686818ce44e9832bec9ddda4bd4d4f148d6434744f759650",
+      "width": 420,
+      "height": 432,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1f23715194fe99fa28bcd4c9.jpg",
+        "sourceSha256": "1f23715194fe99fa28bcd4c9f30f647f058279e74e6fce57e3deb0dc4f82605b",
+        "originalBytes": 4849,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:46.000Z",
+  "updatedAt": "2026-07-06T21:06:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888542",
+    "title": "379287a4b4370b008ec010b4e2746c1e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888542,
+      "url": "https://www.are.na/block/45888542",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "379287a4b4370b008ec010b4e2746c1e.jpg",
+      "createdAt": "2026-05-06T12:21:46Z",
+      "updatedAt": "2026-07-06T21:06:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "379287a4b4370b008ec010b4e2746c1e.jpg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Minimal Timer",
+    "text": "3 BKN 328 XCL\n00: 42:16\n82\n60\nHEAT MAR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d13f088c32edf333686818ce44e9832bec9ddda4bd4d4f148d6434744f759650"
+  }
+}

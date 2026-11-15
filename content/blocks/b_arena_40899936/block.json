@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40899936",
+  "type": "link",
+  "title": "Pandemic Survival",
+  "description": "Art Direction, Graphic Design, Editorial Design, Adobe InDesign, Adobe Photoshop",
+  "category": "Graphic design",
+  "tags": [
+    "editorial-design",
+    "art-direction",
+    "publication"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-68d7e59d23a097466bfff055.webp",
+      "mimeType": "image/webp",
+      "alt": "How to Survive a Pandemic - Anjela Freyja",
+      "role": "thumbnail",
+      "bytes": 2818,
+      "sha256": "68d7e59d23a097466bfff055b2c108f75deb3d13981b43184a5ed633f9693eba",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDg5OTkzNi9vcmlnaW5hbF8wYWFmZWMxYzUzODk0NzM0YzZmOTM5MDI1MjRlNDgwOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0aafec1c53894734c6f93902524e4808.png"
+    },
+    {
+      "path": "assets/preview-80a56ac207783bc39f755695.webp",
+      "mimeType": "image/webp",
+      "alt": "How to Survive a Pandemic - Anjela Freyja",
+      "role": "preview",
+      "bytes": 85390,
+      "sha256": "80a56ac207783bc39f755695f71ca9945b5524eae669c6dc999d74cd52ebad85",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40899936/original_0aafec1c53894734c6f93902524e4808.png",
+      "originalName": "0aafec1c53894734c6f93902524e4808.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 732008,
+        "width": 1400,
+        "height": 930,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-06T13:52:39.000Z",
+  "updatedAt": "2025-11-06T13:52:44.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.behance.net/gallery/111672261/How-to-Survive-a-Pandemic",
+    "title": "How to Survive a Pandemic - Anjela Freyja",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40899936,
+      "url": "https://www.are.na/block/40899936",
+      "type": "Embed",
+      "visibility": "public",
+      "originalTitle": "How to Survive a Pandemic - Anjela Freyja",
+      "createdAt": "2025-11-06T13:52:39Z",
+      "updatedAt": "2025-11-06T13:52:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "How to Survive a Pandemic - Anjela Freyja",
+      "category": "Graphic design",
+      "tags": [
+        "tools",
+        "graphic-design",
+        "art-direction",
+        "editorial-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

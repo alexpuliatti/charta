@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247965",
+  "type": "image",
+  "title": "Upwind Website",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "upwind-website",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0fc485439c8c16d96ad990f7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Upwind Website",
+      "role": "original",
+      "bytes": 322803,
+      "sha256": "0fc485439c8c16d96ad990f77e429b8358275ddffadcea7658ec31c394f50f11",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247965/original_1ac317d501b9fb7a5a517232011cb67b.jpeg",
+      "originalName": "1ac317d501b9fb7a5a517232011cb67b.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-93b2ea8f33450bdabe7b90a0.webp",
+      "mimeType": "image/webp",
+      "alt": "Upwind Website",
+      "role": "thumbnail",
+      "bytes": 3830,
+      "sha256": "93b2ea8f33450bdabe7b90a0e0a7ea23cf9109f02b6305d0de8cc2dba219c9ec",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzk2NS9vcmlnaW5hbF8xYWMzMTdkNTAxYjlmYjdhNWE1MTcyMzIwMTFjYjY3Yi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1ac317d501b9fb7a5a517232011cb67b.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0fc485439c8c16d96ad990f7-0fc485439c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Upwind Website",
+      "bytes": 67226,
+      "sha256": "1c2c719d49b6c533afa83457181d2013ee3512c09e14d327719283205d6e91ca",
+      "width": 2000,
+      "height": 1125,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0fc485439c8c16d96ad990f7.jpg",
+        "sourceSha256": "0fc485439c8c16d96ad990f77e429b8358275ddffadcea7658ec31c394f50f11",
+        "originalBytes": 322803,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:30:29.000Z",
+  "updatedAt": "2026-07-26T10:41:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247965",
+    "title": "HHErzBFaUAAXXb9",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247965,
+      "url": "https://www.are.na/block/47247965",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "HHErzBFaUAAXXb9",
+      "createdAt": "2026-06-23T14:30:29Z",
+      "updatedAt": "2026-07-26T10:41:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "HHErzBFaUAAXXb9",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Upwind Website",
+    "text": "8.003\n0.003\n• BLOOM K • [TRACED/Y]\n• BLOOM K • [TRACED/Y]\nEl Unsigned\nBuilt tor collectors, tastemakers\nand those looking for curated art.\n10 outstanding pieces we have featured this week on Unsigned:\n• BLOOM K • [TRACED/Y]\n0.003\nthe whole\nnew way to\ndiscover ari\n• BLOOM K • [TRACED/Y] |\n0.003",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1c2c719d49b6c533afa83457181d2013ee3512c09e14d327719283205d6e91ca"
+  }
+}

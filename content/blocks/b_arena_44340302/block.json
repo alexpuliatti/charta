@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340302",
+  "type": "image",
+  "title": "Block Twelve",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "block-twelve",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-11386414f9683014864db23c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Block Twelve",
+      "role": "original",
+      "bytes": 29863,
+      "sha256": "11386414f9683014864db23c7994d96a310aa9aa77a864c368aa7ee54621e5e2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340302/original_4c7843838d925bd2bd5105078f3a9040.jpg",
+      "originalName": "4c7843838d925bd2bd5105078f3a9040.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f76084189acffea76f5ba08d.webp",
+      "mimeType": "image/webp",
+      "alt": "Block Twelve",
+      "role": "thumbnail",
+      "bytes": 7054,
+      "sha256": "f76084189acffea76f5ba08d2faa689cd21cafc2b33c450a564706833b4421ca",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMwMi9vcmlnaW5hbF80Yzc4NDM4MzhkOTI1YmQyYmQ1MTA1MDc4ZjNhOTA0MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4c7843838d925bd2bd5105078f3a9040.jpg"
+    },
+    {
+      "path": "assets/display-web-original-11386414f9683014864db23c-11386414f9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Block Twelve",
+      "bytes": 21950,
+      "sha256": "f764d8764ef8971d9553278914667c70fa5b7cc26aaa45384a84f0ec97e85de2",
+      "width": 735,
+      "height": 490,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-11386414f9683014864db23c.jpg",
+        "sourceSha256": "11386414f9683014864db23c7994d96a310aa9aa77a864c368aa7ee54621e5e2",
+        "originalBytes": 29863,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340302",
+    "title": "26dbf4a86806c8b19813a06b07dc5a01.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340302,
+      "url": "https://www.are.na/block/44340302",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "26dbf4a86806c8b19813a06b07dc5a01.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "26dbf4a86806c8b19813a06b07dc5a01.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Block Twelve",
+    "text": "Block 12\nThemes\n12E\n12 D\n12 C\n12B\n12A\nGarage\nLocation\nLevel E, South",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f764d8764ef8971d9553278914667c70fa5b7cc26aaa45384a84f0ec97e85de2"
+  }
+}

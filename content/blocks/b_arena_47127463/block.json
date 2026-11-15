@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47127463",
+  "type": "link",
+  "title": "Chipiron MRI",
+  "description": "At Chipiron, we are on a mission to end cancer through scalable MRI technologies. We are building the first light, inexpensive, and open full-body MRI machine that doesn’t compromise image quality.",
+  "category": "Companies",
+  "tags": [
+    "mri",
+    "medical-imaging",
+    "diagnostics"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e33494f23d2651112715ea60.webp",
+      "mimeType": "image/webp",
+      "alt": "Chipiron • Making MRI accessible everywhere",
+      "role": "thumbnail",
+      "bytes": 8342,
+      "sha256": "e33494f23d2651112715ea60c1b0092d7946ea2a3a40ff022f135df5f7b55a9f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzEyNzQ2My9vcmlnaW5hbF9jODQ1YWRkMWI5MGExZGYwNTdkNDYzZTdjN2VlOWNiYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c845add1b90a1df057d463e7c7ee9cba.png"
+    },
+    {
+      "path": "assets/preview-fa7192826522d08cf216303b.webp",
+      "mimeType": "image/webp",
+      "alt": "Chipiron • Making MRI accessible everywhere",
+      "role": "preview",
+      "bytes": 120862,
+      "sha256": "fa7192826522d08cf216303bb52f5627d3e67c48961c1def0e07f62123c10622",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47127463/original_c845add1b90a1df057d463e7c7ee9cba.png",
+      "originalName": "c845add1b90a1df057d463e7c7ee9cba.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 551583,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-18T09:13:18.000Z",
+  "updatedAt": "2026-06-18T09:13:35.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.chipiron.co/",
+    "title": "Chipiron • Making MRI accessible everywhere",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47127463,
+      "url": "https://www.are.na/block/47127463",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Chipiron • Making MRI accessible everywhere",
+      "createdAt": "2026-06-18T09:13:18Z",
+      "updatedAt": "2026-06-18T09:13:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Startups",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.chipiron.co/",
+        "finding": "Official site describes developing MRI systems, calls its competition cohort startups, and reports a Series A round."
+      }
+    ],
+    "original": {
+      "title": "Chipiron • Making MRI accessible everywhere",
+      "category": "Speculative design",
+      "tags": [
+        "architecture",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

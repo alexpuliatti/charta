@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47024670",
+  "type": "link",
+  "title": "Inkwash Sketching",
+  "description": "I love nature journaling. Over time I’ve developed a style and approach that I like for capturing sketches quickly, using a Pilot G2 pen in combination with a waterbrush. This lets me add linework and shading simultaneously (I dual wield with the brush in my left hand) and forces me not to be too precious about the final result - there will inevitably be smudges and imperfections, and there is no undo with pen!",
+  "category": "Writing",
+  "tags": [
+    "nature-journaling",
+    "drawing",
+    "creative-tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-2c492fba34c220f73472bf5d.webp",
+      "mimeType": "image/webp",
+      "alt": "inkwash · how it works",
+      "role": "thumbnail",
+      "bytes": 5414,
+      "sha256": "2c492fba34c220f73472bf5dfd286571b93826545bfff3d24bfd1fb94c8d9a38",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzAyNDY3MC9vcmlnaW5hbF9mMDFlMDI5NDk5MjVkMjQ5NmIxOTQ3NGZmNzYxYWE3MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f01e02949925d2496b19474ff761aa71.png"
+    },
+    {
+      "path": "assets/preview-6208665bd6886c2671800920.webp",
+      "mimeType": "image/webp",
+      "alt": "inkwash · how it works",
+      "role": "preview",
+      "bytes": 166624,
+      "sha256": "6208665bd6886c267180092035a421f5d9f47934f35197b12d0b129b3777a458",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47024670/original_f01e02949925d2496b19474ff761aa71.png",
+      "originalName": "f01e02949925d2496b19474ff761aa71.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1320258,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-14T18:08:17.000Z",
+  "updatedAt": "2026-06-14T18:08:29.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "inkwash · how it works",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47024670,
+      "url": "https://www.are.na/block/47024670",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "inkwash · how it works",
+      "createdAt": "2026-06-14T18:08:17Z",
+      "updatedAt": "2026-06-14T18:08:29Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "inkwash · how it works",
+      "category": "Tools and resources",
+      "tags": [
+        "illustration",
+        "nature",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

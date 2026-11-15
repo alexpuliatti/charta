@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47277949",
+  "type": "link",
+  "title": "Hemingway Setup",
+  "description": "Install hemingway-ai in minutes: initialize config, connect your Anthropic key, and toggle the overlay on your local dev site.",
+  "category": "Technology",
+  "tags": [
+    "artificial-intelligence",
+    "developer-tools",
+    "overlay"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7460a3b6f200990ffe474320.webp",
+      "mimeType": "image/webp",
+      "alt": "Installation Guide | Hemingway AI",
+      "role": "thumbnail",
+      "bytes": 6108,
+      "sha256": "7460a3b6f200990ffe474320ef708a5c5845017a5e9ecc9b8e8adafd2cd90895",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI3Nzk0OS9vcmlnaW5hbF80ZDI4YjM5ZDBkZjM5MGI1NmE4MTMzOWI0MzFmMjgzMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4d28b39d0df390b56a81339b431f2830.png"
+    },
+    {
+      "path": "assets/preview-014758535b1efe7507da3bc7.webp",
+      "mimeType": "image/webp",
+      "alt": "Installation Guide | Hemingway AI",
+      "role": "preview",
+      "bytes": 71602,
+      "sha256": "014758535b1efe7507da3bc732d05898678aa8236deae3e5f1be7f0e919b2cec",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47277949/original_4d28b39d0df390b56a81339b431f2830.png",
+      "originalName": "4d28b39d0df390b56a81339b431f2830.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 244446,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T15:51:22.000Z",
+  "updatedAt": "2026-06-24T15:51:27.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://hellohemingway.com/install/",
+    "title": "Installation Guide | Hemingway AI",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47277949,
+      "url": "https://www.are.na/block/47277949",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Installation Guide | Hemingway AI",
+      "createdAt": "2026-06-24T15:51:22Z",
+      "updatedAt": "2026-06-24T15:51:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Installation Guide | Hemingway AI",
+      "category": "Technology",
+      "tags": [
+        "sculpture",
+        "artificial-intelligence",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

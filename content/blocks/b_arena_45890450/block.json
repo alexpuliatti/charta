@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890450",
+  "type": "link",
+  "title": "Endless Tools",
+  "description": "No-coding tool to create 3D assets, key visual for social media, identity elements and other marketing and design need",
+  "category": "Graphic design",
+  "tags": [
+    "3d-design",
+    "generators",
+    "visual-assets"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f1c5412765ea6e2630ddd623.webp",
+      "mimeType": "image/webp",
+      "alt": "Endless Tools",
+      "role": "thumbnail",
+      "bytes": 2450,
+      "sha256": "f1c5412765ea6e2630ddd623c1d7147dd52fb9000321e00f52b7a67ad7973bf2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDQ1MC9vcmlnaW5hbF80YWU1YTVjZjIyZTM4YmYyOTAzMzM5NjBjNWQ0OTRhMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4ae5a5cf22e38bf290333960c5d494a3.png"
+    },
+    {
+      "path": "assets/preview-8760b484ceefee0398b1dd09.webp",
+      "mimeType": "image/webp",
+      "alt": "Endless Tools",
+      "role": "preview",
+      "bytes": 18958,
+      "sha256": "8760b484ceefee0398b1dd09b05f92d97edd00994f20c679813c685b7d1d9d78",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890450/original_4ae5a5cf22e38bf290333960c5d494a3.png",
+      "originalName": "4ae5a5cf22e38bf290333960c5d494a3.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 71604,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:37:26.000Z",
+  "updatedAt": "2026-05-06T13:37:34.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://endlesstools.io/",
+    "title": "Endless Tools",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890450,
+      "url": "https://www.are.na/block/45890450",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Endless Tools",
+      "createdAt": "2026-05-06T13:37:26Z",
+      "updatedAt": "2026-05-06T13:37:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Endless Tools",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "visual-identity",
+        "3d-design",
+        "programming",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

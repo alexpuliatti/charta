@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888551",
+  "type": "image",
+  "title": "Territorial Control",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "territorial-control",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-89e156a8eff5e2f1e6cd7d09.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Territorial Control",
+      "role": "original",
+      "bytes": 107425,
+      "sha256": "89e156a8eff5e2f1e6cd7d092488bae0b7dcac31b2ca6659ae55ebbbd926f32f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888551/original_b8d025ff6bcf8316716776cd48ad04d2.jpeg",
+      "originalName": "b8d025ff6bcf8316716776cd48ad04d2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-41ea4e75c3b5581d4947fe8d.webp",
+      "mimeType": "image/webp",
+      "alt": "Territorial Control",
+      "role": "thumbnail",
+      "bytes": 6356,
+      "sha256": "41ea4e75c3b5581d4947fe8d7eb6afd24d1ec66c9e90155a2f23f09dd3741cd8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODU1MS9vcmlnaW5hbF9iOGQwMjVmZjZiY2Y4MzE2NzE2Nzc2Y2Q0OGFkMDRkMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b8d025ff6bcf8316716776cd48ad04d2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-89e156a8eff5e2f1e6cd7d09-89e156a8ef.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Territorial Control",
+      "bytes": 86444,
+      "sha256": "26583b7bbc0ec6b1871298297bcfaaa9c284c1e8ac9bad8a4a2f592078294a56",
+      "width": 1080,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-89e156a8eff5e2f1e6cd7d09.jpg",
+        "sourceSha256": "89e156a8eff5e2f1e6cd7d092488bae0b7dcac31b2ca6659ae55ebbbd926f32f",
+        "originalBytes": 107425,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:22:08.000Z",
+  "updatedAt": "2026-05-06T12:22:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888551",
+    "title": "583889d8188639d813370208db59560e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888551,
+      "url": "https://www.are.na/block/45888551",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "583889d8188639d813370208db59560e.jpg",
+      "createdAt": "2026-05-06T12:22:08Z",
+      "updatedAt": "2026-05-06T12:22:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "583889d8188639d813370208db59560e.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Territorial Control",
+    "text": "Territorial Control\nCase Studies on European Borders\nTerritorial Control\nCase Studies\non European Borders\n(1)\n(4)\n(12)\n(24)\n(40)\n(60)\n(86)\n(122)\n(166)\n(230)\n(260)\n(282)\n(292)\nTable of Contents\nIntroduction\nLeander Nowack (Ed.)\nRolling Safespace\nRosa e. V.\nSolidarity Without Borders\nBlindspots e. V.\nCrossing the Forest Border\nFilip Bobras\nIlias Papanikolaou\nHelena Wasilewska\nZofia Zatorska\nSurveillance Technologies\nLuis Baumann\nJakob Honz\nRico Reinold\nElise Schreck\nHearing Ear and Seeing Eye\nLukas Zabrac\nSearching for Asylum\nAnnika Hopster\nLinus Krug\nMara Oppermann\nWhere Am I?\nElaine Braunholz\nMahaut Guérin-Ladouce\nThomas Peters\nPaul Ruhnau\n(In)visible Elements as Walls, Doors,\nKeys and Corridors of CEAS\nElena Spatz\nTheresa Zöllner\nThe Intermediary\nMuriel Stevens\nIf Border Were a Vacation?\nGalyna Sukhomud\nImprint\n1",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "26583b7bbc0ec6b1871298297bcfaaa9c284c1e8ac9bad8a4a2f592078294a56"
+  }
+}

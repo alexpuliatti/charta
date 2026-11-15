@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787098",
+  "type": "image",
+  "title": "Wooden Horns",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "wooden-horns",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5ad46c60acb63659efb8982a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Wooden Horns",
+      "role": "original",
+      "bytes": 505442,
+      "sha256": "5ad46c60acb63659efb8982a7800d10466d5f563882b36208d2228cc07b0a28c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787098/original_574df2783c532eb57d35dce3a5cc3dca.jpg",
+      "originalName": "574df2783c532eb57d35dce3a5cc3dca.jpg"
+    },
+    {
+      "path": "assets/thumbnail-e8ffabe70808e89f1745d399.webp",
+      "mimeType": "image/webp",
+      "alt": "Wooden Horns",
+      "role": "thumbnail",
+      "bytes": 23998,
+      "sha256": "e8ffabe70808e89f1745d3996b89ac07d277ffa927e43c4678a37d11ba008040",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzA5OC9vcmlnaW5hbF81NzRkZjI3ODNjNTMyZWI1N2QzNWRjZTNhNWNjM2RjYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "574df2783c532eb57d35dce3a5cc3dca.jpg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:26:34.000Z",
+  "updatedAt": "2025-11-02T15:26:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787098",
+    "title": "a.for.ara-20230625_222210-2140754002.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787098,
+      "url": "https://www.are.na/block/40787098",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a.for.ara-20230625_222210-2140754002.jpg",
+      "createdAt": "2025-11-02T15:26:34Z",
+      "updatedAt": "2025-11-02T15:26:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a.for.ara-20230625_222210-2140754002.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wooden Horns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5ad46c60acb63659efb8982a7800d10466d5f563882b36208d2228cc07b0a28c"
+  }
+}

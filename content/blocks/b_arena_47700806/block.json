@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700806",
+  "type": "file",
+  "title": "Non-Referential Architecture",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "architectural-theory",
+    "valerio-olgiati"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5e16fad797cddd219b1a7e17.pdf",
+      "mimeType": "application/pdf",
+      "alt": "Valerio Olgiati Non Referential Architecture",
+      "role": "original",
+      "bytes": 15011152,
+      "sha256": "5e16fad797cddd219b1a7e17588f9a051cb5b0b6381c42608108852a7f7411fc",
+      "sourceUrl": "https://attachments.are.na/47700806/6568677e708384d23f45075e0ff970a0.pdf",
+      "originalName": "6568677e708384d23f45075e0ff970a0.pdf"
+    },
+    {
+      "path": "assets/thumbnail-31115da8bb2338c44824e35a.webp",
+      "mimeType": "image/webp",
+      "alt": "Non-Referential Architecture",
+      "role": "thumbnail",
+      "bytes": 3680,
+      "sha256": "31115da8bb2338c44824e35ad667da97afef57669986fd1b684af4f48ceab666",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDgwNi9vcmlnaW5hbF9mOTA2YTRhZDZiMmUyNWNmMjAyNjA3MDgtMi14cWhhaGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "f906a4ad6b2e25cf20260708-2-xqhahe.png"
+    },
+    {
+      "path": "assets/preview-97ce461bb22881730c80f9fc.webp",
+      "mimeType": "image/webp",
+      "alt": "Valerio Olgiati Non Referential Architecture",
+      "role": "preview",
+      "bytes": 199092,
+      "sha256": "97ce461bb22881730c80f9fce4c671b063f0496a63b2a79f1961347e8d6a56b4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700806/original_f906a4ad6b2e25cf20260708-2-xqhahe.png",
+      "originalName": "f906a4ad6b2e25cf20260708-2-xqhahe.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1754934,
+        "width": 1600,
+        "height": 1216,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:53:56.000Z",
+  "updatedAt": "2026-11-14T15:18:38.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Read extracted text from 65-page archived PDF; title and topic reflect document content. Inspected the saved local thumbnail visually (actual-pdf-cover)."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700806",
+    "title": "Valerio Olgiati Non Referential Architecture",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700806,
+      "url": "https://www.are.na/block/47700806",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "Valerio Olgiati Non Referential Architecture",
+      "createdAt": "2026-07-08T14:53:56Z",
+      "updatedAt": "2026-11-14T15:18:38Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Theory",
+    "genre": "book",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Valerio Olgiati Non Referential Architecture",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "",
+    "text": "Non-\nReferential\nArchitecture\nIdeated\nby\nValerio Olgiati\n\nWritten\nby\nMarkus Breitschmid\nSimonett & Baer\nNon-\nReferential\nArchitecture\nIdeated\nby\nValerio Olgiati\n\nThe book Non-Referential Architecture has been in the\nmaking for some time. The two authors - the architect\nValerio Olgiati and the architectural theoretician Markus\nBreitschmid - have known each other since 2005 and\nhave had many conversations in Switzerland, the United\nStates of America, and Portugal. The fruits of these\nconversations have been presented in several previous\npublications that took the form of books, essays, and inter-\nviews. The idea of compiling the present book arose\nin 2013. Its contents coalesced during multiple extended\nconclaves held in the Swiss Alps and in Alentejo. The book\nwas ultimately written in Virginia.\n\nContent\nPreface\nIntroduction to Non-Referential Architecture\nNon-Referential Architecture\nAfter Postmodernity: Non-Referential World\nGenealogy of Architectonic Ordering Systems\nThe Idea in Non-Referential Architecture\nPrinciples of Non-Referential Architecture\nFirst Principle: Experience of Space\nSecond Principle: Oneness\nThird Principle: Newness\nFourth Principle: Construction\nFifth Principle: Contradiction\nSixth Principle: Order\nSeventh Principle: Sensemaking\nAuthorship\n8\n13\n13\n28\n37\n45\n51\n51\n64\n75\n85\n93\n101\n109\n117\n\nPreface\nThis book is addressed to the makers of architecture,\npracticing architects as it were, and everyone else who is\ncreatively invested in our built environment, such as urban\nplanners and landscape architects. The book aims for two\nthings: first, it is a tract that presents for architects a new\nway of seeing and comprehending the societal currents of\nthe non-referential world within which they must operate\nby necessity; and, second, it is a pamphlet that intends to\nprovide guidance and orientation on non-referential archi-\ntecture. In other and more direct words: the book is the\nfirst step in a new framework for seeing the contemporary\nnon-referential world as it presents itself to us as archi-\ntects, and it offers architects a foundation for conceiving a\nnon-referential architecture in that non-referential world.\nNot unlike philosophers and other people who participate\nin forming our world, it is legitimate for us as architects to\npropagate a thesis. However, architects are not philoso-\nphers and they often lack the systematic approach of\nphilosophers. On the other hand, architects have a quality\nthat philosophers often lack: they are a bit like a sleuth,\na kind of sniffer dog, capable of coalescing loose and\ndisconnected occurrences creatively into an early and\nsometimes not fully matured embodiment of a new frame-\nwork with a view to understanding something new that is\nin itself not yet fully matured. The famed historian Oswald\nSpengler admired architects for exactly that capability and\nsuggested that when architecture is attempting to embody\na cultural phenomenon, buildings \"come early\" while phi-\nlosophy \"comes late\". As far as our own intention with this\nbook goes, as architects we want to harvest the strength\n8\nof that aesthetic 'sleuthing' at our disposal. We aim to\ncoalesce in a written form observations that we have made\nin the direction of a non-referential architecture.\nIt is important to make another distinction. This distinction\nrelates to the many contributors who make up the disci-\npline of architecture: it is the distinction between the\ncreative maker of architecture, the practicing architect as\nsuch, on the one hand, and the interpreter, the critic, and\nthe historian, on the other hand - the former builds, the\nlatter evaluates. This is a book foremost for those who\nbuild. As such, the book supports the artistic making and\nthe creative process and it is consciously written with\nthat primary readership in mind, both in regard to how the\nsubject matter is discussed and presented and the way it is\nstructured and organized. Keeping this approach in mind,\nthe book refrains from appearing too scholarly and includ-\ning everything that scholarly academic texts typically\ncontain. We consciously decided that, ideally, the exam-\nination in hand would mention no names, although we\nwere aware of the difficulties that might pose. Hence the\nfew names that have been referred to are only included\nwhen it seemed absolutely necessary for the orientation of\nthe reader. Moreover, we decided to have no citations and\nto exclude the use of photographs, illustrations, and draw-\nings - with one exception. We chose to omit illustrations\nso that our thesis of a non-referential architecture will not\nbe interpreted as a stylistic recipe. Instead, it allows for\nthe emergence of multiple formal possibilities in the mind\nof the reader. We ask the reader to imagine what a non-\nreferential architecture should be like. In addition - despite\nthe difficulty it posed for us as authors - we attempted\nto clarify our argument in the most general manner and\n9\n\nlargely without examples and counter-examples. We did\nso for the same reason justifying the absence of illustra-\ntions. Exceptions to this self-imposed measure also arose,\nmainly when we realized that the content is intangible\nwithout examples. Therefore, we aim to make our points\nnot through comparisons of what exists but by means of\nself-evident arguments (it would be too lofty to call them\nphilosophical propositions, but perhaps we can call them\nanalytical-theoretical attempts). We consciously adopted\nthis particular approach with the legibility of the text in\nmind: the thesis should be accessible for the reader with\nease and obviousness. While consciously liberating itself\nfrom technical constraints of scholarship, this book also\ngrants itself the liberty of making broad coalescing state-\nments. Then again, our way of presenting our thoughts is\nneither entirely discouraged nor novel. With this approach,\nwe take a cue from Friedrich Nietzsche, who offers multi-\nple aphorisms in support of a departure from academic\nscholarliness and suggests th",
+    "method": "PDFKit rasterization and Apple Vision accurate OCR",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "textPath": "extracted.txt",
+    "textSha256": "41a36945be9b7e0e8afa4f6311a721df7f6921673cdd0a69d5d4267aa729391b",
+    "textCharacters": 202237,
+    "pages": 65
+  }
+}

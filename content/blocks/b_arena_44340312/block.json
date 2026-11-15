@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340312",
+  "type": "image",
+  "title": "Glass Office",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "glass-office",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7e873898443e877c3136fdae.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glass Office",
+      "role": "original",
+      "bytes": 49313,
+      "sha256": "7e873898443e877c3136fdaec4c627c84892286ae62ed3cf082e39da8a6cce5c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340312/original_63833bd0f9d5954fa5abe46abc5410a0.jpg",
+      "originalName": "63833bd0f9d5954fa5abe46abc5410a0.jpg"
+    },
+    {
+      "path": "assets/thumbnail-01121ee892add98aa18ac960.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Office",
+      "role": "thumbnail",
+      "bytes": 9810,
+      "sha256": "01121ee892add98aa18ac960ceda2a0e1121874f9cc0790f7f46276823dbff59",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxMi9vcmlnaW5hbF82MzgzM2JkMGY5ZDU5NTRmYTVhYmU0NmFiYzU0MTBhMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "63833bd0f9d5954fa5abe46abc5410a0.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7e873898443e877c3136fdae-7e87389844.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glass Office",
+      "bytes": 32710,
+      "sha256": "d645f34582bc41492c1dda3fca4bf43255ab5dad15b1d14eb312eeb984527fb5",
+      "width": 735,
+      "height": 414,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7e873898443e877c3136fdae.jpg",
+        "sourceSha256": "7e873898443e877c3136fdaec4c627c84892286ae62ed3cf082e39da8a6cce5c",
+        "originalBytes": 49313,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340312",
+    "title": "c3de5d9303b8a9a3dbb5e968692d3f43.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340312,
+      "url": "https://www.are.na/block/44340312",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "c3de5d9303b8a9a3dbb5e968692d3f43.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "c3de5d9303b8a9a3dbb5e968692d3f43.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Office",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d645f34582bc41492c1dda3fca4bf43255ab5dad15b1d14eb312eeb984527fb5"
+  }
+}

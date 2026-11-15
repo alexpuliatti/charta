@@ -1,0 +1,42 @@
+.discover-controls { position: relative; display: flex; align-items: center; gap: 18px; padding: 1px 0 25px; }
+.discover-search { position: relative; width: min(100%,450px); }
+.discover-input { display: block; width: 100%; padding: 12px 15px; border: 1px solid #ffffff24; border-radius: 12px; background: #ffffff04; color: var(--ink); font: 12px/1.4 var(--sans); outline: none; }
+.discover-input::placeholder { color: var(--soft); opacity: 1; }
+.discover-input:focus-visible { border-color: #c8c8c880; box-shadow: 0 0 0 3px #c8c8c810; }
+.discover-status { margin: 0; color: var(--muted); font: 11px/1.5 var(--sans); }
+.discover-status[hidden], .discover-search-results[hidden] { display: none; }
+.discover-search-results { position: absolute; z-index: 30; inset: calc(100% + 7px) 0 auto; max-height: min(50dvh,340px); overflow: auto; overscroll-behavior: contain; padding: 5px; border: 1px solid #ffffff1c; border-radius: 12px; background: #252525ed; backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); box-shadow: 0 12px 40px #0005; }
+.discover-search-result { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; padding: 12px 10px; border: 0; border-radius: 7px; text-align: left; background: transparent; color: var(--ink); font: 12px var(--sans); }
+.discover-search-result small { flex: none; max-width: 45%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--soft); font-size: 10px; }
+.discover-result-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.discover-search-result:focus-visible { outline: 1px solid var(--accent); outline-offset: -1px; background: #ffffff08; }
+.discover-no-results { padding: 12px 10px; margin: 0; color: var(--muted); font: 12px var(--sans); }
+.discover-context { display: flex; align-items: baseline; gap: 8px; min-height: 31px; padding-bottom: 14px; font: 12px/1.4 var(--sans); }
+.discover-context-label { color: var(--soft); font-size: 11px; }
+.discover-anchor { max-width: 65%; padding: 0; border: 0; background: none; color: var(--ink); font: inherit; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: left; }
+.discover-reset { margin-left: auto; color: var(--soft); font-size: 11px; }
+.discover-card { position: relative; min-width: 0; }
+.discover-card .material-card { height: 100%; }
+.discover-card .card-open { cursor: pointer; }
+.discover-card .card-open:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 8px; }
+.discover-open { position: absolute; top: 18px; right: 18px; display: grid; place-items: center; width: 30px; height: 30px; padding: 0; border: 1px solid #ffffff20; border-radius: 8px; background: #202020dc; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); color: var(--ink); font: 17px var(--sans); opacity: 0; }
+.discover-card:focus-within .discover-open { opacity: 1; }
+.discover-fallback { width: 100%; min-height: 180px; padding: 24px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); font: 12px var(--sans); text-align: left; }
+.detail-discover-link { display: inline-flex; align-items: center; gap: 6px; margin-top: 14px; margin-right: 15px; font-size: 11px; }
+.detail-discover-link svg { width: 14px; height: 14px; }
+@media (hover:hover) and (pointer:fine) {
+  .discover-search-result:hover { background: #ffffff08; }
+  .discover-card:hover .discover-open { opacity: 1; }
+  .discover-anchor:hover { color: var(--accent); }
+  .discover-open:hover { background: #353535; }
+}
+@media (hover:none), (pointer:coarse) { .discover-open { opacity: 1; } }
+@supports not (backdrop-filter:blur(1px)) { .discover-search-results { background: #252525; } .discover-open { background: #202020; } }
+@media (prefers-reduced-transparency:reduce) { .discover-search-results, .discover-open { background: #252525; backdrop-filter: none; -webkit-backdrop-filter: none; } }
+@media (max-width:600px) {
+  .discover-controls { align-items: stretch; flex-direction: column; gap: 9px; padding-bottom: 21px; }
+  .discover-search { width: 100%; }
+  .discover-context { flex-wrap: wrap; }
+  .discover-anchor { max-width: 60%; }
+  .discover-open { top: 13px; right: 13px; }
+}

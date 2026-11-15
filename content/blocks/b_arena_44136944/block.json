@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136944",
+  "type": "image",
+  "title": "Editorial Card",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "editorial-card",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-19603ea4af06fe688e5ecc82.png",
+      "mimeType": "image/png",
+      "alt": "Editorial Card",
+      "role": "original",
+      "bytes": 226399,
+      "sha256": "19603ea4af06fe688e5ecc82a530a8e3b21e8561b8e779f67106e3fa16b02496",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136944/original_0ca704353a21d4aaf7f8f06856d7fa37.png",
+      "originalName": "0ca704353a21d4aaf7f8f06856d7fa37.png"
+    },
+    {
+      "path": "assets/thumbnail-a7f59f266a58d6374fc51eed.webp",
+      "mimeType": "image/webp",
+      "alt": "Editorial Card",
+      "role": "thumbnail",
+      "bytes": 11448,
+      "sha256": "a7f59f266a58d6374fc51eed4671c1837c1d26af98bbafe8928a349ac7da23bd",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk0NC9vcmlnaW5hbF8wY2E3MDQzNTNhMjFkNGFhZjdmOGYwNjg1NmQ3ZmEzNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0ca704353a21d4aaf7f8f06856d7fa37.png"
+    },
+    {
+      "path": "assets/display-web-original-19603ea4af06fe688e5ecc82-19603ea4af.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Editorial Card",
+      "bytes": 40994,
+      "sha256": "6196bbbee30eca3d9a0a965f5134d40cbe9bbd20ec25e51e24ae482817520711",
+      "width": 866,
+      "height": 516,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-19603ea4af06fe688e5ecc82.png",
+        "sourceSha256": "19603ea4af06fe688e5ecc82a530a8e3b21e8561b8e779f67106e3fa16b02496",
+        "originalBytes": 226399,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:20.000Z",
+  "updatedAt": "2026-03-04T15:35:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136944",
+    "title": "screenshot-2026-02-28-alle-19.55.01.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136944,
+      "url": "https://www.are.na/block/44136944",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-02-28-alle-19.55.01.png",
+      "createdAt": "2026-03-04T15:35:20Z",
+      "updatedAt": "2026-03-04T15:35:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-02-28-alle-19.55.01.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Editorial Card",
+    "text": "February 04, 2026\nFinding the Beauty:\nNaghmeh Pour\nreflects on Iran-e\nMan\nThe director's project with Pairi\nDaeza during the Woman Life\nFreedom uprising continues to\nresonate as a celebration of Irani...",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6196bbbee30eca3d9a0a965f5134d40cbe9bbd20ec25e51e24ae482817520711"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888383",
+  "type": "image",
+  "title": "Studio Numbers",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "studio-numbers",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-cfd747174a4947f35a638004.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Studio Numbers",
+      "role": "original",
+      "bytes": 120216,
+      "sha256": "cfd747174a4947f35a638004e508b92ee9d3d39a5b6a928619d11dc36bbacfae",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888383/original_b0cb8949ae82edf5faff535e77c5a761.jpeg",
+      "originalName": "b0cb8949ae82edf5faff535e77c5a761.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-1f0deabd798163924ed2550b.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Numbers",
+      "role": "thumbnail",
+      "bytes": 4180,
+      "sha256": "1f0deabd798163924ed2550b0e71a01b71f26c6921519f2c428dc0a95a885cbe",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM4My9vcmlnaW5hbF9iMGNiODk0OWFlODJlZGY1ZmFmZjUzNWU3N2M1YTc2MS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b0cb8949ae82edf5faff535e77c5a761.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-cfd747174a4947f35a638004-cfd747174a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Numbers",
+      "bytes": 56040,
+      "sha256": "ece14d75fbce25ba2a6bd4249ad2fa0fc2fb2bfff65c87d591df180392d99662",
+      "width": 2000,
+      "height": 1250,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-cfd747174a4947f35a638004.jpg",
+        "sourceSha256": "cfd747174a4947f35a638004e508b92ee9d3d39a5b6a928619d11dc36bbacfae",
+        "originalBytes": 120216,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:15:13.000Z",
+  "updatedAt": "2026-07-20T14:51:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888383",
+    "title": "hexxftiagaexqzb.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888383,
+      "url": "https://www.are.na/block/45888383",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hexxftiagaexqzb.jpeg",
+      "createdAt": "2026-05-06T12:15:13Z",
+      "updatedAt": "2026-07-20T14:51:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hexxftiagaexqzb.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Numbers",
+    "text": "60+\nYears of collective experience in\nthe production industry\nABOUT BACKHOUSE\nBackhouse builds frictionless\nproduction ecosystems for studios,\nagencies, and brands-at scale.\nWe help teams increase output,\neliminate burnout, and transform\noperational waste into on-screen\nintegrity across multi-layered media\npipelines.\nTRUSTED BY THE WORLD'S BIGGEST BRANDS\nNETFLIX\nParamount\nsunshine\nSONY\n• YouTube\nGoogle\nDisnep",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ece14d75fbce25ba2a6bd4249ad2fa0fc2fb2bfff65c87d591df180392d99662"
+  }
+}

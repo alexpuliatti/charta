@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46016213",
+  "type": "link",
+  "title": "TouchPoint Solution",
+  "description": "",
+  "category": "Companies",
+  "tags": [
+    "wearables",
+    "stress",
+    "bilateral-stimulation"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-a45c6877dd167753b89fb1a6.webp",
+      "mimeType": "image/webp",
+      "alt": "www.thetouchpointsolution.com",
+      "role": "thumbnail",
+      "bytes": 12066,
+      "sha256": "a45c6877dd167753b89fb1a672aa9ef5d88114a11b31881f540b540175ab67b2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxNjIxMy9vcmlnaW5hbF9hZDhhODlmZjM5Y2Q2YWFmNGI1ZjJjYjc3Zjc5NjdjYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ad8a89ff39cd6aaf4b5f2cb77f7967cc.png"
+    },
+    {
+      "path": "assets/preview-81c21e412889de0440698163.webp",
+      "mimeType": "image/webp",
+      "alt": "www.thetouchpointsolution.com",
+      "role": "preview",
+      "bytes": 281010,
+      "sha256": "81c21e412889de04406981635b18097c6aba7c3a6422396e77da2522ec2a385f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46016213/original_ad8a89ff39cd6aaf4b5f2cb77f7967cc.png",
+      "originalName": "ad8a89ff39cd6aaf4b5f2cb77f7967cc.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2576544,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T13:44:29.000Z",
+  "updatedAt": "2026-05-11T13:44:56.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.thetouchpointsolution.com/",
+    "title": "www.thetouchpointsolution.com",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46016213,
+      "url": "https://www.are.na/block/46016213",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "www.thetouchpointsolution.com",
+      "createdAt": "2026-05-11T13:44:29Z",
+      "updatedAt": "2026-05-11T13:44:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Health technology",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.thetouchpointsolution.com/",
+        "finding": "Official site identifies TouchPoint Solution and its wearable stress products."
+      }
+    ],
+    "original": {
+      "title": "www.thetouchpointsolution.com",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "wellbeing",
+        "mental-health",
+        "mh-companies"
+      ],
+      "collectionIds": [
+        "c_arena_5164043"
+      ]
+    }
+  }
+}

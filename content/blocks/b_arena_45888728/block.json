@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888728",
+  "type": "image",
+  "title": "Glass Passage",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "glass-passage",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-97518a13d0c2f92d1149676a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glass Passage",
+      "role": "original",
+      "bytes": 145769,
+      "sha256": "97518a13d0c2f92d1149676a605386f7c64c97bacf64039f5c240f8d5bd11ba1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888728/original_e813948090ad1d96c269c68c411af112.jpeg",
+      "originalName": "e813948090ad1d96c269c68c411af112.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-7c821344507366065bc40f11.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Passage",
+      "role": "thumbnail",
+      "bytes": 18426,
+      "sha256": "7c821344507366065bc40f11320bcaf12f69cdd021c39e67c35243820aa130cc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcyOC9vcmlnaW5hbF9lODEzOTQ4MDkwYWQxZDk2YzI2OWM2OGM0MTFhZjExMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e813948090ad1d96c269c68c411af112.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-97518a13d0c2f92d1149676a-97518a13d0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glass Passage",
+      "bytes": 137160,
+      "sha256": "f39a664ff56f9ee624095363e5c119872af4c3852f8fa9b9efd4a7040de603de",
+      "width": 667,
+      "height": 1000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-97518a13d0c2f92d1149676a.jpg",
+        "sourceSha256": "97518a13d0c2f92d1149676a605386f7c64c97bacf64039f5c240f8d5bd11ba1",
+        "originalBytes": 145769,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:27:10.000Z",
+  "updatedAt": "2026-05-06T12:27:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888728",
+    "title": "steel.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888728,
+      "url": "https://www.are.na/block/45888728",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "steel.jpg",
+      "createdAt": "2026-05-06T12:27:10Z",
+      "updatedAt": "2026-05-06T12:27:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "steel.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Passage",
+    "text": "CASA",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f39a664ff56f9ee624095363e5c119872af4c3852f8fa9b9efd4a7040de603de"
+  }
+}

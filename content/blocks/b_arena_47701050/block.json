@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701050",
+  "type": "image",
+  "title": "Duke Ellington",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "duke-ellington",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4a1f0c0f2c3a0b2d5c692b44.png",
+      "mimeType": "image/png",
+      "alt": "Duke Ellington",
+      "role": "original",
+      "bytes": 1674144,
+      "sha256": "4a1f0c0f2c3a0b2d5c692b4412b00a7ae21ab8b427bccf1fe95bb333d981abb1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701050/original_ae8a7c305b832dac7d263c12e321eefd.png",
+      "originalName": "ae8a7c305b832dac7d263c12e321eefd.png"
+    },
+    {
+      "path": "assets/thumbnail-af410b4ed7b856929aa5b701.webp",
+      "mimeType": "image/webp",
+      "alt": "Duke Ellington",
+      "role": "thumbnail",
+      "bytes": 9946,
+      "sha256": "af410b4ed7b856929aa5b7019913f8537755ae6f185f5d93fb8b60f24a6ee864",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA1MC9vcmlnaW5hbF9hZThhN2MzMDViODMyZGFjN2QyNjNjMTJlMzIxZWVmZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ae8a7c305b832dac7d263c12e321eefd.png"
+    },
+    {
+      "path": "assets/display-web-original-4a1f0c0f2c3a0b2d5c692b44-4a1f0c0f2c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Duke Ellington",
+      "bytes": 75434,
+      "sha256": "d7164514861abb6c943d7744be678753533391d0e597144d605c47900a06be36",
+      "width": 1142,
+      "height": 1368,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4a1f0c0f2c3a0b2d5c692b44.png",
+        "sourceSha256": "4a1f0c0f2c3a0b2d5c692b4412b00a7ae21ab8b427bccf1fe95bb333d981abb1",
+        "originalBytes": 1674144,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:41.000Z",
+  "updatedAt": "2026-07-08T14:56:43.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701050",
+    "title": "Screenshot 2023-09-12 alle 17.06.43",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701050,
+      "url": "https://www.are.na/block/47701050",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.06.43",
+      "createdAt": "2026-07-08T14:56:41Z",
+      "updatedAt": "2026-07-08T14:56:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.06.43",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Duke Ellington",
+    "text": "MUSIC\nMSTRESS\nDuke\nEllingion\nMUSIC\nISTY\nMISTRESS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d7164514861abb6c943d7744be678753533391d0e597144d605c47900a06be36"
+  }
+}

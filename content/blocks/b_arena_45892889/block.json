@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892889",
+  "type": "image",
+  "title": "Context Graph",
+  "description": "just learned about create-context-graph - one command and it sets up key entity relationships for 22 top industry domains. been looking for something like this to \"layer on\" a social graph to every single app I make!\n[AINews] Context Graphs: Hype or actually Trillion-dollar opportunity?\nhttps://t.co/jTD7dtrMqk\n@latentspacepod - https://x.com/latentspacepod/status/2018886250732929362 (https://x.com/latentspacepod/status/2018886250732929362)",
+  "category": "Technology",
+  "tags": [
+    "technology",
+    "creative-coding",
+    "context-graph",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ec05538e0859d1dba1b686be.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Context Graph",
+      "role": "original",
+      "bytes": 147579,
+      "sha256": "ec05538e0859d1dba1b686be244f50ff0c5799347c14fec203c5f66539f3a206",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892889/original_4c0f0959d8899b7dd8df6119a9182f7a.jpeg",
+      "originalName": "4c0f0959d8899b7dd8df6119a9182f7a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-e71742af601a0693a266b399.webp",
+      "mimeType": "image/webp",
+      "alt": "Context Graph",
+      "role": "thumbnail",
+      "bytes": 13332,
+      "sha256": "e71742af601a0693a266b399a893b260c308881dfa5f0441d51d93ce6f4cd50c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5Mjg4OS9vcmlnaW5hbF80YzBmMDk1OWQ4ODk5YjdkZDhkZjYxMTlhOTE4MmY3YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "4c0f0959d8899b7dd8df6119a9182f7a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ec05538e0859d1dba1b686be-ec05538e08.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Context Graph",
+      "bytes": 82090,
+      "sha256": "a83d2a4b11ab35629aba19bc7d2f194cb91a33c61b5896b62d378d72ed2fbe41",
+      "width": 1115,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ec05538e0859d1dba1b686be.jpg",
+        "sourceSha256": "ec05538e0859d1dba1b686be244f50ff0c5799347c14fec203c5f66539f3a206",
+        "originalBytes": 147579,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:51:26.000Z",
+  "updatedAt": "2026-05-06T14:51:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://x.com/swyx/status/2037620876179537989",
+    "title": "swyx 🌉 on X @swyx",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892889,
+      "url": "https://www.are.na/block/45892889",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "swyx 🌉 on X @swyx",
+      "createdAt": "2026-05-06T14:51:26Z",
+      "updatedAt": "2026-05-06T14:51:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Creative coding",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "swyx 🌉 on X @swyx",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Context Graph",
+    "text": "< → c\ngithub.com/neo4j-labs/create-context-graph\ncreate-context-graph\nPublic\nWatch\n¿° main -\ngº 1 Branch • O Tags\nQ Go to file\nt\nAdd file -\n‹> Code -\nLI README &2 Contributing\n& Apache-2.0 license\nCreate Context Graph\nInteractive CLI scaffolding tool that generates fully-functional, domain-specific context graph applications. Pick\nyour industry domain, pick your agent framework, and get a complete full-stack app in under 5 minutes.\n# Python\nuvx create-context-graph\n# Node. js\nnpx create-context-graph\n# Non-interactive\nuvx create-context-graph my-app\n-domain healthcare -framework pydanticai -demo-data\nSupported Domains\n22 industry domains, each with a purpose-built ontology, sample data, agent tools, and demo scenarios:\nDomain\nFinancial Services\nHealthcare\nRetail & E-\nCommerce\nManufacturing\nKey Entities\nAccount, Transaction, Decision,\nPolicy\nPatient, Provider, Diagnosis,\nTreatment\nCustomer, Product, Order,\nReview\nMachine, Part, WorkOrder,\nSupplier\nDomain\nReal Estate\nVacation &\nHospitality\nKey Entities\nProperty, Listing, Agent,\nInspection\nResort, Booking, Guest,\nActivity\nOil & Gas\nWell, Reservoir, Equipment,\nPermit\nData Journalism\nSource, Story, Claim,\nInvestigation",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a83d2a4b11ab35629aba19bc7d2f194cb91a33c61b5896b62d378d72ed2fbe41"
+  }
+}

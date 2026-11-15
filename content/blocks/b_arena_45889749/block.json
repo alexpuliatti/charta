@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889749",
+  "type": "image",
+  "title": "Image Cascade",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "image-cascade",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f03e051c9dfcc31fb24d6ecd.png",
+      "mimeType": "image/png",
+      "alt": "Image Cascade",
+      "role": "original",
+      "bytes": 2833744,
+      "sha256": "f03e051c9dfcc31fb24d6ecd290ff97afc3776a28e9f25e1326dc85186c58b56",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889749/original_d0debd4244917993b7b9fbc58277f0fe.png",
+      "originalName": "d0debd4244917993b7b9fbc58277f0fe.png"
+    },
+    {
+      "path": "assets/thumbnail-73bdb530d336e27d27e33c6d.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Cascade",
+      "role": "thumbnail",
+      "bytes": 15656,
+      "sha256": "73bdb530d336e27d27e33c6dcbcdea1054c8375d9147f2d4cf858cb63fd4873c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTc0OS9vcmlnaW5hbF9kMGRlYmQ0MjQ0OTE3OTkzYjdiOWZiYzU4Mjc3ZjBmZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d0debd4244917993b7b9fbc58277f0fe.png"
+    },
+    {
+      "path": "assets/display-web-original-f03e051c9dfcc31fb24d6ecd-f03e051c9d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Cascade",
+      "bytes": 105228,
+      "sha256": "b75edebd48db528057479050077b00f256457210c65417e87af526ceff9bffb2",
+      "width": 1868,
+      "height": 1864,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f03e051c9dfcc31fb24d6ecd.png",
+        "sourceSha256": "f03e051c9dfcc31fb24d6ecd290ff97afc3776a28e9f25e1326dc85186c58b56",
+        "originalBytes": 2833744,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:09:48.000Z",
+  "updatedAt": "2026-05-06T13:09:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889749",
+    "title": "screenshot-2026-04-27-alle-11.00.50.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889749,
+      "url": "https://www.are.na/block/45889749",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-04-27-alle-11.00.50.png",
+      "createdAt": "2026-05-06T13:09:48Z",
+      "updatedAt": "2026-05-06T13:09:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-04-27-alle-11.00.50.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Cascade",
+    "text": "fed more\nCREATIVE COMPANY\nABOUT\nEMAIL\nABEILLE ROYAI",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b75edebd48db528057479050077b00f256457210c65417e87af526ceff9bffb2"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579174",
+  "type": "image",
+  "title": "Grey Binding",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "grey-binding",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4002750153233c49dea42cb4.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Grey Binding",
+      "role": "original",
+      "bytes": 4920933,
+      "sha256": "4002750153233c49dea42cb483fa95a609653a3330330aa1a8ee725f7ae1c10a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579174/original_c24a4927ad87a3e8d029402395b83bf2.jpeg",
+      "originalName": "c24a4927ad87a3e8d029402395b83bf2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-7c5e5945d657d1a623a0b5aa.webp",
+      "mimeType": "image/webp",
+      "alt": "Grey Binding",
+      "role": "thumbnail",
+      "bytes": 1314,
+      "sha256": "7c5e5945d657d1a623a0b5aaac75200d00a03117cc270ae201eb31aa770f9cf5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE3NC9vcmlnaW5hbF9jMjRhNDkyN2FkODdhM2U4ZDAyOTQwMjM5NWI4M2JmMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c24a4927ad87a3e8d029402395b83bf2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-4002750153233c49dea42cb4-4002750153.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Grey Binding",
+      "bytes": 489278,
+      "sha256": "d5db88fb80a31c0e892080c051632b5d6bfbfa9bfe8115137bdc40eb8e1edc8e",
+      "width": 1298,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4002750153233c49dea42cb4.jpg",
+        "sourceSha256": "4002750153233c49dea42cb483fa95a609653a3330330aa1a8ee725f7ae1c10a",
+        "originalBytes": 4920933,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:02.000Z",
+  "updatedAt": "2026-07-04T15:36:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579174",
+    "title": "X GWBHpQ0XAAAQPRk",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579174,
+      "url": "https://www.are.na/block/47579174",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "X GWBHpQ0XAAAQPRk",
+      "createdAt": "2026-07-04T15:36:02Z",
+      "updatedAt": "2026-07-04T15:36:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "X GWBHpQ0XAAAQPRk",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Grey Binding",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d5db88fb80a31c0e892080c051632b5d6bfbfa9bfe8115137bdc40eb8e1edc8e"
+  }
+}

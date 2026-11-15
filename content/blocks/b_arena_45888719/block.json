@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888719",
+  "type": "image",
+  "title": "Overlapping Circles",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "overlapping-circles",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-49e3d040f03e6531f02e2b5b.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Overlapping Circles",
+      "role": "original",
+      "bytes": 47764,
+      "sha256": "49e3d040f03e6531f02e2b5b4e92b9f1e47643b888979374426e2f83c0c22dae",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888719/original_315e3672a70353de9cb9b3e230550887.jpeg",
+      "originalName": "315e3672a70353de9cb9b3e230550887.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c56e1266255b5601820368bc.webp",
+      "mimeType": "image/webp",
+      "alt": "Overlapping Circles",
+      "role": "thumbnail",
+      "bytes": 5298,
+      "sha256": "c56e1266255b5601820368bcc3b39fecdbe75068ac625a3318cc3f5cef54941a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcxOS9vcmlnaW5hbF8zMTVlMzY3MmE3MDM1M2RlOWNiOWIzZTIzMDU1MDg4Ny5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "315e3672a70353de9cb9b3e230550887.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-49e3d040f03e6531f02e2b5b-49e3d040f0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Overlapping Circles",
+      "bytes": 32826,
+      "sha256": "80376500f81e4b7db8f8e3c2ef588009982d8d015f226737b2ba107f160be1ba",
+      "width": 1440,
+      "height": 1440,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-49e3d040f03e6531f02e2b5b.jpg",
+        "sourceSha256": "49e3d040f03e6531f02e2b5b4e92b9f1e47643b888979374426e2f83c0c22dae",
+        "originalBytes": 47764,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:49.000Z",
+  "updatedAt": "2026-05-06T12:26:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888719",
+    "title": "therow-20260102_161014-655724269.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888719,
+      "url": "https://www.are.na/block/45888719",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "therow-20260102_161014-655724269.jpg",
+      "createdAt": "2026-05-06T12:26:49Z",
+      "updatedAt": "2026-05-06T12:26:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "therow-20260102_161014-655724269.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Overlapping Circles",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "80376500f81e4b7db8f8e3c2ef588009982d8d015f226737b2ba107f160be1ba"
+  }
+}

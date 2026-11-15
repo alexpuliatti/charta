@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_10517343",
+  "type": "image",
+  "title": "Control Studies",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "control-studies",
+    "product-design",
+    "objects-and-materials"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6de17a3a6ad3da34406580e3.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Control Studies",
+      "role": "original",
+      "bytes": 233220,
+      "sha256": "6de17a3a6ad3da34406580e3f49c09a97dd751a8e46047faa2e2028bc80f7ac7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/10517343/original_7906ffc90f5f8f976bd6a22539b0c599.jpg",
+      "originalName": "7906ffc90f5f8f976bd6a22539b0c599.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6b45b65b2dbf4ddf7642e42e.webp",
+      "mimeType": "image/webp",
+      "alt": "Control Studies",
+      "role": "thumbnail",
+      "bytes": 6776,
+      "sha256": "6b45b65b2dbf4ddf7642e42e9e6a735de0e56d48c5bc811a476f201ac4628b22",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMDUxNzM0My9vcmlnaW5hbF83OTA2ZmZjOTBmNWY4Zjk3NmJkNmEyMjUzOWIwYzU5OS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7906ffc90f5f8f976bd6a22539b0c599.jpg"
+    },
+    {
+      "path": "assets/display-web-original-6de17a3a6ad3da34406580e3-6de17a3a6a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Control Studies",
+      "bytes": 60740,
+      "sha256": "afbec1dd1460e16ea4834bb4d17428d617f37c5882b3fd10cbd405102b17c298",
+      "width": 1400,
+      "height": 1400,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6de17a3a6ad3da34406580e3.jpg",
+        "sourceSha256": "6de17a3a6ad3da34406580e3f49c09a97dd751a8e46047faa2e2028bc80f7ac7",
+        "originalBytes": 233220,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2021-02-01T20:45:19.000Z",
+  "updatedAt": "2026-08-17T06:47:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/818d8c112340857.6012997485346.jpg",
+    "title": "818d8c112340857.6012997485346.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 10517343,
+      "url": "https://www.are.na/block/10517343",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "818d8c112340857.6012997485346.jpg",
+      "createdAt": "2021-02-01T20:45:19Z",
+      "updatedAt": "2026-08-17T06:47:59Z",
+      "addedBy": {
+        "id": 10482,
+        "name": "Julianna Probst",
+        "slug": "julianna-probst"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "818d8c112340857.6012997485346.jpg",
+      "category": "Objects and materials",
+      "tags": [
+        "product-design",
+        "objects",
+        "objects-and-materials"
+      ],
+      "collectionIds": [
+        "c_arena_4921285"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Control Studies",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "afbec1dd1460e16ea4834bb4d17428d617f37c5882b3fd10cbd405102b17c298"
+  }
+}

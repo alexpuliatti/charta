@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888384",
+  "type": "image",
+  "title": "Tahoe Disc",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "tahoe-disc",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5c2851d24a89aa06ef01aba7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Tahoe Disc",
+      "role": "original",
+      "bytes": 206420,
+      "sha256": "5c2851d24a89aa06ef01aba7eadddb085907375c4b8c4ee4ce5b7ce6cff70b19",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888384/original_fbfddc6420b40951a4efb8606e40db85.jpeg",
+      "originalName": "fbfddc6420b40951a4efb8606e40db85.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f8cbbd851e3db501304f48e2.webp",
+      "mimeType": "image/webp",
+      "alt": "Tahoe Disc",
+      "role": "thumbnail",
+      "bytes": 12354,
+      "sha256": "f8cbbd851e3db501304f48e28b88ba0bdf180c7d0bcfa9f5e2f7dc566a203147",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM4NC9vcmlnaW5hbF9mYmZkZGM2NDIwYjQwOTUxYTRlZmI4NjA2ZTQwZGI4NS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "fbfddc6420b40951a4efb8606e40db85.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-5c2851d24a89aa06ef01aba7-5c2851d24a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tahoe Disc",
+      "bytes": 148408,
+      "sha256": "93c92268fe0c75b3b4af1c2ccfc9f8aa740bece5d06b5857ff8af5ea3e361d18",
+      "width": 1536,
+      "height": 1536,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5c2851d24a89aa06ef01aba7.jpg",
+        "sourceSha256": "5c2851d24a89aa06ef01aba7eadddb085907375c4b8c4ee4ce5b7ce6cff70b19",
+        "originalBytes": 206420,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:15:13.000Z",
+  "updatedAt": "2026-05-06T12:15:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888384",
+    "title": "hf2dhr5asae8ocs.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888384,
+      "url": "https://www.are.na/block/45888384",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hf2dhr5asae8ocs.jpeg",
+      "createdAt": "2026-05-06T12:15:13Z",
+      "updatedAt": "2026-05-06T12:15:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hf2dhr5asae8ocs.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tahoe Disc",
+    "text": "SIDE A\nТАПОБ\nAPR 28\n33 RPM\nSTEREO O",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "93c92268fe0c75b3b4af1c2ccfc9f8aa740bece5d06b5857ff8af5ea3e361d18"
+  }
+}

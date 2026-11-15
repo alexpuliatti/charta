@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46717032",
+  "type": "image",
+  "title": "Metal Forms",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "metal-forms",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d8ef01771543bef59edeb430.png",
+      "mimeType": "image/png",
+      "alt": "Metal Forms",
+      "role": "original",
+      "bytes": 782462,
+      "sha256": "d8ef01771543bef59edeb430b95d48f851f81967d075e2c4e21f19bd6f9be8d2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46717032/original_70600b2983a3e990648efc5cd28996be.png",
+      "originalName": "70600b2983a3e990648efc5cd28996be.png"
+    },
+    {
+      "path": "assets/thumbnail-2a6738ff20e35d42dce8d74a.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Forms",
+      "role": "thumbnail",
+      "bytes": 3566,
+      "sha256": "2a6738ff20e35d42dce8d74aec99140881d6733a3ea42b73b507b0580da50c55",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjcxNzAzMi9vcmlnaW5hbF83MDYwMGIyOTgzYTNlOTkwNjQ4ZWZjNWNkMjg5OTZiZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "70600b2983a3e990648efc5cd28996be.png"
+    },
+    {
+      "path": "assets/display-web-original-d8ef01771543bef59edeb430-d8ef017715.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Forms",
+      "bytes": 34834,
+      "sha256": "435590a7c0b788387ca90f80a9b61cd901aeccbcda73c4351acb908d7e560fcb",
+      "width": 1016,
+      "height": 730,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d8ef01771543bef59edeb430.png",
+        "sourceSha256": "d8ef01771543bef59edeb430b95d48f851f81967d075e2c4e21f19bd6f9be8d2",
+        "originalBytes": 782462,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-03T13:39:00.000Z",
+  "updatedAt": "2026-06-03T13:39:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46717032",
+    "title": "Screenshot 2026-05-14 at 11.56.41",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46717032,
+      "url": "https://www.are.na/block/46717032",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-05-14 at 11.56.41",
+      "createdAt": "2026-06-03T13:39:00Z",
+      "updatedAt": "2026-06-03T13:39:04Z",
+      "addedBy": {
+        "id": 480205,
+        "name": "aisha ahamed",
+        "slug": "aisha-ahamed"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-05-14 at 11.56.41",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Forms",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "435590a7c0b788387ca90f80a9b61cd901aeccbcda73c4351acb908d7e560fcb"
+  }
+}

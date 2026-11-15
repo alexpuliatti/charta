@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787945",
+  "type": "video",
+  "title": "IKEA Storage",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "furniture",
+    "ikea-storage",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-26d001c54acda244766a8122.mp4",
+      "mimeType": "video/mp4",
+      "alt": "home.of.h-20241111_195858-302950824.mp4",
+      "role": "original",
+      "bytes": 804075,
+      "sha256": "26d001c54acda244766a81226c0bf6929ed4d8a8a2ebc80b8ee9ee678a8b09ac",
+      "sourceUrl": "https://attachments.are.na/40787945/dd984fde680309e2a271ca074c80151b.mp4",
+      "originalName": "dd984fde680309e2a271ca074c80151b.mp4"
+    },
+    {
+      "path": "assets/thumbnail-7549b7095d62cee4c4f5252b.webp",
+      "mimeType": "image/webp",
+      "alt": "IKEA Storage",
+      "role": "thumbnail",
+      "bytes": 4292,
+      "sha256": "7549b7095d62cee4c4f5252b4cb648e56c1459d46823ff4ecd553ac767abe89d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzk0NS9vcmlnaW5hbF8yZGRjNDI5ZTVmZDI5OGE5MjAyNTExMDItMi1pM2Z1dnMucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2ddc429e5fd298a920251102-2-i3fuvs.png"
+    },
+    {
+      "path": "assets/preview-bd394c2adec214997c8dfb8a.webp",
+      "mimeType": "image/webp",
+      "alt": "home.of.h-20241111_195858-302950824.mp4",
+      "role": "preview",
+      "bytes": 42776,
+      "sha256": "bd394c2adec214997c8dfb8a14b329b2d2d11568eea2a07dc212e024a0a12493",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787945/original_2ddc429e5fd298a920251102-2-i3fuvs.png",
+      "originalName": "2ddc429e5fd298a920251102-2-i3fuvs.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 452701,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:06:06.000Z",
+  "updatedAt": "2025-11-02T16:06:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787945",
+    "title": "home.of.h-20241111_195858-302950824.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787945,
+      "url": "https://www.are.na/block/40787945",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "home.of.h-20241111_195858-302950824.mp4",
+      "createdAt": "2025-11-02T16:06:06Z",
+      "updatedAt": "2025-11-02T16:06:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Furniture",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "home.of.h-20241111_195858-302950824.mp4",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "IKEA Storage",
+    "text": "THE VIRAL\nIKEA\nSIDEBOARD",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7549b7095d62cee4c4f5252b4cb648e56c1459d46823ff4ecd553ac767abe89d"
+  }
+}

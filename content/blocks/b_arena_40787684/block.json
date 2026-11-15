@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787684",
+  "type": "image",
+  "title": "Compact Horn",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "compact-horn",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-951ae8014815c285546a7555.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Compact Horn",
+      "role": "original",
+      "bytes": 98486,
+      "sha256": "951ae8014815c285546a75556548d9d2cbebcbacb379e3bc15fcba7a0cd46745",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787684/original_265e165db641026d7567ff8e6cdde025.jpg",
+      "originalName": "265e165db641026d7567ff8e6cdde025.jpg"
+    },
+    {
+      "path": "assets/thumbnail-c82757c6daf1c5b0efbda6b1.webp",
+      "mimeType": "image/webp",
+      "alt": "Compact Horn",
+      "role": "thumbnail",
+      "bytes": 3270,
+      "sha256": "c82757c6daf1c5b0efbda6b185c0d11da8bb583b25d79d9cbad85258be26e030",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzY4NC9vcmlnaW5hbF8yNjVlMTY1ZGI2NDEwMjZkNzU2N2ZmOGU2Y2RkZTAyNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "265e165db641026d7567ff8e6cdde025.jpg"
+    },
+    {
+      "path": "assets/display-web-original-951ae8014815c285546a7555-951ae80148.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Compact Horn",
+      "bytes": 39564,
+      "sha256": "ffaf5ceafcf88bb5ccff0ca2b5aefe495d470e68957af8d4dd0654d90a0aedd7",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-951ae8014815c285546a7555.jpg",
+        "sourceSha256": "951ae8014815c285546a75556548d9d2cbebcbacb379e3bc15fcba7a0cd46745",
+        "originalBytes": 98486,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:54:45.000Z",
+  "updatedAt": "2026-04-15T01:13:04.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787684",
+    "title": "amazon-ready-klipsch-ojas-ko-r1-bg-herol.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787684,
+      "url": "https://www.are.na/block/40787684",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "amazon-ready-klipsch-ojas-ko-r1-bg-herol.jpg",
+      "createdAt": "2025-11-02T15:54:45Z",
+      "updatedAt": "2026-04-15T01:13:04Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "amazon-ready-klipsch-ojas-ko-r1-bg-herol.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Compact Horn",
+    "text": "NON/ 1133",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ffaf5ceafcf88bb5ccff0ca2b5aefe495d470e68957af8d4dd0654d90a0aedd7"
+  }
+}

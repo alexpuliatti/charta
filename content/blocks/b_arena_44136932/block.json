@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136932",
+  "type": "image",
+  "title": "Symphony Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "symphony-identity",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5c2db826084ab18283cfa21e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Symphony Identity",
+      "role": "original",
+      "bytes": 45597,
+      "sha256": "5c2db826084ab18283cfa21e6edbcc65c1af60a31705e5fcec20100676928967",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136932/original_de78b44d1d8ec9638e7c8f85bc07b48a.jpg",
+      "originalName": "de78b44d1d8ec9638e7c8f85bc07b48a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-f9997cca3ed25f3e2635fd5d.webp",
+      "mimeType": "image/webp",
+      "alt": "Symphony Identity",
+      "role": "thumbnail",
+      "bytes": 5418,
+      "sha256": "f9997cca3ed25f3e2635fd5d2dd52375d596f52482b0e4e201f2427f365bd5d2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkzMi9vcmlnaW5hbF9kZTc4YjQ0ZDFkOGVjOTYzOGU3YzhmODViYzA3YjQ4YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "de78b44d1d8ec9638e7c8f85bc07b48a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5c2db826084ab18283cfa21e-5c2db82608.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Symphony Identity",
+      "bytes": 21846,
+      "sha256": "0829772a20cff3403579fd17c41d84e9a3ea3d25d21969eef558637736203bbf",
+      "width": 1080,
+      "height": 1080,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5c2db826084ab18283cfa21e.jpg",
+        "sourceSha256": "5c2db826084ab18283cfa21e6edbcc65c1af60a31705e5fcec20100676928967",
+        "originalBytes": 45597,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:08.000Z",
+  "updatedAt": "2026-03-04T15:35:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136932",
+    "title": "original_6f6ff3b2adc2688d75143bf0a0767717.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136932,
+      "url": "https://www.are.na/block/44136932",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_6f6ff3b2adc2688d75143bf0a0767717.jpg",
+      "createdAt": "2026-03-04T15:35:08Z",
+      "updatedAt": "2026-03-04T15:35:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_6f6ff3b2adc2688d75143bf0a0767717.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Symphony Identity",
+    "text": "SESYMPHONY\nFeb 2022\nSESYMPHONY\nNov 2022\nSESMPHONY\nAug 2022\nSESYMPHONY\nMay 2022",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0829772a20cff3403579fd17c41d84e9a3ea3d25d21969eef558637736203bbf"
+  }
+}

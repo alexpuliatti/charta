@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889718",
+  "type": "image",
+  "title": "Designer Stamps",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "designer-stamps",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-65579bf8eaca614215c2e127.png",
+      "mimeType": "image/png",
+      "alt": "Designer Stamps",
+      "role": "original",
+      "bytes": 5754082,
+      "sha256": "65579bf8eaca614215c2e1274ae4bc52cb7571758a456571769f4e17f89a5c79",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889718/original_2605d78dfdb15a2c2e794bb54d28ccf6.png",
+      "originalName": "2605d78dfdb15a2c2e794bb54d28ccf6.png"
+    },
+    {
+      "path": "assets/thumbnail-30803bc354a0483fb6638155.webp",
+      "mimeType": "image/webp",
+      "alt": "Designer Stamps",
+      "role": "thumbnail",
+      "bytes": 20048,
+      "sha256": "30803bc354a0483fb663815563662c0f906fc07d452222f4ee26a350eef52e68",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTcxOC9vcmlnaW5hbF8yNjA1ZDc4ZGZkYjE1YTJjMmU3OTRiYjU0ZDI4Y2NmNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2605d78dfdb15a2c2e794bb54d28ccf6.png"
+    },
+    {
+      "path": "assets/display-web-original-65579bf8eaca614215c2e127-65579bf8ea.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Designer Stamps",
+      "bytes": 499184,
+      "sha256": "50ae00e6c79c385f26359849080efe86f78f0cc258aeeea32f524ee352d3113a",
+      "width": 2000,
+      "height": 1665,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-65579bf8eaca614215c2e127.png",
+        "sourceSha256": "65579bf8eaca614215c2e1274ae4bc52cb7571758a456571769f4e17f89a5c79",
+        "originalBytes": 5754082,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:08:55.000Z",
+  "updatedAt": "2026-05-06T13:09:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889718",
+    "title": "screenshot-2025-11-20-alle-13.25.21.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889718,
+      "url": "https://www.are.na/block/45889718",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2025-11-20-alle-13.25.21.png",
+      "createdAt": "2026-05-06T13:08:55Z",
+      "updatedAt": "2026-05-06T13:09:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2025-11-20-alle-13.25.21.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Designer Stamps",
+    "text": "Pap\nMilton\nGlaser\n2025\n2025\nCharles\nEames\n2025\nMüller-(\nBrockmann\nHerb\nLubalin\nPaul\nRand\n2025",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "50ae00e6c79c385f26359849080efe86f78f0cc258aeeea32f524ee352d3113a"
+  }
+}

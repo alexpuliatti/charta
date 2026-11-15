@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787855",
+  "type": "image",
+  "title": "Telescope Study",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "telescope-study",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d2e16f3df97dbf389cb66d79.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Telescope Study",
+      "role": "original",
+      "bytes": 493614,
+      "sha256": "d2e16f3df97dbf389cb66d79d33e28b73b28b4c41463119bb9ce9bd087fb1a64",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787855/original_4d3161f1c46997ec7618afaa9cefbaa7.jpg",
+      "originalName": "4d3161f1c46997ec7618afaa9cefbaa7.jpg"
+    },
+    {
+      "path": "assets/thumbnail-aa9e09677827857b29d2678e.webp",
+      "mimeType": "image/webp",
+      "alt": "Telescope Study",
+      "role": "thumbnail",
+      "bytes": 13706,
+      "sha256": "aa9e09677827857b29d2678e289740878af2d84d3486b31211a8e86edf556549",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg1NS9vcmlnaW5hbF80ZDMxNjFmMWM0Njk5N2VjNzYxOGFmYWE5Y2VmYmFhNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4d3161f1c46997ec7618afaa9cefbaa7.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d2e16f3df97dbf389cb66d79-d2e16f3df9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Telescope Study",
+      "bytes": 199168,
+      "sha256": "564c75caa7b023a2805e683ac2f43c65768972d6621c7c3aa2f741669e1bd0cf",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d2e16f3df97dbf389cb66d79.jpg",
+        "sourceSha256": "d2e16f3df97dbf389cb66d79d33e28b73b28b4c41463119bb9ce9bd087fb1a64",
+        "originalBytes": 493614,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:16.000Z",
+  "updatedAt": "2025-11-02T16:01:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787855",
+    "title": "whereiwouldliketoread-20240108_114144-1128030832.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787855,
+      "url": "https://www.are.na/block/40787855",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "whereiwouldliketoread-20240108_114144-1128030832.jpg",
+      "createdAt": "2025-11-02T16:01:16Z",
+      "updatedAt": "2025-11-02T16:01:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "whereiwouldliketoread-20240108_114144-1128030832.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Telescope Study",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "564c75caa7b023a2805e683ac2f43c65768972d6621c7c3aa2f741669e1bd0cf"
+  }
+}

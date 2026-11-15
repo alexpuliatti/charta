@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_49477221",
+  "type": "link",
+  "title": "Agent Harnesses",
+  "description": "A harness is the software that translates a model into a system that can affect its environment. Agent = Model + Harness.",
+  "category": "Writing",
+  "tags": [
+    "ai-agents",
+    "orchestration",
+    "software-systems"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-850b5d2dd0759a46b897866f.webp",
+      "mimeType": "image/webp",
+      "alt": "What is an Agent Harness? | Rubric Labs",
+      "role": "thumbnail",
+      "bytes": 6236,
+      "sha256": "850b5d2dd0759a46b897866fdc8e44d90bee01ce525f684e0a9cbc16cc213adc",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0OTQ3NzIyMS9vcmlnaW5hbF9hZDQxMGZmMjE0ZjQzOGQyZDY0NzZiOGQ1ODc0MGE2ZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ad410ff214f438d2d6476b8d58740a6d.png"
+    },
+    {
+      "path": "assets/preview-a4b07fb261d16aa3c772f959.webp",
+      "mimeType": "image/webp",
+      "alt": "What is an Agent Harness? | Rubric Labs",
+      "role": "preview",
+      "bytes": 155976,
+      "sha256": "a4b07fb261d16aa3c772f959f60d2635f00624c44ddee0e2b95453c436656be6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/49477221/original_ad410ff214f438d2d6476b8d58740a6d.png",
+      "originalName": "ad410ff214f438d2d6476b8d58740a6d.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1419515,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-08-13T11:30:49.000Z",
+  "updatedAt": "2026-08-13T11:31:00.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://rubriclabs.com/blog/what-is-an-agent-harness#orchestration",
+    "title": "What is an Agent Harness? | Rubric Labs",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 49477221,
+      "url": "https://www.are.na/block/49477221",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "What is an Agent Harness? | Rubric Labs",
+      "createdAt": "2026-08-13T11:30:49Z",
+      "updatedAt": "2026-08-13T11:31:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Technology",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "What is an Agent Harness? | Rubric Labs",
+      "category": "Technology",
+      "tags": [
+        "programming",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

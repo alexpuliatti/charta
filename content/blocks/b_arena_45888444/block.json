@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888444",
+  "type": "image",
+  "title": "Network Traces",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "network-traces",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ed854e15ac14993213cdf08c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Network Traces",
+      "role": "original",
+      "bytes": 938818,
+      "sha256": "ed854e15ac14993213cdf08c0ae751c26de12b98c5d2bbb6650be02937f7a9b5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888444/original_f59f68c0c2ee0cf8b9631471656c552d.jpeg",
+      "originalName": "f59f68c0c2ee0cf8b9631471656c552d.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-5239681e8192cce65ce77e04.webp",
+      "mimeType": "image/webp",
+      "alt": "Network Traces",
+      "role": "thumbnail",
+      "bytes": 6540,
+      "sha256": "5239681e8192cce65ce77e04cfc0f82452c317173bcb0f03f61179584b327cf3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0NC9vcmlnaW5hbF9mNTlmNjhjMGMyZWUwY2Y4Yjk2MzE0NzE2NTZjNTUyZC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "f59f68c0c2ee0cf8b9631471656c552d.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ed854e15ac14993213cdf08c-ed854e15ac.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Network Traces",
+      "bytes": 99756,
+      "sha256": "ef3d119d433cab29e5834312ca799e5312b21127f935c508e4db9157af36de48",
+      "width": 2000,
+      "height": 1141,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ed854e15ac14993213cdf08c.jpg",
+        "sourceSha256": "ed854e15ac14993213cdf08c0ae751c26de12b98c5d2bbb6650be02937f7a9b5",
+        "originalBytes": 938818,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:01.000Z",
+  "updatedAt": "2026-05-06T12:17:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888444",
+    "title": "hewf2axayaa2wp_.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888444,
+      "url": "https://www.are.na/block/45888444",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hewf2axayaa2wp_.jpeg",
+      "createdAt": "2026-05-06T12:17:01Z",
+      "updatedAt": "2026-05-06T12:17:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hewf2axayaa2wp_.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Network Traces",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ef3d119d433cab29e5834312ca799e5312b21127f935c508e4db9157af36de48"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45383259",
+  "type": "link",
+  "title": "Rosalía Lux",
+  "description": "Special Offer, Inc. is a creative tech company focused on the growth of subculture through digital experience.",
+  "category": "Interface design",
+  "tags": [
+    "music",
+    "digital-experience",
+    "creative-technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-b1f82f21515d8bd811a62cc8.webp",
+      "mimeType": "image/webp",
+      "alt": "Lux",
+      "role": "thumbnail",
+      "bytes": 412,
+      "sha256": "b1f82f21515d8bd811a62cc884700f7d03e75af820b52965cf2601e6b9214006",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTM4MzI1OS9vcmlnaW5hbF8yODVmMzcwOTU1ZDc2MThmOTJkNGM1ZWYwNjhlNjdiNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "285f370955d7618f92d4c5ef068e67b6.png"
+    },
+    {
+      "path": "assets/preview-8745f022646511ca16b916b1.webp",
+      "mimeType": "image/webp",
+      "alt": "Lux",
+      "role": "preview",
+      "bytes": 3302,
+      "sha256": "8745f022646511ca16b916b1d6db6b4ceae0d3ba76b3dc89a88f97c1a284e37b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45383259/original_285f370955d7618f92d4c5ef068e67b6.png",
+      "originalName": "285f370955d7618f92d4c5ef068e67b6.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 27895,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-04-17T14:20:45.000Z",
+  "updatedAt": "2026-04-17T14:20:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.specialoffer.inc/work/rosalia-lux",
+    "title": "Lux",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45383259,
+      "url": "https://www.are.na/block/45383259",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Lux",
+      "createdAt": "2026-04-17T14:20:45Z",
+      "updatedAt": "2026-04-17T14:20:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Lux",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

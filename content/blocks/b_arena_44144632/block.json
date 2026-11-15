@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144632",
+  "type": "image",
+  "title": "Image Workspace",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "image-workspace",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5f23e6845cddaba86144c7e0.png",
+      "mimeType": "image/png",
+      "alt": "Image Workspace",
+      "role": "original",
+      "bytes": 847146,
+      "sha256": "5f23e6845cddaba86144c7e04aa53a9d273315e1729d0132623048436913c6f1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144632/original_808f7236466b79c5f41018f9e3b36426.png",
+      "originalName": "808f7236466b79c5f41018f9e3b36426.png"
+    },
+    {
+      "path": "assets/thumbnail-f4d27f18d92b61ee5fc061e8.webp",
+      "mimeType": "image/webp",
+      "alt": "Image Workspace",
+      "role": "thumbnail",
+      "bytes": 7508,
+      "sha256": "f4d27f18d92b61ee5fc061e889124ace4d6e16ef81b266b4326be087e9ca65bb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDYzMi9vcmlnaW5hbF84MDhmNzIzNjQ2NmI3OWM1ZjQxMDE4ZjllM2IzNjQyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "808f7236466b79c5f41018f9e3b36426.png"
+    },
+    {
+      "path": "assets/display-web-original-5f23e6845cddaba86144c7e0-5f23e6845c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Image Workspace",
+      "bytes": 79632,
+      "sha256": "85b34ca2f36189e7f76098776516d3c00110868f2eef82366292d825790382d7",
+      "width": 2000,
+      "height": 1269,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5f23e6845cddaba86144c7e0.png",
+        "sourceSha256": "5f23e6845cddaba86144c7e04aa53a9d273315e1729d0132623048436913c6f1",
+        "originalBytes": 847146,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144632",
+    "title": "screenshot-2026-03-04-alle-20.14.49.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144632,
+      "url": "https://www.are.na/block/44144632",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.14.49.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:26Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.14.49.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Image Workspace",
+    "text": "Suliko Apps LLC Campaign: Sale chairs to hospital\nMENU\nEdit\nType of company:\nWhat is this campaign for?\nEmail Marketing campaign\nGeneral brand awareness\nStep 1\nWhat image do you want to create?\n112 based images | 1 selected\nHase images\nType a concept and click generate\n+\n+\nStep 2\nHi\nShow as list\nGenetate\nName of Campaign\nMy new Campaign\nCollaborate with...\nNext",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "85b34ca2f36189e7f76098776516d3c00110868f2eef82366292d825790382d7"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177429",
+  "type": "image",
+  "title": "Inflection Archive",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "inflection-archive",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9a4e5c4bf2fc2dc609b80250.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Inflection Archive",
+      "role": "original",
+      "bytes": 290264,
+      "sha256": "9a4e5c4bf2fc2dc609b80250026d68a5d7aadb68176a79a24fdaa89fc794e940",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177429/original_d4570694f3d1d3f64396f5b266e3d53d.jpg",
+      "originalName": "d4570694f3d1d3f64396f5b266e3d53d.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0b7e55cd983277322101c226.webp",
+      "mimeType": "image/webp",
+      "alt": "Inflection Archive",
+      "role": "thumbnail",
+      "bytes": 8548,
+      "sha256": "0b7e55cd983277322101c2267c1a4c9a39f23b8dd954a1896f5fc3a61c703e32",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzQyOS9vcmlnaW5hbF9kNDU3MDY5NGYzZDFkM2Y2NDM5NmY1YjI2NmUzZDUzZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d4570694f3d1d3f64396f5b266e3d53d.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9a4e5c4bf2fc2dc609b80250-9a4e5c4bf2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Inflection Archive",
+      "bytes": 133306,
+      "sha256": "32a9540cd1a5ef3fc863e4146db31f3ddf5e797eb75fb05583a007acc74fec98",
+      "width": 1700,
+      "height": 1152,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9a4e5c4bf2fc2dc609b80250.jpg",
+        "sourceSha256": "9a4e5c4bf2fc2dc609b80250026d68a5d7aadb68176a79a24fdaa89fc794e940",
+        "originalBytes": 290264,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:51:51.000Z",
+  "updatedAt": "2026-03-05T19:51:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44177429",
+    "title": "4.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177429,
+      "url": "https://www.are.na/block/44177429",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "4.jpg",
+      "createdAt": "2026-03-05T19:51:51Z",
+      "updatedAt": "2026-03-05T19:51:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "4.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Inflection Archive",
+    "text": "* inflection®\nArk\nAutonomous robotic fleet management\nCreating a future where technology serves human\nfreedom and protects the people of Earth.\nMoonpay\nCrypto payment rails\nSimplifying access to buy, sell and trade crypto using everyday\npayment methods, while providing tools to manage stablecoins.\nFabric\nFull-stack processing for zero-knowledge\nHardware-accelerated cryptography that enables real-time,\nhigh-performance systems where privacy is the default.\nDeep Earth\nSubsurface mapping\nDeveloping advanced mapping technologies that connect\nsubsurface data with surface-level analysis.\nLodestar\nAutonomous dexterity for the space domain\nDefending the ultimate high ground and delivering orbital defence\nas a service to high-value US and allied assets.\nt2\nHumane content creation\nBringing together essays, criticism, and cultural analysis from a\nglobal community of writers, prioritizing editorial quality.\nHome Portfolio About Writings Community Ethos\nSenken\nOpen carbon market\nSustainability Integrity Index, developed with leading scientists,\nanalyses metrics to ensure real impact.\nAptos\nEdge compute for the space economy\nOne device that integrates space-hardened compute, persistent\ncomms, and cloud services into any satellite or spacecraft.\nConvexity\nCollaborative computational biology\nDesigning cyclic peptides with affinity, synthesis success, and\nconjugation in mind and achieving strong binding affinity.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "32a9540cd1a5ef3fc863e4146db31f3ddf5e797eb75fb05583a007acc74fec98"
+  }
+}

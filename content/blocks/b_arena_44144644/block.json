@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44144644",
+  "type": "image",
+  "title": "Branching Patterns",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "branching-patterns",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-88420e075311f504b74ebc2c.png",
+      "mimeType": "image/png",
+      "alt": "Branching Patterns",
+      "role": "original",
+      "bytes": 9629158,
+      "sha256": "88420e075311f504b74ebc2c2acaac9f61df3bdd74f8aaecc5a7a0ed5fb3c94c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44144644/original_ecd4ff4fd7a6a2216799d89eb283ca4e.png",
+      "originalName": "ecd4ff4fd7a6a2216799d89eb283ca4e.png"
+    },
+    {
+      "path": "assets/thumbnail-d262a6a03270b61ddb330cff.webp",
+      "mimeType": "image/webp",
+      "alt": "Branching Patterns",
+      "role": "thumbnail",
+      "bytes": 16402,
+      "sha256": "d262a6a03270b61ddb330cff80edbdb4d72dc04719eaeec94e65de23341d9331",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE0NDY0NC9vcmlnaW5hbF9lY2Q0ZmY0ZmQ3YTZhMjIxNjc5OWQ4OWViMjgzY2E0ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "ecd4ff4fd7a6a2216799d89eb283ca4e.png"
+    },
+    {
+      "path": "assets/display-web-original-88420e075311f504b74ebc2c-88420e0753.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Branching Patterns",
+      "bytes": 588102,
+      "sha256": "50062a014dc8ab69e594eef67d93c8766c7a7a22d352eca9fc1d5d791c85735a",
+      "width": 2000,
+      "height": 1250,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-88420e075311f504b74ebc2c.png",
+        "sourceSha256": "88420e075311f504b74ebc2c2acaac9f61df3bdd74f8aaecc5a7a0ed5fb3c94c",
+        "originalBytes": 9629158,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T19:22:17.000Z",
+  "updatedAt": "2026-03-04T19:22:32.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44144644",
+    "title": "screenshot-2026-03-04-alle-20.16.22.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44144644,
+      "url": "https://www.are.na/block/44144644",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-20.16.22.png",
+      "createdAt": "2026-03-04T19:22:17Z",
+      "updatedAt": "2026-03-04T19:22:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-20.16.22.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Branching Patterns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "50062a014dc8ab69e594eef67d93c8766c7a7a22d352eca9fc1d5d791c85735a"
+  }
+}

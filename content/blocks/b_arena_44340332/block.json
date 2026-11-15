@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340332",
+  "type": "image",
+  "title": "Charlotte Forever",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "charlotte-forever",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-2e899c22702dff7670be6fe8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Charlotte Forever",
+      "role": "original",
+      "bytes": 321477,
+      "sha256": "2e899c22702dff7670be6fe87c8d6113782985c9f38f5d40b17265e482d3f075",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340332/original_4035533df2bb612c3157beed9533f548.jpg",
+      "originalName": "4035533df2bb612c3157beed9533f548.jpg"
+    },
+    {
+      "path": "assets/thumbnail-39f9b21ba194caafeef3dc5c.webp",
+      "mimeType": "image/webp",
+      "alt": "Charlotte Forever",
+      "role": "thumbnail",
+      "bytes": 10862,
+      "sha256": "39f9b21ba194caafeef3dc5cf4551c028aea1627b8556bb398b0c9dbaff835d0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMzMi9vcmlnaW5hbF80MDM1NTMzZGYyYmI2MTJjMzE1N2JlZWQ5NTMzZjU0OC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4035533df2bb612c3157beed9533f548.jpg"
+    },
+    {
+      "path": "assets/display-web-original-2e899c22702dff7670be6fe8-2e899c2270.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Charlotte Forever",
+      "bytes": 130780,
+      "sha256": "63a0e8caa0614f30cd72bf26fb5c55b7a3a981111b9448b5525e1f785a324c19",
+      "width": 1200,
+      "height": 1593,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-2e899c22702dff7670be6fe8.jpg",
+        "sourceSha256": "2e899c22702dff7670be6fe87c8d6113782985c9f38f5d40b17265e482d3f075",
+        "originalBytes": 321477,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:24.000Z",
+  "updatedAt": "2026-03-11T17:42:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340332",
+    "title": "original_beeb7a9275724571a1e0bbb7a45bffbc.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340332,
+      "url": "https://www.are.na/block/44340332",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_beeb7a9275724571a1e0bbb7a45bffbc.jpg",
+      "createdAt": "2026-03-11T17:42:24Z",
+      "updatedAt": "2026-03-11T17:42:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_beeb7a9275724571a1e0bbb7a45bffbc.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Charlotte Forever",
+    "text": "CHARLIE\nFOR EVER\nFilm de\nmec GAINSBOURG or CHARLOTTE GAINSBOURG\nROLAND BERTIN et ROLAND DUBILLARD Directeur de la photo WILLY KURANT Musique de GAINSBOURG\nЭт/f",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "63a0e8caa0614f30cd72bf26fb5c55b7a3a981111b9448b5525e1f785a324c19"
+  }
+}

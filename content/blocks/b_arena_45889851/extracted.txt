@@ -1,0 +1,421 @@
+Apr 2025Vlad Feinberg, vladf@google.com, vladfeinberg.com
+Gemini Pretraining
+
+Introduction
+Classical Scaling
+Small Model Customers
+Inference-optimized Scaling
+Closing Thoughts
+01
+02
+03
+04
+05
+Agenda
+
+Introduction
+01
+
+About Me
+2017 2018 20212019 2022
+Dropped out for startup!
+Sisu Data w/ Peter Bailis
+Efficient DB cubing w/ FDR 
+control via custom 
+distributed lasso engine
+Google Cerebra
+Quantizing Ads DNN 
+for pCTR serving 
+efficiency
+P’17 COS + SML
+w/ Kai: 3D CNN for 
+MRI segmentation 
+for connectome 
+reconstruction
+ML Sys PhD
+Berkeley RISE Lab
+w/ Ion, Joey, Mike
+Model-based Deep RL
+MuJoCo (w/ Sergey)
+Google Brain → GDM
+Optimizer work w/ Elad
+Inference-efficient LLMs
+Flash Pretraining Lead
+
+
+● Classic Scaling
+○ Basic methodologies for pre-training large language 
+models (LLMs)
+○ Foundational lessons learned in the field
+● Inference-Optimized Scaling
+○ How the above methodologies interact with practical 
+serving needs.
+○ Basic roofline methodology, but without sharding
+What This Talk Will Be About
+
+● Specialized capabilities research
+○ image/audio/video in/out
+○ long context
+● Thinking or post-training
+● Evals
+What This Talk Won’t Be About
+
+● Language modelling concepts, decoder-only transformers
+● Distributed computing
+E.g., from level from previous papers read:
+DeepSeek-V3 Technical Report, DeepSeek-AI et al., 2024 https://arxiv.org/abs/2412.19437 
+GSPMD: General and Scalable Parallelization for ML Computation Graphs, Yuanzhong Xu et al., 2021, 
+https://arxiv.org/abs/2105.04663
+Disclaimer: borrowing some amazing slides from fantastic co-workers, 
+Jean-Baptiste Alayrac, Sebastian Borgeaud, and Jacob Austin
+Presumed Background Knowledge
+
+Classical Scaling
+02
+
+If I give you a certain amount of compute C (e.g. 1000 
+H100 for 30 days), what is the best LLM you can train?   
+What should be its size (=N)?
+How many tokens (=D) should it be trained on?
+
+
+If I give you a certain amount of compute C (e.g. 1000 
+H100 for 30 days), what is the best LLM you can train?   
+What should be its size (=N)?
+How many tokens (=D) should it be trained on?
+Note: for a transformer C = 6 * N * D  is a very good  approximation 
+of FLOPs.* 
+*Excluding self-attention, an N-parameter decoder-only model requires 6N matmul FLOPs per token seen (2N for forward and 4N for 
+backward), because each matmul performs one multiplication and one addition per pair of input values, and the backward pass 
+includes two matmuls for each one in the forward pass.
+
+
+How many FLOPs in each training step?
+Adding these up, we get 18BTDF + 24BTDNH = 6 * BT * (3DF+4DNH) = 
+6 * num tokens * parameter count (or 2 * … for forward pass)
+Audience Q: What About MoEs? Why not Attn?
+
+
+Why do we ask ourselves this question?
+ML training before
+● Maybe 2 stages; toy problem for iteration (CIFAR10) then you apply to Imagenet
+● LR searches by doing multiple “final runs”.
+○ The last data point is our test set!
+Now every next run requires extrapolation.
+Analysis made in the context of a parameterized LLM training 
+recipe!
+Must already have architecture scaling, schedule defined for N,D.
+Loss forecast implies model/recipe selection capability!
+
+Scaling Laws
+Kaplan et al (2020)[a]  showed that for autoregressive transformers, the performance of 
+much larger models is accurately predicted by a series of smaller models.
+
+Scaling Laws
+Given a fixed compute budget C, what is the optimal combination of (N, D) ?
+“Maximally compute-efficient training would therefore be far more sample efficient than one 
+might expect based on training small models to convergence, with data requirements 
+growing very slowly as D ∼ C0.27 with training compute.”
+Their findings: With a 10x compute budget, parameters should increase by 
+5.37x and the amount of data by 1.86x.
+
+
+Scaling Laws
+Their findings: With a 10x compute budget, parameters should increase by 5.37x and the 
+amount of data by 1.86x.
+Consequences for the industry: We should heavily invest in scaling the model size 
+rather than the data size!
+ 
+The catch:  
+- These “laws” are only empirical,
+- The fitting of these laws depends a lot on the experimental setup as well as the 
+implicit assumptions being made there.
+
+Chinchilla paper from GDM [b] (March 2022)
+Challenges one assumption from the Kaplan paper: Kaplan et al. run a single training run 
+per model size and uses intermediate losses  to estimate the loss at different token horizon.
+Chinchilla paper: This is a bad approximation as you can get much better losses through 
+proper learning rate decay. Only the final loss value is optimal.
+Let’s look together the consequences!
+
+
+The IsoFlops approach 
+One of the 3 approaches in the paper
+IsoFlops: Fix flops and vary model size and training tokens   -   Nopt(C) and Dopt(C)
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+3. Fit a parabola and find the minimum
+
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+3. Fit a parabola and find the minimum
+4. Repeat 1-3 for various FLOPs budgets
+
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+3. Fit a parabola and find the minimum
+4. Repeat 1-3 for various FLOPs budgets
+
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+3. Fit a parabola and find the minimum
+4. Repeat 1-3 for various FLOPs budgets
+5. Fit a power law between FLOPs 
+budget and optimal model size
+
+
+The IsoFlops approach 
+1. Fix a target FLOPs budget
+2. Train a few models, vary model size
+3. Fit a parabola and find the minimum
+4. Repeat 1-3 for various FLOPs budgets
+5. Fit a power law between FLOPs 
+budget and optimal model size
+6. Fit a power law between FLOPs 
+budget and optimal dataset size
+
+
+Chinchilla Scaling Laws
+Chinchilla findings: the exponent in the power law is ~0.5, meaning model and data size 
+should be scaled at the same rate! This is widely different from Kaplan et al.
+
+
+Chinchilla Scaling Laws
+Chinchilla findings: the exponent in the power law is ~0.5, meaning model and data size 
+should be scaled at the same rate! This is widely different from Kaplan et al.
+Consequences: Given a compute budget, models should be smaller and trained for 
+longer. Kaplan’s scaling laws meant that models were undertrained – which is obviously 
+bad given bigger models are more expensive to serve and use downstream!
+UNDERTRAINED!
+
+Slight refinements 
+Joint loss, eval ﬁt.
+To make a change, compare 
+baseline vs candidate laws.
+
+The End of Scaling?
+GPT-4.5 Doomers: LMSys is not the 
+end-all-be-all.
+Llama 4 Maverick demonstrated that 
+ranking can be volatile and overfit to 
+human preference.
+More importantly:
+1. Better NN design still coming
+2. Data from new sources being added
+
+
+Better Algorithms
+MoE scaling laws are better, but have 
+implications for token hunger. We’re 
+running out of internet!
+Beta is the data-dependent exponent; 
+alpha is parameter.
+Notice relative data hunger compared to 
+dense!
+At same active param count and 
+ﬁxed 100B token training, MoE 64E 
+improves on dense
+
+
+More Data Sources
+Unsurprisingly, this is where we spend most of our time, 
+even as modelling people. Probably half my focus this 
+year so far.
+1. Multimodal Data
+1. Audio, visual, 3D, videos, etc.
+2. Synthetic Data
+1. Without filter, it can help in the Stein’s 
+paradox sense (Jain et al 2024)
+2. Tradeoff: Generation Quality vs. Filtering
+For appropriate alpha…
+
+
+Small Model Customers
+03
+
+Inference Efficiency Goals
+
+
+Key Google Use Cases demand
+(1) higher volume servicing
+(2) real time
+All of these require Flash (+Flash-lite)
+● Free Tier Gemini App (chatbot)
+● AIO
+● AIM
+● Vertex AI (finetuning, deploying)
+● AI Studio (generation API)
+What Motivates Being on the Pareto Frontier
+
+
+Real-time #1: Astra
+Shout out to Tara Sainath for the video!
+
+Real time #2: Mariner
+Shout out to Anmol Gulati for the video!
+
+Some quick back of envelopes
+● Consider a web interaction agent with:
+○ 128k prefill, but only 8k incremental
+○ 128 decode (say it takes that many tokens to get an action)
+● Suppose further that we don’t want more than a second of latency 
+between actions.
+● And say 250ms is scaffolding, load balancing, request validation, kv 
+cache retrieval etc. (optimistic!)
+An experiment with Llama3-70B and v5e chips…
+Assume fully compute bound on prefill and hbm on decode
+Why Do Real-time Use Cases Imply Smaller Models
+
+Uh oh… 5.7 seconds for 1 chip. So to hit 0.5 sec api limit 
+we already need to have a 4x4 preﬁll station of v5e Audience Q: how would we shard on 4x4?
+1-off napkin math
+For Llama3-70B
+Inference on v5e
+
+How changes get adopted in classical 
+setting:
+1. Derive L*(flops) baseline 
+2. L*(flops) candidate
+To the right, isoflop-style
+Can also use L(N,D) fits and 6ND.
+Chinchilla-style Scaling Ignores Inference Cost
+
+
+Inference-Aware Scaling
+04
+
+Most direct answer to previous question:
+Globally optimize flops between training and 
+inference?
+Beyond Chinchilla-Optimal: Accounting for 
+Inference in Language Model Scaling Laws, 
+Sardana et al., 2024, 
+https://arxiv.org/abs/2401.00448 
+Inference-Aware Laws
+
+
+Non-homogeneity of Compute
+1. Inference-optimized chips. Also global optimization is not how 
+cross-org planning actually works.
+2. But in principle can adjust the formulas for “business cost”
+Deeper issue (1): non-forecastability of Dinf
+1. Jevon’s paradox.
+2. Market expansion
+from quality improvements
+Deeper (2): badness of fit
+(See Fig5/tbl1 to the right)
+Challenges with Inference-Aware Laws
+
+
+Proprietary + Conﬁdential
+#1: Addressing Badness of Fit 
+from Heavily Overtrained models
+
+
+Scaling Data-Constrained Language Models
+https://arxiv.org/abs/2305.16264
+D was opaque and recipe-specific.
+You wouldn’t be blamed for assuming iid
+New dimension: intentionally unique data, L(N, U, R)
+Upshot: yet smaller models, more resilient to repeats.
+Modelling Under Data Constraints
+Intentionally subset data
+
+
+Proprietary + Conﬁdential
+#2: What about Dinf?
+
+Llama3 : Dinf = inf! https://arxiv.org/abs/2407.21783 
+“Both our 8B and 70B parameter models continued 
+to improve log-linearly after we trained them on up 
+to 15T tokens.” link
+Could be quite valid for open source! Just pick sizes 
+and train on all your data!
+We could be doing research with those flops! Use 
+this forecast to estimate how much regret we got. 
+Assuming 5 epochs, data-scarce law from prev 
+paper. Colab . Job is to push the curves right.
+Still, What About Dinf
+ With L(U, N, R) we can back out ideal shrunk datasets to match loss (5 epochs)
+
+
+Adds other axes to everything we’ve discussed 
+so far!
+Will not say much here; beside the fact that 
+there are other dimensions now too.
+Distillation Scaling Laws (Busbridge et al 2025)
+Distillation
+How to spend ﬂops with teacher?
+
+Fig4, eq8
+(1) very weak effect from up-trend; and not typical regime
+(2) Missing part of the story. Teacher pplx can be arbitrarily weakened by just adding temperature!
+Take a really good teacher -> Eq8 predicts bad distill -> but add high temp and it will be good?
+(3) In practice, you can James-stein this away with weight tuning with supervised objective
+Student Capacity Gap?
+
+
+Distill as variance reduction. Better teacher will just reduce bias
+Distill blog post story
+
+
+Closing Thoughts
+05
+
+Scaling Work has two flavors
+1. Adding points to Quality x Model Size plot
+2. Increasing the slope of the plot
+Gemini tick-tock (Flash goal to match Pro of previous gen)
+Inference Efficiency Work: Compression work grows with both scaling 
+aspects
+1. Development of better distillation recipes
+2. Quantization
+3. Serving-friendly model design changes
+Scaling Trends and Inference Implications
+
+
+Common refrain: pretraining is expensive, only can be researched in industry
+● Developing hardware-focussed kernels is the hot-loop for research now. 
+Kernel programming languages, compiler tools, developer tools that make 
+this easier are crucial. Or come up with the next flash attention.
+● Quantization entering a new frontier from vector quant
+● Funsearch-style inference vs quality tradeoffs
+For LLM-in-the-loop for search.
+● Scaling laws are brittle, dataset dependent.
+○ L(N, D, etc.) – of course we can add
+more dims to improve fit.
+Least squares vs MLE & formal stats model
+Imply different scaling recommendations! Formalize.
+○ Rather than grid (N, D) where do we get max info gain? Active learn…
+Future Pretrain Research Ideas – Without Big Costs!
+
+
+● Scaling Laws for Neural Language Models, Kaplan et al., 2020, 
+https://arxiv.org/abs/2001.08361 
+● Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws, 
+Sardana et al., 2024, https://arxiv.org/abs/2401.00448 
+● Scaling Data-Constrained Language Models, Muennighoff et al., 2023, 
+https://arxiv.org/abs/2305.16264 
+● Distillation Scaling Laws, Busbridge et al., 2025, https://arxiv.org/abs/2502.08606 
+● How to Scale Your Model, Austin et al., https://jax-ml.github.io/scaling-book/ 
+● Efficiently Scaling Transformer Inference, Pope et al., 2022, https://arxiv.org/abs/2211.05102 
+● Unified Scaling Laws for Routed Language Models, Clark et al., 2022, 
+https://arxiv.org/abs/2202.01169 
+Key Resources

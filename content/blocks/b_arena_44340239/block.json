@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340239",
+  "type": "image",
+  "title": "Modular Cards",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "modular-cards",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7d72e3397b21acaee46a8e99.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Modular Cards",
+      "role": "original",
+      "bytes": 42830,
+      "sha256": "7d72e3397b21acaee46a8e999c4844d560aaac6e227d601f7e8a89b3e51fac9f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340239/original_cb2610bfaf37d0ebf7bef5ae121358e2.jpg",
+      "originalName": "cb2610bfaf37d0ebf7bef5ae121358e2.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2402a910323cb39064ff11de.webp",
+      "mimeType": "image/webp",
+      "alt": "Modular Cards",
+      "role": "thumbnail",
+      "bytes": 3628,
+      "sha256": "2402a910323cb39064ff11dead097e5460becec35e6f37baafbdb33896e0fbb0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIzOS9vcmlnaW5hbF9jYjI2MTBiZmFmMzdkMGViZjdiZWY1YWUxMjEzNThlMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "cb2610bfaf37d0ebf7bef5ae121358e2.jpg"
+    },
+    {
+      "path": "assets/display-web-original-7d72e3397b21acaee46a8e99-7d72e3397b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Modular Cards",
+      "bytes": 22876,
+      "sha256": "83001ce51a1aa13ee9cf2a9afe1e93b0ce3a64adf5c52b1bbfe95d4f678796c6",
+      "width": 1200,
+      "height": 853,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7d72e3397b21acaee46a8e99.jpg",
+        "sourceSha256": "7d72e3397b21acaee46a8e999c4844d560aaac6e227d601f7e8a89b3e51fac9f",
+        "originalBytes": 42830,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:30.000Z",
+  "updatedAt": "2026-03-11T17:40:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340239",
+    "title": "a76fa324fd81214551869ee9b802ae9f.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340239,
+      "url": "https://www.are.na/block/44340239",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a76fa324fd81214551869ee9b802ae9f.jpg",
+      "createdAt": "2026-03-11T17:40:30Z",
+      "updatedAt": "2026-03-11T17:40:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a76fa324fd81214551869ee9b802ae9f.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Modular Cards",
+    "text": "O Search\nGroups (13)\nScratch\nÇu Talk + Pals\n:: Dan (+3)\n2:22\nTerminal\nA Guide to Using\nLandscape\nTion's local\nIf you've just arrived here (or come back\nafter some time away) here's a quick\nrundown of Landscape.\nWhat is Landscape? First of all, youre\nusing it right now. We think of\nLandscape as part social network and\npart computer. Sometimes we call it a\nsocial computer.\nBut said another way, it's an Urbit-native\nsuite of apps, providing the basics for\nkicks\nOpen in Groups\ndigit.\nGroups\n• Find Apps\n? •\nTalk",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "83001ce51a1aa13ee9cf2a9afe1e93b0ce3a64adf5c52b1bbfe95d4f678796c6"
+  }
+}

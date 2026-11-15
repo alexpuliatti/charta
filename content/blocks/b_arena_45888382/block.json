@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888382",
+  "type": "image",
+  "title": "Studio Clients",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "studio-clients",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6540fc4a8752a3bc8da83f40.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Studio Clients",
+      "role": "original",
+      "bytes": 141789,
+      "sha256": "6540fc4a8752a3bc8da83f4095cb0a2338f8b5b0d3a3255cc959eb10fb02d7ff",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888382/original_8485d32bb9d9f5a29740e312d719aec8.jpeg",
+      "originalName": "8485d32bb9d9f5a29740e312d719aec8.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-7b4955aa80aef1c39bf130a0.webp",
+      "mimeType": "image/webp",
+      "alt": "Studio Clients",
+      "role": "thumbnail",
+      "bytes": 5276,
+      "sha256": "7b4955aa80aef1c39bf130a09206901ca4e495db064d275debd9a8dd54be3004",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODM4Mi9vcmlnaW5hbF84NDg1ZDMyYmI5ZDlmNWEyOTc0MGUzMTJkNzE5YWVjOC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "8485d32bb9d9f5a29740e312d719aec8.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6540fc4a8752a3bc8da83f40-6540fc4a87.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Studio Clients",
+      "bytes": 65176,
+      "sha256": "5b2bd9423772cf108b33f40c2c9cffb7ac27999056e9fd87c88e477078204f99",
+      "width": 2000,
+      "height": 1250,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6540fc4a8752a3bc8da83f40.jpg",
+        "sourceSha256": "6540fc4a8752a3bc8da83f4095cb0a2338f8b5b0d3a3255cc959eb10fb02d7ff",
+        "originalBytes": 141789,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:15:13.000Z",
+  "updatedAt": "2026-05-06T12:15:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888382",
+    "title": "hexxfgpbuaa9icz.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888382,
+      "url": "https://www.are.na/block/45888382",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hexxfgpbuaa9icz.jpeg",
+      "createdAt": "2026-05-06T12:15:13Z",
+      "updatedAt": "2026-05-06T12:15:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hexxfgpbuaa9icz.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Studio Clients",
+    "text": "+\nJUKKACK RECORD\nFoundation-tested inside high-\nvolume studios, Deployed\nacross global brands and\nrefined under real financial\npressure, impossible timelines.\nJJ\nBackhouse is a rare kind of production\npartner, equally fluent in big-picture\nvision and the smallest, most meaningful details.\nThey earn trust, unite teams, and create\nsystems that actually work.\nApple\nMeta\nGoogle\nYouTube\nSony\nParamount\nHello Sunshine\nHBO\nDisney\nOprah Winfrey\nNetflix\nReese Witherspoon\nNike\nAmazon\n+",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5b2bd9423772cf108b33f40c2c9cffb7ac27999056e9fd87c88e477078204f99"
+  }
+}

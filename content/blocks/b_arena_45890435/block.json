@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890435",
+  "type": "link",
+  "title": "Organic Logos",
+  "description": "Run this AI-powered technique in your browser. Upload inputs, generate professional results in seconds. Free to try on FLORA.",
+  "category": "Graphic design",
+  "tags": [
+    "logo-rendering",
+    "artificial-intelligence",
+    "organic-forms"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-43e1d1f224de22cb0b56ff79.webp",
+      "mimeType": "image/webp",
+      "alt": "Bio-Organic Logo Renderer | FLORA",
+      "role": "thumbnail",
+      "bytes": 10646,
+      "sha256": "43e1d1f224de22cb0b56ff79d251a0a31dced87d260296f656d1983065f3bf1f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDQzNS9vcmlnaW5hbF9kZGUxNTVkZGIzOGQ0YWQ4MWU3NzZmZTNlNjg0ZGEwMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "dde155ddb38d4ad81e776fe3e684da02.png"
+    },
+    {
+      "path": "assets/preview-a532b6062ebb8b8f81d966f3.webp",
+      "mimeType": "image/webp",
+      "alt": "Bio-Organic Logo Renderer | FLORA",
+      "role": "preview",
+      "bytes": 264476,
+      "sha256": "a532b6062ebb8b8f81d966f3d18ab3b88902f431d64f9364fa35782883e586a0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890435/original_dde155ddb38d4ad81e776fe3e684da02.png",
+      "originalName": "dde155ddb38d4ad81e776fe3e684da02.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1700128,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:36:43.000Z",
+  "updatedAt": "2026-05-06T13:36:53.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://app.flora.ai/techniques/bio-organic-logo-renderer",
+    "title": "Bio-Organic Logo Renderer | FLORA",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890435,
+      "url": "https://www.are.na/block/45890435",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Bio-Organic Logo Renderer | FLORA",
+      "createdAt": "2026-05-06T13:36:43Z",
+      "updatedAt": "2026-05-06T13:36:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Bio-Organic Logo Renderer | FLORA",
+      "category": "Graphic design",
+      "tags": [
+        "visual-identity",
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

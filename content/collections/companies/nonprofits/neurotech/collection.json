@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_nonprofits",
+  "title": "Neurotech nonprofits",
+  "description": "",
+  "order": 0,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_50113679"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44137584",
+  "type": "image",
+  "title": "Beirut Titles",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "motion",
+    "beirut-titles",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3e0c13b5b7470fa14d3a8722.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Beirut Titles",
+      "role": "original",
+      "bytes": 28486,
+      "sha256": "3e0c13b5b7470fa14d3a8722df127f825a87fdd22174eebfdad7fbab10a2fb1b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44137584/original_e416a3fda2ff082a9f7e48f6e9394136.jpg",
+      "originalName": "e416a3fda2ff082a9f7e48f6e9394136.jpg"
+    },
+    {
+      "path": "assets/thumbnail-cd69ec859530784cbb19bcfc.webp",
+      "mimeType": "image/webp",
+      "alt": "Beirut Titles",
+      "role": "thumbnail",
+      "bytes": 6068,
+      "sha256": "cd69ec859530784cbb19bcfca253612cc28f222a4c3bfa5db6a9f3c68c2cc83c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNzU4NC9vcmlnaW5hbF9lNDE2YTNmZGEyZmYwODJhOWY3ZTQ4ZjZlOTM5NDEzNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "e416a3fda2ff082a9f7e48f6e9394136.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3e0c13b5b7470fa14d3a8722-3e0c13b5b7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Beirut Titles",
+      "bytes": 21476,
+      "sha256": "611fb0cf47fccfd07b0d5adf571e44be275f7ba14e2a7dd2f5a3ecf80246aa5c",
+      "width": 640,
+      "height": 360,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3e0c13b5b7470fa14d3a8722.jpg",
+        "sourceSha256": "3e0c13b5b7470fa14d3a8722df127f825a87fdd22174eebfdad7fbab10a2fb1b",
+        "originalBytes": 28486,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:52:33.000Z",
+  "updatedAt": "2026-03-04T15:52:36.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44137584",
+    "title": "acda5453fba73a58fb51e54df0429476.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44137584,
+      "url": "https://www.are.na/block/44137584",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "acda5453fba73a58fb51e54df0429476.jpg",
+      "createdAt": "2026-03-04T15:52:33Z",
+      "updatedAt": "2026-03-04T15:52:36Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "acda5453fba73a58fb51e54df0429476.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Beirut Titles",
+    "text": "FLIGHT 566 TO BEIRUT",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "611fb0cf47fccfd07b0d5adf571e44be275f7ba14e2a7dd2f5a3ecf80246aa5c"
+  }
+}

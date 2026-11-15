@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888521",
+  "type": "image",
+  "title": "Costa Brazil",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "costa-brazil",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ae1f03fc3e872ea046f045f0.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Costa Brazil",
+      "role": "original",
+      "bytes": 94609,
+      "sha256": "ae1f03fc3e872ea046f045f0d00802f5e4e0636edb589f2246bcb964a47fd568",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888521/original_efc99bea12fec5ba69481c3ea5c94884.jpeg",
+      "originalName": "efc99bea12fec5ba69481c3ea5c94884.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0bec424fc665efd055cca9a7.webp",
+      "mimeType": "image/webp",
+      "alt": "Costa Brazil",
+      "role": "thumbnail",
+      "bytes": 5568,
+      "sha256": "0bec424fc665efd055cca9a7dd49ceac9a2f8a21450bdca3726f320dbd53d74d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyMS9vcmlnaW5hbF9lZmM5OWJlYTEyZmVjNWJhNjk0ODFjM2VhNWM5NDg4NC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "efc99bea12fec5ba69481c3ea5c94884.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ae1f03fc3e872ea046f045f0-ae1f03fc3e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Costa Brazil",
+      "bytes": 76968,
+      "sha256": "3b41d139a4f94557d00e099972da395f6841b89a98552e0be1179c823cfe0a17",
+      "width": 1200,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ae1f03fc3e872ea046f045f0.jpg",
+        "sourceSha256": "ae1f03fc3e872ea046f045f0d00802f5e4e0636edb589f2246bcb964a47fd568",
+        "originalBytes": 94609,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:53.000Z",
+  "updatedAt": "2026-05-06T12:20:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888521",
+    "title": "70b7df9c82a036cd77566bf3cac9cc6e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888521,
+      "url": "https://www.are.na/block/45888521",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "70b7df9c82a036cd77566bf3cac9cc6e.jpg",
+      "createdAt": "2026-05-06T12:20:53Z",
+      "updatedAt": "2026-05-06T12:20:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "70b7df9c82a036cd77566bf3cac9cc6e.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Costa Brazil",
+    "text": "Francisco Costa\nFounder @costabrazil\nCosta Brazil is a sustainable luxury, beauty and lifestyle brand created\nFrancisco traveled to the Amazon to spend time with the Yawanawa\nhtmume whate hoth ould he in bine hammon atoem?\na time when I felt that I personally needed to reostablish a connection\nCOMMITED TO SUSTAINABILITY\nCOSTA BRAZIL",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3b41d139a4f94557d00e099972da395f6841b89a98552e0be1179c823cfe0a17"
+  }
+}

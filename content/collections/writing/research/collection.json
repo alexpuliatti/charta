@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_writing_research",
+  "title": "Research",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_47277826"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47042012"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47041962"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46231053"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46111335"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45895365"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892941"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889851"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889815"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45889134"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_40766707"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

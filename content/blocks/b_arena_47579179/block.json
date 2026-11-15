@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579179",
+  "type": "image",
+  "title": "Wright Letterhead",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "wright-letterhead",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f0dd020eb823fe24c3cd2a32.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Wright Letterhead",
+      "role": "original",
+      "bytes": 90110,
+      "sha256": "f0dd020eb823fe24c3cd2a32133f1acd790b5191bb1401a8722cabe10ade8861",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579179/original_6550934e7877a0885358deafc888184a.jpeg",
+      "originalName": "6550934e7877a0885358deafc888184a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-f1cb825710a5b1a663c5654d.webp",
+      "mimeType": "image/webp",
+      "alt": "Wright Letterhead",
+      "role": "thumbnail",
+      "bytes": 2426,
+      "sha256": "f1cb825710a5b1a663c5654d5bfe752407ec84ea8c3a27d5fa76df1fdf8a7b28",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE3OS9vcmlnaW5hbF82NTUwOTM0ZTc4NzdhMDg4NTM1OGRlYWZjODg4MTg0YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "6550934e7877a0885358deafc888184a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f0dd020eb823fe24c3cd2a32-f0dd020eb8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Wright Letterhead",
+      "bytes": 20558,
+      "sha256": "c02f79bcf667cb667e47fe5dc2d1a4525b12884975e85541b31541a8ae052838",
+      "width": 1080,
+      "height": 1348,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f0dd020eb823fe24c3cd2a32.jpg",
+        "sourceSha256": "f0dd020eb823fe24c3cd2a32133f1acd790b5191bb1401a8722cabe10ade8861",
+        "originalBytes": 90110,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:16.000Z",
+  "updatedAt": "2026-07-04T15:36:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579179",
+    "title": "dasswerke-20250108_130000-2506717622",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579179,
+      "url": "https://www.are.na/block/47579179",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-2506717622",
+      "createdAt": "2026-07-04T15:36:16Z",
+      "updatedAt": "2026-07-04T15:36:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-2506717622",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wright Letterhead",
+    "text": "FRANK LLOYD WRIGHT\nTALIESIN • SPRING-GREEN\nWISCONSIN TELEPHONE IO",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c02f79bcf667cb667e47fe5dc2d1a4525b12884975e85541b31541a8ae052838"
+  }
+}

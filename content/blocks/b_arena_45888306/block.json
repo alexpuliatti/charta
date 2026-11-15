@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888306",
+  "type": "image",
+  "title": "Soft Apartment",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "soft-apartment",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-df3734f97bc44a27905de3c2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Soft Apartment",
+      "role": "original",
+      "bytes": 166114,
+      "sha256": "df3734f97bc44a27905de3c29b9649c4d8a6b5675572f34a6163a33a475543cc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888306/original_3f9686a4d6d94e363cdd8f9b71e035be.jpeg",
+      "originalName": "3f9686a4d6d94e363cdd8f9b71e035be.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-63948fe170ddb06e75a62730.webp",
+      "mimeType": "image/webp",
+      "alt": "Soft Apartment",
+      "role": "thumbnail",
+      "bytes": 7112,
+      "sha256": "63948fe170ddb06e75a6273013ea9b9b630e92976c1780214782db4bc88885d4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMwNi9vcmlnaW5hbF8zZjk2ODZhNGQ2ZDk0ZTM2M2NkZDhmOWI3MWUwMzViZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "3f9686a4d6d94e363cdd8f9b71e035be.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-df3734f97bc44a27905de3c2-df3734f97b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Soft Apartment",
+      "bytes": 138442,
+      "sha256": "c66ab1308d07295644a997a1cd0888530176966bb4744afec3d907724651d47a",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-df3734f97bc44a27905de3c2.jpg",
+        "sourceSha256": "df3734f97bc44a27905de3c29b9649c4d8a6b5675572f34a6163a33a475543cc",
+        "originalBytes": 166114,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:22.000Z",
+  "updatedAt": "2026-05-06T12:12:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888306",
+    "title": "04-studio.arme-1586138495-20260426_074723.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888306,
+      "url": "https://www.are.na/block/45888306",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "04-studio.arme-1586138495-20260426_074723.jpg",
+      "createdAt": "2026-05-06T12:12:22Z",
+      "updatedAt": "2026-05-06T12:12:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "04-studio.arme-1586138495-20260426_074723.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Soft Apartment",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c66ab1308d07295644a997a1cd0888530176966bb4744afec3d907724651d47a"
+  }
+}

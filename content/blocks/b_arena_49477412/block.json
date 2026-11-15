@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_49477412",
+  "type": "link",
+  "title": "Neuroscience Datasets",
+  "description": "Interactive 3D knowledge graph of open neuroscience datasets — explore modalities, authors, tasks, institutions, and papers across 1 000+ datasets.",
+  "category": "Technology",
+  "tags": [
+    "neuroscience",
+    "open-data",
+    "knowledge-graphs"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-868e4f699db33290a343c9c5.webp",
+      "mimeType": "image/webp",
+      "alt": "Neuroscience Datasets",
+      "role": "thumbnail",
+      "bytes": 940,
+      "sha256": "868e4f699db33290a343c9c567f9f0266a869b38bea8f3718d38620670568874",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0OTQ3NzQxMi9vcmlnaW5hbF8wMWZiOTA5NDA4ZGMwNjRhYWY2MWNjMTU4YjYyMTAwMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "01fb909408dc064aaf61cc158b621000.png"
+    },
+    {
+      "path": "assets/preview-0fe3e0b4bfecdfefcae49c74.webp",
+      "mimeType": "image/webp",
+      "alt": "Neuroscience Datasets",
+      "role": "preview",
+      "bytes": 17656,
+      "sha256": "0fe3e0b4bfecdfefcae49c7430e14d9c6722c7f6c8088c66f187d762b859b1a4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/49477412/original_01fb909408dc064aaf61cc158b621000.png",
+      "originalName": "01fb909408dc064aaf61cc158b621000.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 57882,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-08-13T11:47:00.000Z",
+  "updatedAt": "2026-08-13T11:47:07.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://datasets.neuro2.ai/",
+    "title": "Neuroscience Datasets",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 49477412,
+      "url": "https://www.are.na/block/49477412",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Neuroscience Datasets",
+      "createdAt": "2026-08-13T11:47:00Z",
+      "updatedAt": "2026-08-13T11:47:07Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "Research tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Neuroscience Datasets",
+      "category": "Health and neurotechnology",
+      "tags": [
+        "neurotechnology",
+        "interaction-design",
+        "3d-design",
+        "wellbeing",
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

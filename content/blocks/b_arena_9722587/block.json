@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_9722587",
+  "type": "image",
+  "title": "Be Water",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "be-water",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9c302faa787995d1dd51bd74.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Be Water",
+      "role": "original",
+      "bytes": 413405,
+      "sha256": "9c302faa787995d1dd51bd74474b527e93dd5418752fe4b9b44b4acbefdebcd8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/9722587/original_f405722b921983d9b2a9ac85872f02f0.jpg",
+      "originalName": "f405722b921983d9b2a9ac85872f02f0.jpg"
+    },
+    {
+      "path": "assets/thumbnail-244f029d1b7a1c6ab9873852.webp",
+      "mimeType": "image/webp",
+      "alt": "Be Water",
+      "role": "thumbnail",
+      "bytes": 7418,
+      "sha256": "244f029d1b7a1c6ab9873852135a03f57b8f2f9f59a38bb0d3d38e8d4f38c851",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI5NzIyNTg3L29yaWdpbmFsX2Y0MDU3MjJiOTIxOTgzZDliMmE5YWM4NTg3MmYwMmYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOjQwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==",
+      "originalName": "f405722b921983d9b2a9ac85872f02f0.jpg"
+    },
+    {
+      "path": "assets/display-web-original-9c302faa787995d1dd51bd74-9c302faa78.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Be Water",
+      "bytes": 96886,
+      "sha256": "0db93db497e41afdf9e1ddcc93437fb6ffd822fbdfe86e5ea6a3387111ca5eb8",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9c302faa787995d1dd51bd74.jpg",
+        "sourceSha256": "9c302faa787995d1dd51bd74474b527e93dd5418752fe4b9b44b4acbefdebcd8",
+        "originalBytes": 413405,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2020-12-01T13:49:23.000Z",
+  "updatedAt": "2026-11-11T06:55:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2562a6108721737.5fc47554365cb.jpg",
+    "title": "2562a6108721737.5fc47554365cb.jpg (2800×2800)",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 9722587,
+      "url": "https://www.are.na/block/9722587",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "2562a6108721737.5fc47554365cb.jpg",
+      "createdAt": "2020-12-01T13:49:23Z",
+      "updatedAt": "2026-11-11T06:55:31Z",
+      "addedBy": {
+        "id": 141756,
+        "name": "Ryan Mitchell",
+        "slug": "ryan-mitchell"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2562a6108721737.5fc47554365cb.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Be Water",
+    "text": "BEWATER\n(sundance) (3)\nESPN FILMS Presents A DOROTHY ST PICTURES & EASTFILMS Production\nDirected by BAO NGUYEN Edited by GRAHAM TAYLOR Cinematography by CALEB\nHELLER Music composed by GOH NAKAMURA Seniorproducer ERIN LEYDE Executive\nProducers LIBBY GEIST, ROB KING, JOHN DAHL, CONNOR SCHELL, FERGUS\nHAYCOCK Produced ty JULIA NOTTINGHAM, BAO NGUYEN, GENTRY KIRBY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "0db93db497e41afdf9e1ddcc93437fb6ffd822fbdfe86e5ea6a3387111ca5eb8"
+  }
+}

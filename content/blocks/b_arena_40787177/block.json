@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787177",
+  "type": "text",
+  "title": "Onken System",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "onken",
+    "loudspeakers",
+    "audio-hardware"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2025-11-02T15:30:40.000Z",
+  "updatedAt": "2026-05-11T09:08:32.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read saved note or tweet body; title names its actual subject."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787177",
+    "title": "Text · speakers · 40787177",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787177,
+      "url": "https://www.are.na/block/40787177",
+      "type": "Text",
+      "visibility": "public",
+      "originalTitle": "",
+      "createdAt": "2025-11-02T15:30:40Z",
+      "updatedAt": "2026-05-11T09:08:32Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "bodyPath": "body.md",
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "note",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Text · speakers · 40787177",
+      "category": "Audio design",
+      "tags": [
+        "sound",
+        "audio-hardware",
+        "loudspeakers",
+        "speaker-project",
+        "speakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126",
+        "c_arena_4408530"
+      ]
+    }
+  }
+}

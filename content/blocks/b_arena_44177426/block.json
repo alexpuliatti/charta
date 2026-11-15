@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177426",
+  "type": "image",
+  "title": "Inflection Wordmark",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "inflection-wordmark",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-28cdb5251ef0df0d3d3dd74c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Inflection Wordmark",
+      "role": "original",
+      "bytes": 66153,
+      "sha256": "28cdb5251ef0df0d3d3dd74c92325ca256a034f7da609be5b741997cef634d84",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177426/original_04738c2797ffcd7bb0d145c5e7b41623.jpg",
+      "originalName": "04738c2797ffcd7bb0d145c5e7b41623.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3050f0c40d04afae51a58030.webp",
+      "mimeType": "image/webp",
+      "alt": "Inflection Wordmark",
+      "role": "thumbnail",
+      "bytes": 1360,
+      "sha256": "3050f0c40d04afae51a580307febaa3cf52ec76e1491a23dd8c11daa9b820e08",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzQyNi9vcmlnaW5hbF8wNDczOGMyNzk3ZmZjZDdiYjBkMTQ1YzVlN2I0MTYyMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "04738c2797ffcd7bb0d145c5e7b41623.jpg"
+    },
+    {
+      "path": "assets/display-web-original-28cdb5251ef0df0d3d3dd74c-28cdb5251e.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Inflection Wordmark",
+      "bytes": 11510,
+      "sha256": "7cfdd5bef073fd49e7f099047e0efbd8e5360ee4d32c79dd5facde6496ddcd6e",
+      "width": 1700,
+      "height": 1152,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-28cdb5251ef0df0d3d3dd74c.jpg",
+        "sourceSha256": "28cdb5251ef0df0d3d3dd74c92325ca256a034f7da609be5b741997cef634d84",
+        "originalBytes": 66153,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:51:51.000Z",
+  "updatedAt": "2026-03-05T19:51:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44177426",
+    "title": "3.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177426,
+      "url": "https://www.are.na/block/44177426",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "3.jpg",
+      "createdAt": "2026-03-05T19:51:51Z",
+      "updatedAt": "2026-03-05T19:51:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "3.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Inflection Wordmark",
+    "text": "x inflection® Anasting sok reign computation\nenabling sovereign computation",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7cfdd5bef073fd49e7f099047e0efbd8e5360ee4d32c79dd5facde6496ddcd6e"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700972",
+  "type": "image",
+  "title": "Dark Hazard",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "dark-hazard",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fda99c4c33a5bd1799702f34.png",
+      "mimeType": "image/png",
+      "alt": "Dark Hazard",
+      "role": "original",
+      "bytes": 1202267,
+      "sha256": "fda99c4c33a5bd1799702f34ccd48255772ede2f4c316c4e550ffc51e710a964",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700972/original_f9264102008914ca212b9edc309ecc2e.png",
+      "originalName": "f9264102008914ca212b9edc309ecc2e.png"
+    },
+    {
+      "path": "assets/thumbnail-d6060fa023689e9b676f3e93.webp",
+      "mimeType": "image/webp",
+      "alt": "Dark Hazard",
+      "role": "thumbnail",
+      "bytes": 10934,
+      "sha256": "d6060fa023689e9b676f3e93498f0f7557846c51e1ee89d84e3d8beb15381ae1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk3Mi9vcmlnaW5hbF9mOTI2NDEwMjAwODkxNGNhMjEyYjllZGMzMDllY2MyZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f9264102008914ca212b9edc309ecc2e.png"
+    },
+    {
+      "path": "assets/display-web-original-fda99c4c33a5bd1799702f34-fda99c4c33.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Dark Hazard",
+      "bytes": 79032,
+      "sha256": "f48d51969d57829ee1cc749049b6f4ef893dccc2039f8fe86997808565dabf11",
+      "width": 1034,
+      "height": 1230,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fda99c4c33a5bd1799702f34.png",
+        "sourceSha256": "fda99c4c33a5bd1799702f34ccd48255772ede2f4c316c4e550ffc51e710a964",
+        "originalBytes": 1202267,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:41.000Z",
+  "updatedAt": "2026-07-08T14:55:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700972",
+    "title": "Screenshot 2023-09-12 alle 16.48.36",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700972,
+      "url": "https://www.are.na/block/47700972",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.48.36",
+      "createdAt": "2026-07-08T14:55:41Z",
+      "updatedAt": "2026-07-08T14:55:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.48.36",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Dark Hazard",
+    "text": "A NEW NOVEL BY THE AUTHOR OF LITTLE CAESAR\"\nDARK\nHAZARD\nDy V. R.BURNETT\nDARK\nAUTHOR of\nLITTLE CAESAR\"\nHAZARD\nHARPERS\nTHE STORY of\nA GAMBLER\nby WR.BURNETT\nHARPER & BROTHERS\nESTABLISHED 1817",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f48d51969d57829ee1cc749049b6f4ef893dccc2039f8fe86997808565dabf11"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44365423",
+  "type": "link",
+  "title": "Jazz Keys",
+  "description": "Send a message in Jazz!",
+  "category": "Sound",
+  "tags": [
+    "music",
+    "typing",
+    "interactive-sound"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f828ddbde54eb002089b5bc0.webp",
+      "mimeType": "image/webp",
+      "alt": "JazzKeys, by Plan8",
+      "role": "thumbnail",
+      "bytes": 508,
+      "sha256": "f828ddbde54eb002089b5bc081ad34bea5d661ff0a96a561af2c48e819648380",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM2NTQyMy9vcmlnaW5hbF84YTQyNTA5YjI4MDlmN2ZmZDFiZmE4MTAzNTNiNDA0OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "8a42509b2809f7ffd1bfa810353b4048.png"
+    },
+    {
+      "path": "assets/preview-9810a6476ad7af3d27e2b375.webp",
+      "mimeType": "image/webp",
+      "alt": "JazzKeys, by Plan8",
+      "role": "preview",
+      "bytes": 3634,
+      "sha256": "9810a6476ad7af3d27e2b375ba1c0f1fe200fff29010169d3a587fd9e254c297",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44365423/original_8a42509b2809f7ffd1bfa810353b4048.png",
+      "originalName": "8a42509b2809f7ffd1bfa810353b4048.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 29761,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-12T11:40:14.000Z",
+  "updatedAt": "2026-03-12T11:40:23.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://jazzkeys.plan8.co/",
+    "title": "JazzKeys, by Plan8",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44365423,
+      "url": "https://www.are.na/block/44365423",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "JazzKeys, by Plan8",
+      "createdAt": "2026-03-12T11:40:14Z",
+      "updatedAt": "2026-03-12T11:40:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Instruments",
+    "genre": "project",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "JazzKeys, by Plan8",
+      "category": "Digital design",
+      "tags": [
+        "playful-interfaces",
+        "music",
+        "interaction-design",
+        "interfaces"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

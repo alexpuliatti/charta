@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995837",
+  "type": "image",
+  "title": "Timber Library",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "timber-library",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-56b1c54ac9c804f9f6ac2af1.png",
+      "mimeType": "image/png",
+      "alt": "Timber Library",
+      "role": "original",
+      "bytes": 2192553,
+      "sha256": "56b1c54ac9c804f9f6ac2af106fdbe38b3a0b98c07731394ab303ca4e417635e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995837/original_f6928512e21c1ee965dbe746e0bb7f63.png",
+      "originalName": "f6928512e21c1ee965dbe746e0bb7f63.png"
+    },
+    {
+      "path": "assets/thumbnail-26725845d532de981992c5cf.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Library",
+      "role": "thumbnail",
+      "bytes": 23412,
+      "sha256": "26725845d532de981992c5cfc6085357a13b451b759ff467f9c013bb4f889ba9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgzNy9vcmlnaW5hbF9mNjkyODUxMmUyMWMxZWU5NjVkYmU3NDZlMGJiN2Y2My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f6928512e21c1ee965dbe746e0bb7f63.png"
+    },
+    {
+      "path": "assets/display-web-original-56b1c54ac9c804f9f6ac2af1-56b1c54ac9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Library",
+      "bytes": 229636,
+      "sha256": "2a8ac5fb3735c6de42a1cc3f91ab991110ba29c02f8c188b6f2788baf7a683bd",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-56b1c54ac9c804f9f6ac2af1.png",
+        "sourceSha256": "56b1c54ac9c804f9f6ac2af106fdbe38b3a0b98c07731394ab303ca4e417635e",
+        "originalBytes": 2192553,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:02:34.000Z",
+  "updatedAt": "2026-02-28T12:02:37.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995837",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995837,
+      "url": "https://www.are.na/block/43995837",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:02:34Z",
+      "updatedAt": "2026-02-28T12:02:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Library",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2a8ac5fb3735c6de42a1cc3f91ab991110ba29c02f8c188b6f2788baf7a683bd"
+  }
+}

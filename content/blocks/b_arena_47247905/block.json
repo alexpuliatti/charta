@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247905",
+  "type": "image",
+  "title": "Clock Widgets",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "clock-widgets",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8d7fb1e2a2b52da0a2548453.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Clock Widgets",
+      "role": "original",
+      "bytes": 159240,
+      "sha256": "8d7fb1e2a2b52da0a2548453b72343ddd8100474cd0f1d48b259b33025075453",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247905/original_2f9e9ffd86a9649ee4ceedc0df298197.jpeg",
+      "originalName": "2f9e9ffd86a9649ee4ceedc0df298197.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-36ee0c12afd86554514390c2.webp",
+      "mimeType": "image/webp",
+      "alt": "Clock Widgets",
+      "role": "thumbnail",
+      "bytes": 8044,
+      "sha256": "36ee0c12afd86554514390c25a1d54a686339fd433c8ffa027970e3e805de4ee",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0NzkwNS9vcmlnaW5hbF8yZjllOWZmZDg2YTk2NDllZTRjZWVkYzBkZjI5ODE5Ny5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "2f9e9ffd86a9649ee4ceedc0df298197.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-8d7fb1e2a2b52da0a2548453-8d7fb1e2a2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Clock Widgets",
+      "bytes": 63042,
+      "sha256": "d792f6b9c7d8a181762d319ba23ef73d36f2518ff3e7d7f54e62b5008d65b28a",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8d7fb1e2a2b52da0a2548453.jpg",
+        "sourceSha256": "8d7fb1e2a2b52da0a2548453b72343ddd8100474cd0f1d48b259b33025075453",
+        "originalBytes": 159240,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:29:18.000Z",
+  "updatedAt": "2026-06-23T14:29:21.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247905",
+    "title": "Gjo5oNwboAA5cKv",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247905,
+      "url": "https://www.are.na/block/47247905",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Gjo5oNwboAA5cKv",
+      "createdAt": "2026-06-23T14:29:18Z",
+      "updatedAt": "2026-06-23T14:29:21Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Gjo5oNwboAA5cKv",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Clock Widgets",
+    "text": "MacOS Retro\nTOK\n13\nWorld Railway\nSpace Age\nDot Counter",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d792f6b9c7d8a181762d319ba23ef73d36f2518ff3e7d7f54e62b5008d65b28a"
+  }
+}

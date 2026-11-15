@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579181",
+  "type": "image",
+  "title": "Beautiful Sketch",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "beautiful-sketch",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-788f7cdf5c8ce4eed733270e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Beautiful Sketch",
+      "role": "original",
+      "bytes": 247856,
+      "sha256": "788f7cdf5c8ce4eed733270e1beef6b1bcdc86b77af6c10e49bdb1bfc10dc2b4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579181/original_89a0e154a5b7b90e3a7a5fa84aac5f35.jpeg",
+      "originalName": "89a0e154a5b7b90e3a7a5fa84aac5f35.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0b3dab1ec726e4ba996f2d0a.webp",
+      "mimeType": "image/webp",
+      "alt": "Beautiful Sketch",
+      "role": "thumbnail",
+      "bytes": 9064,
+      "sha256": "0b3dab1ec726e4ba996f2d0a19df191c8b72424df8df340ad40f7b919c9d470c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE4MS9vcmlnaW5hbF84OWEwZTE1NGE1YjdiOTBlM2E3YTVmYTg0YWFjNWYzNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "89a0e154a5b7b90e3a7a5fa84aac5f35.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-788f7cdf5c8ce4eed733270e-788f7cdf5c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Beautiful Sketch",
+      "bytes": 92264,
+      "sha256": "cce89ef31f213cce8b99d5722c8805cc8a231d01f0698dd8cf214a80d1296d84",
+      "width": 1080,
+      "height": 1349,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-788f7cdf5c8ce4eed733270e.jpg",
+        "sourceSha256": "788f7cdf5c8ce4eed733270e1beef6b1bcdc86b77af6c10e49bdb1bfc10dc2b4",
+        "originalBytes": 247856,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:17.000Z",
+  "updatedAt": "2026-07-04T15:36:19.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579181",
+    "title": "dasswerke-20250108_130000-3740937205",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579181,
+      "url": "https://www.are.na/block/47579181",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-3740937205",
+      "createdAt": "2026-07-04T15:36:17Z",
+      "updatedAt": "2026-07-04T15:36:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-3740937205",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Beautiful Sketch",
+    "text": "190 BOWERY\nNEW YORK, N. Y. 10012\nbeauthal",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cce89ef31f213cce8b99d5722c8805cc8a231d01f0698dd8cf214a80d1296d84"
+  }
+}

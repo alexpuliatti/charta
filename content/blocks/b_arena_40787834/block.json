@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787834",
+  "type": "image",
+  "title": "Timber Kitchen",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "timber-kitchen",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1afcd4028dbf76d435b0a82a.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Timber Kitchen",
+      "role": "original",
+      "bytes": 280152,
+      "sha256": "1afcd4028dbf76d435b0a82a452755cac743cc04bc16ba5a469f7fcc183cf044",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787834/original_745c9b4dbbf158c009a53310e5d0d033.jpg",
+      "originalName": "745c9b4dbbf158c009a53310e5d0d033.jpg"
+    },
+    {
+      "path": "assets/thumbnail-0176167a281235ce8897476c.webp",
+      "mimeType": "image/webp",
+      "alt": "Timber Kitchen",
+      "role": "thumbnail",
+      "bytes": 13670,
+      "sha256": "0176167a281235ce8897476c8feb2af7f5990867f6c64607b97d47e35bda3f49",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzgzNC9vcmlnaW5hbF83NDVjOWI0ZGJiZjE1OGMwMDlhNTMzMTBlNWQwZDAzMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "745c9b4dbbf158c009a53310e5d0d033.jpg"
+    },
+    {
+      "path": "assets/display-web-original-1afcd4028dbf76d435b0a82a-1afcd4028d.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Timber Kitchen",
+      "bytes": 266878,
+      "sha256": "9336867c404631973860e7478ec069cbdcad6d5e9bf917b73989b1f1256d14af",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1afcd4028dbf76d435b0a82a.jpg",
+        "sourceSha256": "1afcd4028dbf76d435b0a82a452755cac743cc04bc16ba5a469f7fcc183cf044",
+        "originalBytes": 280152,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:00:23.000Z",
+  "updatedAt": "2025-11-02T16:00:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787834",
+    "title": "owarakaii-20240424_210000-2867380843.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787834,
+      "url": "https://www.are.na/block/40787834",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "owarakaii-20240424_210000-2867380843.jpg",
+      "createdAt": "2025-11-02T16:00:23Z",
+      "updatedAt": "2025-11-02T16:00:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "owarakaii-20240424_210000-2867380843.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Timber Kitchen",
+    "text": "BOa",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9336867c404631973860e7478ec069cbdcad6d5e9bf917b73989b1f1256d14af"
+  }
+}

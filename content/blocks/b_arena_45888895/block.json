@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888895",
+  "type": "video",
+  "title": "Glass Conservatory",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "glass-conservatory",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-90ae5b6f0d291fbb9fd5817a.mp4",
+      "mimeType": "video/mp4",
+      "alt": "lafustaiasarzana-20250704_154410-3884879448.mp4",
+      "role": "original",
+      "bytes": 5173038,
+      "sha256": "90ae5b6f0d291fbb9fd5817adbef0e6a0c88713eecd59b8dccc50b576601095b",
+      "sourceUrl": "https://attachments.are.na/45888895/0084b6a43ad916a3276918e057f5a825.mp4",
+      "originalName": "0084b6a43ad916a3276918e057f5a825.mp4"
+    },
+    {
+      "path": "assets/thumbnail-9458478081d8457cd605a7ec.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Conservatory",
+      "role": "thumbnail",
+      "bytes": 21314,
+      "sha256": "9458478081d8457cd605a7ec8695d1590c42226018691e1036c8b9daf5a8b709",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg5NS9vcmlnaW5hbF8wN2VhODhhNDdlZjU3NWJjMjAyNjA1MDYtMi12ZnV6aHoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "07ea88a47ef575bc20260506-2-vfuzhz.png"
+    },
+    {
+      "path": "assets/display-web-original-90ae5b6f0d291fbb9fd5817a-90ae5b6f0d.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "lafustaiasarzana-20250704_154410-3884879448.mp4",
+      "bytes": 4441883,
+      "sha256": "e19f426cd40d84a11f77b9babaa19af21bd4daf28ed8afd8e29e25c1e909fd02",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-90ae5b6f0d291fbb9fd5817a.mp4",
+        "sourceSha256": "90ae5b6f0d291fbb9fd5817adbef0e6a0c88713eecd59b8dccc50b576601095b",
+        "originalBytes": 5173038,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-ba69d820f427c5691e78b623.webp",
+      "mimeType": "image/webp",
+      "alt": "lafustaiasarzana-20250704_154410-3884879448.mp4",
+      "role": "preview",
+      "bytes": 271926,
+      "sha256": "ba69d820f427c5691e78b6233b8d3446f0dce16518c16a52c8172ba72503a708",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888895/original_07ea88a47ef575bc20260506-2-vfuzhz.png",
+      "originalName": "07ea88a47ef575bc20260506-2-vfuzhz.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 2061175,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:34:38.000Z",
+  "updatedAt": "2026-05-06T12:35:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888895",
+    "title": "lafustaiasarzana-20250704_154410-3884879448.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888895,
+      "url": "https://www.are.na/block/45888895",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "lafustaiasarzana-20250704_154410-3884879448.mp4",
+      "createdAt": "2026-05-06T12:34:38Z",
+      "updatedAt": "2026-05-06T12:35:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "lafustaiasarzana-20250704_154410-3884879448.mp4",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Conservatory",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9458478081d8457cd605a7ec8695d1590c42226018691e1036c8b9daf5a8b709"
+  }
+}

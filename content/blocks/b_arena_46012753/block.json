@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46012753",
+  "type": "image",
+  "title": "Metal Monitors",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "metal-monitors",
+    "audio-hardware",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ecd1f4400c4b70ead996e1fc.png",
+      "mimeType": "image/png",
+      "alt": "Metal Monitors",
+      "role": "original",
+      "bytes": 5507630,
+      "sha256": "ecd1f4400c4b70ead996e1fc0c40589cdadcff33fa06b44c94f90a5183a2a57f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46012753/original_067f82a309a7808f3b8998fba66a93e3.png",
+      "originalName": "067f82a309a7808f3b8998fba66a93e3.png"
+    },
+    {
+      "path": "assets/thumbnail-e872f5f913ef9a70606cabb3.webp",
+      "mimeType": "image/webp",
+      "alt": "Metal Monitors",
+      "role": "thumbnail",
+      "bytes": 7384,
+      "sha256": "e872f5f913ef9a70606cabb3fb343962ef54b27af31cbdaac27db885381b2621",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjAxMjc1My9vcmlnaW5hbF8wNjdmODJhMzA5YTc4MDhmM2I4OTk4ZmJhNjZhOTNlMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "067f82a309a7808f3b8998fba66a93e3.png"
+    },
+    {
+      "path": "assets/display-web-original-ecd1f4400c4b70ead996e1fc-ecd1f4400c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Metal Monitors",
+      "bytes": 170466,
+      "sha256": "18942cb3a9afe54fc411f1c26c5052288d2377f9c1fd40d79e30917b8bc8fd16",
+      "width": 1794,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ecd1f4400c4b70ead996e1fc.png",
+        "sourceSha256": "ecd1f4400c4b70ead996e1fc0c40589cdadcff33fa06b44c94f90a5183a2a57f",
+        "originalBytes": 5507630,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-11T11:54:40.000Z",
+  "updatedAt": "2026-05-11T11:54:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46012753",
+    "title": "W11UIB_VBdxFNWCGbMgIO_cxOce7W8",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46012753,
+      "url": "https://www.are.na/block/46012753",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "W11UIB_VBdxFNWCGbMgIO_cxOce7W8",
+      "createdAt": "2026-05-11T11:54:40Z",
+      "updatedAt": "2026-05-11T11:54:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "W11UIB_VBdxFNWCGbMgIO_cxOce7W8",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "speaker-project",
+        "loudspeakers",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Metal Monitors",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "18942cb3a9afe54fc411f1c26c5052288d2377f9c1fd40d79e30917b8bc8fd16"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136537",
+  "type": "image",
+  "title": "Ink Book",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "ink-book",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7e10eca1fe9404c21da9947c.png",
+      "mimeType": "image/png",
+      "alt": "Ink Book",
+      "role": "original",
+      "bytes": 2712464,
+      "sha256": "7e10eca1fe9404c21da9947c6e2f3b912fb680eccebba4a85bb07971e7a00ee2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136537/original_62a4b3158f0a182e5fe3aa7c706a0b0e.png",
+      "originalName": "62a4b3158f0a182e5fe3aa7c706a0b0e.png"
+    },
+    {
+      "path": "assets/thumbnail-ca291a8fb619386e18cced0a.webp",
+      "mimeType": "image/webp",
+      "alt": "Ink Book",
+      "role": "thumbnail",
+      "bytes": 7060,
+      "sha256": "ca291a8fb619386e18cced0a9d041c4d1815d47a06bf460069d9b9441061ca93",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjUzNy9vcmlnaW5hbF82MmE0YjMxNThmMGExODJlNWZlM2FhN2M3MDZhMGIwZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "62a4b3158f0a182e5fe3aa7c706a0b0e.png"
+    },
+    {
+      "path": "assets/display-web-original-7e10eca1fe9404c21da9947c-7e10eca1fe.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Ink Book",
+      "bytes": 138912,
+      "sha256": "56a3c314f92c3ffaec5fdd9482d3b0cce36799fceabd00f254a897b38f05516a",
+      "width": 1404,
+      "height": 1870,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7e10eca1fe9404c21da9947c.png",
+        "sourceSha256": "7e10eca1fe9404c21da9947c6e2f3b912fb680eccebba4a85bb07971e7a00ee2",
+        "originalBytes": 2712464,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:23:36.000Z",
+  "updatedAt": "2026-03-04T15:23:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136537",
+    "title": "screenshot-2026-03-04-alle-16.19.31.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136537,
+      "url": "https://www.are.na/block/44136537",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-04-alle-16.19.31.png",
+      "createdAt": "2026-03-04T15:23:36Z",
+      "updatedAt": "2026-03-04T15:23:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-04-alle-16.19.31.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Ink Book",
+    "text": "63\nleave\ncancelled\nby nicholas\nmonsarrat",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "56a3c314f92c3ffaec5fdd9482d3b0cce36799fceabd00f254a897b38f05516a"
+  }
+}

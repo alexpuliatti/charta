@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46316119",
+  "type": "link",
+  "title": "Heat Bureau",
+  "description": "Heat Bureau is a Tbilisi-based design studio run by women who care about how things look and why. We do branding, visual identities, and custom Framer websites for brands that want to stand out",
+  "category": "Companies",
+  "tags": [
+    "branding",
+    "web-design",
+    "framer"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7ada3e18ba252539a09c2189.webp",
+      "mimeType": "image/webp",
+      "alt": "Heat Bureau | Creative Agency for Iconic Brands & Digital Products",
+      "role": "thumbnail",
+      "bytes": 1132,
+      "sha256": "7ada3e18ba252539a09c2189c0c99e83e42217642d2dd0cb790e51c51c2ce6c6",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjMxNjExOS9vcmlnaW5hbF85OGZmYjU5YjlhNTRhZWQ1MTM3NDVlMjFiOTEyMWNiOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "98ffb59b9a54aed513745e21b9121cb8.png"
+    },
+    {
+      "path": "assets/preview-e98dc07dd8d01dbe6acfba92.webp",
+      "mimeType": "image/webp",
+      "alt": "Heat Bureau | Creative Agency for Iconic Brands & Digital Products",
+      "role": "preview",
+      "bytes": 12416,
+      "sha256": "e98dc07dd8d01dbe6acfba927404344b179ae63fb25efa8feda4b5608b3e5ec4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46316119/original_98ffb59b9a54aed513745e21b9121cb8.png",
+      "originalName": "98ffb59b9a54aed513745e21b9121cb8.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 50424,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-19T11:42:51.000Z",
+  "updatedAt": "2026-05-19T11:42:59.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.heatbureau.com/",
+    "title": "Heat Bureau | Creative Agency for Iconic Brands & Digital Products",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46316119,
+      "url": "https://www.are.na/block/46316119",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Heat Bureau | Creative Agency for Iconic Brands & Digital Products",
+      "createdAt": "2026-05-19T11:42:51Z",
+      "updatedAt": "2026-05-19T11:42:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Heat Bureau | Creative Agency for Iconic Brands & Digital Products",
+      "category": "Digital design",
+      "tags": [
+        "visual-identity",
+        "web-design",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

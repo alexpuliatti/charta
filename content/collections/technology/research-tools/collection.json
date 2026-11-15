@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_technology_research_tools",
+  "title": "Research tools",
+  "description": "",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_49477412"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_47268323"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46710459"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_46149801"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45892926"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_45890303"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_44178010"
+    },
+    {
+      "kind": "block",
+      "id": "b_arena_41220028"
+    }
+  ],
+  "source": {
+    "type": "artifact-curation",
+    "version": "artifact-curation-v1"
+  }
+}

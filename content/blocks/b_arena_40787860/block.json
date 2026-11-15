@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787860",
+  "type": "image",
+  "title": "Twilight Deck",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "twilight-deck",
+    "interiors",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-5317b0004b21812b909a2244.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Twilight Deck",
+      "role": "original",
+      "bytes": 591977,
+      "sha256": "5317b0004b21812b909a2244f531e43e191de2874d2e4f1c6b11690bfae3dfd1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787860/original_75db103129df69387b9d62616dfcf7e9.jpg",
+      "originalName": "75db103129df69387b9d62616dfcf7e9.jpg"
+    },
+    {
+      "path": "assets/thumbnail-fd91a8089cbee8f2be5dc47e.webp",
+      "mimeType": "image/webp",
+      "alt": "Twilight Deck",
+      "role": "thumbnail",
+      "bytes": 8186,
+      "sha256": "fd91a8089cbee8f2be5dc47e5f9c0788f1c307a5c6a80c60f9e9e7debfbd4516",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg2MC9vcmlnaW5hbF83NWRiMTAzMTI5ZGY2OTM4N2I5ZDYyNjE2ZGZjZjdlOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "75db103129df69387b9d62616dfcf7e9.jpg"
+    },
+    {
+      "path": "assets/display-web-original-5317b0004b21812b909a2244-5317b0004b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Twilight Deck",
+      "bytes": 172292,
+      "sha256": "a280ef07990ac7adfdb9b0e4a48d5dfab4756c8fd57134222393de60306530e5",
+      "width": 1600,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-5317b0004b21812b909a2244.jpg",
+        "sourceSha256": "5317b0004b21812b909a2244f531e43e191de2874d2e4f1c6b11690bfae3dfd1",
+        "originalBytes": 591977,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:01:39.000Z",
+  "updatedAt": "2025-11-02T16:01:41.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787860",
+    "title": "wallyyachts_official-20250117_180016-1770271529.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787860,
+      "url": "https://www.are.na/block/40787860",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "wallyyachts_official-20250117_180016-1770271529.jpg",
+      "createdAt": "2025-11-02T16:01:39Z",
+      "updatedAt": "2025-11-02T16:01:41Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "wallyyachts_official-20250117_180016-1770271529.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Twilight Deck",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a280ef07990ac7adfdb9b0e4a48d5dfab4756c8fd57134222393de60306530e5"
+  }
+}

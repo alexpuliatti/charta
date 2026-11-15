@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47247866",
+  "type": "image",
+  "title": "Glass Network",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "experiments",
+    "glass-network",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-be4f915db08de21c23f51921.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Glass Network",
+      "role": "original",
+      "bytes": 152273,
+      "sha256": "be4f915db08de21c23f51921b8a057bae03fc2f0e885d3aa4c759993a8c56c75",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47247866/original_8784ff7a9967b4424d091ab75208a7f6.jpeg",
+      "originalName": "8784ff7a9967b4424d091ab75208a7f6.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-69eecc0d067e071e6141201b.webp",
+      "mimeType": "image/webp",
+      "alt": "Glass Network",
+      "role": "thumbnail",
+      "bytes": 14812,
+      "sha256": "69eecc0d067e071e6141201bf82de7a801803d66f5d2913c42710278ee51ea99",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI0Nzg2Ni9vcmlnaW5hbF84Nzg0ZmY3YTk5NjdiNDQyNGQwOTFhYjc1MjA4YTdmNi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "8784ff7a9967b4424d091ab75208a7f6.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-be4f915db08de21c23f51921-be4f915db0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glass Network",
+      "bytes": 108490,
+      "sha256": "a6f9b78c5e2a96c3bbbe23474ee0285538667d4735aaef5f80e9fe8e369b2f8d",
+      "width": 1170,
+      "height": 1166,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-be4f915db08de21c23f51921.jpg",
+        "sourceSha256": "be4f915db08de21c23f51921b8a057bae03fc2f0e885d3aa4c759993a8c56c75",
+        "originalBytes": 152273,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-23T14:28:10.000Z",
+  "updatedAt": "2026-06-23T14:28:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47247866",
+    "title": "e046b6169576577c303714e7c83aac15",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47247866,
+      "url": "https://www.are.na/block/47247866",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "e046b6169576577c303714e7c83aac15",
+      "createdAt": "2026-06-23T14:28:10Z",
+      "updatedAt": "2026-06-23T14:28:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Experiments",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "e046b6169576577c303714e7c83aac15",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glass Network",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a6f9b78c5e2a96c3bbbe23474ee0285538667d4735aaef5f80e9fe8e369b2f8d"
+  }
+}

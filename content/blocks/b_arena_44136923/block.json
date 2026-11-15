@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136923",
+  "type": "image",
+  "title": "Server Pastoral",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "server-pastoral",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e64585957a7e5a590f43c1ac.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Server Pastoral",
+      "role": "original",
+      "bytes": 564626,
+      "sha256": "e64585957a7e5a590f43c1accd40032fe2a647ec35ac3f84fbf3cbc2ab731bfd",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136923/original_1f27555b35ebd7e592c2296e253d7f3a.jpg",
+      "originalName": "1f27555b35ebd7e592c2296e253d7f3a.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2c53756bd2be3322d468ee61.webp",
+      "mimeType": "image/webp",
+      "alt": "Server Pastoral",
+      "role": "thumbnail",
+      "bytes": 15724,
+      "sha256": "2c53756bd2be3322d468ee610c01134ea9f4038c408db822baad9cce92752441",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkyMy9vcmlnaW5hbF8xZjI3NTU1YjM1ZWJkN2U1OTJjMjI5NmUyNTNkN2YzYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1f27555b35ebd7e592c2296e253d7f3a.jpg"
+    },
+    {
+      "path": "assets/display-web-original-e64585957a7e5a590f43c1ac-e64585957a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Server Pastoral",
+      "bytes": 374156,
+      "sha256": "b2f2952305795c29675d4ba73e5aa79ce50f9a2346ca1f3e2aacea905217087d",
+      "width": 2000,
+      "height": 1494,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e64585957a7e5a590f43c1ac.jpg",
+        "sourceSha256": "e64585957a7e5a590f43c1accd40032fe2a647ec35ac3f84fbf3cbc2ab731bfd",
+        "originalBytes": 564626,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:34:57.000Z",
+  "updatedAt": "2026-03-04T15:35:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136923",
+    "title": "hb4v6ciwoaasx4t.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136923,
+      "url": "https://www.are.na/block/44136923",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hb4v6ciwoaasx4t.jpeg",
+      "createdAt": "2026-03-04T15:34:57Z",
+      "updatedAt": "2026-03-04T15:35:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hb4v6ciwoaasx4t.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Server Pastoral",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b2f2952305795c29675d4ba73e5aa79ce50f9a2346ca1f3e2aacea905217087d"
+  }
+}

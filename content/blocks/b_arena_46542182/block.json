@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46542182",
+  "type": "video",
+  "title": "Elliptical Identity",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "elliptical-identity",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a14335ec7f17364156d90635.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1779915044643",
+      "role": "original",
+      "bytes": 1931395,
+      "sha256": "a14335ec7f17364156d906352522e11154d6b3f036f5034a1c861bf82dc1a2ec",
+      "sourceUrl": "https://attachments.are.na/46542182/cd4a804cdd894219d34806ae251dd013.mp4",
+      "originalName": "cd4a804cdd894219d34806ae251dd013.mp4"
+    },
+    {
+      "path": "assets/thumbnail-5e491e681b0dc95ee6c4ab41.webp",
+      "mimeType": "image/webp",
+      "alt": "Elliptical Identity",
+      "role": "thumbnail",
+      "bytes": 5072,
+      "sha256": "5e491e681b0dc95ee6c4ab4182af512b9ce5efae36b85f065677618d565ba7e2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU0MjE4Mi9vcmlnaW5hbF9mZjU3MDZmNzcwNzY1Njg2MjAyNjA1MjctMi12YjV0NDIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "ff5706f77076568620260527-2-vb5t42.png"
+    },
+    {
+      "path": "assets/display-web-original-a14335ec7f17364156d90635-a14335ec7f.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1779915044643",
+      "bytes": 443255,
+      "sha256": "e532cf32a2d2b109cdfa0f5dbcb3cdbad8be0a094073d992b554a8d6f9474cd9",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a14335ec7f17364156d90635.mp4",
+        "sourceSha256": "a14335ec7f17364156d906352522e11154d6b3f036f5034a1c861bf82dc1a2ec",
+        "originalBytes": 1931395,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-601c9fbe6cb8a3fb0bc3d66a.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1779915044643",
+      "role": "preview",
+      "bytes": 96142,
+      "sha256": "601c9fbe6cb8a3fb0bc3d66a06d8e41cce3492e9c736c01efb7020e9cfb6121b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46542182/original_ff5706f77076568620260527-2-vb5t42.png",
+      "originalName": "ff5706f77076568620260527-2-vb5t42.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 624677,
+        "width": 2560,
+        "height": 1697,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-27T20:51:06.000Z",
+  "updatedAt": "2026-05-27T20:51:08.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46542182",
+    "title": "ssstwitter.com_1779915044643",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46542182,
+      "url": "https://www.are.na/block/46542182",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1779915044643",
+      "createdAt": "2026-05-27T20:51:06Z",
+      "updatedAt": "2026-05-27T20:51:08Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1779915044643",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Elliptical Identity",
+    "text": "VAS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5e491e681b0dc95ee6c4ab4182af512b9ce5efae36b85f065677618d565ba7e2"
+  }
+}

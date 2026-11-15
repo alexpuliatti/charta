@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340245",
+  "type": "image",
+  "title": "Octam Decode",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "octam-decode",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-497b0911f8b3414e2550df46.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Octam Decode",
+      "role": "original",
+      "bytes": 235969,
+      "sha256": "497b0911f8b3414e2550df46df15666f74c97f4910cd38903e36a4909b41fe40",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340245/original_f0d90756b911a4ecf41c5c715d91a3e3.jpg",
+      "originalName": "f0d90756b911a4ecf41c5c715d91a3e3.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5cadf1fbe40145a94f75772e.webp",
+      "mimeType": "image/webp",
+      "alt": "Octam Decode",
+      "role": "thumbnail",
+      "bytes": 10604,
+      "sha256": "5cadf1fbe40145a94f75772ea5b9a0e97b9b0781cc81935080408162801b8100",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI0NS9vcmlnaW5hbF9mMGQ5MDc1NmI5MTFhNGVjZjQxYzVjNzE1ZDkxYTNlMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "f0d90756b911a4ecf41c5c715d91a3e3.jpg"
+    },
+    {
+      "path": "assets/display-web-original-497b0911f8b3414e2550df46-497b0911f8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Octam Decode",
+      "bytes": 229602,
+      "sha256": "b05cb2cda9a4fa5bb62c501b02e7d41a32c753a86235554bc2a86cfd87e12dcd",
+      "width": 1200,
+      "height": 1097,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-497b0911f8b3414e2550df46.jpg",
+        "sourceSha256": "497b0911f8b3414e2550df46df15666f74c97f4910cd38903e36a4909b41fe40",
+        "originalBytes": 235969,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:31.000Z",
+  "updatedAt": "2026-03-11T17:40:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340245",
+    "title": "763421b37166c5304f445cfc400523ff.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340245,
+      "url": "https://www.are.na/block/44340245",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "763421b37166c5304f445cfc400523ff.jpg",
+      "createdAt": "2026-03-11T17:40:31Z",
+      "updatedAt": "2026-03-11T17:40:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "763421b37166c5304f445cfc400523ff.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Octam Decode",
+    "text": "A\nM\nG\nP\nC\nD\nDETAC H\nD\nD\nE\nWD\nK\nY\nW\nH\nN\n-\nD\nX\nM\nF\nT\nT\nP\nA\nT\nR HW\nS\nW\nC\nE\nO R\nE\nP\nN\nE\nT\nS\nF\nC\nN\nL\nC\nE\nU\nU\nP\nD\nA\no M\nA\nN\nE\nU\nM\nR",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "b05cb2cda9a4fa5bb62c501b02e7d41a32c753a86235554bc2a86cfd87e12dcd"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44227368",
+  "type": "image",
+  "title": "Entropy Log",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "entropy-log",
+    "interaction-design",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-61afd29fafcdc0dfd5457678.png",
+      "mimeType": "image/png",
+      "alt": "Entropy Log",
+      "role": "original",
+      "bytes": 848182,
+      "sha256": "61afd29fafcdc0dfd5457678762c8371d6e4fc706244c78679b64e724ab08ac5",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44227368/original_7bf148514bbe72efd67d270d972d1abd.png",
+      "originalName": "7bf148514bbe72efd67d270d972d1abd.png"
+    },
+    {
+      "path": "assets/thumbnail-ad2e9077a5c0c9d858b78b31.webp",
+      "mimeType": "image/webp",
+      "alt": "Entropy Log",
+      "role": "thumbnail",
+      "bytes": 3804,
+      "sha256": "ad2e9077a5c0c9d858b78b316f0adda093dd3ef825a37db3851286b8c9502a42",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDIyNzM2OC9vcmlnaW5hbF83YmYxNDg1MTRiYmU3MmVmZDY3ZDI3MGQ5NzJkMWFiZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7bf148514bbe72efd67d270d972d1abd.png"
+    },
+    {
+      "path": "assets/display-web-original-61afd29fafcdc0dfd5457678-61afd29faf.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Entropy Log",
+      "bytes": 29086,
+      "sha256": "419a7cda095c881a92546940dacb3e92845368652470ca091649794c8c633550",
+      "width": 684,
+      "height": 1460,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-61afd29fafcdc0dfd5457678.png",
+        "sourceSha256": "61afd29fafcdc0dfd5457678762c8371d6e4fc706244c78679b64e724ab08ac5",
+        "originalBytes": 848182,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-07T22:47:32.000Z",
+  "updatedAt": "2026-05-06T12:19:55.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44227368",
+    "title": "screenshot-2026-03-07-alle-23.37.30.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44227368,
+      "url": "https://www.are.na/block/44227368",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-07-alle-23.37.30.png",
+      "createdAt": "2026-03-07T22:47:32Z",
+      "updatedAt": "2026-05-06T12:19:55Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-07-alle-23.37.30.png",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594",
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Entropy Log",
+    "text": "• ENTROPY LOG_\nCYCLE 492.01\nJUST\nNOW\nThe silence is louder tonight. I saw the silhouette\nagain on the ridge, motionless. It feels like the sky is\npressing down on my chest. I'm afraid to sleep.\nCYCLE 491.98\n1 DAY AGO\nFound a strange geometric marking on the\ndoorframe. Not sure if I put it there or if it was\nalways there. The memory is slippery, like oil.\n, CYCLE 485.44\n7 DAYS AGG\nCYCLE 420.00\nUNKNOWN\nDNIN LOSS\nRecord the signal...",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "419a7cda095c881a92546940dacb3e92845368652470ca091649794c8c633550"
+  }
+}

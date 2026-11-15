@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136972",
+  "type": "image",
+  "title": "Aurora Portfolio",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "aurora-portfolio",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-897bee82ca634ee608d11c70.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Aurora Portfolio",
+      "role": "original",
+      "bytes": 205802,
+      "sha256": "897bee82ca634ee608d11c7050bd3a141c06feef501ed7e8c5c70d08a8f2ed2b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136972/original_c422e4e697a263a10874bdec0b81575b.jpg",
+      "originalName": "c422e4e697a263a10874bdec0b81575b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-44103ff732646110ce7f4b57.webp",
+      "mimeType": "image/webp",
+      "alt": "Aurora Portfolio",
+      "role": "thumbnail",
+      "bytes": 4882,
+      "sha256": "44103ff732646110ce7f4b57ac970633048ae31ed15834d4de364375e49771d1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk3Mi9vcmlnaW5hbF9jNDIyZTRlNjk3YTI2M2ExMDg3NGJkZWMwYjgxNTc1Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c422e4e697a263a10874bdec0b81575b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-897bee82ca634ee608d11c70-897bee82ca.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Aurora Portfolio",
+      "bytes": 84998,
+      "sha256": "cb9a18aad467c44ab10122ec6f8d6235caefe65233ba6dc73ab6fb7ed1890a13",
+      "width": 2000,
+      "height": 1511,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-897bee82ca634ee608d11c70.jpg",
+        "sourceSha256": "897bee82ca634ee608d11c7050bd3a141c06feef501ed7e8c5c70d08a8f2ed2b",
+        "originalBytes": 205802,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:13.000Z",
+  "updatedAt": "2026-03-04T15:36:18.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136972",
+    "title": "g_nynyxbuaa0yog.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136972,
+      "url": "https://www.are.na/block/44136972",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "g_nynyxbuaa0yog.jpeg",
+      "createdAt": "2026-03-04T15:36:13Z",
+      "updatedAt": "2026-03-04T15:36:18Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "g_nynyxbuaa0yog.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Aurora Portfolio",
+    "text": "Backhouse partners with in-house agencies\nat studios, businesses, and brands to\nimplement custom media production\noperating systems and produce the content\nthat flows through them.\nBy replacing the friction of traditional\nvendor bidding with a streamlined,\nembedded model, we make your internal\noperation more efficient, less stressful, and\nsignificantly more cost-effective.\nYou own the creative, we handle the\nexecution.\nCONTACT US\nBRAND PARTNERSHIPS\nNetflix\nApple\nDisney\nAmazon\nMeta\nHBO\nGoogle\nHello Sunshine\nYouTube\nNike\nSony\nCELEBRITIES & TALENT\nOprah Winfrey\nReese Witherspoon\nLeBron James\nEmma Stone\nBrian Cranston\nKid Cudi\nLizzo\nRiz Ahmed\n62026 BACKHOUSE ENTERTAINMENT, LLC\nALL RIGHTS RESERVED.\n• 04:22 PM\nPACIFIC STANDARD TTME\nBH\nNOT ANOTHER\nHOUSIC TION",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cb9a18aad467c44ab10122ec6f8d6235caefe65233ba6dc73ab6fb7ed1890a13"
+  }
+}

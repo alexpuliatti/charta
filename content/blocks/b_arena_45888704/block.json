@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888704",
+  "type": "image",
+  "title": "Gradient Notepad",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "gradient-notepad",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-18fa7b2c2f3942fb275853a1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Gradient Notepad",
+      "role": "original",
+      "bytes": 486179,
+      "sha256": "18fa7b2c2f3942fb275853a134022756ee7cd9c08a00f1089d77139698b9e266",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888704/original_feb30f0c3f3228ea764ad5345e9598e5.jpeg",
+      "originalName": "feb30f0c3f3228ea764ad5345e9598e5.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-184c6d00408fff9c95aa7ca1.webp",
+      "mimeType": "image/webp",
+      "alt": "Gradient Notepad",
+      "role": "thumbnail",
+      "bytes": 3598,
+      "sha256": "184c6d00408fff9c95aa7ca17bc1cbd74bac63f2af1fbea33cc6634021468839",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcwNC9vcmlnaW5hbF9mZWIzMGYwYzNmMzIyOGVhNzY0YWQ1MzQ1ZTk1OThlNS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "feb30f0c3f3228ea764ad5345e9598e5.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-18fa7b2c2f3942fb275853a1-18fa7b2c2f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Gradient Notepad",
+      "bytes": 290404,
+      "sha256": "a85f4b5fe00e8bdeedd4c7047bfc2f9ec6dd9128aab1eb090e5504a6765632c3",
+      "width": 1440,
+      "height": 1795,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-18fa7b2c2f3942fb275853a1.jpg",
+        "sourceSha256": "18fa7b2c2f3942fb275853a134022756ee7cd9c08a00f1089d77139698b9e266",
+        "originalBytes": 486179,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:04.000Z",
+  "updatedAt": "2026-05-06T12:26:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888704",
+    "title": "original_747b98cfb425fc825040a5497ebac8fc.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888704,
+      "url": "https://www.are.na/block/45888704",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_747b98cfb425fc825040a5497ebac8fc.jpg",
+      "createdAt": "2026-05-06T12:26:04Z",
+      "updatedAt": "2026-05-06T12:26:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_747b98cfb425fc825040a5497ebac8fc.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Gradient Notepad",
+    "text": "SR J1748-2446AD\n716/s PSR J1748-2446A",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "a85f4b5fe00e8bdeedd4c7047bfc2f9ec6dd9128aab1eb090e5504a6765632c3"
+  }
+}

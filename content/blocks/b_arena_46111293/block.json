@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46111293",
+  "type": "link",
+  "title": "Mattering Studio",
+  "description": "Mattering is a design practice for art and advanced technologies, working across research, motion, and experience. The studio works with change across culture and technology, translating it into new creative languages.",
+  "category": "Companies",
+  "tags": [
+    "art-technology",
+    "research",
+    "motion-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0e97ba60e805ae20bee116d0.webp",
+      "mimeType": "image/webp",
+      "alt": "Mattering",
+      "role": "thumbnail",
+      "bytes": 9714,
+      "sha256": "0e97ba60e805ae20bee116d0d6c7692be818c0127dc71924ad23ea5663029518",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjExMTI5My9vcmlnaW5hbF8wZDkyMGYyZWRlYTNiNmVhOGRlYTBhYWRjNWE2OWVlOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "0d920f2edea3b6ea8dea0aadc5a69ee9.png"
+    },
+    {
+      "path": "assets/preview-711a83bf1cc36509acd803cc.webp",
+      "mimeType": "image/webp",
+      "alt": "Mattering",
+      "role": "preview",
+      "bytes": 84306,
+      "sha256": "711a83bf1cc36509acd803cc8aece37c7dc2ace7b6eeab7836d177c1fcbfad2b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46111293/original_0d920f2edea3b6ea8dea0aadc5a69ee9.png",
+      "originalName": "0d920f2edea3b6ea8dea0aadc5a69ee9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 364718,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-13T10:34:40.000Z",
+  "updatedAt": "2026-05-13T10:34:52.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://matteringstudio.com/",
+    "title": "Mattering",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46111293,
+      "url": "https://www.are.na/block/46111293",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Mattering",
+      "createdAt": "2026-05-13T10:34:40Z",
+      "updatedAt": "2026-05-13T10:34:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Studios",
+    "genre": "company",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Mattering",
+      "category": "Speculative design",
+      "tags": [
+        "motion-design",
+        "research",
+        "speculative-design",
+        "emerging-technology",
+        "utopia"
+      ],
+      "collectionIds": [
+        "c_arena_4402851"
+      ]
+    }
+  }
+}

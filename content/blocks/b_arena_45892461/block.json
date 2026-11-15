@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892461",
+  "type": "link",
+  "title": "Codebase Architecture",
+  "description": "Skills for Real Engineers. Straight from my .claude directory. - mattpocock/skills",
+  "category": "Technology",
+  "tags": [
+    "ai-skills",
+    "software-architecture",
+    "developer-tools"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-f81d74be1a8eee2e3ab7ce73.webp",
+      "mimeType": "image/webp",
+      "alt": "skills/skills/engineering/improve-codebase-architecture/SKILL.md at main · mattpocock/skills",
+      "role": "thumbnail",
+      "bytes": 17608,
+      "sha256": "f81d74be1a8eee2e3ab7ce737824e12cb5e5894edab3f8e2722998492fbf114b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjQ2MS9vcmlnaW5hbF9kMDY3ZDQwZGY5MzBjZDllNjJhODQ5YjkxZGI4MGE1Zi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d067d40df930cd9e62a849b91db80a5f.png"
+    },
+    {
+      "path": "assets/preview-867a8da05496ac8722c01ce5.webp",
+      "mimeType": "image/webp",
+      "alt": "skills/skills/engineering/improve-codebase-architecture/SKILL.md at main · mattpocock/skills",
+      "role": "preview",
+      "bytes": 188792,
+      "sha256": "867a8da05496ac8722c01ce556edb8836e74cb82491f461e4a93438c75b4d4a6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892461/original_d067d40df930cd9e62a849b91db80a5f.png",
+      "originalName": "d067d40df930cd9e62a849b91db80a5f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 636944,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:38:11.000Z",
+  "updatedAt": "2026-05-06T14:38:20.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md",
+    "title": "skills/skills/engineering/improve-codebase-architecture/SKILL.md at main · mattpocock/skills",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892461,
+      "url": "https://www.are.na/block/45892461",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "skills/skills/engineering/improve-codebase-architecture/SKILL.md at main · mattpocock/skills",
+      "createdAt": "2026-05-06T14:38:11Z",
+      "updatedAt": "2026-05-06T14:38:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Technology",
+    "subsection": "AI",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "skills/skills/engineering/improve-codebase-architecture/SKILL.md at main · mattpocock/skills",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "programming",
+        "open-source",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

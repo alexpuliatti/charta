@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701002",
+  "type": "image",
+  "title": "Handwritten Sleeve",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "handwritten-sleeve",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-fda23dea35166be52327acca.png",
+      "mimeType": "image/png",
+      "alt": "Handwritten Sleeve",
+      "role": "original",
+      "bytes": 2760881,
+      "sha256": "fda23dea35166be52327acca15e20f64b7c4c30f2051d431de1772f8cab5195d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701002/original_83ffec3cc483dcc66be52b789cb6ea5e.png",
+      "originalName": "83ffec3cc483dcc66be52b789cb6ea5e.png"
+    },
+    {
+      "path": "assets/thumbnail-383e53184fb4a336ee6fe00e.webp",
+      "mimeType": "image/webp",
+      "alt": "Handwritten Sleeve",
+      "role": "thumbnail",
+      "bytes": 18690,
+      "sha256": "383e53184fb4a336ee6fe00ed1be7b58836aabcc9ffa02d7509f3436a1352276",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAwMi9vcmlnaW5hbF84M2ZmZWMzY2M0ODNkY2M2NmJlNTJiNzg5Y2I2ZWE1ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "83ffec3cc483dcc66be52b789cb6ea5e.png"
+    },
+    {
+      "path": "assets/display-web-original-fda23dea35166be52327acca-fda23dea35.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Handwritten Sleeve",
+      "bytes": 197564,
+      "sha256": "f0b30796a5dbf07e5e88fe0aeb951e02c87c905671a23dd713b9e4706eea7a32",
+      "width": 1446,
+      "height": 1214,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-fda23dea35166be52327acca.png",
+        "sourceSha256": "fda23dea35166be52327acca15e20f64b7c4c30f2051d431de1772f8cab5195d",
+        "originalBytes": 2760881,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:07.000Z",
+  "updatedAt": "2026-07-08T14:56:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701002",
+    "title": "Screenshot 2023-09-12 alle 16.52.26",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701002,
+      "url": "https://www.are.na/block/47701002",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.52.26",
+      "createdAt": "2026-07-08T14:56:07Z",
+      "updatedAt": "2026-07-08T14:56:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.52.26",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Handwritten Sleeve",
+    "text": "Oh, jo ye but meet\nwith a friend to your Mind\nA joyous Companion\nthe right sort of Kind,\nThen together stealont\nand range up the hill.\nDrinle the black Coree\nand Eat to your fill\nOh there you will see\nall the Gentlemen Rakes\nAnd hear the Sweet Cry\nof Sandwiches and Cakes\nwhilethe Maids in their way\nin their bright summer Gowns\nDo allure the fine sparks\nfrom the flirts of the Town\nThere's Chess and there's Darts\nand Nastries and Cheese\nthe Coffee is Hot\nand soft is the Breeze\nTheres art and there's Music\nTherés most every Warm Sight\nSo take up your bleasure\nand join us this Night\nthanks for a\nnonderful duner\nand\nFOR THE\nRelightfull\nEASE of the PEOPLE\non next\nCOMMONWEALIH\nin pointof\ntrip\neast PUBLIC NIERCOURSE\nAt the sign of the Rancho Budwood, in do Malibu,\n** 19453 Pacific Coast Highway... the drinke called\nCOFFEE IS TO BE SERVED at eight of the clock in the\nevening until most late from Friday through Sunday, which\nis very wholesom and Physical drink, having many\nexcellent vertues, closes the Orifice of the Stomack.\nfortifies the heat within, helpeth Digestion Quickneth\nthe Spirits, and maleeth the heart lightsom.\nwe - flonis thand",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f0b30796a5dbf07e5e88fe0aeb951e02c87c905671a23dd713b9e4706eea7a32"
+  }
+}

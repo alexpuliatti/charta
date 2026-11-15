@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888525",
+  "type": "image",
+  "title": "Art Typography",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "art-typography",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c6e1a30268263d70c7e15e3c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Art Typography",
+      "role": "original",
+      "bytes": 70551,
+      "sha256": "c6e1a30268263d70c7e15e3c0cf83be3c108fe1203bfba26546db7c23936e58f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888525/original_596389abb7d0ac9fa7c5175cd14feaaf.jpeg",
+      "originalName": "596389abb7d0ac9fa7c5175cd14feaaf.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-7654b543ef4d4474e0ad592c.webp",
+      "mimeType": "image/webp",
+      "alt": "Art Typography",
+      "role": "thumbnail",
+      "bytes": 9726,
+      "sha256": "7654b543ef4d4474e0ad592cd88a86ab04bebc5e87879d34d9a668b19c5164ef",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyNS9vcmlnaW5hbF81OTYzODlhYmI3ZDBhYzlmYTdjNTE3NWNkMTRmZWFhZi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "596389abb7d0ac9fa7c5175cd14feaaf.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-c6e1a30268263d70c7e15e3c-c6e1a30268.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Art Typography",
+      "bytes": 41868,
+      "sha256": "7a860578bc652501b424df12628d21e02269d9a9f686218a9dac1a81cafcc403",
+      "width": 1200,
+      "height": 804,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c6e1a30268263d70c7e15e3c.jpg",
+        "sourceSha256": "c6e1a30268263d70c7e15e3c0cf83be3c108fe1203bfba26546db7c23936e58f",
+        "originalBytes": 70551,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:04.000Z",
+  "updatedAt": "2026-05-06T12:21:09.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888525",
+    "title": "583c568ba7c7d94532dc1c49fc4ebf2d.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888525,
+      "url": "https://www.are.na/block/45888525",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "583c568ba7c7d94532dc1c49fc4ebf2d.jpg",
+      "createdAt": "2026-05-06T12:21:04Z",
+      "updatedAt": "2026-05-06T12:21:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "583c568ba7c7d94532dc1c49fc4ebf2d.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Art Typography",
+    "text": "372\nART&DESIGN\nVELASQUEZ\nREMBRANDT\nSCILLER\nINSPIRATION",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7a860578bc652501b424df12628d21e02269d9a9f686218a9dac1a81cafcc403"
+  }
+}

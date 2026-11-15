@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136970",
+  "type": "image",
+  "title": "Prismatic Portfolio",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "portfolios",
+    "prismatic-portfolio",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c1f659e1f1a655fd1a9ebee1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Prismatic Portfolio",
+      "role": "original",
+      "bytes": 142006,
+      "sha256": "c1f659e1f1a655fd1a9ebee1e66c6fe5929cbb7075a1ac43d76b0190095c694e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136970/original_bee1000a5fcc9e91f02d4f565df74bed.jpg",
+      "originalName": "bee1000a5fcc9e91f02d4f565df74bed.jpg"
+    },
+    {
+      "path": "assets/thumbnail-31405009258d4eb4ce221a88.webp",
+      "mimeType": "image/webp",
+      "alt": "Prismatic Portfolio",
+      "role": "thumbnail",
+      "bytes": 5152,
+      "sha256": "31405009258d4eb4ce221a88a537f2a2c9241a6665c353676ff23d34cb802998",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk3MC9vcmlnaW5hbF9iZWUxMDAwYTVmY2M5ZTkxZjAyZDRmNTY1ZGY3NGJlZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "bee1000a5fcc9e91f02d4f565df74bed.jpg"
+    },
+    {
+      "path": "assets/display-web-original-c1f659e1f1a655fd1a9ebee1-c1f659e1f1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Prismatic Portfolio",
+      "bytes": 71006,
+      "sha256": "054012786b9f213147a425e7bea746fc6d2e946a7c7c49a236d1c1b8c2df6f72",
+      "width": 2000,
+      "height": 1526,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c1f659e1f1a655fd1a9ebee1.jpg",
+        "sourceSha256": "c1f659e1f1a655fd1a9ebee1e66c6fe5929cbb7075a1ac43d76b0190095c694e",
+        "originalBytes": 142006,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:13.000Z",
+  "updatedAt": "2026-03-04T15:36:16.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136970",
+    "title": "g_nynrjbaaawwtp.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136970,
+      "url": "https://www.are.na/block/44136970",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "g_nynrjbaaawwtp.jpeg",
+      "createdAt": "2026-03-04T15:36:13Z",
+      "updatedAt": "2026-03-04T15:36:16Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Portfolios",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "g_nynrjbaaawwtp.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Prismatic Portfolio",
+    "text": "Backhouse partners with in-house agencies\nat studios, businesses, and brands to\nimplement custom media production\noperating systems and produce the content\nthat flows through them.\nWe replace the friction of traditional vendor\nbidding with a streamlined, embedded\nmodel, making your internal operation more\nefficient, less stressful, and significantly\nmore cost-effective.\nBRAND PARTNERSHIPS\nNetflix\nGoogle\nApple\nHello Sunshine\nDisney\nYouTube\nAmazon\nNike\nMeta\nSony\nHBO\nand more...\nCELEBRITIES & TALENT\nOprah Winfrey\nReese Witherspoon\nLeBron James\nEmma Stone\nBrian Cranston\nKid Cudi\nLizzo\nRiz Ahmed\nand more...\nPartner with us\n04.22 PM\nPACIFIC STANDARD TIME\nBOH\nEST\n(1)\nCALTFORNTA\nWORKING\nWORLDWIDE\nBH\n34 0549*\nN,\n118.2426\nPRODUCTION",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "054012786b9f213147a425e7bea746fc6d2e946a7c7c49a236d1c1b8c2df6f72"
+  }
+}

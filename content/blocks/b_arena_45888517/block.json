@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888517",
+  "type": "image",
+  "title": "Colour Study",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "colour-study",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0aaaefc3adddcb7b02d5a521.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Colour Study",
+      "role": "original",
+      "bytes": 54919,
+      "sha256": "0aaaefc3adddcb7b02d5a521e979c2c38f661c649b98ad4f13e91f65c6ab4284",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888517/original_8fd8c03dab60e3717e93d9bca7d3c8b3.jpeg",
+      "originalName": "8fd8c03dab60e3717e93d9bca7d3c8b3.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a78b7c215d8aad8062683378.webp",
+      "mimeType": "image/webp",
+      "alt": "Colour Study",
+      "role": "thumbnail",
+      "bytes": 3604,
+      "sha256": "a78b7c215d8aad8062683378422ac33db4baa193bdb0ad4a7fcc2d8464be4b38",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUxNy9vcmlnaW5hbF84ZmQ4YzAzZGFiNjBlMzcxN2U5M2Q5YmNhN2QzYzhiMy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "8fd8c03dab60e3717e93d9bca7d3c8b3.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0aaaefc3adddcb7b02d5a521-0aaaefc3ad.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Colour Study",
+      "bytes": 34256,
+      "sha256": "aae4f2fff16cae8785412b437b9a567db80694b3e2b6b1d7eaf3c2ad64acfae3",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0aaaefc3adddcb7b02d5a521.jpg",
+        "sourceSha256": "0aaaefc3adddcb7b02d5a521e979c2c38f661c649b98ad4f13e91f65c6ab4284",
+        "originalBytes": 54919,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:20:44.000Z",
+  "updatedAt": "2026-05-06T12:20:49.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888517",
+    "title": "74ec43427b724d22c6126a4a5cfd6862.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888517,
+      "url": "https://www.are.na/block/45888517",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "74ec43427b724d22c6126a4a5cfd6862.jpg",
+      "createdAt": "2026-05-06T12:20:44Z",
+      "updatedAt": "2026-05-06T12:20:49Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "74ec43427b724d22c6126a4a5cfd6862.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Colour Study",
+    "text": "JAPANESE COLOURS [FOR UI]\n04 / GREYDIENTS a\nNUEVO. TOKYO / 2024\nKARASUBAIRO\n180614\nCROW\nUME NEZU\nC099A0\nPLUM GREY\nTOKI NEZU\nE4D2D8\nCRESTED IBIS GREY",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "aae4f2fff16cae8785412b437b9a567db80694b3e2b6b1d7eaf3c2ad64acfae3"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700974",
+  "type": "image",
+  "title": "Journey Fear",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "journey-fear",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a41f847b99793e0bdacd9361.png",
+      "mimeType": "image/png",
+      "alt": "Journey Fear",
+      "role": "original",
+      "bytes": 4353129,
+      "sha256": "a41f847b99793e0bdacd9361f34f70586861a78c0ff5e67a6b066dec8a91214d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700974/original_fc2fc0c86031ab17ab3e078a1006d988.png",
+      "originalName": "fc2fc0c86031ab17ab3e078a1006d988.png"
+    },
+    {
+      "path": "assets/thumbnail-e8f3189d17f7a1f50031be33.webp",
+      "mimeType": "image/webp",
+      "alt": "Journey Fear",
+      "role": "thumbnail",
+      "bytes": 11482,
+      "sha256": "e8f3189d17f7a1f50031be3376ea8e7f5ae2404ae69d67c537b12dd5c8f0aa7c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk3NC9vcmlnaW5hbF9mYzJmYzBjODYwMzFhYjE3YWIzZTA3OGExMDA2ZDk4OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fc2fc0c86031ab17ab3e078a1006d988.png"
+    },
+    {
+      "path": "assets/display-web-original-a41f847b99793e0bdacd9361-a41f847b99.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Journey Fear",
+      "bytes": 219510,
+      "sha256": "460059aab7f24cdb66a12d2868e82e0fdbbb55777d322bc48d0c14a3f9845cee",
+      "width": 2000,
+      "height": 946,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a41f847b99793e0bdacd9361.png",
+        "sourceSha256": "a41f847b99793e0bdacd9361f34f70586861a78c0ff5e67a6b066dec8a91214d",
+        "originalBytes": 4353129,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:42.000Z",
+  "updatedAt": "2026-07-08T14:55:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700974",
+    "title": "Screenshot 2023-09-12 alle 16.47.04",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700974,
+      "url": "https://www.are.na/block/47700974",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.47.04",
+      "createdAt": "2026-07-08T14:55:42Z",
+      "updatedAt": "2026-07-08T14:55:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.47.04",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Journey Fear",
+    "text": "ERIC AMBLER'S\nFirst Great Adventure\nTHE DARK FRONTIER\nhAmbler writes his hrst sn\nso read hil second booke\nto read his\nond fobone, am eage\nKnowled a\nana sha\nspeed.\"-\nTORQUEMADA, in The Obserter.\nHis Second Great Adventure\nUNCOMMON DANGER\n\"A\nMr.\nthriller\nof power and speed.\nAmbler is un to date. he write\nwell, and he gives us some admirable\nortraits\nHe is a real discovery,\"-\nHis Third Great Adventure\nHe is a writer with a bur future\nor Nir, Ambler i wine to de\nfor the\nSavers has already done for tha\netective story\nANTHONY BERKELEY,\nHis Fourth Great Adventure\nCAUSE FOR ALARM\nOne more story\nlikeShitanh to\nand I\nshall have to say that Mr. Bric Ambler\nis easily the best of the living writers\nthrillers\nThe\nputting himself\nand the reader in the\nshoes of the hunted men is\npraise\n-PHILIP\nalmost\nHis Fifth Great Adventure\nTHE MASK OF DIMITRIOS\nwritten\norivinal book which\nmetry and degree of careful planning\nthat one does not find in one\nthousand\nadventure\nthe\nbest thriller\nthat has\nMr\nAmbler\nAmbler i\nmiracle.\nthe best living\nthe Nets Chronicle.\nHODDER & STOUGHTON\nAbout this book\nNovels of suspense can be classified as\nsuch under two headings: those which\ndepend simply on the reader's desire to\nknow\n\"who did it\" and those which\ncreate suspense through the imagination\nby forcing the reader to shiver not in his\nown shoes but in someone else's. It is\namong the distinguished company under\nthis second heading that we must place\nEric Ambler's new thriller, \" Journey\ninto Fear.\"\nThe time is now. The traveller is a\nBritish engineer returning home from\na business trip to Istanbul: a man com-\nfortably aware of his own security in a\nworld at war and believing that some\nthings couldn't possibly happen to him,\nthat \" death could only come with the\nsweet reason of disease or an • Act of\nGod.' \"\nAnd then he discovers that\ndeath is\nat\nhis\nelbow, sudden\nand\nhorrible death, \" waiting to make non-\nsense of all his comfortable ideas about\nhis relations with time and chance, ready\nto remind him—in case he had forgotten\n-that civilization was a word and that\nhe still lived in a jungle.\"\nThose who already know Eric Ambler's\nwork will need no encouragement to get\nthis book.\nThe fact that it is a new\nAmbler will be enough.\nJOURNEY\nINTO\nFEAR\nJOURNEY INTO FEAR\nERIC\nAMBLER\nH&S\nHODDER&STOUGHTON\nERIC AMBLER\nFor those who have not\nyet\ndiscovered\nthat\n\" Ambler is doing\nfor\nthe straightforward\nthriller what Dorothy L.\nSayers has already done\nfor the detective\nstory,\" we commend\n\"Journey into Fear.\"\n8/3 net",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "460059aab7f24cdb66a12d2868e82e0fdbbb55777d322bc48d0c14a3f9845cee"
+  }
+}

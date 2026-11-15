@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340229",
+  "type": "image",
+  "title": "Tile Dashboard",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "tile-dashboard",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-d696d4dc8340962ad031b8dc.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Tile Dashboard",
+      "role": "original",
+      "bytes": 42560,
+      "sha256": "d696d4dc8340962ad031b8dcfa0ade9a31b79649f6ca042923288c97b0f98103",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340229/original_b84af7b37f395837ba00ed7c9fc079d6.jpg",
+      "originalName": "b84af7b37f395837ba00ed7c9fc079d6.jpg"
+    },
+    {
+      "path": "assets/thumbnail-5d61401400da8bcadf6b1496.webp",
+      "mimeType": "image/webp",
+      "alt": "Tile Dashboard",
+      "role": "thumbnail",
+      "bytes": 6826,
+      "sha256": "5d61401400da8bcadf6b1496ff4ae57e4e90e1cdc60515aea4e60ac4c3043a99",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIyOS9vcmlnaW5hbF9iODRhZjdiMzdmMzk1ODM3YmEwMGVkN2M5ZmMwNzlkNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b84af7b37f395837ba00ed7c9fc079d6.jpg"
+    },
+    {
+      "path": "assets/display-web-original-d696d4dc8340962ad031b8dc-d696d4dc83.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Tile Dashboard",
+      "bytes": 21558,
+      "sha256": "f1a29b85ad0fa2c4a32f78b8a9c0f44d1fd3e0660af6edbe1e1b5ec237fccdad",
+      "width": 800,
+      "height": 800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-d696d4dc8340962ad031b8dc.jpg",
+        "sourceSha256": "d696d4dc8340962ad031b8dcfa0ade9a31b79649f6ca042923288c97b0f98103",
+        "originalBytes": 42560,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:18.000Z",
+  "updatedAt": "2026-03-11T17:40:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340229",
+    "title": "904a95b0f0ac741178183a734ef9a80c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340229,
+      "url": "https://www.are.na/block/44340229",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "904a95b0f0ac741178183a734ef9a80c.jpg",
+      "createdAt": "2026-03-11T17:40:18Z",
+      "updatedAt": "2026-03-11T17:40:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "904a95b0f0ac741178183a734ef9a80c.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Tile Dashboard",
+    "text": "Tion\n• 33 ships\nWeather\n© New Module\nGroups\nBTC Wallet\nBTC Node\n13:18\nJan 27\n34°C\nSunny\nSun sets in 4.5hr\n฿\n99+\nMessaging\n*\n* *\nCollections\nReader\nWriter\n52\n99+\nStorage\nSystem info and Debug\n1.43tb/4tb\nPeers ®\nNetwork ®\nMemory®\nVersion °\nDebug Printout\n→\n→\n→\n→\nCopy",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f1a29b85ad0fa2c4a32f78b8a9c0f44d1fd3e0660af6edbe1e1b5ec237fccdad"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579180",
+  "type": "image",
+  "title": "Minimal Monogram",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "minimal-monogram",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dfbae861176da938572e0af7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Minimal Monogram",
+      "role": "original",
+      "bytes": 77120,
+      "sha256": "dfbae861176da938572e0af788f69fd48b092a3e55000a1b25e08bb60c210971",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579180/original_e967652e00f041d020314a311ed9ffb2.jpeg",
+      "originalName": "e967652e00f041d020314a311ed9ffb2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-46c31ac1f0c5b0bce9557b14.webp",
+      "mimeType": "image/webp",
+      "alt": "Minimal Monogram",
+      "role": "thumbnail",
+      "bytes": 618,
+      "sha256": "46c31ac1f0c5b0bce9557b149aabe8a2e5147ac13a99b3127eb5615dc415abe0",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE4MC9vcmlnaW5hbF9lOTY3NjUyZTAwZjA0MWQwMjAzMTRhMzExZWQ5ZmZiMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "e967652e00f041d020314a311ed9ffb2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-dfbae861176da938572e0af7-dfbae86117.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Minimal Monogram",
+      "bytes": 13344,
+      "sha256": "e375e0b4673bd73bce4106c2750f1d4e8bec201f86158531c8aaf3ad2c0c7f35",
+      "width": 1080,
+      "height": 1349,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dfbae861176da938572e0af7.jpg",
+        "sourceSha256": "dfbae861176da938572e0af788f69fd48b092a3e55000a1b25e08bb60c210971",
+        "originalBytes": 77120,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:16.000Z",
+  "updatedAt": "2026-07-04T15:36:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579180",
+    "title": "dasswerke-20250108_130000-1205379919",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579180,
+      "url": "https://www.are.na/block/47579180",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "dasswerke-20250108_130000-1205379919",
+      "createdAt": "2026-07-04T15:36:16Z",
+      "updatedAt": "2026-07-04T15:36:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "dasswerke-20250108_130000-1205379919",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Minimal Monogram",
+    "text": "eV.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "e375e0b4673bd73bce4106c2750f1d4e8bec201f86158531c8aaf3ad2c0c7f35"
+  }
+}

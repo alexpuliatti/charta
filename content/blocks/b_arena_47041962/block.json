@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47041962",
+  "type": "file",
+  "title": "Disciplinary Pivots",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "research-careers",
+    "phd-admissions",
+    "interdisciplinarity"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8f50644a4e7b51a01d82d53d.pdf",
+      "mimeType": "application/pdf",
+      "alt": "2603.22805v2",
+      "role": "original",
+      "bytes": 649921,
+      "sha256": "8f50644a4e7b51a01d82d53da16001853a4bf70c0798551527eeb31e3dc3d3d5",
+      "sourceUrl": "https://attachments.are.na/47041962/bd81f6083deed1cd14c9ab48d37daebf.pdf",
+      "originalName": "bd81f6083deed1cd14c9ab48d37daebf.pdf"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-15T14:05:59.000Z",
+  "updatedAt": "2026-06-15T14:06:00.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 37-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47041962",
+    "title": "2603.22805v2",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47041962,
+      "url": "https://www.are.na/block/47041962",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "2603.22805v2",
+      "createdAt": "2026-06-15T14:05:59Z",
+      "updatedAt": "2026-06-15T14:06:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "paper",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2603.22805v2",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "The Costs of Early-career Disciplinary Pivots:\nEvidence from Ph.D. Admissions\nSidney Xiang1, Nicholas David2, Dallas Card1, Wenhao Sun2, Daniel M Romero1,\nand Misha Teplitskiy1,*\n1School of Information, University of Michigan\n2Department of Materials Science and Engineering, University of Michigan\n*Corresponding author: tepl@umich.edu\nMarch 26, 2026\nAbstract\nScientific innovation often comes from researchers who pivot across disciplines. How-\never, prior work found that established researchers face productivity penalties when piv-\noting. Here, we investigate the consequences of pivoting at the beginning of a research\ncareer—doctoral admissions—when the benefits of importing new ideas might outweigh\nthe switching costs. Using applications to all PhD programs at a large research-intensive\nuniversity between 2013-2023, we find that pivoters (those applying to programs outside\ntheir prior disciplinary training) have lower GPAs and standardized test scores than non-\npivoters. Yet even conditional on these predictors of admission, pivoters are 1.3 percentage\npoints less likely to be admitted. Examining applicants who applied to multiple programs\nin the same admissions cycle provides suggestive evidence that the admissions pivot penalty\nis causal. This penalty is significantly smaller for applicants who secure a recommendation\nfrom someone within the target discipline. Among those admitted and enrolled, pivoters\nare 12.9 percentage points less likely to graduate and do not show superior publication per-\nformance on average or at the tail. Our results reveal the substantial costs of disciplinary\npivoting even at the outset of research careers, which constrain the flow of new ideas into\nresearch communities.\n1 Introduction\nResearch communities are often enriched by outsiders. For example, physicists who turned to\nbiology brought quantitative and structural approaches that helped launch molecular biology\n(Morange, 1998); psychologists who entered economics reshaped the discipline’s understanding\nof decision-making (Camerer & Loewenstein, 2004); and computer scientists who moved into\nthe social sciences introduced computational frameworks that advanced theory (Edelmann et\nal., 2020). More generally, by introducing unfamiliar methods, data, and theories, disciplinary\npivoters can help a community combine these knowledge elements with more familiar ones to\nexpand its solution space to existing problems (Jeppesen & Lakhani, 2010; Hong & Page, 2004)\nand create more impactful contributions (Shi & Evans, 2023; Uzzi et al., 2013).\nDespite the potential for community benefits, pivoters can face significant barriers individu-\nally. Recent work by Hill et al. (Hill et al., 2025) document lower publication success and citation\nimpact for researchers pivoting from one research community to another. They find support for\nthe penalty being explained by the entrenchment of expertise, reputation, and professional net-\nworks in the old community, a finding that is echoed in the literature on interdisciplinary research\n1\narXiv:2603.22805v2  [econ.GN]  25 Mar 2026\n\nevaluation (Leahey, 2018; Fini et al., 2023; Xiang et al., 2025) and the evaluation of category-\nspanning producers more generally (Hsu, 2006; Kov´ acs et al., 2024; Leung, 2014; Zuckerman\net al., 2003). Scientists’ observed choices reflect the salience of these pivot penalties: they tend\nto avoid anything more than incremental pivots (Jia et al., 2017), even when incentivized by\nsubstantial topic-specific grant funding (Myers, 2020). This prior work raises a natural question:\nwhen, if ever, is discplinary pivoting rewarded?\nDoctoral admissions is a compelling setting to examine. First, as we show below, pivoting\nat this stage is very common, with about 38.6% of applicants targeting programs outside of\ntheir prior disciplinary training. Second, the factors driving the penalties observed in prior work\nshould be less relevant: most applicants have not yet developed deep expertise, professional\nnetworks, or reputations in a specific area, and unlike established researchers, they are evaluated\nnot as independent scientists but as learners and scientists-in-training. Admissions committees\nmay also seek a diversity of backgrounds to diversify risk. Overall, at this early stage, the\nbenefits of importing novel ideas may outweigh the costs of transitioning. Yet other barriers may\nstill apply. Applicants accumulate field-specific human capital through prior coursework and\ntraining that is unlikely to fully transfer across disciplines (Becker, 1962; Jones, 2009), putting\npivoters at a disadvantage in meeting program requirements on time. Support for this view\ncomes from qualitative work that finds that faculty weigh attrition risk heavily and may pass\nover high-quality but atypical candidates in favor of those perceived as safer bets (Posselt, 2016).\nConsequently, our first research question is:Is there is a pivot penalty in doctoral admissions?\nEven if there is a pivot penalty in admissions on average, pivoters who do get admitted and\nenroll may thrive. Such a pattern would be consistent with cases from the history of science and\nsystematic work on boundary-crossing research strategies in settings like biomedical research\n(Foster et al., 2015), interdisciplinary research (Leahey, 2007) and patenting (Fleming, 2001).\nIn those settings, boundary-crossing strategies are associated with lower average performance\nbut higher variance and over-representation in the upper tail of impact. Pivoting early in one’s\ncareer may also be a high-risk high-return strategy. This possibility motivates our second research\nquestion:Do pivoters, once enrolled, have unusually high academic performance?\nWe answer these questions using a dataset of all PhD applications to a large public research\nuniversity between 2013 and 2023. We operationalize pivots as applications where the applicant’s\nprior degree does not match the target doctoral degree. We find that pivoters face a 1.3 percent-\nage",
+    "textPath": "extracted.txt",
+    "textSha256": "8e77c8dd1c9a92612839cb429d76355f51b05765d6eae5298ecb2f5989c977aa",
+    "textCharacters": 97094,
+    "pages": 37,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  }
+}

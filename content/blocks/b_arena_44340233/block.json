@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340233",
+  "type": "image",
+  "title": "Radial Contents",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "radial-contents",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-958465bc3ce712eda25c2cd8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Radial Contents",
+      "role": "original",
+      "bytes": 251971,
+      "sha256": "958465bc3ce712eda25c2cd8139315bf4705ba0b3985dd304844a942f844ae98",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340233/original_72e12ce735d3a41c4ac8b90c57379b93.jpg",
+      "originalName": "72e12ce735d3a41c4ac8b90c57379b93.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8c6896ab2b21f78c592f1f1c.webp",
+      "mimeType": "image/webp",
+      "alt": "Radial Contents",
+      "role": "thumbnail",
+      "bytes": 12296,
+      "sha256": "8c6896ab2b21f78c592f1f1c2200243560603aea0870aee9eea22f6033215af7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDIzMy9vcmlnaW5hbF83MmUxMmNlNzM1ZDNhNDFjNGFjOGI5MGM1NzM3OWI5My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "72e12ce735d3a41c4ac8b90c57379b93.jpg"
+    },
+    {
+      "path": "assets/display-web-original-958465bc3ce712eda25c2cd8-958465bc3c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Radial Contents",
+      "bytes": 215436,
+      "sha256": "4a276abb28784d03bd39422e29437a2413eadd600d3be8600925647351fcc76f",
+      "width": 1024,
+      "height": 1536,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-958465bc3ce712eda25c2cd8.jpg",
+        "sourceSha256": "958465bc3ce712eda25c2cd8139315bf4705ba0b3985dd304844a942f844ae98",
+        "originalBytes": 251971,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:19.000Z",
+  "updatedAt": "2026-03-11T17:40:25.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340233",
+    "title": "920abba989df00b4916bb28d2b15b8a5.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340233,
+      "url": "https://www.are.na/block/44340233",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "920abba989df00b4916bb28d2b15b8a5.jpg",
+      "createdAt": "2026-03-11T17:40:19Z",
+      "updatedAt": "2026-03-11T17:40:25Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "920abba989df00b4916bb28d2b15b8a5.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Radial Contents",
+    "text": "Central Library\nBenjamin Franklin Branch\nLincoln Heights Branch\nPio Pico - Koreatown Branch\nVernon - Leon H. Washington Jr.\nMemorial Branch\nArroyo Seco Regional Branch\nExposition Park - Dr. Mary:\nMcLeod Bethune Regional Branch\nJunipero Serra Branch\nEcho Park Branch\nSan Pedro Regional Branch\nWilmington Branch\nFrances Howard Goldwyn -\nHollywood Regional Branch\nJohn C. Fremont Branch\nWestchester - Loyola Village Branch\nVermon Square Branch\nPalisades Brau\nDonald Bruce Kaum\nBrentwood Branch\nJefferson - Vassie D. Wright\nMemorial Branch\nMalabar Branch\nRobert Louis Stevenson Branch\nCahuenga Branch\nEl Sereno Branch\nPalms - Rancho Park Branch:\nVan Nuys Branch\nCanoga Park Branch\nStudio City Branch\nAngeles Mesa Branch\nWest Los Angeles Regional\nBranch\nCypress Park Branch\nWilshire Branch\nAscot Branch\nWill and Ariel Durant Branch\nEagle Rock Branch\nHyde Park - Miriam Matthe\nBranch\nJohn Muir Branch\nSunland - Tujunga Branch\nLos Feliz Branch\nNorth Hollywood - Amelia\nEarhart Regional Branch\nMar Vista Branch\nPanoram\nCity Branch\nVenice - Abbot Kinney\nMemorial Branch\nWashington Irving Branch\nRobertson Branch\nAlma Reaves Woods - Watts Branch\nAtwater Village Branch\nMark Twain Branch\nBaldwin Hills Branch\nEncino - Tarzana Branch\nBolineudo Nave Branch\nMemorial Branch\nWest Valley Regional Branch\nSherman Oaks - Martin Pollard\nBranch Library\nSun Valley Branch\nPacoima Branch\nSylmar Branch\nPlaya Vista Branch\nGranada Hills Branch\nValley Plaza Branch\nWoodland Hills Branch\nNorthridge Branch\nChatsworth Branch\nFairfax Branch\nLake View Terrace Branch\nChinatown Branch\nLittle Tokyo Branch\nPlatt Branch\nMid-Valley Regional Branch\nPorter Ranes Branch\nHarbor City - Harmer Gateway\nBranch\nEdendale Branch\nPico-Union Branch\nWestwood Branch\nSilver Lake Branch\n630 W. 5th St.\n2200 E. 1st St.\n2530 Workman St.\n694 S. Or ford Ave.\n4504 S. Cantral Ave\n6145 N. Figueroa St.\n3900 S. Western Ave.\n4607 S. Main S\n1410 W. Temple\n931 S. Gaffey St.\n1300 N. Avalon BIV\n1623 Ivar Ave.\nI Meirose Ave.\n7114\nN. Manchester A\n1201 W. 48th. St.\n861 Alma Real Dr.\n11820 San Vicente Bivd.\n2211 W. Jefferson lvd.\n280mwisbash Ave.\n803 Spence\n4591 Santa Monica Plyd.\n5226S. Huntington Dr.\n2920 Overland Ave.\n6250 Sylmar Ave.\n20939 Sherman Way\n12511 Moorpark St.\n2700 W. 52nd St.\n11360 SAnta Monica Bivd.\n1150 Cypress Ave.\n149 N. Sair, Andrews Pl.\n120 W. Florence Ave.\n7140 W. Sunset Blvd.\n5027 Caspar Ave.\n2205 W. Florence Ave.\n1005 W. 64th St.\n7771 Foothill Blvd.\n1874 Hillhurst Ave.\n211 Tujunga Ave.\n1200b Venice Bivd,\n14345 Roscoe Blvd.\n501 S. Ventee Bivd.\n4117 W. Washing on Bivd.\n1719 S. Robertson & Ivd.\n10335 Compton Ave.\n3379 Giondale Bivd,\n9621 S. Figueroe St\n2906 S. La Brea Ave\n18231 Ventura Bivd.\n4625 W. Olympic Blvd.\n19036 Vanowen St.\n14245 Moorpark St.\n7935 Vireland Ave.\n13605 Va\nNuys Blvd.\n14561 Polk St.\n6400 Playa Vista Dr.\n10640 Petit A ve.\n12311 Vanowe\nSt.\n22200 Ventura\nBlvd.\n9051 Darby Avel\n21052 Devonshin\nSt.\n161 S. Gardner St\n12002 Osborne St.\n639 N. Hill St,\n203 S. Los Angeles S\n23600 Victory Bivd.\n16244 ordhoff St.\n11371 Tamaa Ave.\n24000 S. W\nstern Ave.\n2011 W. Sunset B\n1030 S. Alvarado S\n124 Clendon Ave.\n2411 Glenonie Bivd.\nCentral Library\nBenjamin Franklin Branch\nLincoln Heights Branch\nPio Pico - Koreatown Bran\nVernon - Leon H. Washington dr.\nMemorial Branch\nArroyo Seco Regional FRanch\nExposition Park - Dr. M\nwary\nMcLeod Bethune Re ional Branch\nJunipero Serra Branch\nEcho Park Branch;\nSan Pedro Regional Branch\nWilmington Branch\nFrances Howard Goldwyn -\nHollywood Regional Branch\nJohn C. Fremont Branch\nWestchest\ni - Loyola Village Franch\nVermont Square Branch\nPalisades\nBranch\nDonald Bruce Kaufm\nBrentwood Branch\nJeffe son - Vas\n• D. Wright\nMer\nDrial Bri\nich\nMa abar B\nunch\nbert\nlouis Stever\nn Branch\nanga Bra\nBranch\nms - Rancho Park Branch\nVan Nuys Branch\nCanoga Park Branch\nStudio City Branch\nAngeles Mesa Branch\nWest Los Angeles Regiona\nBranch\nCypress Park Branch\nWilshire Branch\nAscot Branch\nWill and Ariel Durant Franch\nEagle Rock Branch\nHyde Park - Miriam Matthews\nBranch\nJohn Muir Brang\nSunland - Tujunda Branch\nLos Feliz Bran\nNorth Hollyw\nod - Amelia\nEarhart Regional Branch\nMar Vista F\nranch\nPanorama City Branch\nVenice -\nAbbot Kinnev\nMemorial Branch\nWashi\ngton Irving\nbranch\nRobe\ntson Bra\nAlm\nReave\nWoods - Watts B\nAt\nlage Branch\nvain Branch\nin Hille branch\nTarzana Branch\nMemorial Branch\n• West Valley Regional Branch\nSherman Oaks - Martin Pollard\nBranch Library\nSun Valley Branch\nPacoima Branch\nSylmar Branch\nPlaya Vista Branch\nGranada Hills Branch\nValley Plaza Branch\nWoodland Hills Brar\nNorthridge Branch\nChatsworth Bran\nFairfax Branch\nLake View Terrace Branch\nChinatown Branch\nLittle Tokyo Branch\nPlatt Branc\nMid-Valley Regional Branch\nPorter Ranch Branch\nHarbor city - Harbor Greway\nBranch\nEdengale Branch\nPica\nUnion Branch\nWentwood Branch\nSil\ner Lake Branch\n630 W. 5th St.\n2200 E. 1st St.\n2530 Workman St.\n694 S. Oxford Ave.\n4504 S. Central Ave.\n6145 N. Figueroa St.\n3900 S. Western Ave.\n4607 S\nain St.\n1410 VA\nTemple St.\n931 6. Gaffey St.\n1200 N. Avalon Bivd.\n623 Ivar Ave.\n6121 Melrose Ave.\n7114 W. Manchester Ave.\n1201 W. 48th. St.\n861 Alma Real Dr.\n11820 San Vicente Bivd.\nmW. Jefferson Bivd.\n2801 Wabash Ave.\n803 Spence St.\n4591 Santa Monica Blvd.\n5226S. Huntington Dr.\n2920 Overland Ave\n6250 Sylmar Ave.\n20939 Sherman Way\n12511 Moorpark St.\n2700 W. 52nd St.\n11360 Santa Monica Blvd.\n1150 Cypress Ave\n149 N. Saint Andrews Pl.\n120 W. Florence Ave.\n7140 W. Sunset Blvd.\n5027 Caso\n-Ave.\n2205 W\n-lorence Ave.\n10\no W. 64th St.\n71 Foothill Blvd.\n1874 Hillhurst Ave,\n5211 Tujunga Ave.\n12006 Venice Blvd\n14345 Roscoe Blvd.\n501S. Venice Blyd\n41174\nWashington Blvd.\n19S. Robertson Bivd.\n10205 Compton Ave.\n3379 Glendale Blvd.\n9621 S. Figueroa St.\n2906 S. La Brea Ave.\n18231 Ventura Bivd.\n2000 WhOL\n4625 W. Olympic Blvd.\n19036 Vanowen St.\n14245 Moorpark St.\n7935 Vineland Ave.\n13605 Van Nuys Blvd.\n14561 Polk St.\n6400 Playa Vista Dr.\n10640 Petit Ave.\n12311 Vanowen St.\n22200 Ve\ntura Blvd.\n9051 D\nby Ave.\n2105 Devonshire St.\n16S. Gardner St.\n2002 Osborne St.\n639 N. Hill St.\n203 S. Los Angeles St.\n23600 Victory Blvd.\n16244 Nordhoff St.\n11371 Tampa Ave.\n24000 S West-i\nAve\n202\nw. Sunset Bivd.\n1030 S. Alvarado St.\n1246 Glendon Ave.\n2411 Glendale Bivd.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "4a276abb28784d03bd39422e29437a2413eadd600d3be8600925647351fcc76f"
+  }
+}

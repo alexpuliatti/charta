@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888534",
+  "type": "image",
+  "title": "Masqualero Cover",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "masqualero-cover",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-34281f51f4e5969c011d8cd8.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Masqualero Cover",
+      "role": "original",
+      "bytes": 192994,
+      "sha256": "34281f51f4e5969c011d8cd8575c4b7dd89c8d94726fe5dd19b980c8740b731a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888534/original_0828987164c45c786d36275955a51d21.jpeg",
+      "originalName": "0828987164c45c786d36275955a51d21.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-aa91e0b13b0cb7fae9eb93b7.webp",
+      "mimeType": "image/webp",
+      "alt": "Masqualero Cover",
+      "role": "thumbnail",
+      "bytes": 13912,
+      "sha256": "aa91e0b13b0cb7fae9eb93b77840820f85549ef4254f9d63c932274f60da7227",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUzNC9vcmlnaW5hbF8wODI4OTg3MTY0YzQ1Yzc4NmQzNjI3NTk1NWE1MWQyMS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0828987164c45c786d36275955a51d21.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:28.000Z",
+  "updatedAt": "2026-05-06T12:21:33.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888534",
+    "title": "4048ab190e74dbd5391a12570316a6f9-1-.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888534,
+      "url": "https://www.are.na/block/45888534",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "4048ab190e74dbd5391a12570316a6f9-1-.jpg",
+      "createdAt": "2026-05-06T12:21:28Z",
+      "updatedAt": "2026-05-06T12:21:33Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "4048ab190e74dbd5391a12570316a6f9-1-.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Masqualero Cover",
+    "text": "MASQUALERO\nNils Petter Molvaer\nTore Brunborg\nJon Balke\nArild Andersen\nJon Christensen\nBANDE A PART\nECM",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "34281f51f4e5969c011d8cd8575c4b7dd89c8d94726fe5dd19b980c8740b731a"
+  }
+}

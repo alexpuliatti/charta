@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40786827",
+  "type": "image",
+  "title": "Paired Horns",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "paired-horns",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-050d1e068ff1889a53ae0656.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Paired Horns",
+      "role": "original",
+      "bytes": 64432,
+      "sha256": "050d1e068ff1889a53ae06562376d9401264991d2fcf2885a0fd1d460a8b4a11",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40786827/original_38a8943f7e682362493259051e6baa8b.jpg",
+      "originalName": "38a8943f7e682362493259051e6baa8b.jpg"
+    },
+    {
+      "path": "assets/thumbnail-a2f7d80c4bdf409679fa82e6.webp",
+      "mimeType": "image/webp",
+      "alt": "Paired Horns",
+      "role": "thumbnail",
+      "bytes": 4374,
+      "sha256": "a2f7d80c4bdf409679fa82e6254b9f96545ac7300bec425f0cc3400a2c9d3bd9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NjgyNy9vcmlnaW5hbF8zOGE4OTQzZjdlNjgyMzYyNDkzMjU5MDUxZTZiYWE4Yi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "38a8943f7e682362493259051e6baa8b.jpg"
+    },
+    {
+      "path": "assets/display-web-original-050d1e068ff1889a53ae0656-050d1e068f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Paired Horns",
+      "bytes": 30430,
+      "sha256": "8541073db19ade913e03af620521caac0da4adf3c9d21a84550c160c24f0a2c0",
+      "width": 1200,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-050d1e068ff1889a53ae0656.jpg",
+        "sourceSha256": "050d1e068ff1889a53ae06562376d9401264991d2fcf2885a0fd1d460a8b4a11",
+        "originalBytes": 64432,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:11:29.000Z",
+  "updatedAt": "2025-11-02T15:11:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40786827",
+    "title": "f6e078085e70c0d86fb594b68facb6a9.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40786827,
+      "url": "https://www.are.na/block/40786827",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "f6e078085e70c0d86fb594b68facb6a9.jpg",
+      "createdAt": "2025-11-02T15:11:29Z",
+      "updatedAt": "2025-11-02T15:11:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "f6e078085e70c0d86fb594b68facb6a9.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Paired Horns",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8541073db19ade913e03af620521caac0da4adf3c9d21a84550c160c24f0a2c0"
+  }
+}

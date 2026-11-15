@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995842",
+  "type": "image",
+  "title": "Courtyard Pool",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "buildings",
+    "courtyard-pool",
+    "archives"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9fb6f26972b1d09736580d10.png",
+      "mimeType": "image/png",
+      "alt": "Courtyard Pool",
+      "role": "original",
+      "bytes": 2272755,
+      "sha256": "9fb6f26972b1d09736580d1018b34f12c0cc2daf607cb8007ab804f6f2a3a115",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995842/original_fdcf466251cb8c8233c279b7cc5122df.png",
+      "originalName": "fdcf466251cb8c8233c279b7cc5122df.png"
+    },
+    {
+      "path": "assets/thumbnail-a5fd7149e221c0fc16e2fc91.webp",
+      "mimeType": "image/webp",
+      "alt": "Courtyard Pool",
+      "role": "thumbnail",
+      "bytes": 7102,
+      "sha256": "a5fd7149e221c0fc16e2fc91af4e1691a15fc8a3b062c998aa0cc756fbb4139e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTg0Mi9vcmlnaW5hbF9mZGNmNDY2MjUxY2I4YzgyMzNjMjc5YjdjYzUxMjJkZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "fdcf466251cb8c8233c279b7cc5122df.png"
+    },
+    {
+      "path": "assets/display-web-original-9fb6f26972b1d09736580d10-9fb6f26972.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Courtyard Pool",
+      "bytes": 114738,
+      "sha256": "fc28b4dea0b16dc4f38e12ca6368bcd3bf6107cd931593ac9fabad8870a129bf",
+      "width": 1440,
+      "height": 1763,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9fb6f26972b1d09736580d10.png",
+        "sourceSha256": "9fb6f26972b1d09736580d1018b34f12c0cc2daf607cb8007ab804f6f2a3a115",
+        "originalBytes": 2272755,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:03:03.000Z",
+  "updatedAt": "2026-02-28T12:03:06.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995842",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995842,
+      "url": "https://www.are.na/block/43995842",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:03:03Z",
+      "updatedAt": "2026-02-28T12:03:06Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Buildings",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Courtyard Pool",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "fc28b4dea0b16dc4f38e12ca6368bcd3bf6107cd931593ac9fabad8870a129bf"
+  }
+}

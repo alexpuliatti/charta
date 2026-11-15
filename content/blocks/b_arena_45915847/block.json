@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45915847",
+  "type": "link",
+  "title": "RRE Ventures",
+  "description": "RRE is a boutique venture capital firm with 30 years of experience, backing bold early-stage founders across diverse sectors. We provide deep expertise, AI-driven insights, and committed partnerships to help companies build and persevere for the long term.",
+  "category": "Companies",
+  "tags": [
+    "venture-capital",
+    "early-stage",
+    "investment"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-0012eed89c517c30abd66ad9.webp",
+      "mimeType": "image/webp",
+      "alt": "RRE: Early-Stage Venture Capital Partner",
+      "role": "thumbnail",
+      "bytes": 7052,
+      "sha256": "0012eed89c517c30abd66ad916986c60d548443fad8a803b388418dd59ae0d45",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTkxNTg0Ny9vcmlnaW5hbF80ZWZhYzQ5OGE4ZmIyOWRlYjc1YTQ0OGM1YjUxMTUyZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "4efac498a8fb29deb75a448c5b51152f.png"
+    },
+    {
+      "path": "assets/preview-141f803b506e74f55dbe7231.webp",
+      "mimeType": "image/webp",
+      "alt": "RRE: Early-Stage Venture Capital Partner",
+      "role": "preview",
+      "bytes": 146652,
+      "sha256": "141f803b506e74f55dbe723186711cb0a72860a983cc8ae6d23cc1d5b7fcac9f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45915847/original_4efac498a8fb29deb75a448c5b51152f.png",
+      "originalName": "4efac498a8fb29deb75a448c5b51152f.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1945907,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-07T10:02:39.000Z",
+  "updatedAt": "2026-05-07T10:02:46.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://rre.com/",
+    "title": "RRE: Early-Stage Venture Capital Partner",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45915847,
+      "url": "https://www.are.na/block/45915847",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "RRE: Early-Stage Venture Capital Partner",
+      "createdAt": "2026-05-07T10:02:39Z",
+      "updatedAt": "2026-05-07T10:02:46Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "VC firms",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://rre.com/",
+        "finding": "Official site identifies the early-stage venture firm and its investment portfolio."
+      }
+    ],
+    "original": {
+      "title": "RRE: Early-Stage Venture Capital Partner",
+      "category": "Information design",
+      "tags": [
+        "artificial-intelligence",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

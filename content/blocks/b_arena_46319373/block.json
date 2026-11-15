@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46319373",
+  "type": "video",
+  "title": "Physical AI",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "physical-ai",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-19e02f5c4cd57264f03a88ea.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1779197841116",
+      "role": "original",
+      "bytes": 7372705,
+      "sha256": "19e02f5c4cd57264f03a88eaaa21ed3a20dfda1703a212b086bee2d18d5f263c",
+      "sourceUrl": "https://attachments.are.na/46319373/55af5aa52ee109cc73cd5f06e01e15e0.mp4",
+      "originalName": "55af5aa52ee109cc73cd5f06e01e15e0.mp4"
+    },
+    {
+      "path": "assets/thumbnail-163fdf2e35e936ed375a8492.webp",
+      "mimeType": "image/webp",
+      "alt": "Physical AI",
+      "role": "thumbnail",
+      "bytes": 6180,
+      "sha256": "163fdf2e35e936ed375a84927fdb75fbb9fd66fb9c642e44533390cb998249c9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjMxOTM3My9vcmlnaW5hbF8yODljNzEzYTk4YmRmYzUzMjAyNjA1MTktMi1kbDBuaXUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "289c713a98bdfc5320260519-2-dl0niu.png"
+    },
+    {
+      "path": "assets/display-web-original-19e02f5c4cd57264f03a88ea-19e02f5c4c.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1779197841116",
+      "bytes": 742161,
+      "sha256": "aa1f6b39c10ab759eda26c6cefbe1190e96f8abca6a345fe1ff704a8c0a4b988",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-19e02f5c4cd57264f03a88ea.mp4",
+        "sourceSha256": "19e02f5c4cd57264f03a88eaaa21ed3a20dfda1703a212b086bee2d18d5f263c",
+        "originalBytes": 7372705,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-4fdcd7816973328a7d20842f.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1779197841116",
+      "role": "preview",
+      "bytes": 145998,
+      "sha256": "4fdcd7816973328a7d20842fe891120f23d6095f587f48b3aea5a58dbe6c8c97",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46319373/original_289c713a98bdfc5320260519-2-dl0niu.png",
+      "originalName": "289c713a98bdfc5320260519-2-dl0niu.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1963401,
+        "width": 2560,
+        "height": 1584,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-19T13:37:31.000Z",
+  "updatedAt": "2026-05-19T13:37:34.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46319373",
+    "title": "ssstwitter.com_1779197841116",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46319373,
+      "url": "https://www.are.na/block/46319373",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1779197841116",
+      "createdAt": "2026-05-19T13:37:31Z",
+      "updatedAt": "2026-05-19T13:37:34Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1779197841116",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Physical AI",
+    "text": "Torin Melo\nThe Data Layer\nfor Physical Al\nOpen source SKs.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "163fdf2e35e936ed375a84927fdb75fbb9fd66fb9c642e44533390cb998249c9"
+  }
+}

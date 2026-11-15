@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340258",
+  "type": "image",
+  "title": "Activity Dashboard",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "products",
+    "activity-dashboard",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0795a5f8be6c45c1d8f2e70d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Activity Dashboard",
+      "role": "original",
+      "bytes": 104758,
+      "sha256": "0795a5f8be6c45c1d8f2e70d12bd720a59fb130b46aad8b43e615f84ca3825a7",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340258/original_af77278c64b91a38ec0127f26b16c183.jpg",
+      "originalName": "af77278c64b91a38ec0127f26b16c183.jpg"
+    },
+    {
+      "path": "assets/thumbnail-6141176a75e8762c4cb38f2d.webp",
+      "mimeType": "image/webp",
+      "alt": "Activity Dashboard",
+      "role": "thumbnail",
+      "bytes": 10014,
+      "sha256": "6141176a75e8762c4cb38f2d2be698facbccc6f67f5e3f63bcf3cc5df712e2e8",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI1OC9vcmlnaW5hbF9hZjc3Mjc4YzY0YjkxYTM4ZWMwMTI3ZjI2YjE2YzE4My5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "af77278c64b91a38ec0127f26b16c183.jpg"
+    },
+    {
+      "path": "assets/display-web-original-0795a5f8be6c45c1d8f2e70d-0795a5f8be.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Activity Dashboard",
+      "bytes": 77560,
+      "sha256": "40ffd7c0cf4192be8fda3d2de5832d3dd0965011930d19f1db42a88deaeb4a07",
+      "width": 1200,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0795a5f8be6c45c1d8f2e70d.jpg",
+        "sourceSha256": "0795a5f8be6c45c1d8f2e70d12bd720a59fb130b46aad8b43e615f84ca3825a7",
+        "originalBytes": 104758,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:53.000Z",
+  "updatedAt": "2026-03-11T17:40:57.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340258",
+    "title": "fd58bb3831ee0e7d0ec898140e6d4c5e.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340258,
+      "url": "https://www.are.na/block/44340258",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "fd58bb3831ee0e7d0ec898140e6d4c5e.jpg",
+      "createdAt": "2026-03-11T17:40:53Z",
+      "updatedAt": "2026-03-11T17:40:57Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Products",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "fd58bb3831ee0e7d0ec898140e6d4c5e.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Activity Dashboard",
+    "text": "mount\n6k\n3k\n20\n15\n10%\n120\n90\n60\nOverview\n8 Climbs\nMetrics\ni. Leadboard\nPlan climb\nMountain Kilimanjaro\nMetrics\nSteps\n17-24.06.24\nTanzania | & 5,895 m\n17.06\ntotal 24, 243\nRoute covered\nNew view\n10 a\n12 p\nRespiratory rate\n1.\n2 p\n4 p\navg. 14 bpm\nmax 18\n10 a\nHeart rate\n12 p\n2 p\nmin 11\n4 p\navg. 51 bpm\n10 a\n12 p\n2 p\n4 p\nClimbing log\nStarted to climb\n17.06.24 at 7:34 AM\n0G8(\nFirst camp\n17.06.24 at 6:12 PM\nArchived\nGroup\nEnd\nEnd\n6 climbers Fullilist\n17.06.24, at 8 AM\n24.06.24, at 8 PM\nGuide\nLicense\nStatus\nOliver Harmons\nFRG6743PT\nApproved\nName:\nMount camp June 24\nLocation Crater Camp",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "40ffd7c0cf4192be8fda3d2de5832d3dd0965011930d19f1db42a88deaeb4a07"
+  }
+}

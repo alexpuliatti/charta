@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888431",
+  "type": "image",
+  "title": "Perforated Light",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "perforated-light",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-f0f490f86cd70f8da7e0689e.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Perforated Light",
+      "role": "original",
+      "bytes": 299332,
+      "sha256": "f0f490f86cd70f8da7e0689ec657a66e35e55c79f7be2d552a83b003f13c752d",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888431/original_abca2fb9b82f518e84d377337c81f988.jpeg",
+      "originalName": "abca2fb9b82f518e84d377337c81f988.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-b1e2f702f70d48f4f829af8f.webp",
+      "mimeType": "image/webp",
+      "alt": "Perforated Light",
+      "role": "thumbnail",
+      "bytes": 12800,
+      "sha256": "b1e2f702f70d48f4f829af8f3d55c828f037654c066ef1172afcfb24062b2acb",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQzMS9vcmlnaW5hbF9hYmNhMmZiOWI4MmY1MThlODRkMzc3MzM3YzgxZjk4OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "abca2fb9b82f518e84d377337c81f988.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-f0f490f86cd70f8da7e0689e-f0f490f86c.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Perforated Light",
+      "bytes": 112146,
+      "sha256": "5ebbe6ec44662f30e08a4dd4e44d98f12bbdce8ecf3e4aff23b1f6b7a6b84319",
+      "width": 1333,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-f0f490f86cd70f8da7e0689e.jpg",
+        "sourceSha256": "f0f490f86cd70f8da7e0689ec657a66e35e55c79f7be2d552a83b003f13c752d",
+        "originalBytes": 299332,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:16:43.000Z",
+  "updatedAt": "2026-05-06T12:16:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888431",
+    "title": "hem75lsw4aa4mbr.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888431,
+      "url": "https://www.are.na/block/45888431",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hem75lsw4aa4mbr.jpeg",
+      "createdAt": "2026-05-06T12:16:43Z",
+      "updatedAt": "2026-05-06T12:16:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hem75lsw4aa4mbr.jpeg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Perforated Light",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "5ebbe6ec44662f30e08a4dd4e44d98f12bbdce8ecf3e4aff23b1f6b7a6b84319"
+  }
+}

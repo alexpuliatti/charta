@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889134",
+  "type": "file",
+  "title": "Choral Data Trust",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "data-governance",
+    "public-interest-ai",
+    "choirs"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-155175db8e3868f435e9089f.pdf",
+      "mimeType": "application/pdf",
+      "alt": "serpentineartstechnologies_choraldatatrustexperiment_whitepaper.2025.02.17.pdf",
+      "role": "original",
+      "bytes": 4586732,
+      "sha256": "155175db8e3868f435e9089fac90fa54ec237a45035d982af8d0e07119381500",
+      "sourceUrl": "https://attachments.are.na/45889134/077872ae089ea5c3e9f6d0b1511da353.pdf",
+      "originalName": "077872ae089ea5c3e9f6d0b1511da353.pdf"
+    },
+    {
+      "path": "assets/thumbnail-e539fd05dbd6546a3f497062.webp",
+      "mimeType": "image/webp",
+      "alt": "serpentineartstechnologies_choraldatatrustexperiment_whitepaper.2025.02.17.pdf",
+      "role": "thumbnail",
+      "bytes": 6482,
+      "sha256": "e539fd05dbd6546a3f49706297882c8559d3d11a148ed949e08a86637181cc31",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTEzNC9vcmlnaW5hbF9kNmVmZTJiYWM2MDA5NGQ3MjAyNjA1MDYtMi1kb2JqeXgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "d6efe2bac60094d720260506-2-dobjyx.png"
+    },
+    {
+      "path": "assets/preview-d8fdd3ebe7fd55da3953cd0a.webp",
+      "mimeType": "image/webp",
+      "alt": "serpentineartstechnologies_choraldatatrustexperiment_whitepaper.2025.02.17.pdf",
+      "role": "preview",
+      "bytes": 64524,
+      "sha256": "d8fdd3ebe7fd55da3953cd0a18b21de8f751274c80d7fa83b2b6790714e1f8af",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889134/original_d6efe2bac60094d720260506-2-dobjyx.png",
+      "originalName": "d6efe2bac60094d720260506-2-dobjyx.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 640907,
+        "width": 1131,
+        "height": 1600,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:42:20.000Z",
+  "updatedAt": "2026-05-06T12:42:43.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Read extracted text from 35-page archived PDF; title and topic reflect document content."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889134",
+    "title": "serpentineartstechnologies_choraldatatrustexperiment_whitepaper.2025.02.17.pdf",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889134,
+      "url": "https://www.are.na/block/45889134",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "serpentineartstechnologies_choraldatatrustexperiment_whitepaper.2025.02.17.pdf",
+      "createdAt": "2026-05-06T12:42:20Z",
+      "updatedAt": "2026-05-06T12:42:43Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Research",
+    "genre": "report",
+    "confidence": 0.97,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "serpentineartstechnologies_choraldatatrustexperiment_whitepaper.2025.02.17.pdf",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "text": "February 2025\nCHORAL DA T A \n’TRUST’ EXPERIMENT \nWHITE PAPER\nPrototyping a GLAM Trusted Data Intermediary  \nfor Public Interest AI\n\nChoral Data ‘Trust’ Experiment Serpentine Arts Technologies\n2\nTable of Contents\nAcknowledgements \nExecutive Summary \nIntroduction\n0. Motivation: Expanding Participatory Approaches  \nto AI Data Governance\n1. Background: What role can GLAM institutions  \nplay in the AI Ecosystem?\n1.1  GLAMs and Data After Generative AI\n1.2  Serpentine and the Initiation of the Choral Data ‘Trust’ Experiment\n2. Case Study: The Choral Data ‘Trust’ Experiment\n2.1   The choral AI dataset\n2.2  Legal Considerations\n2.3  Building Capacity for Collective Data Governance\n2.4  Setting up a Trusted Data Intermediary at Serpentine\n3. Call to Action: Building Data Intermediaries  \nfor a Public Interest AI Ecosystem\n3.1  Reflections\n3.2 Recommendations\nAppendix\nA.  Glossary of Key Terms\nB.  Choir Participation in Engagement Activities\nAbout Future Art Ecosystems\n3\n4\n5\n7\n9\n9\n10\n11\n14\n20\n22\n30\n31\n32\n33\n11\n30\n32\n35\n\nChoral Data ‘Trust’ Experiment Serpentine Arts Technologies\n3\nAcknowledgements\nThis report was authored by Victoria Ivanova* (Serpentine Arts \nTechnologies) and Jennifer Ding* (Boundary Object Studio),  \nwith contributions from Eva Jäger and Ruth Waters (Serpentine \nArts Technologies), Mercedes Bunz (Digital Humanities,  \nKing’s College London) and the artists Holly Herndon and  \nMat Dryhurst. * Equal contributing authors\nThe Choral Data ‘Trust’ Experiment  \nwould not be possible without  \nthe following UK choirs:\nBlackburn People’s Choir, Blackburn\nCarnoustie Choir, Carnoustie\nCunninghame Choir, Beith\nThe Fitzhardinge Consort, Bristol\nThe Fourth Choir, London\nHIVE Choir, Belfast\nLeeds Vocal Movement, Leeds\nLondon Contemporary Voices, London\nMusarc, London\nNew London Chamber Choir, London\nOpen Arts Community Choir, Belfast\nOrdsall Acappella Singers, Salford\nThe Ravenswood Singers, Newcastle\nSouth Lakes A Cappella, Windermere\nSpectrum Singers, Penarth\nWe thank our research advisors Sylvie \nDelacroix (Centre for Data Futures, \nKing’s College London) and Matt Prewitt \n(RadicalxChange), as well as our legal \nadvisors Alex Lawrence-Archer and  \nRavi Naik (AWO) and Alasdair Taylor \n(Keystone Law).\nWe also thank the following colleagues \nsharing their feedback and insight on  \nthis paper:\nAleksandra Berditchevskaia,  \nCentre for Collective Intelligence  \nDesign, Nesta\nTim Davies, Connected by Data\nFlynn Devine, Boundary Object Studio\nTommie Introna, Serpentine Arts    \nTechnologies\nBrandon Jackson, Public AI Network\nJoe Massey, Open Data Institute\nKasia Odrozek, Mozilla Foundation\nReema Patel, Elgon Social Research  \n& ESRC Digital Good Network\nAidan Peppin, Cohere\nEmily Rempel, Civic Data Cooperative  \n& University of Liverpool\nReema Selhi, DACS\nAlek Tarkowski, Open Future Foundation\nJanis Wong, The Law Society  \nof England and Wales\nIvanova, V . and Ding, J. (2025). “Choral Data ‘Trust’ Experiment White Paper”. \nhttps://futureartecosystems.org/project/choral-data-trust-experiment/whitepaper\nDOI: 10.5281/zenodo.14859320\n\nChoral Data ‘Trust’ Experiment Serpentine Arts Technologies\n4\nExecutive Summary\nThe rapid advancement of generative artificial intelligence (AI) has intensified debates \naround who controls and benefits from the data used to build AI systems and how it is \nobtained. In response, visions for building public interest AI ecosystems are emerging, \nwhich aim to promote data and AI as public goods and enable diverse voices to shape AI \ndevelopment. This paper presents findings from the Choral Data ‘Trust’ Experiment,  \na pioneering initiative by Serpentine, a UK public art institution, to test new approaches  \nto governing AI training data through a real-world case study with 15 UK choirs.\nThe experiment centered on choral recordings contributed by over 300 choristers for an AI \nart exhibition titled The Call ↗. Through the appointment of a data steward, months of choir \nengagement, and exploration of  governance frameworks with a team of legal advisors, \nthe project developed and tested concrete mechanisms for more participatory approaches \nto dataset governance. This work is particularly timely as the UK government conducts \nconsultations on AI and copyright policy.\nThree key insights have emerged from the experiment. First, it demonstrated the need \nfor data governance approaches that go beyond individual opt-in/opt-out, highlighting the \nimpact of building capacity for meaningful participation through relationship-building and \nstructured preference-gathering towards outcomes such as trust and transparency. Second,  \nit established legal frameworks that enable creative communities to collectively exercise  \nand negotiate their rights, while also revealing limitations in current individual rights-based  \napproaches. Third, it validated the potential for cultural institutions to serve as trusted \nintermediaries in AI development, though this role requires dedicated resources  \nand expertise.\nThe findings suggest several important implications for policy and practice. There is a clear \nneed for investment in data stewardship infrastructure and public digital literacy resources to \nenable meaningful public participation in AI governance. Legal frameworks must be clarified \nand strengthened to better support collective data rights. Cultural institutions require support \nto play new roles in AI development, alongside policies that enable public interest AI to \nflourish in the cultural sector.\nThis paper details the experiment’s methodology, findings, and recommendations, offering  \na roadmap for others seeking to implement similar approaches to responsible AI development \nthat centre public benefit and creative communities’ interests. We hope that our work can \nserve as a practical model for more participatory approaches to AI dataset governance. As AI \nsystems increasingly impact creative communities and cultural production, the frameworks \nand lessons developed through this wo",
+    "textPath": "extracted.txt",
+    "textSha256": "4f87180724084d208894a3ec010db04ba77dfa3f2bd03640571c5dbedd2aa335",
+    "textCharacters": 81171,
+    "pages": 35,
+    "method": "pypdf text extraction",
+    "reviewedAt": "2026-11-15T13:17:57.516Z"
+  },
+  "suggestedRelated": [
+    {
+      "id": "b_arena_45892899",
+      "reason": "Both examine cultural institutions adapting to AI and digital art infrastructure: governing training data and preserving networked artistic work.",
+      "method": "curation-v1"
+    }
+  ]
+}

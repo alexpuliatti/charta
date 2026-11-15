@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888705",
+  "type": "image",
+  "title": "AR Monogram",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "ar-monogram",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-7cad0e564be2dee85d6eb260.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "AR Monogram",
+      "role": "original",
+      "bytes": 45636,
+      "sha256": "7cad0e564be2dee85d6eb26047df2bb436984ad89861815545aab4a555390f0c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888705/original_1ad10b5f8f8638ef473a6f915489a92e.jpeg",
+      "originalName": "1ad10b5f8f8638ef473a6f915489a92e.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-998bea22e1f7b7833612699b.webp",
+      "mimeType": "image/webp",
+      "alt": "AR Monogram",
+      "role": "thumbnail",
+      "bytes": 12344,
+      "sha256": "998bea22e1f7b7833612699b4e07d213afcfc787b0fe5b1f0b07e30b8e930e2d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODcwNS9vcmlnaW5hbF8xYWQxMGI1ZjhmODYzOGVmNDczYTZmOTE1NDg5YTkyZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "1ad10b5f8f8638ef473a6f915489a92e.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-7cad0e564be2dee85d6eb260-7cad0e564b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "AR Monogram",
+      "bytes": 33390,
+      "sha256": "98573344c6595d5a6f526c5776a93f26fadae77ac712284a6d58f01ddc5a84a9",
+      "width": 563,
+      "height": 566,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-7cad0e564be2dee85d6eb260.jpg",
+        "sourceSha256": "7cad0e564be2dee85d6eb26047df2bb436984ad89861815545aab4a555390f0c",
+        "originalBytes": 45636,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:26:04.000Z",
+  "updatedAt": "2026-05-06T12:26:12.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888705",
+    "title": "original_05993b62536e468c4a1a4802da7f0683.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888705,
+      "url": "https://www.are.na/block/45888705",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_05993b62536e468c4a1a4802da7f0683.jpg",
+      "createdAt": "2026-05-06T12:26:04Z",
+      "updatedAt": "2026-05-06T12:26:12Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_05993b62536e468c4a1a4802da7f0683.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "AR Monogram",
+    "text": "R",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "98573344c6595d5a6f526c5776a93f26fadae77ac712284a6d58f01ddc5a84a9"
+  }
+}

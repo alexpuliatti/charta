@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888607",
+  "type": "image",
+  "title": "Spatial Diagram",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "spatial-diagram",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0cd5a4e006872a9695352796.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Spatial Diagram",
+      "role": "original",
+      "bytes": 90561,
+      "sha256": "0cd5a4e006872a969535279600035c7baf319274ad8a21ce2d15d9f0da5e36ad",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888607/original_676e9bf4e09daa1d2eeb6cf03d5eccc7.jpeg",
+      "originalName": "676e9bf4e09daa1d2eeb6cf03d5eccc7.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0d0bcc75254c178f23a5cb65.webp",
+      "mimeType": "image/webp",
+      "alt": "Spatial Diagram",
+      "role": "thumbnail",
+      "bytes": 5388,
+      "sha256": "0d0bcc75254c178f23a5cb65aff67c58fee849561737ba49d4c645399febcf00",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODYwNy9vcmlnaW5hbF82NzZlOWJmNGUwOWRhYTFkMmVlYjZjZjAzZDVlY2NjNy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "676e9bf4e09daa1d2eeb6cf03d5eccc7.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-0cd5a4e006872a9695352796-0cd5a4e006.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Spatial Diagram",
+      "bytes": 58582,
+      "sha256": "77da2c802e678a673e796a7657ff2cc9506c26aaf41db04ed9dd7da6d8cf49d0",
+      "width": 900,
+      "height": 900,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0cd5a4e006872a9695352796.jpg",
+        "sourceSha256": "0cd5a4e006872a969535279600035c7baf319274ad8a21ce2d15d9f0da5e36ad",
+        "originalBytes": 90561,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:23:48.000Z",
+  "updatedAt": "2026-05-06T12:23:58.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888607",
+    "title": "eralgo.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888607,
+      "url": "https://www.are.na/block/45888607",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "eralgo.jpg",
+      "createdAt": "2026-05-06T12:23:48Z",
+      "updatedAt": "2026-05-06T12:23:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "eralgo.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Spatial Diagram",
+    "text": "(+ )\n(4y)",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "77da2c802e678a673e796a7657ff2cc9506c26aaf41db04ed9dd7da6d8cf49d0"
+  }
+}

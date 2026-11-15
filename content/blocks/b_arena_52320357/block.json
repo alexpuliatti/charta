@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_52320357",
+  "type": "link",
+  "title": "Thomson Video",
+  "description": "",
+  "category": "Writing",
+  "tags": [
+    "x-post",
+    "video-reference"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-28f423f356b5d6e48ff8b79c.webp",
+      "mimeType": "image/webp",
+      "alt": "Thomson Video",
+      "role": "thumbnail",
+      "bytes": 2982,
+      "sha256": "28f423f356b5d6e48ff8b79ca42d7061eaa9161a8c428ef5d3b9c4de8e8e3806",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MjMyMDM1Ny9vcmlnaW5hbF81OTVhYjA4ZDQxZWEyZjliNGM2Y2QzMjU0MTBkODkzMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "595ab08d41ea2f9b4c6cd325410d8932.png"
+    },
+    {
+      "path": "assets/preview-6bc8105e734fe17d38d193ba.webp",
+      "mimeType": "image/webp",
+      "alt": "@willthomson on X",
+      "role": "preview",
+      "bytes": 36778,
+      "sha256": "6bc8105e734fe17d38d193ba7d38982517ea41f6ecd017ffb4c51770ea4624fc",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/52320357/original_595ab08d41ea2f9b4c6cd325410d8932.png",
+      "originalName": "595ab08d41ea2f9b4c6cd325410d8932.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 124424,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "bodyPath": "body.md",
+  "createdAt": "2026-11-04T09:13:51.000Z",
+  "updatedAt": "2026-11-04T09:14:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title is grounded in the named entity or artifact in the source URL and imported page title. Visually reviewed thumbnail shows the X login/loading page. Saved video post has author and URL only; actual video subject is unavailable. Inspected the saved local thumbnail visually (source-limited-thumbnail)."
+  },
+  "source": {
+    "url": "https://x.com/willthomson__/status/2117673434066923965/video/1",
+    "textCapture": {
+      "url": "https://cdn.syndication.twimg.com/tweet-result?id=2117673434066923965&lang=en&token=0",
+      "method": "x-syndication"
+    },
+    "title": "@willthomson on X",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 52320357,
+      "url": "https://www.are.na/block/52320357",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "@willthomson on X",
+      "createdAt": "2026-11-04T09:13:51Z",
+      "updatedAt": "2026-11-04T09:14:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Tweets",
+    "genre": "tweet",
+    "confidence": 0.4,
+    "needsSourceReview": true,
+    "evidence": [],
+    "original": {
+      "title": "@willthomson on X",
+      "category": "Tools and resources",
+      "tags": [
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

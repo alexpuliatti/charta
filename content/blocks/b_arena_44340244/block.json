@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340244",
+  "type": "image",
+  "title": "Bonsai Gradient",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "bonsai-gradient",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-a7d28025e9af53edceeb1454.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Bonsai Gradient",
+      "role": "original",
+      "bytes": 245016,
+      "sha256": "a7d28025e9af53edceeb145453e0f68b571db5cb190bec58ea0eb0eebe8c5715",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340244/original_eea0a2631a013c86da5572faee6a3371.jpg",
+      "originalName": "eea0a2631a013c86da5572faee6a3371.jpg"
+    },
+    {
+      "path": "assets/thumbnail-3e912bdae2d59858143a7aed.webp",
+      "mimeType": "image/webp",
+      "alt": "Bonsai Gradient",
+      "role": "thumbnail",
+      "bytes": 2456,
+      "sha256": "3e912bdae2d59858143a7aedeffac08436b90b853ff25d6c30709fef2b6419e3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDI0NC9vcmlnaW5hbF9lZWEwYTI2MzFhMDEzYzg2ZGE1NTcyZmFlZTZhMzM3MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "eea0a2631a013c86da5572faee6a3371.jpg"
+    },
+    {
+      "path": "assets/display-web-original-a7d28025e9af53edceeb1454-a7d28025e9.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Bonsai Gradient",
+      "bytes": 238378,
+      "sha256": "09ef36915d24bb6f586236a0f0308e92f66ddab7bc95fbe72f1c6c136efb07a7",
+      "width": 1200,
+      "height": 1701,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-a7d28025e9af53edceeb1454.jpg",
+        "sourceSha256": "a7d28025e9af53edceeb145453e0f68b571db5cb190bec58ea0eb0eebe8c5715",
+        "originalBytes": 245016,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:40:31.000Z",
+  "updatedAt": "2026-03-11T17:40:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340244",
+    "title": "a74cc993fca086ec5b3eee04ec370851.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340244,
+      "url": "https://www.are.na/block/44340244",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a74cc993fca086ec5b3eee04ec370851.jpg",
+      "createdAt": "2026-03-11T17:40:31Z",
+      "updatedAt": "2026-03-11T17:40:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a74cc993fca086ec5b3eee04ec370851.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Bonsai Gradient",
+    "text": "HONDA\nHonda Deutschland GmbH, Sprendlinger Landstraße 166\n6050 Offenbach, Telefon: 06 11/ 8 30 91\nIhr Vertragshändler\nHonda u. Saab\nVertragshändler\nPeter Schmid\nWöhlerstr. 15\nTeleton 50 76 36\n78 Freiburg",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "09ef36915d24bb6f586236a0f0308e92f66ddab7bc95fbe72f1c6c136efb07a7"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890429",
+  "type": "link",
+  "title": "Menubar Apps",
+  "description": "Curated collection of the best Mac menu bar applications. Discover productivity tools, system monitors, developer utilities, and essential apps for your macOS menu bar.",
+  "category": "Interface design",
+  "tags": [
+    "macos",
+    "menu-bar",
+    "app-directory"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-7a1415820ac4b363a33d8edd.webp",
+      "mimeType": "image/webp",
+      "alt": "Mac Menubar Apps - Curated list of the best menubar apps for your life",
+      "role": "thumbnail",
+      "bytes": 7584,
+      "sha256": "7a1415820ac4b363a33d8edda18038637fd153544dda0cab18604d2c7c284ee1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDQyOS9vcmlnaW5hbF9iMDMwOTYyNjAwYjY5MjBkZWQzOGIwODQ3ZGU3N2FmMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b030962600b6920ded38b0847de77af0.png"
+    },
+    {
+      "path": "assets/preview-758f9de75ca4a89335dc7a91.webp",
+      "mimeType": "image/webp",
+      "alt": "Mac Menubar Apps - Curated list of the best menubar apps for your life",
+      "role": "preview",
+      "bytes": 95864,
+      "sha256": "758f9de75ca4a89335dc7a91c8ccba7c63b1d92b20294bd603a8912d4e934591",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890429/original_b030962600b6920ded38b0847de77af0.png",
+      "originalName": "b030962600b6920ded38b0847de77af0.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 320433,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:36:35.000Z",
+  "updatedAt": "2026-05-06T13:36:47.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://macmenubar.app/?page=6",
+    "title": "Mac Menubar Apps - Curated list of the best menubar apps for your life",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890429,
+      "url": "https://www.are.na/block/45890429",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Mac Menubar Apps - Curated list of the best menubar apps for your life",
+      "createdAt": "2026-05-06T13:36:35Z",
+      "updatedAt": "2026-05-06T13:36:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Mac Menubar Apps - Curated list of the best menubar apps for your life",
+      "category": "Information design",
+      "tags": [
+        "tools",
+        "archives",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

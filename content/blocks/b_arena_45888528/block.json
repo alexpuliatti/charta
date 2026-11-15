@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888528",
+  "type": "image",
+  "title": "Wikipedia Circle",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "information-design",
+    "wikipedia-circle",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-026122b884196f77075d06c5.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Wikipedia Circle",
+      "role": "original",
+      "bytes": 45209,
+      "sha256": "026122b884196f77075d06c524210345d0e6957259a7f41f08664892d962faca",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888528/original_52797e606daeef28785d75fa81fd5e11.jpeg",
+      "originalName": "52797e606daeef28785d75fa81fd5e11.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-c75cde8d3cc21a3790de0a2e.webp",
+      "mimeType": "image/webp",
+      "alt": "Wikipedia Circle",
+      "role": "thumbnail",
+      "bytes": 11096,
+      "sha256": "c75cde8d3cc21a3790de0a2ea2ce0ccb28942215bf6f2205af960998b77578db",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODUyOC9vcmlnaW5hbF81Mjc5N2U2MDZkYWVlZjI4Nzg1ZDc1ZmE4MWZkNWUxMS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "52797e606daeef28785d75fa81fd5e11.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-026122b884196f77075d06c5-026122b884.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Wikipedia Circle",
+      "bytes": 38126,
+      "sha256": "43d4d1f1b1b17c16b0f3e33df10372e6df22dbc21869a08bd96e6023dbd70b94",
+      "width": 736,
+      "height": 736,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-026122b884196f77075d06c5.jpg",
+        "sourceSha256": "026122b884196f77075d06c524210345d0e6957259a7f41f08664892d962faca",
+        "originalBytes": 45209,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:21:09.000Z",
+  "updatedAt": "2026-05-06T12:21:13.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888528",
+    "title": "800ac4abe7a6af6f399b2871c2780a5c.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888528,
+      "url": "https://www.are.na/block/45888528",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "800ac4abe7a6af6f399b2871c2780a5c.jpg",
+      "createdAt": "2026-05-06T12:21:09Z",
+      "updatedAt": "2026-05-06T12:21:13Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Information design",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "800ac4abe7a6af6f399b2871c2780a5c.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Wikipedia Circle",
+    "text": "Whispers is a sequential art game: a chain of fifty contributors creating fifty\ninterlinked original artworks.\nMore into\nCuration by Barbara Ryan • Website by Ben West",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "43d4d1f1b1b17c16b0f3e33df10372e6df22dbc21869a08bd96e6023dbd70b94"
+  }
+}

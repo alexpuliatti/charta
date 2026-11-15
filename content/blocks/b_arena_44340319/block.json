@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340319",
+  "type": "image",
+  "title": "Velvet Shoes",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "velvet-shoes",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-57430c58d69ee07280980828.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Velvet Shoes",
+      "role": "original",
+      "bytes": 137215,
+      "sha256": "57430c58d69ee072809808284ddc4567e316d4722590ac38333e592b5aa6001b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340319/original_08fcff879354951a0fe758e8e945f4bd.jpg",
+      "originalName": "08fcff879354951a0fe758e8e945f4bd.jpg"
+    },
+    {
+      "path": "assets/thumbnail-10536d3dfe1a7e5cf706e954.webp",
+      "mimeType": "image/webp",
+      "alt": "Velvet Shoes",
+      "role": "thumbnail",
+      "bytes": 18362,
+      "sha256": "10536d3dfe1a7e5cf706e9548d4f6444314e7b10b356e350e231b3f879e409f2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxOS9vcmlnaW5hbF8wOGZjZmY4NzkzNTQ5NTFhMGZlNzU4ZThlOTQ1ZjRiZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "08fcff879354951a0fe758e8e945f4bd.jpg"
+    },
+    {
+      "path": "assets/display-web-original-57430c58d69ee07280980828-57430c58d6.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Velvet Shoes",
+      "bytes": 119404,
+      "sha256": "1d9935b6970c3c00e12f7f1815c8e45743fb09d615bc889d5e67ddc67a012ff0",
+      "width": 986,
+      "height": 829,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-57430c58d69ee07280980828.jpg",
+        "sourceSha256": "57430c58d69ee072809808284ddc4567e316d4722590ac38333e592b5aa6001b",
+        "originalBytes": 137215,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340319",
+    "title": "f2112e3f28e4dd2845549b48145d845b.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340319,
+      "url": "https://www.are.na/block/44340319",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "f2112e3f28e4dd2845549b48145d845b.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "f2112e3f28e4dd2845549b48145d845b.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Velvet Shoes",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1d9935b6970c3c00e12f7f1815c8e45743fb09d615bc889d5e67ddc67a012ff0"
+  }
+}

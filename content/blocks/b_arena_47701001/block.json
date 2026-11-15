@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701001",
+  "type": "image",
+  "title": "Jazz Sketches",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "jazz-sketches",
+    "book-covers",
+    "editorial-design",
+    "record-covers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-622c70d08778768abfb9bee4.png",
+      "mimeType": "image/png",
+      "alt": "Jazz Sketches",
+      "role": "original",
+      "bytes": 3393443,
+      "sha256": "622c70d08778768abfb9bee4b09e807a6fadfe111aa03a857be4def5a5f546d8",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701001/original_b9133acf945d596891c5190da41ea170.png",
+      "originalName": "b9133acf945d596891c5190da41ea170.png"
+    },
+    {
+      "path": "assets/thumbnail-e27a84caf77f9f114d5fe75b.webp",
+      "mimeType": "image/webp",
+      "alt": "Jazz Sketches",
+      "role": "thumbnail",
+      "bytes": 8552,
+      "sha256": "e27a84caf77f9f114d5fe75bc8b3459fbcd6f4eadadff5c5babf70515b70e52a",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAwMS9vcmlnaW5hbF9iOTEzM2FjZjk0NWQ1OTY4OTFjNTE5MGRhNDFlYTE3MC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "b9133acf945d596891c5190da41ea170.png"
+    },
+    {
+      "path": "assets/display-web-original-622c70d08778768abfb9bee4-622c70d087.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Jazz Sketches",
+      "bytes": 169436,
+      "sha256": "69b4a1e49671e497c44d7c5a6193f3f0ef43562859f7cbdd4a1d2aa3bd3f942a",
+      "width": 1624,
+      "height": 1390,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-622c70d08778768abfb9bee4.png",
+        "sourceSha256": "622c70d08778768abfb9bee4b09e807a6fadfe111aa03a857be4def5a5f546d8",
+        "originalBytes": 3393443,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:07.000Z",
+  "updatedAt": "2026-07-08T14:56:11.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701001",
+    "title": "Screenshot 2023-09-12 alle 16.51.28",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701001,
+      "url": "https://www.are.na/block/47701001",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.51.28",
+      "createdAt": "2026-07-08T14:56:07Z",
+      "updatedAt": "2026-07-08T14:56:11Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.51.28",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Jazz Sketches",
+    "text": "5 monthe\nI monte\n12/49 echahal - 1900-55\ne-\n-/947-1950.\nVilland Suni\nsherran\nда 194) 6 go. 1846\nParler",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "69b4a1e49671e497c44d7c5a6193f3f0ef43562859f7cbdd4a1d2aa3bd3f942a"
+  }
+}

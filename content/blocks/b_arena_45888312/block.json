@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888312",
+  "type": "image",
+  "title": "Paper Cards",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "components",
+    "paper-cards",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6f19fd56f0c8cf1f2962c8f7.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Paper Cards",
+      "role": "original",
+      "bytes": 169063,
+      "sha256": "6f19fd56f0c8cf1f2962c8f7717c60375f82e97626b788bc808af545dce699ef",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888312/original_a2ba9a9a79ae0f76457d084b2f11b968.jpeg",
+      "originalName": "a2ba9a9a79ae0f76457d084b2f11b968.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-117dddd7adc9116ed55d03c5.webp",
+      "mimeType": "image/webp",
+      "alt": "Paper Cards",
+      "role": "thumbnail",
+      "bytes": 6818,
+      "sha256": "117dddd7adc9116ed55d03c5ca4747ef1d13b26e67ee3db21225e465024ed7a5",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMxMi9vcmlnaW5hbF9hMmJhOWE5YTc5YWUwZjc2NDU3ZDA4NGIyZjExYjk2OC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "a2ba9a9a79ae0f76457d084b2f11b968.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6f19fd56f0c8cf1f2962c8f7-6f19fd56f0.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Paper Cards",
+      "bytes": 76242,
+      "sha256": "c090a522e9d69dc8ca25c28a615040ed75945bbfcedfbff3cf1695dca9975232",
+      "width": 1947,
+      "height": 1096,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6f19fd56f0c8cf1f2962c8f7.jpg",
+        "sourceSha256": "6f19fd56f0c8cf1f2962c8f7717c60375f82e97626b788bc808af545dce699ef",
+        "originalBytes": 169063,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:34.000Z",
+  "updatedAt": "2026-10-20T03:29:30.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888312",
+    "title": "hhlocycxgaaoqz0.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888312,
+      "url": "https://www.are.na/block/45888312",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hhlocycxgaaoqz0.jpeg",
+      "createdAt": "2026-05-06T12:12:34Z",
+      "updatedAt": "2026-10-20T03:29:30Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Components",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hhlocycxgaaoqz0.jpeg",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Paper Cards",
+    "text": "• Paper\nDesign incredible.\ndo your best work in Paper,\nthe new home for designers.\n• Paper\nWhat is Paper?\nHow it works\nBenefits\nHelp\nChats\nFor the love of design-\ndesigners are facing new\nchallenges, and need fast and\nreliable tools to\nstay ahead. that's why we're\nmaking Paper: a powerful\ncanvas that helps you make\nbeautiful art and experiences.\nGET STARTED\nGET STARTED",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "c090a522e9d69dc8ca25c28a615040ed75945bbfcedfbff3cf1695dca9975232"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45895049",
+  "type": "video",
+  "title": "Getty Research",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "getty-research",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-286341d1e8d9e68aec34a3dc.mp4",
+      "mimeType": "video/mp4",
+      "alt": "ssstwitter.com_1778083132166.mp4",
+      "role": "original",
+      "bytes": 11925959,
+      "sha256": "286341d1e8d9e68aec34a3dc4b24fac0c0dba075ee2f8c3bacfa9c36c4e819c9",
+      "sourceUrl": "https://attachments.are.na/45895049/a647d5002fd2184322de2bec5349a497.mp4",
+      "originalName": "a647d5002fd2184322de2bec5349a497.mp4"
+    },
+    {
+      "path": "assets/thumbnail-d25bf8cda2477e249973e20a.webp",
+      "mimeType": "image/webp",
+      "alt": "Getty Research",
+      "role": "thumbnail",
+      "bytes": 5008,
+      "sha256": "d25bf8cda2477e249973e20a3445373ea6df448a219b40ff091957adf2233b9e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5NTA0OS9vcmlnaW5hbF9jMmU5MDI1YjVkNjI4NjNiMjAyNjA1MDYtMi0zZTQ1NnAucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c2e9025b5d62863b20260506-2-3e456p.png"
+    },
+    {
+      "path": "assets/display-web-original-286341d1e8d9e68aec34a3dc-286341d1e8.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "ssstwitter.com_1778083132166.mp4",
+      "bytes": 8147171,
+      "sha256": "cbf3674a61f6c6ed596885d484cf0fc0979d1979ce220a5a8441eaf82c10e644",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-286341d1e8d9e68aec34a3dc.mp4",
+        "sourceSha256": "286341d1e8d9e68aec34a3dc4b24fac0c0dba075ee2f8c3bacfa9c36c4e819c9",
+        "originalBytes": 11925959,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-97de627a02c87ccf06525025.webp",
+      "mimeType": "image/webp",
+      "alt": "ssstwitter.com_1778083132166.mp4",
+      "role": "preview",
+      "bytes": 37862,
+      "sha256": "97de627a02c87ccf065250254b17c8125c46d55c61573b4a5a55b833a3c50659",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45895049/original_c2e9025b5d62863b20260506-2-3e456p.png",
+      "originalName": "c2e9025b5d62863b20260506-2-3e456p.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 249419,
+        "width": 1410,
+        "height": 720,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T15:59:58.000Z",
+  "updatedAt": "2026-05-06T16:00:00.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45895049",
+    "title": "ssstwitter.com_1778083132166.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45895049,
+      "url": "https://www.are.na/block/45895049",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "ssstwitter.com_1778083132166.mp4",
+      "createdAt": "2026-05-06T15:59:58Z",
+      "updatedAt": "2026-05-06T16:00:00Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ssstwitter.com_1778083132166.mp4",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Getty Research",
+    "text": "Getty\nHere's how the Getty Provenance\nIndex is transforming research on\nthe social life of art.",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "d25bf8cda2477e249973e20a3445373ea6df448a219b40ff091957adf2233b9e"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888896",
+  "type": "video",
+  "title": "Panoramic Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "panoramic-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-be9d23f1535ad69b5ea11c30.mp4",
+      "mimeType": "video/mp4",
+      "alt": "nexta_-____a_hotel_with_an__avatar_-like_view_has_been_found_in_china_a_woman..._6p4tot.mp4",
+      "role": "original",
+      "bytes": 824895,
+      "sha256": "be9d23f1535ad69b5ea11c305fb62bb5b2ad08c5cfd75b09aa1b687ca104f010",
+      "sourceUrl": "https://attachments.are.na/45888896/4ebf394342b5eb4ab1224c91250adb0a.mp4",
+      "originalName": "4ebf394342b5eb4ab1224c91250adb0a.mp4"
+    },
+    {
+      "path": "assets/thumbnail-172bfa82ff822eb989946738.webp",
+      "mimeType": "image/webp",
+      "alt": "Panoramic Bedroom",
+      "role": "thumbnail",
+      "bytes": 9112,
+      "sha256": "172bfa82ff822eb9899467380a4a73a2c29620e32b9e126c46e41a6ef2ddccba",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODg5Ni9vcmlnaW5hbF80OGM1ODA0MTM0OGQwNmJjMjAyNjA1MDYtMi13aWpjMHoucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "48c58041348d06bc20260506-2-wijc0z.png"
+    },
+    {
+      "path": "assets/preview-af9d56e12fd01a2d7ca6ce0f.webp",
+      "mimeType": "image/webp",
+      "alt": "nexta_-____a_hotel_with_an__avatar_-like_view_has_been_found_in_china_a_woman..._6p4tot.mp4",
+      "role": "preview",
+      "bytes": 45182,
+      "sha256": "af9d56e12fd01a2d7ca6ce0f98fba499f7faae73e2334691e190f3123510409b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888896/original_48c58041348d06bc20260506-2-wijc0z.png",
+      "originalName": "48c58041348d06bc20260506-2-wijc0z.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 531546,
+        "width": 848,
+        "height": 464,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:34:39.000Z",
+  "updatedAt": "2026-05-06T12:34:42.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888896",
+    "title": "nexta_-____a_hotel_with_an__avatar_-like_view_has_been_found_in_china_a_woman..._6p4tot.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888896,
+      "url": "https://www.are.na/block/45888896",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "nexta_-____a_hotel_with_an__avatar_-like_view_has_been_found_in_china_a_woman..._6p4tot.mp4",
+      "createdAt": "2026-05-06T12:34:39Z",
+      "updatedAt": "2026-05-06T12:34:42Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "nexta_-____a_hotel_with_an__avatar_-like_view_has_been_found_in_china_a_woman..._6p4tot.mp4",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Panoramic Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "172bfa82ff822eb9899467380a4a73a2c29620e32b9e126c46e41a6ef2ddccba"
+  }
+}

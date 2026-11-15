@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700980",
+  "type": "image",
+  "title": "Flannel Suit",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "flannel-suit",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0c1e9a09efff7e331c377c70.png",
+      "mimeType": "image/png",
+      "alt": "Flannel Suit",
+      "role": "original",
+      "bytes": 1048967,
+      "sha256": "0c1e9a09efff7e331c377c7010677d8fac14e34aa3a04ba336111671193c507e",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700980/original_2545b23b4e73df1d0d420a80c6587205.png",
+      "originalName": "2545b23b4e73df1d0d420a80c6587205.png"
+    },
+    {
+      "path": "assets/thumbnail-85be55882d479a42be6203e3.webp",
+      "mimeType": "image/webp",
+      "alt": "Flannel Suit",
+      "role": "thumbnail",
+      "bytes": 7508,
+      "sha256": "85be55882d479a42be6203e36481f67b87e6b67cc4ea4aa3d97993cbf7eb38a4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk4MC9vcmlnaW5hbF8yNTQ1YjIzYjRlNzNkZjFkMGQ0MjBhODBjNjU4NzIwNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2545b23b4e73df1d0d420a80c6587205.png"
+    },
+    {
+      "path": "assets/display-web-original-0c1e9a09efff7e331c377c70-0c1e9a09ef.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Flannel Suit",
+      "bytes": 51036,
+      "sha256": "367aca49ff4ee5046d1213f4c1e8eddce10575b11eb01247649e67627eef65d0",
+      "width": 950,
+      "height": 1274,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0c1e9a09efff7e331c377c70.png",
+        "sourceSha256": "0c1e9a09efff7e331c377c7010677d8fac14e34aa3a04ba336111671193c507e",
+        "originalBytes": 1048967,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:55:49.000Z",
+  "updatedAt": "2026-07-08T14:55:53.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700980",
+    "title": "Screenshot 2023-09-12 alle 16.47.37",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700980,
+      "url": "https://www.are.na/block/47700980",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.47.37",
+      "createdAt": "2026-07-08T14:55:49Z",
+      "updatedAt": "2026-07-08T14:55:53Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.47.37",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Flannel Suit",
+    "text": "Simonand\nSchuster\nThe\nMan\nthe\nGiaM\nFlannel\nSuit\na novel by\nSloan\nWilson",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "367aca49ff4ee5046d1213f4c1e8eddce10575b11eb01247649e67627eef65d0"
+  }
+}

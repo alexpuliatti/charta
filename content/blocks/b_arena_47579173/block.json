@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579173",
+  "type": "image",
+  "title": "Purple Binding",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "purple-binding",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-11a7aba6a16c18335d59e8ac.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Purple Binding",
+      "role": "original",
+      "bytes": 1147172,
+      "sha256": "11a7aba6a16c18335d59e8accace9e29f40047f98261989aa61884173d8c65d1",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579173/original_0c68a5d7b9297081f9ae565f7112825f.jpeg",
+      "originalName": "0c68a5d7b9297081f9ae565f7112825f.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-95fe9d541a00ba00cdbad651.webp",
+      "mimeType": "image/webp",
+      "alt": "Purple Binding",
+      "role": "thumbnail",
+      "bytes": 1288,
+      "sha256": "95fe9d541a00ba00cdbad65190a5b893dbec24e1bf4ef426229c38829877443d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE3My9vcmlnaW5hbF8wYzY4YTVkN2I5Mjk3MDgxZjlhZTU2NWY3MTEyODI1Zi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "0c68a5d7b9297081f9ae565f7112825f.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-11a7aba6a16c18335d59e8ac-11a7aba6a1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Purple Binding",
+      "bytes": 350394,
+      "sha256": "f453f01ddec3da868597d410b0a676bb0ded0f7c79fc6cd30e74990749b8f8f3",
+      "width": 1304,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-11a7aba6a16c18335d59e8ac.jpg",
+        "sourceSha256": "11a7aba6a16c18335d59e8accace9e29f40047f98261989aa61884173d8c65d1",
+        "originalBytes": 1147172,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:36:02.000Z",
+  "updatedAt": "2026-11-14T15:28:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579173",
+    "title": "X GWBHpQ9XUAAfMih",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579173,
+      "url": "https://www.are.na/block/47579173",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "X GWBHpQ9XUAAfMih",
+      "createdAt": "2026-07-04T15:36:02Z",
+      "updatedAt": "2026-11-14T15:28:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "X GWBHpQ9XUAAfMih",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Purple Binding",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f453f01ddec3da868597d410b0a676bb0ded0f7c79fc6cd30e74990749b8f8f3"
+  }
+}

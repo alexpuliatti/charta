@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579165",
+  "type": "image",
+  "title": "Luna Luna",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "luna-luna",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9d53691b6b161cf6fdc08bf6.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Luna Luna",
+      "role": "original",
+      "bytes": 584462,
+      "sha256": "9d53691b6b161cf6fdc08bf62dcd52135f393f22946f70fa91202ec9d0ad2d07",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579165/original_74e78211cb543121c8a9ae319857cc59.jpeg",
+      "originalName": "74e78211cb543121c8a9ae319857cc59.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-695f5399bd5b4e8e2610ac7b.webp",
+      "mimeType": "image/webp",
+      "alt": "Luna Luna",
+      "role": "thumbnail",
+      "bytes": 10908,
+      "sha256": "695f5399bd5b4e8e2610ac7b316be3cafc904d48b5f1ea78435ba7fd77d24bbe",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE2NS9vcmlnaW5hbF83NGU3ODIxMWNiNTQzMTIxYzhhOWFlMzE5ODU3Y2M1OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "74e78211cb543121c8a9ae319857cc59.jpeg"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:35:22.000Z",
+  "updatedAt": "2026-07-04T15:35:26.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579165",
+    "title": "GZiqAIHWkAwty10",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579165,
+      "url": "https://www.are.na/block/47579165",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "GZiqAIHWkAwty10",
+      "createdAt": "2026-07-04T15:35:22Z",
+      "updatedAt": "2026-07-04T15:35:26Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GZiqAIHWkAwty10",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Luna Luna",
+    "text": "Die Künstler von Luna Luna\nLUNA\nLUNA",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9d53691b6b161cf6fdc08bf62dcd52135f393f22946f70fa91202ec9d0ad2d07"
+  }
+}

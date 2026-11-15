@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340317",
+  "type": "image",
+  "title": "Ornate Theatre",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "ornate-theatre",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-237d469e6547c30f716de6d1.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Ornate Theatre",
+      "role": "original",
+      "bytes": 284185,
+      "sha256": "237d469e6547c30f716de6d1850d388b374e307b6da5016268f73a10e98ecedb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340317/original_137da9399fb30e7d6dd40c5cf4eacd3f.jpg",
+      "originalName": "137da9399fb30e7d6dd40c5cf4eacd3f.jpg"
+    },
+    {
+      "path": "assets/thumbnail-abe6a4f1d5858fabb8a4227e.webp",
+      "mimeType": "image/webp",
+      "alt": "Ornate Theatre",
+      "role": "thumbnail",
+      "bytes": 32916,
+      "sha256": "abe6a4f1d5858fabb8a4227e51141d9cedfad2d8bb908075f2f0712a307474f7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxNy9vcmlnaW5hbF8xMzdkYTkzOTlmYjMwZTdkNmRkNDBjNWNmNGVhY2QzZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "137da9399fb30e7d6dd40c5cf4eacd3f.jpg"
+    },
+    {
+      "path": "assets/display-web-original-237d469e6547c30f716de6d1-237d469e65.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Ornate Theatre",
+      "bytes": 270676,
+      "sha256": "2b03dc933845d9cf51b744dfc8b28a4dc5b97a0d7c4548e863bcd0689f7e3cd8",
+      "width": 1199,
+      "height": 967,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-237d469e6547c30f716de6d1.jpg",
+        "sourceSha256": "237d469e6547c30f716de6d1850d388b374e307b6da5016268f73a10e98ecedb",
+        "originalBytes": 284185,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:20.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340317",
+    "title": "59bd5f3462183000eabef97bf0624750.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340317,
+      "url": "https://www.are.na/block/44340317",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "59bd5f3462183000eabef97bf0624750.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:20Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "59bd5f3462183000eabef97bf0624750.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Ornate Theatre",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2b03dc933845d9cf51b744dfc8b28a4dc5b97a0d7c4548e863bcd0689f7e3cd8"
+  }
+}

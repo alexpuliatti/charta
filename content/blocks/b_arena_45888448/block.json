@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888448",
+  "type": "image",
+  "title": "Strategy Index",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "strategy-index",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-604e28823ae0362836298ae3.png",
+      "mimeType": "image/png",
+      "alt": "Strategy Index",
+      "role": "original",
+      "bytes": 536634,
+      "sha256": "604e28823ae0362836298ae3852236eeb06a2a10a90a5794d466cc58378f7b9c",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888448/original_742b6ddcfc488b3aa1d1e476c7eae30a.png",
+      "originalName": "742b6ddcfc488b3aa1d1e476c7eae30a.png"
+    },
+    {
+      "path": "assets/thumbnail-e640fb75727c1d0e525725f9.webp",
+      "mimeType": "image/webp",
+      "alt": "Strategy Index",
+      "role": "thumbnail",
+      "bytes": 9792,
+      "sha256": "e640fb75727c1d0e525725f9ecf7296a844617b5aff22b0aab296bb2277d0db2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODQ0OC9vcmlnaW5hbF83NDJiNmRkY2ZjNDg4YjNhYTFkMWU0NzZjN2VhZTMwYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "742b6ddcfc488b3aa1d1e476c7eae30a.png"
+    },
+    {
+      "path": "assets/display-web-original-604e28823ae0362836298ae3-604e28823a.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Strategy Index",
+      "bytes": 162220,
+      "sha256": "9b6215157bf69be53475c98ca98dd123fee68e2dc889187583b304f78203e6a2",
+      "width": 2000,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-604e28823ae0362836298ae3.png",
+        "sourceSha256": "604e28823ae0362836298ae3852236eeb06a2a10a90a5794d466cc58378f7b9c",
+        "originalBytes": 536634,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:17:09.000Z",
+  "updatedAt": "2026-05-06T12:17:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888448",
+    "title": "original_69d418480ad05777844f0c2e1c3fb53e.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888448,
+      "url": "https://www.are.na/block/45888448",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "original_69d418480ad05777844f0c2e1c3fb53e.png",
+      "createdAt": "2026-05-06T12:17:09Z",
+      "updatedAt": "2026-05-06T12:17:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "original_69d418480ad05777844f0c2e1c3fb53e.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Strategy Index",
+    "text": "M. Colangelo\nStrategies\nEssays\nServices\nContact\nStrategies\nClient\nGoogle Chrome\nGoogle Chromebook\nMajor League Soccer\nGuild Education\nReaktor\nAWS\nTia\nSeattle Sounders FC\nIsolation Proof Gin\n826NYC\nAmplify\nGalileo\nThe New York Times\nDescription\nReimagining Chrome's visual and verbal identity for a new age of Al-assisted productivity\nElevating a well-known brand from lightweight netbooks to leading edge laptops\nHelping MLS connect with and inspire a new generation of soccer stars\nTranslating a fresh brand identity into a functional and effective website\nTurning a fast-growing Finnish tech consultancy into a global brand\nConcepting new design possibilities for the future of cloud computing\nExpanding a vital women's health resource beyond the millennial set\nReconnecting one of America's oldest soccer clubs to a sense of heritage and place\nRooting an upstate gin distillery in the look and feel of the Catskills\nRe-platforming a literary nonprofit helping children develop writing skills\nDesigning a new learning platform for Amplify's digital curriculum\nCrystallizing a singular brand platform for a modern, hybrid medical practice\nImagining a new front-page ad experience for the digital age\nDate\n2023\n2023\n2023\n2023\n2023\n2022\n2022\n2022\n2022\n2022\n2022\n2021\n2021\nEssays\nRGB\nB&W",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "9b6215157bf69be53475c98ca98dd123fee68e2dc889187583b304f78203e6a2"
+  }
+}

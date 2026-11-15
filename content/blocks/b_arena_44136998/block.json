@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136998",
+  "type": "image",
+  "title": "Mathematics Covers",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "mathematics-covers",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ba450acbdea49c3419bbd290.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Mathematics Covers",
+      "role": "original",
+      "bytes": 434037,
+      "sha256": "ba450acbdea49c3419bbd290fb07346ebb39cf011c43786f53e8c55f56de4460",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136998/original_5e028d8c17c1d3a2c9a94ab19ecebad2.jpg",
+      "originalName": "5e028d8c17c1d3a2c9a94ab19ecebad2.jpg"
+    },
+    {
+      "path": "assets/thumbnail-2f3fd65e70f05e1a281417e1.webp",
+      "mimeType": "image/webp",
+      "alt": "Mathematics Covers",
+      "role": "thumbnail",
+      "bytes": 20246,
+      "sha256": "2f3fd65e70f05e1a281417e15ed5719afaec2c4c2070850babd1679e82508b43",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk5OC9vcmlnaW5hbF81ZTAyOGQ4YzE3YzFkM2EyYzlhOTRhYjE5ZWNlYmFkMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "5e028d8c17c1d3a2c9a94ab19ecebad2.jpg"
+    },
+    {
+      "path": "assets/display-web-original-ba450acbdea49c3419bbd290-ba450acbde.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mathematics Covers",
+      "bytes": 280920,
+      "sha256": "bbaf7119184f5569611974a2f66ac049bfdcac73f46c6571b5e1785fe68ef0df",
+      "width": 1486,
+      "height": 1888,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ba450acbdea49c3419bbd290.jpg",
+        "sourceSha256": "ba450acbdea49c3419bbd290fb07346ebb39cf011c43786f53e8c55f56de4460",
+        "originalBytes": 434037,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:36:52.000Z",
+  "updatedAt": "2026-03-04T15:37:01.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136998",
+    "title": "hbsgycnbsaazyof.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136998,
+      "url": "https://www.are.na/block/44136998",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hbsgycnbsaazyof.jpeg",
+      "createdAt": "2026-03-04T15:36:52Z",
+      "updatedAt": "2026-03-04T15:37:01Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hbsgycnbsaazyof.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mathematics Covers",
+    "text": "LINEAR ALGEBRA\nGEORGI E. SHILOV\nRevised tryisa colton Wransated & colted by Michard A. Silvermar\nBert Mendelson\nINTRODUCTION TO\nTOPOLOGY\nThird Edition\nPartial\nDifferential\n+ Equations\nAn Introduction\nDavid Colton\nIntroduction to\nPartial Differential\nEquations with\nApplications\nE.C. Zachmanoglou\nand Dale W. Thoe\nAN INTRODUCTION TO\nLINEAR ALGEBRA\n& TENSORS\nMA. Akivis\nVV. Gotherg\nu= Ax\nRevised English Edition\nTranslated & Edited by Richard A. Siverman\nCONCEPTS\nOF MODERN\nMATHEMATICS\nlan Stewart\nPartial Differential Equations\nof Mathematical Physics\nand Integral Equations\nRonald B. Guenther and John W. Lee\nIntroduction to\nPartial Differential\nEquations and\nHilbert Space\nMethods\nThird Edition, Revised\nKarl E. Gustafson\nUnmerity of Colorada, Boulder\nAN\nINTRODUCTION\nTO\nALGEBRAIC\nSTRUCTURES\nJoseph Landin\nAn Introduction to\nLebesgue\nIntegration and\nFourier Series\nHoward J. Wilcox\nand David L. Myers\nThomas L. Saaty\nMODERN\nNONLINEAR\nEQUATIONS\nINTRODUGTION\nTO MONLINEAR\nDIFFERENTIAL\nAND INTEGRAL\nEQUATIONS\nHAROLD T. DAVIS\nELEMENTS OF\nABSTRACT\nALGEBRA\nALLAN CLARK\nFOURIER SERIES\nAND\nORTHOGONAL\nFUNCTIONS\nHarry F. Davis\nLECTURES ON\nPARTIAL\nDIFFERENTIAL\nEQUATIONS\nI.G. Petrovsky\nSamuel Goldberg\nINTRODUCTION TO\nDIFFERENCE\nEQUATIONS\nWith Illustrative Examples from\nEconomics, Psychology.\nand Sociology\nJ.N.Crossley and others\nWhat is\nmathematical logic?\nA.H. Zemanian\nDISTRIBUTION\nTHEORY AND\nTRANSFORM\nANALYSIS\nAn Introduction to\ncanereized huntions\nwith Applications\nAn Introduction to\nOrdinary\nDifferential\nEquations\nEARL A. CODDINGTON\nA FIRST COURSE IN\nPARTIAL\nDIFFERENTIAL EQUATIONS\nWITH COMPLEX VARIABLES\nAND TRANSFORM METHODS\nH.F.Weinberger",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "bbaf7119184f5569611974a2f66ac049bfdcac73f46c6571b5e1785fe68ef0df"
+  }
+}

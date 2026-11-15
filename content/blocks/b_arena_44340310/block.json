@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44340310",
+  "type": "image",
+  "title": "Orange Transit",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "orange-transit",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-46b6e135314e83dcea454a32.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Orange Transit",
+      "role": "original",
+      "bytes": 51788,
+      "sha256": "46b6e135314e83dcea454a322f8d205a13e325d0c98689a169097a20820d26fb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44340310/original_3ceefad595390f785c33f5887285f205.jpg",
+      "originalName": "3ceefad595390f785c33f5887285f205.jpg"
+    },
+    {
+      "path": "assets/thumbnail-b99ac5013b18d539e372b3a5.webp",
+      "mimeType": "image/webp",
+      "alt": "Orange Transit",
+      "role": "thumbnail",
+      "bytes": 11006,
+      "sha256": "b99ac5013b18d539e372b3a563e39e7bf840f4d91dd4d458252b0d76bd93a316",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM0MDMxMC9vcmlnaW5hbF8zY2VlZmFkNTk1MzkwZjc4NWMzM2Y1ODg3Mjg1ZjIwNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "3ceefad595390f785c33f5887285f205.jpg"
+    },
+    {
+      "path": "assets/display-web-original-46b6e135314e83dcea454a32-46b6e13531.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Orange Transit",
+      "bytes": 38374,
+      "sha256": "7ac647e08f58171c2d42728e1114d4324bb378e7c1877e1b05532dc87363211a",
+      "width": 735,
+      "height": 443,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-46b6e135314e83dcea454a32.jpg",
+        "sourceSha256": "46b6e135314e83dcea454a322f8d205a13e325d0c98689a169097a20820d26fb",
+        "originalBytes": 51788,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-11T17:42:09.000Z",
+  "updatedAt": "2026-03-11T17:42:15.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44340310",
+    "title": "a935562a226df955631b748215a81cb4.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44340310,
+      "url": "https://www.are.na/block/44340310",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "a935562a226df955631b748215a81cb4.jpg",
+      "createdAt": "2026-03-11T17:42:09Z",
+      "updatedAt": "2026-03-11T17:42:15Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "a935562a226df955631b748215a81cb4.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Orange Transit",
+    "text": "SORTIE\nORTIE",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7ac647e08f58171c2d42728e1114d4324bb378e7c1877e1b05532dc87363211a"
+  }
+}

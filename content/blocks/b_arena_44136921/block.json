@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136921",
+  "type": "image",
+  "title": "Computing Relief",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "computing-relief",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3fbe4ba49b817e98b2d5d605.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Computing Relief",
+      "role": "original",
+      "bytes": 845781,
+      "sha256": "3fbe4ba49b817e98b2d5d6054b11357829538f89b05bc4fe32daa935ee737c50",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136921/original_1c3528af718d41195bc05c34acbf8ff9.jpg",
+      "originalName": "1c3528af718d41195bc05c34acbf8ff9.jpg"
+    },
+    {
+      "path": "assets/thumbnail-140611f74437ef1cc32a2bc2.webp",
+      "mimeType": "image/webp",
+      "alt": "Computing Relief",
+      "role": "thumbnail",
+      "bytes": 23754,
+      "sha256": "140611f74437ef1cc32a2bc2751f24385b9a4ac1c46564d84a1093d30034bba9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkyMS9vcmlnaW5hbF8xYzM1MjhhZjcxOGQ0MTE5NWJjMDVjMzRhY2JmOGZmOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "1c3528af718d41195bc05c34acbf8ff9.jpg"
+    },
+    {
+      "path": "assets/display-web-original-3fbe4ba49b817e98b2d5d605-3fbe4ba49b.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Computing Relief",
+      "bytes": 718808,
+      "sha256": "954b4f3c78d7b5ad5dbec9f5f57811904dc87dbe1e152b70b8d5e3bac916128a",
+      "width": 2000,
+      "height": 1506,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-3fbe4ba49b817e98b2d5d605.jpg",
+        "sourceSha256": "3fbe4ba49b817e98b2d5d6054b11357829538f89b05bc4fe32daa935ee737c50",
+        "originalBytes": 845781,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:34:55.000Z",
+  "updatedAt": "2026-03-04T15:34:59.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136921",
+    "title": "hb4v6clwkaa0e4h.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136921,
+      "url": "https://www.are.na/block/44136921",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hb4v6clwkaa0e4h.jpeg",
+      "createdAt": "2026-03-04T15:34:55Z",
+      "updatedAt": "2026-03-04T15:34:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hb4v6clwkaa0e4h.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Computing Relief",
+    "text": "OZINO\nA1X\n10\nSO\n19\n16",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "954b4f3c78d7b5ad5dbec9f5f57811904dc87dbe1e152b70b8d5e3bac916128a"
+  }
+}

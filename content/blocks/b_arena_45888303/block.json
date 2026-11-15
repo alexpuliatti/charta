@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45888303",
+  "type": "image",
+  "title": "Quiet Apartment",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "quiet-apartment",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-9eea0a9e92ad15151ea62b2d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Quiet Apartment",
+      "role": "original",
+      "bytes": 83857,
+      "sha256": "9eea0a9e92ad15151ea62b2de9d7ad4654f47375a51439a67804b0e5dce692c0",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45888303/original_fec18526cf6ae95195d630534817a649.jpeg",
+      "originalName": "fec18526cf6ae95195d630534817a649.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d0c58223eb5ff64eb822288d.webp",
+      "mimeType": "image/webp",
+      "alt": "Quiet Apartment",
+      "role": "thumbnail",
+      "bytes": 6246,
+      "sha256": "d0c58223eb5ff64eb822288d66ad7dbfa58893e325271db76740ef28205fb345",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4ODMwMy9vcmlnaW5hbF9mZWMxODUyNmNmNmFlOTUxOTVkNjMwNTM0ODE3YTY0OS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "fec18526cf6ae95195d630534817a649.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-9eea0a9e92ad15151ea62b2d-9eea0a9e92.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Quiet Apartment",
+      "bytes": 58500,
+      "sha256": "812a28fb34bd1658f128f45cbb7f8b93181c3fc26221bc7050b88bcc28b60067",
+      "width": 1440,
+      "height": 960,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-9eea0a9e92ad15151ea62b2d.jpg",
+        "sourceSha256": "9eea0a9e92ad15151ea62b2de9d7ad4654f47375a51439a67804b0e5dce692c0",
+        "originalBytes": 83857,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:12:22.000Z",
+  "updatedAt": "2026-05-06T12:12:28.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45888303",
+    "title": "01-studio.arme-747641123-20260426_074723.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45888303,
+      "url": "https://www.are.na/block/45888303",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "01-studio.arme-747641123-20260426_074723.jpg",
+      "createdAt": "2026-05-06T12:12:22Z",
+      "updatedAt": "2026-05-06T12:12:28Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "01-studio.arme-747641123-20260426_074723.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Quiet Apartment",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "812a28fb34bd1658f128f45cbb7f8b93181c3fc26221bc7050b88bcc28b60067"
+  }
+}

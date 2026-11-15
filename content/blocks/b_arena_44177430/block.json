@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44177430",
+  "type": "image",
+  "title": "Technical Sunglasses",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "technical-sunglasses",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-dec6f291a5e82f6b3797e74c.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Technical Sunglasses",
+      "role": "original",
+      "bytes": 349463,
+      "sha256": "dec6f291a5e82f6b3797e74c2c7ca60b73e81b47cd109b1000e68fd576e68cdf",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44177430/original_51d5ff7f9117f5f9a89444007d182680.jpg",
+      "originalName": "51d5ff7f9117f5f9a89444007d182680.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8520db95210999bf138f0d35.webp",
+      "mimeType": "image/webp",
+      "alt": "Technical Sunglasses",
+      "role": "thumbnail",
+      "bytes": 23434,
+      "sha256": "8520db95210999bf138f0d350c932ab71236c6a03c0c09e6c5633bfa45ab4bc1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDE3NzQzMC9vcmlnaW5hbF81MWQ1ZmY3ZjkxMTdmNWY5YTg5NDQ0MDA3ZDE4MjY4MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "51d5ff7f9117f5f9a89444007d182680.jpg"
+    },
+    {
+      "path": "assets/display-web-original-dec6f291a5e82f6b3797e74c-dec6f291a5.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Technical Sunglasses",
+      "bytes": 251886,
+      "sha256": "ff158619de8e519e9731af20d6d119ae0dba972f8f9ba3b070a081c44e3dab84",
+      "width": 1700,
+      "height": 1152,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-dec6f291a5e82f6b3797e74c.jpg",
+        "sourceSha256": "dec6f291a5e82f6b3797e74c2c7ca60b73e81b47cd109b1000e68fd576e68cdf",
+        "originalBytes": 349463,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-05T19:51:51.000Z",
+  "updatedAt": "2026-03-05T19:51:54.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44177430",
+    "title": "2.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44177430,
+      "url": "https://www.are.na/block/44177430",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "2.jpg",
+      "createdAt": "2026-03-05T19:51:51Z",
+      "updatedAt": "2026-03-05T19:51:54Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Technical Sunglasses",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ff158619de8e519e9731af20d6d119ae0dba972f8f9ba3b070a081c44e3dab84"
+  }
+}

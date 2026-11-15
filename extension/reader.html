@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#121212">
+  <meta name="referrer" content="no-referrer">
+  <link rel="icon" type="image/png" href="assets/charta-32.png">
+  <title>Reader · Charta</title>
+  <link rel="stylesheet" href="reader.css">
+  <link rel="stylesheet" href="menus.css">
+  <script src="menu-input.js" defer></script>
+</head>
+<body>
+  <header class="app-header">
+    <a class="wordmark" id="settings-home" href="popup.html" target="_blank" rel="noopener" aria-label="Charta extension settings"><img class="brand-mark" src="assets/charta.svg" alt=""></a>
+    <span class="header-label">Reader</span>
+    <div class="header-actions">
+      <button id="download" class="quiet" type="button" disabled>Download .md</button>
+      <button id="save" class="primary" type="submit" form="save-form" disabled>Save to Charta <span aria-hidden="true">↗</span></button>
+    </div>
+  </header>
+
+  <main id="reader" aria-busy="true">
+    <section id="empty" class="empty-state" aria-labelledby="empty-title">
+      <h1 id="empty-title">Opening your capture…</h1>
+      <p id="empty-message" hidden></p>
+      <a id="empty-settings" href="popup.html" target="_blank" rel="noopener" hidden>Open Charta extension settings ↗</a>
+    </section>
+
+    <div id="workspace" class="workspace" hidden>
+      <section class="reading-pane" aria-label="Captured article">
+        <div class="view-toolbar">
+          <div class="tabs" role="tablist" aria-label="Article view">
+            <button id="read-tab" class="tab" type="button" role="tab" aria-selected="true" aria-controls="read-panel">Read</button>
+            <button id="markdown-tab" class="tab" type="button" role="tab" aria-selected="false" aria-controls="markdown-panel" tabindex="-1">Markdown</button>
+          </div>
+          <button id="details-toggle" class="quiet" type="button" aria-expanded="true" aria-controls="metadata">Details <span aria-hidden="true">↔</span></button>
+        </div>
+
+        <div id="capture-warning" class="notice" role="note" hidden></div>
+        <div class="article-heading">
+          <p id="capture-kind" class="eyebrow"></p>
+          <h1 id="article-title"></h1>
+          <p id="byline" class="byline"></p>
+          <a id="source" class="source" target="_blank" rel="noopener noreferrer"></a>
+        </div>
+
+        <div id="read-panel" class="view-panel" role="tabpanel" aria-labelledby="read-tab" tabindex="0">
+          <article id="article-body" class="prose"></article>
+        </div>
+        <div id="markdown-panel" class="view-panel" role="tabpanel" aria-labelledby="markdown-tab" hidden>
+          <label class="sr-only" for="body">Article Markdown</label>
+          <textarea id="body" class="markdown-editor" spellcheck="false" aria-describedby="markdown-help"></textarea>
+          <p id="markdown-help" class="hint">Images remain linked to the source.</p>
+        </div>
+      </section>
+
+      <aside id="metadata" class="metadata" aria-label="Archive details">
+        <button id="details-close" class="quiet" type="button" aria-label="Close archive details">Close ×</button>
+        <form id="save-form">
+          <div class="aside-heading"><h2>Save</h2></div>
+          <p id="connection" class="connection" hidden><span id="connection-message">Connect GitHub to save.</span> <a id="settings" href="popup.html" target="_blank" rel="noopener">Settings ↗</a></p>
+          <label for="title">Title</label>
+          <input id="title" name="title" maxlength="500" required>
+          <label for="category">Category</label>
+          <input id="category" name="category" maxlength="80" required placeholder="e.g. Design">
+          <label for="tags">Tags</label>
+          <input id="tags" name="tags" required placeholder="e.g. web, reading, tools" aria-describedby="tags-help">
+          <p id="tags-help" class="hint">Separate tags with commas.</p>
+          <label for="note">Your note <span class="optional">optional</span></label>
+          <textarea id="note" name="note" rows="3"></textarea>
+          <label for="collections">Save in</label>
+          <input id="collection-search" type="search" placeholder="Find a collection…" aria-label="Find a collection" autocomplete="off">
+          <select id="collections" name="collection" size="5" aria-describedby="collections-help"></select>
+          <p id="collections-help" class="hint" hidden></p>
+          <p id="draft-status" class="draft-status" role="status"></p>
+          <p id="status" class="status" role="status" aria-live="polite"></p>
+          <a id="commit-link" class="commit-link" target="_blank" rel="noopener noreferrer" hidden>View saved material on GitHub ↗</a>
+          <div class="aside-footer">
+            <button id="refresh" class="quiet" type="button">Reload page content ↻</button>
+            <div id="thread-actions" hidden>
+              <button id="load-more" class="quiet" type="button">Load more posts ↧</button>
+              <p class="hint">Scrolls the source page. Check for missing posts.</p>
+            </div>
+          </div>
+        </form>
+      </aside>
+    </div>
+  </main>
+  <noscript>This reader needs JavaScript enabled in the extension.</noscript>
+  <script src="vendor/marked.umd.js"></script>
+  <script src="vendor/purify.min.js"></script>
+  <script type="module" src="reader.js"></script>
+</body>
+</html>

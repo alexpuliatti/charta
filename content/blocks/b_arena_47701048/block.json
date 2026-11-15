@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701048",
+  "type": "image",
+  "title": "Target Binding",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "target-binding",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-c9e33c6c5128eaa6ccb3e167.png",
+      "mimeType": "image/png",
+      "alt": "Target Binding",
+      "role": "original",
+      "bytes": 1602145,
+      "sha256": "c9e33c6c5128eaa6ccb3e1678eb5aefb24dfa1acc4c541629c79218eeb122207",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701048/original_6dca8fe346a034982d9816d62165be02.png",
+      "originalName": "6dca8fe346a034982d9816d62165be02.png"
+    },
+    {
+      "path": "assets/thumbnail-09b8a69793a85bcbaf988287.webp",
+      "mimeType": "image/webp",
+      "alt": "Target Binding",
+      "role": "thumbnail",
+      "bytes": 6858,
+      "sha256": "09b8a69793a85bcbaf9882873f1a48d95e1720de33b018c38fae77a2443b8bf7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0OC9vcmlnaW5hbF82ZGNhOGZlMzQ2YTAzNDk4MmQ5ODE2ZDYyMTY1YmUwMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6dca8fe346a034982d9816d62165be02.png"
+    },
+    {
+      "path": "assets/display-web-original-c9e33c6c5128eaa6ccb3e167-c9e33c6c51.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Target Binding",
+      "bytes": 181710,
+      "sha256": "cca2e2363cd830614c84083acd37ac534855345bde551b23791aebac56a696f0",
+      "width": 1176,
+      "height": 1212,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-c9e33c6c5128eaa6ccb3e167.png",
+        "sourceSha256": "c9e33c6c5128eaa6ccb3e1678eb5aefb24dfa1acc4c541629c79218eeb122207",
+        "originalBytes": 1602145,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:40.000Z",
+  "updatedAt": "2026-07-08T14:56:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701048",
+    "title": "Screenshot 2023-09-12 alle 17.05.47",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701048,
+      "url": "https://www.are.na/block/47701048",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.05.47",
+      "createdAt": "2026-07-08T14:56:40Z",
+      "updatedAt": "2026-07-08T14:56:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.05.47",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Target Binding",
+    "text": "MOVING\nARGET\nTHI MOYING TARGET\nlodonald\n0011",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cca2e2363cd830614c84083acd37ac534855345bde551b23791aebac56a696f0"
+  }
+}

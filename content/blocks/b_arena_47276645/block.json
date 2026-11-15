@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47276645",
+  "type": "link",
+  "title": "Convergent Research",
+  "description": "A mission control for frontier technology",
+  "category": "Companies",
+  "tags": [
+    "focused-research-organizations",
+    "science",
+    "public-goods"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-817f90dd287a7e01d057bb9c.webp",
+      "mimeType": "image/webp",
+      "alt": "Convergent Research",
+      "role": "thumbnail",
+      "bytes": 5090,
+      "sha256": "817f90dd287a7e01d057bb9c6635cf3157087c96696e3aa64e20132d1640b640",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzI3NjY0NS9vcmlnaW5hbF80NDRmNjdiNTRhZWIwNzY3NzdlYzYzYjdmNDM0OTkxOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "444f67b54aeb076777ec63b7f4349919.png"
+    },
+    {
+      "path": "assets/preview-4853e6bcba1955294e4ea3a8.webp",
+      "mimeType": "image/webp",
+      "alt": "Convergent Research",
+      "role": "preview",
+      "bytes": 43466,
+      "sha256": "4853e6bcba1955294e4ea3a8df64a37443d77e8bb2e7f8cc029472a0b824c269",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47276645/original_444f67b54aeb076777ec63b7f4349919.png",
+      "originalName": "444f67b54aeb076777ec63b7f4349919.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 145480,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-06-24T15:09:31.000Z",
+  "updatedAt": "2026-06-24T15:09:37.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject. Company or organization landing page; not classified as an article."
+  },
+  "source": {
+    "url": "https://www.convergentresearch.org/",
+    "title": "Convergent Research",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47276645,
+      "url": "https://www.are.na/block/47276645",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Convergent Research",
+      "createdAt": "2026-06-24T15:09:31Z",
+      "updatedAt": "2026-06-24T15:09:37Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Companies",
+    "subsection": "Nonprofits",
+    "genre": "company",
+    "confidence": 0.96,
+    "needsSourceReview": false,
+    "evidence": [
+      {
+        "url": "https://www.convergentresearch.org/about",
+        "finding": "Official About page explicitly identifies Convergent Research as a non-profit established to operate Focused Research Organizations."
+      }
+    ],
+    "original": {
+      "title": "Convergent Research",
+      "category": "Digital design",
+      "tags": [
+        "research",
+        "interfaces",
+        "interaction-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

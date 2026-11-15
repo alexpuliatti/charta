@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40761688",
+  "type": "link",
+  "title": "Reading Decline",
+  "description": "Technology changes us-and it is currently changing us for the worse.",
+  "category": "Writing",
+  "tags": [
+    "reading",
+    "technology",
+    "culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-27ae419d6401f274358cdc44.webp",
+      "mimeType": "image/webp",
+      "alt": "We Used to Read Things in This Country | Noah McCormack",
+      "role": "thumbnail",
+      "bytes": 10188,
+      "sha256": "27ae419d6401f274358cdc44eaa32bc9f18b218c18511801236b6df6e1873d37",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc2MTY4OC9vcmlnaW5hbF9hNWQ0NWE3NzBkZGZkNTgwNTlkOGU5NzQzMzU4ZDllZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a5d45a770ddfd58059d8e9743358d9ee.png"
+    },
+    {
+      "path": "assets/preview-7399e867e3e8d1aa2fcb1534.webp",
+      "mimeType": "image/webp",
+      "alt": "We Used to Read Things in This Country | Noah McCormack",
+      "role": "preview",
+      "bytes": 91896,
+      "sha256": "7399e867e3e8d1aa2fcb1534a444bcf458a3c52a7eac51282e217085faf85d3f",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40761688/original_a5d45a770ddfd58059d8e9743358d9ee.png",
+      "originalName": "a5d45a770ddfd58059d8e9743358d9ee.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 560441,
+        "width": 1280,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-10-31T21:16:30.000Z",
+  "updatedAt": "2025-10-31T21:16:58.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://thebaffler.com/salvos/we-used-to-read-things-in-this-country-mccormack",
+    "title": "We Used to Read Things in This Country | Noah McCormack",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40761688,
+      "url": "https://www.are.na/block/40761688",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "We Used to Read Things in This Country | Noah McCormack",
+      "createdAt": "2025-10-31T21:16:30Z",
+      "updatedAt": "2025-10-31T21:16:58Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Culture",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "We Used to Read Things in This Country | Noah McCormack",
+      "category": "Writing and ideas",
+      "tags": [
+        "reading",
+        "essays",
+        "leggi"
+      ],
+      "collectionIds": [
+        "c_arena_4402875"
+      ]
+    }
+  }
+}

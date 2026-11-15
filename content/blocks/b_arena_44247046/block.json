@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44247046",
+  "type": "image",
+  "title": "Royal Sport",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "royal-sport",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-32a5636dbafba40e35cb1296.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Royal Sport",
+      "role": "original",
+      "bytes": 53940,
+      "sha256": "32a5636dbafba40e35cb129683da0b75a6cbfddd05dd76ef76a12d1cc3722d1a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44247046/original_46a6ff5520f39f1d809ec89567278901.jpg",
+      "originalName": "46a6ff5520f39f1d809ec89567278901.jpg"
+    },
+    {
+      "path": "assets/thumbnail-139983daa2337df4e21a31bc.webp",
+      "mimeType": "image/webp",
+      "alt": "Royal Sport",
+      "role": "thumbnail",
+      "bytes": 5882,
+      "sha256": "139983daa2337df4e21a31bc6e1268fa52a9d3b974a88eda27b613b11885bef1",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDI0NzA0Ni9vcmlnaW5hbF80NmE2ZmY1NTIwZjM5ZjFkODA5ZWM4OTU2NzI3ODkwMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "46a6ff5520f39f1d809ec89567278901.jpg"
+    },
+    {
+      "path": "assets/display-web-original-32a5636dbafba40e35cb1296-32a5636dba.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Royal Sport",
+      "bytes": 33300,
+      "sha256": "77b7a2be5e47fea6d057bd6614130adc594a67999a3a076cf26061567e0b7bf9",
+      "width": 845,
+      "height": 590,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-32a5636dbafba40e35cb1296.jpg",
+        "sourceSha256": "32a5636dbafba40e35cb129683da0b75a6cbfddd05dd76ef76a12d1cc3722d1a",
+        "originalBytes": 53940,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-08T22:30:15.000Z",
+  "updatedAt": "2026-03-09T11:46:17.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44247046",
+    "title": "ea07b74b41fbbc168668b4b01d917584.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44247046,
+      "url": "https://www.are.na/block/44247046",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ea07b74b41fbbc168668b4b01d917584.jpg",
+      "createdAt": "2026-03-08T22:30:15Z",
+      "updatedAt": "2026-03-09T11:46:17Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ea07b74b41fbbc168668b4b01d917584.jpg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Royal Sport",
+    "text": "Jack London\nA Royal Sport\nAnd that is how it came about that I tackied\nsurf-riding. And now that I have tackled it, more\nthan ever do I hold it to be a royal sport.\n9782919 159178\n19/80 EDITIONS",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "77b7a2be5e47fea6d057bd6614130adc594a67999a3a076cf26061567e0b7bf9"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_43995815",
+  "type": "image",
+  "title": "Forest Living",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "forest-living",
+    "archives",
+    "buildings"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1c2e2a8f7514c849c8bbb08e.png",
+      "mimeType": "image/png",
+      "alt": "Forest Living",
+      "role": "original",
+      "bytes": 1753146,
+      "sha256": "1c2e2a8f7514c849c8bbb08e43abc0f91209b6afd7e167f1db40a60ee4242cef",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/43995815/original_6ac5d5988a882f33d92a3c36230cb6ab.png",
+      "originalName": "6ac5d5988a882f33d92a3c36230cb6ab.png"
+    },
+    {
+      "path": "assets/thumbnail-ac83452ffd49cde3d7ced07f.webp",
+      "mimeType": "image/webp",
+      "alt": "Forest Living",
+      "role": "thumbnail",
+      "bytes": 19552,
+      "sha256": "ac83452ffd49cde3d7ced07f02e99c7f75e0b418241e71983e08ae41a0209a31",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Mzk5NTgxNS9vcmlnaW5hbF82YWM1ZDU5ODhhODgyZjMzZDkyYTNjMzYyMzBjYjZhYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6ac5d5988a882f33d92a3c36230cb6ab.png"
+    },
+    {
+      "path": "assets/display-web-original-1c2e2a8f7514c849c8bbb08e-1c2e2a8f75.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Forest Living",
+      "bytes": 200342,
+      "sha256": "cbd9addeff134535787eb4c0c2c211146c821939d174d5ace1b02dc022cbb323",
+      "width": 1080,
+      "height": 1350,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1c2e2a8f7514c849c8bbb08e.png",
+        "sourceSha256": "1c2e2a8f7514c849c8bbb08e43abc0f91209b6afd7e167f1db40a60ee4242cef",
+        "originalBytes": 1753146,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-02-28T12:00:39.000Z",
+  "updatedAt": "2026-02-28T12:00:47.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/43995815",
+    "title": "image.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 43995815,
+      "url": "https://www.are.na/block/43995815",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "image.png",
+      "createdAt": "2026-02-28T12:00:39Z",
+      "updatedAt": "2026-02-28T12:00:47Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "image.png",
+      "category": "Architecture",
+      "tags": [
+        "architecture",
+        "archives",
+        "buildings",
+        "arch"
+      ],
+      "collectionIds": [
+        "c_arena_4879085"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Forest Living",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "cbd9addeff134535787eb4c0c2c211146c821939d174d5ace1b02dc022cbb323"
+  }
+}

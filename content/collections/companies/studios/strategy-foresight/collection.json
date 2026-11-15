@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "c_curated_companies_studios_strategy_foresight",
+  "title": "Strategy & foresight",
+  "description": "",
+  "order": 3,
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_arena_41199663"
+    }
+  ],
+  "source": {
+    "type": "company-sector-curation",
+    "version": "company-sectors-v1"
+  }
+}

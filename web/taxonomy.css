@@ -1,0 +1,98 @@
+.taxonomy-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+  margin-top: 12px;
+}
+.category-chip, .tag-chip {
+  max-width: 100%;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 4px 6px;
+  background:var(--surface);
+  color:var(--muted);
+  font-size: 10px;
+  line-height: 1.4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.tag-chip {
+  color:var(--muted);
+  background: transparent;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.tag-more { color:var(--muted); }
+.taxonomy-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-basis: 100%;
+  gap: 12px;
+  padding: 13px 0 15px;
+  border-top: 1px solid var(--line);
+}
+.taxonomy-filter-row label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color:var(--muted);
+  font-size: 11px;
+}
+.taxonomy-filter-row .filter-select {
+  max-width: 170px;
+  color:var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 6px 8px;
+  background:var(--surface);
+}
+.taxonomy-result-count { font-size: 10px; color:var(--muted); }
+.text-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 0;
+  border: 0;
+  background: transparent;
+  color: var(--green);
+  font-size: 11px;
+}
+.text-button svg { width: 14px; height: 14px; }
+.taxonomy-network-link { margin-left: auto; }
+.detail-network-link { margin-top: 12px; }
+.detail-section .taxonomy-chips { margin-top: 0; }
+.detail-section .category-chip, .detail-section .tag-chip { font-size: 11px; }
+.relationship-picker { margin: 0 0 20px; color:var(--muted); font-size: 11px; }
+.relationship-picker summary { cursor: pointer; line-height: 1.7; }
+.relationship-picker .form-hint { margin: 9px 0; }
+.relationship-picker .checkbox-list { max-height: 180px; }
+.relationship-picker .checkbox-row { font-size: 11px; }
+.related-search {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 8px 10px;
+  background:var(--surface);
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+.materials-list .taxonomy-chips { max-width: 230px; margin: 0 15px; flex: 0 0 220px; }
+@media (hover: hover) and (pointer: fine) {
+  .category-chip:hover, .tag-chip:hover { background:var(--surface); color:var(--muted); }
+  .text-button:hover { text-decoration: underline; }
+}
+@media (max-width: 800px) {
+  .materials-list .taxonomy-chips { flex-basis: 150px; max-width: 170px; }
+  .taxonomy-filter-row { gap: 10px; }
+}
+@media (max-width: 520px) {
+  .taxonomy-chips { gap: 3px; margin-top: 8px; }
+  .category-chip, .tag-chip { font-size: 9px; }
+  .materials-list .taxonomy-chips { display: none; }
+  .taxonomy-filter-row label { flex: 1; font-size: 10px; gap: 6px; }
+  .taxonomy-filter-row .filter-select { width: 100%; max-width: 160px; font-size: 10px; }
+  .taxonomy-network-link { font-size: 10px; }
+}

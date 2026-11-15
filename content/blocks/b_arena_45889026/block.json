@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45889026",
+  "type": "video",
+  "title": "Flower Collage",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "flower-collage",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-41929d1592f093ddefbe8657.mp4",
+      "mimeType": "video/mp4",
+      "alt": "aqpcjkh5sd14bjm95fzfvr8nhp2r7uvawu-uwosrpudzty_ggnup6opzupzxwlhyhg2thoagi4wb5yvbkvdnblys-f7xgighmql5uac.mp4",
+      "role": "original",
+      "bytes": 155522,
+      "sha256": "41929d1592f093ddefbe86579529c0409bb32560966df52c26ccc2b29e163dbb",
+      "sourceUrl": "https://attachments.are.na/45889026/be3f8086aa5330bfbc2017c46c850e7b.mp4",
+      "originalName": "be3f8086aa5330bfbc2017c46c850e7b.mp4"
+    },
+    {
+      "path": "assets/thumbnail-8c483f835b19b0b69cff622c.webp",
+      "mimeType": "image/webp",
+      "alt": "Flower Collage",
+      "role": "thumbnail",
+      "bytes": 1582,
+      "sha256": "8c483f835b19b0b69cff622c4bb7ccb02e9b156e457250a305c323a2cf2168e7",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg4OTAyNi9vcmlnaW5hbF9jOTZlZGIyZGIzMDgxYmUyMjAyNjA1MDYtMi15aXg1dmwucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "c96edb2db3081be220260506-2-yix5vl.png"
+    },
+    {
+      "path": "assets/display-web-original-41929d1592f093ddefbe8657-41929d1592.mp4",
+      "mimeType": "video/mp4",
+      "role": "optimized",
+      "alt": "aqpcjkh5sd14bjm95fzfvr8nhp2r7uvawu-uwosrpudzty_ggnup6opzupzxwlhyhg2thoagi4wb5yvbkvdnblys-f7xgighmql5uac.mp4",
+      "bytes": 107098,
+      "sha256": "81412f6ce4b05a93f3403a94a66bbfd65e7f9858d52f31fd8244fd9dd214b92f",
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-41929d1592f093ddefbe8657.mp4",
+        "sourceSha256": "41929d1592f093ddefbe86579529c0409bb32560966df52c26ccc2b29e163dbb",
+        "originalBytes": 155522,
+        "settings": {
+          "format": "mp4",
+          "videoCodec": "h264",
+          "audioCodec": "aac",
+          "maxLongEdge": 1280,
+          "maxFps": 30,
+          "crf": 25,
+          "preset": "medium",
+          "threads": 2,
+          "fastStart": true
+        }
+      }
+    },
+    {
+      "path": "assets/preview-11462838170d178e62e702dc.webp",
+      "mimeType": "image/webp",
+      "alt": "aqpcjkh5sd14bjm95fzfvr8nhp2r7uvawu-uwosrpudzty_ggnup6opzupzxwlhyhg2thoagi4wb5yvbkvdnblys-f7xgighmql5uac.mp4",
+      "role": "preview",
+      "bytes": 12904,
+      "sha256": "11462838170d178e62e702dce5816d3730c4fa88a8d296a4ec207db801db7bf6",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45889026/original_c96edb2db3081be220260506-2-yix5vl.png",
+      "originalName": "c96edb2db3081be220260506-2-yix5vl.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 83598,
+        "width": 720,
+        "height": 1280,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T12:38:49.000Z",
+  "updatedAt": "2026-05-06T12:38:52.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in the saved representative video preview; no full-video or transcript claim."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45889026",
+    "title": "aqpcjkh5sd14bjm95fzfvr8nhp2r7uvawu-uwosrpudzty_ggnup6opzupzxwlhyhg2thoagi4wb5yvbkvdnblys-f7xgighmql5uac.mp4",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45889026,
+      "url": "https://www.are.na/block/45889026",
+      "type": "Attachment",
+      "visibility": "public",
+      "originalTitle": "aqpcjkh5sd14bjm95fzfvr8nhp2r7uvawu-uwosrpudzty_ggnup6opzupzxwlhyhg2thoagi4wb5yvbkvdnblys-f7xgighmql5uac.mp4",
+      "createdAt": "2026-05-06T12:38:49Z",
+      "updatedAt": "2026-05-06T12:38:52Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "video",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "aqpcjkh5sd14bjm95fzfvr8nhp2r7uvawu-uwosrpudzty_ggnup6opzupzxwlhyhg2thoagi4wb5yvbkvdnblys-f7xgighmql5uac.mp4",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Flower Collage",
+    "text": "",
+    "method": "visual-review",
+    "scope": "representative-frame",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "8c483f835b19b0b69cff622c4bb7ccb02e9b156e457250a305c323a2cf2168e7"
+  }
+}

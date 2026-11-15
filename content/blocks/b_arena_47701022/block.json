@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701022",
+  "type": "image",
+  "title": "Mask Dimitrios",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "mask-dimitrios",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-1a2749101962911309b2395c.png",
+      "mimeType": "image/png",
+      "alt": "Mask Dimitrios",
+      "role": "original",
+      "bytes": 1120610,
+      "sha256": "1a2749101962911309b2395c69c803ac11cb0cd718f47007c235212cad51363b",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701022/original_06bd1452683935f74460555d9d93b666.png",
+      "originalName": "06bd1452683935f74460555d9d93b666.png"
+    },
+    {
+      "path": "assets/thumbnail-0462cd07c64b9fadf5243665.webp",
+      "mimeType": "image/webp",
+      "alt": "Mask Dimitrios",
+      "role": "thumbnail",
+      "bytes": 9058,
+      "sha256": "0462cd07c64b9fadf524366572c86484f3c88ca58e9c00f0d93e81aa1f3318e3",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTAyMi9vcmlnaW5hbF8wNmJkMTQ1MjY4MzkzNWY3NDQ2MDU1NWQ5ZDkzYjY2Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "06bd1452683935f74460555d9d93b666.png"
+    },
+    {
+      "path": "assets/display-web-original-1a2749101962911309b2395c-1a27491019.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mask Dimitrios",
+      "bytes": 57830,
+      "sha256": "f727acd2a53ae22a6a4bee45f06f2ef07dbc7903c01e44e172b07d1abc8194ad",
+      "width": 990,
+      "height": 1200,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-1a2749101962911309b2395c.png",
+        "sourceSha256": "1a2749101962911309b2395c69c803ac11cb0cd718f47007c235212cad51363b",
+        "originalBytes": 1120610,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:17.000Z",
+  "updatedAt": "2026-10-29T17:49:02.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701022",
+    "title": "Screenshot 2023-09-12 alle 17.03.38",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701022,
+      "url": "https://www.are.na/block/47701022",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.03.38",
+      "createdAt": "2026-07-08T14:56:17Z",
+      "updatedAt": "2026-10-29T17:49:02Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.03.38",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mask Dimitrios",
+    "text": "THE\nMASK\nOF\nThe mask of\nMITRIOS,\nDimitros\nERIC\nAMBLER\nHODDER &\nTOUGHTON\nERIC AMBLER",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f727acd2a53ae22a6a4bee45f06f2ef07dbc7903c01e44e172b07d1abc8194ad"
+  }
+}

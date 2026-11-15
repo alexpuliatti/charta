@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787846",
+  "type": "image",
+  "title": "Mountain Bedroom",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "mountain-bedroom",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-43a8c816843b5d1eb5b13f12.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Mountain Bedroom",
+      "role": "original",
+      "bytes": 158541,
+      "sha256": "43a8c816843b5d1eb5b13f12022271d824b9b74c20a52f2d7652caeb73da9845",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787846/original_2c1b05bad5c523fc7d42aee5592a0427.jpg",
+      "originalName": "2c1b05bad5c523fc7d42aee5592a0427.jpg"
+    },
+    {
+      "path": "assets/thumbnail-971179eb2b04236aee8207e7.webp",
+      "mimeType": "image/webp",
+      "alt": "Mountain Bedroom",
+      "role": "thumbnail",
+      "bytes": 8754,
+      "sha256": "971179eb2b04236aee8207e7f9fb94c785e90af346e142b247f4d6ece900179c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4Nzg0Ni9vcmlnaW5hbF8yYzFiMDViYWQ1YzUyM2ZjN2Q0MmFlZTU1OTJhMDQyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2c1b05bad5c523fc7d42aee5592a0427.jpg"
+    },
+    {
+      "path": "assets/display-web-original-43a8c816843b5d1eb5b13f12-43a8c81684.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Mountain Bedroom",
+      "bytes": 115710,
+      "sha256": "3ec98d2be77337ba6357954997db7c3e54c2344d540840908b1011099c979f25",
+      "width": 1434,
+      "height": 1744,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-43a8c816843b5d1eb5b13f12.jpg",
+        "sourceSha256": "43a8c816843b5d1eb5b13f12022271d824b9b74c20a52f2d7652caeb73da9845",
+        "originalBytes": 158541,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:00:54.000Z",
+  "updatedAt": "2025-11-02T16:00:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787846",
+    "title": "white__sage-20250102_221515-678733596.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787846,
+      "url": "https://www.are.na/block/40787846",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "white__sage-20250102_221515-678733596.jpg",
+      "createdAt": "2025-11-02T16:00:54Z",
+      "updatedAt": "2025-11-02T16:00:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "white__sage-20250102_221515-678733596.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Mountain Bedroom",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3ec98d2be77337ba6357954997db7c3e54c2344d540840908b1011099c979f25"
+  }
+}

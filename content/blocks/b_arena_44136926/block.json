@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136926",
+  "type": "image",
+  "title": "Circuit Relief",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "circuit-relief",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-648494cebbb0e8f4424c1930.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Circuit Relief",
+      "role": "original",
+      "bytes": 795115,
+      "sha256": "648494cebbb0e8f4424c193024578f627774dc677e4675e8f27e4abfc81c52f9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136926/original_2cee01d76e7390b8c1f77b0a60f336aa.jpg",
+      "originalName": "2cee01d76e7390b8c1f77b0a60f336aa.jpg"
+    },
+    {
+      "path": "assets/thumbnail-d8ef4ffb6557d2b872185d73.webp",
+      "mimeType": "image/webp",
+      "alt": "Circuit Relief",
+      "role": "thumbnail",
+      "bytes": 25638,
+      "sha256": "d8ef4ffb6557d2b872185d7365a389a646e96685e40bd4ed834bf2806da830b4",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjkyNi9vcmlnaW5hbF8yY2VlMDFkNzZlNzM5MGI4YzFmNzdiMGE2MGYzMzZhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "2cee01d76e7390b8c1f77b0a60f336aa.jpg"
+    },
+    {
+      "path": "assets/display-web-original-648494cebbb0e8f4424c1930-648494cebb.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Circuit Relief",
+      "bytes": 585920,
+      "sha256": "92918e551ae0196cdd24d6af5c43480475eacd16982160bcee9559be28f13c2e",
+      "width": 2000,
+      "height": 1506,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-648494cebbb0e8f4424c1930.jpg",
+        "sourceSha256": "648494cebbb0e8f4424c193024578f627774dc677e4675e8f27e4abfc81c52f9",
+        "originalBytes": 795115,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:34:59.000Z",
+  "updatedAt": "2026-03-04T15:35:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136926",
+    "title": "hb4v6dnwmaa85u3.jpeg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136926,
+      "url": "https://www.are.na/block/44136926",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "hb4v6dnwmaa85u3.jpeg",
+      "createdAt": "2026-03-04T15:34:59Z",
+      "updatedAt": "2026-03-04T15:35:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "hb4v6dnwmaa85u3.jpeg",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Circuit Relief",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "92918e551ae0196cdd24d6af5c43480475eacd16982160bcee9559be28f13c2e"
+  }
+}

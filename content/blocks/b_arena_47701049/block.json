@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47701049",
+  "type": "image",
+  "title": "Target Jacket",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "target-jacket",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-8f52518c6f36ed382f63e80d.png",
+      "mimeType": "image/png",
+      "alt": "Target Jacket",
+      "role": "original",
+      "bytes": 3863666,
+      "sha256": "8f52518c6f36ed382f63e80d6bc3cacc7fc73f246bc6083c98d54756306672db",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47701049/original_df4a73722672ef67376dd152cbb51b6e.png",
+      "originalName": "df4a73722672ef67376dd152cbb51b6e.png"
+    },
+    {
+      "path": "assets/thumbnail-123b30295fff9f66548c170f.webp",
+      "mimeType": "image/webp",
+      "alt": "Target Jacket",
+      "role": "thumbnail",
+      "bytes": 10482,
+      "sha256": "123b30295fff9f66548c170f94c2abae6a77c5991319d24939e5ecd761f16b8b",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMTA0OS9vcmlnaW5hbF9kZjRhNzM3MjI2NzJlZjY3Mzc2ZGQxNTJjYmI1MWI2ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "df4a73722672ef67376dd152cbb51b6e.png"
+    },
+    {
+      "path": "assets/display-web-original-8f52518c6f36ed382f63e80d-8f52518c6f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Target Jacket",
+      "bytes": 143894,
+      "sha256": "3d7c50800689627f177d15042444d22adbf64c43564a33fb322b6723ed3167e0",
+      "width": 2000,
+      "height": 905,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-8f52518c6f36ed382f63e80d.png",
+        "sourceSha256": "8f52518c6f36ed382f63e80d6bc3cacc7fc73f246bc6083c98d54756306672db",
+        "originalBytes": 3863666,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:40.000Z",
+  "updatedAt": "2026-07-08T14:56:45.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47701049",
+    "title": "Screenshot 2023-09-12 alle 17.05.56",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47701049,
+      "url": "https://www.are.na/block/47701049",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 17.05.56",
+      "createdAt": "2026-07-08T14:56:40Z",
+      "updatedAt": "2026-07-08T14:56:45Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 17.05.56",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Target Jacket",
+    "text": "THE\nTARGET\na nos\nsuspense\nhotaatara be Dawstaei\nJOHN MACDONALD\nTohn Macdonald\nTHE\nMOVING\nTARGET\nAlfred.A. Knopl\nTHE\nTARGET\nla noy\ne).\nof\nsuspense\nTohn Macdonald\nTHE MOVING TARGET\nThe Sampson family made their money\nin the Texas oil felds and spent it on the\nCalifornia coast. There was still plenty of\nit left when Raiph Sampson disappeared.\nSampson was a slow man with a dollar\nwhen he was sober, but an-casy touch\nwhen he was off on a spree. Which is why\nMrs. Sampson, a paralytie blonde who\nhad bad dreams, called Archer in to find\nhim and his checkbook.\nThe trail that Archer followed took\nhim down through the seven circles of\nCalifornia society, Sampson had mixed\nwith thieves and murderers, a cult of\nphony sun-worshippers, a silent-movie\nstar in the last stages of degradation, al\nboogie pianist who had served her time.\nIn company like that you look for trouble,\nand Archer found plenty of trouble. He\nalso found Sampson. But not before he\nhad seen some plain and fancy evil.\nsolved a series of violent crimes, and\nhanded out some rough poetic justice.\nLew Archer is a new private eye, one\nthat sees deeper than most. He travels\nfaster than most, and with stranger poo-\nple. His story is told in prose as fast and\ncolorful as the events of his first case.\nts APCe nreieu RY BITT ENCIICH",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3d7c50800689627f177d15042444d22adbf64c43564a33fb322b6723ed3167e0"
+  }
+}

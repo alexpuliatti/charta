@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46582931",
+  "type": "image",
+  "title": "Glyph Annotations",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "typography",
+    "glyph-annotations",
+    "interaction-design",
+    "digital-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-e53d7ef1592a75423e3875da.png",
+      "mimeType": "image/png",
+      "alt": "Glyph Annotations",
+      "role": "original",
+      "bytes": 422828,
+      "sha256": "e53d7ef1592a75423e3875da294d91de03408721cd881b9f24f51212462bada9",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46582931/original_7f20b297a1b7029b90dcfd586c11151e.png",
+      "originalName": "7f20b297a1b7029b90dcfd586c11151e.png"
+    },
+    {
+      "path": "assets/thumbnail-72ccf6ce888bf321b4e85c0b.webp",
+      "mimeType": "image/webp",
+      "alt": "Glyph Annotations",
+      "role": "thumbnail",
+      "bytes": 2872,
+      "sha256": "72ccf6ce888bf321b4e85c0b988f33461a6df71aa1aa6654be5376e9d39f0228",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjU4MjkzMS9vcmlnaW5hbF83ZjIwYjI5N2ExYjcwMjliOTBkY2ZkNTg2YzExMTUxZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "7f20b297a1b7029b90dcfd586c11151e.png"
+    },
+    {
+      "path": "assets/display-web-original-e53d7ef1592a75423e3875da-e53d7ef159.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Glyph Annotations",
+      "bytes": 32606,
+      "sha256": "f24f3f30a50afaf37c92919470b9011ba316398fdedf2fb3c81e12b588b983ca",
+      "width": 1928,
+      "height": 1120,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-e53d7ef1592a75423e3875da.png",
+        "sourceSha256": "e53d7ef1592a75423e3875da294d91de03408721cd881b9f24f51212462bada9",
+        "originalBytes": 422828,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-29T08:53:59.000Z",
+  "updatedAt": "2026-05-29T08:54:03.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/46582931",
+    "title": "Screenshot 2026-05-28 alle 18.40.44",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46582931,
+      "url": "https://www.are.na/block/46582931",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2026-05-28 alle 18.40.44",
+      "createdAt": "2026-05-29T08:53:59Z",
+      "updatedAt": "2026-05-29T08:54:03Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Typography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2026-05-28 alle 18.40.44",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Glyph Annotations",
+    "text": "GIF\nFIG.\nX° = X + SIN (4.0) \\\nEDGE PERTURBATION\nRTL →\nX(T) = EASE(T) -100VW\nTRAVERSAL - SEE EASING\nA(R) = EXP(-BANDTIGHT - R'\nGAUSSIAN FALLO\n• • O\nA=1",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "f24f3f30a50afaf37c92919470b9011ba316398fdedf2fb3c81e12b588b983ca"
+  }
+}

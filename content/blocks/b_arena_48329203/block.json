@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_48329203",
+  "type": "image",
+  "title": "Golden Texture",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "golden-texture",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-ad426300c1695a599f498567.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Golden Texture",
+      "role": "original",
+      "bytes": 478919,
+      "sha256": "ad426300c1695a599f498567821203c3b24b41dbc9c0cac7a9f224e3cbc0ee25",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/48329203/original_7794c1c5badc3d81a489939aa825bdfe.jpeg",
+      "originalName": "7794c1c5badc3d81a489939aa825bdfe.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-fa9dedcf2e93c39c076f9c1c.webp",
+      "mimeType": "image/webp",
+      "alt": "Golden Texture",
+      "role": "thumbnail",
+      "bytes": 11362,
+      "sha256": "fa9dedcf2e93c39c076f9c1cecf32606397405c57c1d08a8db87b4c89635e546",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODMyOTIwMy9vcmlnaW5hbF83Nzk0YzFjNWJhZGMzZDgxYTQ4OTkzOWFhODI1YmRmZS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7794c1c5badc3d81a489939aa825bdfe.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-ad426300c1695a599f498567-ad426300c1.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Golden Texture",
+      "bytes": 227350,
+      "sha256": "2f9e08467b1ec941df8152233e1f9b2d55dfe165b738c6cbcc8ba93432c01120",
+      "width": 1086,
+      "height": 1445,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-ad426300c1695a599f498567.jpg",
+        "sourceSha256": "ad426300c1695a599f498567821203c3b24b41dbc9c0cac7a9f224e3cbc0ee25",
+        "originalBytes": 478919,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-29T17:00:10.000Z",
+  "updatedAt": "2026-07-29T17:00:14.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/48329203",
+    "title": "ignacioortegainteriors-3951085007032291772_455320684_12-20260728_100738",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 48329203,
+      "url": "https://www.are.na/block/48329203",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "ignacioortegainteriors-3951085007032291772_455320684_12-20260728_100738",
+      "createdAt": "2026-07-29T17:00:10Z",
+      "updatedAt": "2026-07-29T17:00:14Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "ignacioortegainteriors-3951085007032291772_455320684_12-20260728_100738",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Golden Texture",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "2f9e08467b1ec941df8152233e1f9b2d55dfe165b738c6cbcc8ba93432c01120"
+  }
+}

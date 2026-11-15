@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40787736",
+  "type": "image",
+  "title": "Hanging Monitor",
+  "description": "",
+  "category": "Sound",
+  "tags": [
+    "sound",
+    "speakers",
+    "hanging-monitor",
+    "audio-hardware",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-615fb023994741d3517e9cb2.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Hanging Monitor",
+      "role": "original",
+      "bytes": 88945,
+      "sha256": "615fb023994741d3517e9cb2eeba04ea204a9309acd9194c8b3a34bcd78e0091",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40787736/original_10be6806afd702d1fee3b017c2de2770.jpg",
+      "originalName": "10be6806afd702d1fee3b017c2de2770.jpg"
+    },
+    {
+      "path": "assets/thumbnail-8f3a31d39e71913fb2613beb.webp",
+      "mimeType": "image/webp",
+      "alt": "Hanging Monitor",
+      "role": "thumbnail",
+      "bytes": 7268,
+      "sha256": "8f3a31d39e71913fb2613beb6a2ca8efaef8e72ac2410aa2af6f01181824e450",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4NzczNi9vcmlnaW5hbF8xMGJlNjgwNmFmZDcwMmQxZmVlM2IwMTdjMmRlMjc3MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "10be6806afd702d1fee3b017c2de2770.jpg"
+    },
+    {
+      "path": "assets/display-web-original-615fb023994741d3517e9cb2-615fb02399.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Hanging Monitor",
+      "bytes": 65094,
+      "sha256": "214356648da33349fa0c9d537bf217c272aa9f8cca207703bea6ef5756855c3c",
+      "width": 1440,
+      "height": 1439,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-615fb023994741d3517e9cb2.jpg",
+        "sourceSha256": "615fb023994741d3517e9cb2eeba04ea204a9309acd9194c8b3a34bcd78e0091",
+        "originalBytes": 88945,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T15:56:54.000Z",
+  "updatedAt": "2025-11-02T15:56:56.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40787736",
+    "title": "friendly.pressure-20240710_141657-1816565578.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40787736,
+      "url": "https://www.are.na/block/40787736",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "friendly.pressure-20240710_141657-1816565578.jpg",
+      "createdAt": "2025-11-02T15:56:54Z",
+      "updatedAt": "2025-11-02T15:56:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Speakers",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "friendly.pressure-20240710_141657-1816565578.jpg",
+      "category": "Audio design",
+      "tags": [
+        "audio-hardware",
+        "loudspeakers",
+        "speakers"
+      ],
+      "collectionIds": [
+        "c_arena_4408530"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Hanging Monitor",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "214356648da33349fa0c9d537bf217c272aa9f8cca207703bea6ef5756855c3c"
+  }
+}

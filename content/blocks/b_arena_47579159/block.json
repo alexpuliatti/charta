@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47579159",
+  "type": "image",
+  "title": "Personal Phones",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "photography",
+    "personal-phones",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-6a59f246e835149d48801a44.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Personal Phones",
+      "role": "original",
+      "bytes": 531483,
+      "sha256": "6a59f246e835149d48801a446f18ecc084cbeaa1e8bfd7ea5194aca10614dcc2",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47579159/original_7a1bcfe4ff3d8eb27869e0d0affd08f2.jpeg",
+      "originalName": "7a1bcfe4ff3d8eb27869e0d0affd08f2.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-0a21cc357f32e68ad26e12f2.webp",
+      "mimeType": "image/webp",
+      "alt": "Personal Phones",
+      "role": "thumbnail",
+      "bytes": 8342,
+      "sha256": "0a21cc357f32e68ad26e12f2c50f6f47af195eaa734bcd5c032052fb0e2db38e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzU3OTE1OS9vcmlnaW5hbF83YTFiY2ZlNGZmM2Q4ZWIyNzg2OWUwZDBhZmZkMDhmMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "7a1bcfe4ff3d8eb27869e0d0affd08f2.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-6a59f246e835149d48801a44-6a59f246e8.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Personal Phones",
+      "bytes": 145898,
+      "sha256": "7226f7217a8ffbed3cda8273f2390625ef28d59fa6cf4248eaea89301a1b6abc",
+      "width": 2000,
+      "height": 1500,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-6a59f246e835149d48801a44.jpg",
+        "sourceSha256": "6a59f246e835149d48801a446f18ecc084cbeaa1e8bfd7ea5194aca10614dcc2",
+        "originalBytes": 531483,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-04T15:34:44.000Z",
+  "updatedAt": "2026-07-04T16:13:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47579159",
+    "title": "GPAE4VDCH5FOBAS2D4TFK6CVCE",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47579159,
+      "url": "https://www.are.na/block/47579159",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "GPAE4VDCH5FOBAS2D4TFK6CVCE",
+      "createdAt": "2026-07-04T15:34:44Z",
+      "updatedAt": "2026-07-04T16:13:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Photography",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "GPAE4VDCH5FOBAS2D4TFK6CVCE",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Personal Phones",
+    "text": "iPhone\nmia Assertbied in China Model Alses\n*. E2064 INE: 359312051152600\nLOEWE\niPhone\nDesigned by Apple in California Assembled in China Model A1566\nFCCID: BEG-E2816A IC:579C2816A IME: 359310060682010\naanan\nPERSONAL\niPhone\nDeigned by Aople in Cuifoma lostled in Chity MessiAll\nРОСТО ВСЬ ВІЛКА БУХЕЗВА МЕ 19911506023292\nJWA",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "7226f7217a8ffbed3cda8273f2390625ef28d59fa6cf4248eaea89301a1b6abc"
+  }
+}

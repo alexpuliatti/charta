@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_16145417",
+  "type": "image",
+  "title": "Guideline Grid",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "identity",
+    "guideline-grid",
+    "information-design",
+    "visual-research"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-3eeabb4ee6d212fd4160a28f.gif",
+      "mimeType": "image/gif",
+      "alt": "Guideline Grid",
+      "role": "original",
+      "bytes": 4689042,
+      "sha256": "3eeabb4ee6d212fd4160a28fab678e8b6146510975f229e24598dc461753c206",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/16145417/original_9db4d435356326111797bcd43530f85a.gif",
+      "originalName": "9db4d435356326111797bcd43530f85a.gif"
+    }
+  ],
+  "related": [],
+  "createdAt": "2022-04-21T00:46:10.000Z",
+  "updatedAt": "2026-08-18T06:45:07.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://thisworks.co/work/point-campus",
+    "title": "Point Campus",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 16145417,
+      "url": "https://www.are.na/block/16145417",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Point Campus brand guide",
+      "createdAt": "2022-04-21T00:46:10Z",
+      "updatedAt": "2026-08-18T06:45:07Z",
+      "addedBy": {
+        "id": 13825,
+        "name": "Andrew Collins",
+        "slug": "andrew-collins"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Identity",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Point Campus brand guide",
+      "category": "Information design",
+      "tags": [
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Guideline Grid",
+    "text": "Brạnd\nGuidelines\nPoint\nCampus\nThe\nGrid\nMalaamAlA daint fomano onimmaroma\nOur Story/\nthottiro whichovor dirontion tho childent.\nore hooded in\nnolahhaurhod fool The rammunet onando\nare created to inspire connection and\ncollaboration. This is a place to thrive; to get\nInvolved; to hone life skills. A place in which\nrelationships that will last a lifetime.\nPoint\nCampus\nPragmatic\n+ Human\nA lifestyle\nthat's anything\nbut ordinary\nInsight\nchanging workplace.\nCampus\nWhat\nwe value\nPoint Campus typoaranhic\napproach is comprised\nof two parts: A pragmatic\nsans-serif and personable\nhond. writton olomonte\nflood enorinaly thaoo\nhandwritton elements add\nwarmth and humanity to\nPoint camnus focus on a\nStudents are ambitious and focused.\nThAv ARl the nrassife fom natants and\nare aware of the challenges their generation\nmake the most of their time at university.\nAcademic courses play a part in preparing\npersonal development and the acquisition\nof life skills.\nWA-Rounded\nPersonal development isn't\nhappen.\nConnacted\nAaBbCcDdEeFfGg\nHhliJiKkLIMmNn\nOoPpQgRrSsTtUu\nVvWwXxYyZz\n123456789021",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "3eeabb4ee6d212fd4160a28fab678e8b6146510975f229e24598dc461753c206"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700897",
+  "type": "image",
+  "title": "Déjà Vu",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "d-j-vu",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-402774eac77e7a5fbc47eb58.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Déjà Vu",
+      "role": "original",
+      "bytes": 268692,
+      "sha256": "402774eac77e7a5fbc47eb58e2e11a19a36e880f0908c8c8b898e9b47a22de03",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700897/original_b94fa3196c193cfb1830a100f365d1e0.jpeg",
+      "originalName": "b94fa3196c193cfb1830a100f365d1e0.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-5943997a5eadc39377a4c0fe.webp",
+      "mimeType": "image/webp",
+      "alt": "Déjà Vu",
+      "role": "thumbnail",
+      "bytes": 5360,
+      "sha256": "5943997a5eadc39377a4c0fe7c0716988fba9c2170100d3c43a53aea3d55dc2d",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg5Ny9vcmlnaW5hbF9iOTRmYTMxOTZjMTkzY2ZiMTgzMGExMDBmMzY1ZDFlMC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "b94fa3196c193cfb1830a100f365d1e0.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-402774eac77e7a5fbc47eb58-402774eac7.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Déjà Vu",
+      "bytes": 61188,
+      "sha256": "ca6948c6a47be587628c27868e2a9f89d055bf90490fda4912d0e01a4a3f0cc2",
+      "width": 1421,
+      "height": 2000,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-402774eac77e7a5fbc47eb58.jpg",
+        "sourceSha256": "402774eac77e7a5fbc47eb58e2e11a19a36e880f0908c8c8b898e9b47a22de03",
+        "originalBytes": 268692,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:32.000Z",
+  "updatedAt": "2026-07-08T14:54:44.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700897",
+    "title": "2-3-couv-final-test_Page_1",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700897,
+      "url": "https://www.are.na/block/47700897",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "2-3-couv-final-test_Page_1",
+      "createdAt": "2026-07-08T14:54:32Z",
+      "updatedAt": "2026-07-08T14:54:44Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "2-3-couv-final-test_Page_1",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Déjà Vu",
+    "text": "DÉJÀVU\nISSUE\n1\nPARIS, 2023",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "ca6948c6a47be587628c27868e2a9f89d055bf90490fda4912d0e01a4a3f0cc2"
+  }
+}

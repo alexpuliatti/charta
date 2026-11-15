@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_40788103",
+  "type": "image",
+  "title": "Sunken Lounge",
+  "description": "",
+  "category": "Architecture",
+  "tags": [
+    "architecture",
+    "interiors",
+    "sunken-lounge",
+    "spatial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-51c8c05eae5ffe07657c909d.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Sunken Lounge",
+      "role": "original",
+      "bytes": 1071992,
+      "sha256": "51c8c05eae5ffe07657c909d5df7413bcca555af112f8283cf926a211140db9a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/40788103/original_d5ddb3ba59afe7a155c4acd44f280882.jpg",
+      "originalName": "d5ddb3ba59afe7a155c4acd44f280882.jpg"
+    },
+    {
+      "path": "assets/thumbnail-ed5b07bff8da67c29c7c0fd6.webp",
+      "mimeType": "image/webp",
+      "alt": "Sunken Lounge",
+      "role": "thumbnail",
+      "bytes": 22408,
+      "sha256": "ed5b07bff8da67c29c7c0fd60d6f34e66714de57735e4ddbecddd669581b6ace",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MDc4ODEwMy9vcmlnaW5hbF9kNWRkYjNiYTU5YWZlN2ExNTVjNGFjZDQ0ZjI4MDg4Mi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "d5ddb3ba59afe7a155c4acd44f280882.jpg"
+    },
+    {
+      "path": "assets/display-web-original-51c8c05eae5ffe07657c909d-51c8c05eae.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Sunken Lounge",
+      "bytes": 670694,
+      "sha256": "1fce679085ed331f842bb5ab5efec183a58cf1a4744877e9c7780e5592d6ae47",
+      "width": 1440,
+      "height": 1800,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-51c8c05eae5ffe07657c909d.jpg",
+        "sourceSha256": "51c8c05eae5ffe07657c909d5df7413bcca555af112f8283cf926a211140db9a",
+        "originalBytes": 1071992,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2025-11-02T16:12:00.000Z",
+  "updatedAt": "2026-04-15T07:33:27.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/40788103",
+    "title": "donborsch-20250214_202250-2181331444.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 40788103,
+      "url": "https://www.are.na/block/40788103",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "donborsch-20250214_202250-2181331444.jpg",
+      "createdAt": "2025-11-02T16:12:00Z",
+      "updatedAt": "2026-04-15T07:33:27Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Architecture",
+    "subsection": "Interiors",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "donborsch-20250214_202250-2181331444.jpg",
+      "category": "Interiors",
+      "tags": [
+        "interiors",
+        "spatial-design",
+        "interior"
+      ],
+      "collectionIds": [
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Sunken Lounge",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "1fce679085ed331f842bb5ab5efec183a58cf1a4744877e9c7780e5592d6ae47"
+  }
+}

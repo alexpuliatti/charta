@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892511",
+  "type": "link",
+  "title": "Interaction Details",
+  "description": "What makes great interactions feel right?",
+  "category": "Writing",
+  "tags": [
+    "interaction-design",
+    "interface-craft",
+    "usability"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-90acc160e8e6341270399a16.webp",
+      "mimeType": "image/webp",
+      "alt": "Invisible Details of Interaction Design",
+      "role": "thumbnail",
+      "bytes": 14888,
+      "sha256": "90acc160e8e6341270399a16025b84dd642a4255eb405770cdfd0c937f11fa1e",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjUxMS9vcmlnaW5hbF8zNmFkZGVkMmU5ZDY2YTJiM2ZmNDFkMzk2ZGJhZjk3YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "36added2e9d66a2b3ff41d396dbaf97a.png"
+    },
+    {
+      "path": "assets/preview-c9d0525677e9394487d6cd1a.webp",
+      "mimeType": "image/webp",
+      "alt": "Invisible Details of Interaction Design",
+      "role": "preview",
+      "bytes": 204088,
+      "sha256": "c9d0525677e9394487d6cd1ae26020d1e78fc41dea78c927fd13b648eefcc2cb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892511/original_36added2e9d66a2b3ff41d396dbaf97a.png",
+      "originalName": "36added2e9d66a2b3ff41d396dbaf97a.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 562107,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:39:48.000Z",
+  "updatedAt": "2026-05-06T14:39:56.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://rauno.me/craft/interaction-design",
+    "title": "Invisible Details of Interaction Design",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892511,
+      "url": "https://www.are.na/block/45892511",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Invisible Details of Interaction Design",
+      "createdAt": "2026-05-06T14:39:48Z",
+      "updatedAt": "2026-05-06T14:39:56Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Writing",
+    "subsection": "Design",
+    "genre": "article",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Invisible Details of Interaction Design",
+      "category": "Digital design",
+      "tags": [
+        "interfaces",
+        "interaction-design",
+        "digital-design"
+      ],
+      "collectionIds": [
+        "c_arena_4403184"
+      ]
+    }
+  }
+}

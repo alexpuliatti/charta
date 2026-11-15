@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45890017",
+  "type": "image",
+  "title": "Iridescent Seat",
+  "description": "",
+  "category": "Objects",
+  "tags": [
+    "objects",
+    "furniture",
+    "iridescent-seat",
+    "interiors",
+    "audio-hardware",
+    "spatial-design",
+    "speaker-project",
+    "loudspeakers"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-950e9abd6f2fade183d08a86.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Iridescent Seat",
+      "role": "original",
+      "bytes": 26027,
+      "sha256": "950e9abd6f2fade183d08a86193d20e8d09b1c8cb06b9a86fb7770b88f096911",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45890017/original_71fc4a70ea200f406144733db0ccddda.jpeg",
+      "originalName": "71fc4a70ea200f406144733db0ccddda.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-a1274f9a06a4b02a4290d029.webp",
+      "mimeType": "image/webp",
+      "alt": "Iridescent Seat",
+      "role": "thumbnail",
+      "bytes": 3220,
+      "sha256": "a1274f9a06a4b02a4290d029463664182111adc35820fbdb9d02caab7cb64c92",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MDAxNy9vcmlnaW5hbF83MWZjNGE3MGVhMjAwZjQwNjE0NDczM2RiMGNjZGRkYS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "71fc4a70ea200f406144733db0ccddda.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-950e9abd6f2fade183d08a86-950e9abd6f.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Iridescent Seat",
+      "bytes": 12780,
+      "sha256": "375aeaedd80a2c9e643a926929482a77e857b8d12df01b3ed44ee8afbcc220c8",
+      "width": 750,
+      "height": 830,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-950e9abd6f2fade183d08a86.jpg",
+        "sourceSha256": "950e9abd6f2fade183d08a86193d20e8d09b1c8cb06b9a86fb7770b88f096911",
+        "originalBytes": 26027,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T13:20:31.000Z",
+  "updatedAt": "2026-06-19T16:09:23.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/45890017",
+    "title": "900d51aa8100fecded6185de992472d6.jpg",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45890017,
+      "url": "https://www.are.na/block/45890017",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "900d51aa8100fecded6185de992472d6.jpg",
+      "createdAt": "2026-05-06T13:20:31Z",
+      "updatedAt": "2026-06-19T16:09:23Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Objects",
+    "subsection": "Furniture",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "900d51aa8100fecded6185de992472d6.jpg",
+      "category": "Audio design",
+      "tags": [
+        "interiors",
+        "audio-hardware",
+        "spatial-design",
+        "speaker-project",
+        "loudspeakers",
+        "interior",
+        "drea-deva-speaker"
+      ],
+      "collectionIds": [
+        "c_arena_5161126",
+        "c_arena_4408633"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Iridescent Seat",
+    "text": "",
+    "method": "visual-review",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "375aeaedd80a2c9e643a926929482a77e857b8d12df01b3ed44ee8afbcc220c8"
+  }
+}

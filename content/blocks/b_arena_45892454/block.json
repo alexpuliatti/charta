@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_45892454",
+  "type": "link",
+  "title": "PostNew Motion",
+  "description": "Dutch-born, London-based creative working across Motion, CGI, and Graphic Design.",
+  "category": "Graphic design",
+  "tags": [
+    "motion-design",
+    "cgi",
+    "graphic-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-5474b90eed39e7fea5fa8f17.webp",
+      "mimeType": "image/webp",
+      "alt": "PostNew, Index",
+      "role": "thumbnail",
+      "bytes": 622,
+      "sha256": "5474b90eed39e7fea5fa8f17995ac5d471b36342405725acc8eae8fb8cf0009c",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NTg5MjQ1NC9vcmlnaW5hbF83MWM1ODMwMmJkNmQ2ZWI2MzQ0ZmY3NzZmYTQwNzk4NC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "71c58302bd6d6eb6344ff776fa407984.png"
+    },
+    {
+      "path": "assets/preview-3387a39e247ba920f2c64882.webp",
+      "mimeType": "image/webp",
+      "alt": "PostNew, Index",
+      "role": "preview",
+      "bytes": 4400,
+      "sha256": "3387a39e247ba920f2c6488210598f60e71214cce63dcbfaf197d248e51099bb",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/45892454/original_71c58302bd6d6eb6344ff776fa407984.png",
+      "originalName": "71c58302bd6d6eb6344ff776fa407984.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 30053,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-06T14:38:00.000Z",
+  "updatedAt": "2026-05-06T14:38:09.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://www.postnew.xyz/index",
+    "title": "PostNew, Index",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 45892454,
+      "url": "https://www.are.na/block/45892454",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "PostNew, Index",
+      "createdAt": "2026-05-06T14:38:00Z",
+      "updatedAt": "2026-05-06T14:38:09Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Motion",
+    "genre": "portfolio",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "PostNew, Index",
+      "category": "Information design",
+      "tags": [
+        "graphic-design",
+        "motion-design",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

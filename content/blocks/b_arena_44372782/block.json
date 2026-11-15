@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44372782",
+  "type": "link",
+  "title": "Dirt Books",
+  "description": "Dirt Books is the publishing arm of Dirt Media. Dirt will use its roots in the technology world to experiment with software and hardware products that complement traditional print distribution.",
+  "category": "Graphic design",
+  "tags": [
+    "publishing",
+    "books",
+    "technology"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-e8589b246fad38454bf785bf.webp",
+      "mimeType": "image/webp",
+      "alt": "Dirt Books",
+      "role": "thumbnail",
+      "bytes": 1646,
+      "sha256": "e8589b246fad38454bf785bfb809e9a681388f5ce81aac25143aa130a04174d9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDM3Mjc4Mi9vcmlnaW5hbF9hNDI0ZWExNTg3ZmM1NGZkN2EwYjZhM2Q1YWI0MmI4ZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a424ea1587fc54fd7a0b6a3d5ab42b8e.png"
+    },
+    {
+      "path": "assets/preview-62f7395527578daa816a0f4e.webp",
+      "mimeType": "image/webp",
+      "alt": "Dirt Books",
+      "role": "preview",
+      "bytes": 32962,
+      "sha256": "62f7395527578daa816a0f4e599771865971dbeb19a0f673d18503b1e5ac5a05",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44372782/original_a424ea1587fc54fd7a0b6a3d5ab42b8e.png",
+      "originalName": "a424ea1587fc54fd7a0b6a3d5ab42b8e.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 1731207,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-12T15:47:47.000Z",
+  "updatedAt": "2026-03-12T15:47:59.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://books.dirt.fyi/",
+    "title": "Dirt Books",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44372782,
+      "url": "https://www.are.na/block/44372782",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Dirt Books",
+      "createdAt": "2026-03-12T15:47:47Z",
+      "updatedAt": "2026-03-12T15:47:59Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "archive",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Dirt Books",
+      "category": "Books and publishing",
+      "tags": [
+        "books",
+        "print-design",
+        "programming",
+        "information-design",
+        "visual-research",
+        "visualizzare-il-sapere"
+      ],
+      "collectionIds": [
+        "c_arena_2000307"
+      ]
+    }
+  }
+}

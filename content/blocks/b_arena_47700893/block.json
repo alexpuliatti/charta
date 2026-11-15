@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700893",
+  "type": "image",
+  "title": "Annotated Portrait",
+  "description": "",
+  "category": "Culture",
+  "tags": [
+    "culture",
+    "art",
+    "annotated-portrait",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-83dc3787735461d44630e8de.jpg",
+      "mimeType": "image/jpeg",
+      "alt": "Annotated Portrait",
+      "role": "original",
+      "bytes": 68511,
+      "sha256": "83dc3787735461d44630e8de98bcb92a1ce744bb6e6bb6d1fb0b3195c3db9d02",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700893/original_cbc9d609d78f2d8d5eb3af4b70a1fd5a.jpeg",
+      "originalName": "cbc9d609d78f2d8d5eb3af4b70a1fd5a.jpeg"
+    },
+    {
+      "path": "assets/thumbnail-d35247b6e6a6b8f1717706c2.webp",
+      "mimeType": "image/webp",
+      "alt": "Annotated Portrait",
+      "role": "thumbnail",
+      "bytes": 16954,
+      "sha256": "d35247b6e6a6b8f1717706c2d660119ffc1514b8f68c8d5d7ff11081751ad1d9",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDg5My9vcmlnaW5hbF9jYmM5ZDYwOWQ3OGYyZDhkNWViM2FmNGI3MGExZmQ1YS5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19",
+      "originalName": "cbc9d609d78f2d8d5eb3af4b70a1fd5a.jpeg"
+    },
+    {
+      "path": "assets/display-web-original-83dc3787735461d44630e8de-83dc378773.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Annotated Portrait",
+      "bytes": 58632,
+      "sha256": "6c9695d9cbbdd03b162877805ad2d8fca26d174678a7d58768bb3fefd982de80",
+      "width": 564,
+      "height": 703,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-83dc3787735461d44630e8de.jpg",
+        "sourceSha256": "83dc3787735461d44630e8de98bcb92a1ce744bb6e6bb6d1fb0b3195c3db9d02",
+        "originalBytes": 68511,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:54:27.000Z",
+  "updatedAt": "2026-07-08T14:54:35.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700893",
+    "title": "0ea356ca7152b9e92a84ebeee1a6292c",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700893,
+      "url": "https://www.are.na/block/47700893",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "0ea356ca7152b9e92a84ebeee1a6292c",
+      "createdAt": "2026-07-08T14:54:27Z",
+      "updatedAt": "2026-07-08T14:54:35Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Culture",
+    "subsection": "Art",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "0ea356ca7152b9e92a84ebeee1a6292c",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Annotated Portrait",
+    "text": "TO: ADAM BROOMBERG\nCIO VIR EEPRAREZEA\nSAGSO CATENA SI LILlORDe CTOJ\n27ALY\nSTAY(ED) -AL11. PL 1C\nC/O TANTECOST SUOISH\nPie Box tro\nNEARA\nANZANIN\nPale: 411\nsubject: T0 interin and submit c\nDear sir\nI lorite you thin\nada to inform antsabmat\nIn this camp and afe\nnany problems. i risked to hi\nfilled there daw.\nada to inferney\nwith then kni\nam alleged l\ncarl\ncares day in order do assure\nand my mother contes\ntilled my pastins are\nMe wake to me, to be dept i\nwile know ten a z\nwout lose!\nduit good\nJoure truly NINgeSIyE 16S\nto wiste",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "6c9695d9cbbdd03b162877805ad2d8fca26d174678a7d58768bb3fefd982de80"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47700998",
+  "type": "image",
+  "title": "Six Against Yard",
+  "description": "",
+  "category": "Graphic design",
+  "tags": [
+    "graphic-design",
+    "editorial",
+    "six-against-yard",
+    "book-covers",
+    "editorial-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-4ed9860d52d8a7018088b110.png",
+      "mimeType": "image/png",
+      "alt": "Six Against Yard",
+      "role": "original",
+      "bytes": 4241122,
+      "sha256": "4ed9860d52d8a7018088b1102626e62c710edadf869b15be8e8cb91c0e561fa4",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47700998/original_a5d25837b47102fe40cbc2e8b8c2b1b5.png",
+      "originalName": "a5d25837b47102fe40cbc2e8b8c2b1b5.png"
+    },
+    {
+      "path": "assets/thumbnail-f59f54f99896f6a479f47919.webp",
+      "mimeType": "image/webp",
+      "alt": "Six Against Yard",
+      "role": "thumbnail",
+      "bytes": 10004,
+      "sha256": "f59f54f99896f6a479f47919af444cda835d3b8f6e2932525ae48b1639e6f514",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NzcwMDk5OC9vcmlnaW5hbF9hNWQyNTgzN2I0NzEwMmZlNDBjYmMyZThiOGMyYjFiNS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "a5d25837b47102fe40cbc2e8b8c2b1b5.png"
+    },
+    {
+      "path": "assets/display-web-original-4ed9860d52d8a7018088b110-4ed9860d52.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "Six Against Yard",
+      "bytes": 189372,
+      "sha256": "634c4b054dc45dac2e9c4e2d3e5400f301c1ba75f9d82220ae73c4feb902791c",
+      "width": 2000,
+      "height": 1004,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-4ed9860d52d8a7018088b110.png",
+        "sourceSha256": "4ed9860d52d8a7018088b1102626e62c710edadf869b15be8e8cb91c0e561fa4",
+        "originalBytes": 4241122,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-08T14:56:04.000Z",
+  "updatedAt": "2026-07-08T14:56:10.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/47700998",
+    "title": "Screenshot 2023-09-12 alle 16.50.34",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47700998,
+      "url": "https://www.are.na/block/47700998",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "Screenshot 2023-09-12 alle 16.50.34",
+      "createdAt": "2026-07-08T14:56:04Z",
+      "updatedAt": "2026-07-08T14:56:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Editorial",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Screenshot 2023-09-12 alle 16.50.34",
+      "category": "Graphic design",
+      "tags": [
+        "book-covers",
+        "editorial-design",
+        "copertine"
+      ],
+      "collectionIds": [
+        "c_arena_5415870"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "Six Against Yard",
+    "text": "SIX AGAINST THE YARD\nIn schich\nMARGERY ALLINGHAM\nFATHER RONALD KNOX\nANTHONY BERKELEY\nDOROTHY L. SAYERS\nFREEMAN WILLS CROFTS\nRUSSELL THORNDIKE\nCommit the Crime of Murder which\nEx-Superintendent Cornish, C.I.D.\nis called upon to sole\nLying idly in his bath the instigator of this unique volome contemplated\nmunder.\nThere existed one whom he wished dead and it occurred to him\nsinar people, however Christian, knew of one of whom they harboured\nThua it was that this book with its brilliant band of contributors grew into\nbeing.\nWe\nwrote to each of them and suggested, quite casually, that they\npere in to exceion on per it concer ich they feline bel\nperfect in its execution\nWith enthusiasm they\nenfered into the ides, and each of them has produced in the form of a short\nnovel, an exact deseription of the circumstances and perpetration of thei\ncrime.\nFrom its instigation to its final act they have.\nin their own\nperfected their plans, lured their victims, despatched them from life and\ncovered their track».\nBut have their plans been as fool-proof as they believe? Have they made,\nas so many criminals do make, that tiny slip which will lead to their\ndetection ?\nAnd it is heze that Ex-Superintendent Cornish of the C.I.D. comes along\nwith his vast experience of crime in real life.\nAt the conclusion of each\nhort novel Mr. Cornish deals with the case from the police point of view\nHe visits the scene of the crime and, with the faets in his possession which\nhe has called from the story, sets to work to find that\nflaw in its execution\nwhich will enable him to bring about the arrest of the guilty\nIs he successful? Has he found those tell-tale clues-\n-and if he hasn't,\ncan vou?\nSIX\nAGAINST\nTHE\nYARD\nMargery\nALLINGHAM\nAnthony\nBERKELEY\nFreeman Wills\nCROFTS\nFather Ronald\nKNOX\nDorothy L\nSAYERS\nRussell\nTHORNDIKE\nversus\nEx-Superintendent\nCORNISH\nof the C.I.D.\nSIX\nAGAINST\nTHE\nYARD\n7/6\nNET\nSelwyn & Blount\nVERSUS\nEX-SUPERINTENDENT\nCORNISH\nOF THE C.I.D.\nMARGERY\nALLINGHAM\nANTHONY\nBERKELEY\nFREEMAN WILLS\nCROFTS\nFr. RONALD\nKNOX\nDOROTHY L\nSAYERS\nRUSSELL\nTHORNDIKE\nSIX AGAINST\nTHE YARD\nIs the \"perfect-mur-\nder\" possible; can that\ncrime be committed\nwith such consummate\ncare, with such exact-\ning skill that it is un-\nsolvable-even to the\nastutest investigator?\nThis is an intriguing\nspeculation indeed!\nRead the six \"perfeet\nmurders\"\nwhich have\nbeen committed by\nthese acknowledged\nmasters of crime stories,\nand read, too, the no\nless brilliant summings-\nup by Ex-Supt. Cornish\nof the C.I.D.\nMargery\nALLINGHAM\nFather Ronald\nKNOX\nAnthon\nDorothy L.\nBERKELEY\nSAYERS\nFreeman Wills\nRussell\nCROFTS\nTHORNDIKE\n[Please turn to the back of this wrapper]",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "634c4b054dc45dac2e9c4e2d3e5400f301c1ba75f9d82220ae73c4feb902791c"
+  }
+}

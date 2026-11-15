@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_47784750",
+  "type": "link",
+  "title": "Cuelume Sounds",
+  "description": "Cuelume is a tiny, dependency-free library of carefully designed interaction sounds, synthesized live with Web Audio.",
+  "category": "Sound",
+  "tags": [
+    "interaction-sounds",
+    "web-audio",
+    "sound-design"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-6f253213e15c6ca968820556.webp",
+      "mimeType": "image/webp",
+      "alt": "Cuelume — interaction sounds for the web",
+      "role": "thumbnail",
+      "bytes": 3372,
+      "sha256": "6f253213e15c6ca968820556a28ee54c5588c28c31190d99121234ec30e9c933",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Nzc4NDc1MC9vcmlnaW5hbF82ZGM4MzZkOTYyODBjYzM5NjM5NTcwNDJhNGFlZTdiOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "6dc836d96280cc3963957042a4aee7b9.png"
+    },
+    {
+      "path": "assets/preview-ce95452f75443eefa8ffe78b.webp",
+      "mimeType": "image/webp",
+      "alt": "Cuelume — interaction sounds for the web",
+      "role": "preview",
+      "bytes": 56862,
+      "sha256": "ce95452f75443eefa8ffe78b0f2d4873605adb25fa417939ed11877820cceb40",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/47784750/original_6dc836d96280cc3963957042a4aee7b9.png",
+      "originalName": "6dc836d96280cc3963957042a4aee7b9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 181450,
+        "width": 2560,
+        "height": 2560,
+        "lossless": true
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-07-11T11:27:06.000Z",
+  "updatedAt": "2026-07-11T11:27:10.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://cuelume-site.pages.dev/",
+    "title": "Cuelume — interaction sounds for the web",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 47784750,
+      "url": "https://www.are.na/block/47784750",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Cuelume — interaction sounds for the web",
+      "createdAt": "2026-07-11T11:27:06Z",
+      "updatedAt": "2026-07-11T11:27:10Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Sound",
+    "subsection": "Instruments",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Cuelume — interaction sounds for the web",
+      "category": "Digital design",
+      "tags": [
+        "interaction-design",
+        "sound",
+        "books",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

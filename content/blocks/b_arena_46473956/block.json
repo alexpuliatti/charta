@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_46473956",
+  "type": "link",
+  "title": "Reframe Images",
+  "description": "Easily upload and reframe images for social media with customizable sizes, colors, and effects, perfect for artists and creators looking to showcase their work.",
+  "category": "Graphic design",
+  "tags": [
+    "images",
+    "social-media",
+    "framing"
+  ],
+  "assets": [
+    {
+      "path": "assets/thumbnail-46092649a682c139984ebf9c.webp",
+      "mimeType": "image/webp",
+      "alt": "Reframe",
+      "role": "thumbnail",
+      "bytes": 1308,
+      "sha256": "46092649a682c139984ebf9cf57a25c6c4a0df08f93a518edbb12fac690f2cb2",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NjQ3Mzk1Ni9vcmlnaW5hbF85ZmJkNzZjYzg2NjAxYzdlYzA3YzI5MzQzNGFjY2ViOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "9fbd76cc86601c7ec07c293434acceb9.png"
+    },
+    {
+      "path": "assets/preview-9806c17bffef936ed70902f1.webp",
+      "mimeType": "image/webp",
+      "alt": "Reframe",
+      "role": "preview",
+      "bytes": 62868,
+      "sha256": "9806c17bffef936ed70902f1814747a721683339d69c4725f35d753b648ffb9a",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/46473956/original_9fbd76cc86601c7ec07c293434acceb9.png",
+      "originalName": "9fbd76cc86601c7ec07c293434acceb9.webp",
+      "optimization": {
+        "processor": "charta-preview-webp-1",
+        "sourceBytes": 202115,
+        "width": 2560,
+        "height": 2560,
+        "lossless": false
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-05-25T10:58:07.000Z",
+  "updatedAt": "2026-05-25T10:58:19.000Z",
+  "classification": {
+    "method": "saved-text-and-source-review",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": false,
+    "basis": "Title and saved source description identify the artifact and its subject."
+  },
+  "source": {
+    "url": "https://reframeit.figma.site/",
+    "title": "Reframe",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 46473956,
+      "url": "https://www.are.na/block/46473956",
+      "type": "Link",
+      "visibility": "public",
+      "originalTitle": "Reframe",
+      "createdAt": "2026-05-25T10:58:07Z",
+      "updatedAt": "2026-05-25T10:58:19Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Graphic design",
+    "subsection": "Tools",
+    "genre": "resource",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "Reframe",
+      "category": "Tools and resources",
+      "tags": [
+        "contemporary-art",
+        "tools",
+        "design-tools",
+        "creative-technology"
+      ],
+      "collectionIds": [
+        "c_arena_5168602"
+      ]
+    }
+  }
+}

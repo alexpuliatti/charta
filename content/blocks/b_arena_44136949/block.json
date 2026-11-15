@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "b_arena_44136949",
+  "type": "image",
+  "title": "White Mixer",
+  "description": "",
+  "category": "Interface design",
+  "tags": [
+    "interface-design",
+    "inspiration",
+    "white-mixer",
+    "graphic-design",
+    "visual-culture"
+  ],
+  "assets": [
+    {
+      "path": "assets/original-0f6ecf75f22b711ece9ae1f4.png",
+      "mimeType": "image/png",
+      "alt": "White Mixer",
+      "role": "original",
+      "bytes": 154093,
+      "sha256": "0f6ecf75f22b711ece9ae1f411c7d87ac8520d4b1df806d887294ed340652658",
+      "sourceUrl": "https://d2w9rnfcy7mm78.cloudfront.net/44136949/original_c7becc9ab476f739bcf3513641479d44.png",
+      "originalName": "c7becc9ab476f739bcf3513641479d44.png"
+    },
+    {
+      "path": "assets/thumbnail-2eed512b0b74bf7e96c0e2cf.webp",
+      "mimeType": "image/webp",
+      "alt": "White Mixer",
+      "role": "thumbnail",
+      "bytes": 2704,
+      "sha256": "2eed512b0b74bf7e96c0e2cf97a1e103be7a621a3b2eec226abe4ec09f3d460f",
+      "sourceUrl": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0NDEzNjk0OS9vcmlnaW5hbF9jN2JlY2M5YWI0NzZmNzM5YmNmMzUxMzY0MTQ3OWQ0NC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=",
+      "originalName": "c7becc9ab476f739bcf3513641479d44.png"
+    },
+    {
+      "path": "assets/display-web-original-0f6ecf75f22b711ece9ae1f4-0f6ecf75f2.webp",
+      "mimeType": "image/webp",
+      "role": "optimized",
+      "alt": "White Mixer",
+      "bytes": 15214,
+      "sha256": "54ba8aa4fdb0ea10d7a1f383765e6fb428bda9d4cd8706d27807deb5d5e9db8e",
+      "width": 1072,
+      "height": 688,
+      "optimization": {
+        "processor": "jelly-media-1",
+        "sourceAsset": "assets/original-0f6ecf75f22b711ece9ae1f4.png",
+        "sourceSha256": "0f6ecf75f22b711ece9ae1f411c7d87ac8520d4b1df806d887294ed340652658",
+        "originalBytes": 154093,
+        "settings": {
+          "format": "webp",
+          "maxLongEdge": 2000,
+          "quality": 84,
+          "method": 6,
+          "alpha": "preserved",
+          "exifOrientation": "applied",
+          "animated": "preserve-original"
+        }
+      }
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-03-04T15:35:28.000Z",
+  "updatedAt": "2026-03-04T15:35:31.000Z",
+  "classification": {
+    "method": "artifact-visual-review-and-ocr",
+    "version": "artifact-curation-v1",
+    "visualAnalysis": true,
+    "basis": "Title and classification grounded in direct visual review of the saved image, with visible text extracted where present."
+  },
+  "source": {
+    "url": "https://www.are.na/block/44136949",
+    "title": "screenshot-2026-03-01-alle-10.35.39.png",
+    "capturedAt": "2026-11-15T11:34:12.657Z",
+    "arena": {
+      "id": 44136949,
+      "url": "https://www.are.na/block/44136949",
+      "type": "Image",
+      "visibility": "public",
+      "originalTitle": "screenshot-2026-03-01-alle-10.35.39.png",
+      "createdAt": "2026-03-04T15:35:28Z",
+      "updatedAt": "2026-03-04T15:35:31Z",
+      "addedBy": {
+        "id": 161174,
+        "name": "A P",
+        "slug": "a-p-8ilc0lfnvlk"
+      },
+      "metadata": {}
+    }
+  },
+  "curation": {
+    "version": "artifact-curation-v1",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "section": "Interface design",
+    "subsection": "Inspiration",
+    "genre": "image",
+    "confidence": 0.9,
+    "needsSourceReview": false,
+    "evidence": [],
+    "original": {
+      "title": "screenshot-2026-03-01-alle-10.35.39.png",
+      "category": "Graphic design",
+      "tags": [
+        "graphic-design",
+        "visual-culture",
+        "materiali-grafici"
+      ],
+      "collectionIds": [
+        "c_arena_4894594"
+      ]
+    }
+  },
+  "artifact": {
+    "description": "White Mixer",
+    "text": "STYLE\nDRIET\nSUBJECT\nNEIGHT\nCOMPOSITION\nRENDER\nDEPTH\nREADY TO SYNTHESIZE\n102x1024 - LATENE\nSTEPS\nBEROE SE\nVARIATION\nA cinematic wide shot of a futuristic\nlaboratory, soft volumetric lighting,\nhyper-realistic aluminum textures, 8k\nresolution...\n•\nGEN\n· 2.4.01\nNLUMINUM-05",
+    "method": "visual-review-and-Apple-Vision-accurate-OCR",
+    "scope": "image",
+    "reviewedAt": "2026-11-15T13:17:57.516Z",
+    "sourceAssetSha256": "54ba8aa4fdb0ea10d7a1f383765e6fb428bda9d4cd8706d27807deb5d5e9db8e"
+  }
+}
