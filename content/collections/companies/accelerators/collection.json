@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "c_companies_accelerators",
+  "title": "Accelerators",
+  "description": "Programs supporting founders and early-stage company building.",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_res_restless_egg_discover"
+    }
+  ]
+}

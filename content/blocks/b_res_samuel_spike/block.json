@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_samuel_spike",
+  "type": "link",
+  "title": "Samuel Spike",
+  "source": {
+    "url": "https://www.samuelspike.com/",
+    "title": "Samuel Spike",
+    "capturedAt": "2026-11-16T11:37:10.324Z"
+  },
+  "description": "Strategist and creative director working across technology and culture; Venture Partner at Restless Egg and co-founder of Fini.",
+  "category": "People",
+  "tags": [
+    "people",
+    "creative-technology",
+    "creative-direction",
+    "strategy",
+    "art",
+    "founders"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-11-16T11:37:10.369Z",
+  "updatedAt": "2026-11-16T11:37:10.369Z",
+  "bodyPath": "body.md",
+  "ingest": {
+    "operationId": "b_res_samuel_spike"
+  },
+  "organization": {
+    "method": "reviewed-resource-intake-v1",
+    "reason": "Samuel Spike works on strategy and creative direction across technology companies and arts organizations.",
+    "confidence": 1,
+    "destinationPath": [
+      "People",
+      "Creative technology"
+    ]
+  }
+}

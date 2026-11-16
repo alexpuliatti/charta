@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "c_people_creative_technology",
+  "title": "Creative technology",
+  "description": "People connecting technology with creative practice, culture, and company building.",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_res_samuel_spike"
+    }
+  ]
+}

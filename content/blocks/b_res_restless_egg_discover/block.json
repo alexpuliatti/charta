@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_restless_egg_discover",
+  "type": "link",
+  "title": "Restless Egg — Discover",
+  "source": {
+    "url": "https://restlessegg.com/discover",
+    "title": "Restless Egg — Discover",
+    "capturedAt": "2026-11-16T11:37:10.254Z"
+  },
+  "description": "A directory of Restless Egg’s creative founders and companies. Restless Egg is an accelerator for founders working across culture and technology.",
+  "category": "Companies",
+  "tags": [
+    "accelerators",
+    "creative-technology",
+    "founders",
+    "culture",
+    "startups"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-11-16T11:37:10.298Z",
+  "updatedAt": "2026-11-16T11:37:10.298Z",
+  "bodyPath": "body.md",
+  "ingest": {
+    "operationId": "b_res_restless_egg_discover"
+  },
+  "organization": {
+    "method": "reviewed-resource-intake-v1",
+    "reason": "Restless Egg runs an accelerator for founders working across culture and technology; this link opens its community directory.",
+    "confidence": 1,
+    "destinationPath": [
+      "Companies",
+      "Accelerators"
+    ]
+  }
+}

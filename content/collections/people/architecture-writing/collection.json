@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "c_people_architecture_writing",
+  "title": "Architecture & writing",
+  "description": "Architects, writers, and editors exploring the built environment and contemporary culture.",
+  "items": [
+    {
+      "kind": "block",
+      "id": "b_res_jack_self"
+    }
+  ]
+}

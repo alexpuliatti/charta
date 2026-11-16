@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_jack_self",
+  "type": "link",
+  "title": "Jack Self",
+  "source": {
+    "url": "https://jackself.com/",
+    "title": "Jack Self",
+    "capturedAt": "2026-11-16T11:37:10.399Z"
+  },
+  "description": "Architect, writer, and Editor-in-Chief of Real Review; founder of Self Engineering.",
+  "category": "People",
+  "tags": [
+    "people",
+    "architecture",
+    "writing",
+    "publishing",
+    "cultural-theory",
+    "strategy"
+  ],
+  "assets": [],
+  "related": [],
+  "createdAt": "2026-11-16T11:37:10.448Z",
+  "updatedAt": "2026-11-16T11:37:10.448Z",
+  "bodyPath": "body.md",
+  "ingest": {
+    "operationId": "b_res_jack_self"
+  },
+  "organization": {
+    "method": "reviewed-resource-intake-v1",
+    "reason": "Jack Self is a registered architect, author, and Editor-in-Chief of Real Review.",
+    "confidence": 1,
+    "destinationPath": [
+      "People",
+      "Architecture & writing"
+    ]
+  }
+}
