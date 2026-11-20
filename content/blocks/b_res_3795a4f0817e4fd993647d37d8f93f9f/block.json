@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_3795a4f0817e4fd993647d37d8f93f9f",
+  "type": "video",
+  "title": "mark",
+  "source": {},
+  "description": "",
+  "category": "Uncategorized",
+  "tags": [
+    "video"
+  ],
+  "assets": [
+    {
+      "path": "assets/original.mp4",
+      "mimeType": "video/mp4",
+      "role": "original",
+      "originalName": "mark.mp4",
+      "bytes": 89814,
+      "sha256": "b6b773803ce18d4fa9ccaf6bf1ff2a6872a32cefae85a76b67916cd6b2f2d377"
+    },
+    {
+      "path": "assets/thumbnail.jpg",
+      "mimeType": "image/jpeg",
+      "role": "thumbnail",
+      "originalName": "Video preview.jpg",
+      "bytes": 27782,
+      "sha256": "d777df143e9b10d6476a9e938c1758b183717f3176734811ad55b39c75627f31"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-20T10:42:10.407Z",
+  "updatedAt": "2026-11-20T10:42:10.407Z",
+  "ingest": {
+    "operationId": "b_res_3795a4f0817e4fd993647d37d8f93f9f"
+  },
+  "organization": {
+    "method": "content-rules-v1",
+    "reason": "Saved in All materials because no folder matched confidently.",
+    "confidence": 0.2,
+    "destinationPath": []
+  }
+}
