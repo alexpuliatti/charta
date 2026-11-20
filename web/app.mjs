@@ -87,9 +87,9 @@ const archiveSearchUI = setupArchiveSearch({
 });
 let lastRoute = '#/all';
 let activeFilter = 'all';
-let order = 'newest';
+let libraryOrder = 'newest', channelOrder = 'manual';
 let layout = 'grid';
-let collectionTab = 'materials';
+let collectionTab = 'all';
 let showEmptyFolders = false;
 let indexedCatalog, folderIndex;
 let toastTimer;
@@ -201,7 +201,6 @@ function githubDialog() {
   showModal(`${dialogHeader('Connect GitHub', 'Changes will save automatically to this branch.')}<form class="dialog-body" id="github-form">${field('owner', 'Repository owner', config.owner)}${field('repo', 'Repository name', config.repo)}${field('branch', 'Branch', config.branch || 'main')}<div class="form-field"><label for="field-token">GitHub token</label><input id="field-token" name="token" type="password" autocomplete="off" spellcheck="false" required><small>Use a fine-grained token limited to this repository with Contents: read and write. The token stays in memory until this page closes or reloads.</small></div><p class="form-hint">Connecting loads the repository’s current library. Export any browser drafts or local edits you want to keep first.</p>${formEnd('Connect and load repository')}</form>`);
   for (const input of modal.querySelectorAll('input')) input.required = true;
 }
-function folderName(parentId) { return byId('folders', parentId)?.title || 'My library'; }
 function materialCount(collection) { return collection.items.filter(i => i.kind === 'block').length; }
 function externalCollectionURL(collection) { return collection && (collection.source?.arena?.importScope === 'reference' || collection.source?.external) ? safeURL(collection.source?.url) : ''; }
 function storageName() { if (store.githubConfig && store.mode !== 'github') return 'Reconnect GitHub'; return ({ github: 'GitHub connected', repository: 'Local files', folder: 'Connected folder', browser: 'Browser draft' })[store.mode] || 'Browser draft'; }
@@ -357,15 +356,10 @@ function blockCard(block) {
   return `<article class="material-card${image ? ' is-image' : ''}" data-type="${escape(block.type)}" data-context-kind="block" data-context-id="${escape(block.id)}"><button class="card-open" data-action="open-block" data-id="${escape(block.id)}" aria-label="Open ${escape(block.title)}">${preview(block)}${image ? '' : `<div class="card-copy"><h2 class="card-title">${escape(block.title)}</h2><div class="card-source">${escape(host(block))}</div><div class="card-bottom"><span class="membership-note">${icon('collection')}${escape(collections[0]?.title || 'Unfiled')}${collections.length > 1 ? ` +${collections.length - 1}` : ''}</span><span class="card-date">${escape(date(block.createdAt))}</span></div></div>`}</button>${image ? '' : taxonomyChips(block)}<button class="card-menu" data-action="item-menu" data-id="${escape(block.id)}" aria-label="Actions for ${escape(block.title)}" aria-haspopup="menu" title="Material actions">${icon('more')}</button></article>`;
 }
 
-function collectionCard(collection, overview = false) {
-  const referenceURL = externalCollectionURL(collection);
-  const blocks = collection.items.filter(i => i.kind === 'block').map(i => byId('blocks', i.id)).filter(Boolean);
-  const swatches = blocks.slice(0, 3).map(block => {
-    const asset = previewAsset(block);
-    const src = asset && assetURL(block, asset, document.baseURI);
-    return `<span>${src ? `<img src="${escape(src)}" alt="" loading="lazy">` : ''}</span>`;
-  }).join('');
-  return `<article class="collection-overview" data-context-kind="collection" data-context-id="${escape(collection.id)}"><button class="collection-card" data-action="open-collection" data-id="${escape(collection.id)}">${icon('collection')}<div><h3>${escape(collection.title)}</h3>${collection.description ? `<p>${escape(collection.description)}</p>` : ''}</div>${overview ? `<div class="collection-swatches">${swatches || '<span></span><span></span><span></span>'}</div>` : ''}<div class="collection-card-foot"><span>${referenceURL ? 'Are.na reference' : `${blocks.length} material${blocks.length === 1 ? '' : 's'}`}</span>${icon('arrow')}</div></button><button class="icon-button collection-menu" data-action="item-menu" aria-label="Actions for ${escape(collection.title)}" aria-haspopup="menu">${icon('more')}</button>${referenceURL ? `<a class="reference-source-link" href="${escape(referenceURL)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${escape(collection.title)} in Are.na">Open in Are.na ${icon('arrow')}</a>` : ''}${overview ? `<div class="tag-label">${icon('folder')}${escape(folderName(collection.parentId))}</div>` : ''}</article>`;
+function channelBlock(block) {
+  const source = block.source?.url ? host(block) : '';
+  const caption = source && block.type === 'link' ? source : typeName(block.type);
+  return `<article class="material-card channel-block" data-type="${escape(block.type)}" data-context-kind="block" data-context-id="${escape(block.id)}"><button class="card-open" data-action="open-block" data-id="${escape(block.id)}" aria-label="Open ${escape(block.title)}">${preview(block)}<span class="channel-caption"><span class="card-title">${escape(block.title)}</span><span class="channel-source">${escape(caption)}</span></span></button><button class="card-menu" data-action="item-menu" aria-label="Actions for ${escape(block.title)}" aria-haspopup="menu" title="Material actions">${icon('more')}</button></article>`;
 }
 
 function render() {
@@ -464,7 +458,7 @@ function renderExplorePage() {
       if (hash !== location.hash) document.defaultView.history[replace ? 'replaceState' : 'pushState'](null, '', hash);
       lastRoute = hash; updateExploreChrome(state); renderSidebar();
     },
-    onExit: state => { activeFilter = state.type; order = state.order; layout = 'grid'; navigate(state.collectionId ? `#/collection/${state.collectionId}` : '#/materials'); }
+    onExit: state => { activeFilter = state.type; if (state.collectionId) channelOrder = state.order; else libraryOrder = state.order; layout = 'grid'; navigate(state.collectionId ? `#/collection/${state.collectionId}` : '#/materials'); }
   });
 }
 
@@ -481,9 +475,21 @@ function renderHome() {
   $('#content').replaceChildren();
 }
 
-function directoryCard(entry) {
-  const { kind, record } = entry;
-  return `<article class="directory-item" data-context-kind="${kind}" data-context-id="${escape(record.id)}"><a class="directory-open" href="#/${kind}/${escape(record.id)}"><span class="directory-glyph">${icon('folder')}</span><span class="directory-copy"><strong class="directory-title">${escape(record.title)}</strong></span></a><button class="icon-button directory-menu" data-action="item-menu" aria-label="Actions for ${escape(record.title)}" aria-haspopup="menu">${icon('more')}</button></article>`;
+function countLabel(count, noun) { return `${count} ${noun}${count === 1 ? '' : 's'}`; }
+
+function directoryCard({ kind, record }) {
+  const tree = folderTree();
+  const { materials, links } = tree.stats(kind, record.id);
+  const url = kind === 'collection' ? externalCollectionURL(record) : '';
+  const count = [materials || !links ? countLabel(materials, 'material') : '', links ? countLabel(links, 'link') : ''].filter(Boolean).join(' · ');
+  const cover = tree.cover(kind, record.id).map(block => {
+    const src = assetURL(block, previewAsset(block), document.baseURI);
+    if (src) return `<img src="${escape(src)}" alt="" loading="lazy" decoding="async">`;
+    const text = (block.body ? stripFrontmatter(block.body) : block.description || block.title).slice(0, 160);
+    return `<span class="cover-text">${escape(text)}</span>`;
+  }).join('');
+  const href = url || `#/${kind}/${record.id}`;
+  return `<article class="directory-item" data-context-kind="${kind}" data-context-id="${escape(record.id)}"><a class="directory-open" href="${escape(href)}"${url ? ' target="_blank" rel="noopener noreferrer"' : ''}><span class="directory-copy"><strong class="directory-title">${escape(record.title)}</strong><span class="directory-count">${url ? 'Are.na channel ↗' : count}</span></span>${cover ? `<span class="directory-cover" aria-hidden="true">${cover}</span>` : ''}</a><button class="icon-button directory-menu" data-action="item-menu" aria-label="Actions for ${escape(record.title)}" aria-haspopup="menu">${icon('more')}</button></article>`;
 }
 
 function renderFolders(route) {
@@ -495,17 +501,18 @@ function renderFolders(route) {
   const { folders, links, hiddenEmpty } = folderTree().contents(folder?.id, { showEmpty: showEmptyFolders });
   const newAction = folder ? 'new-subfolder' : 'new-folder';
   const newLabel = folder ? 'New subfolder' : 'New folder';
-  const countLabel = [folders.length ? `${folders.length} folder${folders.length === 1 ? '' : 's'}` : '', links.length ? `${links.length} link${links.length === 1 ? '' : 's'}` : ''].filter(Boolean).join(' · ') || '0 folders';
+  const folderCount = folders.filter(entry => entry.kind === 'folder').length, collectionCount = folders.length - folderCount;
+  const counts = [folderCount && countLabel(folderCount, 'folder'), collectionCount && countLabel(collectionCount, 'collection'), links.length && countLabel(links.length, 'link')].filter(Boolean).join(' · ') || 'Empty';
   document.title = `${folder?.title || 'Collections'} — Charta`;
   $('#breadcrumb').innerHTML = folder ? folderBreadcrumb(folder, { current: true }) : '<span>Collections</span>';
   $('#page-header').classList.remove('dashboard-header');
-  $('#page-header').innerHTML = `<div class="compact-heading"><div class="page-title-row"><h1>${escape(folder?.title || 'Collections')}</h1><span class="title-count">${countLabel}</span></div></div><div class="header-actions"><button class="folder-create" data-action="${newAction}">${icon('plus')}${newLabel}</button><details id="view-options" class="view-options folder-options" data-page="${escape(pageKey)}"${optionsOpen ? ' open data-continuing' : ''}><summary aria-label="Folder options" title="Folder options">${icon('more')}</summary><div class="view-options-panel"><label class="folder-empty-toggle"><input id="show-empty-folders" type="checkbox"${showEmptyFolders ? ' checked' : ''}>Show empty folders</label>${folder ? `<div class="view-options-actions"><button data-action="rename-item" data-kind="folder" data-id="${escape(folder.id)}">${icon('edit')}Rename folder</button></div>` : ''}</div></details></div>`;
+  $('#page-header').innerHTML = `<div class="compact-heading"><div class="page-title-row"><h1>${escape(folder?.title || 'Collections')}</h1><span class="title-count">${counts}</span></div></div><div class="header-actions"><button class="folder-create" data-action="${newAction}">${icon('plus')}${newLabel}</button><details id="view-options" class="view-options folder-options" data-page="${escape(pageKey)}"${optionsOpen ? ' open data-continuing' : ''}><summary aria-label="Folder options" title="Folder options">${icon('more')}</summary><div class="view-options-panel"><label class="folder-empty-toggle"><input id="show-empty-folders" type="checkbox"${showEmptyFolders ? ' checked' : ''}>Show empty folders</label>${folder ? `<div class="view-options-actions"><button data-action="rename-item" data-kind="folder" data-id="${escape(folder.id)}">${icon('edit')}Rename folder</button></div>` : ''}</div></details></div>`;
   $('#toolbar').hidden = true;
   $('#toolbar').replaceChildren();
   $('#content').hidden = false;
   $('#content').className = 'folder-browser';
   $('#content').setAttribute('aria-label', 'Folders');
-  const directory = folders.length ? `<section aria-label="${folder ? 'Subfolders' : 'Main folders'}"><h2 class="folder-section-heading">${folder ? 'Subfolders' : 'Main folders'}</h2><div class="folder-grid">${folders.map(directoryCard).join('')}</div></section>` : '';
+  const directory = folders.length ? `<section aria-label="Folders and collections"><div class="folder-grid">${folders.map(directoryCard).join('')}</div></section>` : '';
   const sources = links.length ? `<section aria-label="Linked sources"><h2 class="folder-section-heading">Linked sources <span>· ${links.length}</span></h2><div class="folder-links">${links.map(link => `<article class="folder-link" data-context-kind="collection" data-context-id="${escape(link.id)}"><a href="${escape(link.url)}" target="_blank" rel="noopener noreferrer">${icon('link')}<span>${escape(link.title)}</span>${icon('arrow')}</a><button class="icon-button directory-menu" data-action="item-menu" aria-label="Actions for ${escape(link.title)}" aria-haspopup="menu">${icon('more')}</button></article>`).join('')}</div></section>` : '';
   $('#content').innerHTML = directory + sources || `<div class="folder-empty">${icon('folder')}<h2>${hiddenEmpty ? 'No materials in these folders yet' : 'This folder is empty'}</h2><p>${hiddenEmpty ? 'Empty folders are hidden from this view.' : 'Create a subfolder to start organizing your materials.'}</p><div class="folder-empty-actions"><button class="button" data-action="${newAction}">${icon('plus')}${newLabel}</button>${hiddenEmpty ? '<button class="button quiet" data-action="show-empty-folders">Show empty folders</button>' : ''}</div></div>`;
 }
@@ -524,21 +531,21 @@ function renderPage(route) {
   renderSidebar();
   const collection = route.type === 'collection' ? byId('collections', route.id) : null;
   if (route.type === 'collection' && !collection) { navigate('#/all'); return; }
-  if (!collection && order === 'manual') order = 'newest';
-  if (collection && !collection.items.some(item => item.kind === 'collection')) collectionTab = 'materials';
+  const order = collection ? channelOrder : libraryOrder;
   const referenceURL = externalCollectionURL(collection);
-  const showingCollections = route.type === 'collections' || (collection && collectionTab === 'collections');
   $('#page-header').classList.remove('dashboard-header');
+  const childRefs = collection?.items.filter(item => item.kind === 'collection') || [];
+  const collections = childRefs.map(item => byId('collections', item.id)).filter(Boolean);
+  const showingCollections = collections.length > 0 && collectionTab === 'collections';
   const blockRefs = collection?.items.filter(item => item.kind === 'block') || [];
   let blocks = collection ? blockRefs.map(item => byId('blocks', item.id)).filter(Boolean) : [...store.catalog.blocks];
-  let collections = collection ? collection.items.filter(item => item.kind === 'collection').map(item => byId('collections', item.id)).filter(Boolean) : [...store.catalog.collections];
   const count = blocks.length;
   const networkAvailable = blocks.some(isNetworkMaterial);
   if (categoryFilter) blocks = blocks.filter(block => taxonomyKey(block.category || 'Uncategorized') === taxonomyKey(categoryFilter));
   if (tagFilter) blocks = blocks.filter(block => (block.tags || []).some(tag => taxonomyKey(tag) === taxonomyKey(tagFilter)));
   if (activeFilter !== 'all') blocks = blocks.filter(block => block.type === activeFilter);
   const filtersActive = !showingCollections && (activeFilter !== 'all' || categoryFilter || tagFilter);
-  const title = collection?.title || (showingCollections ? 'Collections' : 'All materials');
+  const title = collection?.title || 'All materials';
   document.title = `${title} — Charta`;
   $('#breadcrumb').innerHTML = collection ? folderBreadcrumb(collection, { current: true }) : '<a href="#/all">Library</a>';
 
@@ -546,27 +553,37 @@ function renderPage(route) {
     <label>Sort<select class="filter-select" id="sort-select" aria-label="Sort materials"><option value="newest">Recently added</option><option value="oldest">Oldest first</option><option value="title">Title A–Z</option>${collection ? '<option value="manual">Collection order</option>' : ''}</select></label>
     <div class="view-options-layout"><span>View</span><div class="view-toggle"><button class="icon-button${layout === 'grid' ? ' selected' : ''}" data-action="view-grid" aria-label="Grid view" aria-pressed="${layout === 'grid'}">${icon('all')}Grid</button><button class="icon-button${layout === 'list' ? ' selected' : ''}" data-action="view-list" aria-label="List view" aria-pressed="${layout === 'list'}">${icon('list')}List</button></div></div>
     ${!showingCollections ? `<div class="view-options-filters"><label>Type<select class="filter-select" id="type-filter" aria-label="Filter material type"><option value="all">All types</option><option value="link">Links</option><option value="text">Notes</option><option value="image">Images</option><option value="file">Files</option><option value="video">Video</option><option value="audio">Audio</option></select></label><label>Category<select id="category-filter" class="filter-select" aria-label="Filter by category"><option value="">All categories</option>${taxonomyValues('category').map(category => `<option value="${escape(category)}"${taxonomyKey(category) === taxonomyKey(categoryFilter) ? ' selected' : ''}>${escape(category)}</option>`).join('')}</select></label><label>Tag<select id="tag-filter" class="filter-select" aria-label="Filter by tag"><option value="">All tags</option>${taxonomyValues('tags').map(tag => `<option value="${escape(tag)}"${taxonomyKey(tag) === taxonomyKey(tagFilter) ? ' selected' : ''}>#${escape(tag)}</option>`).join('')}</select></label>${filtersActive ? '<button class="text-button" data-action="clear-filters">Clear filters</button>' : ''}</div>` : ''}
-    ${collection || networkAvailable ? `<div class="view-options-actions">${collection ? `<button data-action="edit-collection" data-id="${escape(collection.id)}">${icon('edit')}Edit collection</button>` : ''}${collection && collections.length ? `<button data-action="${showingCollections ? 'tab-materials' : 'tab-collections'}">${icon('collection')}${showingCollections ? 'Materials' : `Connected collections (${collections.length})`}</button>` : ''}${networkAvailable ? `<button data-action="view-network">${icon('graph')}Explore connections</button>` : ''}</div>` : ''}
+    ${collection || networkAvailable ? `<div class="view-options-actions">${collection ? `<button data-action="edit-collection" data-id="${escape(collection.id)}">${icon('edit')}Edit collection</button>` : ''}${networkAvailable ? `<button data-action="view-network">${icon('graph')}Explore connections</button>` : ''}</div>` : ''}
   </div></details>`;
-  const addAction = referenceURL ? `<a class="header-source" href="${escape(referenceURL)}" target="_blank" rel="noopener noreferrer">Open in Are.na ${icon('arrow')}</a>` : `<button class="icon-button header-add" data-action="${showingCollections ? 'new-container' : 'add-material'}" aria-label="${showingCollections ? 'New collection' : 'Add material'}" title="${showingCollections ? 'New collection' : 'Add material'}">${icon('plus')}</button>`;
-  const headingCount = referenceURL ? '' : `<span class="title-count">${showingCollections ? collections.length : count}</span>`;
+  const addAction = referenceURL ? `<a class="header-source" href="${escape(referenceURL)}" target="_blank" rel="noopener noreferrer">Open in Are.na ${icon('arrow')}</a>` : `<button class="icon-button header-add" data-action="add-material" aria-label="Add material" title="Add material">${icon('plus')}</button>`;
+  const countText = collection ? [countLabel(count, 'material'), collections.length && countLabel(collections.length, 'collection')].filter(Boolean).join(' · ') : count;
+  const headingCount = referenceURL ? '' : `<span class="title-count">${countText}</span>`;
   $('#page-header').innerHTML = `<div class="compact-heading"><div class="page-title-row"><h1>${escape(title)}</h1>${headingCount}</div>${collection?.description?.trim() ? `<p>${escape(collection.description)}</p>` : ''}</div><div class="header-actions">${!showingCollections ? `<a class="explore-launch" href="${exploreHash({ collectionId: collection?.id, type: activeFilter, order, query: [categoryFilter, tagFilter].filter(Boolean).join(' ') })}" aria-label="Explore ${collection ? 'this folder' : 'all resources'} with large previews">${icon('split')}Explore</a>` : ''}${addAction}${options}</div>`;
   $('#toolbar').className = 'toolbar compact-toolbar';
-  $('#toolbar').hidden = !filtersActive;
-  $('#toolbar').innerHTML = filtersActive ? `<div class="filter-status"><span>${blocks.length} of ${count}</span><span>${escape([activeFilter === 'all' ? '' : typeName(activeFilter), categoryFilter, tagFilter && '#' + tagFilter].filter(Boolean).join(' · '))}</span><button class="text-button" data-action="clear-filters" aria-label="Clear filters">Clear</button></div>` : '';
+  const facets = collections.length ? `<div class="channel-facets" role="group" aria-label="Show collection items">${[['all', 'All', count + collections.length], ['materials', 'Materials', count], ['collections', 'Collections', collections.length]].map(([tab, label, total]) => `<button data-action="tab-${tab}" aria-pressed="${tab === collectionTab}">${label} <span>${total}</span></button>`).join('')}</div>` : '';
+  $('#toolbar').hidden = !facets && !filtersActive;
+  const filterStatus = filtersActive ? `<div class="filter-status"><span>${blocks.length} of ${count}</span><span>${escape([activeFilter === 'all' ? '' : typeName(activeFilter), categoryFilter, tagFilter && '#' + tagFilter].filter(Boolean).join(' · '))}</span><button class="text-button" data-action="clear-filters" aria-label="Clear filters">Clear</button></div>` : '';
+  $('#toolbar').innerHTML = facets + filterStatus;
   if ($('#type-filter')) $('#type-filter').value = activeFilter;
   $('#sort-select').value = order;
   const sorter = (a, b) => order === 'title' ? a.title.localeCompare(b.title) : order === 'manual' ? 0 : (order === 'oldest' ? 1 : -1) * ((Date.parse(a.createdAt || '') || 0) - (Date.parse(b.createdAt || '') || 0));
-  blocks.sort(sorter);
-  collections.sort(sorter);
-  const items = showingCollections ? collections : blocks;
+  const visible = new Map();
+  if (!showingCollections) for (const block of blocks) visible.set(block.id, { kind: 'block', record: block });
+  if (collectionTab !== 'materials' && !filtersActive) for (const record of collections) visible.set(record.id, { kind: 'collection', record });
+  const items = collection ? collection.items.map(item => visible.get(item.id)).filter(Boolean) : [...visible.values()];
+  items.sort((a, b) => sorter(a.record, b.record));
   $('#content').className = '';
   if (referenceURL && !items.length) {
     $('#content').innerHTML = '<div class="empty-state"><h2>Linked channel</h2></div>';
   } else if (!items.length) {
-    const filtered = Boolean(filtersActive);
-    $('#content').innerHTML = `<div class="empty-state"><h2>${showingCollections ? 'No collections' : filtered ? 'No matches' : 'No materials'}</h2><button class="button" data-action="${filtered ? 'clear-filters' : showingCollections && collection ? 'edit-collection' : showingCollections ? 'new-container' : 'add-material'}"${collection ? ` data-id="${escape(collection.id)}"` : ''}>${icon(filtered ? 'close' : 'plus')}${filtered ? 'Clear filters' : showingCollections && collection ? 'Connect a collection' : showingCollections ? 'New collection' : 'Add material'}</button></div>`;
-  } else $('#content').innerHTML = `<div class="${layout === 'list' ? 'materials-list' : showingCollections ? 'collection-grid' : 'materials-grid'}">${items.map(item => showingCollections ? collectionCard(item, true) : blockCard(item)).join('')}</div>`;
+    $('#content').innerHTML = `<div class="empty-state"><h2>${filtersActive ? 'No matches' : 'No materials'}</h2><button class="button" data-action="${filtersActive ? 'clear-filters' : 'add-material'}">${icon(filtersActive ? 'close' : 'plus')}${filtersActive ? 'Clear filters' : 'Add material'}</button></div>`;
+  } else {
+    const channelGrid = Boolean(collection && layout === 'grid');
+    const addTile = channelGrid && !referenceURL && !showingCollections && !filtersActive ? `<button class="channel-add" data-action="add-material">${icon('plus')}Add material</button>` : '';
+    const cards = items.map(item => item.kind === 'collection' ? directoryCard(item) : channelGrid ? channelBlock(item.record) : blockCard(item.record));
+    const gridClass = layout === 'list' ? 'materials-list' : channelGrid ? 'materials-grid channel-grid' : 'materials-grid';
+    $('#content').innerHTML = `<div class="${gridClass}">${addTile}${cards.join('')}</div>`;
+  }
   if (optionsOpen && (focusedId || focusedAction)) requestAnimationFrame(() => {
     const menu = $('#view-options');
     if (!menu?.open || menu.dataset.page !== pageKey) return;
@@ -846,7 +863,7 @@ document.addEventListener('submit', async event => {
     else if (['delete-collection', 'delete-folder'].includes(operation.type) && currentRoute().id === operation.id) navigate(deletedParentId ? `#/folder/${deletedParentId}` : '#/collections');
     else if (['create-collection', 'create-folder'].includes(operation.type) && result.entityId) {
       showEmptyFolders = true;
-      collectionTab = 'materials';
+      collectionTab = 'all';
       navigate(`#/${operation.type === 'create-folder' ? 'folder' : 'collection'}/${result.entityId}`);
     }
     else render();
@@ -876,7 +893,7 @@ document.addEventListener('click', async event => {
     else if (action === 'connect-github') githubDialog();
     else if (action === 'disconnect-github') { await store.disconnectGitHub(); settings(); renderSaveStatus(); renderSidebar(); toast('GitHub disconnected.'); }
     else if (action === 'open-block' || action === 'search-block') { if (!detail.open) detailOpener = action === 'search-block' ? searchInput : button; if (modal.open) modal.close(); if (currentRoute().type !== 'block') lastRoute = location.hash || '#/all'; navigate(`#/block/${id}`); }
-    else if (action === 'open-collection' || action === 'search-collection') { if (modal.open) modal.close(); collectionTab = 'materials'; navigate(`#/collection/${id}`); }
+    else if (action === 'open-collection' || action === 'search-collection') { if (modal.open) modal.close(); collectionTab = 'all'; navigate(`#/collection/${id}`); }
     else if (action === 'toggle-folder') { collapsed.has(id) ? collapsed.delete(id) : collapsed.add(id); renderSidebar(); }
     else if (action === 'close-modal') modal.close();
     else if (action === 'close-detail') dismissDetail();
@@ -916,8 +933,11 @@ document.addEventListener('click', async event => {
       navigate(`#/discover/${id}`);
     }
     else if (action === 'view-network') openNetwork({ category: categoryFilter, tag: tagFilter, collection: currentRoute().type === 'collection' ? currentRoute().id : '' });
-    else if (action === 'tab-materials') { collectionTab = 'materials'; if (currentRoute().type === 'collections') navigate('#/materials'); else render(); }
-    else if (action === 'tab-collections') { collectionTab = 'collections'; if (currentRoute().type === 'materials') navigate('#/collections'); else render(); }
+    else if (['tab-all', 'tab-materials', 'tab-collections'].includes(action)) {
+      collectionTab = action.slice(4);
+      render();
+      $('#toolbar [aria-pressed="true"]')?.focus({ preventScroll: true });
+    }
     else if (action === 'view-grid' || action === 'view-list') { layout = action === 'view-grid' ? 'grid' : 'list'; render(); }
     else if (action === 'settings') settings();
     else if (action === 'extension') settings(true);
@@ -962,7 +982,7 @@ document.addEventListener('click', async event => {
 document.addEventListener('change', event => {
   if (event.target.id === 'show-empty-folders') { showEmptyFolders = event.target.checked; render(); $('#show-empty-folders')?.focus({ preventScroll: true }); }
   if (event.target.id === 'type-filter') { activeFilter = event.target.value; render(); }
-  if (event.target.id === 'sort-select') { order = event.target.value; render(); }
+  if (event.target.id === 'sort-select') { if (currentRoute().type === 'collection') channelOrder = event.target.value; else libraryOrder = event.target.value; render(); }
   if (event.target.id === 'category-filter') { categoryFilter = event.target.value; render(); }
   if (event.target.id === 'tag-filter') { tagFilter = event.target.value; render(); }
 });
@@ -1023,7 +1043,7 @@ document.addEventListener('keydown', event => {
   if (event.key === '/' && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName) && !modal.open) { event.preventDefault(); if (store) focusSearch(); }
   if (store && event.key.toLowerCase() === 'n' && !event.metaKey && !event.ctrlKey && !event.altKey && !modal.open && !detail.open && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) addMaterial();
 });
-window.addEventListener('hashchange', async () => { if (canvasView) await canvasView.flush(); activeFilter = 'all'; collectionTab = 'materials'; render(); });
+window.addEventListener('hashchange', async () => { if (canvasView) await canvasView.flush(); activeFilter = 'all'; collectionTab = 'all'; render(); });
 
 function positionViewOptions(options) {
   if (!options?.open) return;

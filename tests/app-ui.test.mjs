@@ -65,7 +65,7 @@ function library() {
     }, {
       schemaVersion: 1, id: 'c_essays', title: 'Essays', description: '', parentId: 'f_writing_sub',
       path: 'content/collections/writing/topics/essays/collection.json', createdAt, updatedAt: createdAt,
-      items: [{ kind: 'block', id: 'b_article' }],
+      items: [{ kind: 'collection', id: 'c_empty' }, { kind: 'block', id: 'b_article' }, { kind: 'collection', id: 'c_reference' }],
     }, {
       schemaVersion: 1, id: 'c_empty', title: 'Empty collection', parentId: 'f_archive',
       path: 'content/collections/archive/empty/collection.json', items: []
@@ -208,7 +208,9 @@ test('the actual app keeps collection controls available without cluttering the 
     assert.ok([...document.querySelectorAll('#sidebar .tree > .folder-group > .folder-toggle')].every(button => button.getAttribute('aria-expanded') === 'false'), 'fresh navigation starts with the thematic folders closed');
     document.querySelector('#sidebar a[href="#/collections"]').click();
     await waitFor(() => document.querySelector('.folder-browser'), 'Collections did not open the folder browser');
-    assert.ok(document.querySelector('#content .directory-open[href="#/folder/f_writing"]'), 'main folders are directly browsable');
+    const writingFolder = document.querySelector('#content .directory-open[href="#/folder/f_writing"]');
+    assert.ok(writingFolder, 'main folders are directly browsable');
+    assert.ok(writingFolder.querySelector('.directory-cover img').src.endsWith('/assets/preview.png'));
     assert.equal(document.querySelector('#content .directory-open[href="#/collection/c_essays"]'), null, 'deep subfolders do not leak into the root');
     assert.equal(document.querySelector('#content .directory-open[href="#/folder/f_graphic"]'), null, 'empty branches are hidden by default');
     document.querySelector('#content .directory-open[href="#/folder/f_writing"]').click();
@@ -220,6 +222,24 @@ test('the actual app keeps collection controls available without cluttering the 
     await waitFor(() => document.querySelector('#page-header h1')?.textContent === 'Essays', 'the material folder did not open');
     assert.deepEqual([...document.querySelectorAll('#breadcrumb a')].map(link => link.textContent), ['Collections', 'Writing', 'Topics']);
     assert.equal(document.querySelectorAll('#content .material-card').length, 1);
+    const entries = () => [...document.querySelectorAll('#content .channel-grid > [data-context-kind]')].map(card => card.dataset.contextId);
+    assert.deepEqual(entries(), ['c_empty', 'b_article', 'c_reference']);
+    assert.equal(document.querySelector('#sort-select').value, 'manual');
+    assert.equal(document.querySelector('.channel-caption .card-title').textContent, 'An article about linked ideas');
+    assert.equal(document.querySelector('.channel-add').dataset.action, 'add-material');
+    assert.equal(document.querySelector('.channel-grid .directory-open[target="_blank"]').href, 'https://www.are.na/example/inspiration');
+    document.querySelector('#toolbar [data-action="tab-collections"]').click();
+    assert.deepEqual(entries(), ['c_empty', 'c_reference']);
+    assert.equal(document.activeElement.dataset.action, 'tab-collections');
+    document.querySelector('#toolbar [data-action="tab-materials"]').click();
+    assert.deepEqual(entries(), ['b_article']);
+    document.querySelector('#toolbar [data-action="tab-all"]').click();
+    const types = document.querySelector('#type-filter');
+    types.value = 'link';
+    types.dispatchEvent(new window.Event('change', { bubbles: true }));
+    assert.deepEqual(entries(), ['b_article']);
+    document.querySelector('.filter-status [data-action="clear-filters"]').click();
+    assert.deepEqual(entries(), ['c_empty', 'b_article', 'c_reference']);
     document.querySelector('#breadcrumb a[href="#/collections"]').click();
     await waitFor(() => document.querySelector('.folder-browser'), 'the root breadcrumb did not reopen Collections');
     document.querySelector('#content .directory-open[href="#/folder/f_archive"]').click();

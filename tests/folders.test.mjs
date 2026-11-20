@@ -38,6 +38,15 @@ test('folder counts deduplicate shared materials and terminate on collection cyc
   assert.deepEqual(index.stats('folder', 'f_empty'), { materials: 0, links: 0, empty: true });
 });
 
+test('covers select distinct archived previews across cyclic connections and use text when needed', () => {
+  const catalog = fixture();
+  catalog.blocks[1].assets = [{ path: 'assets/image.jpg', mimeType: 'image/jpeg', role: 'thumbnail' }];
+  const index = createFolderIndex(catalog);
+  assert.deepEqual(index.cover('folder', 'f_main').map(block => block.id), ['b_two', 'b_one']);
+  assert.deepEqual(index.cover('folder', 'f_empty'), []);
+  assert.deepEqual(index.cover('collection', 'c_external'), []);
+});
+
 test('linked sources stay accessible as links and breadcrumbs follow physical ancestors', () => {
   const catalog = fixture(), index = createFolderIndex(catalog);
   const sources = index.contents('f_links');
