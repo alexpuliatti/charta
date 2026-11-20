@@ -189,7 +189,7 @@ test('remote asset URLs are HTTPS-only and browser exports include original byte
   const root = await mkdtemp(path.join(tmpdir(), 'jelly-remote-export-'));
   t.after(() => rm(root, { recursive: true, force: true }));
   await cp(new URL('../shared/', import.meta.url), path.join(root, 'shared'), { recursive: true });
-  for (const filename of ['store.mjs', 'operations.mjs', 'github.mjs']) await copyFile(new URL(`../web/${filename}`, import.meta.url), path.join(root, filename));
+  for (const filename of ['store.mjs', 'operations.mjs', 'github.mjs', 'browser-draft.mjs']) await copyFile(new URL(`../web/${filename}`, import.meta.url), path.join(root, filename));
   const previous = { document: globalThis.document, location: globalThis.location, fetch: globalThis.fetch };
   t.after(() => Object.assign(globalThis, previous));
   globalThis.document = { baseURI: 'https://example.test/Jelly/' };

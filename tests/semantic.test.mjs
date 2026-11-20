@@ -150,7 +150,7 @@ test('Pages build and archive export preserve semantic binary bytes without text
   // Import the real store against an isolated origin and inspect the ZIP's stored entry.
   await mkdir(path.join(root, 'shared'));
   for (const name of ['model.mjs', 'canvas.mjs', 'taxonomy.mjs', 'clip-markdown.mjs', 'uploads.mjs', 'resource-routing.mjs', 'pdf-reading.mjs', 'operations.mjs']) await copyFile(new URL(`../shared/${name}`, import.meta.url), path.join(root, 'shared', name));
-  for (const name of ['store.mjs', 'operations.mjs', 'github.mjs']) await copyFile(new URL(`../web/${name}`, import.meta.url), path.join(root, name));
+  for (const name of ['store.mjs', 'operations.mjs', 'github.mjs', 'browser-draft.mjs']) await copyFile(new URL(`../web/${name}`, import.meta.url), path.join(root, name));
   const previous = { document: globalThis.document, location: globalThis.location, fetch: globalThis.fetch };
   t.after(() => Object.assign(globalThis, previous));
   globalThis.document = { baseURI: 'https://example.test/Jelly/' };

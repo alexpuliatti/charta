@@ -270,6 +270,10 @@ export async function buildLibrary(root, out = path.join(root, 'dist'), options 
   await rm(out, { recursive: true, force: true });
   await mkdir(out, { recursive: true });
   await cp(path.join(root, 'web'), out, { recursive: true });
+  const mediaPackage = new URL('../node_modules/mediabunny/', import.meta.url);
+  await mkdir(path.join(out, 'vendor'), { recursive: true });
+  await cp(new URL('dist/bundles/mediabunny.min.mjs', mediaPackage), path.join(out, 'vendor/mediabunny.mjs'));
+  await cp(new URL('LICENSE', mediaPackage), path.join(out, 'vendor/mediabunny-LICENSE'));
   if (await exists(path.join(root, 'shared'))) await cp(path.join(root, 'shared'), path.join(out, 'shared'), { recursive: true });
   await cp(path.join(root, 'content'), path.join(out, 'content'), { recursive: true, filter: file => !file.includes(`${path.sep}_generated`) && !file.endsWith('.DS_Store') && !excluded.has(path.resolve(file)) });
   await mkdir(path.join(out, 'content', '_generated'), { recursive: true });

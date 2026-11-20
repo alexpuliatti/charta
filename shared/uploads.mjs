@@ -11,12 +11,19 @@ const ascii = (bytes, start = 0, end = bytes.length) => String.fromCharCode(...b
 
 export function bytesFromBase64(value) {
   if (typeof value !== 'string' || value.length % 4 || value.length > Math.ceil(MAX_UPLOAD_BYTES / 3) * 4 || !/^[A-Za-z0-9+/]*={0,2}$/.test(value)) throw new Error('The uploaded file is invalid or exceeds 50 MB.');
-  const bytes = Uint8Array.from(atob(value), char => char.charCodeAt(0));
+  let bytes;
+  if (Uint8Array.fromBase64) bytes = Uint8Array.fromBase64(value);
+  else {
+    const binary = atob(value);
+    bytes = new Uint8Array(binary.length);
+    for (let index = 0; index < binary.length; index++) bytes[index] = binary.charCodeAt(index);
+  }
   if (bytes.length > MAX_UPLOAD_BYTES) throw new Error('Choose a file smaller than 50 MB.');
   return bytes;
 }
 
 export function base64FromBytes(bytes) {
+  if (bytes.toBase64) return bytes.toBase64();
   let text = '';
   for (let offset = 0; offset < bytes.length; offset += 32768) text += String.fromCharCode(...bytes.subarray(offset, offset + 32768));
   return btoa(text);

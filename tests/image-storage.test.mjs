@@ -10,7 +10,7 @@ import { upgradePreviews } from '../scripts/upgrade-previews.mjs';
 const modules = await mkdtemp(path.join(tmpdir(), 'charta-image-modules-'));
 await cp(new URL('../web/', import.meta.url), modules, { recursive: true });
 await cp(new URL('../shared/', import.meta.url), path.join(modules, 'shared'), { recursive: true });
-const { optimizeImageUpload } = await import(pathToFileURL(path.join(modules, 'resources.mjs')));
+const { optimizeImageUpload, optimizeMediaUpload } = await import(pathToFileURL(path.join(modules, 'media-upload.mjs')));
 after(() => rm(modules, { recursive: true, force: true }));
 
 function encoder(t, size = 100) {
@@ -43,6 +43,29 @@ test('compression never enlarges a small original or flattens animated files', a
   const animation = new File([webp], 'Animated.webp', { type: 'image/webp' });
   assert.equal(await optimizeImageUpload(animation, e.document), animation);
   assert.equal(e.closed(), 1, 'animations never reach the still-image encoder');
+});
+
+test('video optimization checks the final size, reports progress, and cancels with the dialog', async () => {
+  const original = { name: 'large.mov', type: 'video/quicktime', size: 60 * 1024 * 1024 };
+  const compressed = new File(['encoded video'], 'large.mp4', { type: 'video/mp4' });
+  let worker, stopped = 0;
+  const document = { defaultView: { Worker: class {
+    postMessage(file) { assert.equal(file, original); worker = this; }
+    terminate() { stopped++; }
+  } } };
+  const status = [];
+  const result = optimizeMediaUpload(original, document, { onStatus: message => status.push(message) });
+  worker.onmessage({ data: { percent: 45 } });
+  worker.onmessage({ data: { file: compressed } });
+  assert.equal(await result, compressed);
+  assert.match(status.at(-1), /45%/);
+  const controller = new AbortController();
+  const canceled = optimizeMediaUpload(original, document, { signal: controller.signal });
+  controller.abort();
+  await assert.rejects(canceled, { name: 'AbortError' });
+  assert.equal(stopped, 2);
+  await assert.rejects(optimizeMediaUpload(original, { defaultView: {} }), /50 MiB/);
+  assert.equal(await optimizeMediaUpload(compressed, { defaultView: {} }), compressed);
 });
 
 test('preview repair is additive, preserves current authored metadata, and is repeatable', async t => {

@@ -87,6 +87,25 @@ test('pasted images retain exact original bytes and preview metadata without lea
   assert.equal(duplicate.alreadySaved, true);
 });
 
+test('direct uploads use the chosen collection by ID and reuse existing files across collections', () => {
+  const file = { ...imageInput(), sha256: createHash('sha256').update(png).digest('hex') };
+  let current = catalog();
+  for (const [id, title] of [['c_images', 'Images'], ['c_video', 'Video']]) {
+    current = applyOperation(current, { type: 'create-collection', id, title }).catalog;
+  }
+  const operation = { type: 'import-resource', block: { id: 'b_upload', title: 'Cover', type: 'image' }, attachments: [file], destinationId: 'c_images', destinationPath: ['Unexpected folder'] };
+  const saved = applyOperation(current, operation);
+  assert.deepEqual(saved.catalog.blocks[0].collectionIds, ['c_images']);
+  assert.deepEqual(saved.catalog.blocks[0].organization.destinationPath, ['Images']);
+  const reused = applyOperation(saved.catalog, { ...operation, destinationId: 'c_video' });
+  assert.equal(reused.catalog.blocks.length, 1);
+  assert.deepEqual(reused.catalog.blocks[0].collectionIds.sort(), ['c_images', 'c_video']);
+  assert.deepEqual(reused.writes.map(w => w.path), ['content/collections/video/collection.json']);
+  assert.deepEqual(applyOperation(reused.catalog, operation).writes, []);
+  assert.deepEqual(applyOperation(current, { ...operation, destinationId: '' }).catalog.blocks[0].collectionIds, []);
+  assert.throws(() => applyOperation(saved.catalog, { ...operation, destinationId: 'c_missing' }), /not found/);
+});
+
 test('PDF and Word text are extracted for classification while full originals remain attached', async () => {
   const document = await extractResourceDocument(pdf(), 'Portfolio.pdf', 'application/pdf');
   assert.match(document.body, /Biotech investment portfolio/);

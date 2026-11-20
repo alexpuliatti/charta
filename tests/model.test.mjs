@@ -237,7 +237,7 @@ test('browser export creates a standard ZIP with canonical files', async () => {
   try {
     await mkdir(path.join(root, 'shared'));
     await copyFile(new URL('../web/store.mjs', import.meta.url), path.join(root, 'store.mjs'));
-    for (const name of ['operations.mjs', 'github.mjs']) await copyFile(new URL(`../web/${name}`, import.meta.url), path.join(root, name));
+    for (const name of ['operations.mjs', 'github.mjs', 'browser-draft.mjs']) await copyFile(new URL(`../web/${name}`, import.meta.url), path.join(root, name));
     await copyFile(new URL('../shared/model.mjs', import.meta.url), path.join(root, 'shared/model.mjs'));
     await copyFile(new URL('../shared/canvas.mjs', import.meta.url), path.join(root, 'shared/canvas.mjs'));
     await copyFile(new URL('../shared/taxonomy.mjs', import.meta.url), path.join(root, 'shared/taxonomy.mjs'));

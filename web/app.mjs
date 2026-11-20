@@ -595,7 +595,7 @@ function collectionOptions(selected = []) { return `<option value=""${selected.i
 function addMaterial(type = 'link', draft = {}) {
   const route = currentRoute();
   const target = route.type === 'collection' ? route.id : '';
-  showModal(`${dialogHeader('Add material')}<form class="dialog-body" id="material-form" data-type="${type}"><div class="input-tabs" role="group" aria-label="Material type"><button type="button" data-action="material-link" class="${type === 'link' ? 'active' : ''}">${icon('link')} Link</button><button type="button" data-action="material-note" class="${type === 'text' ? 'active' : ''}">${icon('text')} Note</button></div>${type === 'link' ? field('url', 'Web address', draft.url, 'url', 'https://example.com') : ''}${field('title', 'Title', draft.title, 'text', 'Title')}${type === 'text' ? textarea('body', 'Text', draft.body) : textarea('description', 'Note', draft.description)}${taxonomyFields(draft)}<div class="form-field"><label for="field-collection">Save in</label><select name="collection" id="field-collection">${collectionOptions([draft.collection ?? target])}</select></div>${store.mode === 'browser' ? '<p class="form-hint">Saved in this browser. Export your library or connect a folder in settings to keep the files.</p>' : ''}${formEnd('Save material')}</form>`);
+  showModal(`${dialogHeader('Add material')}<form class="dialog-body" id="material-form" data-type="${type}"><div class="input-tabs" role="group" aria-label="Material type"><button type="button" data-action="material-link" class="${type === 'link' ? 'active' : ''}">${icon('link')} Link</button><button type="button" data-action="material-note" class="${type === 'text' ? 'active' : ''}">${icon('text')} Note</button><button type="button" data-action="material-file">${icon('file')} File</button></div>${type === 'link' ? field('url', 'Web address', draft.url, 'url', 'https://example.com') : ''}${field('title', 'Title', draft.title, 'text', 'Title')}${type === 'text' ? textarea('body', 'Text', draft.body) : textarea('description', 'Note', draft.description)}${taxonomyFields(draft)}<div class="form-field"><label for="field-collection">Save in</label><select name="collection" id="field-collection">${collectionOptions([draft.collection ?? target])}</select></div>${store.mode === 'browser' ? '<p class="form-hint">Saved in this browser. Export your library or connect a folder in settings to keep the files.</p>' : ''}${formEnd('Save material')}</form>`);
 }
 
 function containerDialog(kind = 'collection') {
@@ -888,7 +888,10 @@ document.addEventListener('click', async event => {
       button.title = info.hidden ? 'Show tags and information' : 'Hide tags and information';
     }
     else if (action === 'add-material') addMaterial();
-    else if (action === 'add-resource') openResourceComposer({ document, dialog: modal, showModal, store, icon, onSaved: () => { render(); renderSaveStatus(); } });
+    else if (action === 'add-resource' || action === 'material-file') {
+      const draft = action === 'material-file' ? Object.fromEntries(new FormData($('#material-form'))) : null;
+      openResourceComposer({ document, dialog: modal, showModal, store, icon, draft, onSaved: () => { render(); renderSaveStatus(); } });
+    }
     else if (action === 'new-folder' || action === 'new-subfolder') newFolderDialog(action === 'new-subfolder' ? 'collection' : 'folder');
     else if (action === 'show-empty-folders') { showEmptyFolders = true; render(); }
     else if (action === 'new-container' || action === 'container-collection') containerDialog();

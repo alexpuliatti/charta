@@ -2,6 +2,7 @@ import { newId } from './shared/model.mjs';
 import { CANVAS_COLORS, canvasBounds, connectionPath, validateCanvases } from './shared/canvas.mjs';
 import { aiEndpoint, requestCanvasAI } from './shared/canvas-ai.mjs';
 import { base64FromBytes, detectUpload, MAX_UPLOAD_BYTES } from './shared/uploads.mjs';
+import { optimizeImageUpload } from './media-upload.mjs';
 import { previewAsset, assetURL } from './media.mjs';
 import { stripFrontmatter } from './shared/clip-markdown.mjs';
 
@@ -200,8 +201,10 @@ export function renderCanvas(container, store, options = {}) {
     const link = doc.createElement('a'); link.href = url; link.download = `${board.title.replace(/[^a-zA-Z0-9_-]+/g, '-').slice(0, 70) || 'canvas'}.canvas.json`; link.click(); setTimeout(() => URL.revokeObjectURL(url), 1000);
   }
   async function upload(files, position) {
-    for (const [index, file] of [...files].entries()) {
-      if (file.size > MAX_UPLOAD_BYTES) { notify('Choose an image smaller than 50 MB.'); continue; }
+    for (const [index, original] of [...files].entries()) {
+      const file = await optimizeImageUpload(original, doc);
+      if (signal.aborted) return;
+      if (file.size > MAX_UPLOAD_BYTES) { notify('This image still exceeds 50 MiB after browser optimization. Choose a smaller image.'); continue; }
       const bytes = new Uint8Array(await file.arrayBuffer()), format = detectUpload(bytes, file.name, file.type);
       if (format.type !== 'image') { notify('Canvas uploads support PNG, JPEG, WebP, GIF, and AVIF images.'); continue; }
       const result = await store.apply({ type: 'add-block', block: { id: newId('b'), title: file.name || 'Pasted image', type: 'image', category: 'Canvas', tags: ['canvas'] }, attachments: [{ name: file.name || 'image.png', type: format.mimeType, data: base64FromBytes(bytes) }] });

@@ -2,6 +2,7 @@ import { applyOperation, canonicalRecord, canonicalContentPaths, safeContentPath
 import { intendedOperation, assertNoExternalConflict, canonicalFiles, operationBase } from './operations.mjs';
 import { GitHubLibrary, validateRepository } from './github.mjs';
 import { bytesFromBase64, mutationBytes } from './shared/uploads.mjs';
+import { readDraft, saveDraft, clearDraft } from './browser-draft.mjs';
 
 const BASE = new URL('./', document.baseURI);
 // Keep the original keys so the Charta rebrand preserves drafts and connections.
@@ -168,6 +169,7 @@ export function createZip(files) {
 export class LibraryStore {
   constructor(catalog, mode) {
     this.catalog = catalog; this.mode = mode; this.directoryHandle = null; this.upstreamChanged = false;
+    this.hasLocalService = mode === 'repository';
     this.queue = Promise.resolve(); this.github = null; this.githubConfig = null; this.saveState = 'idle'; this.onStatus = null;
     try { const saved = localStorage.getItem(GITHUB_KEY); if (saved) this.githubConfig = validateRepository(JSON.parse(saved)); } catch { /* Invalid preferences do not prevent browsing. */ }
   }
@@ -187,11 +189,10 @@ export class LibraryStore {
     if (!response.ok) throw new Error('The library catalog could not be loaded. Run npm run build first.');
     const catalog = await response.json();
     validateCatalog(catalog);
-    let saved;
-    try { saved = localStorage.getItem(KEY); } catch { /* Read-only browsing is still available. */ }
+    const saved = await readDraft(KEY);
     if (saved) {
       try {
-        const draft = validateCatalog(JSON.parse(saved));
+        const draft = validateCatalog(saved);
         const store = new LibraryStore(hydrateDraftUploads(draft), 'browser');
         store.upstreamChanged = draft.sourceCommit !== catalog.sourceCommit;
         return store;
@@ -277,8 +278,7 @@ export class LibraryStore {
       releaseAssetURLs(this.catalog);
     } else {
       rememberUploads(preview.catalog, preview.writes);
-      try { localStorage.setItem(KEY, JSON.stringify(preview.catalog)); }
-      catch { throw new Error('This browser could not save the draft. Connect a local folder or free some site storage, then try again.'); }
+      await saveDraft(KEY, preview.catalog);
       hydrateDraftUploads(preview.catalog);
       releaseAssetURLs(this.catalog);
     }
@@ -315,7 +315,7 @@ export class LibraryStore {
   async disconnectGitHub() {
     await this.queue;
     // Keep the last confirmed snapshot available when the connection is removed.
-    localStorage.setItem(KEY, JSON.stringify(this.catalog));
+    await saveDraft(KEY, this.catalog);
     localStorage.removeItem(GITHUB_KEY);
     this.github = null; this.githubConfig = null; this.mode = 'browser'; this.lastCommit = '';
     this.status('idle');
@@ -369,7 +369,8 @@ export class LibraryStore {
     const response = await fetch(new URL('content/_generated/catalog.json', BASE), { cache: 'no-store' });
     if (!response.ok) throw new Error('The original library could not be loaded.');
     const original = validateCatalog(await response.json());
-    localStorage.removeItem(KEY);
+    await clearDraft(KEY);
+    releaseAssetURLs(this.catalog);
     this.catalog = original;
     this.upstreamChanged = false;
     return this.catalog;

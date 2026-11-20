@@ -2,7 +2,7 @@ import { validateCanvases } from './canvas.mjs';
 import { normalizeCategory, normalizeTags, normalizeTaxonomy } from './taxonomy.mjs';
 import { serializeMarkdown, stripFrontmatter } from './clip-markdown.mjs';
 import { validatedAttachments } from './uploads.mjs';
-import { normalizedResourceURL } from './resource-routing.mjs';
+import { normalizedResourceURL, resourceFolderPath } from './resource-routing.mjs';
 import { emptyPDFReading, validatePDFReading, validatePDFReadings } from './pdf-reading.mjs';
 
 const ID = /^[a-zA-Z][a-zA-Z0-9_-]{0,100}$/;
@@ -231,11 +231,20 @@ export function applyOperation(input, operation) {
       const url = normalizedResourceURL(input.source?.url);
       const fileHash = operation.attachments?.find(file => file.role !== 'thumbnail')?.sha256;
       const duplicate = catalog.blocks.find(block => (url && normalizedResourceURL(block.source?.url) === url) || (fileHash && /^[a-f0-9]{64}$/.test(fileHash) && block.assets.some(asset => asset.role === 'original' && asset.sha256 === fileHash)) || (block.id === resourceId && block.ingest?.operationId === resourceId));
-      if (duplicate) return { catalog, writes: [], entityId: duplicate.id, alreadySaved: true, destinationId: catalog.collections.find(c => c.items.some(item => item.kind === 'block' && item.id === duplicate.id))?.id || '' };
+      const chosen = operation.destinationId ? collection(operation.destinationId) : null;
+      if (duplicate) {
+        const membership = c => c.items.some(item => item.kind === 'block' && item.id === duplicate.id);
+        if (chosen && !membership(chosen)) {
+          const ids = catalog.collections.filter(membership).map(c => c.id);
+          const result = applyOperation(catalog, { type: 'connect', blockId: duplicate.id, collectionIds: [...ids, chosen.id] });
+          return { ...result, entityId: duplicate.id, alreadySaved: true, destinationId: chosen.id };
+        }
+        return { catalog, writes: [], entityId: duplicate.id, alreadySaved: true, destinationId: operation.destinationId ?? catalog.collections.find(membership)?.id ?? '' };
+      }
       if (catalog.blocks.some(block => block.id === resourceId)) throw new Error('This resource ID is already in use.');
-      const destination = operation.destinationPath || [];
+      const destination = operation.destinationId === undefined ? operation.destinationPath || [] : [];
       if (!Array.isArray(destination) || destination.length > 6 || destination.some(part => typeof part !== 'string' || !part.trim() || part.length > 120)) throw new Error('The resource destination is invalid.');
-      let next = catalog, parentId = null, destinationId = '';
+      let next = catalog, parentId = null, destinationId = chosen?.id || '';
       const allWrites = new Map();
       const merge = result => { next = result.catalog; for (const entry of result.writes) allWrites.set(entry.path, entry); return result.entityId; };
       for (const [index, name] of destination.entries()) {
@@ -246,7 +255,7 @@ export function applyOperation(input, operation) {
         else parentId = containerId;
       }
       const classification = operation.classification || {};
-      const organization = { method: string(classification.method || 'resource-import-v1', 'Classification method', 80), reason: string(classification.reason || '', 'Classification reason', 500), confidence: Math.max(0, Math.min(1, Number(classification.confidence) || 0)), destinationPath: destination };
+      const organization = { method: string(classification.method || 'resource-import-v1', 'Classification method', 80), reason: string(classification.reason || '', 'Classification reason', 500), confidence: Math.max(0, Math.min(1, Number(classification.confidence) || 0)), destinationPath: chosen ? resourceFolderPath(catalog, chosen.id) : destination };
       const result = applyOperation(next, { type: 'add-block', block: { ...input, id: resourceId, organization }, body: operation.body || '', attachments: operation.attachments || [], collectionIds: destinationId ? [destinationId] : [] });
       merge(result);
       return { catalog: next, writes: [...allWrites.values()], entityId: resourceId, alreadySaved: false, destinationId };

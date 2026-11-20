@@ -652,6 +652,13 @@ test('the actual app keeps collection controls available without cluttering the 
     submit(document.querySelector('#material-form'));
     await waitFor(() => document.querySelectorAll('#content .material-card').length === 1, 'saving into a subfolder did not update its material list');
     assert.deepEqual(liveCatalog.blocks.find(block => block.title === 'A filed note').collectionIds, [notes.id]);
+    document.querySelector('#page-header [data-action="add-material"]').click();
+    document.querySelector('[data-action="material-file"]').click();
+    assert.equal(document.querySelector('#resource-heading').textContent, 'Upload file');
+    assert.equal(document.querySelector('.resource-eyebrow').textContent, 'Personal / Notes');
+    assert.match(document.querySelector('#resource-file-input').accept, /image\/\*,video\/\*/);
+    assert.equal(document.querySelector('.resource-submit').disabled, true);
+    modal.close();
     document.querySelector(`#breadcrumb a[href="#/folder/${personal.id}"]`).click();
     await waitFor(() => document.querySelector('.folder-browser'), 'the parent breadcrumb did not reopen the folder');
     assert.ok(document.querySelector(`#content .directory-open[href="#/collection/${notes.id}"]`));
