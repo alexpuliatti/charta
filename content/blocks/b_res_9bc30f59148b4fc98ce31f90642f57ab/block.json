@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_9bc30f59148b4fc98ce31f90642f57ab",
+  "type": "video",
+  "title": "ivy",
+  "source": {},
+  "description": "",
+  "category": "Uncategorized",
+  "tags": [
+    "video"
+  ],
+  "assets": [
+    {
+      "path": "assets/original.mp4",
+      "mimeType": "video/mp4",
+      "role": "original",
+      "originalName": "ivy.mp4",
+      "bytes": 93507,
+      "sha256": "798459e3944affc1254e62e6269233eb93ac13acec63be11737e7b0b0cfa6c62"
+    },
+    {
+      "path": "assets/thumbnail.jpg",
+      "mimeType": "image/jpeg",
+      "role": "thumbnail",
+      "originalName": "Video preview.jpg",
+      "bytes": 27416,
+      "sha256": "9ad66d1159e5558b76328f47708dd0137c1f6ca6fce3a91e1e09ffb0f0938556"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-20T10:41:27.780Z",
+  "updatedAt": "2026-11-20T10:41:27.780Z",
+  "ingest": {
+    "operationId": "b_res_9bc30f59148b4fc98ce31f90642f57ab"
+  },
+  "organization": {
+    "method": "content-rules-v1",
+    "reason": "Saved in All materials because no folder matched confidently.",
+    "confidence": 0.2,
+    "destinationPath": []
+  }
+}
