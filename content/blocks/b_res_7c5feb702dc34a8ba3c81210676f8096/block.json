@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_7c5feb702dc34a8ba3c81210676f8096",
+  "type": "video",
+  "title": "callum",
+  "source": {},
+  "description": "",
+  "category": "Uncategorized",
+  "tags": [
+    "video"
+  ],
+  "assets": [
+    {
+      "path": "assets/original.mp4",
+      "mimeType": "video/mp4",
+      "role": "original",
+      "originalName": "callum.mp4",
+      "bytes": 86548,
+      "sha256": "a9a8f05ec32bd040eee4daf627233fa3a61e5eeba7e3efe3fc9cf9b3e6f94a52"
+    },
+    {
+      "path": "assets/thumbnail.jpg",
+      "mimeType": "image/jpeg",
+      "role": "thumbnail",
+      "originalName": "Video preview.jpg",
+      "bytes": 27273,
+      "sha256": "72f096fa38dfcbca11d7a6b793457ad9970a3d6dbc73ce7fdb196e05f37ea02b"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-20T10:42:36.597Z",
+  "updatedAt": "2026-11-20T10:42:36.597Z",
+  "ingest": {
+    "operationId": "b_res_7c5feb702dc34a8ba3c81210676f8096"
+  },
+  "organization": {
+    "method": "content-rules-v1",
+    "reason": "Saved in All materials because no folder matched confidently.",
+    "confidence": 0.2,
+    "destinationPath": []
+  }
+}
