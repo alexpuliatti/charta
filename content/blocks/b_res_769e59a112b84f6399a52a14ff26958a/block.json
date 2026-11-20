@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "b_res_769e59a112b84f6399a52a14ff26958a",
+  "type": "video",
+  "title": "piper",
+  "source": {},
+  "description": "",
+  "category": "Uncategorized",
+  "tags": [
+    "video"
+  ],
+  "assets": [
+    {
+      "path": "assets/original.mp4",
+      "mimeType": "video/mp4",
+      "role": "original",
+      "originalName": "piper.mp4",
+      "bytes": 86122,
+      "sha256": "579f8cbd1a8d6ef55177b531435514922035f486f0bf53e5dc363b482eda9b42"
+    },
+    {
+      "path": "assets/thumbnail.jpg",
+      "mimeType": "image/jpeg",
+      "role": "thumbnail",
+      "originalName": "Video preview.jpg",
+      "bytes": 24521,
+      "sha256": "b575ce4683f2a7f8512c48e11d8958612075b298adedd64f325a60df86cb7fff"
+    }
+  ],
+  "related": [],
+  "createdAt": "2026-11-20T10:42:52.439Z",
+  "updatedAt": "2026-11-20T10:42:52.439Z",
+  "ingest": {
+    "operationId": "b_res_769e59a112b84f6399a52a14ff26958a"
+  },
+  "organization": {
+    "method": "content-rules-v1",
+    "reason": "Saved in All materials because no folder matched confidently.",
+    "confidence": 0.2,
+    "destinationPath": []
+  }
+}
